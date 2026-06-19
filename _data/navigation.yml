@@ -1,0 +1,831 @@
+sidebar_generated:
+- title: Directed Energy
+  title_full: Directed Ener
+  url: /directed-ener/
+  children:
+  - title: Atmosphere
+    title_full: Why Bad Weather Matters for Laser Weapons
+    url: /atmosphere/
+    children:
+    - title: Beam Control
+      title_full: How Much Can Beam Control Fix?
+      url: /beam-control/
+      children:
+      - title: Blooming Limits
+        title_full: Why Self Heated Air Still Defeats Smart Mirrors
+        url: /blooming-limits/
+      - title: Lost Energy
+        title_full: Why Better Beam Shape Cannot Beat Lost Energy
+        url: /lost-energy/
+      - title: Target Beacons
+        title_full: How Lasers Read the Air Before They Fire
+        url: /target-beacons/
+    - title: Blooming
+      title_full: When a Laser Gets in Its Own Way
+      url: /blooming/
+      children:
+      - title: Beam Size
+        title_full: Can a Wider Beam Beat Thermal Blooming?
+        url: /beam-size/
+      - title: Crosswinds
+        title_full: When Wind Helps a Laser Stay Focused
+        url: /crosswinds/
+      - title: Head On Shots
+        title_full: Why Head On Targets Can Make Lasers Bloom
+        url: /head-on-shots/
+    - title: Dwell Time
+      title_full: Seeing the Target Is Only Step One
+      url: /dwell-time/
+      children:
+      - title: Dragon Fire
+        title_full: What Dragon Fire Reveals About Laser Precision
+        url: /dragon-fire-3eb328/
+      - title: Dwell Time
+        title_full: Why Speed of Light Shots Still Need Time
+        url: /dwell-time-3969ca/
+      - title: Moving Targets
+        title_full: Why Moving Drones Are Hard Laser Targets
+        url: /moving-targets/
+    - title: Fog Range
+      title_full: Why Fog Can Beat a Laser Beam
+      url: /fog-range/
+      children:
+      - title: Beam Control
+        title_full: Can Technology Beat Foggy Laser Weather?
+        url: /beam-control-6ba0db/
+      - title: Fog Droplets
+        title_full: Which Fog Hurts Laser Range Most?
+        url: /fog-droplets/
+      - title: Visible Targets
+        title_full: Why Seeing a Target Is Not Enough
+        url: /visible-targets/
+    - title: Sea Spray
+      title_full: Can Ship Lasers Fight Through Sea Spray?
+      url: /sea-spray/
+      children:
+      - title: Fog vs Rain
+        title_full: Why Fog Beats Rain Against Ship Lasers
+        url: /fog-vs-rain/
+      - title: Range Limits
+        title_full: How Bad Weather Shrinks Laser Range
+        url: /range-limits/
+      - title: Sea Spray
+        title_full: The Invisible Spray Problem for Naval Lasers
+        url: /sea-spray-845f75/
+  - title: Defence Layer
+    title_full: Why Directed Energy Will Not Replace Missiles
+    url: /defence-layer/
+    children:
+    - title: A Laser Can Be The Cheapest Shot In An Air...
+      title_full: When Is a Laser the Wrong Shot?
+      url: /a-laser-can-be-the-cheapest-shot-in-an/
+      children:
+      - title: Cruise Missiles
+        title_full: Why Cruise Missiles Still Get Missiles
+        url: /cruise-missiles/
+      - title: Layered Defence
+        title_full: How Lasers Save Missiles for Later
+        url: /layered-defence-8ddb35/
+      - title: Weather Risk
+        title_full: When Bad Weather Beats a Laser
+        url: /weather-risk/
+    - title: Base Defence
+      title_full: Why Bases May Get Lasers First
+      url: /base-defence/
+      children:
+      - title: Cheap Shots
+        title_full: Can Lasers Make Drone Defence Affordable?
+        url: /cheap-shots/
+      - title: Defence Network
+        title_full: Why A Laser Is Not The Whole Defence
+        url: /defence-network/
+      - title: Mobile Limits
+        title_full: Why Battlefield Lasers Are Hard To Keep Running
+        url: /mobile-limits/
+    - title: Kill Check
+      title_full: How Do You Know the Beam Worked?
+      url: /kill-check/
+      children:
+      - title: Flight Clues
+        title_full: When a Damaged Drone Still Looks Alive
+        url: /flight-clues/
+      - title: Handoff Choice
+        title_full: When Should Defenders Fire the Next Weapon?
+        url: /handoff-choice/
+      - title: Microwave Check
+        title_full: Did the Microwave Stop the Drone for Good?
+        url: /microwave-check/
+    - title: Microwave Risk
+      title_full: The Swarm Weapon That Cannot Be Too Broad
+      url: /microwave-risk/
+      children:
+      - title: Fire Rules
+        title_full: Who Decides When a Microwave Weapon Fires?
+        url: /fire-rules/
+      - title: Friendly Risk
+        title_full: What Else Gets Hit by a Microwave Weapon?
+        url: /friendly-risk/
+      - title: One Shot
+        title_full: Can One Microwave Shot Stop a Swarm?
+        url: /one-shot/
+    - title: Sensor Chain
+      title_full: The Beam Is Only Half the Weapon
+      url: /sensor-chain/
+      children:
+      - title: Drone Detection
+        title_full: Why Tiny Drones Beat Big Sensors
+        url: /drone-detection/
+      - title: Sensor Fusion
+        title_full: How Lasers Find One Target in Clutter
+        url: /sensor-fusion/
+      - title: Swarm Saturation
+        title_full: Can Laser Defences Think Fast Enough?
+        url: /swarm-saturation/
+  - title: Dragon Fire
+    title_full: What Dragon Fire Reveals About Battlefield Lasers
+    url: /dragon-fire/
+    children:
+    - title: Drone Defence
+      title_full: Can Dragon Fire Change Drone Defence?
+      url: /drone-defence/
+      children:
+      - title: 650 Km H
+        title_full: Did High Speed Drone Kills Prove Combat Readiness?
+        url: /650-km-h/
+      - title: Layered Defence
+        title_full: Where Does Dragon Fire Fit in Naval Defence?
+        url: /layered-defence-b6d947/
+      - title: Missile Savings
+        title_full: Can Cheap Laser Shots Preserve Expensive Missiles?
+        url: /missile-savings/
+    - title: Hebrides Trials
+      title_full: Why the Hebrides Laser Trials Mattered
+      url: /hebrides-trials/
+      children:
+      - title: Engagement Chain
+        title_full: The Hard Part Was Not Just Firing the Laser
+        url: /engagement-chain/
+      - title: Hebrides Test
+        title_full: When Dragon Fire Became More Than a Lab Laser
+        url: /hebrides-test/
+      - title: Open Questions
+        title_full: What the Dragon Fire Trial Did Not Prove
+        url: /open-questions/
+    - title: Laser Limits
+      title_full: What Can Stop a Shipboard Laser?
+      url: /laser-limits/
+      children:
+      - title: Dwell Time
+        title_full: The Seconds That Decide a Laser Kill
+        url: /dwell-time-eb4cb1/
+      - title: Fog and Spray
+        title_full: When Bad Weather Shortens a Laser Shot
+        url: /fog-and-spray/
+      - title: Horizon Limit
+        title_full: Why Lasers Cannot Shoot Past the Horizon
+        url: /horizon-limit/
+    - title: Shot Cost
+      title_full: Is Dragon Fire Really Cheap to Fire?
+      url: /shot-cost-c8169f/
+      children:
+      - title: 10 Shot
+        title_full: What Does a £10 Laser Shot Actually Mean?
+        url: /10-shot/
+      - title: Programme Cost
+        title_full: Why Is a Cheap Laser So Expensive?
+        url: /programme-cost/
+      - title: Real Savings
+        title_full: When Do Cheap Laser Shots Pay Off?
+        url: /real-savings/
+    - title: Type 45 Fit
+      title_full: What Happens When Dragon Fire Goes to Sea?
+      url: /type-45-fit/
+      children:
+      - title: Combat Choices
+        title_full: When Would a Type 45 Fire Dragon Fire
+        url: /combat-choices/
+      - title: Sea Conditions
+        title_full: Can Dragon Fire Work on a Moving Warship
+        url: /sea-conditions/
+      - title: Why Type 45
+        title_full: Why Dragon Fire Is Going to a Type 45
+        url: /why-type-45/
+  - title: Electronics Risk
+    title_full: When Counter Drone Energy Hits the Wrong Electronics
+    url: /electronics-risk/
+    children:
+    - title: Airbase Zones
+      title_full: How Safe Is a Microwave Shot Near Aircraft?
+      url: /airbase-zones/
+      children:
+      - title: Aircraft Risk
+        title_full: When Aircraft Movement Makes Microwave Shots Unsafe
+        url: /aircraft-risk/
+      - title: Sector Control
+        title_full: How Airbases Clear Microwave Firing Zones
+        url: /sector-control/
+      - title: Swarm Problem
+        title_full: Why Swarms Complicate Microwave Safety Zones
+        url: /swarm-problem/
+    - title: Airport Safety
+      title_full: Can Airports Use Directed Energy Safely?
+      url: /airport-safety/
+      children:
+      - title: Detection First
+        title_full: Why Airports Often Detect Before They Disable
+        url: /detection-first/
+      - title: Gatwick Lesson
+        title_full: What Gatwick Taught Airports About Drone Uncertainty
+        url: /gatwick-lesson/
+      - title: Jamming Risk
+        title_full: Why Jamming a Drone Can Risk a Runway
+        url: /jamming-risk/
+    - title: Field Testing
+      title_full: Why Safe on the Range May Fail in the Field
+      url: /field-testing/
+      children:
+      - title: Firing Rules
+        title_full: How Tests Become Safe Firing Rules
+        url: /firing-rules/
+      - title: Radio Coupling
+        title_full: Why Friendly Radios Are First to Fail
+        url: /radio-coupling/
+      - title: Vehicle Tests
+        title_full: Why One Safe Part Does Not Mean a Safe Vehicle
+        url: /vehicle-tests/
+    - title: Friendly Drones
+      title_full: The Friendly Drone Problem in Swarm Defence
+      url: /friendly-drones/
+      children:
+      - title: Clearance Calls
+        title_full: When Should Friendly Drones Get Out?
+        url: /clearance-calls/
+      - title: Pulse Effects
+        title_full: What Happens Inside an Exposed Drone?
+        url: /pulse-effects/
+      - title: Recon Risk
+        title_full: Can Defence Shots Blind Their Own Force?
+        url: /recon-risk/
+    - title: Spillover Risk
+      title_full: When the Beam Hits More Than the Drone
+      url: /spillover-risk/
+      children:
+      - title: Cable Paths
+        title_full: When Cables Become Unintended Antennas
+        url: /cable-paths/
+      - title: Radio Risk
+        title_full: Why Radios Are So Exposed to Spillover
+        url: /radio-risk/
+      - title: Reflections
+        title_full: Why Spillover Does Not Stay in the Beam
+        url: /reflections/
+  - title: Engineering
+    title_full: What the Beam Needs Behind the Scenes
+    url: /engineering/
+    children:
+    - title: Aim Point
+      title_full: Why Holding the Beam Matters Most
+      url: /aim-point/
+      children:
+      - title: Adaptive Optics
+        title_full: Can Lasers Beat Turbulent Air?
+        url: /adaptive-optics/
+      - title: Beam Jitter
+        title_full: Why Tiny Beam Jitters Matter So Much
+        url: /beam-jitter/
+      - title: Steering Mirrors
+        title_full: The Fast Mirrors Behind Laser Aim
+        url: /steering-mirrors/
+    - title: Fielding Gap
+      title_full: From Test Shot to Real Weapon
+      url: /fielding-gap/
+      children:
+      - title: Maintenance Gap
+        title_full: The Hidden Work After a Laser Shot
+        url: /maintenance-gap/
+      - title: Moving Targets
+        title_full: Why Hitting Moving Targets Is Harder
+        url: /moving-targets-55ce00/
+      - title: Weather Limits
+        title_full: Can Bad Weather Beat a Laser Weapon?
+        url: /weather-limits-938207/
+    - title: Heat Limits
+      title_full: The Hidden Heat Problem Behind Laser Weapons
+      url: /heat-limits/
+      children:
+      - title: Beam Quality
+        title_full: Why Hot Lasers Lose Their Aim
+        url: /beam-quality/
+      - title: Drone Swarms
+        title_full: Can Lasers Keep Up With Drone Swarms?
+        url: /drone-swarms/
+      - title: Thermal Storage
+        title_full: The Hidden Heat Sink Behind Laser Firepower
+        url: /thermal-storage/
+    - title: Host Platforms
+      title_full: Why Ships Get Lasers Before Aircraft
+      url: /host-platforms/
+      children:
+      - title: Airborne Limits
+        title_full: Why Aircraft Lasers Are Harder Than They Look
+        url: /airborne-limits/
+      - title: Power Grids
+        title_full: Can a Warship Spare Power for Lasers?
+        url: /power-grids/
+      - title: Sea Cooling
+        title_full: Why the Ocean Helps Ship Lasers Fire Again
+        url: /sea-cooling/
+    - title: Power Demand
+      title_full: Why Lasers Still Need Serious Power
+      url: /power-demand/
+      children:
+      - title: Cooling
+        title_full: The Heat Problem Behind Laser Rate of Fire
+        url: /cooling/
+      - title: Efficiency
+        title_full: Why Laser Efficiency Matters Twice
+        url: /efficiency/
+      - title: Platforms
+        title_full: Why Ships Have the Laser Advantage
+        url: /platforms/
+  - title: HELIOS
+    title_full: Can Shipboard Lasers Defend at Sea?
+    url: /helios/
+    children:
+    - title: Aegis Link
+      title_full: Why Integration Is the Real Laser Breakthrough
+      url: /aegis-link/
+      children:
+      - title: Aegis Cueing
+        title_full: Why Target Cueing Matters More Than Beam Power
+        url: /aegis-cueing/
+      - title: Integration Test
+        title_full: Is HELIOS a Weapon or a Demonstration?
+        url: /integration-test/
+      - title: Weapon Choice
+        title_full: When Should a Destroyer Use a Laser?
+        url: /weapon-choice/
+    - title: Dazzler Role
+      title_full: When Blinding Sensors Beats Burning Drones
+      url: /dazzler-role/
+      children:
+      - title: Drone Cameras
+        title_full: How a Laser Can Stop a Drone Seeing
+        url: /drone-cameras/
+      - title: Escalation
+        title_full: Why Blinding Sensors Can Be the Safer Move
+        url: /escalation/
+      - title: Limits
+        title_full: When Sensor Dazzling May Not Be Enough
+        url: /limits/
+    - title: Laser Lineage
+      title_full: How Navy Lasers Moved From Trials to Ships
+      url: /laser-lineage/
+      children:
+      - title: HELIOS
+        title_full: What HELIOS Changes on a Destroyer
+        url: /helios-0d4e6d/
+      - title: USS Ponce
+        title_full: Why USS Ponce Made Lasers Feel Real
+        url: /uss-ponce/
+      - title: USS Portland
+        title_full: How Portland Raised the Target Bar
+        url: /uss-portland/
+    - title: Preble Test
+      title_full: What Did the Preble Laser Test Prove?
+      url: /preble-test/
+      children:
+      - title: Defense Role
+        title_full: Can HELIOS Replace Ship Missiles?
+        url: /defense-role/
+      - title: Missing Data
+        title_full: The Missing Details Behind the Laser Hit
+        url: /missing-data/
+      - title: Proven Result
+        title_full: What Did the Preble Laser Test Prove?
+        url: /proven-result/
+    - title: Threat Boundary
+      title_full: Which Threats Can HELIOS Realistically Stop?
+      url: /threat-boundary/
+      children:
+      - title: Drone Dwell
+        title_full: Why Small Drones Are Laser Friendly Targets
+        url: /drone-dwell/
+      - title: Preble Test
+        title_full: What One HELIOS Drone Test Really Proved
+        url: /preble-test-2ed0d5/
+      - title: Swarm Limits
+        title_full: Can One Laser Stop a Drone Swarm?
+        url: /swarm-limits/
+  - title: Laser vs Microwave
+    title_full: 'Lasers or Microwaves: Which Threat Fits Which Beam?'
+    url: /laser-vs-microwave/
+    children:
+    - title: Electronics Risk
+      title_full: What Else Is In The Microwave Beam?
+      url: /electronics-risk-73f9c7/
+      children:
+      - title: Effect Volume
+        title_full: Why Microwave Beams Do Not Know Friend From Foe
+        url: /effect-volume/
+      - title: Exclusion Zones
+        title_full: Where Friendly Gear Must Stay Out of the Beam
+        url: /exclusion-zones/
+      - title: Protected Sensors
+        title_full: Can Friendly Radios Survive a Microwave Shot?
+        url: /protected-sensors/
+    - title: Layered Defence
+      title_full: Why Directed Energy Still Needs Backup
+      url: /layered-defence-da4e6e/
+      children:
+      - title: Missile Savings
+        title_full: When Should Lasers Save the Missiles?
+        url: /missile-savings-dab713/
+      - title: Swarm Microwave
+        title_full: Can Microwaves Really Stop a Drone Swarm?
+        url: /swarm-microwave/
+      - title: Weather Guns
+        title_full: Why Guns Still Matter in Bad Weather
+        url: /weather-guns/
+    - title: Single Drones
+      title_full: When Is A Laser The Cleaner Kill?
+      url: /single-drones/
+      children:
+      - title: Aim Points
+        title_full: Why the Aim Point Can Decide the Kill
+        url: /aim-points/
+      - title: Bad Weather
+        title_full: When Weather Turns Precision Into a Problem
+        url: /bad-weather/
+      - title: Collateral Risk
+        title_full: When Precision Matters More Than Coverage
+        url: /collateral-risk-131c00/
+    - title: Swarms
+      title_full: Why Swarms Change The Weapon Choice
+      url: /swarms/
+      children:
+      - title: Batch Defeat
+        title_full: Can One Microwave Burst Stop Several Drones?
+        url: /batch-defeat/
+      - title: Laser Queues
+        title_full: Why Drone Swarms Turn Lasers Into Queues
+        url: /laser-queues/
+      - title: Swarm Adaptation
+        title_full: How Swarms Fight Back Against Microwaves
+        url: /swarm-adaptation/
+    - title: Weather Limits
+      title_full: When The Air Itself Becomes A Shield
+      url: /weather-limits-5810d7/
+      children:
+      - title: Fog Limits
+        title_full: Why Fog Can Shorten a Laser Shot
+        url: /fog-limits/
+      - title: Smoke Choice
+        title_full: When Bad Air Favors Microwave Defence
+        url: /smoke-choice/
+      - title: Test Range
+        title_full: Why Clear Tests Do Not Prove Combat Range
+        url: /test-range/
+  - title: Lasers
+    title_full: Why Laser Weapons Are Precise but Demanding
+    url: /lasers/
+    children:
+    - title: Aim Point
+      title_full: The Hidden Skill Behind Laser Precision
+      url: /aim-point-d329b8/
+      children:
+      - title: Return Signal
+        title_full: Can the Target Help Aim the Laser
+        url: /return-signal/
+      - title: Steering Mirrors
+        title_full: The Tiny Mirror Movements Behind Laser Accuracy
+        url: /steering-mirrors-d3f211/
+      - title: Target Pose
+        title_full: Why the Best Laser Aim Point Moves
+        url: /target-pose/
+    - title: Dazzle Damage
+      title_full: Blinding Sensors or Burning Hardware?
+      url: /dazzle-damage/
+      children:
+      - title: Camera Dazzle
+        title_full: Why Blinding a Drone Camera Is Easier
+        url: /camera-dazzle/
+      - title: Minimum Force
+        title_full: When Dazzling Is Enough to Stop a Drone
+        url: /minimum-force/
+      - title: Wavelengths
+        title_full: When Laser Color Changes the Outcome
+        url: /wavelengths/
+    - title: Dragon Fire
+      title_full: What Dragon Fire Reveals About Laser Weapons
+      url: /dragon-fire-730c27/
+      children:
+      - title: Cost Per Shot
+        title_full: Is A Ten Pound Laser Shot Really That Cheap?
+        url: /cost-per-shot/
+      - title: Horizon Tracking
+        title_full: Why Above the Horizon Tracking Is a Major Test
+        url: /horizon-tracking/
+      - title: Weather Limits
+        title_full: Can Bad Weather Defeat A Laser Air Defence System?
+        url: /weather-limits-c1bd8c/
+    - title: Dwell Time
+      title_full: Why Lasers Still Need Time to Kill
+      url: /dwell-time-71eaeb/
+      children:
+      - title: Swarm Bottleneck
+        title_full: Why Swarms Stress Laser Defenses
+        url: /swarm-bottleneck/
+      - title: Tracking Errors
+        title_full: Why a Laser Hit Still May Not Kill
+        url: /tracking-errors/
+      - title: Weak Points
+        title_full: Where Lasers Hurt Drones Fastest
+        url: /weak-points/
+    - title: Weather Limits
+      title_full: When the Air Gets in the Beam
+      url: /weather-limits/
+      children:
+      - title: Fog and Rain
+        title_full: How Much Range Does Bad Weather Take?
+        url: /fog-and-rain/
+      - title: Low Flying
+        url: /low-flying/
+      - title: Smoke Screens
+        url: /smoke-screens/
+  - title: Leonidas
+    title_full: Why Anti Drone Microwaves Attract Investment
+    url: /leonidas/
+    children:
+    - title: 49 Drone Test
+      title_full: What Did the 49 Drone Test Really Prove?
+      url: /49-drone-test/
+      children:
+      - title: Cost Tradeoff
+        title_full: Can Microwaves Fix the Drone Cost Problem?
+        url: /cost-tradeoff/
+      - title: One Pulse
+        title_full: Why One Pulse Changed the Counter Swarm Debate
+        url: /one-pulse/
+      - title: Open Questions
+        title_full: What the 49 Drone Test Still Left Unanswered
+        url: /open-questions-f1b729/
+    - title: Army Contracts
+      title_full: How Army Contracts Moved Leonidas Forward
+      url: /army-contracts/
+      children:
+      - title: Generation II
+        title_full: Did Leonidas Escape Prototype Limbo?
+        url: /generation-ii/
+      - title: Prototype Order
+        title_full: Why Four Prototypes Changed the Story
+        url: /prototype-order/
+      - title: Soldier Training
+        title_full: When Soldiers Took Over Leonidas
+        url: /soldier-training/
+    - title: Electronics Risk
+      title_full: The Risk Inside a Wide Microwave Beam
+      url: /electronics-risk-3bbd36/
+      children:
+      - title: Beam Risk
+        title_full: What Else Is Inside the Microwave Beam?
+        url: /beam-risk/
+      - title: Friendly Drones
+        title_full: Can Friendly Drones Survive the Defense?
+        url: /friendly-drones-379602/
+      - title: Use Rules
+        title_full: The Rules That Keep Leonidas From Backfiring
+        url: /use-rules/
+    - title: Swarm Economics
+      title_full: Can One Pulse Beat a Drone Swarm?
+      url: /swarm-economics/
+      children:
+      - title: 2025 Tests
+        title_full: What did the 2025 swarm test prove?
+        url: /2025-tests/
+      - title: Layered Defence
+        title_full: Why microwaves still need backup weapons
+        url: /layered-defence-c333b4/
+      - title: One Burst
+        title_full: Can one pulse beat a drone swarm?
+        url: /one-burst/
+    - title: Variants
+      title_full: Why Leonidas Keeps Showing Up on New Platforms
+      url: /variants/
+      children:
+      - title: H2 O
+        title_full: Can Microwave Weapons Stop Threats at Sea?
+        url: /h2-o/
+      - title: Marine Variant
+        title_full: Why Marines Needed a Smaller Leonidas
+        url: /marine-variant/
+      - title: Stryker
+        title_full: Can Microwave Defence Keep Up With Troops?
+        url: /stryker/
+  - title: Microwaves
+    title_full: Can Microwaves Stop Drone Swarms?
+    url: /microwaves/
+    children:
+    - title: Collateral Risk
+      title_full: What Else Can Microwave Weapons Disrupt?
+      url: /collateral-risk/
+      children:
+      - title: Civilian Sites
+        title_full: Why cities are the hardest microwave defense setting
+        url: /civilian-sites/
+      - title: Exclusion Zones
+        title_full: Where should electronics stay clear of microwave defenses?
+        url: /exclusion-zones-96a39e/
+      - title: Friendly Gear
+        title_full: Can friendly gear survive a microwave drone shot?
+        url: /friendly-gear/
+    - title: Laser Tradeoff
+      title_full: Microwaves Or Lasers For Drone Swarms?
+      url: /laser-tradeoff/
+      children:
+      - title: Area Risks
+        title_full: When Area Effects Become a Defense Problem
+        url: /area-risks/
+      - title: Laser Queue
+        title_full: Why Laser Defenses Can Fall Behind Swarms
+        url: /laser-queue/
+      - title: Layered Defense
+        title_full: Why Swarm Defense Often Needs Both Weapons
+        url: /layered-defense/
+    - title: Live Fire Claims
+      title_full: How Much Do Live Fire Swarm Tests Prove?
+      url: /live-fire-claims/
+      children:
+      - title: Battle Limits
+        title_full: Why test wins may not equal battlefield wins
+        url: /battle-limits/
+      - title: Fiber Drones
+        title_full: Can microwaves stop fiber optic drones?
+        url: /fiber-drones/
+      - title: UK Trials
+        title_full: What did Rapid Destroyer's trials really prove?
+        url: /uk-trials/
+    - title: THOR Tests
+      title_full: What THOR Reveals About Microwave Drone Defense
+      url: /thor-tests/
+      children:
+      - title: Containerised THOR
+        title_full: Why Put a Microwave Weapon in a Container?
+        url: /containerised-thor/
+      - title: Kirtland Test
+        title_full: What Did THOR's Swarm Test Really Prove?
+        url: /kirtland-test/
+      - title: Mjolnir Upgrade
+        title_full: Why THOR Needed a Follow On Weapon
+        url: /mjolnir-upgrade/
+    - title: Wide Beams
+      title_full: Why Wide Beams Matter Against Drone Swarms
+      url: /wide-beams/
+      children:
+      - title: Beam Width
+        title_full: When a Wider Beam Beats a Sharper Shot
+        url: /beam-width/
+      - title: Failure Modes
+        title_full: Why One Pulse Does Not Break Every Drone Alike
+        url: /failure-modes/
+      - title: Leonidas Tests
+        title_full: What Leonidas Tests Really Show About Swarms
+        url: /leonidas-tests/
+  - title: Shot Cost
+    title_full: Why Cheap Drones Changed the Weapons Math
+    url: /shot-cost/
+    children:
+    - title: Deep Magazine
+      title_full: Can Lasers Keep Shooting When Missiles Run Low?
+      url: /deep-magazine/
+      children:
+      - title: Cooling Limits
+        title_full: Can Heat Stop a Laser Before Energy Runs Out?
+        url: /cooling-limits/
+      - title: Power Limits
+        title_full: Does Electrical Power Really Replace Ammunition?
+        url: /power-limits/
+      - title: Swarm Saturation
+        title_full: Why Deep Magazines Do Not Defeat Every Swarm
+        url: /swarm-saturation-248a25/
+    - title: Dragon Fire
+      title_full: Why Dragon Fire Is Both Cheap and Expensive
+      url: /dragon-fire-640ee9/
+      children:
+      - title: Contract Cost
+        title_full: What Does Dragon Fire's £316 Million Contract Actually Fund?
+        url: /contract-cost/
+      - title: Drone Savings
+        title_full: Will Cheap Laser Shots Beat Drone Defence Costs?
+        url: /drone-savings/
+      - title: Ship Integration
+        title_full: Why Installing Dragon Fire Costs More Than Firing It
+        url: /ship-integration/
+    - title: Layered Defence
+      title_full: Where Lasers Fit in a Layered Drone Defence
+      url: /layered-defence/
+      children:
+      - title: A Laser Should Fire Before A Missile Only...
+        title_full: When Should a Laser Fire First?
+        url: /a-laser-should-fire-before-a-missile/
+      - title: Other Layers
+        title_full: Why Lasers Still Need Backup Weapons
+        url: /other-layers/
+      - title: Saturation
+        title_full: How Drone Raids Drain Missile Defenses
+        url: /saturation/
+    - title: Missile Mismatch
+      title_full: Why Cheap Drones Can Drain Expensive Missiles
+      url: /missile-mismatch/
+      children:
+      - title: Red Sea Case
+        title_full: The Red Sea lesson in missile depletion
+        url: /red-sea-case/
+      - title: Ukraine Layers
+        title_full: Ukraine's cheaper answers to Shahed drones
+        url: /ukraine-layers/
+      - title: Value Protected
+        title_full: When an expensive intercept still makes sense
+        url: /value-protected/
+    - title: True Cost
+      title_full: What Does a Cheap Laser Shot Really Cost?
+      url: /true-cost/
+      children:
+      - title: Maintenance
+        title_full: Can Laser Maintenance Erase Cheap Shots?
+        url: /maintenance/
+      - title: Power Costs
+        title_full: Why Cheap Laser Shots Need Expensive Support
+        url: /power-costs/
+      - title: Sensor Fit
+        title_full: The Hidden Systems That Make Lasers Work
+        url: /sensor-fit/
+  - title: THOR
+    title_full: What THOR Shows About Microwave Air Defence
+    url: /thor/
+    children:
+    - title: 2023 Test
+      title_full: What Did the THOR Swarm Test Prove?
+      url: /2023-test/
+      children:
+      - title: Kill Chain
+        title_full: The Hidden Chain Behind THOR's Drone Disruptions
+        url: /kill-chain/
+      - title: Open Questions
+        title_full: What THOR's Big Test Still Did Not Prove
+        url: /open-questions-2ce8e8/
+      - title: Wide Beam
+        title_full: Can One Microwave Beam Stop Many Drones?
+        url: /wide-beam-03c030/
+    - title: Deployment
+      title_full: Can THOR Fit Real Airbase Defence?
+      url: /deployment/
+      children:
+      - title: Container Move
+        title_full: Can THOR Move as Fast as Drone Threats
+        url: /container-move/
+      - title: Power Burden
+        title_full: What Does Wall Plug Power Really Prove
+        url: /power-burden/
+      - title: Sensor Chain
+        title_full: Why the Microwave Is Only Half the System
+        url: /sensor-chain-958704/
+    - title: Kill Effect
+      title_full: How Do Microwaves Disable Drones?
+      url: /kill-effect/
+      children:
+      - title: Coupling Paths
+        title_full: How Microwaves Get Inside a Drone
+        url: /coupling-paths/
+      - title: Drone Variation
+        title_full: Why One Drone May Fall and Another Recover
+        url: /drone-variation/
+      - title: Visible Effects
+        title_full: Why a Falling Drone Does Not Prove the Kill
+        url: /visible-effects/
+    - title: Safety Zones
+      title_full: What Else Could THOR Affect?
+      url: /safety-zones/
+      children:
+      - title: Electronics Risk
+        title_full: Can THOR Jam Its Own Defenders?
+        url: /electronics-risk-df4c18/
+      - title: Firing Sectors
+        title_full: Why THOR Cannot Fire Everywhere
+        url: /firing-sectors/
+      - title: Human Safety
+        title_full: How Close Is Too Close to THOR?
+        url: /human-safety/
+    - title: Wide Beam
+      title_full: Why THOR Uses a Wide Beam
+      url: /wide-beam/
+      children:
+      - title: Beam Risks
+        title_full: When A Wide Beam Becomes A Problem
+        url: /beam-risks/
+      - title: Engagement Math
+        title_full: Why One Shot Can Matter Against Many Drones
+        url: /engagement-math/
+      - title: THOR Tests
+        title_full: What The THOR Swarm Tests Really Proved
+        url: /thor-tests-8df623/

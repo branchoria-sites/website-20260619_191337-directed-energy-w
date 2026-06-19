@@ -1,0 +1,1274 @@
+{
+  "generated_at_utc": "2026-06-19T18:07:47.588880Z",
+  "summary": {
+    "total_pages_with_permalink": 326,
+    "visible_pages": 253,
+    "hidden_pages": 73,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 1707,
+    "inline_internal_target_page_count": 253,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 253,
+    "average_inline_inbound_links_per_visible_page": 6.75,
+    "unresolved_inline_internal_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "top_inline_internal_targets": [
+      {
+        "basename": "Directed_Ener_98f417_dragonfire_uk_273ef3_drone_defence_310cde_counter_drone_6e4d57",
+        "title": "Missile Savings",
+        "permalink": "/missile-savings/",
+        "inline_inbound_count": 118
+      },
+      {
+        "basename": "Directed_Ener_98f417_laser_precisi_07f65f",
+        "title": "Lasers",
+        "permalink": "/lasers/",
+        "inline_inbound_count": 103
+      },
+      {
+        "basename": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7_microwave_dro_d54a54",
+        "title": "Swarms",
+        "permalink": "/swarms/",
+        "inline_inbound_count": 68
+      },
+      {
+        "basename": "Directed_Ener_98f417_power_cooling_afc91e",
+        "title": "Engineering",
+        "permalink": "/engineering/",
+        "inline_inbound_count": 53
+      },
+      {
+        "basename": "Directed_Ener_98f417_cost_per_shot_05acf8_true_laser_sh_9c3f6f_laser_power_c_7b33b1",
+        "title": "Power Costs",
+        "permalink": "/power-costs/",
+        "inline_inbound_count": 50
+      },
+      {
+        "basename": "Directed_Ener_98f417_laser_atmosph_af9b93",
+        "title": "Atmosphere",
+        "permalink": "/atmosphere/",
+        "inline_inbound_count": 49
+      },
+      {
+        "basename": "Directed_Ener_98f417_leonidas_anti_14867a_leonidas_army_3cfd66_generation_tw_d7a0be",
+        "title": "Generation II",
+        "permalink": "/generation-ii/",
+        "inline_inbound_count": 47
+      },
+      {
+        "basename": "Directed_Ener_98f417_microwave_dro_730805_live_fire_swa_410dfd_battlefield_l_1348b7",
+        "title": "Battle Limits",
+        "permalink": "/battle-limits/",
+        "inline_inbound_count": 47
+      },
+      {
+        "basename": "Directed_Ener_98f417_thor_microwav_ef8a15_thor_airbase_b37f07",
+        "title": "Deployment",
+        "permalink": "/deployment/",
+        "inline_inbound_count": 46
+      },
+      {
+        "basename": "Directed_Ener_98f417_cost_per_shot_05acf8_true_laser_sh_9c3f6f_laser_mainten_12135e",
+        "title": "Maintenance",
+        "permalink": "/maintenance/",
+        "inline_inbound_count": 43
+      },
+      {
+        "basename": "Directed_Ener_98f417_laser_atmosph_af9b93_line_of_sight_1e6293",
+        "title": "Dwell Time",
+        "permalink": "/dwell-time/",
+        "inline_inbound_count": 43
+      },
+      {
+        "basename": "Directed_Ener_98f417_power_cooling_afc91e_laser_platfor_141b25_laser_cooling_930d40",
+        "title": "Cooling",
+        "permalink": "/cooling/",
+        "inline_inbound_count": 42
+      },
+      {
+        "basename": "Directed_Ener_98f417_power_cooling_afc91e_laser_heat_li_47e162_thermal_beam_bb5e14",
+        "title": "Beam Quality",
+        "permalink": "/beam-quality/",
+        "inline_inbound_count": 40
+      },
+      {
+        "basename": "Directed_Ener_98f417_power_cooling_afc91e_laser_platfor_141b25_laser_platfor_4b5d49",
+        "title": "Platforms",
+        "permalink": "/platforms/",
+        "inline_inbound_count": 36
+      },
+      {
+        "basename": "Directed_Ener_98f417_helios_lasers_773815_helios_dazzle_da10df_helios_dazzli_04146f",
+        "title": "Limits",
+        "permalink": "/limits/",
+        "inline_inbound_count": 34
+      },
+      {
+        "basename": "Directed_Ener_98f417_thor_microwav_ef8a15",
+        "title": "THOR",
+        "permalink": "/thor/",
+        "inline_inbound_count": 34
+      },
+      {
+        "basename": "Directed_Ener_98f417_dragonfire_uk_273ef3_drone_defence_310cde_high_speed_dr_d2ab12",
+        "title": "650 Km H",
+        "permalink": "/650-km-h/",
+        "inline_inbound_count": 33
+      },
+      {
+        "basename": "Directed_Ener_98f417_cost_per_shot_05acf8_laser_layered_1c45d0_drone_saturat_bcc120",
+        "title": "Saturation",
+        "permalink": "/saturation/",
+        "inline_inbound_count": 30
+      },
+      {
+        "basename": "Directed_Ener_98f417_helios_lasers_773815_threat_bounda_0b6cdc_drone_swarm_l_94cfd2",
+        "title": "Swarm Limits",
+        "permalink": "/swarm-limits/",
+        "inline_inbound_count": 28
+      },
+      {
+        "basename": "Directed_Ener_98f417_microwave_dro_730805",
+        "title": "Microwaves",
+        "permalink": "/microwaves/",
+        "inline_inbound_count": 28
+      },
+      {
+        "basename": "Directed_Ener_98f417_power_cooling_afc91e_beam_control_45411b_adaptive_opti_1d8858",
+        "title": "Adaptive Optics",
+        "permalink": "/adaptive-optics/",
+        "inline_inbound_count": 27
+      },
+      {
+        "basename": "Directed_Ener_98f417_laser_precisi_07f65f_dazzle_vs_dam_b21f62_wavelength_se_991a99",
+        "title": "Wavelengths",
+        "permalink": "/wavelengths/",
+        "inline_inbound_count": 24
+      },
+      {
+        "basename": "Directed_Ener_98f417_cost_per_shot_05acf8_deep_magazine_f1e74e",
+        "title": "Deep Magazine",
+        "permalink": "/deep-magazine/",
+        "inline_inbound_count": 23
+      },
+      {
+        "basename": "Directed_Ener_98f417_power_cooling_afc91e_laser_platfor_141b25_laser_efficie_c932ab",
+        "title": "Efficiency",
+        "permalink": "/efficiency/",
+        "inline_inbound_count": 22
+      },
+      {
+        "basename": "Directed_Ener_98f417_defensive_lay_f8da0e_fixed_base_la_4ef4d2_base_laser_de_3ea4ca",
+        "title": "Defence Network",
+        "permalink": "/defence-network/",
+        "inline_inbound_count": 19
+      },
+      {
+        "basename": "Directed_Ener_98f417_microwave_dro_730805_collateral_el_10237a",
+        "title": "Collateral Risk",
+        "permalink": "/collateral-risk/",
+        "inline_inbound_count": 19
+      },
+      {
+        "basename": "Directed_Ener_98f417_laser_atmosph_af9b93_thermal_bloom_88599e",
+        "title": "Blooming",
+        "permalink": "/blooming/",
+        "inline_inbound_count": 17
+      },
+      {
+        "basename": "Directed_Ener_98f417_defensive_lay_f8da0e_laser_missile_f41d72_cruise_missil_233c53",
+        "title": "Cruise Missiles",
+        "permalink": "/cruise-missiles/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "Directed_Ener_98f417_dragonfire_uk_273ef3_drone_defence_310cde",
+        "title": "Drone Defence",
+        "permalink": "/drone-defence/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "Directed_Ener_98f417_cost_per_shot_05acf8_cheap_drone_m_89c328",
+        "title": "Missile Mismatch",
+        "permalink": "/missile-mismatch/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7_weather_laser_7b9893_clear_tests_c_cef0da",
+        "title": "Test Range",
+        "permalink": "/test-range/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "Directed_Ener_98f417_defensive_lay_f8da0e_fixed_base_la_4ef4d2",
+        "title": "Base Defence",
+        "permalink": "/base-defence/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Directed_Ener_98f417_friendly_elec_5af6bb_microwave_spi_daf3fb_microwave_ref_2272b6",
+        "title": "Reflections",
+        "permalink": "/reflections/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "Directed_Ener_98f417_laser_precisi_07f65f_laser_dwell_t_efaf62_tracking_erro_c8b0de",
+        "title": "Tracking Errors",
+        "permalink": "/tracking-errors/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7_laser_single_6b0feb_bad_weather_l_ba6988",
+        "title": "Bad Weather",
+        "permalink": "/bad-weather/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Directed_Ener_98f417_thor_microwav_ef8a15_thor_microwav_636998_microwave_cou_657732",
+        "title": "Coupling Paths",
+        "permalink": "/coupling-paths/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Directed_Ener_98f417_leonidas_anti_14867a_leonidas_vari_30b5ce_expeditionary_0b0252",
+        "title": "Marine Variant",
+        "permalink": "/marine-variant/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Directed_Ener_98f417_dragonfire_uk_273ef3_hebrides_tria_50ba62_dragonfire_en_faa50c",
+        "title": "Engagement Chain",
+        "permalink": "/engagement-chain/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "Directed_Ener_98f417_laser_atmosph_af9b93_fog_laser_ran_e9f3f6_visible_targe_b1ed46",
+        "title": "Visible Targets",
+        "permalink": "/visible-targets/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "Directed_Ener_98f417_laser_precisi_07f65f_dragonfire_la_41cc67_above_horizon_e3259e",
+        "title": "Horizon Tracking",
+        "permalink": "/horizon-tracking/",
+        "inline_inbound_count": 8
+      }
+    ],
+    "unresolved_inline_internal_targets": [],
+    "edge_samples": [
+      {
+        "from": "Directed_Ener_98f417",
+        "to": "Directed_Ener_98f417_cost_per_shot_05acf8",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417",
+        "to": "Directed_Ener_98f417_defensive_lay_f8da0e",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417",
+        "to": "Directed_Ener_98f417_dragonfire_uk_273ef3",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417",
+        "to": "Directed_Ener_98f417_friendly_elec_5af6bb",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417",
+        "to": "Directed_Ener_98f417_helios_lasers_773815",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417",
+        "to": "Directed_Ener_98f417_index",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417",
+        "to": "Directed_Ener_98f417_laser_atmosph_af9b93",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417",
+        "to": "Directed_Ener_98f417_laser_precisi_07f65f",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417",
+        "to": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417",
+        "to": "Directed_Ener_98f417_leonidas_anti_14867a",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417",
+        "to": "Directed_Ener_98f417_microwave_dro_730805",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417",
+        "to": "Directed_Ener_98f417_power_cooling_afc91e",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417",
+        "to": "Directed_Ener_98f417_thor_microwav_ef8a15",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_cost_per_shot_05acf8",
+        "to": "Directed_Ener_98f417",
+        "type": "parent"
+      },
+      {
+        "from": "Directed_Ener_98f417_cost_per_shot_05acf8",
+        "to": "Directed_Ener_98f417_defensive_lay_f8da0e",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_cost_per_shot_05acf8",
+        "to": "Directed_Ener_98f417_dragonfire_uk_273ef3",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_cost_per_shot_05acf8",
+        "to": "Directed_Ener_98f417_friendly_elec_5af6bb",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_cost_per_shot_05acf8",
+        "to": "Directed_Ener_98f417_helios_lasers_773815",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_cost_per_shot_05acf8",
+        "to": "Directed_Ener_98f417_laser_atmosph_af9b93",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_cost_per_shot_05acf8",
+        "to": "Directed_Ener_98f417_laser_precisi_07f65f",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_cost_per_shot_05acf8",
+        "to": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_cost_per_shot_05acf8",
+        "to": "Directed_Ener_98f417_leonidas_anti_14867a",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_cost_per_shot_05acf8",
+        "to": "Directed_Ener_98f417_microwave_dro_730805",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_cost_per_shot_05acf8",
+        "to": "Directed_Ener_98f417_power_cooling_afc91e",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_cost_per_shot_05acf8",
+        "to": "Directed_Ener_98f417_thor_microwav_ef8a15",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_cost_per_shot_05acf8",
+        "to": "Directed_Ener_98f417_cost_per_shot_05acf8_cheap_drone_m_89c328",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_cost_per_shot_05acf8",
+        "to": "Directed_Ener_98f417_cost_per_shot_05acf8_deep_magazine_f1e74e",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_cost_per_shot_05acf8",
+        "to": "Directed_Ener_98f417_cost_per_shot_05acf8_dragonfire_co_a66926",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_cost_per_shot_05acf8",
+        "to": "Directed_Ener_98f417_cost_per_shot_05acf8_index",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_cost_per_shot_05acf8",
+        "to": "Directed_Ener_98f417_cost_per_shot_05acf8_laser_layered_1c45d0",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_cost_per_shot_05acf8",
+        "to": "Directed_Ener_98f417_cost_per_shot_05acf8_true_laser_sh_9c3f6f",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_cost_per_shot_05acf8",
+        "to": "Directed_Ener_98f417",
+        "type": "ancestor"
+      },
+      {
+        "from": "Directed_Ener_98f417_defensive_lay_f8da0e",
+        "to": "Directed_Ener_98f417",
+        "type": "parent"
+      },
+      {
+        "from": "Directed_Ener_98f417_defensive_lay_f8da0e",
+        "to": "Directed_Ener_98f417_cost_per_shot_05acf8",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_defensive_lay_f8da0e",
+        "to": "Directed_Ener_98f417_dragonfire_uk_273ef3",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_defensive_lay_f8da0e",
+        "to": "Directed_Ener_98f417_friendly_elec_5af6bb",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_defensive_lay_f8da0e",
+        "to": "Directed_Ener_98f417_helios_lasers_773815",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_defensive_lay_f8da0e",
+        "to": "Directed_Ener_98f417_laser_atmosph_af9b93",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_defensive_lay_f8da0e",
+        "to": "Directed_Ener_98f417_laser_precisi_07f65f",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_defensive_lay_f8da0e",
+        "to": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_defensive_lay_f8da0e",
+        "to": "Directed_Ener_98f417_leonidas_anti_14867a",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_defensive_lay_f8da0e",
+        "to": "Directed_Ener_98f417_microwave_dro_730805",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_defensive_lay_f8da0e",
+        "to": "Directed_Ener_98f417_power_cooling_afc91e",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_defensive_lay_f8da0e",
+        "to": "Directed_Ener_98f417_thor_microwav_ef8a15",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_defensive_lay_f8da0e",
+        "to": "Directed_Ener_98f417_defensive_lay_f8da0e_fixed_base_la_4ef4d2",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_defensive_lay_f8da0e",
+        "to": "Directed_Ener_98f417_defensive_lay_f8da0e_index",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_defensive_lay_f8da0e",
+        "to": "Directed_Ener_98f417_defensive_lay_f8da0e_laser_missile_f41d72",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_defensive_lay_f8da0e",
+        "to": "Directed_Ener_98f417_defensive_lay_f8da0e_microwave_swa_cccc82",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_defensive_lay_f8da0e",
+        "to": "Directed_Ener_98f417_defensive_lay_f8da0e_sensor_chain_13add0",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_defensive_lay_f8da0e",
+        "to": "Directed_Ener_98f417_defensive_lay_f8da0e_silent_beam_k_abc041",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_defensive_lay_f8da0e",
+        "to": "Directed_Ener_98f417",
+        "type": "ancestor"
+      },
+      {
+        "from": "Directed_Ener_98f417_dragonfire_uk_273ef3",
+        "to": "Directed_Ener_98f417",
+        "type": "parent"
+      },
+      {
+        "from": "Directed_Ener_98f417_dragonfire_uk_273ef3",
+        "to": "Directed_Ener_98f417_cost_per_shot_05acf8",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_dragonfire_uk_273ef3",
+        "to": "Directed_Ener_98f417_defensive_lay_f8da0e",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_dragonfire_uk_273ef3",
+        "to": "Directed_Ener_98f417_friendly_elec_5af6bb",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_dragonfire_uk_273ef3",
+        "to": "Directed_Ener_98f417_helios_lasers_773815",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_dragonfire_uk_273ef3",
+        "to": "Directed_Ener_98f417_laser_atmosph_af9b93",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_dragonfire_uk_273ef3",
+        "to": "Directed_Ener_98f417_laser_precisi_07f65f",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_dragonfire_uk_273ef3",
+        "to": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_dragonfire_uk_273ef3",
+        "to": "Directed_Ener_98f417_leonidas_anti_14867a",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_dragonfire_uk_273ef3",
+        "to": "Directed_Ener_98f417_microwave_dro_730805",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_dragonfire_uk_273ef3",
+        "to": "Directed_Ener_98f417_power_cooling_afc91e",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_dragonfire_uk_273ef3",
+        "to": "Directed_Ener_98f417_thor_microwav_ef8a15",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_dragonfire_uk_273ef3",
+        "to": "Directed_Ener_98f417_dragonfire_uk_273ef3_drone_defence_310cde",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_dragonfire_uk_273ef3",
+        "to": "Directed_Ener_98f417_dragonfire_uk_273ef3_hebrides_tria_50ba62",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_dragonfire_uk_273ef3",
+        "to": "Directed_Ener_98f417_dragonfire_uk_273ef3_index",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_dragonfire_uk_273ef3",
+        "to": "Directed_Ener_98f417_dragonfire_uk_273ef3_shot_cost_tra_0b40fd",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_dragonfire_uk_273ef3",
+        "to": "Directed_Ener_98f417_dragonfire_uk_273ef3_type45_integr_11a449",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_dragonfire_uk_273ef3",
+        "to": "Directed_Ener_98f417_dragonfire_uk_273ef3_weather_line_73eaec",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_dragonfire_uk_273ef3",
+        "to": "Directed_Ener_98f417",
+        "type": "ancestor"
+      },
+      {
+        "from": "Directed_Ener_98f417_friendly_elec_5af6bb",
+        "to": "Directed_Ener_98f417",
+        "type": "parent"
+      },
+      {
+        "from": "Directed_Ener_98f417_friendly_elec_5af6bb",
+        "to": "Directed_Ener_98f417_cost_per_shot_05acf8",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_friendly_elec_5af6bb",
+        "to": "Directed_Ener_98f417_defensive_lay_f8da0e",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_friendly_elec_5af6bb",
+        "to": "Directed_Ener_98f417_dragonfire_uk_273ef3",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_friendly_elec_5af6bb",
+        "to": "Directed_Ener_98f417_helios_lasers_773815",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_friendly_elec_5af6bb",
+        "to": "Directed_Ener_98f417_laser_atmosph_af9b93",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_friendly_elec_5af6bb",
+        "to": "Directed_Ener_98f417_laser_precisi_07f65f",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_friendly_elec_5af6bb",
+        "to": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_friendly_elec_5af6bb",
+        "to": "Directed_Ener_98f417_leonidas_anti_14867a",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_friendly_elec_5af6bb",
+        "to": "Directed_Ener_98f417_microwave_dro_730805",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_friendly_elec_5af6bb",
+        "to": "Directed_Ener_98f417_power_cooling_afc91e",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_friendly_elec_5af6bb",
+        "to": "Directed_Ener_98f417_thor_microwav_ef8a15",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_friendly_elec_5af6bb",
+        "to": "Directed_Ener_98f417_friendly_elec_5af6bb_airbase_exclu_926e22",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_friendly_elec_5af6bb",
+        "to": "Directed_Ener_98f417_friendly_elec_5af6bb_airport_navig_1e0fb7",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_friendly_elec_5af6bb",
+        "to": "Directed_Ener_98f417_friendly_elec_5af6bb_friendly_dron_967543",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_friendly_elec_5af6bb",
+        "to": "Directed_Ener_98f417_friendly_elec_5af6bb_friendly_elec_febf66",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_friendly_elec_5af6bb",
+        "to": "Directed_Ener_98f417_friendly_elec_5af6bb_index",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_friendly_elec_5af6bb",
+        "to": "Directed_Ener_98f417_friendly_elec_5af6bb_microwave_spi_daf3fb",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_friendly_elec_5af6bb",
+        "to": "Directed_Ener_98f417",
+        "type": "ancestor"
+      },
+      {
+        "from": "Directed_Ener_98f417_helios_lasers_773815",
+        "to": "Directed_Ener_98f417",
+        "type": "parent"
+      },
+      {
+        "from": "Directed_Ener_98f417_helios_lasers_773815",
+        "to": "Directed_Ener_98f417_cost_per_shot_05acf8",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_helios_lasers_773815",
+        "to": "Directed_Ener_98f417_defensive_lay_f8da0e",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_helios_lasers_773815",
+        "to": "Directed_Ener_98f417_dragonfire_uk_273ef3",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_helios_lasers_773815",
+        "to": "Directed_Ener_98f417_friendly_elec_5af6bb",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_helios_lasers_773815",
+        "to": "Directed_Ener_98f417_laser_atmosph_af9b93",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_helios_lasers_773815",
+        "to": "Directed_Ener_98f417_laser_precisi_07f65f",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_helios_lasers_773815",
+        "to": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_helios_lasers_773815",
+        "to": "Directed_Ener_98f417_leonidas_anti_14867a",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_helios_lasers_773815",
+        "to": "Directed_Ener_98f417_microwave_dro_730805",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_helios_lasers_773815",
+        "to": "Directed_Ener_98f417_power_cooling_afc91e",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_helios_lasers_773815",
+        "to": "Directed_Ener_98f417_thor_microwav_ef8a15",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_helios_lasers_773815",
+        "to": "Directed_Ener_98f417_helios_lasers_773815_aegis_integra_4d4642",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_helios_lasers_773815",
+        "to": "Directed_Ener_98f417_helios_lasers_773815_helios_dazzle_da10df",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_helios_lasers_773815",
+        "to": "Directed_Ener_98f417_helios_lasers_773815_index",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_helios_lasers_773815",
+        "to": "Directed_Ener_98f417_helios_lasers_773815_navy_laser_li_1960e5",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_helios_lasers_773815",
+        "to": "Directed_Ener_98f417_helios_lasers_773815_preble_drone_a12a8a",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_helios_lasers_773815",
+        "to": "Directed_Ener_98f417_helios_lasers_773815_threat_bounda_0b6cdc",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_helios_lasers_773815",
+        "to": "Directed_Ener_98f417",
+        "type": "ancestor"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_atmosph_af9b93",
+        "to": "Directed_Ener_98f417",
+        "type": "parent"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_atmosph_af9b93",
+        "to": "Directed_Ener_98f417_cost_per_shot_05acf8",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_atmosph_af9b93",
+        "to": "Directed_Ener_98f417_defensive_lay_f8da0e",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_atmosph_af9b93",
+        "to": "Directed_Ener_98f417_dragonfire_uk_273ef3",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_atmosph_af9b93",
+        "to": "Directed_Ener_98f417_friendly_elec_5af6bb",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_atmosph_af9b93",
+        "to": "Directed_Ener_98f417_helios_lasers_773815",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_atmosph_af9b93",
+        "to": "Directed_Ener_98f417_laser_precisi_07f65f",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_atmosph_af9b93",
+        "to": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_atmosph_af9b93",
+        "to": "Directed_Ener_98f417_leonidas_anti_14867a",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_atmosph_af9b93",
+        "to": "Directed_Ener_98f417_microwave_dro_730805",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_atmosph_af9b93",
+        "to": "Directed_Ener_98f417_power_cooling_afc91e",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_atmosph_af9b93",
+        "to": "Directed_Ener_98f417_thor_microwav_ef8a15",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_atmosph_af9b93",
+        "to": "Directed_Ener_98f417_laser_atmosph_af9b93_adaptive_opti_35e828",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_atmosph_af9b93",
+        "to": "Directed_Ener_98f417_laser_atmosph_af9b93_fog_laser_ran_e9f3f6",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_atmosph_af9b93",
+        "to": "Directed_Ener_98f417_laser_atmosph_af9b93_index",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_atmosph_af9b93",
+        "to": "Directed_Ener_98f417_laser_atmosph_af9b93_line_of_sight_1e6293",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_atmosph_af9b93",
+        "to": "Directed_Ener_98f417_laser_atmosph_af9b93_sea_spray_nav_87f1da",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_atmosph_af9b93",
+        "to": "Directed_Ener_98f417_laser_atmosph_af9b93_thermal_bloom_88599e",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_atmosph_af9b93",
+        "to": "Directed_Ener_98f417",
+        "type": "ancestor"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_precisi_07f65f",
+        "to": "Directed_Ener_98f417",
+        "type": "parent"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_precisi_07f65f",
+        "to": "Directed_Ener_98f417_cost_per_shot_05acf8",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_precisi_07f65f",
+        "to": "Directed_Ener_98f417_defensive_lay_f8da0e",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_precisi_07f65f",
+        "to": "Directed_Ener_98f417_dragonfire_uk_273ef3",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_precisi_07f65f",
+        "to": "Directed_Ener_98f417_friendly_elec_5af6bb",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_precisi_07f65f",
+        "to": "Directed_Ener_98f417_helios_lasers_773815",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_precisi_07f65f",
+        "to": "Directed_Ener_98f417_laser_atmosph_af9b93",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_precisi_07f65f",
+        "to": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_precisi_07f65f",
+        "to": "Directed_Ener_98f417_leonidas_anti_14867a",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_precisi_07f65f",
+        "to": "Directed_Ener_98f417_microwave_dro_730805",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_precisi_07f65f",
+        "to": "Directed_Ener_98f417_power_cooling_afc91e",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_precisi_07f65f",
+        "to": "Directed_Ener_98f417_thor_microwav_ef8a15",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_precisi_07f65f",
+        "to": "Directed_Ener_98f417_laser_precisi_07f65f_aim_point_tra_0a0817",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_precisi_07f65f",
+        "to": "Directed_Ener_98f417_laser_precisi_07f65f_dazzle_vs_dam_b21f62",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_precisi_07f65f",
+        "to": "Directed_Ener_98f417_laser_precisi_07f65f_dragonfire_la_41cc67",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_precisi_07f65f",
+        "to": "Directed_Ener_98f417_laser_precisi_07f65f_index",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_precisi_07f65f",
+        "to": "Directed_Ener_98f417_laser_precisi_07f65f_laser_dwell_t_efaf62",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_precisi_07f65f",
+        "to": "Directed_Ener_98f417_laser_precisi_07f65f_laser_weather_9300b0",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_laser_precisi_07f65f",
+        "to": "Directed_Ener_98f417",
+        "type": "ancestor"
+      },
+      {
+        "from": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7",
+        "to": "Directed_Ener_98f417",
+        "type": "parent"
+      },
+      {
+        "from": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7",
+        "to": "Directed_Ener_98f417_cost_per_shot_05acf8",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7",
+        "to": "Directed_Ener_98f417_defensive_lay_f8da0e",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7",
+        "to": "Directed_Ener_98f417_dragonfire_uk_273ef3",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7",
+        "to": "Directed_Ener_98f417_friendly_elec_5af6bb",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7",
+        "to": "Directed_Ener_98f417_helios_lasers_773815",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7",
+        "to": "Directed_Ener_98f417_laser_atmosph_af9b93",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7",
+        "to": "Directed_Ener_98f417_laser_precisi_07f65f",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7",
+        "to": "Directed_Ener_98f417_leonidas_anti_14867a",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7",
+        "to": "Directed_Ener_98f417_microwave_dro_730805",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7",
+        "to": "Directed_Ener_98f417_power_cooling_afc91e",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7",
+        "to": "Directed_Ener_98f417_thor_microwav_ef8a15",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7",
+        "to": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7_index",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7",
+        "to": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7_laser_single_6b0feb",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7",
+        "to": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7_layered_defen_f1dec3",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7",
+        "to": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7_microwave_dro_d54a54",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7",
+        "to": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7_microwave_fri_72abc8",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7",
+        "to": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7_weather_laser_7b9893",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7",
+        "to": "Directed_Ener_98f417",
+        "type": "ancestor"
+      },
+      {
+        "from": "Directed_Ener_98f417_leonidas_anti_14867a",
+        "to": "Directed_Ener_98f417",
+        "type": "parent"
+      },
+      {
+        "from": "Directed_Ener_98f417_leonidas_anti_14867a",
+        "to": "Directed_Ener_98f417_cost_per_shot_05acf8",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_leonidas_anti_14867a",
+        "to": "Directed_Ener_98f417_defensive_lay_f8da0e",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_leonidas_anti_14867a",
+        "to": "Directed_Ener_98f417_dragonfire_uk_273ef3",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_leonidas_anti_14867a",
+        "to": "Directed_Ener_98f417_friendly_elec_5af6bb",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_leonidas_anti_14867a",
+        "to": "Directed_Ener_98f417_helios_lasers_773815",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_leonidas_anti_14867a",
+        "to": "Directed_Ener_98f417_laser_atmosph_af9b93",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_leonidas_anti_14867a",
+        "to": "Directed_Ener_98f417_laser_precisi_07f65f",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_leonidas_anti_14867a",
+        "to": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_leonidas_anti_14867a",
+        "to": "Directed_Ener_98f417_microwave_dro_730805",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_leonidas_anti_14867a",
+        "to": "Directed_Ener_98f417_power_cooling_afc91e",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_leonidas_anti_14867a",
+        "to": "Directed_Ener_98f417_thor_microwav_ef8a15",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_leonidas_anti_14867a",
+        "to": "Directed_Ener_98f417_leonidas_anti_14867a_index",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_leonidas_anti_14867a",
+        "to": "Directed_Ener_98f417_leonidas_anti_14867a_leonidas_49_d_b5d429",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_leonidas_anti_14867a",
+        "to": "Directed_Ener_98f417_leonidas_anti_14867a_leonidas_army_3cfd66",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_leonidas_anti_14867a",
+        "to": "Directed_Ener_98f417_leonidas_anti_14867a_leonidas_frie_0d4251",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_leonidas_anti_14867a",
+        "to": "Directed_Ener_98f417_leonidas_anti_14867a_leonidas_swar_242a34",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_leonidas_anti_14867a",
+        "to": "Directed_Ener_98f417_leonidas_anti_14867a_leonidas_vari_30b5ce",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_leonidas_anti_14867a",
+        "to": "Directed_Ener_98f417",
+        "type": "ancestor"
+      },
+      {
+        "from": "Directed_Ener_98f417_microwave_dro_730805",
+        "to": "Directed_Ener_98f417",
+        "type": "parent"
+      },
+      {
+        "from": "Directed_Ener_98f417_microwave_dro_730805",
+        "to": "Directed_Ener_98f417_cost_per_shot_05acf8",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_microwave_dro_730805",
+        "to": "Directed_Ener_98f417_defensive_lay_f8da0e",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_microwave_dro_730805",
+        "to": "Directed_Ener_98f417_dragonfire_uk_273ef3",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_microwave_dro_730805",
+        "to": "Directed_Ener_98f417_friendly_elec_5af6bb",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_microwave_dro_730805",
+        "to": "Directed_Ener_98f417_helios_lasers_773815",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_microwave_dro_730805",
+        "to": "Directed_Ener_98f417_laser_atmosph_af9b93",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_microwave_dro_730805",
+        "to": "Directed_Ener_98f417_laser_precisi_07f65f",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_microwave_dro_730805",
+        "to": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_microwave_dro_730805",
+        "to": "Directed_Ener_98f417_leonidas_anti_14867a",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_microwave_dro_730805",
+        "to": "Directed_Ener_98f417_power_cooling_afc91e",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_microwave_dro_730805",
+        "to": "Directed_Ener_98f417_thor_microwav_ef8a15",
+        "type": "sibling"
+      },
+      {
+        "from": "Directed_Ener_98f417_microwave_dro_730805",
+        "to": "Directed_Ener_98f417_microwave_dro_730805_collateral_el_10237a",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_microwave_dro_730805",
+        "to": "Directed_Ener_98f417_microwave_dro_730805_index",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_microwave_dro_730805",
+        "to": "Directed_Ener_98f417_microwave_dro_730805_live_fire_swa_410dfd",
+        "type": "child"
+      },
+      {
+        "from": "Directed_Ener_98f417_microwave_dro_730805",
+        "to": "Directed_Ener_98f417_microwave_dro_730805_microwave_las_837ffc",
+        "type": "child"
+      }
+    ]
+  }
+}

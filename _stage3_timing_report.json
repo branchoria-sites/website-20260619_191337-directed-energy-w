@@ -1,0 +1,3991 @@
+{
+  "version": 1,
+  "page_count": 253,
+  "total_page_seconds": 46940.478,
+  "average_page_seconds": 185.5355,
+  "phase_totals_seconds": {
+    "preparation": 46444.5409,
+    "youtube": 149.341,
+    "media_svg": 131.0137,
+    "content_assembly": 104.6413,
+    "monetization": 102.5001,
+    "quality_write": 8.4424
+  },
+  "slowest_pages": [
+    {
+      "base_name": "Directed_Ener_98f417_leonidas_anti_14867a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 422.5254,
+      "phases": {
+        "preparation": 421.7521,
+        "media_svg": 0.1584,
+        "youtube": 0.0132,
+        "content_assembly": 0.4753,
+        "monetization": 0.0821,
+        "quality_write": 0.0444
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 394.9858,
+      "phases": {
+        "preparation": 378.2389,
+        "media_svg": 0.1394,
+        "youtube": 13.7171,
+        "content_assembly": 0.5683,
+        "monetization": 2.2828,
+        "quality_write": 0.0393
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_microwave_dro_730805",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 355.3281,
+      "phases": {
+        "preparation": 353.9918,
+        "media_svg": 0.1119,
+        "youtube": 0.6206,
+        "content_assembly": 0.478,
+        "monetization": 0.0844,
+        "quality_write": 0.0415
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_friendly_elec_5af6bb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 318.5259,
+      "phases": {
+        "preparation": 317.1801,
+        "media_svg": 0.155,
+        "youtube": 0.5889,
+        "content_assembly": 0.4742,
+        "monetization": 0.0872,
+        "quality_write": 0.0406
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_helios_lasers_773815_navy_laser_li_1960e5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 302.4594,
+      "phases": {
+        "preparation": 301.4947,
+        "media_svg": 0.3892,
+        "youtube": 0.0149,
+        "content_assembly": 0.4413,
+        "monetization": 0.0776,
+        "quality_write": 0.0417
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_cost_per_shot_05acf8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 297.5828,
+      "phases": {
+        "preparation": 264.7432,
+        "media_svg": 0.1855,
+        "youtube": 29.8603,
+        "content_assembly": 0.4818,
+        "monetization": 2.2744,
+        "quality_write": 0.0377
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_dragonfire_uk_273ef3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 288.5291,
+      "phases": {
+        "preparation": 287.6215,
+        "media_svg": 0.1173,
+        "youtube": 0.0161,
+        "content_assembly": 0.4771,
+        "monetization": 0.2548,
+        "quality_write": 0.0422
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7_layered_defen_f1dec3_microwave_swa_2b3244",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 277.1066,
+      "phases": {
+        "preparation": 275.7946,
+        "media_svg": 0.7635,
+        "youtube": 0.013,
+        "content_assembly": 0.4317,
+        "monetization": 0.067,
+        "quality_write": 0.0368
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_atmosph_af9b93",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 275.8191,
+      "phases": {
+        "preparation": 275.15,
+        "media_svg": 0.0976,
+        "youtube": 0.0105,
+        "content_assembly": 0.44,
+        "monetization": 0.0836,
+        "quality_write": 0.0374
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_leonidas_anti_14867a_leonidas_army_3cfd66",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 268.7025,
+      "phases": {
+        "preparation": 267.3826,
+        "media_svg": 0.7783,
+        "youtube": 0.0104,
+        "content_assembly": 0.4302,
+        "monetization": 0.0631,
+        "quality_write": 0.0379
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_friendly_elec_5af6bb_airport_navig_1e0fb7_airport_drone_d68103",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 265.0841,
+      "phases": {
+        "preparation": 263.8369,
+        "media_svg": 0.7016,
+        "youtube": 0.0105,
+        "content_assembly": 0.4324,
+        "monetization": 0.0665,
+        "quality_write": 0.0361
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_thor_microwav_ef8a15_thor_wide_bea_77bcf1_wide_beam_lia_0685b0",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 257.8789,
+      "phases": {
+        "preparation": 251.3353,
+        "media_svg": 0.7339,
+        "youtube": 0.0078,
+        "content_assembly": 0.4089,
+        "monetization": 5.3589,
+        "quality_write": 0.0342
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_leonidas_anti_14867a_leonidas_army_3cfd66_soldier_train_c30381",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 257.1983,
+      "phases": {
+        "preparation": 248.265,
+        "media_svg": 0.7411,
+        "youtube": 0.01,
+        "content_assembly": 0.4109,
+        "monetization": 7.737,
+        "quality_write": 0.0344
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_leonidas_anti_14867a_leonidas_swar_242a34",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 252.7046,
+      "phases": {
+        "preparation": 251.4589,
+        "media_svg": 0.6908,
+        "youtube": 0.0101,
+        "content_assembly": 0.4366,
+        "monetization": 0.0713,
+        "quality_write": 0.0368
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_microwave_dro_730805_live_fire_swa_410dfd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 247.5242,
+      "phases": {
+        "preparation": 246.6819,
+        "media_svg": 0.3189,
+        "youtube": 0.0079,
+        "content_assembly": 0.4254,
+        "monetization": 0.0534,
+        "quality_write": 0.0367
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_power_cooling_afc91e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 246.6196,
+      "phases": {
+        "preparation": 245.1944,
+        "media_svg": 0.1092,
+        "youtube": 0.6563,
+        "content_assembly": 0.4862,
+        "monetization": 0.1217,
+        "quality_write": 0.0518
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_friendly_elec_5af6bb_airport_navig_1e0fb7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 245.4677,
+      "phases": {
+        "preparation": 244.1575,
+        "media_svg": 0.7407,
+        "youtube": 0.0104,
+        "content_assembly": 0.4342,
+        "monetization": 0.0881,
+        "quality_write": 0.0368
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 245.3234,
+      "phases": {
+        "preparation": 243.965,
+        "media_svg": 0.1598,
+        "youtube": 0.6052,
+        "content_assembly": 0.4609,
+        "monetization": 0.0957,
+        "quality_write": 0.0367
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_microwave_dro_730805_live_fire_swa_410dfd_fiber_optic_l_c6178d",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 245.2841,
+      "phases": {
+        "preparation": 236.8096,
+        "media_svg": 0.3244,
+        "youtube": 4.8793,
+        "content_assembly": 0.4203,
+        "monetization": 2.8155,
+        "quality_write": 0.0351
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_leonidas_anti_14867a_leonidas_49_d_b5d429",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 243.7364,
+      "phases": {
+        "preparation": 242.4658,
+        "media_svg": 0.7347,
+        "youtube": 0.0124,
+        "content_assembly": 0.4226,
+        "monetization": 0.0632,
+        "quality_write": 0.0377
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "Directed_Ener_98f417_cost_per_shot_05acf8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 297.5828,
+      "phases": {
+        "preparation": 264.7432,
+        "media_svg": 0.1855,
+        "youtube": 29.8603,
+        "content_assembly": 0.4818,
+        "monetization": 2.2744,
+        "quality_write": 0.0377
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 394.9858,
+      "phases": {
+        "preparation": 378.2389,
+        "media_svg": 0.1394,
+        "youtube": 13.7171,
+        "content_assembly": 0.5683,
+        "monetization": 2.2828,
+        "quality_write": 0.0393
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_defensive_lay_f8da0e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 192.3824,
+      "phases": {
+        "preparation": 191.617,
+        "media_svg": 0.1679,
+        "youtube": 0.0102,
+        "content_assembly": 0.4523,
+        "monetization": 0.0998,
+        "quality_write": 0.0352
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_dragonfire_uk_273ef3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 288.5291,
+      "phases": {
+        "preparation": 287.6215,
+        "media_svg": 0.1173,
+        "youtube": 0.0161,
+        "content_assembly": 0.4771,
+        "monetization": 0.2548,
+        "quality_write": 0.0422
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_friendly_elec_5af6bb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 318.5259,
+      "phases": {
+        "preparation": 317.1801,
+        "media_svg": 0.155,
+        "youtube": 0.5889,
+        "content_assembly": 0.4742,
+        "monetization": 0.0872,
+        "quality_write": 0.0406
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_helios_lasers_773815",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 206.3632,
+      "phases": {
+        "preparation": 205.6168,
+        "media_svg": 0.1587,
+        "youtube": 0.0168,
+        "content_assembly": 0.4565,
+        "monetization": 0.0784,
+        "quality_write": 0.0359
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_atmosph_af9b93",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 275.8191,
+      "phases": {
+        "preparation": 275.15,
+        "media_svg": 0.0976,
+        "youtube": 0.0105,
+        "content_assembly": 0.44,
+        "monetization": 0.0836,
+        "quality_write": 0.0374
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_precisi_07f65f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 200.2991,
+      "phases": {
+        "preparation": 199.6225,
+        "media_svg": 0.1026,
+        "youtube": 0.014,
+        "content_assembly": 0.4409,
+        "monetization": 0.0822,
+        "quality_write": 0.0368
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 245.3234,
+      "phases": {
+        "preparation": 243.965,
+        "media_svg": 0.1598,
+        "youtube": 0.6052,
+        "content_assembly": 0.4609,
+        "monetization": 0.0957,
+        "quality_write": 0.0367
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_leonidas_anti_14867a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 422.5254,
+      "phases": {
+        "preparation": 421.7521,
+        "media_svg": 0.1584,
+        "youtube": 0.0132,
+        "content_assembly": 0.4753,
+        "monetization": 0.0821,
+        "quality_write": 0.0444
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_microwave_dro_730805",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 355.3281,
+      "phases": {
+        "preparation": 353.9918,
+        "media_svg": 0.1119,
+        "youtube": 0.6206,
+        "content_assembly": 0.478,
+        "monetization": 0.0844,
+        "quality_write": 0.0415
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_power_cooling_afc91e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 246.6196,
+      "phases": {
+        "preparation": 245.1944,
+        "media_svg": 0.1092,
+        "youtube": 0.6563,
+        "content_assembly": 0.4862,
+        "monetization": 0.1217,
+        "quality_write": 0.0518
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_thor_microwav_ef8a15",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 196.0098,
+      "phases": {
+        "preparation": 193.722,
+        "media_svg": 0.4641,
+        "youtube": 0.9466,
+        "content_assembly": 0.7055,
+        "monetization": 0.1267,
+        "quality_write": 0.0449
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_defensive_lay_f8da0e_sensor_chain_13add0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 234.8058,
+      "phases": {
+        "preparation": 232.8134,
+        "media_svg": 0.7659,
+        "youtube": 0.6446,
+        "content_assembly": 0.4601,
+        "monetization": 0.0868,
+        "quality_write": 0.035
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_dragonfire_uk_273ef3_weather_line_73eaec",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 172.1668,
+      "phases": {
+        "preparation": 170.8453,
+        "media_svg": 0.7506,
+        "youtube": 0.0084,
+        "content_assembly": 0.4309,
+        "monetization": 0.0958,
+        "quality_write": 0.0358
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_helios_lasers_773815_preble_drone_a12a8a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 145.1011,
+      "phases": {
+        "preparation": 143.8306,
+        "media_svg": 0.7261,
+        "youtube": 0.0106,
+        "content_assembly": 0.4121,
+        "monetization": 0.0883,
+        "quality_write": 0.0334
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7_laser_single_6b0feb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 158.3529,
+      "phases": {
+        "preparation": 157.0529,
+        "media_svg": 0.7684,
+        "youtube": 0.0089,
+        "content_assembly": 0.4161,
+        "monetization": 0.0735,
+        "quality_write": 0.0331
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_microwave_dro_730805_thor_mjolnir_feed3a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 224.1633,
+      "phases": {
+        "preparation": 223.3045,
+        "media_svg": 0.3296,
+        "youtube": 0.0097,
+        "content_assembly": 0.4269,
+        "monetization": 0.0551,
+        "quality_write": 0.0373
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_power_cooling_afc91e_beam_control_45411b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 179.1974,
+      "phases": {
+        "preparation": 178.3253,
+        "media_svg": 0.3195,
+        "youtube": 0.0115,
+        "content_assembly": 0.4004,
+        "monetization": 0.1072,
+        "quality_write": 0.0335
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_thor_microwav_ef8a15_thor_airbase_b37f07",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 179.4046,
+      "phases": {
+        "preparation": 177.4698,
+        "media_svg": 0.7609,
+        "youtube": 0.632,
+        "content_assembly": 0.421,
+        "monetization": 0.0869,
+        "quality_write": 0.0339
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_cost_per_shot_05acf8_cheap_drone_m_89c328",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 151.5982,
+      "phases": {
+        "preparation": 146.3471,
+        "media_svg": 0.3296,
+        "youtube": 4.3729,
+        "content_assembly": 0.461,
+        "monetization": 0.0532,
+        "quality_write": 0.0343
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_cost_per_shot_05acf8_dragonfire_co_a66926",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 170.0184,
+      "phases": {
+        "preparation": 168.5163,
+        "media_svg": 0.3222,
+        "youtube": 0.6086,
+        "content_assembly": 0.4195,
+        "monetization": 0.1172,
+        "quality_write": 0.0346
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_cost_per_shot_05acf8_deep_magazine_f1e74e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 171.423,
+      "phases": {
+        "preparation": 166.3213,
+        "media_svg": 0.3295,
+        "youtube": 4.2705,
+        "content_assembly": 0.4249,
+        "monetization": 0.0435,
+        "quality_write": 0.0333
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_cost_per_shot_05acf8_true_laser_sh_9c3f6f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 160.6905,
+      "phases": {
+        "preparation": 159.2403,
+        "media_svg": 0.332,
+        "youtube": 0.6293,
+        "content_assembly": 0.4102,
+        "monetization": 0.0461,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_cost_per_shot_05acf8_laser_layered_1c45d0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 184.2611,
+      "phases": {
+        "preparation": 182.8071,
+        "media_svg": 0.3236,
+        "youtube": 0.6159,
+        "content_assembly": 0.4357,
+        "monetization": 0.0446,
+        "quality_write": 0.0341
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_defensive_lay_f8da0e_fixed_base_la_4ef4d2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 150.4072,
+      "phases": {
+        "preparation": 148.5875,
+        "media_svg": 0.712,
+        "youtube": 0.6127,
+        "content_assembly": 0.401,
+        "monetization": 0.0614,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_defensive_lay_f8da0e_laser_missile_f41d72",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 202.3197,
+      "phases": {
+        "preparation": 196.748,
+        "media_svg": 0.735,
+        "youtube": 4.3169,
+        "content_assembly": 0.4135,
+        "monetization": 0.0723,
+        "quality_write": 0.0339
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_defensive_lay_f8da0e_microwave_swa_cccc82",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 183.1555,
+      "phases": {
+        "preparation": 181.9405,
+        "media_svg": 0.6955,
+        "youtube": 0.0081,
+        "content_assembly": 0.4143,
+        "monetization": 0.0631,
+        "quality_write": 0.0341
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_defensive_lay_f8da0e_silent_beam_k_abc041",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 194.1982,
+      "phases": {
+        "preparation": 192.291,
+        "media_svg": 0.7652,
+        "youtube": 0.6006,
+        "content_assembly": 0.4125,
+        "monetization": 0.0941,
+        "quality_write": 0.0348
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_dragonfire_uk_273ef3_drone_defence_310cde",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 207.1469,
+      "phases": {
+        "preparation": 206.1908,
+        "media_svg": 0.3265,
+        "youtube": 0.0101,
+        "content_assembly": 0.431,
+        "monetization": 0.1536,
+        "quality_write": 0.035
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_dragonfire_uk_273ef3_hebrides_tria_50ba62",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 159.7006,
+      "phases": {
+        "preparation": 158.8706,
+        "media_svg": 0.3223,
+        "youtube": 0.0103,
+        "content_assembly": 0.4058,
+        "monetization": 0.0579,
+        "quality_write": 0.0338
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_dragonfire_uk_273ef3_shot_cost_tra_0b40fd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 167.7893,
+      "phases": {
+        "preparation": 166.8425,
+        "media_svg": 0.3993,
+        "youtube": 0.0117,
+        "content_assembly": 0.434,
+        "monetization": 0.0692,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_dragonfire_uk_273ef3_type45_integr_11a449",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 178.7384,
+      "phases": {
+        "preparation": 177.4957,
+        "media_svg": 0.7266,
+        "youtube": 0.0103,
+        "content_assembly": 0.4175,
+        "monetization": 0.0524,
+        "quality_write": 0.0358
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_friendly_elec_5af6bb_airbase_exclu_926e22",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 170.6231,
+      "phases": {
+        "preparation": 168.7131,
+        "media_svg": 0.7647,
+        "youtube": 0.6135,
+        "content_assembly": 0.4093,
+        "monetization": 0.0895,
+        "quality_write": 0.0331
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_friendly_elec_5af6bb_airport_navig_1e0fb7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 245.4677,
+      "phases": {
+        "preparation": 244.1575,
+        "media_svg": 0.7407,
+        "youtube": 0.0104,
+        "content_assembly": 0.4342,
+        "monetization": 0.0881,
+        "quality_write": 0.0368
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_friendly_elec_5af6bb_friendly_dron_967543",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 192.7012,
+      "phases": {
+        "preparation": 190.8521,
+        "media_svg": 0.7221,
+        "youtube": 0.6086,
+        "content_assembly": 0.4055,
+        "monetization": 0.0793,
+        "quality_write": 0.0337
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_friendly_elec_5af6bb_friendly_elec_febf66",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 173.6795,
+      "phases": {
+        "preparation": 172.4491,
+        "media_svg": 0.7246,
+        "youtube": 0.0076,
+        "content_assembly": 0.4065,
+        "monetization": 0.0556,
+        "quality_write": 0.0362
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_friendly_elec_5af6bb_microwave_spi_daf3fb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 192.1527,
+      "phases": {
+        "preparation": 190.2841,
+        "media_svg": 0.7512,
+        "youtube": 0.5958,
+        "content_assembly": 0.4177,
+        "monetization": 0.0688,
+        "quality_write": 0.035
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_helios_lasers_773815_aegis_integra_4d4642",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 188.8945,
+      "phases": {
+        "preparation": 187.617,
+        "media_svg": 0.7403,
+        "youtube": 0.0112,
+        "content_assembly": 0.4121,
+        "monetization": 0.0796,
+        "quality_write": 0.0343
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_helios_lasers_773815_helios_dazzle_da10df",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 145.6569,
+      "phases": {
+        "preparation": 144.4112,
+        "media_svg": 0.7296,
+        "youtube": 0.0087,
+        "content_assembly": 0.399,
+        "monetization": 0.0761,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_helios_lasers_773815_threat_bounda_0b6cdc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 177.0075,
+      "phases": {
+        "preparation": 175.7447,
+        "media_svg": 0.7421,
+        "youtube": 0.01,
+        "content_assembly": 0.4167,
+        "monetization": 0.0609,
+        "quality_write": 0.0331
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_helios_lasers_773815_navy_laser_li_1960e5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 302.4594,
+      "phases": {
+        "preparation": 301.4947,
+        "media_svg": 0.3892,
+        "youtube": 0.0149,
+        "content_assembly": 0.4413,
+        "monetization": 0.0776,
+        "quality_write": 0.0417
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_atmosph_af9b93_adaptive_opti_35e828",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 169.3049,
+      "phases": {
+        "preparation": 168.4607,
+        "media_svg": 0.3239,
+        "youtube": 0.0103,
+        "content_assembly": 0.4104,
+        "monetization": 0.0665,
+        "quality_write": 0.0332
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_atmosph_af9b93_fog_laser_ran_e9f3f6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 185.96,
+      "phases": {
+        "preparation": 185.1062,
+        "media_svg": 0.3257,
+        "youtube": 0.0087,
+        "content_assembly": 0.4089,
+        "monetization": 0.0764,
+        "quality_write": 0.0341
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_atmosph_af9b93_line_of_sight_1e6293",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 186.7456,
+      "phases": {
+        "preparation": 185.909,
+        "media_svg": 0.3304,
+        "youtube": 0.0114,
+        "content_assembly": 0.4113,
+        "monetization": 0.0509,
+        "quality_write": 0.0327
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_atmosph_af9b93_sea_spray_nav_87f1da",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 152.5794,
+      "phases": {
+        "preparation": 151.6532,
+        "media_svg": 0.3214,
+        "youtube": 0.0126,
+        "content_assembly": 0.4862,
+        "monetization": 0.074,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_atmosph_af9b93_thermal_bloom_88599e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 216.1952,
+      "phases": {
+        "preparation": 215.3612,
+        "media_svg": 0.321,
+        "youtube": 0.0099,
+        "content_assembly": 0.4159,
+        "monetization": 0.0516,
+        "quality_write": 0.0357
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_precisi_07f65f_aim_point_tra_0a0817",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 161.5999,
+      "phases": {
+        "preparation": 160.1658,
+        "media_svg": 0.3245,
+        "youtube": 0.6015,
+        "content_assembly": 0.3964,
+        "monetization": 0.0795,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_precisi_07f65f_dazzle_vs_dam_b21f62",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 155.183,
+      "phases": {
+        "preparation": 153.7655,
+        "media_svg": 0.3297,
+        "youtube": 0.5998,
+        "content_assembly": 0.4058,
+        "monetization": 0.0501,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_precisi_07f65f_dragonfire_la_41cc67",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 167.9676,
+      "phases": {
+        "preparation": 167.0678,
+        "media_svg": 0.3174,
+        "youtube": 0.0115,
+        "content_assembly": 0.4085,
+        "monetization": 0.1287,
+        "quality_write": 0.0336
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_precisi_07f65f_laser_dwell_t_efaf62",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 187.0565,
+      "phases": {
+        "preparation": 185.5965,
+        "media_svg": 0.3279,
+        "youtube": 0.6142,
+        "content_assembly": 0.4141,
+        "monetization": 0.0698,
+        "quality_write": 0.034
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_precisi_07f65f_laser_weather_9300b0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 184.7352,
+      "phases": {
+        "preparation": 183.3093,
+        "media_svg": 0.3244,
+        "youtube": 0.5921,
+        "content_assembly": 0.4235,
+        "monetization": 0.0511,
+        "quality_write": 0.0348
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7_layered_defen_f1dec3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 148.2682,
+      "phases": {
+        "preparation": 146.3705,
+        "media_svg": 0.7697,
+        "youtube": 0.6061,
+        "content_assembly": 0.4084,
+        "monetization": 0.081,
+        "quality_write": 0.0325
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7_microwave_dro_d54a54",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 198.403,
+      "phases": {
+        "preparation": 196.5323,
+        "media_svg": 0.7569,
+        "youtube": 0.5937,
+        "content_assembly": 0.4205,
+        "monetization": 0.0656,
+        "quality_write": 0.034
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7_microwave_fri_72abc8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 215.5119,
+      "phases": {
+        "preparation": 213.6882,
+        "media_svg": 0.7034,
+        "youtube": 0.5997,
+        "content_assembly": 0.4126,
+        "monetization": 0.0726,
+        "quality_write": 0.0354
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7_weather_laser_7b9893",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 213.0908,
+      "phases": {
+        "preparation": 211.2221,
+        "media_svg": 0.765,
+        "youtube": 0.5968,
+        "content_assembly": 0.4216,
+        "monetization": 0.0487,
+        "quality_write": 0.0366
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_leonidas_anti_14867a_leonidas_49_d_b5d429",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 243.7364,
+      "phases": {
+        "preparation": 242.4658,
+        "media_svg": 0.7347,
+        "youtube": 0.0124,
+        "content_assembly": 0.4226,
+        "monetization": 0.0632,
+        "quality_write": 0.0377
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_leonidas_anti_14867a_leonidas_army_3cfd66",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 268.7025,
+      "phases": {
+        "preparation": 267.3826,
+        "media_svg": 0.7783,
+        "youtube": 0.0104,
+        "content_assembly": 0.4302,
+        "monetization": 0.0631,
+        "quality_write": 0.0379
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_leonidas_anti_14867a_leonidas_frie_0d4251",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 182.2956,
+      "phases": {
+        "preparation": 181.0503,
+        "media_svg": 0.7138,
+        "youtube": 0.0101,
+        "content_assembly": 0.41,
+        "monetization": 0.0786,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_leonidas_anti_14867a_leonidas_swar_242a34",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 252.7046,
+      "phases": {
+        "preparation": 251.4589,
+        "media_svg": 0.6908,
+        "youtube": 0.0101,
+        "content_assembly": 0.4366,
+        "monetization": 0.0713,
+        "quality_write": 0.0368
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_leonidas_anti_14867a_leonidas_vari_30b5ce",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 217.415,
+      "phases": {
+        "preparation": 216.1402,
+        "media_svg": 0.7321,
+        "youtube": 0.0103,
+        "content_assembly": 0.4254,
+        "monetization": 0.0704,
+        "quality_write": 0.0366
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_microwave_dro_730805_collateral_el_10237a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 187.8111,
+      "phases": {
+        "preparation": 186.4862,
+        "media_svg": 0.2229,
+        "youtube": 0.596,
+        "content_assembly": 0.4045,
+        "monetization": 0.0659,
+        "quality_write": 0.0357
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_microwave_dro_730805_live_fire_swa_410dfd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 247.5242,
+      "phases": {
+        "preparation": 246.6819,
+        "media_svg": 0.3189,
+        "youtube": 0.0079,
+        "content_assembly": 0.4254,
+        "monetization": 0.0534,
+        "quality_write": 0.0367
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_microwave_dro_730805_microwave_las_837ffc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 155.9778,
+      "phases": {
+        "preparation": 155.2617,
+        "media_svg": 0.225,
+        "youtube": 0.0076,
+        "content_assembly": 0.4,
+        "monetization": 0.0511,
+        "quality_write": 0.0324
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_microwave_dro_730805_wide_beam_cou_daa73c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 188.0974,
+      "phases": {
+        "preparation": 186.6769,
+        "media_svg": 0.3146,
+        "youtube": 0.6021,
+        "content_assembly": 0.4088,
+        "monetization": 0.0626,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_power_cooling_afc91e_laser_fieldin_9df46e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 188.233,
+      "phases": {
+        "preparation": 187.3912,
+        "media_svg": 0.3164,
+        "youtube": 0.0087,
+        "content_assembly": 0.4121,
+        "monetization": 0.0722,
+        "quality_write": 0.0324
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_power_cooling_afc91e_laser_heat_li_47e162",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 175.8753,
+      "phases": {
+        "preparation": 175.0384,
+        "media_svg": 0.315,
+        "youtube": 0.0101,
+        "content_assembly": 0.412,
+        "monetization": 0.0674,
+        "quality_write": 0.0324
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_power_cooling_afc91e_laser_host_pl_9b81d1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 164.1132,
+      "phases": {
+        "preparation": 163.3882,
+        "media_svg": 0.2219,
+        "youtube": 0.011,
+        "content_assembly": 0.4089,
+        "monetization": 0.0509,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_power_cooling_afc91e_laser_platfor_141b25",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 162.6888,
+      "phases": {
+        "preparation": 161.8504,
+        "media_svg": 0.3074,
+        "youtube": 0.0127,
+        "content_assembly": 0.4101,
+        "monetization": 0.0758,
+        "quality_write": 0.0324
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_thor_microwav_ef8a15_thor_2023_swa_495c2d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 170.2313,
+      "phases": {
+        "preparation": 168.3792,
+        "media_svg": 0.7376,
+        "youtube": 0.5988,
+        "content_assembly": 0.4114,
+        "monetization": 0.0702,
+        "quality_write": 0.0341
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_thor_microwav_ef8a15_thor_microwav_636998",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 186.4254,
+      "phases": {
+        "preparation": 184.9147,
+        "media_svg": 0.4022,
+        "youtube": 0.5955,
+        "content_assembly": 0.4091,
+        "monetization": 0.0718,
+        "quality_write": 0.0321
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_thor_microwav_ef8a15_thor_electron_02f850",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 232.701,
+      "phases": {
+        "preparation": 230.8108,
+        "media_svg": 0.7351,
+        "youtube": 0.6046,
+        "content_assembly": 0.4301,
+        "monetization": 0.0833,
+        "quality_write": 0.037
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_cost_per_shot_05acf8_laser_layered_1c45d0_laser_backup_0b11b3",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 159.6969,
+      "phases": {
+        "preparation": 158.8792,
+        "media_svg": 0.3246,
+        "youtube": 0.0113,
+        "content_assembly": 0.4058,
+        "monetization": 0.0439,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_thor_microwav_ef8a15_thor_wide_bea_77bcf1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 189.1157,
+      "phases": {
+        "preparation": 186.9729,
+        "media_svg": 0.7694,
+        "youtube": 0.0102,
+        "content_assembly": 0.4082,
+        "monetization": 0.9189,
+        "quality_write": 0.0362
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_cost_per_shot_05acf8_true_laser_sh_9c3f6f_laser_sensor_16bedc",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 173.3959,
+      "phases": {
+        "preparation": 171.9501,
+        "media_svg": 0.3393,
+        "youtube": 0.6159,
+        "content_assembly": 0.4064,
+        "monetization": 0.0516,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_defensive_lay_f8da0e_fixed_base_la_4ef4d2_mobile_laser_ac0537",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 177.8376,
+      "phases": {
+        "preparation": 176.4911,
+        "media_svg": 0.8314,
+        "youtube": 0.0079,
+        "content_assembly": 0.4066,
+        "monetization": 0.0645,
+        "quality_write": 0.0362
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_defensive_lay_f8da0e_sensor_chain_13add0_sensor_fusion_1191cb",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 172.6064,
+      "phases": {
+        "preparation": 170.6812,
+        "media_svg": 0.7193,
+        "youtube": 0.6081,
+        "content_assembly": 0.4849,
+        "monetization": 0.08,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_defensive_lay_f8da0e_sensor_chain_13add0_small_drone_d_8273ca",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 236.5739,
+      "phases": {
+        "preparation": 235.3017,
+        "media_svg": 0.7327,
+        "youtube": 0.0105,
+        "content_assembly": 0.4295,
+        "monetization": 0.0638,
+        "quality_write": 0.0356
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_defensive_lay_f8da0e_sensor_chain_13add0_swarm_targeti_73d290",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 171.5648,
+      "phases": {
+        "preparation": 169.6297,
+        "media_svg": 0.7453,
+        "youtube": 0.6923,
+        "content_assembly": 0.4076,
+        "monetization": 0.0584,
+        "quality_write": 0.0315
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_dragonfire_uk_273ef3_weather_line_73eaec_dragonfire_dw_17157c",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 197.2629,
+      "phases": {
+        "preparation": 195.9307,
+        "media_svg": 0.756,
+        "youtube": 0.008,
+        "content_assembly": 0.4091,
+        "monetization": 0.1262,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_dragonfire_uk_273ef3_weather_line_73eaec_fog_sea_spray_e57bf8",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 179.7306,
+      "phases": {
+        "preparation": 177.8093,
+        "media_svg": 0.784,
+        "youtube": 0.6301,
+        "content_assembly": 0.4129,
+        "monetization": 0.0609,
+        "quality_write": 0.0334
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_dragonfire_uk_273ef3_weather_line_73eaec_horizon_shipb_8300da",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 191.6764,
+      "phases": {
+        "preparation": 190.4268,
+        "media_svg": 0.7138,
+        "youtube": 0.0104,
+        "content_assembly": 0.4306,
+        "monetization": 0.0628,
+        "quality_write": 0.032
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_helios_lasers_773815_aegis_integra_4d4642_aegis_cueing_20203d",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 180.7566,
+      "phases": {
+        "preparation": 179.8229,
+        "media_svg": 0.4083,
+        "youtube": 0.0115,
+        "content_assembly": 0.4099,
+        "monetization": 0.0723,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_helios_lasers_773815_helios_dazzle_da10df_drone_camera_544a32",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 163.7721,
+      "phases": {
+        "preparation": 161.9157,
+        "media_svg": 0.7426,
+        "youtube": 0.6055,
+        "content_assembly": 0.3991,
+        "monetization": 0.077,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_helios_lasers_773815_navy_laser_li_1960e5_helios_aegis_f011a6",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 183.541,
+      "phases": {
+        "preparation": 182.2202,
+        "media_svg": 0.787,
+        "youtube": 0.0121,
+        "content_assembly": 0.4163,
+        "monetization": 0.0697,
+        "quality_write": 0.0357
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_helios_lasers_773815_navy_laser_li_1960e5_uss_portland_c36a5a",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 189.5384,
+      "phases": {
+        "preparation": 188.2218,
+        "media_svg": 0.784,
+        "youtube": 0.0115,
+        "content_assembly": 0.4251,
+        "monetization": 0.0608,
+        "quality_write": 0.0352
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_helios_lasers_773815_preble_drone_a12a8a_helios_layere_20c9be",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 174.7513,
+      "phases": {
+        "preparation": 173.5107,
+        "media_svg": 0.7145,
+        "youtube": 0.0129,
+        "content_assembly": 0.4141,
+        "monetization": 0.0657,
+        "quality_write": 0.0335
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_helios_lasers_773815_preble_drone_a12a8a_preble_missin_4f0d29",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 150.9353,
+      "phases": {
+        "preparation": 148.7559,
+        "media_svg": 0.7564,
+        "youtube": 0.7095,
+        "content_assembly": 0.6203,
+        "monetization": 0.0523,
+        "quality_write": 0.0408
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_helios_lasers_773815_preble_drone_a12a8a_preble_proven_6a8966",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 158.7933,
+      "phases": {
+        "preparation": 157.3014,
+        "media_svg": 0.9672,
+        "youtube": 0.0115,
+        "content_assembly": 0.4311,
+        "monetization": 0.0496,
+        "quality_write": 0.0325
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7_laser_single_6b0feb_bad_weather_l_ba6988",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 191.3314,
+      "phases": {
+        "preparation": 190.0095,
+        "media_svg": 0.7835,
+        "youtube": 0.0111,
+        "content_assembly": 0.4099,
+        "monetization": 0.0834,
+        "quality_write": 0.0339
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7_laser_single_6b0feb_laser_aim_poi_d04a12",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 138.1223,
+      "phases": {
+        "preparation": 136.775,
+        "media_svg": 0.8348,
+        "youtube": 0.0126,
+        "content_assembly": 0.4033,
+        "monetization": 0.0662,
+        "quality_write": 0.0304
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7_laser_single_6b0feb_precision_col_0f9157",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 154.6955,
+      "phases": {
+        "preparation": 153.3013,
+        "media_svg": 0.8334,
+        "youtube": 0.0136,
+        "content_assembly": 0.4529,
+        "monetization": 0.061,
+        "quality_write": 0.0333
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7_layered_defen_f1dec3_weather_guns_2143b8",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 220.3267,
+      "phases": {
+        "preparation": 219.0331,
+        "media_svg": 0.7452,
+        "youtube": 0.0117,
+        "content_assembly": 0.4212,
+        "monetization": 0.0817,
+        "quality_write": 0.0338
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_leonidas_anti_14867a_leonidas_frie_0d4251_leonidas_use_922031",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 214.4467,
+      "phases": {
+        "preparation": 213.129,
+        "media_svg": 0.7734,
+        "youtube": 0.0125,
+        "content_assembly": 0.4098,
+        "monetization": 0.0894,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_leonidas_anti_14867a_leonidas_vari_30b5ce_leonidas_h2o_0cb98c",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 155.538,
+      "phases": {
+        "preparation": 154.2118,
+        "media_svg": 0.7866,
+        "youtube": 0.0104,
+        "content_assembly": 0.3992,
+        "monetization": 0.0972,
+        "quality_write": 0.0328
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_microwave_dro_730805_thor_mjolnir_feed3a_mjolnir_relia_fc5961",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 166.5069,
+      "phases": {
+        "preparation": 165.1956,
+        "media_svg": 0.2212,
+        "youtube": 0.6139,
+        "content_assembly": 0.3914,
+        "monetization": 0.0507,
+        "quality_write": 0.034
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_microwave_dro_730805_thor_mjolnir_feed3a_thor_containe_d0de52",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 154.149,
+      "phases": {
+        "preparation": 152.7179,
+        "media_svg": 0.333,
+        "youtube": 0.619,
+        "content_assembly": 0.3964,
+        "monetization": 0.0513,
+        "quality_write": 0.0313
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_microwave_dro_730805_thor_mjolnir_feed3a_thor_kirtland_6c4df8",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 156.5338,
+      "phases": {
+        "preparation": 155.7066,
+        "media_svg": 0.3259,
+        "youtube": 0.0113,
+        "content_assembly": 0.4093,
+        "monetization": 0.0481,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_power_cooling_afc91e_beam_control_45411b_adaptive_opti_1d8858",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 207.2382,
+      "phases": {
+        "preparation": 206.3954,
+        "media_svg": 0.3323,
+        "youtube": 0.0084,
+        "content_assembly": 0.4127,
+        "monetization": 0.0571,
+        "quality_write": 0.0324
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_power_cooling_afc91e_beam_control_45411b_beam_jitter_d_eb2f66",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 133.9168,
+      "phases": {
+        "preparation": 132.6081,
+        "media_svg": 0.2253,
+        "youtube": 0.6149,
+        "content_assembly": 0.3922,
+        "monetization": 0.0468,
+        "quality_write": 0.0295
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_power_cooling_afc91e_beam_control_45411b_fine_steering_471da5",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 139.2059,
+      "phases": {
+        "preparation": 138.3827,
+        "media_svg": 0.3315,
+        "youtube": 0.0113,
+        "content_assembly": 0.3998,
+        "monetization": 0.0492,
+        "quality_write": 0.0314
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_power_cooling_afc91e_laser_heat_li_47e162_drone_swarms_1b1cdd",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 167.9573,
+      "phases": {
+        "preparation": 167.1255,
+        "media_svg": 0.3236,
+        "youtube": 0.0127,
+        "content_assembly": 0.4053,
+        "monetization": 0.0566,
+        "quality_write": 0.0337
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_power_cooling_afc91e_laser_heat_li_47e162_mobile_laser_e86c2a",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 192.7344,
+      "phases": {
+        "preparation": 191.9155,
+        "media_svg": 0.3236,
+        "youtube": 0.0077,
+        "content_assembly": 0.4056,
+        "monetization": 0.0484,
+        "quality_write": 0.0336
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_power_cooling_afc91e_laser_heat_li_47e162_thermal_beam_bb5e14",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 147.5163,
+      "phases": {
+        "preparation": 146.6362,
+        "media_svg": 0.324,
+        "youtube": 0.0075,
+        "content_assembly": 0.473,
+        "monetization": 0.0452,
+        "quality_write": 0.0305
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_thor_microwav_ef8a15_thor_airbase_b37f07_thor_containe_5a2721",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 150.6071,
+      "phases": {
+        "preparation": 149.1296,
+        "media_svg": 0.3877,
+        "youtube": 0.5975,
+        "content_assembly": 0.385,
+        "monetization": 0.0768,
+        "quality_write": 0.0305
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_thor_microwav_ef8a15_thor_airbase_b37f07_thor_power_bu_e74f3b",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 142.0016,
+      "phases": {
+        "preparation": 140.8367,
+        "media_svg": 0.6865,
+        "youtube": 0.0074,
+        "content_assembly": 0.3831,
+        "monetization": 0.0573,
+        "quality_write": 0.0306
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_thor_microwav_ef8a15_thor_airbase_b37f07_thor_sensor_i_61021b",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 177.9687,
+      "phases": {
+        "preparation": 173.1285,
+        "media_svg": 0.7503,
+        "youtube": 0.0099,
+        "content_assembly": 0.3977,
+        "monetization": 3.65,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_thor_microwav_ef8a15_thor_microwav_636998_thor_visible_004d3f",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 198.6943,
+      "phases": {
+        "preparation": 197.4241,
+        "media_svg": 0.754,
+        "youtube": 0.0107,
+        "content_assembly": 0.4067,
+        "monetization": 0.066,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_cost_per_shot_05acf8_cheap_drone_m_89c328_red_sea_stock_ec8443",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 182.2303,
+      "phases": {
+        "preparation": 173.8386,
+        "media_svg": 0.3175,
+        "youtube": 7.5817,
+        "content_assembly": 0.4091,
+        "monetization": 0.0481,
+        "quality_write": 0.0354
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_cost_per_shot_05acf8_cheap_drone_m_89c328_ukraine_shahe_28761a",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 231.4843,
+      "phases": {
+        "preparation": 214.612,
+        "media_svg": 0.327,
+        "youtube": 16.0201,
+        "content_assembly": 0.4387,
+        "monetization": 0.0511,
+        "quality_write": 0.0354
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_cost_per_shot_05acf8_cheap_drone_m_89c328_value_protect_bd783e",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 208.5988,
+      "phases": {
+        "preparation": 203.6146,
+        "media_svg": 0.3167,
+        "youtube": 4.1788,
+        "content_assembly": 0.4079,
+        "monetization": 0.0482,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_cost_per_shot_05acf8_deep_magazine_f1e74e_laser_cooling_a31c15",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 205.0854,
+      "phases": {
+        "preparation": 203.629,
+        "media_svg": 0.3203,
+        "youtube": 0.5802,
+        "content_assembly": 0.4762,
+        "monetization": 0.0478,
+        "quality_write": 0.032
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_cost_per_shot_05acf8_deep_magazine_f1e74e_power_as_maga_5694c6",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 200.5366,
+      "phases": {
+        "preparation": 199.6909,
+        "media_svg": 0.3293,
+        "youtube": 0.0106,
+        "content_assembly": 0.415,
+        "monetization": 0.0569,
+        "quality_write": 0.0339
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_cost_per_shot_05acf8_deep_magazine_f1e74e_swarm_saturat_313629",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 178.6654,
+      "phases": {
+        "preparation": 177.2507,
+        "media_svg": 0.3295,
+        "youtube": 0.596,
+        "content_assembly": 0.4075,
+        "monetization": 0.0483,
+        "quality_write": 0.0334
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_cost_per_shot_05acf8_dragonfire_co_a66926_dragonfire_co_f33896",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 137.4461,
+      "phases": {
+        "preparation": 136.0541,
+        "media_svg": 0.3204,
+        "youtube": 0.6088,
+        "content_assembly": 0.389,
+        "monetization": 0.0435,
+        "quality_write": 0.0304
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_cost_per_shot_05acf8_dragonfire_co_a66926_dragonfire_dr_6d8573",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 164.5446,
+      "phases": {
+        "preparation": 163.7187,
+        "media_svg": 0.3313,
+        "youtube": 0.0091,
+        "content_assembly": 0.4072,
+        "monetization": 0.0469,
+        "quality_write": 0.0314
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_cost_per_shot_05acf8_dragonfire_co_a66926_dragonfire_sh_203c7a",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 238.4873,
+      "phases": {
+        "preparation": 236.5655,
+        "media_svg": 0.3289,
+        "youtube": 1.0973,
+        "content_assembly": 0.4198,
+        "monetization": 0.0431,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_cost_per_shot_05acf8_laser_layered_1c45d0_drone_saturat_bcc120",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 147.5336,
+      "phases": {
+        "preparation": 146.1301,
+        "media_svg": 0.3208,
+        "youtube": 0.6105,
+        "content_assembly": 0.3988,
+        "monetization": 0.042,
+        "quality_write": 0.0314
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_cost_per_shot_05acf8_laser_layered_1c45d0_laser_fire_be_df40ab",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 195.6274,
+      "phases": {
+        "preparation": 194.3204,
+        "media_svg": 0.2231,
+        "youtube": 0.6015,
+        "content_assembly": 0.4001,
+        "monetization": 0.0496,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_cost_per_shot_05acf8_true_laser_sh_9c3f6f_laser_mainten_12135e",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 173.2355,
+      "phases": {
+        "preparation": 171.8312,
+        "media_svg": 0.3242,
+        "youtube": 0.606,
+        "content_assembly": 0.3961,
+        "monetization": 0.0473,
+        "quality_write": 0.0307
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_cost_per_shot_05acf8_true_laser_sh_9c3f6f_laser_power_c_7b33b1",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 138.4664,
+      "phases": {
+        "preparation": 137.0496,
+        "media_svg": 0.3245,
+        "youtube": 0.6078,
+        "content_assembly": 0.4044,
+        "monetization": 0.0481,
+        "quality_write": 0.0319
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_defensive_lay_f8da0e_fixed_base_la_4ef4d2_base_laser_de_3ea4ca",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 179.6971,
+      "phases": {
+        "preparation": 178.8025,
+        "media_svg": 0.3842,
+        "youtube": 0.0086,
+        "content_assembly": 0.4032,
+        "monetization": 0.0659,
+        "quality_write": 0.0328
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_defensive_lay_f8da0e_fixed_base_la_4ef4d2_laser_persist_c752c0",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 153.0759,
+      "phases": {
+        "preparation": 151.8854,
+        "media_svg": 0.6783,
+        "youtube": 0.0129,
+        "content_assembly": 0.4057,
+        "monetization": 0.0629,
+        "quality_write": 0.0307
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_defensive_lay_f8da0e_laser_missile_f41d72_cruise_missil_233c53",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 173.5622,
+      "phases": {
+        "preparation": 171.7913,
+        "media_svg": 0.677,
+        "youtube": 0.5971,
+        "content_assembly": 0.3981,
+        "monetization": 0.0661,
+        "quality_write": 0.0327
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_defensive_lay_f8da0e_laser_missile_f41d72_layered_defen_2e673a",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 173.9008,
+      "phases": {
+        "preparation": 172.6701,
+        "media_svg": 0.7176,
+        "youtube": 0.0077,
+        "content_assembly": 0.404,
+        "monetization": 0.0668,
+        "quality_write": 0.0345
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_defensive_lay_f8da0e_laser_missile_f41d72_weather_missi_ef007b",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 193.5159,
+      "phases": {
+        "preparation": 192.2539,
+        "media_svg": 0.7552,
+        "youtube": 0.0116,
+        "content_assembly": 0.3968,
+        "monetization": 0.0647,
+        "quality_write": 0.0338
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_defensive_lay_f8da0e_microwave_swa_cccc82_friendly_elec_5af6bb",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 163.1473,
+      "phases": {
+        "preparation": 162.0046,
+        "media_svg": 0.6359,
+        "youtube": 0.0091,
+        "content_assembly": 0.4024,
+        "monetization": 0.0614,
+        "quality_write": 0.034
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_defensive_lay_f8da0e_microwave_swa_cccc82_microwave_fir_4ff616",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 180.3026,
+      "phases": {
+        "preparation": 179.0873,
+        "media_svg": 0.7178,
+        "youtube": 0.009,
+        "content_assembly": 0.3976,
+        "monetization": 0.0589,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_defensive_lay_f8da0e_microwave_swa_cccc82_one_microwave_6c869d",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 187.4108,
+      "phases": {
+        "preparation": 186.5084,
+        "media_svg": 0.3884,
+        "youtube": 0.0119,
+        "content_assembly": 0.4106,
+        "monetization": 0.0613,
+        "quality_write": 0.0303
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_defensive_lay_f8da0e_silent_beam_k_abc041_flight_behavi_586bc4",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 174.0297,
+      "phases": {
+        "preparation": 172.7504,
+        "media_svg": 0.7601,
+        "youtube": 0.0101,
+        "content_assembly": 0.3982,
+        "monetization": 0.0793,
+        "quality_write": 0.0315
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_defensive_lay_f8da0e_silent_beam_k_abc041_layered_defen_c4e62d",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 185.8282,
+      "phases": {
+        "preparation": 184.5639,
+        "media_svg": 0.7382,
+        "youtube": 0.0118,
+        "content_assembly": 0.4145,
+        "monetization": 0.0647,
+        "quality_write": 0.0351
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_defensive_lay_f8da0e_silent_beam_k_abc041_microwave_eff_a42fff",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 207.0358,
+      "phases": {
+        "preparation": 205.8168,
+        "media_svg": 0.7361,
+        "youtube": 0.0073,
+        "content_assembly": 0.3946,
+        "monetization": 0.0473,
+        "quality_write": 0.0337
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_dragonfire_uk_273ef3_drone_defence_310cde_counter_drone_6e4d57",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 182.7159,
+      "phases": {
+        "preparation": 181.8936,
+        "media_svg": 0.3229,
+        "youtube": 0.0104,
+        "content_assembly": 0.4072,
+        "monetization": 0.0483,
+        "quality_write": 0.0335
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_dragonfire_uk_273ef3_drone_defence_310cde_dragonfire_la_16e325",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 175.9287,
+      "phases": {
+        "preparation": 174.553,
+        "media_svg": 0.3132,
+        "youtube": 0.5932,
+        "content_assembly": 0.3842,
+        "monetization": 0.0521,
+        "quality_write": 0.0331
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_dragonfire_uk_273ef3_drone_defence_310cde_high_speed_dr_d2ab12",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 157.125,
+      "phases": {
+        "preparation": 156.3036,
+        "media_svg": 0.3224,
+        "youtube": 0.0112,
+        "content_assembly": 0.3962,
+        "monetization": 0.0598,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_dragonfire_uk_273ef3_hebrides_tria_50ba62_dragonfire_en_faa50c",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 128.9097,
+      "phases": {
+        "preparation": 127.5559,
+        "media_svg": 0.3226,
+        "youtube": 0.5736,
+        "content_assembly": 0.3758,
+        "monetization": 0.0516,
+        "quality_write": 0.0303
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_dragonfire_uk_273ef3_hebrides_tria_50ba62_hebrides_real_be1be4",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 130.3281,
+      "phases": {
+        "preparation": 129.5035,
+        "media_svg": 0.3282,
+        "youtube": 0.0105,
+        "content_assembly": 0.4129,
+        "monetization": 0.042,
+        "quality_write": 0.031
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_dragonfire_uk_273ef3_hebrides_tria_50ba62_hebrides_unan_211fac",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 144.9181,
+      "phases": {
+        "preparation": 144.1319,
+        "media_svg": 0.3146,
+        "youtube": 0.0111,
+        "content_assembly": 0.3894,
+        "monetization": 0.0416,
+        "quality_write": 0.0295
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_dragonfire_uk_273ef3_shot_cost_tra_0b40fd_dragonfire_10_358995",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 165.7097,
+      "phases": {
+        "preparation": 164.5154,
+        "media_svg": 0.7074,
+        "youtube": 0.0077,
+        "content_assembly": 0.3983,
+        "monetization": 0.0488,
+        "quality_write": 0.032
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_dragonfire_uk_273ef3_shot_cost_tra_0b40fd_dragonfire_pr_294a72",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 145.2252,
+      "phases": {
+        "preparation": 143.4403,
+        "media_svg": 0.7284,
+        "youtube": 0.5941,
+        "content_assembly": 0.3832,
+        "monetization": 0.0478,
+        "quality_write": 0.0314
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_dragonfire_uk_273ef3_shot_cost_tra_0b40fd_dragonfire_re_059a03",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 191.6081,
+      "phases": {
+        "preparation": 190.3985,
+        "media_svg": 0.691,
+        "youtube": 0.0124,
+        "content_assembly": 0.4061,
+        "monetization": 0.0654,
+        "quality_write": 0.0346
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_dragonfire_uk_273ef3_type45_integr_11a449_dragonfire_se_a4d209",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 183.6944,
+      "phases": {
+        "preparation": 182.4687,
+        "media_svg": 0.7235,
+        "youtube": 0.0102,
+        "content_assembly": 0.4082,
+        "monetization": 0.0518,
+        "quality_write": 0.0321
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_dragonfire_uk_273ef3_type45_integr_11a449_type45_combat_1a367c",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 209.1522,
+      "phases": {
+        "preparation": 207.8713,
+        "media_svg": 0.7598,
+        "youtube": 0.0082,
+        "content_assembly": 0.4348,
+        "monetization": 0.0444,
+        "quality_write": 0.0337
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_dragonfire_uk_273ef3_type45_integr_11a449_why_type45_dr_42f154",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 177.7177,
+      "phases": {
+        "preparation": 176.4879,
+        "media_svg": 0.7328,
+        "youtube": 0.0114,
+        "content_assembly": 0.4073,
+        "monetization": 0.0451,
+        "quality_write": 0.0332
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_friendly_elec_5af6bb_airbase_exclu_926e22_aircraft_move_a71efe",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 159.8065,
+      "phases": {
+        "preparation": 150.7874,
+        "media_svg": 0.7429,
+        "youtube": 0.0099,
+        "content_assembly": 0.3891,
+        "monetization": 7.8474,
+        "quality_write": 0.0298
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_friendly_elec_5af6bb_airbase_exclu_926e22_dynamic_secto_ccd3c2",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 131.3246,
+      "phases": {
+        "preparation": 130.087,
+        "media_svg": 0.751,
+        "youtube": 0.0076,
+        "content_assembly": 0.3864,
+        "monetization": 0.0633,
+        "quality_write": 0.0294
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_friendly_elec_5af6bb_airbase_exclu_926e22_swarm_exclusi_a63e12",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 178.6275,
+      "phases": {
+        "preparation": 176.7648,
+        "media_svg": 0.7498,
+        "youtube": 0.6055,
+        "content_assembly": 0.4088,
+        "monetization": 0.067,
+        "quality_write": 0.0317
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_friendly_elec_5af6bb_airport_navig_1e0fb7_airport_drone_bc2519",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 199.4635,
+      "phases": {
+        "preparation": 198.2133,
+        "media_svg": 0.7093,
+        "youtube": 0.0105,
+        "content_assembly": 0.4153,
+        "monetization": 0.0812,
+        "quality_write": 0.034
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_friendly_elec_5af6bb_airport_navig_1e0fb7_gatwick_drone_c7b91a",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 167.1977,
+      "phases": {
+        "preparation": 165.9348,
+        "media_svg": 0.7503,
+        "youtube": 0.0127,
+        "content_assembly": 0.4005,
+        "monetization": 0.0662,
+        "quality_write": 0.0333
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_friendly_elec_5af6bb_airport_navig_1e0fb7_airport_drone_d68103",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 265.0841,
+      "phases": {
+        "preparation": 263.8369,
+        "media_svg": 0.7016,
+        "youtube": 0.0105,
+        "content_assembly": 0.4324,
+        "monetization": 0.0665,
+        "quality_write": 0.0361
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_friendly_elec_5af6bb_friendly_dron_967543_friendly_dron_417ec6",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 181.6024,
+      "phases": {
+        "preparation": 180.3274,
+        "media_svg": 0.7515,
+        "youtube": 0.0078,
+        "content_assembly": 0.4014,
+        "monetization": 0.0829,
+        "quality_write": 0.0315
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_friendly_elec_5af6bb_friendly_dron_967543_microwave_pul_f71a16",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 207.9501,
+      "phases": {
+        "preparation": 206.6886,
+        "media_svg": 0.7502,
+        "youtube": 0.0079,
+        "content_assembly": 0.4192,
+        "monetization": 0.0495,
+        "quality_write": 0.0348
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_friendly_elec_5af6bb_friendly_dron_967543_recon_drone_m_112536",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 143.6564,
+      "phases": {
+        "preparation": 142.4362,
+        "media_svg": 0.7335,
+        "youtube": 0.0123,
+        "content_assembly": 0.3941,
+        "monetization": 0.0488,
+        "quality_write": 0.0315
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_friendly_elec_5af6bb_friendly_elec_febf66_friendly_radi_724faa",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 169.778,
+      "phases": {
+        "preparation": 166.5384,
+        "media_svg": 0.7626,
+        "youtube": 0.609,
+        "content_assembly": 0.3976,
+        "monetization": 1.4394,
+        "quality_write": 0.031
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_friendly_elec_5af6bb_friendly_elec_febf66_microwave_fir_d2177c",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 164.5238,
+      "phases": {
+        "preparation": 159.6648,
+        "media_svg": 0.7655,
+        "youtube": 0.011,
+        "content_assembly": 0.3929,
+        "monetization": 3.6595,
+        "quality_write": 0.03
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_friendly_elec_5af6bb_friendly_elec_febf66_vehicle_platf_f3b1dd",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 190.2014,
+      "phases": {
+        "preparation": 180.3415,
+        "media_svg": 0.7616,
+        "youtube": 4.0021,
+        "content_assembly": 0.4,
+        "monetization": 4.6629,
+        "quality_write": 0.0333
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_friendly_elec_5af6bb_microwave_spi_daf3fb_cable_couplin_33a29a",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 179.817,
+      "phases": {
+        "preparation": 178.6462,
+        "media_svg": 0.6392,
+        "youtube": 0.0122,
+        "content_assembly": 0.3984,
+        "monetization": 0.088,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_friendly_elec_5af6bb_microwave_spi_daf3fb_microwave_ref_2272b6",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 165.5053,
+      "phases": {
+        "preparation": 164.3023,
+        "media_svg": 0.7046,
+        "youtube": 0.0088,
+        "content_assembly": 0.3966,
+        "monetization": 0.0618,
+        "quality_write": 0.0312
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_friendly_elec_5af6bb_microwave_spi_daf3fb_radio_antenna_0c5692",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 140.4211,
+      "phases": {
+        "preparation": 138.6084,
+        "media_svg": 0.7183,
+        "youtube": 0.6094,
+        "content_assembly": 0.3928,
+        "monetization": 0.061,
+        "quality_write": 0.0313
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_helios_lasers_773815_aegis_integra_4d4642_destroyer_wea_5de467",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 162.3201,
+      "phases": {
+        "preparation": 161.0745,
+        "media_svg": 0.7421,
+        "youtube": 0.0111,
+        "content_assembly": 0.3977,
+        "monetization": 0.0611,
+        "quality_write": 0.0337
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_helios_lasers_773815_aegis_integra_4d4642_helios_integr_4f9d21",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 172.7085,
+      "phases": {
+        "preparation": 171.5094,
+        "media_svg": 0.6864,
+        "youtube": 0.0111,
+        "content_assembly": 0.406,
+        "monetization": 0.0625,
+        "quality_write": 0.0331
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_helios_lasers_773815_helios_dazzle_da10df_warship_escal_cbf1d4",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 146.1071,
+      "phases": {
+        "preparation": 144.8665,
+        "media_svg": 0.7554,
+        "youtube": 0.0098,
+        "content_assembly": 0.386,
+        "monetization": 0.0603,
+        "quality_write": 0.0292
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_helios_lasers_773815_helios_dazzle_da10df_helios_dazzli_04146f",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 165.0521,
+      "phases": {
+        "preparation": 161.7516,
+        "media_svg": 0.3964,
+        "youtube": 0.0088,
+        "content_assembly": 0.3938,
+        "monetization": 2.4704,
+        "quality_write": 0.031
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_helios_lasers_773815_threat_bounda_0b6cdc_drone_swarm_l_94cfd2",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 177.4577,
+      "phases": {
+        "preparation": 175.5919,
+        "media_svg": 0.7532,
+        "youtube": 0.603,
+        "content_assembly": 0.4104,
+        "monetization": 0.0666,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_helios_lasers_773815_navy_laser_li_1960e5_uss_ponce_law_cf1d03",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 198.0103,
+      "phases": {
+        "preparation": 196.7706,
+        "media_svg": 0.7353,
+        "youtube": 0.0099,
+        "content_assembly": 0.4001,
+        "monetization": 0.0607,
+        "quality_write": 0.0337
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_helios_lasers_773815_threat_bounda_0b6cdc_uss_preble_he_5bb733",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 136.6935,
+      "phases": {
+        "preparation": 135.4252,
+        "media_svg": 0.7672,
+        "youtube": 0.0075,
+        "content_assembly": 0.3975,
+        "monetization": 0.0641,
+        "quality_write": 0.0319
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_helios_lasers_773815_threat_bounda_0b6cdc_small_drone_d_c5211d",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 174.3422,
+      "phases": {
+        "preparation": 172.5016,
+        "media_svg": 0.7365,
+        "youtube": 0.6075,
+        "content_assembly": 0.3995,
+        "monetization": 0.0652,
+        "quality_write": 0.032
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_atmosph_af9b93_adaptive_opti_35e828_lost_energy_l_6d3234",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 133.8603,
+      "phases": {
+        "preparation": 130.3912,
+        "media_svg": 0.3318,
+        "youtube": 0.0086,
+        "content_assembly": 0.3898,
+        "monetization": 2.7085,
+        "quality_write": 0.0303
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_atmosph_af9b93_adaptive_opti_35e828_target_beacon_ddeb6f",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 163.2355,
+      "phases": {
+        "preparation": 162.4304,
+        "media_svg": 0.3276,
+        "youtube": 0.0076,
+        "content_assembly": 0.3918,
+        "monetization": 0.0469,
+        "quality_write": 0.0312
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_atmosph_af9b93_adaptive_opti_35e828_thermal_bloom_40df1b",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 219.1119,
+      "phases": {
+        "preparation": 218.2848,
+        "media_svg": 0.3232,
+        "youtube": 0.0102,
+        "content_assembly": 0.4107,
+        "monetization": 0.0474,
+        "quality_write": 0.0357
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_atmosph_af9b93_fog_laser_ran_e9f3f6_adaptive_opti_e1d38e",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 184.4109,
+      "phases": {
+        "preparation": 183.5921,
+        "media_svg": 0.3274,
+        "youtube": 0.0078,
+        "content_assembly": 0.3973,
+        "monetization": 0.0535,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_atmosph_af9b93_fog_laser_ran_e9f3f6_fog_droplet_l_0a418f",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 168.7294,
+      "phases": {
+        "preparation": 167.9051,
+        "media_svg": 0.326,
+        "youtube": 0.0101,
+        "content_assembly": 0.4048,
+        "monetization": 0.052,
+        "quality_write": 0.0315
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_atmosph_af9b93_fog_laser_ran_e9f3f6_visible_targe_b1ed46",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 192.7052,
+      "phases": {
+        "preparation": 191.8879,
+        "media_svg": 0.3203,
+        "youtube": 0.0113,
+        "content_assembly": 0.4021,
+        "monetization": 0.0509,
+        "quality_write": 0.0327
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_atmosph_af9b93_line_of_sight_1e6293_dragonfire_pr_5e0b50",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 142.8605,
+      "phases": {
+        "preparation": 142.0368,
+        "media_svg": 0.3331,
+        "youtube": 0.0112,
+        "content_assembly": 0.3962,
+        "monetization": 0.0516,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_atmosph_af9b93_line_of_sight_1e6293_laser_dwell_t_6c7abc",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 162.0967,
+      "phases": {
+        "preparation": 161.1363,
+        "media_svg": 0.4678,
+        "youtube": 0.011,
+        "content_assembly": 0.3934,
+        "monetization": 0.0558,
+        "quality_write": 0.0324
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_atmosph_af9b93_line_of_sight_1e6293_moving_target_f5120e",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 153.2785,
+      "phases": {
+        "preparation": 152.4823,
+        "media_svg": 0.324,
+        "youtube": 0.0078,
+        "content_assembly": 0.3909,
+        "monetization": 0.0407,
+        "quality_write": 0.0328
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_atmosph_af9b93_sea_spray_nav_87f1da_fog_vs_rain_l_b1c41e",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 157.5253,
+      "phases": {
+        "preparation": 156.6967,
+        "media_svg": 0.3253,
+        "youtube": 0.0097,
+        "content_assembly": 0.3972,
+        "monetization": 0.0664,
+        "quality_write": 0.03
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_atmosph_af9b93_sea_spray_nav_87f1da_maritime_weat_b74b58",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 170.6083,
+      "phases": {
+        "preparation": 169.7866,
+        "media_svg": 0.3266,
+        "youtube": 0.0101,
+        "content_assembly": 0.4046,
+        "monetization": 0.0483,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_atmosph_af9b93_sea_spray_nav_87f1da_sea_spray_aer_5b799a",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 118.6022,
+      "phases": {
+        "preparation": 117.8033,
+        "media_svg": 0.3278,
+        "youtube": 0.0098,
+        "content_assembly": 0.3842,
+        "monetization": 0.0472,
+        "quality_write": 0.0298
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_atmosph_af9b93_thermal_bloom_88599e_beam_diameter_92c711",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 131.0305,
+      "phases": {
+        "preparation": 130.2136,
+        "media_svg": 0.331,
+        "youtube": 0.0096,
+        "content_assembly": 0.3816,
+        "monetization": 0.0645,
+        "quality_write": 0.0303
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_atmosph_af9b93_thermal_bloom_88599e_crosswind_blo_cd38d3",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 201.9655,
+      "phases": {
+        "preparation": 201.1473,
+        "media_svg": 0.3271,
+        "youtube": 0.0099,
+        "content_assembly": 0.4029,
+        "monetization": 0.0471,
+        "quality_write": 0.0312
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_atmosph_af9b93_thermal_bloom_88599e_head_on_bloom_c4f733",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 165.3024,
+      "phases": {
+        "preparation": 164.5011,
+        "media_svg": 0.3223,
+        "youtube": 0.0099,
+        "content_assembly": 0.392,
+        "monetization": 0.0463,
+        "quality_write": 0.0308
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_precisi_07f65f_aim_point_tra_0a0817_fast_steering_3ce053",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 206.2702,
+      "phases": {
+        "preparation": 205.3979,
+        "media_svg": 0.3251,
+        "youtube": 0.0111,
+        "content_assembly": 0.4066,
+        "monetization": 0.0963,
+        "quality_write": 0.0332
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_precisi_07f65f_aim_point_tra_0a0817_reflected_ene_73efbe",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 153.9583,
+      "phases": {
+        "preparation": 152.5558,
+        "media_svg": 0.3294,
+        "youtube": 0.6029,
+        "content_assembly": 0.3928,
+        "monetization": 0.0465,
+        "quality_write": 0.0309
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_precisi_07f65f_aim_point_tra_0a0817_target_orient_47937b",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 147.0234,
+      "phases": {
+        "preparation": 145.5921,
+        "media_svg": 0.3311,
+        "youtube": 0.6023,
+        "content_assembly": 0.3949,
+        "monetization": 0.0718,
+        "quality_write": 0.0311
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_precisi_07f65f_dazzle_vs_dam_b21f62_camera_dazzle_125204",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 161.8029,
+      "phases": {
+        "preparation": 155.5138,
+        "media_svg": 0.3284,
+        "youtube": 3.3574,
+        "content_assembly": 0.395,
+        "monetization": 2.1784,
+        "quality_write": 0.0299
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_precisi_07f65f_dazzle_vs_dam_b21f62_dazzling_mini_471fb9",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 168.5628,
+      "phases": {
+        "preparation": 167.1458,
+        "media_svg": 0.3285,
+        "youtube": 0.6069,
+        "content_assembly": 0.4037,
+        "monetization": 0.0469,
+        "quality_write": 0.031
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_precisi_07f65f_dazzle_vs_dam_b21f62_wavelength_se_991a99",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 185.2815,
+      "phases": {
+        "preparation": 183.8662,
+        "media_svg": 0.3299,
+        "youtube": 0.6072,
+        "content_assembly": 0.3987,
+        "monetization": 0.0468,
+        "quality_write": 0.0327
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_precisi_07f65f_dragonfire_la_41cc67_above_horizon_e3259e",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 142.1145,
+      "phases": {
+        "preparation": 141.298,
+        "media_svg": 0.3278,
+        "youtube": 0.0124,
+        "content_assembly": 0.3949,
+        "monetization": 0.0495,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_precisi_07f65f_dragonfire_la_41cc67_dragonfire_co_ca24a7",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 165.5521,
+      "phases": {
+        "preparation": 164.1361,
+        "media_svg": 0.3291,
+        "youtube": 0.607,
+        "content_assembly": 0.4041,
+        "monetization": 0.0434,
+        "quality_write": 0.0324
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_precisi_07f65f_dragonfire_la_41cc67_dragonfire_we_c95ffc",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 193.92,
+      "phases": {
+        "preparation": 192.4449,
+        "media_svg": 0.3469,
+        "youtube": 0.6265,
+        "content_assembly": 0.4232,
+        "monetization": 0.0444,
+        "quality_write": 0.0342
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_precisi_07f65f_laser_dwell_t_efaf62_drone_materia_0bf6c4",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 142.3819,
+      "phases": {
+        "preparation": 133.077,
+        "media_svg": 0.3297,
+        "youtube": 0.6132,
+        "content_assembly": 0.3954,
+        "monetization": 7.9363,
+        "quality_write": 0.0302
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_precisi_07f65f_laser_dwell_t_efaf62_swarm_laser_b_ccf7b0",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 159.3124,
+      "phases": {
+        "preparation": 158.4663,
+        "media_svg": 0.3261,
+        "youtube": 0.0127,
+        "content_assembly": 0.3996,
+        "monetization": 0.077,
+        "quality_write": 0.0308
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_precisi_07f65f_laser_dwell_t_efaf62_tracking_erro_c8b0de",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 200.2206,
+      "phases": {
+        "preparation": 199.3843,
+        "media_svg": 0.3286,
+        "youtube": 0.0114,
+        "content_assembly": 0.4044,
+        "monetization": 0.0586,
+        "quality_write": 0.0332
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_precisi_07f65f_laser_weather_9300b0_fog_rain_lase_be632d",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 198.4974,
+      "phases": {
+        "preparation": 197.6706,
+        "media_svg": 0.33,
+        "youtube": 0.0116,
+        "content_assembly": 0.4121,
+        "monetization": 0.0412,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_precisi_07f65f_laser_weather_9300b0_low_flying_dr_381f74",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 207.2806,
+      "phases": {
+        "preparation": 202.47,
+        "media_svg": 0.3324,
+        "youtube": 3.9901,
+        "content_assembly": 0.4138,
+        "monetization": 0.0421,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_laser_precisi_07f65f_laser_weather_9300b0_smoke_screens_71943e",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 191.4787,
+      "phases": {
+        "preparation": 190.6598,
+        "media_svg": 0.3298,
+        "youtube": 0.0101,
+        "content_assembly": 0.4057,
+        "monetization": 0.0421,
+        "quality_write": 0.0314
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7_layered_defen_f1dec3_laser_missile_656fe1",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 165.9008,
+      "phases": {
+        "preparation": 164.0838,
+        "media_svg": 0.709,
+        "youtube": 0.6031,
+        "content_assembly": 0.4074,
+        "monetization": 0.0651,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7_microwave_dro_d54a54_drone_spacing_b86ee4",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 149.9485,
+      "phases": {
+        "preparation": 148.2253,
+        "media_svg": 0.6308,
+        "youtube": 0.6064,
+        "content_assembly": 0.3904,
+        "monetization": 0.065,
+        "quality_write": 0.0306
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7_layered_defen_f1dec3_microwave_swa_2b3244",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 277.1066,
+      "phases": {
+        "preparation": 275.7946,
+        "media_svg": 0.7635,
+        "youtube": 0.013,
+        "content_assembly": 0.4317,
+        "monetization": 0.067,
+        "quality_write": 0.0368
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7_microwave_dro_d54a54_laser_queue_s_797a49",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 189.9382,
+      "phases": {
+        "preparation": 188.654,
+        "media_svg": 0.7641,
+        "youtube": 0.0076,
+        "content_assembly": 0.4152,
+        "monetization": 0.0643,
+        "quality_write": 0.0331
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7_microwave_dro_d54a54_microwave_bat_91d366",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 198.43,
+      "phases": {
+        "preparation": 197.1344,
+        "media_svg": 0.7648,
+        "youtube": 0.0118,
+        "content_assembly": 0.4188,
+        "monetization": 0.0651,
+        "quality_write": 0.0351
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7_microwave_fri_72abc8_microwave_eff_629428",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 161.4527,
+      "phases": {
+        "preparation": 159.5948,
+        "media_svg": 0.7648,
+        "youtube": 0.5972,
+        "content_assembly": 0.3994,
+        "monetization": 0.0636,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7_microwave_fri_72abc8_microwave_exc_82525b",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 158.0719,
+      "phases": {
+        "preparation": 156.2264,
+        "media_svg": 0.7329,
+        "youtube": 0.602,
+        "content_assembly": 0.4129,
+        "monetization": 0.0637,
+        "quality_write": 0.034
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7_microwave_fri_72abc8_protected_rad_86458e",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 135.8993,
+      "phases": {
+        "preparation": 134.5628,
+        "media_svg": 0.7525,
+        "youtube": 0.0095,
+        "content_assembly": 0.4805,
+        "monetization": 0.0618,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7_weather_laser_7b9893_clear_tests_c_cef0da",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 238.1032,
+      "phases": {
+        "preparation": 236.8228,
+        "media_svg": 0.7646,
+        "youtube": 0.0091,
+        "content_assembly": 0.4213,
+        "monetization": 0.047,
+        "quality_write": 0.0384
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7_weather_laser_7b9893_fog_sea_spray_2946ea",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 215.6064,
+      "phases": {
+        "preparation": 214.3509,
+        "media_svg": 0.7528,
+        "youtube": 0.0124,
+        "content_assembly": 0.4131,
+        "monetization": 0.0449,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7_weather_laser_7b9893_smoke_dust_mi_922736",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 168.8717,
+      "phases": {
+        "preparation": 167.0883,
+        "media_svg": 0.6959,
+        "youtube": 0.609,
+        "content_assembly": 0.3997,
+        "monetization": 0.0459,
+        "quality_write": 0.0328
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_leonidas_anti_14867a_leonidas_49_d_b5d429_atterbury_ope_319042",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 191.0112,
+      "phases": {
+        "preparation": 190.1119,
+        "media_svg": 0.398,
+        "youtube": 0.0088,
+        "content_assembly": 0.3992,
+        "monetization": 0.0622,
+        "quality_write": 0.031
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_leonidas_anti_14867a_leonidas_49_d_b5d429_microwave_cos_5e733f",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 178.6168,
+      "phases": {
+        "preparation": 177.3471,
+        "media_svg": 0.7611,
+        "youtube": 0.0076,
+        "content_assembly": 0.4012,
+        "monetization": 0.0644,
+        "quality_write": 0.0354
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_leonidas_anti_14867a_leonidas_49_d_b5d429_one_pulse_swa_1f9f6f",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 178.7732,
+      "phases": {
+        "preparation": 177.5253,
+        "media_svg": 0.7421,
+        "youtube": 0.01,
+        "content_assembly": 0.4003,
+        "monetization": 0.0628,
+        "quality_write": 0.0327
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_leonidas_anti_14867a_leonidas_army_3cfd66_four_prototyp_95e1fb",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 198.7663,
+      "phases": {
+        "preparation": 197.5195,
+        "media_svg": 0.7406,
+        "youtube": 0.0089,
+        "content_assembly": 0.4029,
+        "monetization": 0.0625,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_leonidas_anti_14867a_leonidas_army_3cfd66_generation_tw_d7a0be",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 178.7126,
+      "phases": {
+        "preparation": 174.6583,
+        "media_svg": 0.7358,
+        "youtube": 0.0087,
+        "content_assembly": 0.3928,
+        "monetization": 2.8847,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_leonidas_anti_14867a_leonidas_army_3cfd66_soldier_train_c30381",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 257.1983,
+      "phases": {
+        "preparation": 248.265,
+        "media_svg": 0.7411,
+        "youtube": 0.01,
+        "content_assembly": 0.4109,
+        "monetization": 7.737,
+        "quality_write": 0.0344
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_leonidas_anti_14867a_leonidas_frie_0d4251_friendly_dron_644ac8",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 221.4692,
+      "phases": {
+        "preparation": 220.2171,
+        "media_svg": 0.7302,
+        "youtube": 0.0123,
+        "content_assembly": 0.4136,
+        "monetization": 0.0623,
+        "quality_write": 0.0337
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_leonidas_anti_14867a_leonidas_frie_0d4251_microwave_bea_8e639d",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 206.5509,
+      "phases": {
+        "preparation": 205.3125,
+        "media_svg": 0.7293,
+        "youtube": 0.0087,
+        "content_assembly": 0.4039,
+        "monetization": 0.0618,
+        "quality_write": 0.0347
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_leonidas_anti_14867a_leonidas_swar_242a34_epirus_2025_s_b44072",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 208.7155,
+      "phases": {
+        "preparation": 207.4282,
+        "media_svg": 0.7619,
+        "youtube": 0.0102,
+        "content_assembly": 0.3987,
+        "monetization": 0.083,
+        "quality_write": 0.0337
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_leonidas_anti_14867a_leonidas_swar_242a34_microwave_lay_b03e61",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 218.3452,
+      "phases": {
+        "preparation": 217.102,
+        "media_svg": 0.7146,
+        "youtube": 0.008,
+        "content_assembly": 0.4213,
+        "monetization": 0.065,
+        "quality_write": 0.0342
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_leonidas_anti_14867a_leonidas_swar_242a34_one_burst_swa_e47820",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 239.0989,
+      "phases": {
+        "preparation": 237.8755,
+        "media_svg": 0.6965,
+        "youtube": 0.0113,
+        "content_assembly": 0.4185,
+        "monetization": 0.0606,
+        "quality_write": 0.0364
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_leonidas_anti_14867a_leonidas_vari_30b5ce_expeditionary_0b0252",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 173.2172,
+      "phases": {
+        "preparation": 171.355,
+        "media_svg": 0.7623,
+        "youtube": 0.601,
+        "content_assembly": 0.4054,
+        "monetization": 0.0614,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_leonidas_anti_14867a_leonidas_vari_30b5ce_stryker_mobil_ff2627",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 174.3921,
+      "phases": {
+        "preparation": 173.216,
+        "media_svg": 0.6927,
+        "youtube": 0.0086,
+        "content_assembly": 0.3942,
+        "monetization": 0.0476,
+        "quality_write": 0.0331
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_microwave_dro_730805_collateral_el_10237a_civilian_infr_88a0b8",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 145.4907,
+      "phases": {
+        "preparation": 144.176,
+        "media_svg": 0.2214,
+        "youtube": 0.6078,
+        "content_assembly": 0.3931,
+        "monetization": 0.0615,
+        "quality_write": 0.0307
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_microwave_dro_730805_collateral_el_10237a_friendly_elec_a2c8f1",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 150.7913,
+      "phases": {
+        "preparation": 149.3873,
+        "media_svg": 0.324,
+        "youtube": 0.5988,
+        "content_assembly": 0.401,
+        "monetization": 0.048,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_microwave_dro_730805_collateral_el_10237a_microwave_exc_82525b",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 182.7724,
+      "phases": {
+        "preparation": 177.2482,
+        "media_svg": 0.3297,
+        "youtube": 0.6083,
+        "content_assembly": 0.4019,
+        "monetization": 4.1531,
+        "quality_write": 0.0312
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_microwave_dro_730805_live_fire_swa_410dfd_battlefield_l_1348b7",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 199.2255,
+      "phases": {
+        "preparation": 197.8078,
+        "media_svg": 0.3185,
+        "youtube": 0.604,
+        "content_assembly": 0.4053,
+        "monetization": 0.0571,
+        "quality_write": 0.0328
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_microwave_dro_730805_live_fire_swa_410dfd_rapiddestroye_b8465d",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 149.6221,
+      "phases": {
+        "preparation": 148.3183,
+        "media_svg": 0.2282,
+        "youtube": 0.602,
+        "content_assembly": 0.3971,
+        "monetization": 0.044,
+        "quality_write": 0.0325
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_microwave_dro_730805_live_fire_swa_410dfd_fiber_optic_l_c6178d",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 245.2841,
+      "phases": {
+        "preparation": 236.8096,
+        "media_svg": 0.3244,
+        "youtube": 4.8793,
+        "content_assembly": 0.4203,
+        "monetization": 2.8155,
+        "quality_write": 0.0351
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_microwave_dro_730805_microwave_las_837ffc_laser_dwell_q_2cc4fc",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 153.7284,
+      "phases": {
+        "preparation": 152.9063,
+        "media_svg": 0.3306,
+        "youtube": 0.0085,
+        "content_assembly": 0.3837,
+        "monetization": 0.068,
+        "quality_write": 0.0313
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_microwave_dro_730805_microwave_las_837ffc_layered_swarm_6adaad",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 199.8619,
+      "phases": {
+        "preparation": 198.4356,
+        "media_svg": 0.324,
+        "youtube": 0.6185,
+        "content_assembly": 0.4027,
+        "monetization": 0.0487,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_microwave_dro_730805_microwave_las_837ffc_microwave_are_2bffe0",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 182.1931,
+      "phases": {
+        "preparation": 180.7922,
+        "media_svg": 0.3201,
+        "youtube": 0.5944,
+        "content_assembly": 0.4066,
+        "monetization": 0.0473,
+        "quality_write": 0.0325
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_microwave_dro_730805_wide_beam_cou_daa73c_beam_width_sw_44c711",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 171.1481,
+      "phases": {
+        "preparation": 170.3166,
+        "media_svg": 0.3287,
+        "youtube": 0.0096,
+        "content_assembly": 0.3897,
+        "monetization": 0.0723,
+        "quality_write": 0.0313
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_microwave_dro_730805_wide_beam_cou_daa73c_drone_failure_cf9590",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 179.4055,
+      "phases": {
+        "preparation": 178.5818,
+        "media_svg": 0.3306,
+        "youtube": 0.0087,
+        "content_assembly": 0.403,
+        "monetization": 0.049,
+        "quality_write": 0.0324
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_microwave_dro_730805_wide_beam_cou_daa73c_leonidas_swar_f32566",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 173.4298,
+      "phases": {
+        "preparation": 172.6121,
+        "media_svg": 0.3276,
+        "youtube": 0.0112,
+        "content_assembly": 0.3977,
+        "monetization": 0.0492,
+        "quality_write": 0.032
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_power_cooling_afc91e_laser_fieldin_9df46e_laser_mainten_e3c0af",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 155.4338,
+      "phases": {
+        "preparation": 154.6124,
+        "media_svg": 0.3282,
+        "youtube": 0.0099,
+        "content_assembly": 0.3965,
+        "monetization": 0.0559,
+        "quality_write": 0.0308
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_power_cooling_afc91e_laser_fieldin_9df46e_moving_target_a18f9b",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 231.1955,
+      "phases": {
+        "preparation": 230.3539,
+        "media_svg": 0.3282,
+        "youtube": 0.0078,
+        "content_assembly": 0.4206,
+        "monetization": 0.0499,
+        "quality_write": 0.035
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_power_cooling_afc91e_laser_fieldin_9df46e_weather_laser_0e8ab0",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 215.1588,
+      "phases": {
+        "preparation": 214.3215,
+        "media_svg": 0.3298,
+        "youtube": 0.0114,
+        "content_assembly": 0.4121,
+        "monetization": 0.0495,
+        "quality_write": 0.0345
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_power_cooling_afc91e_laser_host_pl_9b81d1_airborne_lase_c4101f",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 134.4253,
+      "phases": {
+        "preparation": 130.5792,
+        "media_svg": 0.3253,
+        "youtube": 0.0112,
+        "content_assembly": 0.3898,
+        "monetization": 3.0875,
+        "quality_write": 0.0324
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_power_cooling_afc91e_laser_host_pl_9b81d1_seawater_lase_8475f5",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 140.283,
+      "phases": {
+        "preparation": 139.4872,
+        "media_svg": 0.3238,
+        "youtube": 0.0095,
+        "content_assembly": 0.3865,
+        "monetization": 0.0465,
+        "quality_write": 0.0294
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_power_cooling_afc91e_laser_host_pl_9b81d1_ship_laser_po_325146",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 190.9435,
+      "phases": {
+        "preparation": 190.1026,
+        "media_svg": 0.3495,
+        "youtube": 0.0098,
+        "content_assembly": 0.4031,
+        "monetization": 0.047,
+        "quality_write": 0.0314
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_power_cooling_afc91e_laser_platfor_141b25_laser_cooling_930d40",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 170.5823,
+      "phases": {
+        "preparation": 169.8657,
+        "media_svg": 0.2209,
+        "youtube": 0.0111,
+        "content_assembly": 0.3984,
+        "monetization": 0.054,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_power_cooling_afc91e_laser_platfor_141b25_laser_efficie_c932ab",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 165.8934,
+      "phases": {
+        "preparation": 165.0592,
+        "media_svg": 0.3273,
+        "youtube": 0.0088,
+        "content_assembly": 0.414,
+        "monetization": 0.0525,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_power_cooling_afc91e_laser_platfor_141b25_laser_platfor_4b5d49",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 178.337,
+      "phases": {
+        "preparation": 177.5236,
+        "media_svg": 0.3195,
+        "youtube": 0.0089,
+        "content_assembly": 0.3966,
+        "monetization": 0.0549,
+        "quality_write": 0.0335
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_thor_microwav_ef8a15_thor_2023_swa_495c2d_kirtland_thor_9763eb",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 198.3082,
+      "phases": {
+        "preparation": 194.5842,
+        "media_svg": 0.7666,
+        "youtube": 0.0088,
+        "content_assembly": 0.4026,
+        "monetization": 2.514,
+        "quality_write": 0.0319
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_thor_microwav_ef8a15_thor_2023_swa_495c2d_thor_sensor_e_564b51",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 142.018,
+      "phases": {
+        "preparation": 140.8012,
+        "media_svg": 0.7309,
+        "youtube": 0.0088,
+        "content_assembly": 0.3814,
+        "monetization": 0.0629,
+        "quality_write": 0.0327
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_thor_microwav_ef8a15_thor_2023_swa_495c2d_thor_wide_bea_3ac9e3",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 180.4021,
+      "phases": {
+        "preparation": 175.2466,
+        "media_svg": 0.7867,
+        "youtube": 0.6021,
+        "content_assembly": 0.4027,
+        "monetization": 3.333,
+        "quality_write": 0.0309
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_thor_microwav_ef8a15_thor_electron_02f850_friendly_elec_9f4bbc",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 192.736,
+      "phases": {
+        "preparation": 184.7651,
+        "media_svg": 0.7308,
+        "youtube": 0.0078,
+        "content_assembly": 0.3985,
+        "monetization": 6.7995,
+        "quality_write": 0.0343
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_thor_microwav_ef8a15_thor_electron_02f850_thor_firing_s_9036a8",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 151.7075,
+      "phases": {
+        "preparation": 150.4505,
+        "media_svg": 0.7641,
+        "youtube": 0.0108,
+        "content_assembly": 0.3933,
+        "monetization": 0.0586,
+        "quality_write": 0.0302
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_thor_microwav_ef8a15_thor_electron_02f850_hpm_human_exp_f173b6",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 179.1902,
+      "phases": {
+        "preparation": 174.1273,
+        "media_svg": 0.7474,
+        "youtube": 0.0091,
+        "content_assembly": 0.407,
+        "monetization": 3.8681,
+        "quality_write": 0.0313
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_thor_microwav_ef8a15_thor_microwav_636998_microwave_cou_657732",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 171.7358,
+      "phases": {
+        "preparation": 170.4983,
+        "media_svg": 0.7355,
+        "youtube": 0.0103,
+        "content_assembly": 0.3998,
+        "monetization": 0.0554,
+        "quality_write": 0.0366
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_thor_microwav_ef8a15_thor_microwav_636998_drone_variati_62e795",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 211.6139,
+      "phases": {
+        "preparation": 210.6908,
+        "media_svg": 0.4183,
+        "youtube": 0.01,
+        "content_assembly": 0.4059,
+        "monetization": 0.0561,
+        "quality_write": 0.0327
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_thor_microwav_ef8a15_thor_wide_bea_77bcf1_thor_swarm_te_853be6",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 208.5261,
+      "phases": {
+        "preparation": 204.1453,
+        "media_svg": 0.7528,
+        "youtube": 0.0103,
+        "content_assembly": 0.4062,
+        "monetization": 3.1804,
+        "quality_write": 0.0311
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_thor_microwav_ef8a15_thor_wide_bea_77bcf1_wide_beam_eng_872adc",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 182.0981,
+      "phases": {
+        "preparation": 180.8723,
+        "media_svg": 0.7251,
+        "youtube": 0.0077,
+        "content_assembly": 0.401,
+        "monetization": 0.0595,
+        "quality_write": 0.0324
+      }
+    },
+    {
+      "base_name": "Directed_Ener_98f417_thor_microwav_ef8a15_thor_wide_bea_77bcf1_wide_beam_lia_0685b0",
+      "level": 4,
+      "outcome": "rebuilt",
+      "total_seconds": 257.8789,
+      "phases": {
+        "preparation": 251.3353,
+        "media_svg": 0.7339,
+        "youtube": 0.0078,
+        "content_assembly": 0.4089,
+        "monetization": 5.3589,
+        "quality_write": 0.0342
+      }
+    }
+  ],
+  "parallel": {
+    "enabled": true,
+    "mode": "process",
+    "worker_count": 2,
+    "workers_raw": "auto",
+    "max_workers": 2,
+    "progress_interval_seconds": 60.0,
+    "queued_rebuild_pages": 253,
+    "reused_pages": 0,
+    "rebuilt_pages": 253,
+    "error_pages": 0,
+    "page_work_wall_seconds": 23602.4721,
+    "rebuilt_pages_per_minute": 0.6432,
+    "queued_rebuild_pages_per_minute": 0.6432,
+    "apparent_page_work_speedup": 1.9888,
+    "process_worker_diagnostics": {
+      "completed_pages": 253,
+      "successful_pages": 253,
+      "failed_pages": 0,
+      "worker_summary": {
+        "33020": {
+          "pages": 128,
+          "successes": 128,
+          "failures": 0,
+          "total_worker_seconds": 23349.0036,
+          "max_worker_seconds": 355.3644,
+          "last_base_name": "Directed_Ener_98f417_thor_microwav_ef8a15_thor_wide_bea_77bcf1_wide_beam_eng_872adc"
+        },
+        "46048": {
+          "pages": 125,
+          "successes": 125,
+          "failures": 0,
+          "total_worker_seconds": 23600.1758,
+          "max_worker_seconds": 422.5628,
+          "last_base_name": "Directed_Ener_98f417_thor_microwav_ef8a15_thor_wide_bea_77bcf1_wide_beam_lia_0685b0"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "Directed_Ener_98f417_leonidas_anti_14867a",
+          "level": 2,
+          "success": true,
+          "worker_pid": 46048,
+          "worker_duration_seconds": 422.5628,
+          "total_seconds": 422.5254,
+          "worker_started_at_utc": "2026-06-19T11:51:57.003204Z",
+          "worker_finished_at_utc": "2026-06-19T11:58:59.528640Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Directed_Ener_98f417",
+          "level": 1,
+          "success": true,
+          "worker_pid": 46048,
+          "worker_duration_seconds": 395.02,
+          "total_seconds": 394.9858,
+          "worker_started_at_utc": "2026-06-19T11:33:46.681451Z",
+          "worker_finished_at_utc": "2026-06-19T11:40:21.667283Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Directed_Ener_98f417_microwave_dro_730805",
+          "level": 2,
+          "success": true,
+          "worker_pid": 33020,
+          "worker_duration_seconds": 355.3644,
+          "total_seconds": 355.3281,
+          "worker_started_at_utc": "2026-06-19T11:55:58.337082Z",
+          "worker_finished_at_utc": "2026-06-19T12:01:53.665219Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Directed_Ener_98f417_friendly_elec_5af6bb",
+          "level": 2,
+          "success": true,
+          "worker_pid": 33020,
+          "worker_duration_seconds": 318.561,
+          "total_seconds": 318.5259,
+          "worker_started_at_utc": "2026-06-19T11:41:58.558661Z",
+          "worker_finished_at_utc": "2026-06-19T11:47:17.084599Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Directed_Ener_98f417_helios_lasers_773815_navy_laser_li_1960e5",
+          "level": 3,
+          "success": true,
+          "worker_pid": 33020,
+          "worker_duration_seconds": 302.4934,
+          "total_seconds": 302.4594,
+          "worker_started_at_utc": "2026-06-19T12:44:28.813807Z",
+          "worker_finished_at_utc": "2026-06-19T12:49:31.273214Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Directed_Ener_98f417_cost_per_shot_05acf8",
+          "level": 2,
+          "success": true,
+          "worker_pid": 33020,
+          "worker_duration_seconds": 297.616,
+          "total_seconds": 297.5828,
+          "worker_started_at_utc": "2026-06-19T11:33:48.523286Z",
+          "worker_finished_at_utc": "2026-06-19T11:38:46.106143Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Directed_Ener_98f417_dragonfire_uk_273ef3",
+          "level": 2,
+          "success": true,
+          "worker_pid": 46048,
+          "worker_duration_seconds": 288.5657,
+          "total_seconds": 288.5291,
+          "worker_started_at_utc": "2026-06-19T11:40:21.702386Z",
+          "worker_finished_at_utc": "2026-06-19T11:45:10.231494Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Directed_Ener_98f417_lasers_vs_mic_4fb1e7_layered_defen_f1dec3_microwave_swa_2b3244",
+          "level": 4,
+          "success": true,
+          "worker_pid": 46048,
+          "worker_duration_seconds": 277.1411,
+          "total_seconds": 277.1066,
+          "worker_started_at_utc": "2026-06-19T16:38:36.282767Z",
+          "worker_finished_at_utc": "2026-06-19T16:43:13.389418Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Directed_Ener_98f417_laser_atmosph_af9b93",
+          "level": 2,
+          "success": true,
+          "worker_pid": 33020,
+          "worker_duration_seconds": 275.8543,
+          "total_seconds": 275.8191,
+          "worker_started_at_utc": "2026-06-19T11:47:17.120896Z",
+          "worker_finished_at_utc": "2026-06-19T11:51:52.940024Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Directed_Ener_98f417_leonidas_anti_14867a_leonidas_army_3cfd66",
+          "level": 3,
+          "success": true,
+          "worker_pid": 33020,
+          "worker_duration_seconds": 268.7371,
+          "total_seconds": 268.7025,
+          "worker_started_at_utc": "2026-06-19T13:10:35.886510Z",
+          "worker_finished_at_utc": "2026-06-19T13:15:04.589050Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
+    }
+  }
+}

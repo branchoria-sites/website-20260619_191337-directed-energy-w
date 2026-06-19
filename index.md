@@ -166,6 +166,10 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+header:
+  og_image: /assets/images/Directed_Ener_98f417-overview-social.jpg
+  preview_image: /assets/images/Directed_Ener_98f417-overview-social.jpg
+image: /assets/images/Directed_Ener_98f417-overview-social.jpg
 site_image_description: A naval defensive system tracks a small drone over the sea while a ground crew monitors power and cooling equipment nearby.
 ---
 

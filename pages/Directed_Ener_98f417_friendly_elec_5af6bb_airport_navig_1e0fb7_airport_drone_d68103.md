@@ -269,44 +269,44 @@ image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_airport_navig_1e
 
 ## Introduction
 
-Airports generally prefer to detect and track unauthorised drones before considering any form of electronic disruption. The reason is straightforward: detection systems can improve situational awareness without transmitting the kinds of signals that might interfere with aircraft communications, navigation aids, surveillance infrastructure, or air traffic control operations. In an environment where safety margins are tightly regulated, finding a drone is often easier to approve, deploy, and integrate than attempting to disable it. Aviation authorities in both North America and Europe increasingly emphasise detection, identification, and tracking as the foundation of airport [counter-drone]({{ 'missile-savings/' | relative_url }}) programmes, while active mitigation measures remain subject to far stricter legal and technical controls. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/airports/new_entrants/uas_detection_mitigation_response" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration+2Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">uas detection mitigation response</span><span class="citation-popover-snippet">Federal Aviation AdministrationUAS Detection, Mitigation, and Response on AirportsOct 13, 2023 — This plan provides specific guidance to...</span></span></span>
+Airports generally prefer to detect and track unauthorised drones before considering any form of electronic disruption. The reason is straightforward: detection systems can improve situational awareness without transmitting the kinds of signals that might interfere with aircraft communications, navigation aids, surveillance infrastructure, or air traffic control operations. In an environment where safety margins are tightly regulated, finding a drone is often easier to approve, deploy, and integrate than attempting to disable it. Aviation authorities in both North America and Europe increasingly emphasise detection, identification, and tracking as the foundation of airport [counter-drone]({{ 'missile-savings/' | relative_url }}) programmes, while active mitigation measures remain subject to far stricter legal and technical controls.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/airports/new_entrants/uas_detection_mitigation_response" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration+2Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">uas detection mitigation response</span><span class="citation-popover-snippet">Federal Aviation AdministrationUAS Detection, Mitigation, and Response on AirportsOct 13, 2023 — This plan provides specific guidance to...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_airport_navig_1e0fb7_airport_drone_d68103-Illustration-1-dark.svg" | relative_url }}" alt="Detection First illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_airport_navig_1e0fb7_airport_drone_d68103-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_airport_navig_1e0fb7_airport_drone_d68103-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This detection-first approach is especially relevant within the broader discussion of directed-energy and electromagnetic counter-drone technologies. Airports must balance protection from drone incursions against the risk of creating new electronic hazards. As a result, many airport systems are designed to observe rather than interfere, giving operators time to assess the situation and choose the safest response. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/regulations_policies/rulemaking/committees/documents/index.cfm/committee/browse/committeeID/877" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration+2AirSight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationAdvisory and Rulemaking CommitteesThe UAS Detection and Mitigation Systems Aviation Rulemaking Committee w...</span></span></span>
+This detection-first approach is especially relevant within the broader discussion of directed-energy and electromagnetic counter-drone technologies. Airports must balance protection from drone incursions against the risk of creating new electronic hazards. As a result, many airport systems are designed to observe rather than interfere, giving operators time to assess the situation and choose the safest response.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/regulations_policies/rulemaking/committees/documents/index.cfm/committee/browse/committeeID/877" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration+2AirSight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationAdvisory and Rulemaking CommitteesThe UAS Detection and Mitigation Systems Aviation Rulemaking Committee w...</span></span></span>
 
 ## Why Airports Often Detect Before They Disable
 
 The distinction between detection and mitigation is central to airport policy. Detection systems gather information about a drone's presence, location, movement, and sometimes its operator. Mitigation systems attempt to alter the drone's behaviour, often by disrupting communications or navigation links.
 
-Regulators consistently treat these activities differently because the risks are different. Radio-frequency jamming, GPS disruption, and similar techniques can affect legitimate users of the radio spectrum. Around airports, where aircraft depend on reliable communications and navigation services, even unintended interference can create unacceptable consequences. This is one reason why many jurisdictions restrict the use of active counter-drone measures to specially authorised government entities while allowing broader use of detection technologies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-22-105705" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2AirSight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 22 105705</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Counter-Drone Technologies15 Mar 2022 — For example, interference signals can jam or break the communication...</span></span></span>
+Regulators consistently treat these activities differently because the risks are different. Radio-frequency jamming, GPS disruption, and similar techniques can affect legitimate users of the radio spectrum. Around airports, where aircraft depend on reliable communications and navigation services, even unintended interference can create unacceptable consequences. This is one reason why many jurisdictions restrict the use of active counter-drone measures to specially authorised government entities while allowing broader use of detection technologies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-22-105705" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2AirSight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 22 105705</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Counter-Drone Technologies15 Mar 2022 — For example, interference signals can jam or break the communication...</span></span></span>
 
-The result is a practical hierarchy: first detect, then verify, then decide whether any further action is necessary. In many cases, operational responses such as temporary runway restrictions, police [deployment]({{ 'deployment/' | relative_url }}), pilot notifications, or air traffic adjustments can be made without using electronic disruption at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/airports/new_entrants/uas_detection_mitigation_response" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration+2EUROCONTROL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">uas detection mitigation response</span><span class="citation-popover-snippet">Federal Aviation AdministrationUAS Detection, Mitigation, and Response on AirportsOct 13, 2023 — This plan provides specific guidance to...</span></span></span>
+The result is a practical hierarchy: first detect, then verify, then decide whether any further action is necessary. In many cases, operational responses such as temporary runway restrictions, police [deployment]({{ 'deployment/' | relative_url }}), pilot notifications, or air traffic adjustments can be made without using electronic disruption at all.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/airports/new_entrants/uas_detection_mitigation_response" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration+2EUROCONTROL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">uas detection mitigation response</span><span class="citation-popover-snippet">Federal Aviation AdministrationUAS Detection, Mitigation, and Response on AirportsOct 13, 2023 — This plan provides specific guidance to...</span></span></span>
 
 ## What Radar, RF Sensors, and Cameras Add Together
 
-Modern airport [drone detection]({{ 'drone-detection/' | relative_url }}) rarely depends on a single sensor. Instead, airports increasingly rely on [sensor fusion]({{ 'sensor-fusion/' | relative_url }}), combining multiple detection methods that compensate for one another's weaknesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.jrc.ec.europa.eu/repository/bitstream/JRC140692/JRC140692_01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.jrc.ec.europa.eu">[JRC Publications+2MAG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.jrc.ec.europa.eu</span><span class="citation-popover-snippet">JRC PublicationsC-UAS detection, tracking and identification technologyby G POPPINGA — Various sensing modalities, such as acoustic, elec...</span></span></span>
+Modern airport [drone detection]({{ 'drone-detection/' | relative_url }}) rarely depends on a single sensor. Instead, airports increasingly rely on [sensor fusion]({{ 'sensor-fusion/' | relative_url }}), combining multiple detection methods that compensate for one another's weaknesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.jrc.ec.europa.eu/repository/bitstream/JRC140692/JRC140692_01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.jrc.ec.europa.eu">[JRC Publications+2MAG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.jrc.ec.europa.eu</span><span class="citation-popover-snippet">JRC PublicationsC-UAS detection, tracking and identification technologyby G POPPINGA — Various sensing modalities, such as acoustic, elec...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/25WC9VjUX_U" title="FAA tests ability to detect drones following mystery sightings late last year" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=25WC9VjUX_U" target="_blank" rel="noopener noreferrer">FAA tests ability to detect drones following mystery sightings late last year</a></p><p class="youtube-embed-meta">Channel: WJACTV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=25WC9VjUX_U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=25WC9VjUX_U">Open on YouTube</a></p></div></div></div>
 
 ### Radar Provides Broad Airspace Awareness
 
-Radar is often the first layer because it can monitor large volumes of airspace and detect moving objects regardless of whether they are transmitting signals. This makes radar valuable against autonomous or "RF-silent" drones that do not maintain a continuous radio link with an operator. Radar can also track multiple targets simultaneously and provide continuous position updates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.robinradar.com/resources/drone-detection-civil-aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: robinradar.com">[Robin Radar+2Dedrone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">robinradar.com</span><span class="citation-popover-snippet">Robin RadarHow to Detect Drones &amp; Mitigate Drone Incidents at AirportsDrone radars detect and track drones over a larger area than other...</span></span></span>
+Radar is often the first layer because it can monitor large volumes of airspace and detect moving objects regardless of whether they are transmitting signals. This makes radar valuable against autonomous or "RF-silent" drones that do not maintain a continuous radio link with an operator. Radar can also track multiple targets simultaneously and provide continuous position updates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.robinradar.com/resources/drone-detection-civil-aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: robinradar.com">[Robin Radar+2Dedrone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">robinradar.com</span><span class="citation-popover-snippet">Robin RadarHow to Detect Drones &amp; Mitigate Drone Incidents at AirportsDrone radars detect and track drones over a larger area than other...</span></span></span>
 
-Importantly, airport surveillance radars operate within established aviation frameworks. Counter-drone radars are generally designed to observe targets rather than interfere with them, making them compatible with the detection-first philosophy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eurocontrol.int/service/surveillance-system-and-sensors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurocontrol.int">[EUROCONTROL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurocontrol.int</span><span class="citation-popover-snippet">Surveillance System and SensorsWe monitor and support the operation, evolution and sustainability of surveillance infrastructu...</span></span></span>
+Importantly, airport surveillance radars operate within established aviation frameworks. Counter-drone radars are generally designed to observe targets rather than interfere with them, making them compatible with the detection-first philosophy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eurocontrol.int/service/surveillance-system-and-sensors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurocontrol.int">[EUROCONTROL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurocontrol.int</span><span class="citation-popover-snippet">Surveillance System and SensorsWe monitor and support the operation, evolution and sustainability of surveillance infrastructu...</span></span></span>
 
 ### RF Sensors Listen Rather Than Jam
 
-Radio-frequency detection systems work differently. Instead of transmitting disruptive signals, they monitor the spectrum for communications between drones and their controllers. These systems can often identify drone models, estimate locations, and sometimes help locate the operator. Because they are primarily passive receivers, they can provide useful intelligence without creating additional emissions that might affect aviation systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-fendsolutions.com/anti-drone-detection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-fendsolutions.com">[D-Fend Solutions+2AeroDefense Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-fendsolutions.com</span><span class="citation-popover-snippet">D-Fend SolutionsCounter-Drone Detection Technologies Compared &#124; C-UASRF detection analyzes drone communication signals, while radar detec...</span></span></span>
+Radio-frequency detection systems work differently. Instead of transmitting disruptive signals, they monitor the spectrum for communications between drones and their controllers. These systems can often identify drone models, estimate locations, and sometimes help locate the operator. Because they are primarily passive receivers, they can provide useful intelligence without creating additional emissions that might affect aviation systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-fendsolutions.com/anti-drone-detection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-fendsolutions.com">[D-Fend Solutions+2AeroDefense Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-fendsolutions.com</span><span class="citation-popover-snippet">D-Fend SolutionsCounter-Drone Detection Technologies Compared &#124; C-UASRF detection analyzes drone communication signals, while radar detec...</span></span></span>
 
-Research into passive RF detection has shown that drone signals can often be distinguished from background wireless activity and interference through signal analysis techniques, allowing operators to identify potential threats without transmitting counter-signals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1909.05429" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Detection and Classification of UAVs Using RF Fingerprints in the Presence of InterferenceSeptember 12, 2019...</span><span class="citation-popover-meta">Published: September 12, 2019</span></span></span>
+Research into passive RF detection has shown that drone signals can often be distinguished from background wireless activity and interference through signal analysis techniques, allowing operators to identify potential threats without transmitting counter-signals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1909.05429" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Detection and Classification of UAVs Using RF Fingerprints in the Presence of InterferenceSeptember 12, 2019...</span><span class="citation-popover-meta">Published: September 12, 2019</span></span></span>
 
 ### Cameras Provide Confirmation
 
-Electro-optical and infrared cameras serve a different purpose. Radar and RF sensors may indicate that an object exists, but cameras help determine what it actually is. Visual confirmation reduces false alarms and helps distinguish drones from birds, balloons, or other objects. Camera systems also provide evidence that can support operational and law-enforcement decisions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airsight.com/blog/drone-detection-technology-sensor-modalities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airsight.com">[AirSight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airsight.com</span><span class="citation-popover-snippet">Drone Detection Technology: 5 Sensor Types Security...Electro-optical (EO) cameras operate in visible light; infrared (IR) senso...</span></span></span>
+Electro-optical and infrared cameras serve a different purpose. Radar and RF sensors may indicate that an object exists, but cameras help determine what it actually is. Visual confirmation reduces false alarms and helps distinguish drones from birds, balloons, or other objects. Camera systems also provide evidence that can support operational and law-enforcement decisions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airsight.com/blog/drone-detection-technology-sensor-modalities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airsight.com">[AirSight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airsight.com</span><span class="citation-popover-snippet">Drone Detection Technology: 5 Sensor Types Security...Electro-optical (EO) cameras operate in visible light; infrared (IR) senso...</span></span></span>
 
-Together, radar, RF sensing, and imaging create a layered picture of the airspace. Because none of these components requires disruptive electronic action against the target, they allow airports to improve awareness while avoiding new interference risks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.magaero.com/mag-thought-leadership-strategic-counter-uas-defense-technologies-and-mitigation-strategies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magaero.com">[MAG+2JRC Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magaero.com</span><span class="citation-popover-snippet">MAGStrategic Counter-UAS Defense Technologies and Strategies1 Apr 2026 — Effective C-UAS solutions do not rely on a single tool; rather...</span></span></span>
+Together, radar, RF sensing, and imaging create a layered picture of the airspace. Because none of these components requires disruptive electronic action against the target, they allow airports to improve awareness while avoiding new interference risks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.magaero.com/mag-thought-leadership-strategic-counter-uas-defense-technologies-and-mitigation-strategies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magaero.com">[MAG+2JRC Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magaero.com</span><span class="citation-popover-snippet">MAGStrategic Counter-UAS Defense Technologies and Strategies1 Apr 2026 — Effective C-UAS solutions do not rely on a single tool; rather...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_airport_navig_1e0fb7_airport_drone_d68103-Illustration-2-dark.svg" | relative_url }}" alt="Detection First illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_airport_navig_1e0fb7_airport_drone_d68103-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_airport_navig_1e0fb7_airport_drone_d68103-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -314,11 +314,11 @@ Together, radar, RF sensing, and imaging create a layered picture of the airspac
 
 Airport operators often find that detection systems fit more comfortably within existing aviation safety and regulatory structures than mitigation systems.
 
-One reason is that detection generally supports, rather than alters, the operation of the airspace. It expands awareness without changing aircraft behaviour, navigation signals, or communications pathways. Regulators therefore focus on ensuring that detection equipment integrates safely with airport operations, whereas mitigation systems require additional scrutiny because they intentionally affect external devices and radio links. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/regulations_policies/rulemaking/committees/documents/index.cfm/committee/browse/committeeID/877" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration+2AirSight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationAdvisory and Rulemaking CommitteesThe UAS Detection and Mitigation Systems Aviation Rulemaking Committee w...</span></span></span>
+One reason is that detection generally supports, rather than alters, the operation of the airspace. It expands awareness without changing aircraft behaviour, navigation signals, or communications pathways. Regulators therefore focus on ensuring that detection equipment integrates safely with airport operations, whereas mitigation systems require additional scrutiny because they intentionally affect external devices and radio links.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/regulations_policies/rulemaking/committees/documents/index.cfm/committee/browse/committeeID/877" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration+2AirSight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationAdvisory and Rulemaking CommitteesThe UAS Detection and Mitigation Systems Aviation Rulemaking Committee w...</span></span></span>
 
-This distinction appears in regulatory discussions about counter-drone deployment. Aviation authorities and rulemaking bodies repeatedly separate detection, tracking, and identification functions from active mitigation functions when considering standards, certification, and operational approvals. The concern is not simply whether a system can stop a drone, but whether it can do so without adversely affecting the wider aviation environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/regulations_policies/rulemaking/committees/documents/index.cfm/committee/browse/committeeID/877" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationAdvisory and Rulemaking CommitteesThe UAS Detection and Mitigation Systems Aviation Rulemaking Committee w...</span></span></span>
+This distinction appears in regulatory discussions about counter-drone deployment. Aviation authorities and rulemaking bodies repeatedly separate detection, tracking, and identification functions from active mitigation functions when considering standards, certification, and operational approvals. The concern is not simply whether a system can stop a drone, but whether it can do so without adversely affecting the wider aviation environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/regulations_policies/rulemaking/committees/documents/index.cfm/committee/browse/committeeID/877" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationAdvisory and Rulemaking CommitteesThe UAS Detection and Mitigation Systems Aviation Rulemaking Committee w...</span></span></span>
 
-The experience of airports after major drone disruption events has reinforced this approach. Following high-profile incidents such as the Gatwick disruption, many airports invested heavily in surveillance and tracking capabilities because they could improve response times without introducing the spectrum-management concerns associated with jamming technologies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.osltechnology.com/resources/drone-detection-for-airports-lessons-learned-from-years-of-experience-in-europe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osltechnology.com">[OSL Technology+2Mind Foundry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osltechnology.com</span><span class="citation-popover-title">drone detection for airports lessons learned from years of experience in europe</span><span class="citation-popover-snippet">OSL TechnologyLessons from Europe&#x27;s Busiest Airports on Drone DetectionMar 4, 2025 — What six years at Heathrow and Gatwick taught us abo...</span></span></span>
+The experience of airports after major drone disruption events has reinforced this approach. Following high-profile incidents such as the Gatwick disruption, many airports invested heavily in surveillance and tracking capabilities because they could improve response times without introducing the spectrum-management concerns associated with jamming technologies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.osltechnology.com/resources/drone-detection-for-airports-lessons-learned-from-years-of-experience-in-europe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osltechnology.com">[OSL Technology+2Mind Foundry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osltechnology.com</span><span class="citation-popover-title">drone detection for airports lessons learned from years of experience in europe</span><span class="citation-popover-snippet">OSL TechnologyLessons from Europe&#x27;s Busiest Airports on Drone DetectionMar 4, 2025 — What six years at Heathrow and Gatwick taught us abo...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pDK_RlUXUlY" title="DJI Aeroscope Test - How To Monitor Rogue Drones, a Hands On Test." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pDK_RlUXUlY" target="_blank" rel="noopener noreferrer">DJI Aeroscope Test - How To Monitor Rogue Drones, a Hands On Test.</a></p><p class="youtube-embed-meta">Channel: Drone U</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pDK_RlUXUlY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pDK_RlUXUlY">Open on YouTube</a></p></div></div></div>
@@ -340,213 +340,213 @@ When a drone is detected, airport staff need answers to several questions:
 
 </div>
 
-Tracking systems help answer these questions in real time. Rather than reacting immediately with disruptive countermeasures, operators can assess risk based on actual movement patterns and predicted trajectories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.jrc.ec.europa.eu/repository/bitstream/JRC140692/JRC140692_01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.jrc.ec.europa.eu">[JRC Publications+2Robin Radar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.jrc.ec.europa.eu</span><span class="citation-popover-snippet">JRC PublicationsC-UAS detection, tracking and identification technologyby G POPPINGA — Various sensing modalities, such as acoustic, elec...</span></span></span>
+Tracking systems help answer these questions in real time. Rather than reacting immediately with disruptive countermeasures, operators can assess risk based on actual movement patterns and predicted trajectories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.jrc.ec.europa.eu/repository/bitstream/JRC140692/JRC140692_01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.jrc.ec.europa.eu">[JRC Publications+2Robin Radar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.jrc.ec.europa.eu</span><span class="citation-popover-snippet">JRC PublicationsC-UAS detection, tracking and identification technologyby G POPPINGA — Various sensing modalities, such as acoustic, elec...</span></span></span>
 
-This capability can reduce unnecessary operational disruptions. A drone detected several kilometres from an airport boundary may require monitoring rather than immediate restrictions. Conversely, a drone approaching a runway approach path may justify stronger operational responses. The key point is that tracking enables proportionate decision-making grounded in observed behaviour rather than uncertainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eurocontrol.int/event/mastering-skies-best-practices-counter-unmanned-aircraft-systems-c-uas-strategies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurocontrol.int">[EUROCONTROL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurocontrol.int</span><span class="citation-popover-snippet">Best Practices in Counter-Unmanned Aircraft Systems (C-...3 Jun 2025 — This workshop aims to highlight the necessity of devel...</span></span></span>
+This capability can reduce unnecessary operational disruptions. A drone detected several kilometres from an airport boundary may require monitoring rather than immediate restrictions. Conversely, a drone approaching a runway approach path may justify stronger operational responses. The key point is that tracking enables proportionate decision-making grounded in observed behaviour rather than uncertainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eurocontrol.int/event/mastering-skies-best-practices-counter-unmanned-aircraft-systems-c-uas-strategies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurocontrol.int">[EUROCONTROL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurocontrol.int</span><span class="citation-popover-snippet">Best Practices in Counter-Unmanned Aircraft Systems (C-...3 Jun 2025 — This workshop aims to highlight the necessity of devel...</span></span></span>
 
-Tracking data can also assist law enforcement by helping identify launch locations and operator positions, turning an aviation safety problem into a targeted enforcement action rather than a broad electronic response affecting the wider airspace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.aerodefense.tech/drone-detection" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.aerodefense.tech">[AeroDefense Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.aerodefense.tech</span><span class="citation-popover-title">drone detection</span><span class="citation-popover-snippet">AeroDefense BlogThe Ultimate Guide to Drone Detection25 Aug 2025 — The ultimate guide to drone detection: Learn risks, laws, and methods—...</span></span></span>
+Tracking data can also assist law enforcement by helping identify launch locations and operator positions, turning an aviation safety problem into a targeted enforcement action rather than a broad electronic response affecting the wider airspace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.aerodefense.tech/drone-detection" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.aerodefense.tech">[AeroDefense Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.aerodefense.tech</span><span class="citation-popover-title">drone detection</span><span class="citation-popover-snippet">AeroDefense BlogThe Ultimate Guide to Drone Detection25 Aug 2025 — The ultimate guide to drone detection: Learn risks, laws, and methods—...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_airport_navig_1e0fb7_airport_drone_d68103-Illustration-3-dark.svg" | relative_url }}" alt="Detection First illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_airport_navig_1e0fb7_airport_drone_d68103-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_airport_navig_1e0fb7_airport_drone_d68103-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Detection First as an Aviation Safety Strategy
 
-Within airport counter-drone programmes, detection is not merely an early step before mitigation; it is often the primary safety measure. By relying on radar, passive RF monitoring, cameras, and integrated tracking systems, airports can build a detailed understanding of drone activity without creating additional electromagnetic risks for aircraft and air traffic services. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.jrc.ec.europa.eu/repository/bitstream/JRC140692/JRC140692_01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.jrc.ec.europa.eu">[JRC Publications+2MAG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.jrc.ec.europa.eu</span><span class="citation-popover-snippet">JRC PublicationsC-UAS detection, tracking and identification technologyby G POPPINGA — Various sensing modalities, such as acoustic, elec...</span></span></span>
+Within airport counter-drone programmes, detection is not merely an early step before mitigation; it is often the primary safety measure. By relying on radar, passive RF monitoring, cameras, and integrated tracking systems, airports can build a detailed understanding of drone activity without creating additional electromagnetic risks for aircraft and air traffic services.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.jrc.ec.europa.eu/repository/bitstream/JRC140692/JRC140692_01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.jrc.ec.europa.eu">[JRC Publications+2MAG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.jrc.ec.europa.eu</span><span class="citation-popover-snippet">JRC PublicationsC-UAS detection, tracking and identification technologyby G POPPINGA — Various sensing modalities, such as acoustic, elec...</span></span></span>
 
-This explains why many airport counter-drone initiatives focus first on finding, identifying, and tracking drones. Detection systems improve awareness while preserving the integrity of communications, navigation, and surveillance infrastructure. In one of the most electronically sensitive environments in the world, that ability to gain information without causing interference is often the decisive advantage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/regulations_policies/rulemaking/committees/documents/index.cfm/committee/browse/committeeID/877" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration+2EASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationAdvisory and Rulemaking CommitteesThe UAS Detection and Mitigation Systems Aviation Rulemaking Committee w...</span></span></span>
+This explains why many airport counter-drone initiatives focus first on finding, identifying, and tracking drones. Detection systems improve awareness while preserving the integrity of communications, navigation, and surveillance infrastructure. In one of the most electronically sensitive environments in the world, that ability to gain information without causing interference is often the decisive advantage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/regulations_policies/rulemaking/committees/documents/index.cfm/committee/browse/committeeID/877" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration+2EASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationAdvisory and Rulemaking CommitteesThe UAS Detection and Mitigation Systems Aviation Rulemaking Committee w...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zj1jeUEnwSA" title="FAA is testing new drone detection technology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zj1jeUEnwSA" target="_blank" rel="noopener noreferrer">FAA is testing new drone detection technology</a></p><p class="youtube-embed-meta">Channel: NBC News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zj1jeUEnwSA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zj1jeUEnwSA">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Airports Often Detect Before They Disable. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Airports Often Detect Before They Disable. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Radar Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eQhTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Radar Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Radar Systems">Introduction to Radar Systems</a>
-        </h4>
-        <p class="fr-book-author">By Merrill Ivan Skolnik</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Radar Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eQhTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Radar Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Radar Systems">Introduction to Radar Systems</a>
+</h4>
+<p class="fr-book-author">By Merrill Ivan Skolnik</p>
         
-        <p class="fr-book-desc">Radar is one of the core airport drone-detection technologies discussed on the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Radar is one of the core airport drone-detection technologies discussed on the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+air+traffic+control+Michael+S.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of air traffic control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5413803-M.jpg" alt="Cover for Fundamentals of air traffic control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+air+traffic+control+Michael+S.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of air traffic control">Fundamentals of air traffic control</a>
-        </h4>
-        <p class="fr-book-author">By Michael S. Nolan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+air+traffic+control+Michael+S.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of air traffic control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5413803-M.jpg" alt="Cover for Fundamentals of air traffic control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+air+traffic+control+Michael+S.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of air traffic control">Fundamentals of air traffic control</a>
+</h4>
+<p class="fr-book-author">By Michael S. Nolan</p>
         
-        <p class="fr-book-desc">First published 1990. Subjects: Air traffic control, Private flying.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+air+traffic+control+Michael+S.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1990. Subjects: Air traffic control, Private flying.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+air+traffic+control+Michael+S.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Small+unmanned+aircraft+Randal+W.+Beard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Small unmanned aircraft on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Small+unmanned+aircraft+Randal+W.+Beard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Small unmanned aircraft">Small unmanned aircraft</a>
-        </h4>
-        <p class="fr-book-author">By Randal W. Beard</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Small+unmanned+aircraft+Randal+W.+Beard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Small unmanned aircraft on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Small+unmanned+aircraft+Randal+W.+Beard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Small unmanned aircraft">Small unmanned aircraft</a>
+</h4>
+<p class="fr-book-author">By Randal W. Beard</p>
         
-        <p class="fr-book-desc">Explains how small unmanned aircraft operate, helping readers understand what airport detection and tracking systems are trying to identify.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Small+unmanned+aircraft+Randal+W.+Beard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how small unmanned aircraft operate, helping readers understand what airport detection and tracking systems are trying to identify.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Small+unmanned+aircraft+Randal+W.+Beard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Drones+for+Dummies+Mark+Lafay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drones for Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drones+for+Dummies+Mark+Lafay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drones for Dummies">Drones for Dummies</a>
-        </h4>
-        <p class="fr-book-author">By Mark Lafay</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Drones+for+Dummies+Mark+Lafay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drones for Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drones+for+Dummies+Mark+Lafay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drones for Dummies">Drones for Dummies</a>
+</h4>
+<p class="fr-book-author">By Mark Lafay</p>
         
-        <p class="fr-book-desc">First published 2015. Subjects: Remotely piloted Vehicles, Drone aircraft, Aeronautics, Vehicles, remotely piloted, Ug1242.d7 l34 2015.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drones+for+Dummies+Mark+Lafay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015. Subjects: Remotely piloted Vehicles, Drone aircraft, Aeronautics, Vehicles, remotely piloted, Ug1242.d7 l34 2015.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drones+for+Dummies+Mark+Lafay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Radar+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Radar Systems books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+air+traffic+control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of air traffic control</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Small+unmanned+aircraft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Small unmanned aircraft</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Radar+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Radar Systems books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+air+traffic+control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of air traffic control</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Small+unmanned+aircraft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Small unmanned aircraft</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Porsche wall logo decor"><img src="{{ '/assets/images/marketplace-covers/f1fe1118623e7ee0ff9b.jpg' | relative_url }}" alt="Listing image for Porsche wall logo decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Porsche wall logo decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military technology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: military technology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Porsche wall logo decor"><img src="{{ '/assets/images/marketplace-covers/f1fe1118623e7ee0ff9b.jpg' | relative_url }}" alt="Listing image for Porsche wall logo decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Porsche wall logo decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military technology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: military technology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for aviation technology military aircra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d61fb9cd1c0f89892371.jpg' | relative_url }}" alt="Listing image for aviation technology military aircra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">aviation technology military aircra Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military technology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: military technology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for aviation technology military aircra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d61fb9cd1c0f89892371.jpg' | relative_url }}" alt="Listing image for aviation technology military aircra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">aviation technology military aircra Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military technology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: military technology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star wars Planets Wall Art Classic Poster Print Picture Retro Vintage A4A3"><img src="{{ '/assets/images/marketplace-covers/38061a66d144b27492b4.jpg' | relative_url }}" alt="Listing image for Star wars Planets Wall Art Classic Poster Print Picture Retro Vintage A4A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Star wars Planets Wall Art Classic Poster Print Picture Retro Vintage A4A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military technology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: military technology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star wars Planets Wall Art Classic Poster Print Picture Retro Vintage A4A3"><img src="{{ '/assets/images/marketplace-covers/38061a66d144b27492b4.jpg' | relative_url }}" alt="Listing image for Star wars Planets Wall Art Classic Poster Print Picture Retro Vintage A4A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Star wars Planets Wall Art Classic Poster Print Picture Retro Vintage A4A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military technology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: military technology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for military technology radar interface Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fb49ebd2d9ecef907e0a.jpg' | relative_url }}" alt="Listing image for military technology radar interface Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">military technology radar interface Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military technology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: military technology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for military technology radar interface Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fb49ebd2d9ecef907e0a.jpg' | relative_url }}" alt="Listing image for military technology radar interface Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">military technology radar interface Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military technology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: military technology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="detection-first-why-airports-often-detect-before-they-disable-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -562,7 +562,7 @@ This explains why many airport counter-drone initiatives focus first on finding,
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -582,7 +582,7 @@ This explains why many airport counter-drone initiatives focus first on finding,
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -614,7 +614,7 @@ This explains why many airport counter-drone initiatives focus first on finding,
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -666,7 +666,7 @@ This explains why many airport counter-drone initiatives focus first on finding,
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -711,7 +711,7 @@ This explains why many airport counter-drone initiatives focus first on finding,
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -752,231 +752,231 @@ This explains why many airport counter-drone initiatives focus first on finding,
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: airsight.com  
-   Link: <a href="https://www.airsight.com/blog/clients-ask-can-you-take-it-down-counter-drone-measures" target="_blank" rel="noopener noreferrer nofollow">https://www.airsight.com/blog/clients-ask-can-you-take-it-down-counter-drone-measures</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can You Take It Down? | Counter Drone TechnologyThe FAA states it does not support the use of C-UAS mitigation (jamming, disabling, etc.)...</p></details>
+   Link:<a href="https://www.airsight.com/blog/clients-ask-can-you-take-it-down-counter-drone-measures" target="_blank" rel="noopener noreferrer nofollow">https://www.airsight.com/blog/clients-ask-can-you-take-it-down-counter-drone-measures</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can You Take It Down? | Counter Drone TechnologyThe FAA states it does not support the use of C-UAS mitigation (jamming, disabling, etc.)...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gao.gov  
    Title: gao 22 105705  
-   Link: <a href="https://www.gao.gov/products/gao-22-105705" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-22-105705</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Counter-Drone Technologies15 Mar 2022 — For example, interference signals can jam or break the communication...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-22-105705" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-22-105705</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Counter-Drone Technologies15 Mar 2022 — For example, interference signals can jam or break the communication...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: eurocontrol.int  
-   Link: <a href="https://www.eurocontrol.int/event/mastering-skies-best-practices-counter-unmanned-aircraft-systems-c-uas-strategies" target="_blank" rel="noopener noreferrer nofollow">https://www.eurocontrol.int/event/mastering-skies-best-practices-counter-unmanned-aircraft-systems-c-uas-strategies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Best Practices in Counter-Unmanned Aircraft Systems (C-...3 Jun 2025 — This workshop aims to highlight the necessity of devel...</p></details>
+   Link:<a href="https://www.eurocontrol.int/event/mastering-skies-best-practices-counter-unmanned-aircraft-systems-c-uas-strategies" target="_blank" rel="noopener noreferrer nofollow">https://www.eurocontrol.int/event/mastering-skies-best-practices-counter-unmanned-aircraft-systems-c-uas-strategies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Best Practices in Counter-Unmanned Aircraft Systems (C-...3 Jun 2025 — This workshop aims to highlight the necessity of devel...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: magaero.com  
-   Link: <a href="https://www.magaero.com/mag-thought-leadership-strategic-counter-uas-defense-technologies-and-mitigation-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://www.magaero.com/mag-thought-leadership-strategic-counter-uas-defense-technologies-and-mitigation-strategies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MAGStrategic Counter-UAS Defense Technologies and Strategies1 Apr 2026 — Effective C-UAS solutions do not rely on a single tool; rather...</p></details>
+   Link:<a href="https://www.magaero.com/mag-thought-leadership-strategic-counter-uas-defense-technologies-and-mitigation-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://www.magaero.com/mag-thought-leadership-strategic-counter-uas-defense-technologies-and-mitigation-strategies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MAGStrategic Counter-UAS Defense Technologies and Strategies1 Apr 2026 — Effective C-UAS solutions do not rely on a single tool; rather...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dedrone.com  
-   Link: <a href="https://www.dedrone.com/white-papers/counter-uas" target="_blank" rel="noopener noreferrer nofollow">https://www.dedrone.com/white-papers/counter-uas</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>gnals, which makes them undetectable by RF-based sensors.Read more...</p></details>
+   Link:<a href="https://www.dedrone.com/white-papers/counter-uas" target="_blank" rel="noopener noreferrer nofollow">https://www.dedrone.com/white-papers/counter-uas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>gnals, which makes them undetectable by RF-based sensors.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: eurocontrol.int  
-   Link: <a href="https://www.eurocontrol.int/service/surveillance-system-and-sensors" target="_blank" rel="noopener noreferrer nofollow">https://www.eurocontrol.int/service/surveillance-system-and-sensors</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Surveillance System and SensorsWe monitor and support the operation, evolution and sustainability of surveillance infrastructu...</p></details>
+   Link:<a href="https://www.eurocontrol.int/service/surveillance-system-and-sensors" target="_blank" rel="noopener noreferrer nofollow">https://www.eurocontrol.int/service/surveillance-system-and-sensors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Surveillance System and SensorsWe monitor and support the operation, evolution and sustainability of surveillance infrastructu...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: blog.aerodefense.tech  
    Title: counter uas  
-   Link: <a href="https://blog.aerodefense.tech/counter-uas" target="_blank" rel="noopener noreferrer nofollow">https://blog.aerodefense.tech/counter-uas</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://blog.aerodefense.tech/counter-uas" target="_blank" rel="noopener noreferrer nofollow">https://blog.aerodefense.tech/counter-uas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2402.05909" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2402.05909</a>  
+   Link:<a href="https://arxiv.org/abs/2402.05909" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2402.05909</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1909.05429" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1909.05429</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Detection and Classification of UAVs Using RF Fingerprints in the Presence of InterferenceSeptember 12, 2019...</p></details>
+   Link:<a href="https://arxiv.org/abs/1909.05429" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1909.05429</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Detection and Classification of UAVs Using RF Fingerprints in the Presence of InterferenceSeptember 12, 2019...</p></details>
    Published: September 12, 2019  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv RSS-Based Detection of Drones in the Presence of RF Interferers  
-   Link: <a href="https://arxiv.org/abs/1905.03471" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1905.03471</a>  
+   Link:<a href="https://arxiv.org/abs/1905.03471" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1905.03471</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: airsight.com  
-   Link: <a href="https://www.airsight.com/blog/drone-detection-technology-sensor-modalities" target="_blank" rel="noopener noreferrer nofollow">https://www.airsight.com/blog/drone-detection-technology-sensor-modalities</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Detection Technology: 5 Sensor Types Security...Electro-optical (EO) cameras operate in visible light; infrared (IR) senso...</p></details>
+   Link:<a href="https://www.airsight.com/blog/drone-detection-technology-sensor-modalities" target="_blank" rel="noopener noreferrer nofollow">https://www.airsight.com/blog/drone-detection-technology-sensor-modalities</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Detection Technology: 5 Sensor Types Security...Electro-optical (EO) cameras operate in visible light; infrared (IR) senso...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: eurocontrol.int  
-   Link: <a href="https://www.eurocontrol.int/sites/default/files/2025-06/20250603-best-practices-cuas-ernst-rheinmetall.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.eurocontrol.int/sites/default/files/2025-06/20250603-best-practices-cuas-ernst-rheinmetall.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Counter-UAS - Fortifying the Airspace for Civil and Military...Jun 3, 2025 — Approximately 1,000 flights diverted or cancelle...</p></details>
+   Link:<a href="https://www.eurocontrol.int/sites/default/files/2025-06/20250603-best-practices-cuas-ernst-rheinmetall.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.eurocontrol.int/sites/default/files/2025-06/20250603-best-practices-cuas-ernst-rheinmetall.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Counter-UAS - Fortifying the Airspace for Civil and Military...Jun 3, 2025 — Approximately 1,000 flights diverted or cancelle...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: blog.aerodefense.tech  
    Title: drone detection  
-   Link: <a href="https://blog.aerodefense.tech/drone-detection" target="_blank" rel="noopener noreferrer nofollow">https://blog.aerodefense.tech/drone-detection</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AeroDefense BlogThe Ultimate Guide to Drone Detection25 Aug 2025 — The ultimate guide to drone detection: Learn risks, laws, and methods—...</p></details>
+   Link:<a href="https://blog.aerodefense.tech/drone-detection" target="_blank" rel="noopener noreferrer nofollow">https://blog.aerodefense.tech/drone-detection</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AeroDefense BlogThe Ultimate Guide to Drone Detection25 Aug 2025 — The ultimate guide to drone detection: Learn risks, laws, and methods—...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: eurocontrol.int  
    Title: high level workshop current state counter uas systems  
-   Link: <a href="https://www.eurocontrol.int/event/high-level-workshop-current-state-counter-uas-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.eurocontrol.int/event/high-level-workshop-current-state-counter-uas-systems</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>High-level workshop on the current state of counter UAS...Nov 4, 2024 — A high-level workshop which brought together over 160 experts to...</p></details>
+   Link:<a href="https://www.eurocontrol.int/event/high-level-workshop-current-state-counter-uas-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.eurocontrol.int/event/high-level-workshop-current-state-counter-uas-systems</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High-level workshop on the current state of counter UAS...Nov 4, 2024 — A high-level workshop which brought together over 160 experts to...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: eurocontrol.int  
    Title: eurocontrol 2024 cuas workshop s1 pascarella  
-   Link: <a href="https://www.eurocontrol.int/sites/default/files/2024-11/eurocontrol-2024-cuas-workshop-s1-pascarella.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.eurocontrol.int/sites/default/files/2024-11/eurocontrol-2024-cuas-workshop-s1-pascarella.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Resilient Protection of Airports against Drone IntrusionsNov 4, 2024 — Ph.D. on the development of multi-agent dependable systems for the...</p></details>
+   Link:<a href="https://www.eurocontrol.int/sites/default/files/2024-11/eurocontrol-2024-cuas-workshop-s1-pascarella.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.eurocontrol.int/sites/default/files/2024-11/eurocontrol-2024-cuas-workshop-s1-pascarella.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Resilient Protection of Airports against Drone IntrusionsNov 4, 2024 — Ph.D. on the development of multi-agent dependable systems for the...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: eurocontrol.int  
-   Link: <a href="https://www.eurocontrol.int/unmanned-aircraft-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.eurocontrol.int/unmanned-aircraft-systems</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unmanned aircraft systems (UAS)...EUROCONTROL&#x27;s role is to ensure the safe integration of UAS while safeguarding the rights of all airsp...</p></details>
+   Link:<a href="https://www.eurocontrol.int/unmanned-aircraft-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.eurocontrol.int/unmanned-aircraft-systems</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unmanned aircraft systems (UAS)...EUROCONTROL&#x27;s role is to ensure the safe integration of UAS while safeguarding the rights of all airsp...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: airsight.com  
-   Link: <a href="https://www.airsight.com/blog/drone-jammer-legal-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.airsight.com/blog/drone-jammer-legal-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The FCC can impose fines of up to $112,500 per violation, and the FAA treats interference with aircraft...Read more...</p></details>
+   Link:<a href="https://www.airsight.com/blog/drone-jammer-legal-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.airsight.com/blog/drone-jammer-legal-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The FCC can impose fines of up to $112,500 per violation, and the FAA treats interference with aircraft...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dedrone.com  
    Title: expands faa partnership for counterdrone operations at airports  
-   Link: <a href="https://www.dedrone.com/press/dedrone-expands-faa-partnership-for-counterdrone-operations-at-airports" target="_blank" rel="noopener noreferrer nofollow">https://www.dedrone.com/press/dedrone-expands-faa-partnership-for-counterdrone-operations-at-airports</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dedrone Expands FAA Partnership for Counterdrone...1 May 2023 — DedroneTracker, a sensor-fusion platform providing drone detection, trac...</p></details>
+   Link:<a href="https://www.dedrone.com/press/dedrone-expands-faa-partnership-for-counterdrone-operations-at-airports" target="_blank" rel="noopener noreferrer nofollow">https://www.dedrone.com/press/dedrone-expands-faa-partnership-for-counterdrone-operations-at-airports</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dedrone Expands FAA Partnership for Counterdrone...1 May 2023 — DedroneTracker, a sensor-fusion platform providing drone detection, trac...</p></details>
    Published: May 2023  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: faa.gov  
    Title: uas detection mitigation response  
-   Link: <a href="https://www.faa.gov/airports/new_entrants/uas_detection_mitigation_response" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/airports/new_entrants/uas_detection_mitigation_response</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationUAS Detection, Mitigation, and Response on AirportsOct 13, 2023 — This plan provides specific guidance to...</p></details>
+   Link:<a href="https://www.faa.gov/airports/new_entrants/uas_detection_mitigation_response" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/airports/new_entrants/uas_detection_mitigation_response</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationUAS Detection, Mitigation, and Response on AirportsOct 13, 2023 — This plan provides specific guidance to...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/regulations_policies/rulemaking/committees/documents/index.cfm/committee/browse/committeeID/877" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/rulemaking/committees/documents/index.cfm/committee/browse/committeeID/877</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAdvisory and Rulemaking CommitteesThe UAS Detection and Mitigation Systems Aviation Rulemaking Committee w...</p></details>
+   Link:<a href="https://www.faa.gov/regulations_policies/rulemaking/committees/documents/index.cfm/committee/browse/committeeID/877" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/rulemaking/committees/documents/index.cfm/committee/browse/committeeID/877</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAdvisory and Rulemaking CommitteesThe UAS Detection and Mitigation Systems Aviation Rulemaking Committee w...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: osltechnology.com  
    Title: drone detection for airports lessons learned from years of experience in europe  
-   Link: <a href="https://www.osltechnology.com/resources/drone-detection-for-airports-lessons-learned-from-years-of-experience-in-europe" target="_blank" rel="noopener noreferrer nofollow">https://www.osltechnology.com/resources/drone-detection-for-airports-lessons-learned-from-years-of-experience-in-europe</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OSL TechnologyLessons from Europe&#x27;s Busiest Airports on Drone DetectionMar 4, 2025 — What six years at Heathrow and Gatwick taught us abo...</p></details>
+   Link:<a href="https://www.osltechnology.com/resources/drone-detection-for-airports-lessons-learned-from-years-of-experience-in-europe" target="_blank" rel="noopener noreferrer nofollow">https://www.osltechnology.com/resources/drone-detection-for-airports-lessons-learned-from-years-of-experience-in-europe</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OSL TechnologyLessons from Europe&#x27;s Busiest Airports on Drone DetectionMar 4, 2025 — What six years at Heathrow and Gatwick taught us abo...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: publications.jrc.ec.europa.eu  
-   Link: <a href="https://publications.jrc.ec.europa.eu/repository/bitstream/JRC140692/JRC140692_01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.jrc.ec.europa.eu/repository/bitstream/JRC140692/JRC140692_01.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>JRC PublicationsC-UAS detection, tracking and identification technologyby G POPPINGA — Various sensing modalities, such as acoustic, elec...</p></details>
+   Link:<a href="https://publications.jrc.ec.europa.eu/repository/bitstream/JRC140692/JRC140692_01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.jrc.ec.europa.eu/repository/bitstream/JRC140692/JRC140692_01.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JRC PublicationsC-UAS detection, tracking and identification technologyby G POPPINGA — Various sensing modalities, such as acoustic, elec...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: robinradar.com  
-   Link: <a href="https://www.robinradar.com/resources/drone-detection-civil-aviation" target="_blank" rel="noopener noreferrer nofollow">https://www.robinradar.com/resources/drone-detection-civil-aviation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Robin RadarHow to Detect Drones &amp; Mitigate Drone Incidents at AirportsDrone radars detect and track drones over a larger area than other...</p></details>
+   Link:<a href="https://www.robinradar.com/resources/drone-detection-civil-aviation" target="_blank" rel="noopener noreferrer nofollow">https://www.robinradar.com/resources/drone-detection-civil-aviation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Robin RadarHow to Detect Drones &amp; Mitigate Drone Incidents at AirportsDrone radars detect and track drones over a larger area than other...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: d-fendsolutions.com  
-   Link: <a href="https://d-fendsolutions.com/anti-drone-detection/" target="_blank" rel="noopener noreferrer nofollow">https://d-fendsolutions.com/anti-drone-detection/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>D-Fend SolutionsCounter-Drone Detection Technologies Compared | C-UASRF detection analyzes drone communication signals, while radar detec...</p></details>
+   Link:<a href="https://d-fendsolutions.com/anti-drone-detection/" target="_blank" rel="noopener noreferrer nofollow">https://d-fendsolutions.com/anti-drone-detection/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>D-Fend SolutionsCounter-Drone Detection Technologies Compared | C-UASRF detection analyzes drone communication signals, while radar detec...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: mindfoundry.ai  
-   Link: <a href="https://www.mindfoundry.ai/blog/the-drone-blockade-airports-and-c-uas" target="_blank" rel="noopener noreferrer nofollow">https://www.mindfoundry.ai/blog/the-drone-blockade-airports-and-c-uas</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Explore layered counter-UAS tech, Gatwick&#x27;s shutdown, and how insurers can help support a business case for defence...</p></details>
+   Link:<a href="https://www.mindfoundry.ai/blog/the-drone-blockade-airports-and-c-uas" target="_blank" rel="noopener noreferrer nofollow">https://www.mindfoundry.ai/blog/the-drone-blockade-airports-and-c-uas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explore layered counter-UAS tech, Gatwick&#x27;s shutdown, and how insurers can help support a business case for defence...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: easa.europa.eu  
    Title: easa and eurocontrol publish joint action plan ensure safe  
-   Link: <a href="https://www.easa.europa.eu/en/newsroom-and-events/press-releases/easa-and-eurocontrol-publish-joint-action-plan-ensure-safe" target="_blank" rel="noopener noreferrer nofollow">https://www.easa.europa.eu/en/newsroom-and-events/press-releases/easa-and-eurocontrol-publish-joint-action-plan-ensure-safe</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and EUROCONTROL publish joint Action Plan to...25 Mar 2026 — EASA and EUROCONTROL publish joint Action Plan to ensure safe operations du...</p></details>
+   Link:<a href="https://www.easa.europa.eu/en/newsroom-and-events/press-releases/easa-and-eurocontrol-publish-joint-action-plan-ensure-safe" target="_blank" rel="noopener noreferrer nofollow">https://www.easa.europa.eu/en/newsroom-and-events/press-releases/easa-and-eurocontrol-publish-joint-action-plan-ensure-safe</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and EUROCONTROL publish joint Action Plan to...25 Mar 2026 — EASA and EUROCONTROL publish joint Action Plan to ensure safe operations du...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/</a>  
+   Link:<a href="https://www.faa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Federal Aviation Administration  
-   Link: <a href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Federal_Aviation_Administration</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationThe Federal Aviation Administration (FAA) is a US federal government agency within the US Department of...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Federal_Aviation_Administration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationThe Federal Aviation Administration (FAA) is a US federal government agency within the US Department of...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
    Title: Federal Aviation Administration  
-   Link: <a href="https://nl.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow">https://nl.wikipedia.org/wiki/Federal_Aviation_Administration</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationDe Federal Aviation Administration of kortweg FAA is het bureau van de Amerikaanse luchtvaartautoriteit...</p></details>
+   Link:<a href="https://nl.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow">https://nl.wikipedia.org/wiki/Federal_Aviation_Administration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationDe Federal Aviation Administration of kortweg FAA is het bureau van de Amerikaanse luchtvaartautoriteit...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/user/FAAnews" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/user/FAAnews</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationWelcome to the official YouTube channel of the Federal Aviation Administration (FAA). Our mission is simpl...</p></details>
+   Link:<a href="https://www.youtube.com/user/FAAnews" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/user/FAAnews</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationWelcome to the official YouTube channel of the Federal Aviation Administration (FAA). Our mission is simpl...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
    Title: Federal Aviation Administration | Washington D.C  
-   Link: <a href="https://www.facebook.com/FAA/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FAA/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DCHelicopter pilots: Safety and knowledge go hand in hand. The FAA and the U.S. Helicopter Safety Team offer reliable resources to help y...</p></details>
+   Link:<a href="https://www.facebook.com/FAA/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FAA/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DCHelicopter pilots: Safety and knowledge go hand in hand. The FAA and the U.S. Helicopter Safety Team offer reliable resources to help y...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: faasafety.gov  
    Title: Safer Skies Through Education  
-   Link: <a href="https://www.faasafety.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA - FAASTeam...The AMT Awards program encourages AMTs and employers to take advantage of initial and recurrent training by issuing awa...</p></details>
+   Link:<a href="https://www.faasafety.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAA - FAASTeam...The AMT Awards program encourages AMTs and employers to take advantage of initial and recurrent training by issuing awa...</p></details>
 
 ### Additional References
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: pelco.com  
-   Link: <a href="https://www.pelco.com/blog/airport-drone-detection" target="_blank" rel="noopener noreferrer nofollow">https://www.pelco.com/blog/airport-drone-detection</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Airport Drone Detection: Smart Tools For Protecting AirspaceLearn about airport drone restrictions, security challenges and how airp...</p></details>
+   Link:<a href="https://www.pelco.com/blog/airport-drone-detection" target="_blank" rel="noopener noreferrer nofollow">https://www.pelco.com/blog/airport-drone-detection</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Airport Drone Detection: Smart Tools For Protecting AirspaceLearn about airport drone restrictions, security challenges and how airp...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: aci.aero  
-   Link: <a href="https://aci.aero/airport-advocacy/airport-security/counter-drones/" target="_blank" rel="noopener noreferrer nofollow">https://aci.aero/airport-advocacy/airport-security/counter-drones/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Counter Drone Systems &amp; Airport Drone ProtectionLearn how ACI World supports airports with resources, policies and best practices on coun...</p></details>
+   Link:<a href="https://aci.aero/airport-advocacy/airport-security/counter-drones/" target="_blank" rel="noopener noreferrer nofollow">https://aci.aero/airport-advocacy/airport-security/counter-drones/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Counter Drone Systems &amp; Airport Drone ProtectionLearn how ACI World supports airports with resources, policies and best practices on coun...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/business/aerospace-defense/drone-strikes-beyond-[battlefield" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/drone-strikes-beyond-[battlefield</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These systems are increasingly being deployed beyond military use to protect civilian infrastructure such as airports, oil fields, ports...</p></details>
+   Link:<a href="https://www.reuters.com/business/aerospace-defense/drone-strikes-beyond-[battlefield" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/drone-strikes-beyond-[battlefield</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These systems are increasingly being deployed beyond military use to protect civilian infrastructure such as airports, oil fields, ports...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: nbaa.org  
-   Link: <a href="https://nbaa.org/aircraft-operations/emerging-technologies/uas/nbaa-supports-faa-program-to-test-uas-detection-mitigation-equipment-at-airports/" target="_blank" rel="noopener noreferrer nofollow">https://nbaa.org/aircraft-operations/emerging-technologies/uas/nbaa-supports-faa-program-to-test-uas-detection-mitigation-equipment-at-airports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NBAA Supports FAA Program to Test UAS Detection...NBAA supports the FAA&#x27;s plan to evaluate at least 10 technologies or systems that coul...</p></details>
+   Link:<a href="https://nbaa.org/aircraft-operations/emerging-technologies/uas/nbaa-supports-faa-program-to-test-uas-detection-mitigation-equipment-at-airports/" target="_blank" rel="noopener noreferrer nofollow">https://nbaa.org/aircraft-operations/emerging-technologies/uas/nbaa-supports-faa-program-to-test-uas-detection-mitigation-equipment-at-airports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NBAA Supports FAA Program to Test UAS Detection...NBAA supports the FAA&#x27;s plan to evaluate at least 10 technologies or systems that coul...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: rpsonline.com.sg  
-   Link: <a href="https://www.rpsonline.com.sg/proceedings/esrel2020/pdf/4189.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rpsonline.com.sg/proceedings/esrel2020/pdf/4189.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SOLUTION SET-UP for AIRPORT PROTECTION from Intruder...by A Vozella · Cited by 3 — Radars while detecting drones without RF control sign...</p></details>
+   Link:<a href="https://www.rpsonline.com.sg/proceedings/esrel2020/pdf/4189.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rpsonline.com.sg/proceedings/esrel2020/pdf/4189.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SOLUTION SET-UP for AIRPORT PROTECTION from Intruder...by A Vozella · Cited by 3 — Radars while detecting drones without RF control sign...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: hiddenlevel.com  
-   Link: <a href="https://www.hiddenlevel.com/thought-leadership/enhancing-uas-detection-and-mitigation-for-[airport-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.hiddenlevel.com/thought-leadership/enhancing-uas-detection-and-mitigation-for-[airport-safety</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing UAS Detection and Mitigation for Airport Safety...Oct 24, 2024 — The FAA first announced an effort to test and evaluate techno...</p></details>
+   Link:<a href="https://www.hiddenlevel.com/thought-leadership/enhancing-uas-detection-and-mitigation-for-[airport-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.hiddenlevel.com/thought-leadership/enhancing-uas-detection-and-mitigation-for-[airport-safety</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing UAS Detection and Mitigation for Airport Safety...Oct 24, 2024 — The FAA first announced an effort to test and evaluate techno...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: dronelife.com  
-   Link: <a href="https://dronelife.com/2025/01/27/navigating-the-[limits" target="_blank" rel="noopener noreferrer nofollow">https://dronelife.com/2025/01/27/navigating-the-[limits</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal counter-drone regulations and limits27 Jan 2025 — DroneLife will examine current federal laws pertaining to drone detection and m...</p></details>
+   Link:<a href="https://dronelife.com/2025/01/27/navigating-the-[limits" target="_blank" rel="noopener noreferrer nofollow">https://dronelife.com/2025/01/27/navigating-the-[limits</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal counter-drone regulations and limits27 Jan 2025 — DroneLife will examine current federal laws pertaining to drone detection and m...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: mobilityengineeringtech.com  
    Title: 49266 more airports test rf as counter measure for uas in restricted airspace  
-   Link: <a href="https://www.mobilityengineeringtech.com/component/content/article/49266-more-airports-test-rf-as-counter-measure-for-uas-in-restricted-airspace" target="_blank" rel="noopener noreferrer nofollow">https://www.mobilityengineeringtech.com/component/content/article/49266-more-airports-test-rf-as-counter-measure-for-uas-in-restricted-airspace</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>More Airports Test RF as Counter Measure for UAS in...1 Oct 2023 — More airports are starting to adopt and test the use of radio frequen...</p></details>
+   Link:<a href="https://www.mobilityengineeringtech.com/component/content/article/49266-more-airports-test-rf-as-counter-measure-for-uas-in-restricted-airspace" target="_blank" rel="noopener noreferrer nofollow">https://www.mobilityengineeringtech.com/component/content/article/49266-more-airports-test-rf-as-counter-measure-for-uas-in-restricted-airspace</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>More Airports Test RF as Counter Measure for UAS in...1 Oct 2023 — More airports are starting to adopt and test the use of radio frequen...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: securityindustry.org  
    Title: observe and report considerations for evaluating drone detection systems  
-   Link: <a href="https://www.securityindustry.org/2019/09/06/observe-and-report-considerations-for-evaluating-drone-detection-systems/" target="_blank" rel="noopener noreferrer nofollow">https://www.securityindustry.org/2019/09/06/observe-and-report-considerations-for-evaluating-drone-detection-systems/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Observe and Report: Considerations for Evaluating Drone...Sep 6, 2019 — This SIA Technology Insights piece from AeroDefense&#x27;s Linda Ziem...</p></details>
+   Link:<a href="https://www.securityindustry.org/2019/09/06/observe-and-report-considerations-for-evaluating-drone-detection-systems/" target="_blank" rel="noopener noreferrer nofollow">https://www.securityindustry.org/2019/09/06/observe-and-report-considerations-for-evaluating-drone-detection-systems/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observe and Report: Considerations for Evaluating Drone...Sep 6, 2019 — This SIA Technology Insights piece from AeroDefense&#x27;s Linda Ziem...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: hklaw.com  
    Title: citing national security needs the fcc and faa take steps on uas  
-   Link: <a href="https://www.hklaw.com/en/insights/publications/2026/05/citing-national-security-needs-the-fcc-and-faa-take-steps-on-uas" target="_blank" rel="noopener noreferrer nofollow">https://www.hklaw.com/en/insights/publications/2026/05/citing-national-security-needs-the-fcc-and-faa-take-steps-on-uas</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Holland &amp; KnightCiting National Security Needs, the FCC and FAA Take...12 May 2026 — Commenters in the counter-UAS and defense stakehold...</p></details>
+   Link:<a href="https://www.hklaw.com/en/insights/publications/2026/05/citing-national-security-needs-the-fcc-and-faa-take-steps-on-uas" target="_blank" rel="noopener noreferrer nofollow">https://www.hklaw.com/en/insights/publications/2026/05/citing-national-security-needs-the-fcc-and-faa-take-steps-on-uas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Holland &amp; KnightCiting National Security Needs, the FCC and FAA Take...12 May 2026 — Commenters in the counter-UAS and defense stakehold...</p></details>
    Published: May 2026  

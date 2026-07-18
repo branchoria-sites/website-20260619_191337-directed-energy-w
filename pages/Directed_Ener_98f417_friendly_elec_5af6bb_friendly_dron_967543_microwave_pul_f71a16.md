@@ -275,7 +275,7 @@ image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_friendly_dron_96
 
 ## Introduction
 
-Friendly drones operating inside a high-power microwave (HPM) engagement area can experience effects ranging from a momentary communications glitch to complete electronic failure. The reason is straightforward: microwave weapons are designed to inject disruptive electromagnetic energy into electronic systems. A friendly drone does not need to be the intended target to be exposed. If sufficient energy reaches its antennas, wiring, circuit boards, sensors, or processors, the drone may lose navigation, communications, flight-control stability, or power-management functions. Wider-beam microwave systems are particularly challenging because they can affect multiple electronic systems within the illuminated area rather than a single precisely selected target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — For example, wider beam DEWs, such as high power microwave or millimete...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+Friendly drones operating inside a high-power microwave (HPM) engagement area can experience effects ranging from a momentary communications glitch to complete electronic failure. The reason is straightforward: microwave weapons are designed to inject disruptive electromagnetic energy into electronic systems. A friendly drone does not need to be the intended target to be exposed. If sufficient energy reaches its antennas, wiring, circuit boards, sensors, or processors, the drone may lose navigation, communications, flight-control stability, or power-management functions. Wider-beam microwave systems are particularly challenging because they can affect multiple electronic systems within the illuminated area rather than a single precisely selected target.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — For example, wider beam DEWs, such as high power microwave or millimete...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_friendly_dron_967543_microwave_pul_f71a16-Illustration-1-dark.svg" | relative_url }}" alt="Pulse Effects illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_friendly_dron_967543_microwave_pul_f71a16-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_friendly_dron_967543_microwave_pul_f71a16-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -285,7 +285,7 @@ Understanding what happens inside an exposed drone requires examining how microw
 
 Microwave weapons do not need to physically strike a component in the way a projectile does. Instead, they radiate intense electromagnetic fields that can couple into conductive structures on the drone.
 
-Antennas are often the most obvious entry path. A command-and-control antenna, video transmitter antenna, GPS antenna, or telemetry link is deliberately designed to receive radio-frequency energy. Under normal conditions, that energy carries useful signals. Under HPM exposure, the same structures can channel unusually large electromagnetic currents into receivers and downstream electronics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everythingrf.com/community/high-power-microwave-hpm-technology-in-modern-defense-applications-capabilities-challenges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everythingrf.com">[Everything RF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everythingrf.com</span><span class="citation-popover-snippet">When exposed to high-field-strength...Read more...</span></span></span>
+Antennas are often the most obvious entry path. A command-and-control antenna, video transmitter antenna, GPS antenna, or telemetry link is deliberately designed to receive radio-frequency energy. Under normal conditions, that energy carries useful signals. Under HPM exposure, the same structures can channel unusually large electromagnetic currents into receivers and downstream electronics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everythingrf.com/community/high-power-microwave-hpm-technology-in-modern-defense-applications-capabilities-challenges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everythingrf.com">[Everything RF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everythingrf.com</span><span class="citation-popover-snippet">When exposed to high-field-strength...Read more...</span></span></span>
 
 Energy can also enter through less obvious routes:
 
@@ -296,11 +296,11 @@ Energy can also enter through less obvious routes:
 * Printed circuit board traces that act as unintended receiving structures.
 * Power-distribution networks.
 * External conductive airframe elements.
-* Openings and seams in enclosures that reduce shielding effectiveness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everythingrf.com/community/high-power-microwave-hpm-technology-in-modern-defense-applications-capabilities-challenges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everythingrf.com">[Everything RF+2Mobility Engineering Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everythingrf.com</span><span class="citation-popover-snippet">When exposed to high-field-strength...Read more...</span></span></span>
+* Openings and seams in enclosures that reduce shielding effectiveness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everythingrf.com/community/high-power-microwave-hpm-technology-in-modern-defense-applications-capabilities-challenges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everythingrf.com">[Everything RF+2Mobility Engineering Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everythingrf.com</span><span class="citation-popover-snippet">When exposed to high-field-strength...Read more...</span></span></span>
 
 </div>
 
-Once coupled into the drone, the microwave pulse is converted into unwanted voltages and currents. These electrical disturbances propagate through systems that were designed for millivolt- or volt-level signals, not the much larger transient energy associated with HPM exposure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everythingrf.com/community/high-power-microwave-hpm-technology-in-modern-defense-applications-capabilities-challenges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everythingrf.com">[Everything RF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everythingrf.com</span><span class="citation-popover-snippet">When exposed to high-field-strength...Read more...</span></span></span>
+Once coupled into the drone, the microwave pulse is converted into unwanted voltages and currents. These electrical disturbances propagate through systems that were designed for millivolt- or volt-level signals, not the much larger transient energy associated with HPM exposure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everythingrf.com/community/high-power-microwave-hpm-technology-in-modern-defense-applications-capabilities-challenges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everythingrf.com">[Everything RF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everythingrf.com</span><span class="citation-popover-snippet">When exposed to high-field-strength...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X1toVupe_R8" title="U.S. Directed Energy Weapons Systems" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer">U.S. Directed Energy Weapons Systems</a></p><p class="youtube-embed-meta">Channel: U.S. Government Accountability Office (GAO)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X1toVupe_R8">Open on YouTube</a></p></div></div></div>
@@ -309,29 +309,29 @@ Once coupled into the drone, the microwave pulse is converted into unwanted volt
 
 The most important point is that failure often begins as an electronic upset before progressing to permanent damage.
 
-A modern drone depends on a tightly connected network of processors, sensors, navigation receivers, radio links, motor controllers, and power electronics. A microwave pulse can temporarily overwhelm these systems even when no physical component is destroyed. Researchers studying UAV electromagnetic immunity note that microwave exposure can disturb communications, influence flight controllers, affect navigation receivers, and induce parasitic currents throughout the aircraft's electronic subsystems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2079-9292/14/21/4332" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Investigation on Electromagnetic Immunity of Unmanned...by R Kubacki · 2025 · Cited by 2 — Microwave field incidents on a drone can...</span></span></span>
+A modern drone depends on a tightly connected network of processors, sensors, navigation receivers, radio links, motor controllers, and power electronics. A microwave pulse can temporarily overwhelm these systems even when no physical component is destroyed. Researchers studying UAV electromagnetic immunity note that microwave exposure can disturb communications, influence flight controllers, affect navigation receivers, and induce parasitic currents throughout the aircraft's electronic subsystems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2079-9292/14/21/4332" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Investigation on Electromagnetic Immunity of Unmanned...by R Kubacki · 2025 · Cited by 2 — Microwave field incidents on a drone can...</span></span></span>
 
 Several mechanisms are commonly observed:
 
-**Logic upset.** A processor or digital circuit receives unintended electrical signals that cause incorrect decisions, corrupted data, or software crashes. The hardware may survive, but the drone behaves unpredictably. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/37644027/High_Power_Microwave_Weapons_Back_in_Focus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Academia(DOC) High Power Microwave Weapons-Back in Focus5 Mar 2026 — Four primary electronic effects of HPM weapons include upset, lockup...</span></span></span>
+**Logic upset.** A processor or digital circuit receives unintended electrical signals that cause incorrect decisions, corrupted data, or software crashes. The hardware may survive, but the drone behaves unpredictably.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/37644027/High_Power_Microwave_Weapons_Back_in_Focus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Academia(DOC) High Power Microwave Weapons-Back in Focus5 Mar 2026 — Four primary electronic effects of HPM weapons include upset, lockup...</span></span></span>
 
-**Receiver overload.** GPS, command-link, and telemetry receivers can become saturated by intense electromagnetic energy, causing loss of positioning or communications. Experimental studies have reported GPS interference and datalink interruption under HPM exposure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/09205071.2025.2454400" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineInvestigation on the effects of C-band high-power...by Z Zhang · 2025 · Cited by 5 — The results reveal that HPM...</span></span></span>
+**Receiver overload.** GPS, command-link, and telemetry receivers can become saturated by intense electromagnetic energy, causing loss of positioning or communications. Experimental studies have reported GPS interference and datalink interruption under HPM exposure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/09205071.2025.2454400" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineInvestigation on the effects of C-band high-power...by Z Zhang · 2025 · Cited by 5 — The results reveal that HPM...</span></span></span>
 
-**Control-signal corruption.** Motor-control commands may become distorted. A recent study examining electromagnetic pulse effects on UAVs identified flight-control paralysis caused by corruption of pulse-width modulation (PWM) control signals as a key soft-kill mechanism. In this case the aircraft may lose effective control even though major hardware remains intact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2504-446X/10/4/272" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">2504 446X</span><span class="citation-popover-snippet">Analysis of High-Power Electromagnetic Pulses Effect on...by KJ Lee · 2026 — This study investigates the “soft-kill” mechanism of un...</span></span></span>
+**Control-signal corruption.** Motor-control commands may become distorted. A recent study examining electromagnetic pulse effects on UAVs identified flight-control paralysis caused by corruption of pulse-width modulation (PWM) control signals as a key soft-kill mechanism. In this case the aircraft may lose effective control even though major hardware remains intact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2504-446X/10/4/272" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">2504 446X</span><span class="citation-popover-snippet">Analysis of High-Power Electromagnetic Pulses Effect on...by KJ Lee · 2026 — This study investigates the “soft-kill” mechanism of un...</span></span></span>
 
-**Latch-up and abnormal current paths.** Semiconductor devices can enter unintended operating states that dramatically increase current flow. These conditions may persist until power is removed and can progress to physical damage if energy levels are high enough. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everythingrf.com/community/high-power-microwave-hpm-technology-in-modern-defense-applications-capabilities-challenges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everythingrf.com">[Everything RF+2Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everythingrf.com</span><span class="citation-popover-snippet">When exposed to high-field-strength...Read more...</span></span></span>
+**Latch-up and abnormal current paths.** Semiconductor devices can enter unintended operating states that dramatically increase current flow. These conditions may persist until power is removed and can progress to physical damage if energy levels are high enough.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everythingrf.com/community/high-power-microwave-hpm-technology-in-modern-defense-applications-capabilities-challenges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everythingrf.com">[Everything RF+2Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everythingrf.com</span><span class="citation-popover-snippet">When exposed to high-field-strength...Read more...</span></span></span>
 
-**Component burnout.** At higher exposure levels, induced currents and electric fields can exceed semiconductor [limits]({{ 'limits/' | relative_url }}), causing irreversible failure in transistors, integrated circuits, and power-management components. Experimental and simulation research has demonstrated microwave-induced burn-out mechanisms in advanced semiconductor devices. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/274514906_Simulation_and_experimental_study_of_high_power_microwave_damage_effect_on_AlGaAsInGaAs_pseudomorphic_high_electron_mobility_transistor/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">IOP Publishing.Read more...</span></span></span>
+**Component burnout.** At higher exposure levels, induced currents and electric fields can exceed semiconductor [limits]({{ 'limits/' | relative_url }}), causing irreversible failure in transistors, integrated circuits, and power-management components. Experimental and simulation research has demonstrated microwave-induced burn-out mechanisms in advanced semiconductor devices.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/274514906_Simulation_and_experimental_study_of_high_power_microwave_damage_effect_on_AlGaAsInGaAs_pseudomorphic_high_electron_mobility_transistor/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">IOP Publishing.Read more...</span></span></span>
 
 ## Why Exposure Effects Vary Between Similar Drones
 
 Two drones that appear nearly identical externally may respond very differently to the same microwave pulse.
 
-One reason is electronic architecture. Different flight controllers, radio modules, GPS receivers, and power-management systems have different susceptibility thresholds. Small design variations can change how efficiently microwave energy couples into sensitive circuits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.preprints.org/manuscript/202509.2161" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: preprints.org">[Preprints]</a><span class="citation-popover" role="note"><span class="citation-popover-source">preprints.org</span><span class="citation-popover-snippet">Investigation on Electromagnetic Compatibility of...26 Sept 2025 — As drone electronics continue to integrate and develop, they...</span></span></span>
+One reason is electronic architecture. Different flight controllers, radio modules, GPS receivers, and power-management systems have different susceptibility thresholds. Small design variations can change how efficiently microwave energy couples into sensitive circuits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.preprints.org/manuscript/202509.2161" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: preprints.org">[Preprints]</a><span class="citation-popover" role="note"><span class="citation-popover-source">preprints.org</span><span class="citation-popover-snippet">Investigation on Electromagnetic Compatibility of...26 Sept 2025 — As drone electronics continue to integrate and develop, they...</span></span></span>
 
-Shielding quality is another factor. Metal enclosures, filtered connectors, grounding arrangements, and electromagnetic compatibility measures can significantly influence survivability. Even small gaps in shielding may become pathways for energy penetration. Defence and electromagnetic-effects literature repeatedly identifies shielding and hardening quality as major determinants of vulnerability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mobilityengineeringtech.com/component/content/article/45802-afit-0006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mobilityengineeringtech.com">[Mobility Engineering Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mobilityengineeringtech.com</span><span class="citation-popover-snippet">Mobility Engineering TechnologyHardening Unmanned Aerial Systems Against High-Power...May 1, 2022 — High power microwave weapons use int...</span><span class="citation-popover-meta">Published: May 1, 2022</span></span></span>
+Shielding quality is another factor. Metal enclosures, filtered connectors, grounding arrangements, and electromagnetic compatibility measures can significantly influence survivability. Even small gaps in shielding may become pathways for energy penetration. Defence and electromagnetic-effects literature repeatedly identifies shielding and hardening quality as major determinants of vulnerability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mobilityengineeringtech.com/component/content/article/45802-afit-0006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mobilityengineeringtech.com">[Mobility Engineering Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mobilityengineeringtech.com</span><span class="citation-popover-snippet">Mobility Engineering TechnologyHardening Unmanned Aerial Systems Against High-Power...May 1, 2022 — High power microwave weapons use int...</span><span class="citation-popover-meta">Published: May 1, 2022</span></span></span>
 
-Geometry also matters. The drone's orientation relative to the microwave source changes how much energy is intercepted by antennas, wiring, and conductive structures. Frequency, pulse shape, field strength, polarisation, and exposure duration all influence the final outcome. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.preprints.org/manuscript/202509.2161" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: preprints.org">[Preprints+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">preprints.org</span><span class="citation-popover-snippet">Investigation on Electromagnetic Compatibility of...26 Sept 2025 — As drone electronics continue to integrate and develop, they...</span></span></span>
+Geometry also matters. The drone's orientation relative to the microwave source changes how much energy is intercepted by antennas, wiring, and conductive structures. Frequency, pulse shape, field strength, polarisation, and exposure duration all influence the final outcome.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.preprints.org/manuscript/202509.2161" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: preprints.org">[Preprints+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">preprints.org</span><span class="citation-popover-snippet">Investigation on Electromagnetic Compatibility of...26 Sept 2025 — As drone electronics continue to integrate and develop, they...</span></span></span>
 
 As a result, one friendly drone may recover after a brief disruption while another nearby aircraft suffers a mission-ending failure.
 
@@ -352,7 +352,7 @@ At lower effective exposure levels, a drone may experience:
 * GPS dropouts.
 * Sensor anomalies.
 * Flight-controller resets.
-* Brief loss of stability followed by recovery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2079-9292/14/21/4332" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Investigation on Electromagnetic Immunity of Unmanned...by R Kubacki · 2025 · Cited by 2 — Microwave field incidents on a drone can...</span></span></span>
+* Brief loss of stability followed by recovery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2079-9292/14/21/4332" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Investigation on Electromagnetic Immunity of Unmanned...by R Kubacki · 2025 · Cited by 2 — Microwave field incidents on a drone can...</span></span></span>
 
 </div>
 
@@ -373,7 +373,7 @@ Examples include:
 * Persistent loss of command links.
 * Navigation failure preventing autonomous flight.
 * Corrupted motor-control signals.
-* Flight-computer malfunction requiring reboot or recovery procedures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2504-446X/10/4/272" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">2504 446X</span><span class="citation-popover-snippet">Analysis of High-Power Electromagnetic Pulses Effect on...by KJ Lee · 2026 — This study investigates the “soft-kill” mechanism of un...</span></span></span>
+* Flight-computer malfunction requiring reboot or recovery procedures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2504-446X/10/4/272" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">2504 446X</span><span class="citation-popover-snippet">Analysis of High-Power Electromagnetic Pulses Effect on...by KJ Lee · 2026 — This study investigates the “soft-kill” mechanism of un...</span></span></span>
 
 </div>
 
@@ -385,13 +385,13 @@ From an operational perspective, this outcome can be almost as significant as ph
 
 At the highest exposure levels, microwave energy can physically damage semiconductors and power electronics.
 
-Induced voltages and currents may exceed device tolerances, creating overheating, dielectric breakdown, melted junctions, or irreversible transistor failure. Defence and electronics research commonly categorises these outcomes as burnout or destructive damage rather than temporary upset. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everythingrf.com/community/high-power-microwave-hpm-technology-in-modern-defense-applications-capabilities-challenges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everythingrf.com">[ResearchGate+3Everything RF+3ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everythingrf.com</span><span class="citation-popover-snippet">When exposed to high-field-strength...Read more...</span></span></span>
+Induced voltages and currents may exceed device tolerances, creating overheating, dielectric breakdown, melted junctions, or irreversible transistor failure. Defence and electronics research commonly categorises these outcomes as burnout or destructive damage rather than temporary upset.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everythingrf.com/community/high-power-microwave-hpm-technology-in-modern-defense-applications-capabilities-challenges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everythingrf.com">[ResearchGate+3Everything RF+3ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everythingrf.com</span><span class="citation-popover-snippet">When exposed to high-field-strength...Read more...</span></span></span>
 
 A friendly drone suffering this level of exposure may require component replacement or complete loss write-off.
 
 ## Why Friendly Drones Remain at Risk
 
-The challenge for forces using microwave [counter-drone]({{ 'missile-savings/' | relative_url }}) systems is that the physical mechanism does not inherently distinguish between friendly and hostile electronics. Microwave energy interacts with conductive structures and electronic circuits according to electromagnetic physics, not ownership. Government assessments of directed-energy systems have therefore highlighted that wider-beam microwave weapons can affect all assets within the illuminated area, whether friend or foe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — For example, wider beam DEWs, such as high power microwave or millimete...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+The challenge for forces using microwave [counter-drone]({{ 'missile-savings/' | relative_url }}) systems is that the physical mechanism does not inherently distinguish between friendly and hostile electronics. Microwave energy interacts with conductive structures and electronic circuits according to electromagnetic physics, not ownership. Government assessments of directed-energy systems have therefore highlighted that wider-beam microwave weapons can affect all assets within the illuminated area, whether friend or foe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — For example, wider beam DEWs, such as high power microwave or millimete...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 For friendly drones operating inside that area, the practical consequences depend on how much energy couples into their electronics, which systems are affected first, and whether the resulting effect remains a recoverable disruption or escalates into permanent hardware damage.
 
@@ -400,194 +400,194 @@ For friendly drones operating inside that area, the practical consequences depen
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Happens Inside an Exposed Drone?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Happens Inside an Exposed Drone?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Covers networked warfare, autonomy, sensors, and command-and-control problems central to swarm defence decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers networked warfare, autonomy, sensors, and command-and-control problems central to swarm defence decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
-        </h4>
-        <p class="fr-book-author">By Paul Scharre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
+</h4>
+<p class="fr-book-author">By Paul Scharre</p>
         
-        <p class="fr-book-desc">Explains autonomy, human control, targeting, and escalation issues that overlap with mixed friendly-hostile drone environments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains autonomy, human control, targeting, and escalation issues that overlap with mixed friendly-hostile drone environments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=EMC+for+product+designers+Tim+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open EMC for product designers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/493540-M.jpg" alt="Cover for EMC for product designers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=EMC+for+product+designers+Tim+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="EMC for product designers">EMC for product designers</a>
-        </h4>
-        <p class="fr-book-author">By Tim Williams</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=EMC+for+product+designers+Tim+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open EMC for product designers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/493540-M.jpg" alt="Cover for EMC for product designers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=EMC+for+product+designers+Tim+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="EMC for product designers">EMC for product designers</a>
+</h4>
+<p class="fr-book-author">By Tim Williams</p>
         
-        <p class="fr-book-desc">First published 1992. Subjects: Standards, Electromagnetic compatibility, Electronic apparatus and appliances, Electric apparatus and app...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=EMC+for+product+designers+Tim+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1992. Subjects: Standards, Electromagnetic compatibility, Electronic apparatus and appliances, Electric apparatus and app...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=EMC+for+product+designers+Tim+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+electromagnetic+compatibility+Clayton+R.+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to electromagnetic compatibility on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1250642-M.jpg" alt="Cover for Introduction to electromagnetic compatibility" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+electromagnetic+compatibility+Clayton+R.+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to electromagnetic compatibility">Introduction to electromagnetic compatibility</a>
-        </h4>
-        <p class="fr-book-author">By Clayton R. Paul</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+electromagnetic+compatibility+Clayton+R.+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to electromagnetic compatibility on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1250642-M.jpg" alt="Cover for Introduction to electromagnetic compatibility" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+electromagnetic+compatibility+Clayton+R.+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to electromagnetic compatibility">Introduction to electromagnetic compatibility</a>
+</h4>
+<p class="fr-book-author">By Clayton R. Paul</p>
         
-        <p class="fr-book-desc">First published 1992. Subjects: Electronic circuits, Digital electronics, Noise, Shielding (Electricity), Electromagnetic compatibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+electromagnetic+compatibility+Clayton+R.+Paul&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1992. Subjects: Electronic circuits, Digital electronics, Noise, Shielding (Electricity), Electromagnetic compatibility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+electromagnetic+compatibility+Clayton+R.+Paul&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=EMC+for+product+designers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">EMC for product designers</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=EMC+for+product+designers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">EMC for product designers</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Drone UAV&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049381)"><img src="{{ '/assets/images/marketplace-covers/e78a62d502e4d0830aa0.jpg' | relative_url }}" alt="Listing image for &#x27;Drone UAV&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049381)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Drone UAV&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049381)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Drone UAV&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049381)"><img src="{{ '/assets/images/marketplace-covers/e78a62d502e4d0830aa0.jpg' | relative_url }}" alt="Listing image for &#x27;Drone UAV&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049381)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Drone UAV&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049381)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for airplane UAVs drone military aircraft vehicle MQ 9 Reaper 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/5a9926f4f7c65f754a16.jpg' | relative_url }}" alt="Listing image for airplane UAVs drone military aircraft vehicle MQ 9 Reaper 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">airplane UAVs drone military aircraft vehicle MQ 9 Reaper 11x17 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for airplane UAVs drone military aircraft vehicle MQ 9 Reaper 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/5a9926f4f7c65f754a16.jpg' | relative_url }}" alt="Listing image for airplane UAVs drone military aircraft vehicle MQ 9 Reaper 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">airplane UAVs drone military aircraft vehicle MQ 9 Reaper 11x17 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for drone UAVs vehicle military aircraft American text MQ 9 Reaper top 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/d6f151bc20330af852ca.jpg' | relative_url }}" alt="Listing image for drone UAVs vehicle military aircraft American text MQ 9 Reaper top 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">drone UAVs vehicle military aircraft American text MQ 9 Reaper top 11x17 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for drone UAVs vehicle military aircraft American text MQ 9 Reaper top 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/d6f151bc20330af852ca.jpg' | relative_url }}" alt="Listing image for drone UAVs vehicle military aircraft American text MQ 9 Reaper top 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">drone UAVs vehicle military aircraft American text MQ 9 Reaper top 11x17 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DoD UAV Integrated Roadmap Poster 2009 2034 Military Drone Chart Foldout"><img src="{{ '/assets/images/marketplace-covers/194b1edade76d37a0741.jpg' | relative_url }}" alt="Listing image for DoD UAV Integrated Roadmap Poster 2009 2034 Military Drone Chart Foldout" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">DoD UAV Integrated Roadmap Poster 2009 2034 Military Drone Chart Foldout</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DoD UAV Integrated Roadmap Poster 2009 2034 Military Drone Chart Foldout"><img src="{{ '/assets/images/marketplace-covers/194b1edade76d37a0741.jpg' | relative_url }}" alt="Listing image for DoD UAV Integrated Roadmap Poster 2009 2034 Military Drone Chart Foldout" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">DoD UAV Integrated Roadmap Poster 2009 2034 Military Drone Chart Foldout</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="pulse-effects-what-happens-inside-an-exposed-drone-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -603,7 +603,7 @@ For friendly drones operating inside that area, the practical consequences depen
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -623,7 +623,7 @@ For friendly drones operating inside that area, the practical consequences depen
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -655,7 +655,7 @@ For friendly drones operating inside that area, the practical consequences depen
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -707,7 +707,7 @@ For friendly drones operating inside that area, the practical consequences depen
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -752,7 +752,7 @@ For friendly drones operating inside that area, the practical consequences depen
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -793,160 +793,160 @@ For friendly drones operating inside that area, the practical consequences depen
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gao.gov  
    Title: gao 23 106717  
-   Link: <a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — For example, wider beam DEWs, such as high power microwave or millimete...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — For example, wider beam DEWs, such as high power microwave or millimete...</p></details>
    Published: May 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: everythingrf.com  
-   Link: <a href="https://www.everythingrf.com/community/high-power-microwave-hpm-technology-in-modern-defense-applications-capabilities-challenges" target="_blank" rel="noopener noreferrer nofollow">https://www.everythingrf.com/community/high-power-microwave-hpm-technology-in-modern-defense-applications-capabilities-challenges</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When exposed to high-field-strength...Read more...</p></details>
+   Link:<a href="https://www.everythingrf.com/community/high-power-microwave-hpm-technology-in-modern-defense-applications-capabilities-challenges" target="_blank" rel="noopener noreferrer nofollow">https://www.everythingrf.com/community/high-power-microwave-hpm-technology-in-modern-defense-applications-capabilities-challenges</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When exposed to high-field-strength...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2079-9292/14/21/4332" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2079-9292/14/21/4332</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation on Electromagnetic Immunity of Unmanned...by R Kubacki · 2025 · Cited by 2 — Microwave field incidents on a drone can...</p></details>
+   Link:<a href="https://www.mdpi.com/2079-9292/14/21/4332" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2079-9292/14/21/4332</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation on Electromagnetic Immunity of Unmanned...by R Kubacki · 2025 · Cited by 2 — Microwave field incidents on a drone can...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/306042811_Electromagnetic_pulse_effects_and_damage_mechanism_on_the_semiconductor_electronics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/306042811_Electromagnetic_pulse_effects_and_damage_mechanism_on_the_semiconductor_electronics</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Electromagnetic pulse effects and damage...20 Dec 2025 — This paper examines physical mechanism of malfunction and destruction of...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/306042811_Electromagnetic_pulse_effects_and_damage_mechanism_on_the_semiconductor_electronics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/306042811_Electromagnetic_pulse_effects_and_damage_mechanism_on_the_semiconductor_electronics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Electromagnetic pulse effects and damage...20 Dec 2025 — This paper examines physical mechanism of malfunction and destruction of...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/37644027/High_Power_Microwave_Weapons_Back_in_Focus" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/37644027/High_Power_Microwave_Weapons_Back_in_Focus</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(DOC) High Power Microwave Weapons-Back in Focus5 Mar 2026 — Four primary electronic effects of HPM weapons include upset, lockup...</p></details>
+   Link:<a href="https://www.academia.edu/37644027/High_Power_Microwave_Weapons_Back_in_Focus" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/37644027/High_Power_Microwave_Weapons_Back_in_Focus</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(DOC) High Power Microwave Weapons-Back in Focus5 Mar 2026 — Four primary electronic effects of HPM weapons include upset, lockup...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: mdpi.com  
    Title: 2504 446X  
-   Link: <a href="https://www.mdpi.com/2504-446X/10/4/272" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2504-446X/10/4/272</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of High-Power Electromagnetic Pulses Effect on...by KJ Lee · 2026 — This study investigates the “soft-kill” mechanism of un...</p></details>
+   Link:<a href="https://www.mdpi.com/2504-446X/10/4/272" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2504-446X/10/4/272</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of High-Power Electromagnetic Pulses Effect on...by KJ Lee · 2026 — This study investigates the “soft-kill” mechanism of un...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/274514906_Simulation_and_experimental_study_of_high_power_microwave_damage_effect_on_AlGaAsInGaAs_pseudomorphic_high_electron_mobility_transistor/download" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/274514906_Simulation_and_experimental_study_of_high_power_microwave_damage_effect_on_AlGaAsInGaAs_pseudomorphic_high_electron_mobility_transistor/download</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IOP Publishing.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/274514906_Simulation_and_experimental_study_of_high_power_microwave_damage_effect_on_AlGaAsInGaAs_pseudomorphic_high_electron_mobility_transistor/download" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/274514906_Simulation_and_experimental_study_of_high_power_microwave_damage_effect_on_AlGaAsInGaAs_pseudomorphic_high_electron_mobility_transistor/download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IOP Publishing.Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2226-4310/11/5/346" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2226-4310/11/5/346</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Damage Effects and Mechanisms of High-Power...by Z Ma · 2024 · Cited by 6 — In this paper, the Sentaurus Technology Computer-Aided Desig...</p></details>
+   Link:<a href="https://www.mdpi.com/2226-4310/11/5/346" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2226-4310/11/5/346</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Damage Effects and Mechanisms of High-Power...by Z Ma · 2024 · Cited by 6 — In this paper, the Sentaurus Technology Computer-Aided Desig...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: preprints.org  
-   Link: <a href="https://www.preprints.org/manuscript/202509.2161" target="_blank" rel="noopener noreferrer nofollow">https://www.preprints.org/manuscript/202509.2161</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation on Electromagnetic Compatibility of...26 Sept 2025 — As drone electronics continue to integrate and develop, they...</p></details>
+   Link:<a href="https://www.preprints.org/manuscript/202509.2161" target="_blank" rel="noopener noreferrer nofollow">https://www.preprints.org/manuscript/202509.2161</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation on Electromagnetic Compatibility of...26 Sept 2025 — As drone electronics continue to integrate and develop, they...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2079-9292/13/2/393" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2079-9292/13/2/393</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strong Electromagnetic Interference and Protection in UAVsby Z Zhang · 2024 · Cited by 65 — When the power system experiences strong EMI...</p></details>
+   Link:<a href="https://www.mdpi.com/2079-9292/13/2/393" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2079-9292/13/2/393</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strong Electromagnetic Interference and Protection in UAVsby Z Zhang · 2024 · Cited by 65 — When the power system experiences strong EMI...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
    Title: 350941439 High power microwave for knocking out programmable suicide drones  
-   Link: <a href="https://www.researchgate.net/publication/350941439_High_power_microwave_for_knocking_out_programmable_suicide_drones" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/350941439_High_power_microwave_for_knocking_out_programmable_suicide_drones</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) High power microwave for knocking out...16 Apr 2021 — This article aims to examine the directed energy of HPM (high power microwav...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/350941439_High_power_microwave_for_knocking_out_programmable_suicide_drones" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/350941439_High_power_microwave_for_knocking_out_programmable_suicide_drones</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) High power microwave for knocking out...16 Apr 2021 — This article aims to examine the directed energy of HPM (high power microwav...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/4229403_Research_on_high_power_microwave_weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/4229403_Research_on_high_power_microwave_weapons</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Research on high power microwave weaponsOne direction of the study is specifically testing non-lethal microwave weapons to interfer...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/4229403_Research_on_high_power_microwave_weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/4229403_Research_on_high_power_microwave_weapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Research on high power microwave weaponsOne direction of the study is specifically testing non-lethal microwave weapons to interfer...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/362260176_Investigation_on_Falling_and_Damage_Mechanisms_of_UAV_Illuminated_by_HPM_Pulses" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362260176_Investigation_on_Falling_and_Damage_Mechanisms_of_UAV_Illuminated_by_HPM_Pulses</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation on Falling and Damage Mechanisms of UAV...13 Oct 2022 — Unmanned aerial vehicle (UAV), when illuminated by high-power micr...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/362260176_Investigation_on_Falling_and_Damage_Mechanisms_of_UAV_Illuminated_by_HPM_Pulses" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362260176_Investigation_on_Falling_and_Damage_Mechanisms_of_UAV_Illuminated_by_HPM_Pulses</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation on Falling and Damage Mechanisms of UAV...13 Oct 2022 — Unmanned aerial vehicle (UAV), when illuminated by high-power micr...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/56158112/Analysis_of_Electromagnetic_Pulse_Effects_Under_High_Power_Microwave_Sources" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/56158112/Analysis_of_Electromagnetic_Pulse_Effects_Under_High_Power_Microwave_Sources</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>manent damage by radiating concentrated energy in a specific direction to...</p></details>
+   Link:<a href="https://www.academia.edu/56158112/Analysis_of_Electromagnetic_Pulse_Effects_Under_High_Power_Microwave_Sources" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/56158112/Analysis_of_Electromagnetic_Pulse_Effects_Under_High_Power_Microwave_Sources</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>manent damage by radiating concentrated energy in a specific direction to...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons DOD Should Focus on Transition...DOD spends about $1 billion annually on directed energy--concentrated electroma...</p></details>
+   Link:<a href="https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons DOD Should Focus on Transition...DOD spends about $1 billion annually on directed energy--concentrated electroma...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: publicationsdrdo.in  
-   Link: <a href="https://publicationsdrdo.in/index.php/dsj/article/download/21114/8787/92344" target="_blank" rel="noopener noreferrer nofollow">https://publicationsdrdo.in/index.php/dsj/article/download/21114/8787/92344</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Area or volume engagement; multiple susceptible electronic systems within the beam footprint may be affected simultaneously.Read more...</p></details>
+   Link:<a href="https://publicationsdrdo.in/index.php/dsj/article/download/21114/8787/92344" target="_blank" rel="noopener noreferrer nofollow">https://publicationsdrdo.in/index.php/dsj/article/download/21114/8787/92344</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Area or volume engagement; multiple susceptible electronic systems within the beam footprint may be affected simultaneously.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: mobilityengineeringtech.com  
-   Link: <a href="https://www.mobilityengineeringtech.com/component/content/article/45802-afit-0006" target="_blank" rel="noopener noreferrer nofollow">https://www.mobilityengineeringtech.com/component/content/article/45802-afit-0006</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mobility [Engineering](&amp;#123;&amp;#123; &#x27;engineering/&#x27; | relative_url &amp;#125;&amp;#125;) TechnologyHardening Unmanned Aerial Systems Against High-Power...May 1, 2022 — High power microwave weapons use int...</p></details>
+   Link:<a href="https://www.mobilityengineeringtech.com/component/content/article/45802-afit-0006" target="_blank" rel="noopener noreferrer nofollow">https://www.mobilityengineeringtech.com/component/content/article/45802-afit-0006</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mobility [Engineering](&amp;#123;&amp;#123; &#x27;engineering/&#x27; | relative_url &amp;#125;&amp;#125;) TechnologyHardening Unmanned Aerial Systems Against High-Power...May 1, 2022 — High power microwave weapons use int...</p></details>
    Published: May 1, 2022  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/09205071.2025.2454400" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/09205071.2025.2454400</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineInvestigation on the effects of C-band high-power...by Z Zhang · 2025 · Cited by 5 — The results reveal that HPM...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/abs/10.1080/09205071.2025.2454400" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/09205071.2025.2454400</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineInvestigation on the effects of C-band high-power...by Z Zhang · 2025 · Cited by 5 — The results reveal that HPM...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: airpower.airforce.gov.au  
    Title: Air and Space Power Centre Directed Energy Weapons  
-   Link: <a href="https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf" target="_blank" rel="noopener noreferrer nofollow">https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air and Space Power CentreDirected Energy Weapons - Air and Space Power CentreDEW is a weapon system high enough power of microwave energ...</p></details>
+   Link:<a href="https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf" target="_blank" rel="noopener noreferrer nofollow">https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air and Space Power CentreDirected Energy Weapons - Air and Space Power CentreDEW is a weapon system high enough power of microwave energ...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/LessCredibleDefence/comments/1ntydzz/highpower_microwave_system_downs_49_drones_in_one/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LessCredibleDefence/comments/1ntydzz/highpower_microwave_system_downs_49_drones_in_one/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>High-power microwave system downs 49 drones in one shotHigh-power microwave system downs 49 drones in [one shot](&amp;#123;&amp;#123; &#x27;one-shot/&#x27; | relative_url &amp;#125;&amp;#125;) – weaponized electromagnet...</p></details>
+   Link:<a href="https://www.reddit.com/r/LessCredibleDefence/comments/1ntydzz/highpower_microwave_system_downs_49_drones_in_one/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LessCredibleDefence/comments/1ntydzz/highpower_microwave_system_downs_49_drones_in_one/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High-power microwave system downs 49 drones in one shotHigh-power microwave system downs 49 drones in [one shot](&amp;#123;&amp;#123; &#x27;one-shot/&#x27; | relative_url &amp;#125;&amp;#125;) – weaponized electromagnet...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/news/comments/1ntswa6/highpower_microwave_system_downs_49_drones_in_one/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/news/comments/1ntswa6/highpower_microwave_system_downs_49_drones_in_one/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>High-power microwave system downs 49 drones in one shotHigh-power microwave system downs 49 drones in one shot – weaponized electromagnet...</p></details>
+   Link:<a href="https://www.reddit.com/r/news/comments/1ntswa6/highpower_microwave_system_downs_49_drones_in_one/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/news/comments/1ntswa6/highpower_microwave_system_downs_49_drones_in_one/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High-power microwave system downs 49 drones in one shotHigh-power microwave system downs 49 drones in one shot – weaponized electromagnet...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: onr.navy.mil  
-   Link: <a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-[microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-[microwaves</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spectrum of radio and microwave freq...</p></details>
+   Link:<a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-[microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-[microwaves</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spectrum of radio and microwave freq...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cescube.com  
-   Link: <a href="https://www.cescube.com/vp-directed-energy-weapons-international-research-and-country-specific-developments" target="_blank" rel="noopener noreferrer nofollow">https://www.cescube.com/vp-directed-energy-weapons-international-research-and-country-specific-developments</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons-International research and...21 Feb 2021 — Directed Energy Weapons (DEWs) are the weapon systems which are capab...</p></details>
+   Link:<a href="https://www.cescube.com/vp-directed-energy-weapons-international-research-and-country-specific-developments" target="_blank" rel="noopener noreferrer nofollow">https://www.cescube.com/vp-directed-energy-weapons-international-research-and-country-specific-developments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons-International research and...21 Feb 2021 — Directed Energy Weapons (DEWs) are the weapon systems which are capab...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: securityanddefence.pl  
    Title: High power microwave for knocking out programmable suicide drones,135068,0,2  
-   Link: <a href="https://securityanddefence.pl/High-power-microwave-for-knocking-out-programmable-suicide-drones%2C135068%2C0%2C2.html" target="_blank" rel="noopener noreferrer nofollow">https://securityanddefence.pl/High-power-microwave-for-knocking-out-programmable-suicide-drones%2C135068%2C0%2C2.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>High power microwave for knocking out programmable...by MZ Chaari · 2021 · Cited by 24 — When the system detects rogue drones, the high...</p></details>
+   Link:<a href="https://securityanddefence.pl/High-power-microwave-for-knocking-out-programmable-suicide-drones%2C135068%2C0%2C2.html" target="_blank" rel="noopener noreferrer nofollow">https://securityanddefence.pl/High-power-microwave-for-knocking-out-programmable-suicide-drones%2C135068%2C0%2C2.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High power microwave for knocking out programmable...by MZ Chaari · 2021 · Cited by 24 — When the system detects rogue drones, the high...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X1toVupe_R8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Directed Energy Weapons SystemsThe Government Accountability Office explains what are Directed Energy Weapons and takes a look at ho...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X1toVupe_R8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Directed Energy Weapons SystemsThe Government Accountability Office explains what are Directed Energy Weapons and takes a look at ho...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: aspistrategist.org.au  
    Title: war at the speed of light the emerging role of directed energy weapons  
-   Link: <a href="https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow">https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the emerging role of directed-energy weapons15 Apr 2026 — High-power microwave weapons can be used offensively alongside electromagnetic...</p></details>
+   Link:<a href="https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow">https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the emerging role of directed-energy weapons15 Apr 2026 — High-power microwave weapons can be used offensively alongside electromagnetic...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: coherentmarketinsights.com  
    Title: directed energy weapons in counter drone missile defense 3576  
-   Link: <a href="https://www.coherentmarketinsights.com/blog/aerospace-and-defense/directed-energy-weapons-in-counter-drone-missile-defense-3576" target="_blank" rel="noopener noreferrer nofollow">https://www.coherentmarketinsights.com/blog/aerospace-and-defense/directed-energy-weapons-in-counter-drone-missile-defense-3576</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons in CounterDrone Missile Defense4 May 2026 — These include energy beams like laser, microwave, or radio frequency...</p></details>
+   Link:<a href="https://www.coherentmarketinsights.com/blog/aerospace-and-defense/directed-energy-weapons-in-counter-drone-missile-defense-3576" target="_blank" rel="noopener noreferrer nofollow">https://www.coherentmarketinsights.com/blog/aerospace-and-defense/directed-energy-weapons-in-counter-drone-missile-defense-3576</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons in CounterDrone Missile Defense4 May 2026 — These include energy beams like laser, microwave, or radio frequency...</p></details>
    Published: May 2026  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: publications.sto.nato.int  
-   Link: <a href="https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SET-315/MP-SET-315-24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SET-315/MP-SET-315-24.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disruption to Destruction Assessing theby K Karcz · Cited by 2 — Furthermore, our research outcomes provide insights into the consequence...</p></details>
+   Link:<a href="https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SET-315/MP-SET-315-24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SET-315/MP-SET-315-24.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disruption to Destruction Assessing theby K Karcz · Cited by 2 — Furthermore, our research outcomes provide insights into the consequence...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: ndupress.ndu.edu  
    Title: directed energy weapons are real and disruptive  
-   Link: <a href="https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2053280/directed-energy-weapons-are-real-and-disruptive/" target="_blank" rel="noopener noreferrer nofollow">https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2053280/directed-energy-weapons-are-real-and-disruptive/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>And Disruptive9 Jan 2020 — In the weapons version, the microwave energy effects or lethality depends on the power and range to target, bu...</p></details>
+   Link:<a href="https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2053280/directed-energy-weapons-are-real-and-disruptive/" target="_blank" rel="noopener noreferrer nofollow">https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2053280/directed-energy-weapons-are-real-and-disruptive/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>And Disruptive9 Jan 2020 — In the weapons version, the microwave energy effects or lethality depends on the power and range to target, bu...</p></details>

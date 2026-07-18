@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /directed-ener-98f417-index/
 description: Focused pages that expand on Directed Ener.
-date: '2026-06-19'
+date: '2026'
 layout: default
 parent_basename: Directed_Ener_98f417
 parent_title: Directed Ener
@@ -16,7 +16,7 @@ parent_permalink: /directed-ener/
 
 # Explore Topics in Directed Ener
 
-The following pages expand on the main **[Directed Ener]({{ '/directed-ener/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Directed Ener]({{ '/directed-ener/' | relative_url }})** page and cover its key branches in.
 
 - [Shot Cost]({{ '/shot-cost/' | relative_url }})
 - [Defence Layer]({{ '/defence-layer/' | relative_url }})

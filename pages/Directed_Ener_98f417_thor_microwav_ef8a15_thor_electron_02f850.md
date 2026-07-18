@@ -294,15 +294,15 @@ image: /assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_electron_02
 
 ## Introduction
 
-THOR’s attraction as a [counter-drone]({{ 'missile-savings/' | relative_url }}) system is also its main safety challenge. Unlike a laser that concentrates energy on a single point, THOR uses high-power microwave (HPM) pulses intended to create electronic effects across a broader volume of air. That wider-area approach offers a potential advantage against drone [swarms]({{ 'swarms/' | relative_url }}), but it raises a practical question for commanders and airbase operators: what else could be affected when the system fires? Public information on THOR’s exact power levels, frequencies and operating envelopes remains limited, yet the broader experience with high-power microwave systems makes one conclusion clear. Effective use depends not only on defeating hostile drones but also on protecting friendly electronics, nearby operations and personnel through carefully designed safety procedures and exclusion zones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afresearchlab.com">[Air Force Research Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afresearchlab.com</span><span class="citation-popover-snippet">A target is identified, the silent weapon discharges in a nanosecond and the impact...Read more...</span></span></span>
+THOR’s attraction as a [counter-drone]({{ 'missile-savings/' | relative_url }}) system is also its main safety challenge. Unlike a laser that concentrates energy on a single point, THOR uses high-power microwave (HPM) pulses intended to create electronic effects across a broader volume of air. That wider-area approach offers a potential advantage against drone [swarms]({{ 'swarms/' | relative_url }}), but it raises a practical question for commanders and airbase operators: what else could be affected when the system fires? Public information on THOR’s exact power levels, frequencies and operating envelopes remains limited, yet the broader experience with high-power microwave systems makes one conclusion clear. Effective use depends not only on defeating hostile drones but also on protecting friendly electronics, nearby operations and personnel through carefully designed safety procedures and exclusion zones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afresearchlab.com">[Air Force Research Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afresearchlab.com</span><span class="citation-popover-snippet">A target is identified, the silent weapon discharges in a nanosecond and the impact...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_electron_02f850-Illustration-1-dark.svg" | relative_url }}" alt="Safety Zones illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_electron_02f850-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_electron_02f850-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Wide-Area Effects Need Safety Rules
 
-THOR was developed to disable multiple drones through high-power microwave pulses that produce a “counter-electronic effect” rather than a kinetic impact. The system's value comes from the possibility that one engagement can affect several targets at once. However, electromagnetic energy does not inherently distinguish between hostile and friendly electronics. Any military [deployment]({{ 'deployment/' | relative_url }}) therefore has to manage where the beam is pointed, what equipment is nearby and which systems must remain protected during operation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afresearchlab.com">[Air Force Research Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afresearchlab.com</span><span class="citation-popover-snippet">A target is identified, the silent weapon discharges in a nanosecond and the impact...Read more...</span></span></span>
+THOR was developed to disable multiple drones through high-power microwave pulses that produce a “counter-electronic effect” rather than a kinetic impact. The system's value comes from the possibility that one engagement can affect several targets at once. However, electromagnetic energy does not inherently distinguish between hostile and friendly electronics. Any military [deployment]({{ 'deployment/' | relative_url }}) therefore has to manage where the beam is pointed, what equipment is nearby and which systems must remain protected during operation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afresearchlab.com">[Air Force Research Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afresearchlab.com</span><span class="citation-popover-snippet">A target is identified, the silent weapon discharges in a nanosecond and the impact...Read more...</span></span></span>
 
-Government assessments of directed-energy weapons consistently note that high-power microwave systems operate by interacting with electronic systems rather than simply destroying physical structures. Depending on intensity and exposure, effects can range from temporary disruption to permanent damage. This means safety planning extends beyond the target drones themselves and into the broader electromagnetic environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — These weapons include high energy lasers and other high power electroma...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+Government assessments of directed-energy weapons consistently note that high-power microwave systems operate by interacting with electronic systems rather than simply destroying physical structures. Depending on intensity and exposure, effects can range from temporary disruption to permanent damage. This means safety planning extends beyond the target drones themselves and into the broader electromagnetic environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — These weapons include high energy lasers and other high power electroma...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 For this reason, microwave counter-drone weapons are often discussed alongside electromagnetic compatibility requirements—the discipline concerned with ensuring that one electronic system does not unintentionally interfere with another. A successful deployment is therefore not merely a question of whether the drone swarm is neutralised, but whether critical friendly systems continue operating as intended during and after engagement.
 
@@ -312,7 +312,7 @@ For this reason, microwave counter-drone weapons are often discussed alongside e
 
 Military airbases depend on dense concentrations of electronics: communications equipment, data networks, sensors, navigation aids and command-and-control systems. A high-power microwave system intended to couple energy into drone electronics naturally creates concern about unintended coupling into nearby friendly systems.
 
-Publicly available information does not indicate that THOR has caused operational damage to friendly military equipment during testing. Nevertheless, the underlying physics that make HPM weapons effective against drones explain why operators must account for nearby electronics. Microwaves can enter systems through antennas, cables, wiring harnesses and other conductive paths. Sensitive components may experience interference, resets or, at sufficiently high levels, hardware damage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — These weapons include high energy lasers and other high power electroma...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+Publicly available information does not indicate that THOR has caused operational damage to friendly military equipment during testing. Nevertheless, the underlying physics that make HPM weapons effective against drones explain why operators must account for nearby electronics. Microwaves can enter systems through antennas, cables, wiring harnesses and other conductive paths. Sensitive components may experience interference, resets or, at sufficiently high levels, hardware damage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — These weapons include high energy lasers and other high power electroma...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 This concern becomes more significant on modern bases where radar systems, communications nodes and electronic warfare assets operate in close proximity. A counter-swarm engagement cannot be allowed to disable the very systems required to maintain situational awareness.
 
@@ -323,7 +323,7 @@ This concern becomes more significant on modern bases where radar systems, commu
 
 Aircraft create a particularly demanding safety problem. Modern military aircraft contain extensive avionics, flight-control electronics, navigation systems and communications equipment. Ground vehicles increasingly rely on networked electronics as well.
 
-Public reporting on newer microwave counter-drone systems highlights that high-power microwave effects are not inherently limited to drones. Manufacturers and observers describe the technology as producing counter-electronics effects that can influence a broad range of electronic devices under appropriate conditions. That reality explains why military users establish controlled engagement sectors rather than treating microwave weapons as universally safe in all directions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/electronic-warfare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-snippet">EpirusEpirus Leonidas High-Power Microwave: Directed Energy...Leonidas is a solid-state, high-power HPM system, utilizing Gallium Nitrid...</span></span></span>
+Public reporting on newer microwave counter-drone systems highlights that high-power microwave effects are not inherently limited to drones. Manufacturers and observers describe the technology as producing counter-electronics effects that can influence a broad range of electronic devices under appropriate conditions. That reality explains why military users establish controlled engagement sectors rather than treating microwave weapons as universally safe in all directions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/electronic-warfare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-snippet">EpirusEpirus Leonidas High-Power Microwave: Directed Energy...Leonidas is a solid-state, high-power HPM system, utilizing Gallium Nitrid...</span></span></span>
 
 For an airbase-defence system such as THOR, the operational question is therefore not only whether a drone is within range, but whether friendly aircraft, [maintenance]({{ 'maintenance/' | relative_url }}) areas or mission-critical infrastructure lie within the relevant electromagnetic hazard area.
 
@@ -331,15 +331,15 @@ For an airbase-defence system such as THOR, the operational question is therefor
 
 Air-defence operations depend heavily on radar and sensing systems. A counter-drone microwave system that creates strong electromagnetic emissions must be integrated into a broader electromagnetic spectrum management plan.
 
-The challenge is not necessarily permanent damage. Temporary interference, degraded sensor performance or operational disruption at a critical moment may be sufficient to create problems during a defensive engagement. As a result, microwave weapons are generally treated as part of a coordinated system rather than standalone devices operating independently of other sensors and effectors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — These weapons include high energy lasers and other high power electroma...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+The challenge is not necessarily permanent damage. Temporary interference, degraded sensor performance or operational disruption at a critical moment may be sufficient to create problems during a defensive engagement. As a result, microwave weapons are generally treated as part of a coordinated system rather than standalone devices operating independently of other sensors and effectors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — These weapons include high energy lasers and other high power electroma...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_electron_02f850-Illustration-2-dark.svg" | relative_url }}" alt="Safety Zones illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_electron_02f850-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_electron_02f850-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Human Safety Is Part of the Same Problem
 
-Discussion of THOR often focuses on electronics, but personnel safety is another reason exclusion zones exist. Public sources describing other directed-energy systems show that military organisations already use exposure limits and operational controls when electromagnetic energy could affect people. The well-known Active Denial System, for example, was designed specifically around human exposure to directed electromagnetic energy and required carefully managed operating procedures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://phr.org/our-work/resources/health-impacts-of-crowd-control-weapons-directed-energy-devices/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phr.org">[PHR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phr.org</span><span class="citation-popover-title">health impacts of crowd control weapons directed energy devices</span><span class="citation-popover-snippet">Health Impacts of Crowd-Control Weapons: Directed...Oct 28, 2020 — This technology delivers very high-frequency millimeter-wavelength...</span></span></span>
+Discussion of THOR often focuses on electronics, but personnel safety is another reason exclusion zones exist. Public sources describing other directed-energy systems show that military organisations already use exposure limits and operational controls when electromagnetic energy could affect people. The well-known Active Denial System, for example, was designed specifically around human exposure to directed electromagnetic energy and required carefully managed operating procedures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://phr.org/our-work/resources/health-impacts-of-crowd-control-weapons-directed-energy-devices/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phr.org">[PHR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phr.org</span><span class="citation-popover-title">health impacts of crowd control weapons directed energy devices</span><span class="citation-popover-snippet">Health Impacts of Crowd-Control Weapons: Directed...Oct 28, 2020 — This technology delivers very high-frequency millimeter-wavelength...</span></span></span>
 
-THOR operates in a different part of the directed-energy landscape and serves a different mission, but the broader principle remains the same: personnel should not be exposed to uncontrolled high-energy electromagnetic fields. Exact safety distances for THOR are not publicly available, yet research on high-power microwave counter-drone systems routinely includes exclusion-zone calculations and compliance with electromagnetic exposure standards, illustrating how central safety geometry is to practical deployment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2602.08477" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+THOR operates in a different part of the directed-energy landscape and serves a different mission, but the broader principle remains the same: personnel should not be exposed to uncontrolled high-energy electromagnetic fields. Exact safety distances for THOR are not publicly available, yet research on high-power microwave counter-drone systems routinely includes exclusion-zone calculations and compliance with electromagnetic exposure standards, illustrating how central safety geometry is to practical deployment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2602.08477" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 The result is a layered safety framework that considers:
 
@@ -361,7 +361,7 @@ The result is a layered safety framework that considers:
 
 The most important governance tool for managing THOR-related risks is the exclusion zone. An exclusion zone is a defined area in which people, friendly equipment or specific activities are restricted when the system is operating.
 
-In practice, exclusion zones are not simply circles drawn around a weapon. They are shaped by factors such as beam direction, terrain, nearby infrastructure, operating frequency, power levels and the sensitivity of protected systems. Because many technical details remain classified, public observers cannot calculate THOR's exact operational boundaries. However, the need for such boundaries is widely acknowledged across the high-power microwave field. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — These weapons include high energy lasers and other high power electroma...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+In practice, exclusion zones are not simply circles drawn around a weapon. They are shaped by factors such as beam direction, terrain, nearby infrastructure, operating frequency, power levels and the sensitivity of protected systems. Because many technical details remain classified, public observers cannot calculate THOR's exact operational boundaries. However, the need for such boundaries is widely acknowledged across the high-power microwave field.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — These weapons include high energy lasers and other high power electroma...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 For airbase defence, this creates several operational consequences:
 
@@ -381,9 +381,9 @@ These requirements help explain why high-power microwave systems are often descr
 <img src="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_electron_02f850-Illustration-3-dark.svg" | relative_url }}" alt="Safety Zones illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_electron_02f850-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_electron_02f850-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Safety Constraints Matter to THOR's Future
 
-The strongest argument for systems like THOR is their potential "one-to-many" effect against large groups of drones. Demonstrations have shown the appeal of microwave approaches when multiple unmanned aircraft must be engaged quickly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[Air Force Research Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">rl conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstration16 May 2023 — “The THOR team flew numerous drones at the THOR sy...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+The strongest argument for systems like THOR is their potential "one-to-many" effect against large groups of drones. Demonstrations have shown the appeal of microwave approaches when multiple unmanned aircraft must be engaged quickly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[Air Force Research Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">rl conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstration16 May 2023 — “The THOR team flew numerous drones at the THOR sy...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
-Yet the same characteristic that makes microwave weapons attractive also drives their governance burden. Every expansion in coverage area increases the need to understand secondary effects on friendly electronics, nearby operations and personnel. As microwave counter-drone technology evolves into systems such as AFRL's follow-on efforts and other military HPM programmes, success will depend as much on electromagnetic safety management as on raw counter-drone performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jedonline.com/2023/01/24/high-power-microwave-systems-getting-much-much-closer-to-operational-status/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jedonline.com">[Journal of Electromagnetic Dominance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jedonline.com</span><span class="citation-popover-title">high power microwave systems getting much much closer to operational status</span><span class="citation-popover-snippet">Journal of Electromagnetic DominanceHigh-Power Microwave Systems – Getting (Much...24 Jan 2023 — AFRL&#x27;s Tactical High Power Operational...</span></span></span>
+Yet the same characteristic that makes microwave weapons attractive also drives their governance burden. Every expansion in coverage area increases the need to understand secondary effects on friendly electronics, nearby operations and personnel. As microwave counter-drone technology evolves into systems such as AFRL's follow-on efforts and other military HPM programmes, success will depend as much on electromagnetic safety management as on raw counter-drone performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jedonline.com/2023/01/24/high-power-microwave-systems-getting-much-much-closer-to-operational-status/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jedonline.com">[Journal of Electromagnetic Dominance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jedonline.com</span><span class="citation-popover-title">high power microwave systems getting much much closer to operational status</span><span class="citation-popover-snippet">Journal of Electromagnetic DominanceHigh-Power Microwave Systems – Getting (Much...24 Jan 2023 — AFRL&#x27;s Tactical High Power Operational...</span></span></span>
 
 For that reason, safety zones are not an administrative detail attached to THOR after the fact. They are a central design and operational requirement. The practical value of a wide-area microwave defence system depends on proving that it can disable hostile drones while leaving the rest of the defended base functioning normally.
 
@@ -392,194 +392,194 @@ For that reason, safety zones are not an administrative detail attached to THOR 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Else Could THOR Affect?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Else Could THOR Affect?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
-        </h4>
-        <p class="fr-book-author">By Paul Scharre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
+</h4>
+<p class="fr-book-author">By Paul Scharre</p>
         
-        <p class="fr-book-desc">Strong background on autonomous systems and swarm threats that THOR is designed to counter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong background on autonomous systems and swarm threats that THOR is designed to counter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=EMC+for+product+designers+Tim+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open EMC for product designers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/493540-M.jpg" alt="Cover for EMC for product designers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=EMC+for+product+designers+Tim+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="EMC for product designers">EMC for product designers</a>
-        </h4>
-        <p class="fr-book-author">By Tim Williams</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=EMC+for+product+designers+Tim+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open EMC for product designers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/493540-M.jpg" alt="Cover for EMC for product designers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=EMC+for+product+designers+Tim+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="EMC for product designers">EMC for product designers</a>
+</h4>
+<p class="fr-book-author">By Tim Williams</p>
         
-        <p class="fr-book-desc">First published 1992. Subjects: Standards, Electromagnetic compatibility, Electronic apparatus and appliances, Electric apparatus and app...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=EMC+for+product+designers+Tim+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1992. Subjects: Standards, Electromagnetic compatibility, Electronic apparatus and appliances, Electric apparatus and app...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=EMC+for+product+designers+Tim+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Electronic+Defense+Systems+Filippo+Neri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Electronic Defense Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1646840-M.jpg" alt="Cover for Introduction to Electronic Defense Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Electronic+Defense+Systems+Filippo+Neri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Electronic Defense Systems">Introduction to Electronic Defense Systems</a>
-        </h4>
-        <p class="fr-book-author">By Filippo Neri</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Electronic+Defense+Systems+Filippo+Neri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Electronic Defense Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1646840-M.jpg" alt="Cover for Introduction to Electronic Defense Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Electronic+Defense+Systems+Filippo+Neri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Electronic Defense Systems">Introduction to Electronic Defense Systems</a>
+</h4>
+<p class="fr-book-author">By Filippo Neri</p>
         
-        <p class="fr-book-desc">First published 1991. Subjects: Electronics in military engineering.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Electronic+Defense+Systems+Filippo+Neri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1991. Subjects: Electronics in military engineering.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Electronic+Defense+Systems+Filippo+Neri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
-        </h4>
-        <p class="fr-book-author">By Bahman Zohuri</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
+</h4>
+<p class="fr-book-author">By Bahman Zohuri</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=EMC+for+product+designers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">EMC for product designers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Electronic+Defense+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Electronic Defense Systems books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=EMC+for+product+designers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">EMC for product designers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Electronic+Defense+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Electronic Defense Systems books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHALLENGE COIN - U.S. Army 69th Air Defense Artillery Brigade Team Of Winners"><img src="{{ '/assets/images/marketplace-covers/7942abf3c20eb44692b6.jpg' | relative_url }}" alt="Listing image for CHALLENGE COIN - U.S. Army 69th Air Defense Artillery Brigade Team Of Winners" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">CHALLENGE COIN - U.S. Army 69th Air Defense Artillery Brigade Team Of Winners</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHALLENGE COIN - U.S. Army 69th Air Defense Artillery Brigade Team Of Winners"><img src="{{ '/assets/images/marketplace-covers/7942abf3c20eb44692b6.jpg' | relative_url }}" alt="Listing image for CHALLENGE COIN - U.S. Army 69th Air Defense Artillery Brigade Team Of Winners" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">CHALLENGE COIN - U.S. Army 69th Air Defense Artillery Brigade Team Of Winners</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for United States Air Force Challenge Coin Set USAF USSF Department Of Defense"><img src="{{ '/assets/images/marketplace-covers/e02970bbc84e9104cf8e.jpg' | relative_url }}" alt="Listing image for United States Air Force Challenge Coin Set USAF USSF Department Of Defense" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">United States Air Force Challenge Coin Set USAF USSF Department Of Defense</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for United States Air Force Challenge Coin Set USAF USSF Department Of Defense"><img src="{{ '/assets/images/marketplace-covers/e02970bbc84e9104cf8e.jpg' | relative_url }}" alt="Listing image for United States Air Force Challenge Coin Set USAF USSF Department Of Defense" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">United States Air Force Challenge Coin Set USAF USSF Department Of Defense</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Department of Defense Challenge Coin The Pentagon Army Navy Air Force Marine"><img src="{{ '/assets/images/marketplace-covers/6b99fdf302f58385007a.jpg' | relative_url }}" alt="Listing image for US Department of Defense Challenge Coin The Pentagon Army Navy Air Force Marine" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">US Department of Defense Challenge Coin The Pentagon Army Navy Air Force Marine</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Department of Defense Challenge Coin The Pentagon Army Navy Air Force Marine"><img src="{{ '/assets/images/marketplace-covers/6b99fdf302f58385007a.jpg' | relative_url }}" alt="Listing image for US Department of Defense Challenge Coin The Pentagon Army Navy Air Force Marine" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">US Department of Defense Challenge Coin The Pentagon Army Navy Air Force Marine</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AIR DEFENSE TROOPS OF ARMED FORCES -UKRAINIAN MILITARY TOKEN CHALLENGE COIN"><img src="{{ '/assets/images/marketplace-covers/586b8df262fdf4d8dcaf.jpg' | relative_url }}" alt="Listing image for AIR DEFENSE TROOPS OF ARMED FORCES -UKRAINIAN MILITARY TOKEN CHALLENGE COIN" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">AIR DEFENSE TROOPS OF ARMED FORCES -UKRAINIAN MILITARY TOKEN CHALLENGE COIN</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AIR DEFENSE TROOPS OF ARMED FORCES -UKRAINIAN MILITARY TOKEN CHALLENGE COIN"><img src="{{ '/assets/images/marketplace-covers/586b8df262fdf4d8dcaf.jpg' | relative_url }}" alt="Listing image for AIR DEFENSE TROOPS OF ARMED FORCES -UKRAINIAN MILITARY TOKEN CHALLENGE COIN" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">AIR DEFENSE TROOPS OF ARMED FORCES -UKRAINIAN MILITARY TOKEN CHALLENGE COIN</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="safety-zones-what-else-could-thor-affect-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -595,7 +595,7 @@ For that reason, safety zones are not an administrative detail attached to THOR 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -615,7 +615,7 @@ For that reason, safety zones are not an administrative detail attached to THOR 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -647,7 +647,7 @@ For that reason, safety zones are not an administrative detail attached to THOR 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -699,7 +699,7 @@ For that reason, safety zones are not an administrative detail attached to THOR 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -744,7 +744,7 @@ For that reason, safety zones are not an administrative detail attached to THOR 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -785,197 +785,197 @@ For that reason, safety zones are not an administrative detail attached to THOR 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gao.gov  
    Title: gao 23 106717  
-   Link: <a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — These weapons include high energy lasers and other high power electroma...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — These weapons include high energy lasers and other high power electroma...</p></details>
    Published: May 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/4229403_Research_on_high_power_microwave_weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/4229403_Research_on_high_power_microwave_weapons</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Research on high power microwave weaponsThis structured narrative review analyses how High-Power Microwave (HPM) Directed Energy We...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/4229403_Research_on_high_power_microwave_weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/4229403_Research_on_high_power_microwave_weapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Research on high power microwave weaponsThis structured narrative review analyses how High-Power Microwave (HPM) Directed Energy We...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2602.08477" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.08477</a>  
+   Link:<a href="https://arxiv.org/abs/2602.08477" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.08477</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Epirus Leonidas  
-   Link: <a href="https://en.wikipedia.org/wiki/Epirus_Leonidas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Epirus_Leonidas</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus LeonidasThe Leonidas is a high-power microwave (HPM) weapon developed to disable unmanned aerial vehicle (UAV) swarms. It was n...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Epirus_Leonidas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Epirus_Leonidas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus LeonidasThe Leonidas is a high-power microwave (HPM) weapon developed to disable unmanned aerial vehicle (UAV) swarms. It was n...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: phr.org  
    Title: health impacts of crowd control weapons directed energy devices  
-   Link: <a href="https://phr.org/our-work/resources/health-impacts-of-crowd-control-weapons-directed-energy-devices/" target="_blank" rel="noopener noreferrer nofollow">https://phr.org/our-work/resources/health-impacts-of-crowd-control-weapons-directed-energy-devices/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Health Impacts of Crowd-Control Weapons: Directed...Oct 28, 2020 — This technology delivers very high-frequency millimeter-[wavelength](&amp;#123;&amp;#123; &#x27;wavelengths/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://phr.org/our-work/resources/health-impacts-of-crowd-control-weapons-directed-energy-devices/" target="_blank" rel="noopener noreferrer nofollow">https://phr.org/our-work/resources/health-impacts-of-crowd-control-weapons-directed-energy-devices/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Health Impacts of Crowd-Control Weapons: Directed...Oct 28, 2020 — This technology delivers very high-frequency millimeter-[wavelength](&amp;#123;&amp;#123; &#x27;wavelengths/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2311.12809" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2311.12809</a>  
+   Link:<a href="https://arxiv.org/abs/2311.12809" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2311.12809</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: THOR (weapon)  
-   Link: <a href="https://en.wikipedia.org/wiki/THOR_%28weapon%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/THOR_%28weapon%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THOR (weapon)The Tactical High-power Operational Responder (THOR) is a high-power microwave directed energy weapon developed by the Un...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/THOR_%28weapon%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/THOR_%28weapon%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THOR (weapon)The Tactical High-power Operational Responder (THOR) is a high-power microwave directed energy weapon developed by the Un...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Directed energy weapon  
-   Link: <a href="https://en.wikipedia.org/wiki/Directed-energy_weapon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Directed-energy_weapon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed-energy weaponA directed-energy weapon (DEW) is a ranged weapon that damages its target with highly focused energy without a s...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Directed-energy_weapon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Directed-energy_weapon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed-energy weaponA directed-energy weapon (DEW) is a ranged weapon that damages its target with highly focused energy without a s...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons DOD Should Focus on Transition...DOD spends about $1 billion annually on directed energy--concentrated electroma...</p></details>
+   Link:<a href="https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons DOD Should Focus on Transition...DOD spends about $1 billion annually on directed energy--concentrated electroma...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=r8SYbFQGr-Y" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=r8SYbFQGr-Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus Leonidas: High-Power Microwave for Counter-Electronics...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=r8SYbFQGr-Y" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=r8SYbFQGr-Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus Leonidas: High-Power Microwave for Counter-Electronics...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Epirus Leonidas: High-Power Microwave for Counter-Electronics  
-   Link: <a href="http://www.youtube.com/watch?v=vLA826fH4Vc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vLA826fH4Vc</a>  
+   Link:<a href="http://www.youtube.com/watch?v=vLA826fH4Vc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vLA826fH4Vc</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: afresearchlab.com  
-   Link: <a href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://afresearchlab.com/counter-swarm-high-power-weapon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A target is identified, the silent weapon discharges in a nanosecond and the impact...Read more...</p></details>
+   Link:<a href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://afresearchlab.com/counter-swarm-high-power-weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A target is identified, the silent weapon discharges in a nanosecond and the impact...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: afrl.af.mil  
    Title: rl conducts swarm technology demonstration  
-   Link: <a href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Research LaboratoryAFRL conducts swarm technology demonstration16 May 2023 — “The THOR team flew numerous drones at the THOR sy...</p></details>
+   Link:<a href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Research LaboratoryAFRL conducts swarm technology demonstration16 May 2023 — “The THOR team flew numerous drones at the THOR sy...</p></details>
    Published: May 2023  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: epirusinc.com  
-   Link: <a href="https://www.epirusinc.com/electronic-warfare" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/electronic-warfare</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EpirusEpirus Leonidas High-Power Microwave: Directed Energy...Leonidas is a solid-state, high-power HPM system, utilizing Gallium Nitrid...</p></details>
+   Link:<a href="https://www.epirusinc.com/electronic-warfare" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/electronic-warfare</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EpirusEpirus Leonidas High-Power Microwave: Directed Energy...Leonidas is a solid-state, high-power HPM system, utilizing Gallium Nitrid...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: epirusinc.com  
-   Link: <a href="https://www.epirusinc.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus - Home of Leonidas, the Premier High-Power...Epirus combines the latest in solid-state, long-pulse high-power microwave systems w...</p></details>
+   Link:<a href="https://www.epirusinc.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus - Home of Leonidas, the Premier High-Power...Epirus combines the latest in solid-state, long-pulse high-power microwave systems w...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: jedonline.com  
    Title: high power microwave systems getting much much closer to operational status  
-   Link: <a href="https://www.jedonline.com/2023/01/24/high-power-microwave-systems-getting-much-much-closer-to-operational-status/" target="_blank" rel="noopener noreferrer nofollow">https://www.jedonline.com/2023/01/24/high-power-microwave-systems-getting-much-much-closer-to-operational-status/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Electromagnetic DominanceHigh-Power Microwave Systems – Getting (Much...24 Jan 2023 — AFRL&#x27;s Tactical High Power Operational...</p></details>
+   Link:<a href="https://www.jedonline.com/2023/01/24/high-power-microwave-systems-getting-much-much-closer-to-operational-status/" target="_blank" rel="noopener noreferrer nofollow">https://www.jedonline.com/2023/01/24/high-power-microwave-systems-getting-much-much-closer-to-operational-status/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Electromagnetic DominanceHigh-Power Microwave Systems – Getting (Much...24 Jan 2023 — AFRL&#x27;s Tactical High Power Operational...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=na0pGfopahM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=na0pGfopahM</a>  
+   Link:<a href="https://www.youtube.com/watch?v=na0pGfopahM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=na0pGfopahM</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: epirusinc.com  
-   Link: <a href="https://www.epirusinc.com/press-releases/epirus-leonidas-demonstrates-successful-use-of-high-power-microwave-to-defeat-[fiber-optic" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/press-releases/epirus-leonidas-demonstrates-successful-use-of-high-power-microwave-to-defeat-[fiber-optic</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus&#x27; Leonidas Demonstrates Successful Use of High-...13 Jan 2026 — Leonidas is the first EW-based counter-UAS technology to demonstra...</p></details>
+   Link:<a href="https://www.epirusinc.com/press-releases/epirus-leonidas-demonstrates-successful-use-of-high-power-microwave-to-defeat-[fiber-optic" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/press-releases/epirus-leonidas-demonstrates-successful-use-of-high-power-microwave-to-defeat-[fiber-optic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus&#x27; Leonidas Demonstrates Successful Use of High-...13 Jan 2026 — Leonidas is the first EW-based counter-UAS technology to demonstra...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: epirusinc.com  
    Title: Tap to unmute.Read more  
-   Link: <a href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone...10 Sept 2025 — Leonidas neutralized 61-of-61 drones, culminating in a 49-drone...</p></details>
+   Link:<a href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone...10 Sept 2025 — Leonidas neutralized 61-of-61 drones, culminating in a 49-drone...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/904340/thor-tactical-high-power-operational-responder" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/904340/thor-tactical-high-power-operational-responder</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thor - Tactical High-power Operational ResponderTHOR is a high power microwave counter-drone weapon that the Air Force Research Lab has d...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/904340/thor-tactical-high-power-operational-responder" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/904340/thor-tactical-high-power-operational-responder</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thor - Tactical High-power Operational ResponderTHOR is a high power microwave counter-drone weapon that the Air Force Research Lab has d...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: afrl.af.mil  
-   Link: <a href="https://www.afrl.af.mil/News/Video/?dvpTag=Thor&amp;dvpmoduleid=69743" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Video/?dvpTag=Thor&amp;dvpmoduleid=69743</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Force Research Laboratory VideoTactical, High-power, Operational Responder, known as THOR... AFRL&#x27;s THOR Tracks and Disables Drone Swarm&quot;...</p></details>
+   Link:<a href="https://www.afrl.af.mil/News/Video/?dvpTag=Thor&amp;dvpmoduleid=69743" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Video/?dvpTag=Thor&amp;dvpmoduleid=69743</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Force Research Laboratory VideoTactical, High-power, Operational Responder, known as THOR... AFRL&#x27;s THOR Tracks and Disables Drone Swarm&quot;...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: unmannedairspace.info  
    Title: epirus leonidas defeats 49 drone swarm with one electromagnetic burst  
-   Link: <a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/epirus-leonidas-defeats-49-drone-swarm-with-one-electromagnetic-burst/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/epirus-leonidas-defeats-49-drone-swarm-with-one-electromagnetic-burst/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus&#x27; Leonidas defeats 49-drone swarm with one...2 Sept 2025 — Epirus&#x27; Leonidas defeats 49-drone swarm with one electromagnetic burst...</p></details>
+   Link:<a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/epirus-leonidas-defeats-49-drone-swarm-with-one-electromagnetic-burst/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/epirus-leonidas-defeats-49-drone-swarm-with-one-electromagnetic-burst/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus&#x27; Leonidas defeats 49-drone swarm with one...2 Sept 2025 — Epirus&#x27; Leonidas defeats 49-drone swarm with one electromagnetic burst...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/epirus_epirus-leonidas-high-power-microwave-defeats-activity-7371575751776608256-i0zZ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/epirus_epirus-leonidas-high-power-microwave-defeats-activity-7371575751776608256-i0zZ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tic interference. “We believe showcasing our weaponized...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/epirus_epirus-leonidas-high-power-microwave-defeats-activity-7371575751776608256-i0zZ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/epirus_epirus-leonidas-high-power-microwave-defeats-activity-7371575751776608256-i0zZ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tic interference. “We believe showcasing our weaponized...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: milmag.pl  
    Title: epirus gdls and kodiak unveil the leonidas agv autonomous counter drone system  
-   Link: <a href="https://milmag.pl/en/epirus-gdls-and-kodiak-unveil-the-leonidas-agv-autonomous-counter-drone-system/" target="_blank" rel="noopener noreferrer nofollow">https://milmag.pl/en/epirus-gdls-and-kodiak-unveil-the-leonidas-agv-autonomous-counter-drone-system/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus, GDLS, and Kodiak unveil the Leonidas AGV...24 Mar 2026 — Leonidas AGV offers the modularity and scalability of the Leonidas high...</p></details>
+   Link:<a href="https://milmag.pl/en/epirus-gdls-and-kodiak-unveil-the-leonidas-agv-autonomous-counter-drone-system/" target="_blank" rel="noopener noreferrer nofollow">https://milmag.pl/en/epirus-gdls-and-kodiak-unveil-the-leonidas-agv-autonomous-counter-drone-system/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus, GDLS, and Kodiak unveil the Leonidas AGV...24 Mar 2026 — Leonidas AGV offers the modularity and scalability of the Leonidas high...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: calibredefence.co.uk  
    Title: epirus zaps fibre optic fpv with leonidas microwave weapon  
-   Link: <a href="https://www.calibredefence.co.uk/epirus-zaps-fibre-optic-fpv-with-leonidas-microwave-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.calibredefence.co.uk/epirus-zaps-fibre-optic-fpv-with-leonidas-microwave-weapon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus zaps fibre-optic FPV with Leonidas microwave...28 Jan 2026 — Epirus has developed a microwave weapon called Leonidas that has dem...</p></details>
+   Link:<a href="https://www.calibredefence.co.uk/epirus-zaps-fibre-optic-fpv-with-leonidas-microwave-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.calibredefence.co.uk/epirus-zaps-fibre-optic-fpv-with-leonidas-microwave-weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus zaps fibre-optic FPV with Leonidas microwave...28 Jan 2026 — Epirus has developed a microwave weapon called Leonidas that has dem...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: defence-blog.com  
    Title: epirus confirms leonidas microwave system integration with dft platform  
-   Link: <a href="https://defence-blog.com/epirus-confirms-leonidas-microwave-system-integration-with-dft-platform/" target="_blank" rel="noopener noreferrer nofollow">https://defence-blog.com/epirus-confirms-leonidas-microwave-system-integration-with-dft-platform/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus confirms Leonidas microwave system integration...25 Feb 2026 — The system emits controlled bursts of high-power microwave energy...</p></details>
+   Link:<a href="https://defence-blog.com/epirus-confirms-leonidas-microwave-system-integration-with-dft-platform/" target="_blank" rel="noopener noreferrer nofollow">https://defence-blog.com/epirus-confirms-leonidas-microwave-system-integration-with-dft-platform/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus confirms Leonidas microwave system integration...25 Feb 2026 — The system emits controlled bursts of high-power microwave energy...</p></details>
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AFResearchLab/posts/for-this-techtuesday-we-look-back-at-the-power-of-thor-and-what-that-means-for-n/3271349919568312/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AFResearchLab/posts/for-this-techtuesday-we-look-back-at-the-power-of-thor-and-what-that-means-for-n/3271349919568312/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>For this #TechTuesday, we look back at the power of THOR...The system, known as the Tactical High-Power Operational Responder (THOR), us...</p></details>
+   Link:<a href="https://www.facebook.com/AFResearchLab/posts/for-this-techtuesday-we-look-back-at-the-power-of-thor-and-what-that-means-for-n/3271349919568312/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AFResearchLab/posts/for-this-techtuesday-we-look-back-at-the-power-of-thor-and-what-that-means-for-n/3271349919568312/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For this #TechTuesday, we look back at the power of THOR...The system, known as the Tactical High-Power Operational Responder (THOR), us...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: kirtland.af.mil  
-   Link: <a href="https://www.kirtland.af.mil/News/Photos/igphoto/2000429585/" target="_blank" rel="noopener noreferrer nofollow">https://www.kirtland.af.mil/News/Photos/igphoto/2000429585/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>High-Power MicrowavesThe Active Denial System is a counter-personnel, non-lethal, directed energy weapon. Traveling at the speed of light...</p></details>
+   Link:<a href="https://www.kirtland.af.mil/News/Photos/igphoto/2000429585/" target="_blank" rel="noopener noreferrer nofollow">https://www.kirtland.af.mil/News/Photos/igphoto/2000429585/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High-Power MicrowavesThe Active Denial System is a counter-personnel, non-lethal, directed energy weapon. Traveling at the speed of light...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: techbriefs.com  
-   Link: <a href="https://www.techbriefs.com/component/content/article/49907-meet-thor-afrls-counter-drone-that-tracks-and-disables-drone-swarm" target="_blank" rel="noopener noreferrer nofollow">https://www.techbriefs.com/component/content/article/49907-meet-thor-afrls-counter-drone-that-tracks-and-disables-drone-swarm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meet THOR: AFRL&#x27;s Counter-Drone that Tracks and...THOR is a high-power microwave counter-drone weapon that the Air Force Research Lab ha...</p></details>
+   Link:<a href="https://www.techbriefs.com/component/content/article/49907-meet-thor-afrls-counter-drone-that-tracks-and-disables-drone-swarm" target="_blank" rel="noopener noreferrer nofollow">https://www.techbriefs.com/component/content/article/49907-meet-thor-afrls-counter-drone-that-tracks-and-disables-drone-swarm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meet THOR: AFRL&#x27;s Counter-Drone that Tracks and...THOR is a high-power microwave counter-drone weapon that the Air Force Research Lab ha...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: onr.navy.mil  
-   Link: <a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesNavy DEWs include systems that use high-energy lasers (HEL) that em...</p></details>
+   Link:<a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesNavy DEWs include systems that use high-energy lasers (HEL) that em...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: rtx.com  
-   Link: <a href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/phaser-high-power-microwave" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/phaser-high-power-microwave</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phaser High-Power Microwave System | RaytheonDefending at the speed of light. The Phaser high-power microwave system uses directed energy...</p></details>
+   Link:<a href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/phaser-high-power-microwave" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/phaser-high-power-microwave</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phaser High-Power Microwave System | RaytheonDefending at the speed of light. The Phaser high-power microwave system uses directed energy...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=0pwv1BOuqN4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0pwv1BOuqN4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AFRL&#x27;s THOR Tracks and Disables Drone SwarmTactical, High-power, Operational Responder, known as THOR, is a high-power microwave counter...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0pwv1BOuqN4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0pwv1BOuqN4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFRL&#x27;s THOR Tracks and Disables Drone SwarmTactical, High-power, Operational Responder, known as THOR, is a high-power microwave counter...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=QjHGxKb6W1c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QjHGxKb6W1c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THOR (Tactical High-power Operational Responder) Destroys...AFRL&#x27;s THOR (Tactical High-power Operational Responder) is a prototype Direc...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QjHGxKb6W1c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QjHGxKb6W1c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THOR (Tactical High-power Operational Responder) Destroys...AFRL&#x27;s THOR (Tactical High-power Operational Responder) is a prototype Direc...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X1toVupe_R8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Directed Energy Weapons SystemsThe Government Accountability Office explains what are Directed Energy Weapons and takes a look at ho...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X1toVupe_R8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Directed Energy Weapons SystemsThe Government Accountability Office explains what are Directed Energy Weapons and takes a look at ho...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: defensescoop.com  
    Title: marines microwave weapon hpm epirus leonidas [expeditionary](&#123;&#123; 'marine-variant/' | relative_url &#125;&#125;)  
-   Link: <a href="https://defensescoop.com/2024/09/23/marines-microwave-weapon-hpm-epirus-leonidas-expeditionary/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/09/23/marines-microwave-weapon-hpm-epirus-leonidas-expeditionary/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Marines to get new drone-killing microwave weapon...23 Sept 2024 — The high-power microwave weapon prototype, known as Leonidas Expediti...</p></details>
+   Link:<a href="https://defensescoop.com/2024/09/23/marines-microwave-weapon-hpm-epirus-leonidas-expeditionary/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/09/23/marines-microwave-weapon-hpm-epirus-leonidas-expeditionary/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marines to get new drone-killing microwave weapon...23 Sept 2024 — The high-power microwave weapon prototype, known as Leonidas Expediti...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: ndupress.ndu.edu  
    Title: directed energy weapons are real and disruptive  
-   Link: <a href="https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2053280/directed-energy-weapons-are-real-and-disruptive/" target="_blank" rel="noopener noreferrer nofollow">https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2053280/directed-energy-weapons-are-real-and-disruptive/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Energy Weapons Are Real... And Disruptive9 Jan 2020 — DE weapons include high-energy lasers, high-power radio frequency or microwave d...</p></details>
+   Link:<a href="https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2053280/directed-energy-weapons-are-real-and-disruptive/" target="_blank" rel="noopener noreferrer nofollow">https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2053280/directed-energy-weapons-are-real-and-disruptive/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Energy Weapons Are Real... And Disruptive9 Jan 2020 — DE weapons include high-energy lasers, high-power radio frequency or microwave d...</p></details>

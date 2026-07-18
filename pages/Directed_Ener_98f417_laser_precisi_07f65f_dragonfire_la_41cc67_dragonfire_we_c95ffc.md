@@ -269,7 +269,7 @@ image: /assets/images/Directed_Ener_98f417_laser_precisi_07f65f_dragonfire_la_41
 
 ## Introduction
 
-DragonFires successful drone interceptions have demonstrated that a modern laser air-defence system can track and destroy fast-moving aerial targets. What those trials do not prove is that the weapon will deliver the same performance in heavy rain, sea spray, fog, dust storms or [battlefield]({{ 'battle-limits/' | relative_url }}) smoke. For any high-energy laser, the [atmosphere]({{ 'atmosphere/' | relative_url }}) is not simply empty space between the weapon and the target. It is part of the engagement itself. Water droplets, dust particles, turbulence and airborne contaminants can absorb, scatter or distort the beam before it reaches the target. As a result, weather is likely to be one of the most important factors governing DragonFires real-world battlefield effectiveness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Drill &amp; Defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">19 Jan 2024 The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</span></span></span>
+DragonFires successful drone interceptions have demonstrated that a modern laser air-defence system can track and destroy fast-moving aerial targets. What those trials do not prove is that the weapon will deliver the same performance in heavy rain, sea spray, fog, dust storms or [battlefield]({{ 'battle-limits/' | relative_url }}) smoke. For any high-energy laser, the [atmosphere]({{ 'atmosphere/' | relative_url }}) is not simply empty space between the weapon and the target. It is part of the engagement itself. Water droplets, dust particles, turbulence and airborne contaminants can absorb, scatter or distort the beam before it reaches the target. As a result, weather is likely to be one of the most important factors governing DragonFires real-world battlefield effectiveness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Drill &amp; Defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">19 Jan 2024 The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_dragonfire_la_41cc67_dragonfire_we_c95ffc-Illustration-1-dark.svg" | relative_url }}" alt="Weather Limits illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_dragonfire_la_41cc67_dragonfire_we_c95ffc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_dragonfire_la_41cc67_dragonfire_we_c95ffc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -277,9 +277,9 @@ DragonFires successful drone interceptions have demonstrated that a modern laser
 
 The short answer is yesbut only under some conditions.
 
-A laser weapon damages a target by concentrating energy onto a small area for a sustained period. Unlike a missile, which physically carries its destructive force to the target, a laser must transmit that energy through the atmosphere. If the atmosphere weakens the beam, less energy arrives at the target and the engagement becomes slower, shorter-ranged or potentially unsuccessful. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drillanddefense.com">[Drill &amp; Defense+2C4ISRNet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drillanddefense.com</span><span class="citation-popover-snippet">Weather and atmosphere can reduce effectiveness. Fog, rain, smoke, dust, sea spray, and...</span></span></span>
+A laser weapon damages a target by concentrating energy onto a small area for a sustained period. Unlike a missile, which physically carries its destructive force to the target, a laser must transmit that energy through the atmosphere. If the atmosphere weakens the beam, less energy arrives at the target and the engagement becomes slower, shorter-ranged or potentially unsuccessful.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drillanddefense.com">[Drill &amp; Defense+2C4ISRNet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drillanddefense.com</span><span class="citation-popover-snippet">Weather and atmosphere can reduce effectiveness. Fog, rain, smoke, dust, sea spray, and...</span></span></span>
 
-This does not mean that a cloud or light rain instantly renders DragonFire useless. Modern laser systems employ sophisticated beam-control technologies, and military developers have spent years mitigating atmospheric effects. However, the physics remains unavoidable: worsening atmospheric conditions generally reduce laser effectiveness more than they reduce the effectiveness of conventional missiles or gun systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.c4isrnet.com/opinion/2018/02/26/cloudy-and-a-chance-of-rain-need-not-sideline-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: c4isrnet.com">[C4ISRNet+2Army]</a><span class="citation-popover" role="note"><span class="citation-popover-source">c4isrnet.com</span><span class="citation-popover-title">cloudy and a chance of rain need not sideline high energy lasers</span><span class="citation-popover-snippet">Cloudy and a chance of rain need not sideline high-energy...Feb 26, 2018 That said, under the most adverse conditions (heavy r...</span></span></span>
+This does not mean that a cloud or light rain instantly renders DragonFire useless. Modern laser systems employ sophisticated beam-control technologies, and military developers have spent years mitigating atmospheric effects. However, the physics remains unavoidable: worsening atmospheric conditions generally reduce laser effectiveness more than they reduce the effectiveness of conventional missiles or gun systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.c4isrnet.com/opinion/2018/02/26/cloudy-and-a-chance-of-rain-need-not-sideline-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: c4isrnet.com">[C4ISRNet+2Army]</a><span class="citation-popover" role="note"><span class="citation-popover-source">c4isrnet.com</span><span class="citation-popover-title">cloudy and a chance of rain need not sideline high energy lasers</span><span class="citation-popover-snippet">Cloudy and a chance of rain need not sideline high-energy...Feb 26, 2018 That said, under the most adverse conditions (heavy r...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P3wjzIz67ds" title="DragonFire Arrives: The Royal Navy’s Laser Revolution" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P3wjzIz67ds" target="_blank" rel="noopener noreferrer">DragonFire Arrives: The Royal Navy’s Laser Revolution</a></p><p class="youtube-embed-meta">Channel: Warships &amp; Warriors</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P3wjzIz67ds" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P3wjzIz67ds">Open on YouTube</a></p></div></div></div>
@@ -288,15 +288,15 @@ This does not mean that a cloud or light rain instantly renders DragonFire usele
 
 Several different weather-related mechanisms can degrade a high-energy laser.
 
-**Fog and mist** are among the most challenging conditions. Tiny suspended water droplets scatter laser energy in multiple directions, reducing the amount that reaches the target. Dense fog can therefore shorten engagement ranges dramatically compared with clear-air conditions. Research into laser propagation consistently identifies fog as one of the most severe obstacles for optical systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Laser_weapon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Laser weapon</span><span class="citation-popover-snippet">Laser weapon</span></span></span>
+**Fog and mist** are among the most challenging conditions. Tiny suspended water droplets scatter laser energy in multiple directions, reducing the amount that reaches the target. Dense fog can therefore shorten engagement ranges dramatically compared with clear-air conditions. Research into laser propagation consistently identifies fog as one of the most severe obstacles for optical systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Laser_weapon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Laser weapon</span><span class="citation-popover-snippet">Laser weapon</span></span></span>
 
-**Rain and snow** create similar problems. Individual droplets and ice crystals absorb and scatter portions of the beam. Light rain may only produce modest degradation, but heavy precipitation can significantly reduce effective range and dwell-time performance. Military assessments of laser weapons routinely list heavy rain among the most adverse operating environments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.c4isrnet.com/opinion/2018/02/26/cloudy-and-a-chance-of-rain-need-not-sideline-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: c4isrnet.com">[C4ISRNet+2Defence Science Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">c4isrnet.com</span><span class="citation-popover-title">cloudy and a chance of rain need not sideline high energy lasers</span><span class="citation-popover-snippet">Cloudy and a chance of rain need not sideline high-energy...Feb 26, 2018 That said, under the most adverse conditions (heavy r...</span></span></span>
+**Rain and snow** create similar problems. Individual droplets and ice crystals absorb and scatter portions of the beam. Light rain may only produce modest degradation, but heavy precipitation can significantly reduce effective range and dwell-time performance. Military assessments of laser weapons routinely list heavy rain among the most adverse operating environments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.c4isrnet.com/opinion/2018/02/26/cloudy-and-a-chance-of-rain-need-not-sideline-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: c4isrnet.com">[C4ISRNet+2Defence Science Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">c4isrnet.com</span><span class="citation-popover-title">cloudy and a chance of rain need not sideline high energy lasers</span><span class="citation-popover-snippet">Cloudy and a chance of rain need not sideline high-energy...Feb 26, 2018 That said, under the most adverse conditions (heavy r...</span></span></span>
 
-**Dust, sand and battlefield debris** can be equally troublesome. Airborne particles scatter laser energy and may create fluctuating distortions along the beam path. This is particularly relevant for land operations in arid environments, where helicopters, vehicles and explosions can place large amounts of dust into the air. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drillanddefense.com">[Drill &amp; Defense+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drillanddefense.com</span><span class="citation-popover-snippet">Weather and atmosphere can reduce effectiveness. Fog, rain, smoke, dust, sea spray, and...</span></span></span>
+**Dust, sand and battlefield debris** can be equally troublesome. Airborne particles scatter laser energy and may create fluctuating distortions along the beam path. This is particularly relevant for land operations in arid environments, where helicopters, vehicles and explosions can place large amounts of dust into the air.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drillanddefense.com">[Drill &amp; Defense+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drillanddefense.com</span><span class="citation-popover-snippet">Weather and atmosphere can reduce effectiveness. Fog, rain, smoke, dust, sea spray, and...</span></span></span>
 
-**Smoke and obscurants** present a special challenge. Battlefield smoke from fires, detonations or deliberately deployed screening systems can interfere with laser propagation. Since [lasers]({{ 'lasers/' | relative_url }}) require a relatively clear optical path, dense smoke may reduce engagement effectiveness even when visibility appears acceptable to the human eye. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.c4isrnet.com/opinion/2018/02/26/cloudy-and-a-chance-of-rain-need-not-sideline-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: c4isrnet.com">[C4ISRNet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">c4isrnet.com</span><span class="citation-popover-title">cloudy and a chance of rain need not sideline high energy lasers</span><span class="citation-popover-snippet">Cloudy and a chance of rain need not sideline high-energy...Feb 26, 2018 That said, under the most adverse conditions (heavy r...</span></span></span>
+**Smoke and obscurants** present a special challenge. Battlefield smoke from fires, detonations or deliberately deployed screening systems can interfere with laser propagation. Since [lasers]({{ 'lasers/' | relative_url }}) require a relatively clear optical path, dense smoke may reduce engagement effectiveness even when visibility appears acceptable to the human eye.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.c4isrnet.com/opinion/2018/02/26/cloudy-and-a-chance-of-rain-need-not-sideline-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: c4isrnet.com">[C4ISRNet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">c4isrnet.com</span><span class="citation-popover-title">cloudy and a chance of rain need not sideline high energy lasers</span><span class="citation-popover-snippet">Cloudy and a chance of rain need not sideline high-energy...Feb 26, 2018 That said, under the most adverse conditions (heavy r...</span></span></span>
 
-**Atmospheric turbulence** is less visible but still important. Variations in air temperature and density can cause the beam to wander, spread or lose focus. Over long distances, even small distortions can reduce the energy delivered to a target. Advanced optics can compensate for some of these effects, but they cannot eliminate them entirely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.c4isrnet.com/opinion/2018/02/26/cloudy-and-a-chance-of-rain-need-not-sideline-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: c4isrnet.com">[C4ISRNet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">c4isrnet.com</span><span class="citation-popover-title">cloudy and a chance of rain need not sideline high energy lasers</span><span class="citation-popover-snippet">Cloudy and a chance of rain need not sideline high-energy...Feb 26, 2018 That said, under the most adverse conditions (heavy r...</span></span></span>
+**Atmospheric turbulence** is less visible but still important. Variations in air temperature and density can cause the beam to wander, spread or lose focus. Over long distances, even small distortions can reduce the energy delivered to a target. Advanced optics can compensate for some of these effects, but they cannot eliminate them entirely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.c4isrnet.com/opinion/2018/02/26/cloudy-and-a-chance-of-rain-need-not-sideline-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: c4isrnet.com">[C4ISRNet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">c4isrnet.com</span><span class="citation-popover-title">cloudy and a chance of rain need not sideline high energy lasers</span><span class="citation-popover-snippet">Cloudy and a chance of rain need not sideline high-energy...Feb 26, 2018 That said, under the most adverse conditions (heavy r...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_dragonfire_la_41cc67_dragonfire_we_c95ffc-Illustration-2-dark.svg" | relative_url }}" alt="Weather Limits illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_dragonfire_la_41cc67_dragonfire_we_c95ffc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_dragonfire_la_41cc67_dragonfire_we_c95ffc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -304,226 +304,226 @@ Several different weather-related mechanisms can degrade a high-energy laser.
 
 DragonFire is expected to enter Royal Navy service, making maritime weather a particularly important test.
 
-At sea, the laser must operate through an environment that combines humidity, salt particles, spray and constantly changing atmospheric conditions. Sea spray can introduce additional scattering particles into the beam path, while temperature differences between sea and air can increase optical turbulence. Heavy weather also affects the stability of the platform carrying the weapon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://marineforum.online/en/royal-navy-with-dragon-fire-against-drones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marineforum.online">[marineforum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marineforum.online</span><span class="citation-popover-snippet">Royal Navy: With &quot;dragon fire&quot; against drones1 Jan 2026 Fog, rain, spray and snowfall reduce the effective range because the...</span></span></span>
+At sea, the laser must operate through an environment that combines humidity, salt particles, spray and constantly changing atmospheric conditions. Sea spray can introduce additional scattering particles into the beam path, while temperature differences between sea and air can increase optical turbulence. Heavy weather also affects the stability of the platform carrying the weapon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://marineforum.online/en/royal-navy-with-dragon-fire-against-drones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marineforum.online">[marineforum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marineforum.online</span><span class="citation-popover-snippet">Royal Navy: With &quot;dragon fire&quot; against drones1 Jan 2026 Fog, rain, spray and snowfall reduce the effective range because the...</span></span></span>
 
-This creates a challenge that is not fully replicated on controlled [test ranges]({{ 'test-range/' | relative_url }}). A laser mounted on a warship must maintain precise tracking while the vessel pitches and rolls, while also compensating for changing atmospheric conditions over the water. Analysts have noted that operational naval deployments will provide a more demanding assessment of DragonFire than land-based demonstrations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ecoticias.com/en/the-united-kingdom-boasts-a-real-life-star-wars-dragonfire-shoots-down-drones-at-650-km-h-in-the-hebrides-and-claims-that-each-shot-costs-only-10/28239/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecoticias.com">[ECOticias.com+2Laser Wars]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecoticias.com</span><span class="citation-popover-snippet">DragonFire shoots down drones at 650 km/h...5 Mar 2026 The UK tests DragonFire, a laser that destroys 650 km/h drones for just 10 per...</span></span></span>
+This creates a challenge that is not fully replicated on controlled [test ranges]({{ 'test-range/' | relative_url }}). A laser mounted on a warship must maintain precise tracking while the vessel pitches and rolls, while also compensating for changing atmospheric conditions over the water. Analysts have noted that operational naval deployments will provide a more demanding assessment of DragonFire than land-based demonstrations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ecoticias.com/en/the-united-kingdom-boasts-a-real-life-star-wars-dragonfire-shoots-down-drones-at-650-km-h-in-the-hebrides-and-claims-that-each-shot-costs-only-10/28239/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecoticias.com">[ECOticias.com+2Laser Wars]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecoticias.com</span><span class="citation-popover-snippet">DragonFire shoots down drones at 650 km/h...5 Mar 2026 The UK tests DragonFire, a laser that destroys 650 km/h drones for just 10 per...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r1ajx66gVis" title="UK’s DragonFire Weapon Just Made Drones Completely USELESS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r1ajx66gVis" target="_blank" rel="noopener noreferrer">UK’s DragonFire Weapon Just Made Drones Completely USELESS</a></p><p class="youtube-embed-meta">Channel: The Military Show</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r1ajx66gVis" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r1ajx66gVis">Open on YouTube</a></p></div></div></div>
 
 ## Why Trial Conditions Differ From Combat Conditions
 
-Publicly released DragonFire trials demonstrate that the system can destroy aerial targets, including drones travelling at [high speed]({{ '650-km-h/' | relative_url }}). Those achievements are significant because they validate tracking, beam control and target engagement capabilities. However, they do not necessarily reveal performance across the full spectrum of battlefield weather conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2UK Defence Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">19 Jan 2024 The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</span></span></span>
+Publicly released DragonFire trials demonstrate that the system can destroy aerial targets, including drones travelling at [high speed]({{ '650-km-h/' | relative_url }}). Those achievements are significant because they validate tracking, beam control and target engagement capabilities. However, they do not necessarily reveal performance across the full spectrum of battlefield weather conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2UK Defence Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">19 Jan 2024 The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</span></span></span>
 
-Military trials are often designed to verify specific capabilities under controlled and measurable circumstances. A successful engagement in good visibility confirms that the weapon system works as intended. It does not automatically establish how performance changes when visibility falls, when precipitation increases, or when airborne contaminants are present. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">19 Jan 2024 The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</span></span></span>
+Military trials are often designed to verify specific capabilities under controlled and measurable circumstances. A successful engagement in good visibility confirms that the weapon system works as intended. It does not automatically establish how performance changes when visibility falls, when precipitation increases, or when airborne contaminants are present.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">19 Jan 2024 The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</span></span></span>
 
-This distinction is important because laser effectiveness is not simply a matter of whether the beam reaches the target. Weather can alter the amount of energy delivered, the time required to achieve damage and the maximum useful engagement range. A laser that defeats a drone rapidly in clear air may require substantially longer exposure under degraded atmospheric conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drillanddefense.com">[Drill &amp; Defense+2C4ISRNet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drillanddefense.com</span><span class="citation-popover-snippet">Weather and atmosphere can reduce effectiveness. Fog, rain, smoke, dust, sea spray, and...</span></span></span>
+This distinction is important because laser effectiveness is not simply a matter of whether the beam reaches the target. Weather can alter the amount of energy delivered, the time required to achieve damage and the maximum useful engagement range. A laser that defeats a drone rapidly in clear air may require substantially longer exposure under degraded atmospheric conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drillanddefense.com">[Drill &amp; Defense+2C4ISRNet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drillanddefense.com</span><span class="citation-popover-snippet">Weather and atmosphere can reduce effectiveness. Fog, rain, smoke, dust, sea spray, and...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_dragonfire_la_41cc67_dragonfire_we_c95ffc-Illustration-3-dark.svg" | relative_url }}" alt="Weather Limits illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_dragonfire_la_41cc67_dragonfire_we_c95ffc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_dragonfire_la_41cc67_dragonfire_we_c95ffc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Remains Unknown About Operational Reliability
 
-Public information about DragonFire leaves several key questions unanswered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/DragonFire_%28weapon%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dragon Fire (weapon</span><span class="citation-popover-snippet">DragonFire (weapon)DragonFire is a British laser directed-energy weapon (LDEW) in development for the Royal Navy. It was first unveile...</span></span></span>
+Public information about DragonFire leaves several key questions unanswered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/DragonFire_%28weapon%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dragon Fire (weapon</span><span class="citation-popover-snippet">DragonFire (weapon)DragonFire is a British laser directed-energy weapon (LDEW) in development for the Royal Navy. It was first unveile...</span></span></span>
 
-The UK Ministry of Defence has confirmed successful engagements and highlighted the systems precision, but it has not released detailed performance data showing how effectiveness changes across different weather conditions. The weapons maximum range remains classified, and there is little publicly available information on engagement success rates in rain, fog or maritime spray. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">19 Jan 2024 The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</span></span></span>
+The UK Ministry of Defence has confirmed successful engagements and highlighted the systems precision, but it has not released detailed performance data showing how effectiveness changes across different weather conditions. The weapons maximum range remains classified, and there is little publicly available information on engagement success rates in rain, fog or maritime spray.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">19 Jan 2024 The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</span></span></span>
 
-It is also unclear how much degradation DragonFire can tolerate before another weapon becomes the preferred option. Modern air-[defence networks]({{ 'defence-network/' | relative_url }}) rarely rely on a single system. In practice, a laser is likely to complement missiles and guns rather than replace them. Under favourable atmospheric conditions, DragonFire may offer extremely low-cost engagements against drones. Under severe weather conditions, commanders may need to rely more heavily on conventional interceptors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drillanddefense.com">[Drill &amp; Defense+2GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drillanddefense.com</span><span class="citation-popover-snippet">Weather and atmosphere can reduce effectiveness. Fog, rain, smoke, dust, sea spray, and...</span></span></span>
+It is also unclear how much degradation DragonFire can tolerate before another weapon becomes the preferred option. Modern air-[defence networks]({{ 'defence-network/' | relative_url }}) rarely rely on a single system. In practice, a laser is likely to complement missiles and guns rather than replace them. Under favourable atmospheric conditions, DragonFire may offer extremely low-cost engagements against drones. Under severe weather conditions, commanders may need to rely more heavily on conventional interceptors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drillanddefense.com">[Drill &amp; Defense+2GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drillanddefense.com</span><span class="citation-popover-snippet">Weather and atmosphere can reduce effectiveness. Fog, rain, smoke, dust, sea spray, and...</span></span></span>
 
-The planned deployment of DragonFire onto Royal Navy warships may provide the first substantial evidence of how the system performs during extended real-world operations. Shipboard service will expose the weapon to rain, fog, salt spray, heavy seas and rapidly changing weather patterns that are difficult to reproduce fully during testing. Until such operational experience becomes available, the true extent of DragonFires weather resilience remains one of the largest unanswered questions surrounding the programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ecoticias.com/en/the-united-kingdom-boasts-a-real-life-star-wars-dragonfire-shoots-down-drones-at-650-km-h-in-the-hebrides-and-claims-that-each-shot-costs-only-10/28239/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecoticias.com">[ECOticias.com+2marineforum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecoticias.com</span><span class="citation-popover-snippet">DragonFire shoots down drones at 650 km/h...5 Mar 2026 The UK tests DragonFire, a laser that destroys 650 km/h drones for just 10 per...</span></span></span>
+The planned deployment of DragonFire onto Royal Navy warships may provide the first substantial evidence of how the system performs during extended real-world operations. Shipboard service will expose the weapon to rain, fog, salt spray, heavy seas and rapidly changing weather patterns that are difficult to reproduce fully during testing. Until such operational experience becomes available, the true extent of DragonFires weather resilience remains one of the largest unanswered questions surrounding the programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ecoticias.com/en/the-united-kingdom-boasts-a-real-life-star-wars-dragonfire-shoots-down-drones-at-650-km-h-in-the-hebrides-and-claims-that-each-shot-costs-only-10/28239/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecoticias.com">[ECOticias.com+2marineforum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecoticias.com</span><span class="citation-popover-snippet">DragonFire shoots down drones at 650 km/h...5 Mar 2026 The UK tests DragonFire, a laser that destroys 650 km/h drones for just 10 per...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Oaw6KpdQ-xM" title="US &amp; British Forces Test Layered Anti-Drone Defence System In Lithuania | Tech It Out | WION" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Oaw6KpdQ-xM" target="_blank" rel="noopener noreferrer">US &amp; British Forces Test Layered Anti-Drone Defence System In Lithuania | Tech It Out | WION</a></p><p class="youtube-embed-meta">Channel: WION</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Oaw6KpdQ-xM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Oaw6KpdQ-xM">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Bad Weather Defeat A Laser Air Defence System?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Bad Weather Defeat A Laser Air Defence System?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NyU3EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Leo Janos, Ben R. Rich</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NyU3EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Leo Janos, Ben R. Rich</p>
         
-        <p class="fr-book-desc">Provides context on advanced defense development programs and the gap between successful testing and operational deployment, a central th...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on advanced defense development programs and the gap between successful testing and operational deployment, a central th...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Places laser air-defence systems within the wider context of modern battlefield effectiveness.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places laser air-defence systems within the wider context of modern battlefield effectiveness.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Effects+of+Directed+Energy+Weapons+Philip+E+Nielsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Effects of Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9061214-M.jpg" alt="Cover for Effects of Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Effects+of+Directed+Energy+Weapons+Philip+E+Nielsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Effects of Directed Energy Weapons">Effects of Directed Energy Weapons</a>
-        </h4>
-        <p class="fr-book-author">By Philip E Nielsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Effects+of+Directed+Energy+Weapons+Philip+E+Nielsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Effects of Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9061214-M.jpg" alt="Cover for Effects of Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Effects+of+Directed+Energy+Weapons+Philip+E+Nielsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Effects of Directed Energy Weapons">Effects of Directed Energy Weapons</a>
+</h4>
+<p class="fr-book-author">By Philip E Nielsen</p>
         
-        <p class="fr-book-desc">First published 2012.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Effects+of+Directed+Energy+Weapons+Philip+E+Nielsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Effects+of+Directed+Energy+Weapons+Philip+E+Nielsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=War+at+the+Speed+of+Light%3A+Directed+Energy+Weapons+and+the+Future+of+Twenty+First+Century+Warfare+Louis+A.+Del+Monte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open War at the Speed of Light: Directed Energy Weapons and the Future of Twenty-First-Century Warfare on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=War+at+the+Speed+of+Light%3A+Directed+Energy+Weapons+and+the+Future+of+Twenty+First+Century+Warfare+Louis+A.+Del+Monte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="War at the Speed of Light: Directed Energy Weapons and the Future of Twenty-First-Century Warfare">War at the Speed of Light: Directed Energy Weapons and the Fu...</a>
-        </h4>
-        <p class="fr-book-author">By Louis A. Del Monte</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=War+at+the+Speed+of+Light%3A+Directed+Energy+Weapons+and+the+Future+of+Twenty+First+Century+Warfare+Louis+A.+Del+Monte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open War at the Speed of Light: Directed Energy Weapons and the Future of Twenty-First-Century Warfare on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=War+at+the+Speed+of+Light%3A+Directed+Energy+Weapons+and+the+Future+of+Twenty+First+Century+Warfare+Louis+A.+Del+Monte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="War at the Speed of Light: Directed Energy Weapons and the Future of Twenty-First-Century Warfare">War at the Speed of Light: Directed Energy Weapons and the Fu...</a>
+</h4>
+<p class="fr-book-author">By Louis A. Del Monte</p>
         
-        <p class="fr-book-desc">Covers operational realities of laser warfare, including environmental and deployment challenges.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=War+at+the+Speed+of+Light%3A+Directed+Energy+Weapons+and+the+Future+of+Twenty+First+Century+Warfare+Louis+A.+Del+Monte&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers operational realities of laser warfare, including environmental and deployment challenges.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=War+at+the+Speed+of+Light%3A+Directed+Energy+Weapons+and+the+Future+of+Twenty+First+Century+Warfare+Louis+A.+Del+Monte&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Effects+of+Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Effects of Directed Energy Weapons</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Effects+of+Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Effects of Directed Energy Weapons</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Air Force Challenge Coin U.S. Air Force Skull Defense Force Badge Military Coin"><img src="{{ '/assets/images/marketplace-covers/cc28c6f578a016d48bda.jpg' | relative_url }}" alt="Listing image for Air Force Challenge Coin U.S. Air Force Skull Defense Force Badge Military Coin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Air Force Challenge Coin U.S. Air Force Skull Defense Force Badge Military Coin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Air Force Challenge Coin U.S. Air Force Skull Defense Force Badge Military Coin"><img src="{{ '/assets/images/marketplace-covers/cc28c6f578a016d48bda.jpg' | relative_url }}" alt="Listing image for Air Force Challenge Coin U.S. Air Force Skull Defense Force Badge Military Coin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Air Force Challenge Coin U.S. Air Force Skull Defense Force Badge Military Coin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Defence Boeing Military Aviation Digital Superiority Air Force Challenge Coin"><img src="{{ '/assets/images/marketplace-covers/e0db41f82d52d563dbc8.jpg' | relative_url }}" alt="Listing image for US Defence Boeing Military Aviation Digital Superiority Air Force Challenge Coin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">US Defence Boeing Military Aviation Digital Superiority Air Force Challenge Coin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Defence Boeing Military Aviation Digital Superiority Air Force Challenge Coin"><img src="{{ '/assets/images/marketplace-covers/e0db41f82d52d563dbc8.jpg' | relative_url }}" alt="Listing image for US Defence Boeing Military Aviation Digital Superiority Air Force Challenge Coin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">US Defence Boeing Military Aviation Digital Superiority Air Force Challenge Coin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for United States Air Force Challenge Coin Set USAF USSF Department Of Defense"><img src="{{ '/assets/images/marketplace-covers/e02970bbc84e9104cf8e.jpg' | relative_url }}" alt="Listing image for United States Air Force Challenge Coin Set USAF USSF Department Of Defense" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">United States Air Force Challenge Coin Set USAF USSF Department Of Defense</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for United States Air Force Challenge Coin Set USAF USSF Department Of Defense"><img src="{{ '/assets/images/marketplace-covers/e02970bbc84e9104cf8e.jpg' | relative_url }}" alt="Listing image for United States Air Force Challenge Coin Set USAF USSF Department Of Defense" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">United States Air Force Challenge Coin Set USAF USSF Department Of Defense</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Department of Defense Challenge Coin The Pentagon Army Navy Air Force Marine"><img src="{{ '/assets/images/marketplace-covers/6b99fdf302f58385007a.jpg' | relative_url }}" alt="Listing image for US Department of Defense Challenge Coin The Pentagon Army Navy Air Force Marine" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">US Department of Defense Challenge Coin The Pentagon Army Navy Air Force Marine</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Department of Defense Challenge Coin The Pentagon Army Navy Air Force Marine"><img src="{{ '/assets/images/marketplace-covers/6b99fdf302f58385007a.jpg' | relative_url }}" alt="Listing image for US Department of Defense Challenge Coin The Pentagon Army Navy Air Force Marine" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">US Department of Defense Challenge Coin The Pentagon Army Navy Air Force Marine</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="weather-limits-c1bd8c-can-bad-weather-defeat-a-laser-air-defence-system-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -539,7 +539,7 @@ The planned deployment of DragonFire onto Royal Navy warships may provide the fi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -559,7 +559,7 @@ The planned deployment of DragonFire onto Royal Navy warships may provide the fi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -591,7 +591,7 @@ The planned deployment of DragonFire onto Royal Navy warships may provide the fi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -643,7 +643,7 @@ The planned deployment of DragonFire onto Royal Navy warships may provide the fi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -688,7 +688,7 @@ The planned deployment of DragonFire onto Royal Navy warships may provide the fi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -729,162 +729,162 @@ The planned deployment of DragonFire onto Royal Navy warships may provide the fi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: advanced future military laser achieves uk first  
-   Link: <a href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>19 Jan 2024 The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>19 Jan 2024 The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: marineforum.online  
-   Link: <a href="https://marineforum.online/en/royal-navy-with-dragon-fire-against-drones/" target="_blank" rel="noopener noreferrer nofollow">https://marineforum.online/en/royal-navy-with-dragon-fire-against-drones/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Navy: With &quot;dragon fire&quot; against drones1 Jan 2026 Fog, rain, spray and snowfall reduce the effective range because the...</p></details>
+   Link:<a href="https://marineforum.online/en/royal-navy-with-dragon-fire-against-drones/" target="_blank" rel="noopener noreferrer nofollow">https://marineforum.online/en/royal-navy-with-dragon-fire-against-drones/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Navy: With &quot;dragon fire&quot; against drones1 Jan 2026 Fog, rain, spray and snowfall reduce the effective range because the...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: c4isrnet.com  
    Title: cloudy and a chance of rain need not sideline high energy lasers  
-   Link: <a href="https://www.c4isrnet.com/opinion/2018/02/26/cloudy-and-a-chance-of-rain-need-not-sideline-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow">https://www.c4isrnet.com/opinion/2018/02/26/cloudy-and-a-chance-of-rain-need-not-sideline-high-energy-lasers/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cloudy and a chance of rain need not sideline high-energy...Feb 26, 2018 That said, under the most adverse conditions (heavy r...</p></details>
+   Link:<a href="https://www.c4isrnet.com/opinion/2018/02/26/cloudy-and-a-chance-of-rain-need-not-sideline-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow">https://www.c4isrnet.com/opinion/2018/02/26/cloudy-and-a-chance-of-rain-need-not-sideline-high-energy-lasers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cloudy and a chance of rain need not sideline high-energy...Feb 26, 2018 That said, under the most adverse conditions (heavy r...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: gao.gov  
    Title: gao 23 106717  
-   Link: <a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 For example, high energy lasers can temporarily overwhelm a person or a se...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 For example, high energy lasers can temporarily overwhelm a person or a se...</p></details>
    Published: May 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: army.mil  
    Title: developing lasers that pierce fog dust to destroy targets  
-   Link: <a href="https://www.army.mil/article/195650/army_developing_lasers_that_pierce_fog_dust_to_destroy_targets" target="_blank" rel="noopener noreferrer nofollow">https://www.army.mil/article/195650/army_developing_lasers_that_pierce_fog_dust_to_destroy_targets</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Army developing lasers that pierce fog, dust to destroy targets23 Oct 2017 A lot of people think that high-energy lasers, or HELs, can&#x27;...</p></details>
+   Link:<a href="https://www.army.mil/article/195650/army_developing_lasers_that_pierce_fog_dust_to_destroy_targets" target="_blank" rel="noopener noreferrer nofollow">https://www.army.mil/article/195650/army_developing_lasers_that_pierce_fog_dust_to_destroy_targets</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Army developing lasers that pierce fog, dust to destroy targets23 Oct 2017 A lot of people think that high-energy lasers, or HELs, can&#x27;...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Laser weapon  
-   Link: <a href="https://en.wikipedia.org/wiki/Laser_weapon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Laser_weapon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Laser_weapon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Laser_weapon</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Free space laser telecommunication through fog  
-   Link: <a href="https://arxiv.org/abs/1810.09800" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1810.09800</a>  
+   Link:<a href="https://arxiv.org/abs/1810.09800" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1810.09800</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv Atmospheric aerosol clearing by femtosecond filaments  
-   Link: <a href="https://arxiv.org/abs/2203.00196" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2203.00196</a>  
+   Link:<a href="https://arxiv.org/abs/2203.00196" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2203.00196</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Laser" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Laser</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LaserA laser is a device that emits light through a process of optical amplification based on the stimulated emission of electromagnet...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Laser" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Laser</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LaserA laser is a device that emits light through a process of optical amplification based on the stimulated emission of electromagnet...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ecoticias.com  
-   Link: <a href="https://www.ecoticias.com/en/the-united-kingdom-boasts-a-real-life-star-wars-dragonfire-shoots-down-drones-at-650-km-h-in-the-hebrides-and-claims-that-each-shot-costs-only-10/28239/" target="_blank" rel="noopener noreferrer nofollow">https://www.ecoticias.com/en/the-united-kingdom-boasts-a-real-life-star-wars-dragonfire-shoots-down-drones-at-650-km-h-in-the-hebrides-and-claims-that-each-shot-costs-only-10/28239/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire shoots down drones at 650 km/h...5 Mar 2026 The UK tests DragonFire, a laser that destroys 650 km/h drones for just 10 per...</p></details>
+   Link:<a href="https://www.ecoticias.com/en/the-united-kingdom-boasts-a-real-life-star-wars-dragonfire-shoots-down-drones-at-650-km-h-in-the-hebrides-and-claims-that-each-shot-costs-only-10/28239/" target="_blank" rel="noopener noreferrer nofollow">https://www.ecoticias.com/en/the-united-kingdom-boasts-a-real-life-star-wars-dragonfire-shoots-down-drones-at-650-km-h-in-the-hebrides-and-claims-that-each-shot-costs-only-10/28239/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire shoots down drones at 650 km/h...5 Mar 2026 The UK tests DragonFire, a laser that destroys 650 km/h drones for just 10 per...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Dragon Fire (weapon)  
-   Link: <a href="https://en.wikipedia.org/wiki/DragonFire_%28weapon%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/DragonFire_%28weapon%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire (weapon)DragonFire is a British laser directed-energy weapon (LDEW) in development for the Royal Navy. It was first unveile...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/DragonFire_%28weapon%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/DragonFire_%28weapon%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire (weapon)DragonFire is a British laser directed-energy weapon (LDEW) in development for the Royal Navy. It was first unveile...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: GOV.UK  
    Title: assessing the potential of laser weapons  
-   Link: <a href="https://www.gov.uk/government/news/assessing-the-potential-of-laser-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/assessing-the-potential-of-laser-weapons</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the potential of laser weapons18 Sept 2016 The contract will assess how the system can acquire and track targets at range, in varying w...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/assessing-the-potential-of-laser-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/assessing-the-potential-of-laser-weapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the potential of laser weapons18 Sept 2016 The contract will assess how the system can acquire and track targets at range, in varying w...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: GOV.UK  
    Title: boost for armed forces as new laser weapon takes down high speed drones  
-   Link: <a href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>for Armed Forces as new laser weapon takes down...20 Nov 2025 Britain&#x27;s ground-breaking DragonFire laser has shot down high-speed dron...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for Armed Forces as new laser weapon takes down...20 Nov 2025 Britain&#x27;s ground-breaking DragonFire laser has shot down high-speed dron...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: drillanddefense.com  
-   Link: <a href="https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/" target="_blank" rel="noopener noreferrer nofollow">https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather and atmosphere can reduce effectiveness. Fog, rain, smoke, dust, sea spray, and...</p></details>
+   Link:<a href="https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/" target="_blank" rel="noopener noreferrer nofollow">https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weather and atmosphere can reduce effectiveness. Fog, rain, smoke, dust, sea spray, and...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: defencesciencereview.com.pl  
    Title: pdf 216776 135052  
-   Link: <a href="https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-[Directed-Ener" target="_blank" rel="noopener noreferrer nofollow">https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-[Directed-Ener</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>High (fog, dust, rain) Low (all-weather capable). Low...</p></details>
+   Link:<a href="https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-[Directed-Ener" target="_blank" rel="noopener noreferrer nofollow">https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-[Directed-Ener</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High (fog, dust, rain) Low (all-weather capable). Low...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: laserwars.net  
    Title: Laser Wars Fog of War: The Biggest Challenge for Naval Laser Weapons  
-   Link: <a href="https://www.laserwars.net/p/navy-laser-weapons-challenges-atmosphere-fog" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/navy-laser-weapons-challenges-atmosphere-fog</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fog of War: The Biggest Challenge for Naval Laser WeaponsMay 22, 2025 Welcome to the literal fog of war, where high-energy lasers run f...</p></details>
+   Link:<a href="https://www.laserwars.net/p/navy-laser-weapons-challenges-atmosphere-fog" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/navy-laser-weapons-challenges-atmosphere-fog</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fog of War: The Biggest Challenge for Naval Laser WeaponsMay 22, 2025 Welcome to the literal fog of war, where high-energy lasers run f...</p></details>
    Published: May 22, 2025  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ukdefencejournal.org.uk  
    Title: dragonfire a guide to britains new laser weapon  
-   Link: <a href="https://ukdefencejournal.org.uk/dragonfire-a-guide-to-britains-new-laser-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://ukdefencejournal.org.uk/dragonfire-a-guide-to-britains-new-laser-weapon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recent trials at the MOD&#x27;s Hebrides range showed it...Read more...</p></details>
+   Link:<a href="https://ukdefencejournal.org.uk/dragonfire-a-guide-to-britains-new-laser-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://ukdefencejournal.org.uk/dragonfire-a-guide-to-britains-new-laser-weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recent trials at the MOD&#x27;s Hebrides range showed it...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: uk.leonardo.com  
-   Link: <a href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow">https://uk.leonardo.com/en/innovation/dragonfire</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Directed Energy WeaponThis new UK sovereign capability is designed to provide short-range air defence and close-in protection for...</p></details>
+   Link:<a href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow">https://uk.leonardo.com/en/innovation/dragonfire</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Directed Energy WeaponThis new UK sovereign capability is designed to provide short-range air defence and close-in protection for...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: laserwars.net  
    Title: uk royal navy dragonfire laser weapon drone shootdown trial  
-   Link: <a href="https://www.laserwars.net/p/uk-royal-navy-dragonfire-laser-weapon-drone-shootdown-trial" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/uk-royal-navy-dragonfire-laser-weapon-drone-shootdown-trial</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Royal Navy DragonFire Laser Weapon Kills 30 Drones...8 Jul 2025 The UK&#x27;s 50 kilowatt DragonFire laser weapon is edging closer to de...</p></details>
+   Link:<a href="https://www.laserwars.net/p/uk-royal-navy-dragonfire-laser-weapon-drone-shootdown-trial" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/uk-royal-navy-dragonfire-laser-weapon-drone-shootdown-trial</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Royal Navy DragonFire Laser Weapon Kills 30 Drones...8 Jul 2025 The UK&#x27;s 50 kilowatt DragonFire laser weapon is edging closer to de...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Laser-Based Directed Energy WeaponsThis review aims to evaluate the current capabilities of laser-based Directed Energy Weapons (DE...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Laser-Based Directed Energy WeaponsThis review aims to evaluate the current capabilities of laser-based Directed Energy Weapons (DE...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/40kLore/comments/17f8qm6/are_las_weapons_blocked_by_fog/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/40kLore/comments/17f8qm6/are_las_weapons_blocked_by_fog/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Are las weapons blocked by fog?: r/40kLoreA guardsman&#x27;s gun, or even a lascannon, is blocked by thick fog that wouldn&#x27;t be a problem for...</p></details>
+   Link:<a href="https://www.reddit.com/r/40kLore/comments/17f8qm6/are_las_weapons_blocked_by_fog/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/40kLore/comments/17f8qm6/are_las_weapons_blocked_by_fog/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are las weapons blocked by fog?: r/40kLoreA guardsman&#x27;s gun, or even a lascannon, is blocked by thick fog that wouldn&#x27;t be a problem for...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/unitedkingdom/comments/1p22dvb/british_laser_weapon_downs_drones_off_coast_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/unitedkingdom/comments/1p22dvb/british_laser_weapon_downs_drones_off_coast_of/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>British laser weapon downs drones off coast of ScotlandLasers have a very limited range and weather window, the weather and visibility ca...</p></details>
+   Link:<a href="https://www.reddit.com/r/unitedkingdom/comments/1p22dvb/british_laser_weapon_downs_drones_off_coast_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/unitedkingdom/comments/1p22dvb/british_laser_weapon_downs_drones_off_coast_of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>British laser weapon downs drones off coast of ScotlandLasers have a very limited range and weather window, the weather and visibility ca...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/unboxfactory/posts/uk-develops-dragonfire-laser-defense-systemthe-united-kingdom-has-successfully-t/979653351052382/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unboxfactory/posts/uk-develops-dragonfire-laser-defense-systemthe-united-kingdom-has-successfully-t/979653351052382/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed-energy laser weapon system Designed...Despite the advantages, directed energy weapons such as DragonFire generally have a sho...</p></details>
+   Link:<a href="https://www.facebook.com/unboxfactory/posts/uk-develops-dragonfire-laser-defense-systemthe-united-kingdom-has-successfully-t/979653351052382/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unboxfactory/posts/uk-develops-dragonfire-laser-defense-systemthe-united-kingdom-has-successfully-t/979653351052382/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed-energy laser weapon system Designed...Despite the advantages, directed energy weapons such as DragonFire generally have a sho...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/theministryofdefence/posts/dragonfire-is-a-highly-advanced-laser-directed-energy-weapon-designed-and-built-/1311999830970481/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theministryofdefence/posts/dragonfire-is-a-highly-advanced-laser-directed-energy-weapon-designed-and-built-/1311999830970481/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire is a highly advanced laser directed energy...As a [line-of- sight](&amp;#123;&amp;#123; &#x27;dwell-time/&#x27; | relative_url &amp;#125;&amp;#125;) weapon, it can attack any visible target that is close enoug...</p></details>
+   Link:<a href="https://www.facebook.com/theministryofdefence/posts/dragonfire-is-a-highly-advanced-laser-directed-energy-weapon-designed-and-built-/1311999830970481/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theministryofdefence/posts/dragonfire-is-a-highly-advanced-laser-directed-energy-weapon-designed-and-built-/1311999830970481/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire is a highly advanced laser directed energy...As a [line-of- sight](&amp;#123;&amp;#123; &#x27;dwell-time/&#x27; | relative_url &amp;#125;&amp;#125;) weapon, it can attack any visible target that is close enoug...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: greydynamics.com  
-   Link: <a href="https://greydynamics.com/dragonfire-britains-new-directed-energy-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://greydynamics.com/dragonfire-britains-new-directed-energy-weapon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire: Britain&#x27;s New Directed Energy WeaponThis article highlights the development of the DragonFire, a new British laser directed-e...</p></details>
+   Link:<a href="https://greydynamics.com/dragonfire-britains-new-directed-energy-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://greydynamics.com/dragonfire-britains-new-directed-energy-weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire: Britain&#x27;s New Directed Energy WeaponThis article highlights the development of the DragonFire, a new British laser directed-e...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: thinkdefence.co.uk  
-   Link: <a href="https://www.thinkdefence.co.uk/docs/dragonfire-laser-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkdefence.co.uk/docs/dragonfire-laser-weapon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dragonfire Laser WeaponThe laser has been under development for nearly a decade and underwent tests by government scientists on the Minis...</p></details>
+   Link:<a href="https://www.thinkdefence.co.uk/docs/dragonfire-laser-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkdefence.co.uk/docs/dragonfire-laser-weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dragonfire Laser WeaponThe laser has been under development for nearly a decade and underwent tests by government scientists on the Minis...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/high" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/high</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HIGH Definition &amp; Meaning3 days ago high, tall, lofty mean above the average in height. high implies marked extension upward and is app...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/high" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/high</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HIGH Definition &amp; Meaning3 days ago high, tall, lofty mean above the average in height. high implies marked extension upward and is app...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: everycrsreport.com  
-   Link: <a href="https://www.everycrsreport.com/files/2022-09-13_R46925_3cec298682f62bdf9aad62dc48a2a063e1e6556e.html" target="_blank" rel="noopener noreferrer nofollow">https://www.everycrsreport.com/files/2022-09-13_R46925_3cec298682f62bdf9aad62dc48a2a063e1e6556e.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HTML... atmospheric conditions (e.g., rain, fog, obscurants) could potentially limit... Trebes, “Advancing High Energy Laser Weapon Ca...</p></details>
+   Link:<a href="https://www.everycrsreport.com/files/2022-09-13_R46925_3cec298682f62bdf9aad62dc48a2a063e1e6556e.html" target="_blank" rel="noopener noreferrer nofollow">https://www.everycrsreport.com/files/2022-09-13_R46925_3cec298682f62bdf9aad62dc48a2a063e1e6556e.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HTML... atmospheric conditions (e.g., rain, fog, obscurants) could potentially limit... Trebes, “Advancing High Energy Laser Weapon Ca...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ukdefencejournal/posts/the-uk-dragonfire-laser-weapon-programme-remains-in-its-demonstration-and-evalua/1354951950011398/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ukdefencejournal/posts/the-uk-dragonfire-laser-weapon-programme-remains-in-its-demonstration-and-evalua/1354951950011398/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK DragonFire laser weapon programme remains...Drones must have a range of 20 km or more and be able to capture and aim... The Drag...</p></details>
+   Link:<a href="https://www.facebook.com/ukdefencejournal/posts/the-uk-dragonfire-laser-weapon-programme-remains-in-its-demonstration-and-evalua/1354951950011398/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ukdefencejournal/posts/the-uk-dragonfire-laser-weapon-programme-remains-in-its-demonstration-and-evalua/1354951950011398/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UK DragonFire laser weapon programme remains...Drones must have a range of 20 km or more and be able to capture and aim... The Drag...</p></details>

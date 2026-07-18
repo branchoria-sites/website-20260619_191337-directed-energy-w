@@ -269,13 +269,13 @@ image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_microwave_spi_da
 
 ## Introduction
 
-Microwave spillover hazards do not end at the edge of a directed beam. In crowded military sites, ports, airbases, urban operating areas and shipyards, the surrounding environment can redirect microwave energy in ways that are difficult to predict. Buildings, vehicles, fences, shipping containers, aircraft, masts and other conductive structures can reflect or scatter electromagnetic energy, creating indirect paths that expose friendly electronics outside the intended engagement zone. This matters because high-power microwave systems are designed to interact with electronics, and even reduced levels of reflected energy may still couple into antennas, cables and sensitive subsystems. Wider-beam microwave weapons are already recognised as posing area effects that can influence assets “whether friend or foe”, making environmental reflections an important operational concern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — For example, wider beam DEWs, such as high power microwave or millimete...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+Microwave spillover hazards do not end at the edge of a directed beam. In crowded military sites, ports, airbases, urban operating areas and shipyards, the surrounding environment can redirect microwave energy in ways that are difficult to predict. Buildings, vehicles, fences, shipping containers, aircraft, masts and other conductive structures can reflect or scatter electromagnetic energy, creating indirect paths that expose friendly electronics outside the intended engagement zone. This matters because high-power microwave systems are designed to interact with electronics, and even reduced levels of reflected energy may still couple into antennas, cables and sensitive subsystems. Wider-beam microwave weapons are already recognised as posing area effects that can influence assets “whether friend or foe”, making environmental reflections an important operational concern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — For example, wider beam DEWs, such as high power microwave or millimete...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_microwave_spi_daf3fb_microwave_ref_2272b6-Illustration-1-dark.svg" | relative_url }}" alt="Reflections illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_microwave_spi_daf3fb_microwave_ref_2272b6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_microwave_spi_daf3fb_microwave_ref_2272b6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Main Beam, Sidelobes and Indirect Paths
 
-The simplest hazard occurs when equipment sits inside the main beam. In reality, however, electromagnetic energy rarely travels through operational environments as a single clean line. Microwave systems generate a complex field structure that includes the main beam, weaker sidelobes and energy that is redirected after striking surrounding objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onr.navy.mil">[Office of Naval Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onr.navy.mil</span><span class="citation-popover-snippet">Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spe...</span></span></span>
+The simplest hazard occurs when equipment sits inside the main beam. In reality, however, electromagnetic energy rarely travels through operational environments as a single clean line. Microwave systems generate a complex field structure that includes the main beam, weaker sidelobes and energy that is redirected after striking surrounding objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onr.navy.mil">[Office of Naval Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onr.navy.mil</span><span class="citation-popover-snippet">Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spe...</span></span></span>
 
 Reflected energy can create several indirect exposure mechanisms:
 
@@ -289,7 +289,7 @@ Reflected energy can create several indirect exposure mechanisms:
 
 </div>
 
-These effects are familiar to radio-frequency engineers. Even ordinary radio environments become highly complex when buildings and metal structures create numerous reflection paths. International electromagnetic field guidance notes that environmental radio-frequency fields can be significantly altered by reflections from buildings and other structures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.inchem.org/documents/ehc/ehc/ehc137.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inchem.org">[InChem]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inchem.org</span><span class="citation-popover-snippet">Electromagnetic Fields (EHC 137, 1992)Additionally, the RF fields in the environment can be complex and may be affected by reflecti...</span></span></span>
+These effects are familiar to radio-frequency engineers. Even ordinary radio environments become highly complex when buildings and metal structures create numerous reflection paths. International electromagnetic field guidance notes that environmental radio-frequency fields can be significantly altered by reflections from buildings and other structures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.inchem.org/documents/ehc/ehc/ehc137.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inchem.org">[InChem]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inchem.org</span><span class="citation-popover-snippet">Electromagnetic Fields (EHC 137, 1992)Additionally, the RF fields in the environment can be complex and may be affected by reflecti...</span></span></span>
 
 For military microwave systems, the consequence is that exposure risk cannot be estimated solely by drawing a straight line from emitter to target.
 
@@ -300,7 +300,7 @@ For military microwave systems, the consequence is that exposure risk cannot be 
 
 The environments most likely to produce reflection hazards are also the environments where modern military forces concentrate equipment.
 
-A naval base, for example, may contain ships, cranes, fuel infrastructure, warehouses, vehicles and metal fencing within a relatively small area. Each structure can act as a reflector or scatterer. Military electromagnetic-environment standards explicitly recognise the importance of metallic ships, screened spaces and large conductive structures when assessing electromagnetic effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.waru.edu/sites/default/files/Migrated/CopDocuments/MIL-STD-464D.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waru.edu">[Waru University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waru.edu</span><span class="citation-popover-title">MIL STD 464D</span><span class="citation-popover-snippet">Waru UniversityMIL-STD-464D1 Dec 2010 — High-power microwave (HPM) sources.... metallic surface ships, the hull of a submarine, the scre...</span></span></span>
+A naval base, for example, may contain ships, cranes, fuel infrastructure, warehouses, vehicles and metal fencing within a relatively small area. Each structure can act as a reflector or scatterer. Military electromagnetic-environment standards explicitly recognise the importance of metallic ships, screened spaces and large conductive structures when assessing electromagnetic effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.waru.edu/sites/default/files/Migrated/CopDocuments/MIL-STD-464D.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waru.edu">[Waru University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waru.edu</span><span class="citation-popover-title">MIL STD 464D</span><span class="citation-popover-snippet">Waru UniversityMIL-STD-464D1 Dec 2010 — High-power microwave (HPM) sources.... metallic surface ships, the hull of a submarine, the scre...</span></span></span>
 
 Urban military operations present similar challenges. Consider a [counter-drone]({{ 'missile-savings/' | relative_url }}) microwave engagement near:
 
@@ -316,7 +316,7 @@ Urban military operations present similar challenges. Consider a [counter-drone]
 
 </div>
 
-Instead of one beam path, the environment may generate numerous secondary paths. Some reflections lose substantial energy, but others may remain strong enough to interfere with nearby electronics, especially if those electronics contain efficient coupling routes such as antennas, external cables or long conductive wiring. Research into high-power microwave susceptibility repeatedly shows that coupling effectiveness can vary dramatically depending on the angle at which energy arrives. Changes of tens of decibels have been observed as the direction of incidence changes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/88333552/Susceptibility_of_Electronic_Systems_to_High_Power_Microwaves_Summary_of_Test_Experience" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) Susceptibility of Electronic Systems to High-Power</span><span class="citation-popover-snippet">Academia(PDF) Susceptibility of Electronic Systems to High-Power ...January 1, 2004 — In a reverberation chamber, the statistically isotr...</span></span></span>
+Instead of one beam path, the environment may generate numerous secondary paths. Some reflections lose substantial energy, but others may remain strong enough to interfere with nearby electronics, especially if those electronics contain efficient coupling routes such as antennas, external cables or long conductive wiring. Research into high-power microwave susceptibility repeatedly shows that coupling effectiveness can vary dramatically depending on the angle at which energy arrives. Changes of tens of decibels have been observed as the direction of incidence changes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/88333552/Susceptibility_of_Electronic_Systems_to_High_Power_Microwaves_Summary_of_Test_Experience" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) Susceptibility of Electronic Systems to High-Power</span><span class="citation-popover-snippet">Academia(PDF) Susceptibility of Electronic Systems to High-Power ...January 1, 2004 — In a reverberation chamber, the statistically isotr...</span></span></span>
 
 This means that a system apparently protected from the direct beam may still experience significant exposure if reflected energy arrives from a more favourable angle.
 
@@ -337,7 +337,7 @@ Ships combine many characteristics that complicate microwave safety planning:
 
 </div>
 
-A reflected path from a mast, deck structure or neighbouring vessel may illuminate equipment that was never intended to be within the engagement area. Because naval [platforms]({{ 'platforms/' | relative_url }}) already operate in dense electromagnetic environments, introducing high-power microwave systems requires careful electromagnetic compatibility analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.waru.edu/sites/default/files/Migrated/CopDocuments/MIL-STD-464D.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waru.edu">[Waru University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waru.edu</span><span class="citation-popover-title">MIL STD 464D</span><span class="citation-popover-snippet">Waru UniversityMIL-STD-464D1 Dec 2010 — High-power microwave (HPM) sources.... metallic surface ships, the hull of a submarine, the scre...</span></span></span>
+A reflected path from a mast, deck structure or neighbouring vessel may illuminate equipment that was never intended to be within the engagement area. Because naval [platforms]({{ 'platforms/' | relative_url }}) already operate in dense electromagnetic environments, introducing high-power microwave systems requires careful electromagnetic compatibility analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.waru.edu/sites/default/files/Migrated/CopDocuments/MIL-STD-464D.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waru.edu">[Waru University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waru.edu</span><span class="citation-popover-title">MIL STD 464D</span><span class="citation-popover-snippet">Waru UniversityMIL-STD-464D1 Dec 2010 — High-power microwave (HPM) sources.... metallic surface ships, the hull of a submarine, the scre...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tCmhUw2uKlo" title="Speed Gun Physics - Demonstrating the doppler effect with microwaves" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tCmhUw2uKlo" target="_blank" rel="noopener noreferrer">Speed Gun Physics - Demonstrating the doppler effect with microwaves</a></p><p class="youtube-embed-meta">Channel: Physics with Simon Poliakoff</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tCmhUw2uKlo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tCmhUw2uKlo">Open on YouTube</a></p></div></div></div>
@@ -360,7 +360,7 @@ A standoff boundary based only on the main beam ignores several realities:
 
 </div>
 
-Studies of electromagnetic fields in built environments show that enclosed and reflective settings often produce complicated field distributions rather than simple distance-based reductions. Research on radio-frequency exposure in confined environments similarly highlights that reflections can increase local field levels and make exposure patterns difficult to predict. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/rpd/article/200/6/598/7629767" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicEvaluating radiofrequency electromagnetic field exposure in...by M Ahsan Ashraf · 2024 · Cited by 12 — This study reviews re...</span></span></span>
+Studies of electromagnetic fields in built environments show that enclosed and reflective settings often produce complicated field distributions rather than simple distance-based reductions. Research on radio-frequency exposure in confined environments similarly highlights that reflections can increase local field levels and make exposure patterns difficult to predict.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/rpd/article/200/6/598/7629767" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicEvaluating radiofrequency electromagnetic field exposure in...by M Ahsan Ashraf · 2024 · Cited by 12 — This study reviews re...</span></span></span>
 
 As a result, operational planners cannot assume that distance alone determines safety.
 
@@ -372,7 +372,7 @@ One reason reflection hazards attract attention is that they can create non-line
 
 Friendly electronics may be shielded by a wall, vehicle or building from the direct beam. Yet a nearby reflective structure can redirect part of the microwave energy around the obstruction. The resulting exposure is often weaker than direct illumination, but weaker does not necessarily mean harmless.
 
-High-power microwave effects depend not only on field strength but also on how effectively energy couples into a device. Sensitive electronics can experience disruption when energy enters through antennas, sensor apertures, communication links or wiring harnesses. Unprotected systems inside buildings can also remain vulnerable to sufficiently strong microwave fields, illustrating that physical separation alone does not guarantee immunity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publica.fraunhofer.de/entities/publication/bfa9f694-2787-47e2-90cc-73415fe11d3c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publica.fraunhofer.de">[Fraunhofer Publica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publica.fraunhofer.de</span><span class="citation-popover-snippet">Fraunhofer PublicaHigh power microwaves - measures and countermeasuresIn particular, IT-systems exposed to HPM are at great risk, and unp...</span></span></span>
+High-power microwave effects depend not only on field strength but also on how effectively energy couples into a device. Sensitive electronics can experience disruption when energy enters through antennas, sensor apertures, communication links or wiring harnesses. Unprotected systems inside buildings can also remain vulnerable to sufficiently strong microwave fields, illustrating that physical separation alone does not guarantee immunity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publica.fraunhofer.de/entities/publication/bfa9f694-2787-47e2-90cc-73415fe11d3c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publica.fraunhofer.de">[Fraunhofer Publica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publica.fraunhofer.de</span><span class="citation-popover-snippet">Fraunhofer PublicaHigh power microwaves - measures and countermeasuresIn particular, IT-systems exposed to HPM are at great risk, and unp...</span></span></span>
 
 The operational consequence is that planners must think in terms of electromagnetic geometry rather than simple visual geometry. Equipment hidden from sight may not be hidden from the electromagnetic environment.
 
@@ -380,203 +380,203 @@ The operational consequence is that planners must think in terms of electromagne
 
 The central challenge is not that reflections make microwave systems unusable. Rather, reflections reduce predictability.
 
-In open terrain, microwave spillover can often be approximated using beam geometry and distance. In dense operating areas, reflected and scattered energy introduces uncertainty. The more conductive structures present, the harder it becomes to forecast exactly where energy will travel and which systems may receive unintended exposure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.inchem.org/documents/ehc/ehc/ehc137.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inchem.org">[InChem]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inchem.org</span><span class="citation-popover-snippet">Electromagnetic Fields (EHC 137, 1992)Additionally, the RF fields in the environment can be complex and may be affected by reflecti...</span></span></span>
+In open terrain, microwave spillover can often be approximated using beam geometry and distance. In dense operating areas, reflected and scattered energy introduces uncertainty. The more conductive structures present, the harder it becomes to forecast exactly where energy will travel and which systems may receive unintended exposure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.inchem.org/documents/ehc/ehc/ehc137.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inchem.org">[InChem]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inchem.org</span><span class="citation-popover-snippet">Electromagnetic Fields (EHC 137, 1992)Additionally, the RF fields in the environment can be complex and may be affected by reflecti...</span></span></span>
 
-This is why electromagnetic compatibility assessments, modelling and environmental surveys become increasingly important when microwave systems operate near friendly assets. The key risk is not simply the power of the weapon itself, but the fact that surrounding infrastructure can redirect part of that power into places that were never intended to be illuminated. In crowded bases, ports and urban military sites, spillover therefore becomes an environmental problem as much as a beam-control problem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2Office of Naval Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — For example, wider beam DEWs, such as high power microwave or millimete...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+This is why electromagnetic compatibility assessments, modelling and environmental surveys become increasingly important when microwave systems operate near friendly assets. The key risk is not simply the power of the weapon itself, but the fact that surrounding infrastructure can redirect part of that power into places that were never intended to be illuminated. In crowded bases, ports and urban military sites, spillover therefore becomes an environmental problem as much as a beam-control problem.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2Office of Naval Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — For example, wider beam DEWs, such as high power microwave or millimete...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X1toVupe_R8" title="U.S. Directed Energy Weapons Systems" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer">U.S. Directed Energy Weapons Systems</a></p><p class="youtube-embed-meta">Channel: U.S. Government Accountability Office (GAO)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X1toVupe_R8">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Spillover Does Not Stay in the Beam. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Spillover Does Not Stay in the Beam. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Radar Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eQhTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Radar Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Radar Systems">Introduction to Radar Systems</a>
-        </h4>
-        <p class="fr-book-author">By Merrill Ivan Skolnik</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Radar Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eQhTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Radar Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Radar Systems">Introduction to Radar Systems</a>
+</h4>
+<p class="fr-book-author">By Merrill Ivan Skolnik</p>
         
-        <p class="fr-book-desc">Explains propagation, reflections, scattering and sidelobes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains propagation, reflections, scattering and sidelobes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+electromagnetic+compatibility+Clayton+R.+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to electromagnetic compatibility on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1250642-M.jpg" alt="Cover for Introduction to electromagnetic compatibility" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+electromagnetic+compatibility+Clayton+R.+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to electromagnetic compatibility">Introduction to electromagnetic compatibility</a>
-        </h4>
-        <p class="fr-book-author">By Clayton R. Paul</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+electromagnetic+compatibility+Clayton+R.+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to electromagnetic compatibility on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1250642-M.jpg" alt="Cover for Introduction to electromagnetic compatibility" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+electromagnetic+compatibility+Clayton+R.+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to electromagnetic compatibility">Introduction to electromagnetic compatibility</a>
+</h4>
+<p class="fr-book-author">By Clayton R. Paul</p>
         
-        <p class="fr-book-desc">First published 1992. Subjects: Electronic circuits, Digital electronics, Noise, Shielding (Electricity), Electromagnetic compatibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+electromagnetic+compatibility+Clayton+R.+Paul&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1992. Subjects: Electronic circuits, Digital electronics, Noise, Shielding (Electricity), Electromagnetic compatibility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+electromagnetic+compatibility+Clayton+R.+Paul&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Electromagnetic+compatibility+engineering+Henry+W.+Ott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Electromagnetic compatibility engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8643114-M.jpg" alt="Cover for Electromagnetic compatibility engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Electromagnetic+compatibility+engineering+Henry+W.+Ott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Electromagnetic compatibility engineering">Electromagnetic compatibility engineering</a>
-        </h4>
-        <p class="fr-book-author">By Henry W. Ott</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Electromagnetic+compatibility+engineering+Henry+W.+Ott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Electromagnetic compatibility engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8643114-M.jpg" alt="Cover for Electromagnetic compatibility engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Electromagnetic+compatibility+engineering+Henry+W.+Ott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Electromagnetic compatibility engineering">Electromagnetic compatibility engineering</a>
+</h4>
+<p class="fr-book-author">By Henry W. Ott</p>
         
-        <p class="fr-book-desc">First published 2009. Subjects: Electronic circuits, Noise, Electromagnetic compatibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Electromagnetic+compatibility+engineering+Henry+W.+Ott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2009. Subjects: Electronic circuits, Noise, Electromagnetic compatibility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Electromagnetic+compatibility+engineering+Henry+W.+Ott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
-        </h4>
-        <p class="fr-book-author">By Bahman Zohuri</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
+</h4>
+<p class="fr-book-author">By Bahman Zohuri</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Radar+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Radar Systems books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+electromagnetic+compatibility+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to electromagnetic compatibility books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Electromagnetic+compatibility+engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Electromagnetic compatibility engineering</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Radar+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Radar Systems books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+electromagnetic+compatibility+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to electromagnetic compatibility books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Electromagnetic+compatibility+engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Electromagnetic compatibility engineering</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drone Pilot Model Builder Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2710b7716c86724863e7.jpg' | relative_url }}" alt="Listing image for Drone Pilot Model Builder Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer">Drone Pilot Model Builder Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drone Pilot Model Builder Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2710b7716c86724863e7.jpg' | relative_url }}" alt="Listing image for Drone Pilot Model Builder Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer">Drone Pilot Model Builder Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for American Flag Drone Pilot Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b74d22984eb98ad9434f.jpg' | relative_url }}" alt="Listing image for American Flag Drone Pilot Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer">American Flag Drone Pilot Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for American Flag Drone Pilot Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b74d22984eb98ad9434f.jpg' | relative_url }}" alt="Listing image for American Flag Drone Pilot Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer">American Flag Drone Pilot Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Air Plane Jet Usaf Drone Predator Poster Art Print Home Picture Bb933B"><img src="{{ '/assets/images/marketplace-covers/8f2f41e44e71d8c7bb3c.jpg' | relative_url }}" alt="Listing image for Military Air Plane Jet Usaf Drone Predator Poster Art Print Home Picture Bb933B" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer">Military Air Plane Jet Usaf Drone Predator Poster Art Print Home Picture Bb933B</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Air Plane Jet Usaf Drone Predator Poster Art Print Home Picture Bb933B"><img src="{{ '/assets/images/marketplace-covers/8f2f41e44e71d8c7bb3c.jpg' | relative_url }}" alt="Listing image for Military Air Plane Jet Usaf Drone Predator Poster Art Print Home Picture Bb933B" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer">Military Air Plane Jet Usaf Drone Predator Poster Art Print Home Picture Bb933B</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Darwen Tower at Dawn erial Drone Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7c55c179c741733c41e5.jpg' | relative_url }}" alt="Listing image for Darwen Tower at Dawn erial Drone Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer">Darwen Tower at Dawn erial Drone Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Darwen Tower at Dawn erial Drone Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7c55c179c741733c41e5.jpg' | relative_url }}" alt="Listing image for Darwen Tower at Dawn erial Drone Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer">Darwen Tower at Dawn erial Drone Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="reflections-why-spillover-does-not-stay-in-the-beam-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -592,7 +592,7 @@ This is why electromagnetic compatibility assessments, modelling and environment
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -612,7 +612,7 @@ This is why electromagnetic compatibility assessments, modelling and environment
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -644,7 +644,7 @@ This is why electromagnetic compatibility assessments, modelling and environment
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -696,7 +696,7 @@ This is why electromagnetic compatibility assessments, modelling and environment
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -741,7 +741,7 @@ This is why electromagnetic compatibility assessments, modelling and environment
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -782,115 +782,115 @@ This is why electromagnetic compatibility assessments, modelling and environment
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gao.gov  
    Title: gao 23 106717  
-   Link: <a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — For example, wider beam DEWs, such as high power microwave or millimete...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — For example, wider beam DEWs, such as high power microwave or millimete...</p></details>
    Published: May 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: inchem.org  
-   Link: <a href="https://www.inchem.org/documents/ehc/ehc/ehc137.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.inchem.org/documents/ehc/ehc/ehc137.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Electromagnetic Fields (EHC 137, 1992)Additionally, the RF fields in the environment can be complex and may be affected by reflecti...</p></details>
+   Link:<a href="https://www.inchem.org/documents/ehc/ehc/ehc137.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.inchem.org/documents/ehc/ehc/ehc137.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Electromagnetic Fields (EHC 137, 1992)Additionally, the RF fields in the environment can be complex and may be affected by reflecti...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: waru.edu  
    Title: MIL STD 464D  
-   Link: <a href="https://www.waru.edu/sites/default/files/Migrated/CopDocuments/MIL-STD-464D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.waru.edu/sites/default/files/Migrated/CopDocuments/MIL-STD-464D.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Waru UniversityMIL-STD-464D1 Dec 2010 — High-power microwave (HPM) sources.... metallic surface ships, the hull of a submarine, the scre...</p></details>
+   Link:<a href="https://www.waru.edu/sites/default/files/Migrated/CopDocuments/MIL-STD-464D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.waru.edu/sites/default/files/Migrated/CopDocuments/MIL-STD-464D.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Waru UniversityMIL-STD-464D1 Dec 2010 — High-power microwave (HPM) sources.... metallic surface ships, the hull of a submarine, the scre...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: academia.edu  
    Title: (PDF) Susceptibility of Electronic Systems to High-Power  
-   Link: <a href="https://www.academia.edu/88333552/Susceptibility_of_Electronic_Systems_to_High_Power_[Microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/88333552/Susceptibility_of_Electronic_Systems_to_High_Power_[Microwaves</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) Susceptibility of Electronic Systems to High-Power...January 1, 2004 — In a reverberation chamber, the statistically isotr...</p></details>
+   Link:<a href="https://www.academia.edu/88333552/Susceptibility_of_Electronic_Systems_to_High_Power_[Microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/88333552/Susceptibility_of_Electronic_Systems_to_High_Power_[Microwaves</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) Susceptibility of Electronic Systems to High-Power...January 1, 2004 — In a reverberation chamber, the statistically isotr...</p></details>
    Published: January 1, 2004  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/rpd/article/200/6/598/7629767" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/rpd/article/200/6/598/7629767</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicEvaluating radiofrequency electromagnetic field exposure in...by M Ahsan Ashraf · 2024 · Cited by 12 — This study reviews re...</p></details>
+   Link:<a href="https://academic.oup.com/rpd/article/200/6/598/7629767" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/rpd/article/200/6/598/7629767</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicEvaluating radiofrequency electromagnetic field exposure in...by M Ahsan Ashraf · 2024 · Cited by 12 — This study reviews re...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: publica.fraunhofer.de  
-   Link: <a href="https://publica.fraunhofer.de/entities/publication/bfa9f694-2787-47e2-90cc-73415fe11d3c" target="_blank" rel="noopener noreferrer nofollow">https://publica.fraunhofer.de/entities/publication/bfa9f694-2787-47e2-90cc-73415fe11d3c</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fraunhofer PublicaHigh power microwaves - measures and countermeasuresIn particular, IT-systems exposed to HPM are at great risk, and unp...</p></details>
+   Link:<a href="https://publica.fraunhofer.de/entities/publication/bfa9f694-2787-47e2-90cc-73415fe11d3c" target="_blank" rel="noopener noreferrer nofollow">https://publica.fraunhofer.de/entities/publication/bfa9f694-2787-47e2-90cc-73415fe11d3c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fraunhofer PublicaHigh power microwaves - measures and countermeasuresIn particular, IT-systems exposed to HPM are at great risk, and unp...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons DOD Should Focus on Transition...DOD spends about $1 billion annually on directed energy--concentrated electroma...</p></details>
+   Link:<a href="https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons DOD Should Focus on Transition...DOD spends about $1 billion annually on directed energy--concentrated electroma...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: onr.navy.mil  
-   Link: <a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spe...</p></details>
+   Link:<a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spe...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: imanor.gov.ma  
-   Link: <a href="https://imanor.gov.ma/wp-content/uploads/2022/10/06.0.119-iec61000-1-5-tred1.0en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://imanor.gov.ma/wp-content/uploads/2022/10/06.0.119-iec61000-1-5-tred1.0en.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It can occur in the form...Read more...</p></details>
+   Link:<a href="https://imanor.gov.ma/wp-content/uploads/2022/10/06.0.119-iec61000-1-5-tred1.0en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://imanor.gov.ma/wp-content/uploads/2022/10/06.0.119-iec61000-1-5-tred1.0en.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It can occur in the form...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: airpower.airforce.gov.au  
    Title: airforce.gov.au Directed Energy Weapons  
-   Link: <a href="https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf" target="_blank" rel="noopener noreferrer nofollow">https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(DIRCM)44 system to defend...Read more...</p></details>
+   Link:<a href="https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf" target="_blank" rel="noopener noreferrer nofollow">https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(DIRCM)44 system to defend...Read more...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/334070738_High-Power_Microwave_Energy_as_Weapon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334070738_High-Power_Microwave_Energy_as_Weapon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) High-Power Microwave Energy as WeaponThis chapter discusses aspects of the technology base and weapon delivery techniques and propo...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/334070738_High-Power_Microwave_Energy_as_Weapon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334070738_High-Power_Microwave_Energy_as_Weapon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) High-Power Microwave Energy as WeaponThis chapter discusses aspects of the technology base and weapon delivery techniques and propo...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/4229403_Research_on_high_power_microwave_weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/4229403_Research_on_high_power_microwave_weapons</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Research on high power microwave weaponsOne direction of the study is specifically testing non-lethal microwave weapons to interfer...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/4229403_Research_on_high_power_microwave_weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/4229403_Research_on_high_power_microwave_weapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Research on high power microwave weaponsOne direction of the study is specifically testing non-lethal microwave weapons to interfer...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: shmu.ac.ir  
-   Link: <a href="https://www.shmu.ac.ir/file/download/page/1781337620-6a2d0e1426282-rf-and-microwave-radiation-safety-handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.shmu.ac.ir/file/download/page/1781337620-6a2d0e1426282-rf-and-microwave-radiation-safety-handbook.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RF and Microwave Radiation Safety HandbookSince the previous volume on this topic was written about eight years ago many things have chan...</p></details>
+   Link:<a href="https://www.shmu.ac.ir/file/download/page/1781337620-6a2d0e1426282-rf-and-microwave-radiation-safety-handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.shmu.ac.ir/file/download/page/1781337620-6a2d0e1426282-rf-and-microwave-radiation-safety-handbook.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RF and Microwave Radiation Safety HandbookSince the previous volume on this topic was written about eight years ago many things have chan...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X1toVupe_R8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Directed Energy Weapons SystemsThe Government Accountability Office explains what are Directed Energy Weapons and takes a look at ho...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X1toVupe_R8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Directed Energy Weapons SystemsThe Government Accountability Office explains what are Directed Energy Weapons and takes a look at ho...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: coherentmarketinsights.com  
    Title: directed energy weapons in counter drone missile defense 3576  
-   Link: <a href="https://www.coherentmarketinsights.com/blog/aerospace-and-defense/directed-energy-weapons-in-counter-drone-missile-defense-3576" target="_blank" rel="noopener noreferrer nofollow">https://www.coherentmarketinsights.com/blog/aerospace-and-defense/directed-energy-weapons-in-counter-drone-missile-defense-3576</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons in CounterDrone Missile Defense4 May 2026 — These include energy beams like laser, microwave, or radio frequency...</p></details>
+   Link:<a href="https://www.coherentmarketinsights.com/blog/aerospace-and-defense/directed-energy-weapons-in-counter-drone-missile-defense-3576" target="_blank" rel="noopener noreferrer nofollow">https://www.coherentmarketinsights.com/blog/aerospace-and-defense/directed-energy-weapons-in-counter-drone-missile-defense-3576</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons in CounterDrone Missile Defense4 May 2026 — These include energy beams like laser, microwave, or radio frequency...</p></details>
    Published: May 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Speed Gun Physics  
-   Link: <a href="https://www.youtube.com/watch?v=tCmhUw2uKlo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tCmhUw2uKlo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Multipath Propagation &amp; Doppler Effect Explained video details the exact physics of how electromagnetic waves ricochet off obstacles...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tCmhUw2uKlo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tCmhUw2uKlo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Multipath Propagation &amp; Doppler Effect Explained video details the exact physics of how electromagnetic waves ricochet off obstacles...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: inzpire.com  
    Title: high power microwaves more than just a hot lunch  
-   Link: <a href="https://www.inzpire.com/news/high-power-microwaves-more-than-just-a-hot-lunch" target="_blank" rel="noopener noreferrer nofollow">https://www.inzpire.com/news/high-power-microwaves-more-than-just-a-hot-lunch</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>High power microwaves – more than just a hot lunch!3 Mar 2025 — High-power microwaves are an emerging class of directed energy weapons th...</p></details>
+   Link:<a href="https://www.inzpire.com/news/high-power-microwaves-more-than-just-a-hot-lunch" target="_blank" rel="noopener noreferrer nofollow">https://www.inzpire.com/news/high-power-microwaves-more-than-just-a-hot-lunch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High power microwaves – more than just a hot lunch!3 Mar 2025 — High-power microwaves are an emerging class of directed energy weapons th...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: electronicsforu.com  
    Title: directed energy weapons high power microwaves  
-   Link: <a href="https://www.electronicsforu.com/market-verticals/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.electronicsforu.com/market-verticals/directed-energy-weapons-high-power-microwaves</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Electronics For YouDirected Energy Weapons: High Power Microwaves4 Oct 2016 — HPM weapons generate an intense blast of microwave energy s...</p></details>
+   Link:<a href="https://www.electronicsforu.com/market-verticals/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.electronicsforu.com/market-verticals/directed-energy-weapons-high-power-microwaves</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Electronics For YouDirected Energy Weapons: High Power Microwaves4 Oct 2016 — HPM weapons generate an intense blast of microwave energy s...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/3056672_Susceptibility_of_Electronic_Systems_to_High-Power_Microwaves_Summary_of_Test_Experience" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/3056672_Susceptibility_of_Electronic_Systems_to_High-Power_Microwaves_Summary_of_Test_Experience</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UAV&#x27;s cables are the main energy coupling path from...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/3056672_Susceptibility_of_Electronic_Systems_to_High-Power_Microwaves_Summary_of_Test_Experience" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/3056672_Susceptibility_of_Electronic_Systems_to_High-Power_Microwaves_Summary_of_Test_Experience</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UAV&#x27;s cables are the main energy coupling path from...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: fccdecastro.com.br  
-   Link: <a href="https://www.fccdecastro.com.br/pdf/HPM2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fccdecastro.com.br/pdf/HPM2.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>l is quoted with permission, and sources are indicated.Read more...</p></details>
+   Link:<a href="https://www.fccdecastro.com.br/pdf/HPM2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fccdecastro.com.br/pdf/HPM2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>l is quoted with permission, and sources are indicated.Read more...</p></details>

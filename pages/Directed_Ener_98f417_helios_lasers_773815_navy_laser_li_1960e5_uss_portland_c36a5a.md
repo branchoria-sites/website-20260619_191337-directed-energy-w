@@ -269,40 +269,40 @@ image: /assets/images/Directed_Ener_98f417_helios_lasers_773815_navy_laser_li_19
 
 ## Introduction
 
-USS *Portland* marked a significant step in the Navy’s laser-weapons programme because it moved shipboard laser testing beyond the small-boat and sensor-disruption scenarios that had characterised earlier demonstrations. Whereas USS *Ponce* helped prove that a naval laser could operate at sea and engage relatively simple surface threats, *Portland* was used to test a far more powerful laser against airborne drones and more demanding surface targets. In doing so, it helped shift the discussion from whether [lasers]({{ 'lasers/' | relative_url }}) could work aboard ships to whether they could become part of future layered defences against unmanned systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navy.mil/Press-Office/News-Stories/Article/2283997/uss-portland-conducts-laser-weapon-system-demonstrator-test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[navy.mil+2navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">uss portland conducts laser weapon system demonstrator test</span><span class="citation-popover-snippet">USS Portland Conducts Laser Weapon System Demonstrator...22 May 2020 — Amphibious transport dock ship USS Portland (LPD 27) successfully...</span><span class="citation-popover-meta">Published: May 2020</span></span></span>
+USS *Portland* marked a significant step in the Navy’s laser-weapons programme because it moved shipboard laser testing beyond the small-boat and sensor-disruption scenarios that had characterised earlier demonstrations. Whereas USS *Ponce* helped prove that a naval laser could operate at sea and engage relatively simple surface threats, *Portland* was used to test a far more powerful laser against airborne drones and more demanding surface targets. In doing so, it helped shift the discussion from whether [lasers]({{ 'lasers/' | relative_url }}) could work aboard ships to whether they could become part of future layered defences against unmanned systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navy.mil/Press-Office/News-Stories/Article/2283997/uss-portland-conducts-laser-weapon-system-demonstrator-test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[navy.mil+2navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">uss portland conducts laser weapon system demonstrator test</span><span class="citation-popover-snippet">USS Portland Conducts Laser Weapon System Demonstrator...22 May 2020 — Amphibious transport dock ship USS Portland (LPD 27) successfully...</span><span class="citation-popover-meta">Published: May 2020</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_navy_laser_li_1960e5_uss_portland_c36a5a-Illustration-1-dark.svg" | relative_url }}" alt="USS Portland illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_navy_laser_li_1960e5_uss_portland_c36a5a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_navy_laser_li_1960e5_uss_portland_c36a5a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## From Small-Boat Trials to Airborne Drones
 
-The most visible change introduced by USS *Portland* was the expansion of the target set. The earlier AN/SEQ-3 Laser Weapon System (LaWS) deployed aboard USS *Ponce* was generally associated with counter-small-boat missions, short-range drone engagements and optical surveillance. Its reported power level was around 30 kilowatts, sufficient for demonstrating the concept but limited in the kinds of targets it could rapidly defeat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/navy-ships/a32676643/navy-laser-weapon-system-demonstrator-test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">The Laser Weapon System (La WS), deployed</span><span class="citation-popover-snippet">Popular MechanicsThe Navy Just Tested Its Most Powerful Laser YetMay 27, 2020 — LWSD has an output of 150 kilowatts, making it up to five...</span></span></span>
+The most visible change introduced by USS *Portland* was the expansion of the target set. The earlier AN/SEQ-3 Laser Weapon System (LaWS) deployed aboard USS *Ponce* was generally associated with counter-small-boat missions, short-range drone engagements and optical surveillance. Its reported power level was around 30 kilowatts, sufficient for demonstrating the concept but limited in the kinds of targets it could rapidly defeat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/navy-ships/a32676643/navy-laser-weapon-system-demonstrator-test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">The Laser Weapon System (La WS), deployed</span><span class="citation-popover-snippet">Popular MechanicsThe Navy Just Tested Its Most Powerful Laser YetMay 27, 2020 — LWSD has an output of 150 kilowatts, making it up to five...</span></span></span>
 
-USS *Portland* carried the Solid State Laser–Technology Maturation Laser Weapons System Demonstrator (LWSD) Mk 2 Mod 0, a much more powerful system in the 150-kilowatt class. In May 2020, the ship successfully disabled an unmanned aerial vehicle during an at-sea test in the Pacific. Navy officials described the event as the first system-level implementation of a high-energy-class solid-state laser aboard a fleet ship and the first demonstration of its kind against an airborne drone target at sea. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navy.mil/Press-Office/News-Stories/Article/2283997/uss-portland-conducts-laser-weapon-system-demonstrator-test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[navy.mil+2navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">uss portland conducts laser weapon system demonstrator test</span><span class="citation-popover-snippet">USS Portland Conducts Laser Weapon System Demonstrator...22 May 2020 — Amphibious transport dock ship USS Portland (LPD 27) successfully...</span><span class="citation-popover-meta">Published: May 2020</span></span></span>
+USS *Portland* carried the Solid State Laser–Technology Maturation Laser Weapons System Demonstrator (LWSD) Mk 2 Mod 0, a much more powerful system in the 150-kilowatt class. In May 2020, the ship successfully disabled an unmanned aerial vehicle during an at-sea test in the Pacific. Navy officials described the event as the first system-level implementation of a high-energy-class solid-state laser aboard a fleet ship and the first demonstration of its kind against an airborne drone target at sea.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navy.mil/Press-Office/News-Stories/Article/2283997/uss-portland-conducts-laser-weapon-system-demonstrator-test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[navy.mil+2navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">uss portland conducts laser weapon system demonstrator test</span><span class="citation-popover-snippet">USS Portland Conducts Laser Weapon System Demonstrator...22 May 2020 — Amphibious transport dock ship USS Portland (LPD 27) successfully...</span><span class="citation-popover-meta">Published: May 2020</span></span></span>
 
-The choice of target was important. Small boats present a relatively predictable surface threat. Unmanned aerial vehicles introduce different challenges, including target tracking, beam control against a moving object, atmospheric distortion and the need to maintain sufficient energy on a smaller, manoeuvring target. Demonstrating a successful engagement against a drone suggested that naval lasers were beginning to address the rapidly growing unmanned threat environment rather than only traditional surface harassment scenarios. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.usni.org/2020/05/22/video-uss-portland-fires-laser-weapon-downs-drone-in-first-at-sea-test" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.usni.org">[USNI News+2Military.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.usni.org</span><span class="citation-popover-snippet">USNI NewsVIDEO: USS Portland Fires Laser Weapon, Downs Drone in...Amphibious ship USS Portland (LPD-27) shot down a drone with a laser w...</span></span></span>
+The choice of target was important. Small boats present a relatively predictable surface threat. Unmanned aerial vehicles introduce different challenges, including target tracking, beam control against a moving object, atmospheric distortion and the need to maintain sufficient energy on a smaller, manoeuvring target. Demonstrating a successful engagement against a drone suggested that naval lasers were beginning to address the rapidly growing unmanned threat environment rather than only traditional surface harassment scenarios.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.usni.org/2020/05/22/video-uss-portland-fires-laser-weapon-downs-drone-in-first-at-sea-test" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.usni.org">[USNI News+2Military.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.usni.org</span><span class="citation-popover-snippet">USNI NewsVIDEO: USS Portland Fires Laser Weapon, Downs Drone in...Amphibious ship USS Portland (LPD-27) shot down a drone with a laser w...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IrDu6k3me8U" title="USS Portland conducts a high-energy laser weapon system demonstration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IrDu6k3me8U" target="_blank" rel="noopener noreferrer">USS Portland conducts a high-energy laser weapon system demonstration</a></p><p class="youtube-embed-meta">Channel: Defense News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IrDu6k3me8U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IrDu6k3me8U">Open on YouTube</a></p></div></div></div>
 
 ## What Higher-Power Testing Added
 
-The increase in [laser power]({{ 'power-costs/' | relative_url }}) was not simply a matter of destroying targets faster. Higher-energy systems require advances in power generation, thermal management and [beam quality]({{ 'beam-quality/' | relative_url }}). USS *Portland* therefore served as a test bed for technologies that would be necessary if lasers were to become practical fleet weapons rather than isolated experiments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://militaryembedded.com/radar-ew/test/laser-weapon-system-demonstrator-tested-by-u-s-navy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: militaryembedded.com">[militaryembedded.com+2DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">militaryembedded.com</span><span class="citation-popover-title">Laser Weapon System Demonstrator tested by U.S</span><span class="citation-popover-snippet">NavyLWSD is a high-energy laser weapon system demonstrator developed by the Office of Naval Research and installed on Portland for an at...</span></span></span>
+The increase in [laser power]({{ 'power-costs/' | relative_url }}) was not simply a matter of destroying targets faster. Higher-energy systems require advances in power generation, thermal management and [beam quality]({{ 'beam-quality/' | relative_url }}). USS *Portland* therefore served as a test bed for technologies that would be necessary if lasers were to become practical fleet weapons rather than isolated experiments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://militaryembedded.com/radar-ew/test/laser-weapon-system-demonstrator-tested-by-u-s-navy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: militaryembedded.com">[militaryembedded.com+2DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">militaryembedded.com</span><span class="citation-popover-title">Laser Weapon System Demonstrator tested by U.S</span><span class="citation-popover-snippet">NavyLWSD is a high-energy laser weapon system demonstrator developed by the Office of Naval Research and installed on Portland for an at...</span></span></span>
 
-The LWSD installed on *Portland* was approximately five times more powerful than the LaWS system associated with USS *Ponce*. That increase enabled testing against target categories that had previously been beyond practical reach and provided engineers with operational data about sustaining laser performance aboard a moving warship. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedefensepost.com/2021/12/16/us-navy-test-fires-laser-weapon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedefensepost.com">[The Defense Post+2Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedefensepost.com</span><span class="citation-popover-title">us navy test fires laser weapon</span><span class="citation-popover-snippet">The Defense PostUS Navy Test-Fires &#x27;Most Potent&#x27; Laser Weapon SystemDec 16, 2021 — The 150-kilowatt Solid State Laser – Technology Matura...</span></span></span>
+The LWSD installed on *Portland* was approximately five times more powerful than the LaWS system associated with USS *Ponce*. That increase enabled testing against target categories that had previously been beyond practical reach and provided engineers with operational data about sustaining laser performance aboard a moving warship.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedefensepost.com/2021/12/16/us-navy-test-fires-laser-weapon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedefensepost.com">[The Defense Post+2Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedefensepost.com</span><span class="citation-popover-title">us navy test fires laser weapon</span><span class="citation-popover-snippet">The Defense PostUS Navy Test-Fires &#x27;Most Potent&#x27; Laser Weapon SystemDec 16, 2021 — The 150-kilowatt Solid State Laser – Technology Matura...</span></span></span>
 
-A second milestone came in December 2021 when USS *Portland*, operating in the Gulf of Aden, used the same laser system to engage a static surface training target. Although the target was not a combat vessel, the test demonstrated that the system could transition between aerial and surface engagements and operate outside controlled developmental environments. The Navy publicly highlighted the event as another step in evaluating high-energy laser employment under operational conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navy.mil/Press-Office/News-Stories/display-news/Article/2873919/uss-portland-tests-high-energy-laser-weapon-system-in-gulf-of-aden/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[navy.mil+2navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">uss portland tests high energy laser weapon system in gulf of aden</span><span class="citation-popover-snippet">USS Portland Tests High Energy Laser Weapon System in...15 Dec 2021 — Portland previously tested the LWSD in May 2020 when it successful...</span><span class="citation-popover-meta">Published: May 2020</span></span></span>
+A second milestone came in December 2021 when USS *Portland*, operating in the Gulf of Aden, used the same laser system to engage a static surface training target. Although the target was not a combat vessel, the test demonstrated that the system could transition between aerial and surface engagements and operate outside controlled developmental environments. The Navy publicly highlighted the event as another step in evaluating high-energy laser employment under operational conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navy.mil/Press-Office/News-Stories/display-news/Article/2873919/uss-portland-tests-high-energy-laser-weapon-system-in-gulf-of-aden/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[navy.mil+2navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">uss portland tests high energy laser weapon system in gulf of aden</span><span class="citation-popover-snippet">USS Portland Tests High Energy Laser Weapon System in...15 Dec 2021 — Portland previously tested the LWSD in May 2020 when it successful...</span><span class="citation-popover-meta">Published: May 2020</span></span></span>
 
-Taken together, the 2020 drone engagement and the 2021 surface-target demonstration showed that the Navy was no longer testing lasers solely as niche counter-boat weapons. Instead, it was exploring their utility across multiple threat categories that increasingly dominate modern naval operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navy.mil/Press-Office/News-Stories/display-news/Article/2873919/uss-portland-tests-high-energy-laser-weapon-system-in-gulf-of-aden/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[navy.mil+2navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">uss portland tests high energy laser weapon system in gulf of aden</span><span class="citation-popover-snippet">USS Portland Tests High Energy Laser Weapon System in...15 Dec 2021 — Portland previously tested the LWSD in May 2020 when it successful...</span><span class="citation-popover-meta">Published: May 2020</span></span></span>
+Taken together, the 2020 drone engagement and the 2021 surface-target demonstration showed that the Navy was no longer testing lasers solely as niche counter-boat weapons. Instead, it was exploring their utility across multiple threat categories that increasingly dominate modern naval operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navy.mil/Press-Office/News-Stories/display-news/Article/2873919/uss-portland-tests-high-energy-laser-weapon-system-in-gulf-of-aden/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[navy.mil+2navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">uss portland tests high energy laser weapon system in gulf of aden</span><span class="citation-popover-snippet">USS Portland Tests High Energy Laser Weapon System in...15 Dec 2021 — Portland previously tested the LWSD in May 2020 when it successful...</span><span class="citation-popover-meta">Published: May 2020</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_navy_laser_li_1960e5_uss_portland_c36a5a-Illustration-2-dark.svg" | relative_url }}" alt="USS Portland illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_navy_laser_li_1960e5_uss_portland_c36a5a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_navy_laser_li_1960e5_uss_portland_c36a5a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Results Still Left Integration Questions
 
-Despite the success of the tests, USS *Portland* did not prove that lasers were ready to replace conventional weapons. The engagements were carefully planned demonstrations rather than examples of routine fleet employment against complex operational threats. The drone test showed that a laser could disable an airborne target, but it did not establish how the system would perform against large numbers of drones, adverse weather or fast-moving missile threats. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navy.mil/Press-Office/News-Stories/Article/2283997/uss-portland-conducts-laser-weapon-system-demonstrator-test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">uss portland conducts laser weapon system demonstrator test</span><span class="citation-popover-snippet">USS Portland Conducts Laser Weapon System Demonstrator...22 May 2020 — Amphibious transport dock ship USS Portland (LPD 27) successfully...</span><span class="citation-popover-meta">Published: May 2020</span></span></span>
+Despite the success of the tests, USS *Portland* did not prove that lasers were ready to replace conventional weapons. The engagements were carefully planned demonstrations rather than examples of routine fleet employment against complex operational threats. The drone test showed that a laser could disable an airborne target, but it did not establish how the system would perform against large numbers of drones, adverse weather or fast-moving missile threats.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navy.mil/Press-Office/News-Stories/Article/2283997/uss-portland-conducts-laser-weapon-system-demonstrator-test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">uss portland conducts laser weapon system demonstrator test</span><span class="citation-popover-snippet">USS Portland Conducts Laser Weapon System Demonstrator...22 May 2020 — Amphibious transport dock ship USS Portland (LPD 27) successfully...</span><span class="citation-popover-meta">Published: May 2020</span></span></span>
 
-Another limitation was that *Portland* carried a demonstrator rather than a permanently integrated fleet weapon. The LWSD programme was intended to mature technologies and gather operational data. Even though the laser was connected to ship systems and operated at sea, it remained primarily an experimental capability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dvidshub.net/news/370671/uss-portland-conducts-laser-weapon-system-demonstrator-test" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS+2militaryembedded.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-title">uss portland conducts laser weapon system demonstrator test</span><span class="citation-popover-snippet">DVIDSUSS Portland conducts Laser Weapon System...22 May 2020 — LWSD is a high-energy laser weapon system demonstrator developed by the O...</span><span class="citation-popover-meta">Published: May 2020</span></span></span>
+Another limitation was that *Portland* carried a demonstrator rather than a permanently integrated fleet weapon. The LWSD programme was intended to mature technologies and gather operational data. Even though the laser was connected to ship systems and operated at sea, it remained primarily an experimental capability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dvidshub.net/news/370671/uss-portland-conducts-laser-weapon-system-demonstrator-test" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS+2militaryembedded.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-title">uss portland conducts laser weapon system demonstrator test</span><span class="citation-popover-snippet">DVIDSUSS Portland conducts Laser Weapon System...22 May 2020 — LWSD is a high-energy laser weapon system demonstrator developed by the O...</span><span class="citation-popover-meta">Published: May 2020</span></span></span>
 
-The Navy’s subsequent focus on systems such as HELIOS reflected this remaining challenge. USS *Portland* demonstrated that higher-power lasers could engage both drones and surface targets, but the next step required integrating directed-energy weapons into a warship’s combat system, sensors and command architecture in a way that supported routine fleet operations. In that sense, *Portland* raised the target bar, while later programmes sought to answer the equally important question of how those capabilities could be incorporated into everyday naval warfare. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://seapowermagazine.org/northrop-grumman-laser-weapon-system-completes-deployment-on-uss-portland/?print=print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seapowermagazine.org">[Seapower+2Seapower]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seapowermagazine.org</span><span class="citation-popover-title">Seapower Northrop Grumman Laser Weapon System Completes ...The 150-kilowatt LWSD is mounted on the superstructure of the Portland and is</span><span class="citation-popover-snippet">SeapowerNorthrop Grumman Laser Weapon System Completes ...The 150-kilowatt LWSD is mounted on the superstructure of the Portland and is i...</span></span></span>
+The Navy’s subsequent focus on systems such as HELIOS reflected this remaining challenge. USS *Portland* demonstrated that higher-power lasers could engage both drones and surface targets, but the next step required integrating directed-energy weapons into a warship’s combat system, sensors and command architecture in a way that supported routine fleet operations. In that sense, *Portland* raised the target bar, while later programmes sought to answer the equally important question of how those capabilities could be incorporated into everyday naval warfare.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://seapowermagazine.org/northrop-grumman-laser-weapon-system-completes-deployment-on-uss-portland/?print=print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seapowermagazine.org">[Seapower+2Seapower]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seapowermagazine.org</span><span class="citation-popover-title">Seapower Northrop Grumman Laser Weapon System Completes ...The 150-kilowatt LWSD is mounted on the superstructure of the Portland and is</span><span class="citation-popover-snippet">SeapowerNorthrop Grumman Laser Weapon System Completes ...The 150-kilowatt LWSD is mounted on the superstructure of the Portland and is i...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YR7LtRmDUDY" title="Navy tests laser weapon against drone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YR7LtRmDUDY" target="_blank" rel="noopener noreferrer">Navy tests laser weapon against drone</a></p><p class="youtube-embed-meta">Channel: Marine Log</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YR7LtRmDUDY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YR7LtRmDUDY">Open on YouTube</a></p></div></div></div>
@@ -312,200 +312,200 @@ The Navy’s subsequent focus on systems such as HELIOS reflected this remaining
 
 ## Why Portland Became a Turning Point
 
-The importance of USS *Portland* lies less in any single shot than in the shift it represented. USS *Ponce* had shown that lasers could survive and function aboard a deployed vessel. USS *Portland* demonstrated that a significantly more powerful laser could engage both airborne and surface targets, pushing naval directed-energy testing into the [counter-drone]({{ 'missile-savings/' | relative_url }}) era. By broadening the target set beyond small boats and proving the viability of a 150-kilowatt-class system at sea, *Portland* provided a bridge between early demonstrations and the more integrated laser capabilities that followed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navy.mil/Press-Office/News-Stories/Article/2283997/uss-portland-conducts-laser-weapon-system-demonstrator-test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[Seapower+3navy.mil+3navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">uss portland conducts laser weapon system demonstrator test</span><span class="citation-popover-snippet">USS Portland Conducts Laser Weapon System Demonstrator...22 May 2020 — Amphibious transport dock ship USS Portland (LPD 27) successfully...</span><span class="citation-popover-meta">Published: May 2020</span></span></span>
+The importance of USS *Portland* lies less in any single shot than in the shift it represented. USS *Ponce* had shown that lasers could survive and function aboard a deployed vessel. USS *Portland* demonstrated that a significantly more powerful laser could engage both airborne and surface targets, pushing naval directed-energy testing into the [counter-drone]({{ 'missile-savings/' | relative_url }}) era. By broadening the target set beyond small boats and proving the viability of a 150-kilowatt-class system at sea, *Portland* provided a bridge between early demonstrations and the more integrated laser capabilities that followed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navy.mil/Press-Office/News-Stories/Article/2283997/uss-portland-conducts-laser-weapon-system-demonstrator-test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[Seapower+3navy.mil+3navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">uss portland conducts laser weapon system demonstrator test</span><span class="citation-popover-snippet">USS Portland Conducts Laser Weapon System Demonstrator...22 May 2020 — Amphibious transport dock ship USS Portland (LPD 27) successfully...</span><span class="citation-popover-meta">Published: May 2020</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_navy_laser_li_1960e5_uss_portland_c36a5a-Illustration-3-dark.svg" | relative_url }}" alt="USS Portland illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_navy_laser_li_1960e5_uss_portland_c36a5a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_navy_laser_li_1960e5_uss_portland_c36a5a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Portland Raised the Target Bar. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Portland Raised the Target Bar. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Highlights changing approaches to air and missile defence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights changing approaches to air and missile defence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fleet Tactics And Naval Operations, Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8833607-M.jpg" alt="Cover for Fleet Tactics And Naval Operations, Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fleet Tactics And Naval Operations, Third Edition">Fleet Tactics And Naval Operations, Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Wayne Hughes, Robert Girrier</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fleet Tactics And Naval Operations, Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8833607-M.jpg" alt="Cover for Fleet Tactics And Naval Operations, Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fleet Tactics And Naval Operations, Third Edition">Fleet Tactics And Naval Operations, Third Edition</a>
+</h4>
+<p class="fr-book-author">By Wayne Hughes, Robert Girrier</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Naval tactics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Naval tactics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
-        </h4>
-        <p class="fr-book-author">By Bahman Zohuri</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
+</h4>
+<p class="fr-book-author">By Bahman Zohuri</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Physics+of+High+Energy+Lasers+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons: Physics of High Energy Lasers on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Physics+of+High+Energy+Lasers+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons: Physics of High Energy Lasers">Directed Energy Weapons: Physics of High Energy Lasers</a>
-        </h4>
-        <p class="fr-book-author">By Bahman Zohuri</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Physics+of+High+Energy+Lasers+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons: Physics of High Energy Lasers on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Physics+of+High+Energy+Lasers+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons: Physics of High Energy Lasers">Directed Energy Weapons: Physics of High Energy Lasers</a>
+</h4>
+<p class="fr-book-author">By Bahman Zohuri</p>
         
-        <p class="fr-book-desc">Explains the significance of more powerful shipboard lasers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Physics+of+High+Energy+Lasers+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the significance of more powerful shipboard lasers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Physics+of+High+Energy+Lasers+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fleet Tactics And Naval Operations, Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed Energy Weapons</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fleet Tactics And Naval Operations, Third Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed Energy Weapons</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/700 Royal Australian Navy Hobart-class Destroyer Waterline Model Kit"><img src="{{ '/assets/images/marketplace-covers/41a30cc7e9b5e1f168e2.jpg' | relative_url }}" alt="Listing image for 1/700 Royal Australian Navy Hobart-class Destroyer Waterline Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer">1/700 Royal Australian Navy Hobart-class Destroyer Waterline Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Royal Navy destroyer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Royal Navy destroyer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/700 Royal Australian Navy Hobart-class Destroyer Waterline Model Kit"><img src="{{ '/assets/images/marketplace-covers/41a30cc7e9b5e1f168e2.jpg' | relative_url }}" alt="Listing image for 1/700 Royal Australian Navy Hobart-class Destroyer Waterline Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer">1/700 Royal Australian Navy Hobart-class Destroyer Waterline Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Royal Navy destroyer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Royal Navy destroyer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HMS Diamond Type 45 Destroyer 1/1250 Scale Model Royal Navy"><img src="{{ '/assets/images/marketplace-covers/8f8193e030d38d079b79.jpg' | relative_url }}" alt="Listing image for HMS Diamond Type 45 Destroyer 1/1250 Scale Model Royal Navy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer">HMS Diamond Type 45 Destroyer 1/1250 Scale Model Royal Navy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Royal Navy destroyer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Royal Navy destroyer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HMS Diamond Type 45 Destroyer 1/1250 Scale Model Royal Navy"><img src="{{ '/assets/images/marketplace-covers/8f8193e030d38d079b79.jpg' | relative_url }}" alt="Listing image for HMS Diamond Type 45 Destroyer 1/1250 Scale Model Royal Navy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer">HMS Diamond Type 45 Destroyer 1/1250 Scale Model Royal Navy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Royal Navy destroyer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Royal Navy destroyer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mastercraft Royal Navy 1/500 Scale Destroyer Model Kit HMS Hero"><img src="{{ '/assets/images/marketplace-covers/71ddbcad08a919345b52.jpg' | relative_url }}" alt="Listing image for Mastercraft Royal Navy 1/500 Scale Destroyer Model Kit HMS Hero" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer">Mastercraft Royal Navy 1/500 Scale Destroyer Model Kit HMS Hero</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Royal Navy destroyer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Royal Navy destroyer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mastercraft Royal Navy 1/500 Scale Destroyer Model Kit HMS Hero"><img src="{{ '/assets/images/marketplace-covers/71ddbcad08a919345b52.jpg' | relative_url }}" alt="Listing image for Mastercraft Royal Navy 1/500 Scale Destroyer Model Kit HMS Hero" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer">Mastercraft Royal Navy 1/500 Scale Destroyer Model Kit HMS Hero</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Royal Navy destroyer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Royal Navy destroyer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/350 British Royal Navy Jervis Destroyer resin Model Kit NEW！3D Printed"><img src="{{ '/assets/images/marketplace-covers/9d113b4ae91c5a90700c.jpg' | relative_url }}" alt="Listing image for 1/350 British Royal Navy Jervis Destroyer resin Model Kit NEW！3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer">1/350 British Royal Navy Jervis Destroyer resin Model Kit NEW！3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Royal Navy destroyer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Royal Navy destroyer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/350 British Royal Navy Jervis Destroyer resin Model Kit NEW！3D Printed"><img src="{{ '/assets/images/marketplace-covers/9d113b4ae91c5a90700c.jpg' | relative_url }}" alt="Listing image for 1/350 British Royal Navy Jervis Destroyer resin Model Kit NEW！3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer">1/350 British Royal Navy Jervis Destroyer resin Model Kit NEW！3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Royal Navy destroyer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Royal Navy destroyer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="uss-portland-how-portland-raised-the-target-bar-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -521,7 +521,7 @@ The importance of USS *Portland* lies less in any single shot than in the shift 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -541,7 +541,7 @@ The importance of USS *Portland* lies less in any single shot than in the shift 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -573,7 +573,7 @@ The importance of USS *Portland* lies less in any single shot than in the shift 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -625,7 +625,7 @@ The importance of USS *Portland* lies less in any single shot than in the shift 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -670,7 +670,7 @@ The importance of USS *Portland* lies less in any single shot than in the shift 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -711,176 +711,176 @@ The importance of USS *Portland* lies less in any single shot than in the shift 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: navy.mil  
    Title: uss portland conducts laser weapon system demonstrator test  
-   Link: <a href="https://www.navy.mil/Press-Office/News-Stories/Article/2283997/uss-portland-conducts-laser-weapon-system-demonstrator-test/" target="_blank" rel="noopener noreferrer nofollow">https://www.navy.mil/Press-Office/News-Stories/Article/2283997/uss-portland-conducts-laser-weapon-system-demonstrator-test/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Portland Conducts Laser Weapon System Demonstrator...22 May 2020 — Amphibious transport dock ship USS Portland (LPD 27) successfully...</p></details>
+   Link:<a href="https://www.navy.mil/Press-Office/News-Stories/Article/2283997/uss-portland-conducts-laser-weapon-system-demonstrator-test/" target="_blank" rel="noopener noreferrer nofollow">https://www.navy.mil/Press-Office/News-Stories/Article/2283997/uss-portland-conducts-laser-weapon-system-demonstrator-test/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Portland Conducts Laser Weapon System Demonstrator...22 May 2020 — Amphibious transport dock ship USS Portland (LPD 27) successfully...</p></details>
    Published: May 2020  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: navy.mil  
    Title: uss portland tests high energy laser weapon system in gulf of aden  
-   Link: <a href="https://www.navy.mil/Press-Office/News-Stories/display-news/Article/2873919/uss-portland-tests-high-energy-laser-weapon-system-in-gulf-of-aden/" target="_blank" rel="noopener noreferrer nofollow">https://www.navy.mil/Press-Office/News-Stories/display-news/Article/2873919/uss-portland-tests-high-energy-laser-weapon-system-in-gulf-of-aden/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Portland Tests High Energy Laser Weapon System in...15 Dec 2021 — Portland previously tested the LWSD in May 2020 when it successful...</p></details>
+   Link:<a href="https://www.navy.mil/Press-Office/News-Stories/display-news/Article/2873919/uss-portland-tests-high-energy-laser-weapon-system-in-gulf-of-aden/" target="_blank" rel="noopener noreferrer nofollow">https://www.navy.mil/Press-Office/News-Stories/display-news/Article/2873919/uss-portland-tests-high-energy-laser-weapon-system-in-gulf-of-aden/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Portland Tests High Energy Laser Weapon System in...15 Dec 2021 — Portland previously tested the LWSD in May 2020 when it successful...</p></details>
    Published: May 2020  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: navy.mil  
    Title: US S Portland Conducts Laser Weapon System Demonstrator  
-   Link: <a href="https://www.navy.mil/DesktopModules/ArticleCS/Print.aspx?Article=2283997&amp;ModuleId=523&amp;PortalId=1" target="_blank" rel="noopener noreferrer nofollow">https://www.navy.mil/DesktopModules/ArticleCS/Print.aspx?Article=2283997&amp;ModuleId=523&amp;PortalId=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Portland Conducts Laser Weapon System Demonstrator...May 22, 2020 — Amphibious transport dock ship USS Portland (LPD 27) successfull...</p></details>
+   Link:<a href="https://www.navy.mil/DesktopModules/ArticleCS/Print.aspx?Article=2283997&amp;ModuleId=523&amp;PortalId=1" target="_blank" rel="noopener noreferrer nofollow">https://www.navy.mil/DesktopModules/ArticleCS/Print.aspx?Article=2283997&amp;ModuleId=523&amp;PortalId=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Portland Conducts Laser Weapon System Demonstrator...May 22, 2020 — Amphibious transport dock ship USS Portland (LPD 27) successfull...</p></details>
    Published: May 22, 2020  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: news.usni.org  
-   Link: <a href="https://news.usni.org/2020/05/22/video-uss-portland-fires-laser-weapon-downs-drone-in-first-at-sea-test" target="_blank" rel="noopener noreferrer nofollow">https://news.usni.org/2020/05/22/video-uss-portland-fires-laser-weapon-downs-drone-in-first-at-sea-test</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USNI NewsVIDEO: USS Portland Fires Laser Weapon, Downs Drone in...Amphibious ship USS Portland (LPD-27) shot down a drone with a laser w...</p></details>
+   Link:<a href="https://news.usni.org/2020/05/22/video-uss-portland-fires-laser-weapon-downs-drone-in-first-at-sea-test" target="_blank" rel="noopener noreferrer nofollow">https://news.usni.org/2020/05/22/video-uss-portland-fires-laser-weapon-downs-drone-in-first-at-sea-test</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USNI NewsVIDEO: USS Portland Fires Laser Weapon, Downs Drone in...Amphibious ship USS Portland (LPD-27) shot down a drone with a laser w...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: military.com  
-   Link: <a href="https://www.military.com/daily-news/2020/05/26/amphibious-ship-obliterates-drone-laser-weapon-1st-its-kind-sea-test.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/2020/05/26/amphibious-ship-obliterates-drone-laser-weapon-1st-its-kind-sea-test.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Amphibious Ship Obliterates Drone with Laser Weapon in 1st-of-its...May 26, 2020 — The amphibious transport dock ship Portland &quot;successf...</p></details>
+   Link:<a href="https://www.military.com/daily-news/2020/05/26/amphibious-ship-obliterates-drone-laser-weapon-1st-its-kind-sea-test.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/2020/05/26/amphibious-ship-obliterates-drone-laser-weapon-1st-its-kind-sea-test.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amphibious Ship Obliterates Drone with Laser Weapon in 1st-of-its...May 26, 2020 — The amphibious transport dock ship Portland &quot;successf...</p></details>
    Published: May 26, 2020  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: militaryembedded.com  
    Title: Laser Weapon System Demonstrator tested by U.S  
-   Link: <a href="https://militaryembedded.com/radar-ew/test/laser-weapon-system-demonstrator-tested-by-u-s-navy" target="_blank" rel="noopener noreferrer nofollow">https://militaryembedded.com/radar-ew/test/laser-weapon-system-demonstrator-tested-by-u-s-navy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NavyLWSD is a high-energy laser weapon system demonstrator developed by the Office of Naval Research and installed on Portland for an at...</p></details>
+   Link:<a href="https://militaryembedded.com/radar-ew/test/laser-weapon-system-demonstrator-tested-by-u-s-navy" target="_blank" rel="noopener noreferrer nofollow">https://militaryembedded.com/radar-ew/test/laser-weapon-system-demonstrator-tested-by-u-s-navy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NavyLWSD is a high-energy laser weapon system demonstrator developed by the Office of Naval Research and installed on Portland for an at...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: navy.mil  
    Title: uss portland tests high energy laser weapon system in gulf of aden  
-   Link: <a href="https://www.navy.mil/Press-Office/News-Stories/Article/2873919/uss-portland-tests-high-energy-laser-weapon-system-in-gulf-of-aden/" target="_blank" rel="noopener noreferrer nofollow">https://www.navy.mil/Press-Office/News-Stories/Article/2873919/uss-portland-tests-high-energy-laser-weapon-system-in-gulf-of-aden/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Portland Tests High Energy Laser Weapon System in...Dec 15, 2021 — Portland previously tested the LWSD in May 2020 when it successfu...</p></details>
+   Link:<a href="https://www.navy.mil/Press-Office/News-Stories/Article/2873919/uss-portland-tests-high-energy-laser-weapon-system-in-gulf-of-aden/" target="_blank" rel="noopener noreferrer nofollow">https://www.navy.mil/Press-Office/News-Stories/Article/2873919/uss-portland-tests-high-energy-laser-weapon-system-in-gulf-of-aden/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Portland Tests High Energy Laser Weapon System in...Dec 15, 2021 — Portland previously tested the LWSD in May 2020 when it successfu...</p></details>
    Published: May 2020  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: navy.mil  
-   Link: <a href="https://www.navy.mil/DesktopModules/ArticleCS/Print.aspx?Article=2998829&amp;ModuleId=523&amp;PortalId=1" target="_blank" rel="noopener noreferrer nofollow">https://www.navy.mil/DesktopModules/ArticleCS/Print.aspx?Article=2998829&amp;ModuleId=523&amp;PortalId=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Conducts Historic Test of New Laser Weapon System13 Apr 2022 — The February demonstration marked the first time the US Navy used an...</p></details>
+   Link:<a href="https://www.navy.mil/DesktopModules/ArticleCS/Print.aspx?Article=2998829&amp;ModuleId=523&amp;PortalId=1" target="_blank" rel="noopener noreferrer nofollow">https://www.navy.mil/DesktopModules/ArticleCS/Print.aspx?Article=2998829&amp;ModuleId=523&amp;PortalId=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Conducts Historic Test of New Laser Weapon System13 Apr 2022 — The February demonstration marked the first time the US Navy used an...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cusnc.navy.mil  
-   Link: <a href="https://www.cusnc.navy.mil/Media/Photos/igphoto/2002909410/" target="_blank" rel="noopener noreferrer nofollow">https://www.cusnc.navy.mil/Media/Photos/igphoto/2002909410/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>navy.mil211214-M-HB658-1322 - U.S. Naval Forces Central CommandAmphibious transport dock ship USS Portland (LPD 27) conducts a high-energ...</p></details>
+   Link:<a href="https://www.cusnc.navy.mil/Media/Photos/igphoto/2002909410/" target="_blank" rel="noopener noreferrer nofollow">https://www.cusnc.navy.mil/Media/Photos/igphoto/2002909410/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>navy.mil211214-M-HB658-1322 - U.S. Naval Forces Central CommandAmphibious transport dock ship USS Portland (LPD 27) conducts a high-energ...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cusnc.navy.mil  
-   Link: <a href="https://www.cusnc.navy.mil/Media/Photos/igphoto/2002909411/" target="_blank" rel="noopener noreferrer nofollow">https://www.cusnc.navy.mil/Media/Photos/igphoto/2002909411/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>navy.mil211214-N-VQ947-1041 - U.S. Naval Forces Central CommandSailors aboard Amphibious transport dock ship USS Portland (LPD 27) observ...</p></details>
+   Link:<a href="https://www.cusnc.navy.mil/Media/Photos/igphoto/2002909411/" target="_blank" rel="noopener noreferrer nofollow">https://www.cusnc.navy.mil/Media/Photos/igphoto/2002909411/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>navy.mil211214-N-VQ947-1041 - U.S. Naval Forces Central CommandSailors aboard Amphibious transport dock ship USS Portland (LPD 27) observ...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cusnc.navy.mil  
-   Link: <a href="https://www.cusnc.navy.mil/Media/Photos/igphoto/2002909409/" target="_blank" rel="noopener noreferrer nofollow">https://www.cusnc.navy.mil/Media/Photos/igphoto/2002909409/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>navy.mil211214-M-HB658-1063 - U.S. Naval Forces Central CommandUSS Portland Tests High Energy Laser Weapon System in Gulf of Aden... Por...</p></details>
+   Link:<a href="https://www.cusnc.navy.mil/Media/Photos/igphoto/2002909409/" target="_blank" rel="noopener noreferrer nofollow">https://www.cusnc.navy.mil/Media/Photos/igphoto/2002909409/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>navy.mil211214-M-HB658-1063 - U.S. Naval Forces Central CommandUSS Portland Tests High Energy Laser Weapon System in Gulf of Aden... Por...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: navy.mil  
    Title: uss portland conducts laser weapon system demonstrator test  
-   Link: <a href="https://www.navy.mil/Press-Office/News-Stories/display-news/Article/2283997/uss-portland-conducts-laser-weapon-system-demonstrator-test/" target="_blank" rel="noopener noreferrer nofollow">https://www.navy.mil/Press-Office/News-Stories/display-news/Article/2283997/uss-portland-conducts-laser-weapon-system-demonstrator-test/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Portland Conducts Laser Weapon System Demonstrator...22 May 2020 — Amphibious transport dock ship USS Portland (LPD 27) successfully...</p></details>
+   Link:<a href="https://www.navy.mil/Press-Office/News-Stories/display-news/Article/2283997/uss-portland-conducts-laser-weapon-system-demonstrator-test/" target="_blank" rel="noopener noreferrer nofollow">https://www.navy.mil/Press-Office/News-Stories/display-news/Article/2283997/uss-portland-conducts-laser-weapon-system-demonstrator-test/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Portland Conducts Laser Weapon System Demonstrator...22 May 2020 — Amphibious transport dock ship USS Portland (LPD 27) successfully...</p></details>
    Published: May 2020  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: popularmechanics.com  
    Title: The Laser Weapon System (La WS), deployed  
-   Link: <a href="https://www.popularmechanics.com/military/navy-ships/a32676643/[navy-laser" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/navy-ships/a32676643/[navy-laser</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular MechanicsThe Navy Just Tested Its Most Powerful Laser YetMay 27, 2020 — LWSD has an output of 150 kilowatts, making it up to five...</p></details>
+   Link:<a href="https://www.popularmechanics.com/military/navy-ships/a32676643/[navy-laser" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/navy-ships/a32676643/[navy-laser</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Popular MechanicsThe Navy Just Tested Its Most Powerful Laser YetMay 27, 2020 — LWSD has an output of 150 kilowatts, making it up to five...</p></details>
    Published: May 27, 2020  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: thedefensepost.com  
    Title: us navy test fires laser weapon  
-   Link: <a href="https://thedefensepost.com/2021/12/16/us-navy-test-fires-laser-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://thedefensepost.com/2021/12/16/us-navy-test-fires-laser-weapon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Defense PostUS Navy Test-Fires &#x27;Most Potent&#x27; Laser Weapon SystemDec 16, 2021 — The 150-kilowatt Solid State Laser – Technology Matura...</p></details>
+   Link:<a href="https://thedefensepost.com/2021/12/16/us-navy-test-fires-laser-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://thedefensepost.com/2021/12/16/us-navy-test-fires-laser-weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Defense PostUS Navy Test-Fires &#x27;Most Potent&#x27; Laser Weapon SystemDec 16, 2021 — The 150-kilowatt Solid State Laser – Technology Matura...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: dvidshub.net  
    Title: uss portland conducts laser weapon system demonstrator test  
-   Link: <a href="https://www.dvidshub.net/news/370671/uss-portland-conducts-laser-weapon-system-demonstrator-test" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/370671/uss-portland-conducts-laser-weapon-system-demonstrator-test</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DVIDSUSS Portland conducts Laser Weapon System...22 May 2020 — LWSD is a high-energy laser weapon system demonstrator developed by the O...</p></details>
+   Link:<a href="https://www.dvidshub.net/news/370671/uss-portland-conducts-laser-weapon-system-demonstrator-test" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/370671/uss-portland-conducts-laser-weapon-system-demonstrator-test</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DVIDSUSS Portland conducts Laser Weapon System...22 May 2020 — LWSD is a high-energy laser weapon system demonstrator developed by the O...</p></details>
    Published: May 2020  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: seapowermagazine.org  
-   Link: <a href="https://seapowermagazine.org/northrop-grumman-laser-weapon-system-completes-[deployment" target="_blank" rel="noopener noreferrer nofollow">https://seapowermagazine.org/northrop-grumman-laser-weapon-system-completes-[deployment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SeapowerNorthrop Grumman Laser Weapon System Completes...The 150-kilowatt LWSD is mounted on the superstructure of the Portland and is i...</p></details>
+   Link:<a href="https://seapowermagazine.org/northrop-grumman-laser-weapon-system-completes-[deployment" target="_blank" rel="noopener noreferrer nofollow">https://seapowermagazine.org/northrop-grumman-laser-weapon-system-completes-[deployment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SeapowerNorthrop Grumman Laser Weapon System Completes...The 150-kilowatt LWSD is mounted on the superstructure of the Portland and is i...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: seapowermagazine.org  
    Title: northrop grumman laser weapon system completes deployment on uss portland  
-   Link: <a href="https://seapowermagazine.org/northrop-grumman-laser-weapon-system-completes-deployment-on-uss-portland/" target="_blank" rel="noopener noreferrer nofollow">https://seapowermagazine.org/northrop-grumman-laser-weapon-system-completes-deployment-on-uss-portland/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SeapowerNorthrop Grumman Laser Weapon System Completes...Apr 6, 2022 — The Laser Weapon System Demonstrator deployed on the US Navy&#x27;s am...</p></details>
+   Link:<a href="https://seapowermagazine.org/northrop-grumman-laser-weapon-system-completes-deployment-on-uss-portland/" target="_blank" rel="noopener noreferrer nofollow">https://seapowermagazine.org/northrop-grumman-laser-weapon-system-completes-deployment-on-uss-portland/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SeapowerNorthrop Grumman Laser Weapon System Completes...Apr 6, 2022 — The Laser Weapon System Demonstrator deployed on the US Navy&#x27;s am...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: popularmechanics.com  
    Title: Navy Revives 150-k W Laser, Giving the U.S  
-   Link: <a href="https://www.popularmechanics.com/military/weapons/a71184879/[drone-swarm" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/weapons/a71184879/[drone-swarm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a Crucial Edge1 day ago — The U.S. Navy recently rebooted the SSL-TM, a 150-kilowatt laser weapon aboard the USS Portland. This returned...</p></details>
+   Link:<a href="https://www.popularmechanics.com/military/weapons/a71184879/[drone-swarm" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/weapons/a71184879/[drone-swarm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a Crucial Edge1 day ago — The U.S. Navy recently rebooted the SSL-TM, a 150-kilowatt laser weapon aboard the USS Portland. This returned...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/753776/uss-portland-lpd-27-tests-lwsd" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/753776/uss-portland-lpd-27-tests-lwsd</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Portland (LPD 27) tests LWSDAmphibious transport dock ship USS Portland (LPD 27) successfully disabled an unmanned aerial vehicle (UA...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/753776/uss-portland-lpd-27-tests-lwsd" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/753776/uss-portland-lpd-27-tests-lwsd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Portland (LPD 27) tests LWSDAmphibious transport dock ship USS Portland (LPD 27) successfully disabled an unmanned aerial vehicle (UA...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: photonics.com  
-   Link: <a href="https://www.photonics.com/Articles/Navy-Tests-Solid-State-Laser-Weapon-in-Gulf-of/a67608" target="_blank" rel="noopener noreferrer nofollow">https://www.photonics.com/Articles/Navy-Tests-Solid-State-Laser-Weapon-in-Gulf-of/a67608</a>  
+   Link:<a href="https://www.photonics.com/Articles/Navy-Tests-Solid-State-Laser-Weapon-in-Gulf-of/a67608" target="_blank" rel="noopener noreferrer nofollow">https://www.photonics.com/Articles/Navy-Tests-Solid-State-Laser-Weapon-in-Gulf-of/a67608</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: twz.com  
-   Link: <a href="https://www.twz.com/43521/uss-portland-uses-its-experimental-laser-to-fry-a-floating-target-in-the-middle-east" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/43521/uss-portland-uses-its-experimental-laser-to-fry-a-floating-target-in-the-middle-east</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneUSS Portland Uses Its Experimental Laser To Fry A...Dec 15, 2021 — The amphibious warship Portland has the most powerful las...</p></details>
+   Link:<a href="https://www.twz.com/43521/uss-portland-uses-its-experimental-laser-to-fry-a-floating-target-in-the-middle-east" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/43521/uss-portland-uses-its-experimental-laser-to-fry-a-floating-target-in-the-middle-east</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneUSS Portland Uses Its Experimental Laser To Fry A...Dec 15, 2021 — The amphibious warship Portland has the most powerful las...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=IrDu6k3me8U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IrDu6k3me8U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Portland conducts a high-energy laser weapon system...A U.S. Navy warship operating in the gulf of aden successfully fired on a floa...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IrDu6k3me8U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IrDu6k3me8U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Portland conducts a high-energy laser weapon system...A U.S. Navy warship operating in the gulf of aden successfully fired on a floa...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: laserwars.net  
    Title: navy solid state laser technology maturation demonstrator crimson dragon  
-   Link: <a href="https://www.laserwars.net/p/navy-solid-state-laser-technology-maturation-demonstrator-crimson-dragon" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/navy-solid-state-laser-technology-maturation-demonstrator-crimson-dragon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Navy Brought a &#x27;One-of-a-Kind&#x27; Laser Weapon Back...30 Mar 2026 — The US Navy spend six months restoring its 150 kilowatt Solid State...</p></details>
+   Link:<a href="https://www.laserwars.net/p/navy-solid-state-laser-technology-maturation-demonstrator-crimson-dragon" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/navy-solid-state-laser-technology-maturation-demonstrator-crimson-dragon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Navy Brought a &#x27;One-of-a-Kind&#x27; Laser Weapon Back...30 Mar 2026 — The US Navy spend six months restoring its 150 kilowatt Solid State...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: defencereviewasia.com  
    Title: video uss portland conducts laser weapon system demonstrator test  
-   Link: <a href="https://defencereviewasia.com/video-uss-portland-conducts-laser-weapon-system-demonstrator-test/" target="_blank" rel="noopener noreferrer nofollow">https://defencereviewasia.com/video-uss-portland-conducts-laser-weapon-system-demonstrator-test/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Portland conducts Laser Weapon System...27 May 2020 — LWSD is a high-energy laser weapon system demonstrator developed by the Office...</p></details>
+   Link:<a href="https://defencereviewasia.com/video-uss-portland-conducts-laser-weapon-system-demonstrator-test/" target="_blank" rel="noopener noreferrer nofollow">https://defencereviewasia.com/video-uss-portland-conducts-laser-weapon-system-demonstrator-test/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Portland conducts Laser Weapon System...27 May 2020 — LWSD is a high-energy laser weapon system demonstrator developed by the Office...</p></details>
    Published: May 2020  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: twz.com  
-   Link: <a href="https://www.twz.com/33634/the-amphibious-warship-uss-portland-has-shot-down-a-drone-with-its-new-high-power-laser" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/33634/the-amphibious-warship-uss-portland-has-shot-down-a-drone-with-its-new-high-power-laser</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneThe Amphibious Warship USS Portland Has Shot Down A...May 22, 2020 — Being in the 150-kilowatt class, the new laser weapon i...</p></details>
+   Link:<a href="https://www.twz.com/33634/the-amphibious-warship-uss-portland-has-shot-down-a-drone-with-its-new-high-power-laser" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/33634/the-amphibious-warship-uss-portland-has-shot-down-a-drone-with-its-new-high-power-laser</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneThe Amphibious Warship USS Portland Has Shot Down A...May 22, 2020 — Being in the 150-kilowatt class, the new laser weapon i...</p></details>
    Published: May 22, 2020  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: fastcompany.com  
-   Link: <a href="https://www.fastcompany.com/91520550/the-navy-brought-a-retired-laser-weapon-back-for-a-new-drone-fight" target="_blank" rel="noopener noreferrer nofollow">https://www.fastcompany.com/91520550/the-navy-brought-a-retired-laser-weapon-back-for-a-new-drone-fight</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Navy brought a retired laser weapon back for a new...Apr 3, 2026 — The SSL-TM demonstrator appears to have performed as advertised...</p></details>
+   Link:<a href="https://www.fastcompany.com/91520550/the-navy-brought-a-retired-laser-weapon-back-for-a-new-drone-fight" target="_blank" rel="noopener noreferrer nofollow">https://www.fastcompany.com/91520550/the-navy-brought-a-retired-laser-weapon-back-for-a-new-drone-fight</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Navy brought a retired laser weapon back for a new...Apr 3, 2026 — The SSL-TM demonstrator appears to have performed as advertised...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: maritime-executive.com  
    Title: u s navy accelerates investment in laser weapons systems  
-   Link: <a href="https://maritime-executive.com/index.php/article/u-s-navy-accelerates-investment-in-laser-weapons-systems" target="_blank" rel="noopener noreferrer nofollow">https://maritime-executive.com/index.php/article/u-s-navy-accelerates-investment-in-laser-weapons-systems</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Accelerates Investment in Laser Weapons...Portland previously tested the LWSD in May 2020, when she disabled a small unmanned aircr...</p></details>
+   Link:<a href="https://maritime-executive.com/index.php/article/u-s-navy-accelerates-investment-in-laser-weapons-systems" target="_blank" rel="noopener noreferrer nofollow">https://maritime-executive.com/index.php/article/u-s-navy-accelerates-investment-in-laser-weapons-systems</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Accelerates Investment in Laser Weapons...Portland previously tested the LWSD in May 2020, when she disabled a small unmanned aircr...</p></details>
    Published: May 2020  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: starconcord.com.sg  
    Title: u s navy accelerates investment in laser weapons systems  
-   Link: <a href="https://starconcord.com.sg/u-s-navy-accelerates-investment-in-laser-weapons-systems/" target="_blank" rel="noopener noreferrer nofollow">https://starconcord.com.sg/u-s-navy-accelerates-investment-in-laser-weapons-systems/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Accelerates Investment in Laser Weapons...15 Dec 2021 — On Tuesday, the amphib USS Portland successfully tested a high-energy laser...</p></details>
+   Link:<a href="https://starconcord.com.sg/u-s-navy-accelerates-investment-in-laser-weapons-systems/" target="_blank" rel="noopener noreferrer nofollow">https://starconcord.com.sg/u-s-navy-accelerates-investment-in-laser-weapons-systems/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Accelerates Investment in Laser Weapons...15 Dec 2021 — On Tuesday, the amphib USS Portland successfully tested a high-energy laser...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: gizmodo.com  
    Title: u s navy tests laser weapon in middle east 1848218592  
-   Link: <a href="https://gizmodo.com/u-s-navy-tests-laser-weapon-in-middle-east-1848218592" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/u-s-navy-tests-laser-weapon-in-middle-east-1848218592</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Tests Laser Weapon in Middle EastDec 15, 2021 — “Portland previously tested the LWSD in May 2020 when it successfully disabled a sma...</p></details>
+   Link:<a href="https://gizmodo.com/u-s-navy-tests-laser-weapon-in-middle-east-1848218592" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/u-s-navy-tests-laser-weapon-in-middle-east-1848218592</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Tests Laser Weapon in Middle EastDec 15, 2021 — “Portland previously tested the LWSD in May 2020 when it successfully disabled a sma...</p></details>
    Published: May 2020  

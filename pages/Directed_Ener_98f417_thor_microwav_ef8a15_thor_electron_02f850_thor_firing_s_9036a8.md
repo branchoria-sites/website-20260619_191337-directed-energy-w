@@ -275,15 +275,15 @@ image: /assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_electron_02
 
 ## Introduction
 
-THOR was designed to protect airbases from drone swarms, but an airbase is one of the most crowded electromagnetic environments in military operations. Aircraft, maintenance facilities, communications networks, navigation systems, radar installations and command centres often operate within a relatively small area. As a result, THOR cannot simply be pointed in any direction whenever a threat appears. Its microwave beam must be employed within carefully planned firing sectors that define where engagements are permitted and where they are prohibited. The purpose is not merely operator convenience; it is to ensure that [counter-drone]({{ 'missile-savings/' | relative_url }}) operations do not create unacceptable risks to friendly aircraft, mission-critical electronics or personnel. THOR's wide-beam, high-power microwave design makes these [sector controls]({{ 'sector-control/' | relative_url }}) especially important because the system is intended to affect electronics across an area rather than a single point target. Air Force Research Laboratory+2Air Force Research Laboratory <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[afrl.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — “THOR was exceptionally effective a...</span><span class="citation-popover-meta">Published: May 16, 2023</span></span></span>
+THOR was designed to protect airbases from drone swarms, but an airbase is one of the most crowded electromagnetic environments in military operations. Aircraft, maintenance facilities, communications networks, navigation systems, radar installations and command centres often operate within a relatively small area. As a result, THOR cannot simply be pointed in any direction whenever a threat appears. Its microwave beam must be employed within carefully planned firing sectors that define where engagements are permitted and where they are prohibited. The purpose is not merely operator convenience; it is to ensure that [counter-drone]({{ 'missile-savings/' | relative_url }}) operations do not create unacceptable risks to friendly aircraft, mission-critical electronics or personnel. THOR's wide-beam, high-power microwave design makes these [sector controls]({{ 'sector-control/' | relative_url }}) especially important because the system is intended to affect electronics across an area rather than a single point target. Air Force Research Laboratory+2Air Force Research Laboratory<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[afrl.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — “THOR was exceptionally effective a...</span><span class="citation-popover-meta">Published: May 16, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_electron_02f850_thor_firing_s_9036a8-Illustration-1-dark.svg" | relative_url }}" alt="Firing Sectors illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_electron_02f850_thor_firing_s_9036a8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_electron_02f850_thor_firing_s_9036a8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why THOR Cannot Fire Everywhere
 
-[THOR]({{ 'thor/' | relative_url }}) is fundamentally an airbase-defence system. The Air Force Research Laboratory developed it specifically to counter multiple drones approaching a protected site, and public demonstrations have highlighted its ability to engage groups of drones using a broad microwave effect rather than a narrowly focused kinetic interceptor. Air Force Research Laboratory+2The War Zone <span class="citation-link-wrap"><a class="citation-inline-link" href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afresearchlab.com">[afresearchlab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afresearchlab.com</span><span class="citation-popover-snippet">Photo credit: AFRL Directed Energy Directorate.Read more...</span></span></span>
+[THOR]({{ 'thor/' | relative_url }}) is fundamentally an airbase-defence system. The Air Force Research Laboratory developed it specifically to counter multiple drones approaching a protected site, and public demonstrations have highlighted its ability to engage groups of drones using a broad microwave effect rather than a narrowly focused kinetic interceptor. Air Force Research Laboratory+2The War Zone<span class="citation-link-wrap"><a class="citation-inline-link" href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afresearchlab.com">[afresearchlab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afresearchlab.com</span><span class="citation-popover-snippet">Photo credit: AFRL Directed Energy Directorate.Read more...</span></span></span>
 
-That same characteristic creates an implementation challenge. A conventional gun or missile system primarily raises concerns along a physical trajectory. A high-power microwave weapon introduces electromagnetic considerations as well. Modern aircraft contain dense avionics suites, data buses, communications systems and sensors. Airbases also rely on fixed electronic infrastructure that cannot simply be shut down whenever a drone threat appears. High-power microwave systems are specifically intended to disrupt or disable electronics by coupling energy into vulnerable circuits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.inzpire.com/news/high-power-microwaves-more-than-just-a-hot-lunch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inzpire.com">[Inzpire+2Office of Naval Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inzpire.com</span><span class="citation-popover-title">high power microwaves more than just a hot lunch</span><span class="citation-popover-snippet">High power microwaves – more than just a hot lunch!3 Mar 2025 — High-power microwaves are an emerging class of directed energy wea...</span></span></span>
+That same characteristic creates an implementation challenge. A conventional gun or missile system primarily raises concerns along a physical trajectory. A high-power microwave weapon introduces electromagnetic considerations as well. Modern aircraft contain dense avionics suites, data buses, communications systems and sensors. Airbases also rely on fixed electronic infrastructure that cannot simply be shut down whenever a drone threat appears. High-power microwave systems are specifically intended to disrupt or disable electronics by coupling energy into vulnerable circuits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.inzpire.com/news/high-power-microwaves-more-than-just-a-hot-lunch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inzpire.com">[Inzpire+2Office of Naval Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inzpire.com</span><span class="citation-popover-title">high power microwaves more than just a hot lunch</span><span class="citation-popover-snippet">High power microwaves – more than just a hot lunch!3 Mar 2025 — High-power microwaves are an emerging class of directed energy wea...</span></span></span>
 
 For this reason, airbase operators need approved engagement directions rather than unrestricted 360-degree firing. A safe direction for engaging an incoming [drone swarm]({{ 'swarm-limits/' | relative_url }}) may be one that points away from parked aircraft, maintenance hangars, air-traffic facilities or communications nodes. The result is a map of authorised sectors and prohibited sectors rather than a simple rule allowing engagement in any direction.
 
@@ -310,7 +310,7 @@ Controlled firing sectors therefore combine several layers of restriction:
 
 The distinction matters because airbases are dynamic. A sector that is safe during one period may become restricted when aircraft are being refuelled, tested or repaired. Sector management therefore becomes part of routine base operations rather than a one-time engineering calculation.
 
-This approach mirrors broader electromagnetic compatibility practices used around military systems. The objective is not simply preventing personnel exposure but ensuring that critical equipment continues operating as intended while the counter-drone system remains available for defence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.inzpire.com/news/high-power-microwaves-more-than-just-a-hot-lunch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inzpire.com">[Inzpire+2Office of Naval Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inzpire.com</span><span class="citation-popover-title">high power microwaves more than just a hot lunch</span><span class="citation-popover-snippet">High power microwaves – more than just a hot lunch!3 Mar 2025 — High-power microwaves are an emerging class of directed energy wea...</span></span></span>
+This approach mirrors broader electromagnetic compatibility practices used around military systems. The objective is not simply preventing personnel exposure but ensuring that critical equipment continues operating as intended while the counter-drone system remains available for defence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.inzpire.com/news/high-power-microwaves-more-than-just-a-hot-lunch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inzpire.com">[Inzpire+2Office of Naval Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inzpire.com</span><span class="citation-popover-title">high power microwaves more than just a hot lunch</span><span class="citation-popover-snippet">High power microwaves – more than just a hot lunch!3 Mar 2025 — High-power microwaves are an emerging class of directed energy wea...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QjHGxKb6W1c" title="THOR (Tactical High-power Operational Responder) Destroys Swarms of Enemy Drones" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QjHGxKb6W1c" target="_blank" rel="noopener noreferrer">THOR (Tactical High-power Operational Responder) Destroys Swarms of Enemy Drones</a></p><p class="youtube-embed-meta">Channel: AFResearchLab</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QjHGxKb6W1c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QjHGxKb6W1c">Open on YouTube</a></p></div></div></div>
@@ -319,7 +319,7 @@ This approach mirrors broader electromagnetic compatibility practices used aroun
 
 Aircraft are the most obvious reason for sector control. Modern military aircraft contain extensive electronic systems that are essential for navigation, communications, mission management and flight operations. Even when an aircraft is parked, technicians may be conducting diagnostics, software updates or maintenance procedures involving sensitive equipment.
 
-Because THOR is intended to create electronic effects, operators cannot assume that a parked aircraft is an acceptable background object. Airbases therefore have strong incentives to keep microwave engagement paths separated from aircraft parking aprons, maintenance ramps and hangars whenever possible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.inzpire.com/news/high-power-microwaves-more-than-just-a-hot-lunch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inzpire.com">[Inzpire+2Air University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inzpire.com</span><span class="citation-popover-title">high power microwaves more than just a hot lunch</span><span class="citation-popover-snippet">High power microwaves – more than just a hot lunch!3 Mar 2025 — High-power microwaves are an emerging class of directed energy wea...</span></span></span>
+Because THOR is intended to create electronic effects, operators cannot assume that a parked aircraft is an acceptable background object. Airbases therefore have strong incentives to keep microwave engagement paths separated from aircraft parking aprons, maintenance ramps and hangars whenever possible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.inzpire.com/news/high-power-microwaves-more-than-just-a-hot-lunch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inzpire.com">[Inzpire+2Air University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inzpire.com</span><span class="citation-popover-title">high power microwaves more than just a hot lunch</span><span class="citation-popover-snippet">High power microwaves – more than just a hot lunch!3 Mar 2025 — High-power microwaves are an emerging class of directed energy wea...</span></span></span>
 
 Ground operations create similar constraints. Airfields contain:
 
@@ -337,7 +337,7 @@ Ground operations create similar constraints. Airfields contain:
 
 Many of these functions must continue during a drone attack. A defensive system that inadvertently disrupts friendly operations could reduce the base's ability to respond to the threat. Controlled sectors therefore help separate the engagement volume from the electronic infrastructure that the base depends upon.
 
-The issue is particularly significant because THOR's role is point defence. Public descriptions consistently place it in the short-range [defence layer]({{ 'defence-layer/' | relative_url }}) protecting bases from approaching drone swarms. That means engagements occur close to the defended installation rather than far away from friendly assets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twz.com/thor-microwave-anti-drone-system-downs-swarms-in-test" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone+2Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">thor microwave anti drone system downs swarms in test</span><span class="citation-popover-snippet">The War ZoneTHOR Microwave Anti-Drone System Downs Swarms In Test19 May 2023 — The demonstration pitted the service&#x27;s high-power microwav...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+The issue is particularly significant because THOR's role is point defence. Public descriptions consistently place it in the short-range [defence layer]({{ 'defence-layer/' | relative_url }}) protecting bases from approaching drone swarms. That means engagements occur close to the defended installation rather than far away from friendly assets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twz.com/thor-microwave-anti-drone-system-downs-swarms-in-test" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone+2Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">thor microwave anti drone system downs swarms in test</span><span class="citation-popover-snippet">The War ZoneTHOR Microwave Anti-Drone System Downs Swarms In Test19 May 2023 — The demonstration pitted the service&#x27;s high-power microwav...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_electron_02f850_thor_firing_s_9036a8-Illustration-2-dark.svg" | relative_url }}" alt="Firing Sectors illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_electron_02f850_thor_firing_s_9036a8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_electron_02f850_thor_firing_s_9036a8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -357,7 +357,7 @@ This can influence several operational decisions:
 
 **Layered defence integration.** Threats approaching through restricted sectors may require alternative counter-drone measures if microwave employment would create excessive risk.
 
-The fact that THOR uses a gimballed system capable of tracking and engaging targets does not eliminate these constraints. Public demonstrations have emphasised the weapon's ability to aim rapidly and affect multiple drones, but the question on an operational airfield is not simply whether the target can be tracked. It is whether the engagement direction is compatible with the base's safety and electromagnetic-control plan. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[Air Force Research Laboratory+2Unmanned Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — “THOR was exceptionally effective a...</span><span class="citation-popover-meta">Published: May 16, 2023</span></span></span>
+The fact that THOR uses a gimballed system capable of tracking and engaging targets does not eliminate these constraints. Public demonstrations have emphasised the weapon's ability to aim rapidly and affect multiple drones, but the question on an operational airfield is not simply whether the target can be tracked. It is whether the engagement direction is compatible with the base's safety and electromagnetic-control plan.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[Air Force Research Laboratory+2Unmanned Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — “THOR was exceptionally effective a...</span><span class="citation-popover-meta">Published: May 16, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JGzL3fZgPZY" title="Laser and Microwave Weapons - Directed-Energy Weapon Programs, Potential, and Issues" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JGzL3fZgPZY" target="_blank" rel="noopener noreferrer">Laser and Microwave Weapons - Directed-Energy Weapon Programs, Potential, and Issues</a></p><p class="youtube-embed-meta">Channel: Perun</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JGzL3fZgPZY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JGzL3fZgPZY">Open on YouTube</a></p></div></div></div>
@@ -368,200 +368,200 @@ At first glance, restricting where THOR can fire may appear to reduce its useful
 
 Without sector management, commanders would face uncertainty about the effects of high-power microwave engagements near aircraft, maintenance facilities and critical infrastructure. By defining approved engagement directions, protected areas and temporary operational restrictions, airbases can integrate THOR into daily operations while preserving the systems they are defending.
 
-The result is a defence posture in which the weapon's wide-area counter-electronics capability remains available against drone swarms, but only within carefully managed corridors that balance effectiveness against the need to protect friendly aircraft, electronics and ongoing airfield operations. epirusinc.com+3Air Force Research Laboratory+3Inzpire <span class="citation-link-wrap"><a class="citation-inline-link" href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afresearchlab.com">[afresearchlab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afresearchlab.com</span><span class="citation-popover-snippet">Photo credit: AFRL Directed Energy Directorate.Read more...</span></span></span>
+The result is a defence posture in which the weapon's wide-area counter-electronics capability remains available against drone swarms, but only within carefully managed corridors that balance effectiveness against the need to protect friendly aircraft, electronics and ongoing airfield operations. epirusinc.com+3Air Force Research Laboratory+3Inzpire<span class="citation-link-wrap"><a class="citation-inline-link" href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afresearchlab.com">[afresearchlab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afresearchlab.com</span><span class="citation-popover-snippet">Photo credit: AFRL Directed Energy Directorate.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_electron_02f850_thor_firing_s_9036a8-Illustration-3-dark.svg" | relative_url }}" alt="Firing Sectors illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_electron_02f850_thor_firing_s_9036a8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_electron_02f850_thor_firing_s_9036a8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why THOR Cannot Fire Everywhere. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why THOR Cannot Fire Everywhere. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Air+base+defense+in+the+Republic+of+Vietnam%2C+1961-1973+Roger+P.+Fox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Air base defense in the Republic of Vietnam, 1961-1973 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1762443-M.jpg" alt="Cover for Air base defense in the Republic of Vietnam, 1961-1973" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Air+base+defense+in+the+Republic+of+Vietnam%2C+1961-1973+Roger+P.+Fox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Air base defense in the Republic of Vietnam, 1961-1973">Air base defense in the Republic of Vietnam, 1961-1973</a>
-        </h4>
-        <p class="fr-book-author">By Roger P. Fox</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Air+base+defense+in+the+Republic+of+Vietnam%2C+1961-1973+Roger+P.+Fox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Air base defense in the Republic of Vietnam, 1961-1973 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1762443-M.jpg" alt="Cover for Air base defense in the Republic of Vietnam," loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Air+base+defense+in+the+Republic+of+Vietnam%2C+1961-1973+Roger+P.+Fox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Air base defense in the Republic of Vietnam,">Air base defense in the Republic of Vietnam,</a>
+</h4>
+<p class="fr-book-author">By Roger P. Fox</p>
         
-        <p class="fr-book-desc">First published 1979. Subjects: Aerial operations, Air bases, American Air bases, History, United States.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Air+base+defense+in+the+Republic+of+Vietnam%2C+1961-1973+Roger+P.+Fox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1979. Subjects: Aerial operations, Air bases, American Air bases, History, United States.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Air+base+defense+in+the+Republic+of+Vietnam%2C+1961-1973+Roger+P.+Fox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Electronic+Defense+Systems+Filippo+Neri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Electronic Defense Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1646840-M.jpg" alt="Cover for Introduction to Electronic Defense Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Electronic+Defense+Systems+Filippo+Neri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Electronic Defense Systems">Introduction to Electronic Defense Systems</a>
-        </h4>
-        <p class="fr-book-author">By Filippo Neri</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Electronic+Defense+Systems+Filippo+Neri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Electronic Defense Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1646840-M.jpg" alt="Cover for Introduction to Electronic Defense Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Electronic+Defense+Systems+Filippo+Neri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Electronic Defense Systems">Introduction to Electronic Defense Systems</a>
+</h4>
+<p class="fr-book-author">By Filippo Neri</p>
         
-        <p class="fr-book-desc">First published 1991. Subjects: Electronics in military engineering.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Electronic+Defense+Systems+Filippo+Neri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1991. Subjects: Electronics in military engineering.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Electronic+Defense+Systems+Filippo+Neri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
-        </h4>
-        <p class="fr-book-author">By Bahman Zohuri</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
+</h4>
+<p class="fr-book-author">By Bahman Zohuri</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies%2C+Applications+and+Impacts+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons: Technologies, Applications and Impacts on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies%2C+Applications+and+Impacts+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons: Technologies, Applications and Impacts">Directed Energy Weapons: Technologies, Applications and Impacts</a>
-        </h4>
-        <p class="fr-book-author">By Bahman Zohuri</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies%2C+Applications+and+Impacts+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons: Technologies, Applications and Impacts on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies%2C+Applications+and+Impacts+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons: Technologies, Applications and Impacts">Directed Energy Weapons: Technologies, Applications and Impacts</a>
+</h4>
+<p class="fr-book-author">By Bahman Zohuri</p>
         
-        <p class="fr-book-desc">Relevant to firing envelopes and operational limitations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies%2C+Applications+and+Impacts+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to firing envelopes and operational limitations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies%2C+Applications+and+Impacts+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Air+base+defense+in+the+Republic+of+Vietnam%2C+1961+1973&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Air base defense in the Republic of Vietnam, 1961 1973</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Electronic+Defense+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Electronic Defense Systems books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed Energy Weapons</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Air+base+defense+in+the+Republic+of+Vietnam%2C+1961+1973&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Air base defense in the Republic of Vietnam,</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Electronic+Defense+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Electronic Defense Systems books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed Energy Weapons</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/ad50048f5e8927ed1a97.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/ad50048f5e8927ed1a97.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Englands First Aviation Race Railway Travel Poster Print Art A1/A2/A3/A4"><img src="{{ '/assets/images/marketplace-covers/77442d6c844333167c97.jpg' | relative_url }}" alt="Listing image for Vintage Englands First Aviation Race Railway Travel Poster Print Art A1/A2/A3/A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Englands First Aviation Race Railway Travel Poster Print Art A1/A2/A3/A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Englands First Aviation Race Railway Travel Poster Print Art A1/A2/A3/A4"><img src="{{ '/assets/images/marketplace-covers/77442d6c844333167c97.jpg' | relative_url }}" alt="Listing image for Vintage Englands First Aviation Race Railway Travel Poster Print Art A1/A2/A3/A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Englands First Aviation Race Railway Travel Poster Print Art A1/A2/A3/A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print"><img src="{{ '/assets/images/marketplace-covers/dfddb1826e12bfcc8987.jpg' | relative_url }}" alt="Listing image for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print"><img src="{{ '/assets/images/marketplace-covers/dfddb1826e12bfcc8987.jpg' | relative_url }}" alt="Listing image for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1930s Flying Lesson Poster &quot;Learn to Fly&quot; Vintage Style Aviation Poster - 24x32"><img src="{{ '/assets/images/marketplace-covers/881a73d3e0d6a3b484b2.jpg' | relative_url }}" alt="Listing image for 1930s Flying Lesson Poster &quot;Learn to Fly&quot; Vintage Style Aviation Poster - 24x32" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">1930s Flying Lesson Poster &quot;Learn to Fly&quot; Vintage Style Aviation Poster - 24x32</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1930s Flying Lesson Poster &quot;Learn to Fly&quot; Vintage Style Aviation Poster - 24x32"><img src="{{ '/assets/images/marketplace-covers/881a73d3e0d6a3b484b2.jpg' | relative_url }}" alt="Listing image for 1930s Flying Lesson Poster &quot;Learn to Fly&quot; Vintage Style Aviation Poster - 24x32" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">1930s Flying Lesson Poster &quot;Learn to Fly&quot; Vintage Style Aviation Poster - 24x32</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="firing-sectors-why-thor-cannot-fire-everywhere-directed-ener-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -577,7 +577,7 @@ The result is a defence posture in which the weapon's wide-area counter-electron
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -597,7 +597,7 @@ The result is a defence posture in which the weapon's wide-area counter-electron
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -629,7 +629,7 @@ The result is a defence posture in which the weapon's wide-area counter-electron
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -681,7 +681,7 @@ The result is a defence posture in which the weapon's wide-area counter-electron
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -726,7 +726,7 @@ The result is a defence posture in which the weapon's wide-area counter-electron
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -767,113 +767,113 @@ The result is a defence posture in which the weapon's wide-area counter-electron
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: inzpire.com  
    Title: high power microwaves more than just a hot lunch  
-   Link: <a href="https://www.inzpire.com/news/high-power-microwaves-more-than-just-a-hot-lunch" target="_blank" rel="noopener noreferrer nofollow">https://www.inzpire.com/news/high-power-microwaves-more-than-just-a-hot-lunch</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>High power microwaves – more than just a hot lunch!3 Mar 2025 — High-power microwaves are an emerging class of directed energy wea...</p></details>
+   Link:<a href="https://www.inzpire.com/news/high-power-microwaves-more-than-just-a-hot-lunch" target="_blank" rel="noopener noreferrer nofollow">https://www.inzpire.com/news/high-power-microwaves-more-than-just-a-hot-lunch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High power microwaves – more than just a hot lunch!3 Mar 2025 — High-power microwaves are an emerging class of directed energy wea...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: epirusinc.com  
-   Link: <a href="https://www.epirusinc.com/electronic-warfare" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/electronic-warfare</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>N) semiconductors for unmatched counter-electronics effects.Read more...</p></details>
+   Link:<a href="https://www.epirusinc.com/electronic-warfare" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/electronic-warfare</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>N) semiconductors for unmatched counter-electronics effects.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: afrl.af.mil  
    Title: Air Force Research Laboratory AFRL conducts swarm technology demonstration  
-   Link: <a href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — “THOR was exceptionally effective a...</p></details>
+   Link:<a href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — “THOR was exceptionally effective a...</p></details>
    Published: May 16, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: afresearchlab.com  
-   Link: <a href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://afresearchlab.com/counter-swarm-high-power-weapon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Photo credit: AFRL Directed Energy Directorate.Read more...</p></details>
+   Link:<a href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://afresearchlab.com/counter-swarm-high-power-weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Photo credit: AFRL Directed Energy Directorate.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: airuniversity.af.edu  
    Title: army partners with air forces thor for base defense  
-   Link: <a href="https://www.airuniversity.af.edu/News/Display/Article/2511792/army-partners-with-air-forces-thor-for-base-defense/" target="_blank" rel="noopener noreferrer nofollow">https://www.airuniversity.af.edu/News/Display/Article/2511792/army-partners-with-air-forces-thor-for-base-defense/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air UniversityArmy partners with Air Force&#x27;s THOR for base defense23 Feb 2021 — THOR is a prototype directed energy weapon used to disabl...</p></details>
+   Link:<a href="https://www.airuniversity.af.edu/News/Display/Article/2511792/army-partners-with-air-forces-thor-for-base-defense/" target="_blank" rel="noopener noreferrer nofollow">https://www.airuniversity.af.edu/News/Display/Article/2511792/army-partners-with-air-forces-thor-for-base-defense/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air UniversityArmy partners with Air Force&#x27;s THOR for base defense23 Feb 2021 — THOR is a prototype directed energy weapon used to disabl...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: twz.com  
    Title: thor microwave anti drone system downs swarms in test  
-   Link: <a href="https://www.twz.com/thor-microwave-anti-drone-system-downs-swarms-in-test" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/thor-microwave-anti-drone-system-downs-swarms-in-test</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneTHOR Microwave Anti-Drone System Downs Swarms In Test19 May 2023 — The demonstration pitted the service&#x27;s high-power microwav...</p></details>
+   Link:<a href="https://www.twz.com/thor-microwave-anti-drone-system-downs-swarms-in-test" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/thor-microwave-anti-drone-system-downs-swarms-in-test</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneTHOR Microwave Anti-Drone System Downs Swarms In Test19 May 2023 — The demonstration pitted the service&#x27;s high-power microwav...</p></details>
    Published: May 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: onr.navy.mil  
-   Link: <a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesDirected energy weapons (DEWs) are defined as electromagnetic syste...</p></details>
+   Link:<a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesDirected energy weapons (DEWs) are defined as electromagnetic syste...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: popularmechanics.com  
    Title: laser microwave weapons  
-   Link: <a href="https://www.popularmechanics.com/military/weapons/a32083799/laser-microwave-weapons/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/weapons/a32083799/laser-microwave-weapons/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>air bases from the threat of drone strikes, shooting down any unauthorized drone that comes...Read more...</p></details>
+   Link:<a href="https://www.popularmechanics.com/military/weapons/a32083799/laser-microwave-weapons/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/weapons/a32083799/laser-microwave-weapons/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>air bases from the threat of drone strikes, shooting down any unauthorized drone that comes...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: unmannedairspace.info  
-   Link: <a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-air-force-research-laboratory-demonstrates-anti-drone-swarm-c-uas-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-air-force-research-laboratory-demonstrates-anti-drone-swarm-c-uas-technology/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>US Air Force Research Laboratory demonstrates anti-...“THOR was exceptionally effective at disabling the swarm with its wide beam, high...</p></details>
+   Link:<a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-air-force-research-laboratory-demonstrates-anti-drone-swarm-c-uas-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-air-force-research-laboratory-demonstrates-anti-drone-swarm-c-uas-technology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Air Force Research Laboratory demonstrates anti-...“THOR was exceptionally effective at disabling the swarm with its wide beam, high...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: s3.us-east-1.amazonaws.com  
-   Link: <a href="https://s3.us-east-1.amazonaws.com/files.cnas.org/hero/documents/CNAS_Directed_Energy_Weapons_April-2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3.us-east-1.amazonaws.com/files.cnas.org/hero/documents/CNAS_Directed_Energy_Weapons_April-2015.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DIRECTED-ENERGY WEAPONS:by JD Ellis — High- energy [lasers](&amp;#123;&amp;#123; &#x27;lasers/&#x27; | relative_url &amp;#125;&amp;#125;) often operate within the visible or infrared portions of the spectrum; high-pow...</p></details>
+   Link:<a href="https://s3.us-east-1.amazonaws.com/files.cnas.org/hero/documents/CNAS_Directed_Energy_Weapons_April-2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3.us-east-1.amazonaws.com/files.cnas.org/hero/documents/CNAS_Directed_Energy_Weapons_April-2015.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DIRECTED-ENERGY WEAPONS:by JD Ellis — High- energy [lasers](&amp;#123;&amp;#123; &#x27;lasers/&#x27; | relative_url &amp;#125;&amp;#125;) often operate within the visible or infrared portions of the spectrum; high-pow...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: jedonline.com  
    Title: high power microwave systems getting much much closer to operational status  
-   Link: <a href="https://www.jedonline.com/2023/01/24/high-power-microwave-systems-getting-much-much-closer-to-operational-status/" target="_blank" rel="noopener noreferrer nofollow">https://www.jedonline.com/2023/01/24/high-power-microwave-systems-getting-much-much-closer-to-operational-status/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>High-Power Microwave Systems – Getting (Much...24 Jan 2023 — AFRL&#x27;s THOR demonstrator system, developed by Leidos, BAE Systems and Verus...</p></details>
+   Link:<a href="https://www.jedonline.com/2023/01/24/high-power-microwave-systems-getting-much-much-closer-to-operational-status/" target="_blank" rel="noopener noreferrer nofollow">https://www.jedonline.com/2023/01/24/high-power-microwave-systems-getting-much-much-closer-to-operational-status/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High-Power Microwave Systems – Getting (Much...24 Jan 2023 — AFRL&#x27;s THOR demonstrator system, developed by Leidos, BAE Systems and Verus...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=JGzL3fZgPZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JGzL3fZgPZY</a>  
+   Link:<a href="https://www.youtube.com/watch?v=JGzL3fZgPZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JGzL3fZgPZY</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: potomacofficersclub.com  
    Title: afrl demonstrates microwave powered defense system against drone swarms  
-   Link: <a href="https://www.potomacofficersclub.com/afrl-demonstrates-microwave-powered-defense-system-against-drone-swarms/" target="_blank" rel="noopener noreferrer nofollow">https://www.potomacofficersclub.com/afrl-demonstrates-microwave-powered-defense-system-against-drone-swarms/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AFRL Demonstrates Microwave-Powered Defense System...23 May 2023 — The Air Force Research Laboratory recently demonstrated the Tactical...</p></details>
+   Link:<a href="https://www.potomacofficersclub.com/afrl-demonstrates-microwave-powered-defense-system-against-drone-swarms/" target="_blank" rel="noopener noreferrer nofollow">https://www.potomacofficersclub.com/afrl-demonstrates-microwave-powered-defense-system-against-drone-swarms/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFRL Demonstrates Microwave-Powered Defense System...23 May 2023 — The Air Force Research Laboratory recently demonstrated the Tactical...</p></details>
    Published: May 2023  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aivon.com  
    Title: microwave weapons principles and applications  
-   Link: <a href="https://www.aivon.com/blog/aerospace-electronics/microwave-weapons-principles-and-applications/" target="_blank" rel="noopener noreferrer nofollow">https://www.aivon.com/blog/aerospace-electronics/microwave-weapons-principles-and-applications/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Microwave Weapons: Principles and Applications20 Jan 2026 — Technical overview of microwaves, microwave weapons, and counter-UAS systems...</p></details>
+   Link:<a href="https://www.aivon.com/blog/aerospace-electronics/microwave-weapons-principles-and-applications/" target="_blank" rel="noopener noreferrer nofollow">https://www.aivon.com/blog/aerospace-electronics/microwave-weapons-principles-and-applications/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Microwave Weapons: Principles and Applications20 Jan 2026 — Technical overview of microwaves, microwave weapons, and counter-UAS systems...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: gpsworld.com  
    Title: power of thor ready to down enemy drones  
-   Link: <a href="https://www.gpsworld.com/power-of-thor-ready-to-down-enemy-drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.gpsworld.com/power-of-thor-ready-to-down-enemy-drones/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GPS WorldPower of THOR ready to down enemy drones14 Aug 2020 — THOR stands for Tactical High-power Operational Responder, a counter-swarm...</p></details>
+   Link:<a href="https://www.gpsworld.com/power-of-thor-ready-to-down-enemy-drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.gpsworld.com/power-of-thor-ready-to-down-enemy-drones/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GPS WorldPower of THOR ready to down enemy drones14 Aug 2020 — THOR stands for Tactical High-power Operational Responder, a counter-swarm...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: droneshield.com  
-   Link: <a href="https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sive, mass-produced drones can overwhelm defences...</p></details>
+   Link:<a href="https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sive, mass-produced drones can overwhelm defences...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: science.gc.ca  
    Title: directed energy weapons  
-   Link: <a href="https://science.gc.ca/site/science/en/safeguarding-your-research/guidelines-and-tools-implement-research-security/emerging-technology-trend-cards/directed-energy-weapons" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/safeguarding-your-research/guidelines-and-tools-implement-research-security/emerging-technology-trend-cards/directed-energy-weapons</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Feb 2025 — Directed energy weapons (DEWs) use concentrated energy from electromagnetic or particle technology, rather than kinetic ene...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/safeguarding-your-research/guidelines-and-tools-implement-research-security/emerging-technology-trend-cards/directed-energy-weapons" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/safeguarding-your-research/guidelines-and-tools-implement-research-security/emerging-technology-trend-cards/directed-energy-weapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>11 Feb 2025 — Directed energy weapons (DEWs) use concentrated energy from electromagnetic or particle technology, rather than kinetic ene...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: airandspaceforces.com  
-   Link: <a href="https://www.airandspaceforces.com/air-forces-thor-drone-swarm-demo/" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/air-forces-thor-drone-swarm-demo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air &amp; Space Forces MagazineTHOR Hammers Drone Swarm with High-Power Microwaves19 May 2023 — THOR uses bursts of high-power microwave ener...</p></details>
+   Link:<a href="https://www.airandspaceforces.com/air-forces-thor-drone-swarm-demo/" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/air-forces-thor-drone-swarm-demo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air &amp; Space Forces MagazineTHOR Hammers Drone Swarm with High-Power Microwaves19 May 2023 — THOR uses bursts of high-power microwave ener...</p></details>
    Published: May 2023  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: THOR (Tactical High-power Operational Responder) Destroys Swarms of Enemy Drones  
-   Link: <a href="https://www.youtube.com/watch?v=QjHGxKb6W1c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QjHGxKb6W1c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Research Lab unleashed THOR on drone swarm...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QjHGxKb6W1c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QjHGxKb6W1c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Research Lab unleashed THOR on drone swarm...</p></details>

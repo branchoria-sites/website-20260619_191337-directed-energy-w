@@ -269,7 +269,7 @@ image: /assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_49_d_b5
 
 ## Introduction
 
-The 49-drone Leonidas demonstration attracted attention because it suggested a possible answer to one of modern air defence’s most persistent problems: defenders often spend far more money stopping drones than attackers spend launching them. If a single microwave pulse can disable dozens of low-cost drones at once, the economics of defence begin to look very different. Rather than firing one missile at one target, a high-power microwave system can potentially engage many targets in a single action, reducing both ammunition expenditure and the risk of exhausting interceptor inventories. The test did not prove that every [drone swarm]({{ 'swarm-limits/' | relative_url }}) can be defeated this way, but it did provide a concrete example of a technology designed specifically to address the cost imbalance created by mass-produced unmanned aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus+2Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-title">Tap to unmute.Read more</span><span class="citation-popover-snippet">EpirusEpirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone...Sep 10, 2025 — Leonidas neutralized 61-of-61 drones, culminating in a 49...</span></span></span>
+The 49-drone Leonidas demonstration attracted attention because it suggested a possible answer to one of modern air defence’s most persistent problems: defenders often spend far more money stopping drones than attackers spend launching them. If a single microwave pulse can disable dozens of low-cost drones at once, the economics of defence begin to look very different. Rather than firing one missile at one target, a high-power microwave system can potentially engage many targets in a single action, reducing both ammunition expenditure and the risk of exhausting interceptor inventories. The test did not prove that every [drone swarm]({{ 'swarm-limits/' | relative_url }}) can be defeated this way, but it did provide a concrete example of a technology designed specifically to address the cost imbalance created by mass-produced unmanned aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus+2Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-title">Tap to unmute.Read more</span><span class="citation-popover-snippet">EpirusEpirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone...Sep 10, 2025 — Leonidas neutralized 61-of-61 drones, culminating in a 49...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_49_d_b5d429_microwave_cos_5e733f-Illustration-1-dark.svg" | relative_url }}" alt="Cost Tradeoff illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_49_d_b5d429_microwave_cos_5e733f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_49_d_b5d429_microwave_cos_5e733f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -277,9 +277,9 @@ The 49-drone Leonidas demonstration attracted attention because it suggested a p
 
 The drone threat is not simply a matter of aircraft numbers. It is an economic challenge.
 
-Across recent conflicts, militaries have increasingly faced inexpensive drones that can be produced in large quantities. Traditional air-defence systems were largely designed to defeat aircraft, helicopters, or [cruise missiles]({{ 'cruise-missiles/' | relative_url }}), not [swarms]({{ 'swarms/' | relative_url }}) of small unmanned systems costing hundreds or thousands of pounds. When a defender responds with expensive interceptor missiles, the attacker can often impose disproportionate costs. Analysts have highlighted cases where interceptors costing hundreds of thousands or even millions of dollars are used against far cheaper threats. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/commentary/2025/03/david-vs-goliath-cost-asymmetry-in-warfare.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">Corporation David vs</span><span class="citation-popover-snippet">Goliath: Cost Asymmetry in WarfareMarch 6, 2025 — 6 Mar 2025 — These new threats SM-2 missiles priced at around $2.1 million each, eighty...</span><span class="citation-popover-meta">Published: March 6, 2025</span></span></span>
+Across recent conflicts, militaries have increasingly faced inexpensive drones that can be produced in large quantities. Traditional air-defence systems were largely designed to defeat aircraft, helicopters, or [cruise missiles]({{ 'cruise-missiles/' | relative_url }}), not [swarms]({{ 'swarms/' | relative_url }}) of small unmanned systems costing hundreds or thousands of pounds. When a defender responds with expensive interceptor missiles, the attacker can often impose disproportionate costs. Analysts have highlighted cases where interceptors costing hundreds of thousands or even millions of dollars are used against far cheaper threats.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/commentary/2025/03/david-vs-goliath-cost-asymmetry-in-warfare.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">Corporation David vs</span><span class="citation-popover-snippet">Goliath: Cost Asymmetry in WarfareMarch 6, 2025 — 6 Mar 2025 — These new threats SM-2 missiles priced at around $2.1 million each, eighty...</span><span class="citation-popover-meta">Published: March 6, 2025</span></span></span>
 
-This creates what defence planners call an unfavourable cost-exchange ratio. Even successful interceptions can become strategically expensive if every engagement consumes scarce missiles, launcher capacity, [maintenance]({{ 'maintenance/' | relative_url }}) resources, and supply-chain inventory. The problem becomes more severe when drones arrive in groups rather than individually. A swarm of dozens of aircraft may require dozens of separate engagements from conventional systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aspistrategist.org.au/a-counter-to-drone-swarms-high-power-microwave-weapons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aspistrategist.org.au">[The Strategist+2DroneShield]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aspistrategist.org.au</span><span class="citation-popover-title">The Strategist A counter to drone swarms: high-power microwave weapons</span><span class="citation-popover-snippet">The StrategistA counter to drone swarms: high-power microwave weaponsMay 11, 2025 — 12 May 2025 — Defensive systems that use interceptors...</span><span class="citation-popover-meta">Published: May 11, 2025</span></span></span>
+This creates what defence planners call an unfavourable cost-exchange ratio. Even successful interceptions can become strategically expensive if every engagement consumes scarce missiles, launcher capacity, [maintenance]({{ 'maintenance/' | relative_url }}) resources, and supply-chain inventory. The problem becomes more severe when drones arrive in groups rather than individually. A swarm of dozens of aircraft may require dozens of separate engagements from conventional systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aspistrategist.org.au/a-counter-to-drone-swarms-high-power-microwave-weapons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aspistrategist.org.au">[The Strategist+2DroneShield]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aspistrategist.org.au</span><span class="citation-popover-title">The Strategist A counter to drone swarms: high-power microwave weapons</span><span class="citation-popover-snippet">The StrategistA counter to drone swarms: high-power microwave weaponsMay 11, 2025 — 12 May 2025 — Defensive systems that use interceptors...</span><span class="citation-popover-meta">Published: May 11, 2025</span></span></span>
 
 The significance of the Leonidas test lies in the fact that it targeted this economic problem directly rather than merely demonstrating another way to shoot drones down.
 
@@ -290,15 +290,15 @@ The significance of the Leonidas test lies in the fact that it targeted this eco
 
 The central economic argument for high-power microwave weapons is that they are not fundamentally one-on-one weapons.
 
-Conventional missiles generally destroy a single target per shot. Even highly capable systems must repeatedly engage incoming threats. A microwave weapon instead attempts to project electromagnetic energy across an area, disrupting electronics within that space. If multiple drones occupy the affected zone, they may all be impacted by the same pulse. This is the “one-to-many” concept repeatedly emphasised by Epirus and by observers discussing microwave counter-swarm systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus+2Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-title">Tap to unmute.Read more</span><span class="citation-popover-snippet">EpirusEpirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone...Sep 10, 2025 — Leonidas neutralized 61-of-61 drones, culminating in a 49...</span></span></span>
+Conventional missiles generally destroy a single target per shot. Even highly capable systems must repeatedly engage incoming threats. A microwave weapon instead attempts to project electromagnetic energy across an area, disrupting electronics within that space. If multiple drones occupy the affected zone, they may all be impacted by the same pulse. This is the “one-to-many” concept repeatedly emphasised by Epirus and by observers discussing microwave counter-swarm systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus+2Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-title">Tap to unmute.Read more</span><span class="citation-popover-snippet">EpirusEpirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone...Sep 10, 2025 — Leonidas neutralized 61-of-61 drones, culminating in a 49...</span></span></span>
 
-The Camp [Atterbury]({{ 'open-questions-f1b729/' | relative_url }}) demonstration provided a practical illustration. According to Epirus, Leonidas defeated all 61 drones flown during the event, including a 49-drone swarm disabled with a single microwave engagement. If such performance can be replicated operationally, the defender no longer needs to match the attacker drone-for-drone with individual interceptors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-title">Tap to unmute.Read more</span><span class="citation-popover-snippet">EpirusEpirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone...Sep 10, 2025 — Leonidas neutralized 61-of-61 drones, culminating in a 49...</span></span></span>
+The Camp [Atterbury]({{ 'open-questions-f1b729/' | relative_url }}) demonstration provided a practical illustration. According to Epirus, Leonidas defeated all 61 drones flown during the event, including a 49-drone swarm disabled with a single microwave engagement. If such performance can be replicated operationally, the defender no longer needs to match the attacker drone-for-drone with individual interceptors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-title">Tap to unmute.Read more</span><span class="citation-popover-snippet">EpirusEpirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone...Sep 10, 2025 — Leonidas neutralized 61-of-61 drones, culminating in a 49...</span></span></span>
 
 From a cost perspective, three potential advantages emerge:
 
-* **Lower marginal engagement cost.** A microwave pulse primarily consumes electrical power rather than a physical interceptor round. Epirus argues that this produces engagement costs measured in pennies rather than the costs associated with missile expenditure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/electronic-warfare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus+2Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-snippet">has spent upwards of $2 million per unit to defeat drones that cost hundreds to thousands. Drones are easily mass-produced, while the U.S...</span></span></span>
-* **Reduced magazine limitations.** Missile batteries carry finite numbers of interceptors. Microwave systems can continue operating as long as power generation and system health permit, reducing concerns about rapid ammunition depletion during large attacks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/electronic-warfare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-snippet">has spent upwards of $2 million per unit to defeat drones that cost hundreds to thousands. Drones are easily mass-produced, while the U.S...</span></span></span>
-* **Simultaneous engagement.** The ability to affect multiple drones at once means defensive costs do not necessarily rise linearly with swarm size. A 40-drone attack may not require 40 separate defensive actions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-title">Tap to unmute.Read more</span><span class="citation-popover-snippet">EpirusEpirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone...Sep 10, 2025 — Leonidas neutralized 61-of-61 drones, culminating in a 49...</span></span></span>
+* **Lower marginal engagement cost.** A microwave pulse primarily consumes electrical power rather than a physical interceptor round. Epirus argues that this produces engagement costs measured in pennies rather than the costs associated with missile expenditure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/electronic-warfare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus+2Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-snippet">has spent upwards of $2 million per unit to defeat drones that cost hundreds to thousands. Drones are easily mass-produced, while the U.S...</span></span></span>
+* **Reduced magazine limitations.** Missile batteries carry finite numbers of interceptors. Microwave systems can continue operating as long as power generation and system health permit, reducing concerns about rapid ammunition depletion during large attacks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/electronic-warfare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-snippet">has spent upwards of $2 million per unit to defeat drones that cost hundreds to thousands. Drones are easily mass-produced, while the U.S...</span></span></span>
+* **Simultaneous engagement.** The ability to affect multiple drones at once means defensive costs do not necessarily rise linearly with swarm size. A 40-drone attack may not require 40 separate defensive actions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-title">Tap to unmute.Read more</span><span class="citation-popover-snippet">EpirusEpirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone...Sep 10, 2025 — Leonidas neutralized 61-of-61 drones, culminating in a 49...</span></span></span>
 
 This is the key economic lesson many observers drew from the 49-drone test. The value was not merely defeating drones, but doing so without needing forty-nine separate interceptors.
 
@@ -308,9 +308,9 @@ This is the key economic lesson many observers drew from the 49-drone test. The 
 
 The financial argument extends beyond the price of a single shot.
 
-Every interceptor fired must eventually be replaced. Stockpiles must be replenished, production lines maintained, transport organised, and launchers reloaded. In prolonged campaigns, these logistics costs can become as important as the direct procurement cost of the missile itself. Microwave systems shift part of the burden away from expendable munitions and towards reusable equipment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/post/correcting-the-cost-imbalance-in-counter-unmanned-aerial-system-solutions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-title">correcting the cost imbalance in counter unmanned aerial system solutions</span><span class="citation-popover-snippet">EpirusCorrecting the Cost Imbalance in Counter-Unmanned...10 Nov 2022 — Its cost per shot is significantly less than Patriot missiles, H...</span></span></span>
+Every interceptor fired must eventually be replaced. Stockpiles must be replenished, production lines maintained, transport organised, and launchers reloaded. In prolonged campaigns, these logistics costs can become as important as the direct procurement cost of the missile itself. Microwave systems shift part of the burden away from expendable munitions and towards reusable equipment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/post/correcting-the-cost-imbalance-in-counter-unmanned-aerial-system-solutions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-title">correcting the cost imbalance in counter unmanned aerial system solutions</span><span class="citation-popover-snippet">EpirusCorrecting the Cost Imbalance in Counter-Unmanned...10 Nov 2022 — Its cost per shot is significantly less than Patriot missiles, H...</span></span></span>
 
-There is also a force-structure implication. If microwave systems can reliably handle large numbers of inexpensive drones, higher-end missile systems may be reserved for aircraft, cruise missiles, and other threats that genuinely require kinetic interception. This layered-defence approach potentially allows militaries to allocate their most expensive weapons more selectively. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/post/correcting-the-cost-imbalance-in-counter-unmanned-aerial-system-solutions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus+2Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-title">correcting the cost imbalance in counter unmanned aerial system solutions</span><span class="citation-popover-snippet">EpirusCorrecting the Cost Imbalance in Counter-Unmanned...10 Nov 2022 — Its cost per shot is significantly less than Patriot missiles, H...</span></span></span>
+There is also a force-structure implication. If microwave systems can reliably handle large numbers of inexpensive drones, higher-end missile systems may be reserved for aircraft, cruise missiles, and other threats that genuinely require kinetic interception. This layered-defence approach potentially allows militaries to allocate their most expensive weapons more selectively.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/post/correcting-the-cost-imbalance-in-counter-unmanned-aerial-system-solutions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus+2Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-title">correcting the cost imbalance in counter unmanned aerial system solutions</span><span class="citation-popover-snippet">EpirusCorrecting the Cost Imbalance in Counter-Unmanned...10 Nov 2022 — Its cost per shot is significantly less than Patriot missiles, H...</span></span></span>
 
 The attraction is particularly obvious in scenarios involving infrastructure protection, forward operating bases, logistics hubs, or naval vessels facing repeated drone attacks. In such environments, reducing expenditure per engagement can matter as much as improving interception rates.
 
@@ -321,14 +321,14 @@ The attraction is particularly obvious in scenarios involving infrastructure pro
 
 The cost argument is compelling, but it remains partly prospective rather than fully proven.
 
-The Leonidas demonstration showed that a large swarm could be disabled during a controlled test. It did not establish how frequently such results can be achieved against different drone designs, varied formations, electronic hardening measures, or complex [battlefield]({{ 'battle-limits/' | relative_url }}) conditions. The financial benefits depend on sustained operational effectiveness, not merely a successful demonstration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus+2Tom&#x27;s Hardware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-title">Tap to unmute.Read more</span><span class="citation-popover-snippet">EpirusEpirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone...Sep 10, 2025 — Leonidas neutralized 61-of-61 drones, culminating in a 49...</span></span></span>
+The Leonidas demonstration showed that a large swarm could be disabled during a controlled test. It did not establish how frequently such results can be achieved against different drone designs, varied formations, electronic hardening measures, or complex [battlefield]({{ 'battle-limits/' | relative_url }}) conditions. The financial benefits depend on sustained operational effectiveness, not merely a successful demonstration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus+2Tom&#x27;s Hardware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-title">Tap to unmute.Read more</span><span class="citation-popover-snippet">EpirusEpirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone...Sep 10, 2025 — Leonidas neutralized 61-of-61 drones, culminating in a 49...</span></span></span>
 
 Several uncertainties remain:
 
-* **Coverage and geometry.** Area-effect weapons are most valuable when many drones occupy the engagement zone simultaneously. Different swarm tactics could reduce this advantage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2602.08477" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
-* **Target resilience.** Future drones may incorporate shielding, redundancy, or hardened electronics designed specifically to resist microwave effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2602.08477" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
-* **System acquisition costs.** Even if the cost per engagement is low, the platforms themselves are sophisticated military systems that require procurement, maintenance, training, and support infrastructure. Recent Army contracts for advanced Leonidas systems run into tens of millions of dollars. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://militarnyi.com/en/news/us-army-orders-new-microwave-drone-defense-systems-for-43-5m/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: militarnyi.com">[Militarnyi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">militarnyi.com</span><span class="citation-popover-title">us army orders new microwave drone defense systems for 43 5m</span><span class="citation-popover-snippet">Army has awarded a $43.55 million contract to defense tech firm Epirus for the delivery of next-generation microwave weapons...Read more...</span></span></span>
-* **Layered-defence reality.** Most militaries are unlikely to replace missiles entirely. Microwave systems are more likely to complement kinetic and electronic-warfare defences than eliminate them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/post/correcting-the-cost-imbalance-in-counter-unmanned-aerial-system-solutions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-title">correcting the cost imbalance in counter unmanned aerial system solutions</span><span class="citation-popover-snippet">EpirusCorrecting the Cost Imbalance in Counter-Unmanned...10 Nov 2022 — Its cost per shot is significantly less than Patriot missiles, H...</span></span></span>
+* **Coverage and geometry.** Area-effect weapons are most valuable when many drones occupy the engagement zone simultaneously. Different swarm tactics could reduce this advantage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2602.08477" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+* **Target resilience.** Future drones may incorporate shielding, redundancy, or hardened electronics designed specifically to resist microwave effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2602.08477" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+* **System acquisition costs.** Even if the cost per engagement is low, the platforms themselves are sophisticated military systems that require procurement, maintenance, training, and support infrastructure. Recent Army contracts for advanced Leonidas systems run into tens of millions of dollars.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://militarnyi.com/en/news/us-army-orders-new-microwave-drone-defense-systems-for-43-5m/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: militarnyi.com">[Militarnyi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">militarnyi.com</span><span class="citation-popover-title">us army orders new microwave drone defense systems for 43 5m</span><span class="citation-popover-snippet">Army has awarded a $43.55 million contract to defense tech firm Epirus for the delivery of next-generation microwave weapons...Read more...</span></span></span>
+* **Layered-defence reality.** Most militaries are unlikely to replace missiles entirely. Microwave systems are more likely to complement kinetic and electronic-warfare defences than eliminate them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/post/correcting-the-cost-imbalance-in-counter-unmanned-aerial-system-solutions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-title">correcting the cost imbalance in counter unmanned aerial system solutions</span><span class="citation-popover-snippet">EpirusCorrecting the Cost Imbalance in Counter-Unmanned...10 Nov 2022 — Its cost per shot is significantly less than Patriot missiles, H...</span></span></span>
 
 For that reason, claims that microwaves completely solve the drone-cost problem should be treated cautiously. What the technology may do is improve the defender’s position in the cost competition.
 
@@ -336,203 +336,203 @@ For that reason, claims that microwaves completely solve the drone-cost problem 
 <img src="{{ "/assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_49_d_b5d429_microwave_cos_5e733f-Illustration-3-dark.svg" | relative_url }}" alt="Cost Tradeoff illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_49_d_b5d429_microwave_cos_5e733f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_49_d_b5d429_microwave_cos_5e733f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the 49-Drone Test Suggests About Future Air Defence
 
-The most important implication of the Leonidas demonstration is economic rather than purely technical. The test offered evidence that counter-drone defence may not always require matching every incoming drone with a separate interceptor. By demonstrating a “one-to-many” engagement against a large swarm, the system highlighted a path towards reducing the cost asymmetry that has worried military planners throughout the drone era. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus+2Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-title">Tap to unmute.Read more</span><span class="citation-popover-snippet">EpirusEpirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone...Sep 10, 2025 — Leonidas neutralized 61-of-61 drones, culminating in a 49...</span></span></span>
+The most important implication of the Leonidas demonstration is economic rather than purely technical. The test offered evidence that counter-drone defence may not always require matching every incoming drone with a separate interceptor. By demonstrating a “one-to-many” engagement against a large swarm, the system highlighted a path towards reducing the cost asymmetry that has worried military planners throughout the drone era.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus+2Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-title">Tap to unmute.Read more</span><span class="citation-popover-snippet">EpirusEpirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone...Sep 10, 2025 — Leonidas neutralized 61-of-61 drones, culminating in a 49...</span></span></span>
 
-Whether microwave weapons ultimately deliver that promise at scale remains an open question. Yet the 49-drone event showed why militaries are investing heavily in directed-energy systems: not simply because they can defeat drones, but because they may do so without forcing defenders into a financially exhausting exchange every time a swarm appears. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://militarnyi.com/en/news/us-army-orders-new-microwave-drone-defense-systems-for-43-5m/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: militarnyi.com">[Militarnyi+2Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">militarnyi.com</span><span class="citation-popover-title">us army orders new microwave drone defense systems for 43 5m</span><span class="citation-popover-snippet">Army has awarded a $43.55 million contract to defense tech firm Epirus for the delivery of next-generation microwave weapons...Read more...</span></span></span>
+Whether microwave weapons ultimately deliver that promise at scale remains an open question. Yet the 49-drone event showed why militaries are investing heavily in directed-energy systems: not simply because they can defeat drones, but because they may do so without forcing defenders into a financially exhausting exchange every time a swarm appears.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://militarnyi.com/en/news/us-army-orders-new-microwave-drone-defense-systems-for-43-5m/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: militarnyi.com">[Militarnyi+2Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">militarnyi.com</span><span class="citation-popover-title">us army orders new microwave drone defense systems for 43 5m</span><span class="citation-popover-snippet">Army has awarded a $43.55 million contract to defense tech firm Epirus for the delivery of next-generation microwave weapons...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/s1E1dt0ia-M" title="Epirus: Built for the Asymmetric Threat | High-Power Microwave for Drone Defense" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=s1E1dt0ia-M" target="_blank" rel="noopener noreferrer">Epirus: Built for the Asymmetric Threat | High-Power Microwave for Drone Defense</a></p><p class="youtube-embed-meta">Channel: Epirus</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=s1E1dt0ia-M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=s1E1dt0ia-M">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Microwaves Fix the Drone Cost Problem?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Microwaves Fix the Drone Cost Problem?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Strong discussion of cost-effective military modernization.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong discussion of cost-effective military modernization.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
-        </h4>
-        <p class="fr-book-author">By Paul Scharre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
+</h4>
+<p class="fr-book-author">By Paul Scharre</p>
         
-        <p class="fr-book-desc">Examines scaling military capability through technology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines scaling military capability through technology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Wars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13717341-M.jpg" alt="Cover for Drone Wars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Wars">Drone Wars</a>
-        </h4>
-        <p class="fr-book-author">By Seth J. Frantzman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Wars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13717341-M.jpg" alt="Cover for Drone Wars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Wars">Drone Wars</a>
+</h4>
+<p class="fr-book-author">By Seth J. Frantzman</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Military art and science.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Military art and science.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
-        </h4>
-        <p class="fr-book-author">By Bahman Zohuri</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
+</h4>
+<p class="fr-book-author">By Bahman Zohuri</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Wars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Wars</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Wars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Wars</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for X-47B UCAV Replica Model 1:100 Scale Navy Drone Collectible Desk Decor"><img src="{{ '/assets/images/marketplace-covers/c4b8e6f0f35f7a7837f2.jpg' | relative_url }}" alt="Listing image for X-47B UCAV Replica Model 1:100 Scale Navy Drone Collectible Desk Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">X-47B UCAV Replica Model 1:100 Scale Navy Drone Collectible Desk Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for X-47B UCAV Replica Model 1:100 Scale Navy Drone Collectible Desk Decor"><img src="{{ '/assets/images/marketplace-covers/c4b8e6f0f35f7a7837f2.jpg' | relative_url }}" alt="Listing image for X-47B UCAV Replica Model 1:100 Scale Navy Drone Collectible Desk Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">X-47B UCAV Replica Model 1:100 Scale Navy Drone Collectible Desk Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/72C 8Pcs classic fighter bomber helicopter drone Model Military Assembly Model"><img src="{{ '/assets/images/marketplace-covers/6bbac5d334a4a0667cf5.jpg' | relative_url }}" alt="Listing image for 1/72C 8Pcs classic fighter bomber helicopter drone Model Military Assembly Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">1/72C 8Pcs classic fighter bomber helicopter drone Model Military Assembly Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/72C 8Pcs classic fighter bomber helicopter drone Model Military Assembly Model"><img src="{{ '/assets/images/marketplace-covers/6bbac5d334a4a0667cf5.jpg' | relative_url }}" alt="Listing image for 1/72C 8Pcs classic fighter bomber helicopter drone Model Military Assembly Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">1/72C 8Pcs classic fighter bomber helicopter drone Model Military Assembly Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academy US Army Drone RQ-7B UAV 1/35 Scale Military Aircraft Model Kit 12117"><img src="{{ '/assets/images/marketplace-covers/54f43ced846c284ab9ae.jpg' | relative_url }}" alt="Listing image for Academy US Army Drone RQ-7B UAV 1/35 Scale Military Aircraft Model Kit 12117" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">Academy US Army Drone RQ-7B UAV 1/35 Scale Military Aircraft Model Kit 12117</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academy US Army Drone RQ-7B UAV 1/35 Scale Military Aircraft Model Kit 12117"><img src="{{ '/assets/images/marketplace-covers/54f43ced846c284ab9ae.jpg' | relative_url }}" alt="Listing image for Academy US Army Drone RQ-7B UAV 1/35 Scale Military Aircraft Model Kit 12117" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">Academy US Army Drone RQ-7B UAV 1/35 Scale Military Aircraft Model Kit 12117</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 MQ-1 Predator Drone Reconnaissance UAV Alloy Aircraft Model Airplane Craft"><img src="{{ '/assets/images/marketplace-covers/0f530137158c75597cc2.jpg' | relative_url }}" alt="Listing image for 1:72 MQ-1 Predator Drone Reconnaissance UAV Alloy Aircraft Model Airplane Craft" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">1:72 MQ-1 Predator Drone Reconnaissance UAV Alloy Aircraft Model Airplane Craft</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 MQ-1 Predator Drone Reconnaissance UAV Alloy Aircraft Model Airplane Craft"><img src="{{ '/assets/images/marketplace-covers/0f530137158c75597cc2.jpg' | relative_url }}" alt="Listing image for 1:72 MQ-1 Predator Drone Reconnaissance UAV Alloy Aircraft Model Airplane Craft" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">1:72 MQ-1 Predator Drone Reconnaissance UAV Alloy Aircraft Model Airplane Craft</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="cost-tradeoff-can-microwaves-fix-the-drone-cost-problem-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -548,7 +548,7 @@ Whether microwave weapons ultimately deliver that promise at scale remains an op
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -568,7 +568,7 @@ Whether microwave weapons ultimately deliver that promise at scale remains an op
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -600,7 +600,7 @@ Whether microwave weapons ultimately deliver that promise at scale remains an op
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -652,7 +652,7 @@ Whether microwave weapons ultimately deliver that promise at scale remains an op
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -697,7 +697,7 @@ Whether microwave weapons ultimately deliver that promise at scale remains an op
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,147 +738,147 @@ Whether microwave weapons ultimately deliver that promise at scale remains an op
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: axios.com  
-   Link: <a href="https://www.axios.com/2025/03/05/epirus-directed-energy-drone-funding" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2025/03/05/epirus-directed-energy-drone-funding</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The round was led by 8VC and Washington Harbour Partners LP. With this funding, Epirus plans to expand production of its key product, Leo...</p></details>
+   Link:<a href="https://www.axios.com/2025/03/05/epirus-directed-energy-drone-funding" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2025/03/05/epirus-directed-energy-drone-funding</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The round was led by 8VC and Washington Harbour Partners LP. With this funding, Epirus plans to expand production of its key product, Leo...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: rand.org  
    Title: Corporation David vs  
-   Link: <a href="https://www.rand.org/pubs/commentary/2025/03/david-vs-goliath-cost-asymmetry-in-warfare.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/commentary/2025/03/david-vs-goliath-cost-asymmetry-in-warfare.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Goliath: Cost Asymmetry in WarfareMarch 6, 2025 — 6 Mar 2025 — These new threats SM-2 missiles priced at around $2.1 million each, eighty...</p></details>
+   Link:<a href="https://www.rand.org/pubs/commentary/2025/03/david-vs-goliath-cost-asymmetry-in-warfare.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/commentary/2025/03/david-vs-goliath-cost-asymmetry-in-warfare.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goliath: Cost Asymmetry in WarfareMarch 6, 2025 — 6 Mar 2025 — These new threats SM-2 missiles priced at around $2.1 million each, eighty...</p></details>
    Published: March 6, 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: droneshield.com  
-   Link: <a href="https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Counter to Drone Swarms: High-Power Microwave...Defensive systems that use interceptors or projectiles are not only too slow against a...</p></details>
+   Link:<a href="https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Counter to Drone Swarms: High-Power Microwave...Defensive systems that use interceptors or projectiles are not only too slow against a...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2602.08477" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.08477</a>  
+   Link:<a href="https://arxiv.org/abs/2602.08477" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.08477</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: militarnyi.com  
    Title: us army orders new microwave drone defense systems for 43 5m  
-   Link: <a href="https://militarnyi.com/en/news/us-army-orders-new-microwave-drone-defense-systems-for-43-5m/" target="_blank" rel="noopener noreferrer nofollow">https://militarnyi.com/en/news/us-army-orders-new-microwave-drone-defense-systems-for-43-5m/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Army has awarded a $43.55 million contract to defense tech firm Epirus for the delivery of next-generation microwave weapons...Read more...</p></details>
+   Link:<a href="https://militarnyi.com/en/news/us-army-orders-new-microwave-drone-defense-systems-for-43-5m/" target="_blank" rel="noopener noreferrer nofollow">https://militarnyi.com/en/news/us-army-orders-new-microwave-drone-defense-systems-for-43-5m/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Army has awarded a $43.55 million contract to defense tech firm Epirus for the delivery of next-generation microwave weapons...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Epirus: Built for the Asymmetric Threat | High-Power Microwave for Drone Defense  
-   Link: <a href="https://www.youtube.com/watch?v=s1E1dt0ia-M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s1E1dt0ia-M</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1-to-Many: The Necessary Counter-Swarm Defense Starts with Epirus High Power Microwave...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=s1E1dt0ia-M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s1E1dt0ia-M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1-to-Many: The Necessary Counter-Swarm Defense Starts with Epirus High Power Microwave...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: The $2M Missile vs. $2K Drone: How L3Harris Solved the Swarm Crisis  
-   Link: <a href="https://www.youtube.com/watch?v=4936r8yQfWQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4936r8yQfWQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus Leonidas high power microwave counter drone cost asymmetry Epirus Leonidas: High-Power Microwave for Counter-Electronics Epirus...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4936r8yQfWQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4936r8yQfWQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus Leonidas high power microwave counter drone cost asymmetry Epirus Leonidas: High-Power Microwave for Counter-Electronics Epirus...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: epirusinc.com  
    Title: Tap to unmute.Read more  
-   Link: <a href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EpirusEpirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone...Sep 10, 2025 — Leonidas neutralized 61-of-61 drones, culminating in a 49...</p></details>
+   Link:<a href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EpirusEpirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone...Sep 10, 2025 — Leonidas neutralized 61-of-61 drones, culminating in a 49...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: epirusinc.com  
-   Link: <a href="https://www.epirusinc.com/electronic-warfare" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/electronic-warfare</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>has spent upwards of $2 million per unit to defeat drones that cost hundreds to thousands. Drones are easily mass-produced, while the U.S...</p></details>
+   Link:<a href="https://www.epirusinc.com/electronic-warfare" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/electronic-warfare</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>has spent upwards of $2 million per unit to defeat drones that cost hundreds to thousands. Drones are easily mass-produced, while the U.S...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aspistrategist.org.au  
    Title: The Strategist A counter to drone swarms: high-power microwave weapons  
-   Link: <a href="https://www.aspistrategist.org.au/a-counter-to-drone-swarms-high-power-microwave-weapons/" target="_blank" rel="noopener noreferrer nofollow">https://www.aspistrategist.org.au/a-counter-to-drone-swarms-high-power-microwave-weapons/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The StrategistA counter to drone swarms: high-power microwave weaponsMay 11, 2025 — 12 May 2025 — Defensive systems that use interceptors...</p></details>
+   Link:<a href="https://www.aspistrategist.org.au/a-counter-to-drone-swarms-high-power-microwave-weapons/" target="_blank" rel="noopener noreferrer nofollow">https://www.aspistrategist.org.au/a-counter-to-drone-swarms-high-power-microwave-weapons/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The StrategistA counter to drone swarms: high-power microwave weaponsMay 11, 2025 — 12 May 2025 — Defensive systems that use interceptors...</p></details>
    Published: May 11, 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/epirus_epirus-leonidas-high-power-microwave-defeats-activity-7371575751776608256-i0zZ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/epirus_epirus-leonidas-high-power-microwave-defeats-activity-7371575751776608256-i0zZ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone...Leonidas is the only mission-capable, counter-swarm solution for the one-to-man...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/epirus_epirus-leonidas-high-power-microwave-defeats-activity-7371575751776608256-i0zZ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/epirus_epirus-leonidas-high-power-microwave-defeats-activity-7371575751776608256-i0zZ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone...Leonidas is the only mission-capable, counter-swarm solution for the one-to-man...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: tomshardware.com  
    Title: Tom's Hardware High-power microwave system downs 49 drones in [one shot](&#123;&#123; 'one-shot/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.tomshardware.com/tech-industry/high-power-microwave-system-downs-49-drones-in-one-shot-weaponized-electromagnetic-interference-erases-drone-swarms-en-masse" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/high-power-microwave-system-downs-49-drones-in-one-shot-weaponized-electromagnetic-interference-erases-drone-swarms-en-masse</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>electronics warfare company, successfully demonstrated a major advancement in counter-drone technology with its Leonidas high-power micro...</p></details>
+   Link:<a href="https://www.tomshardware.com/tech-industry/high-power-microwave-system-downs-49-drones-in-one-shot-weaponized-electromagnetic-interference-erases-drone-swarms-en-masse" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/high-power-microwave-system-downs-49-drones-in-one-shot-weaponized-electromagnetic-interference-erases-drone-swarms-en-masse</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>electronics warfare company, successfully demonstrated a major advancement in counter-drone technology with its Leonidas high-power micro...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: epirusinc.com  
    Title: correcting the cost imbalance in counter unmanned aerial system solutions  
-   Link: <a href="https://www.epirusinc.com/post/correcting-the-cost-imbalance-in-counter-unmanned-aerial-system-solutions" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/post/correcting-the-cost-imbalance-in-counter-unmanned-aerial-system-solutions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EpirusCorrecting the Cost Imbalance in Counter-Unmanned...10 Nov 2022 — Its cost per shot is significantly less than Patriot missiles, H...</p></details>
+   Link:<a href="https://www.epirusinc.com/post/correcting-the-cost-imbalance-in-counter-unmanned-aerial-system-solutions" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/post/correcting-the-cost-imbalance-in-counter-unmanned-aerial-system-solutions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EpirusCorrecting the Cost Imbalance in Counter-Unmanned...10 Nov 2022 — Its cost per shot is significantly less than Patriot missiles, H...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: epirusinc.com  
-   Link: <a href="https://www.epirusinc.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus - Home of Leonidas, the Premier High-Power...Epirus combines the latest in directed energy, long-pulse high-power microwaves (HPM...</p></details>
+   Link:<a href="https://www.epirusinc.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus - Home of Leonidas, the Premier High-Power...Epirus combines the latest in directed energy, long-pulse high-power microwaves (HPM...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Epirus Leonidas  
-   Link: <a href="https://en.wikipedia.org/wiki/Epirus_Leonidas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Epirus_Leonidas</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus LeonidasThe Leonidas is a high-power microwave (HPM) weapon developed to disable unmanned aerial vehicle (UAV) swarms. Against...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Epirus_Leonidas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Epirus_Leonidas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus LeonidasThe Leonidas is a high-power microwave (HPM) weapon developed to disable unmanned aerial vehicle (UAV) swarms. Against...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nextgendefense.com  
    Title: epirus microwave weapon  
-   Link: <a href="https://nextgendefense.com/epirus-microwave-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://nextgendefense.com/epirus-microwave-weapon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus Introduces Microwave Weapon to Counter...13 Apr 2025 — Epirus debuts its Leonidas H2O microwave weapon, a non-kinetic system test...</p></details>
+   Link:<a href="https://nextgendefense.com/epirus-microwave-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://nextgendefense.com/epirus-microwave-weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus Introduces Microwave Weapon to Counter...13 Apr 2025 — Epirus debuts its Leonidas H2O microwave weapon, a non-kinetic system test...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/401707891_Cost-Effectiveness_Analysis_of_Counter-Unmanned_Aircraft_Systems_Technologies_A_Comparative_Study_of_Kinetic_Electronic_Warfare_and_Directed_Energy_Countermeasures_2022-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401707891_Cost-Effectiveness_Analysis_of_Counter-Unmanned_Aircraft_Systems_Technologies_A_Comparative_Study_of_Kinetic_Electronic_Warfare_and_Directed_Energy_Countermeasures_2022-2026</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cost-Effectiveness Analysis of Counter-Unmanned Aircraft...9 Mar 2026 — to defend against 100 Shahed drones using Patriot missiles would...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/401707891_Cost-Effectiveness_Analysis_of_Counter-Unmanned_Aircraft_Systems_Technologies_A_Comparative_Study_of_Kinetic_Electronic_Warfare_and_Directed_Energy_Countermeasures" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401707891_Cost-Effectiveness_Analysis_of_Counter-Unmanned_Aircraft_Systems_Technologies_A_Comparative_Study_of_Kinetic_Electronic_Warfare_and_Directed_Energy_Countermeasures</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cost-Effectiveness Analysis of Counter-Unmanned Aircraft...9 Mar 2026 — to defend against 100 Shahed drones using Patriot missiles would...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/technology/comments/1ntgl3j/usmade_leonidas_microwave_weapon_takes_down_49/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/technology/comments/1ntgl3j/usmade_leonidas_microwave_weapon_takes_down_49/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US-made Leonidas microwave weapon takes down 49...They&#x27;re cheap and plentiful, and reduce the cost discrepancy of drones vs missiles. An...</p></details>
+   Link:<a href="https://www.reddit.com/r/technology/comments/1ntgl3j/usmade_leonidas_microwave_weapon_takes_down_49/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/technology/comments/1ntgl3j/usmade_leonidas_microwave_weapon_takes_down_49/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US-made Leonidas microwave weapon takes down 49...They&#x27;re cheap and plentiful, and reduce the cost discrepancy of drones vs missiles. An...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: twz.com  
    Title: army puts 50m bet on next gen leonidas high power microwave counter drone tech  
-   Link: <a href="https://www.twz.com/land/army-puts-50m-bet-on-next-gen-leonidas-high-power-microwave-counter-drone-tech" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/land/army-puts-50m-bet-on-next-gen-leonidas-high-power-microwave-counter-drone-tech</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Army Puts $43M Bet On Next Gen Leonidas High Power...17 Jul 2025 — Today, high power microwave (HPM) system maker Epirus announced it ha...</p></details>
+   Link:<a href="https://www.twz.com/land/army-puts-50m-bet-on-next-gen-leonidas-high-power-microwave-counter-drone-tech" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/land/army-puts-50m-bet-on-next-gen-leonidas-high-power-microwave-counter-drone-tech</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Army Puts $43M Bet On Next Gen Leonidas High Power...17 Jul 2025 — Today, high power microwave (HPM) system maker Epirus announced it ha...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: united24media.com  
    Title: meet leonidas the drone killing microwave weapon ukraine has its eye on 12178  
-   Link: <a href="https://united24media.com/latest-news/meet-leonidas-the-drone-killing-microwave-weapon-ukraine-has-its-eye-on-12178" target="_blank" rel="noopener noreferrer nofollow">https://united24media.com/latest-news/meet-leonidas-the-drone-killing-microwave-weapon-ukraine-has-its-eye-on-12178</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meet Leonidas, the Drone-Killing Microwave Weapon...3 Oct 2025 — Epirus brands Leonidas as cost-effective: the company claims the “cost...</p></details>
+   Link:<a href="https://united24media.com/latest-news/meet-leonidas-the-drone-killing-microwave-weapon-ukraine-has-its-eye-on-12178" target="_blank" rel="noopener noreferrer nofollow">https://united24media.com/latest-news/meet-leonidas-the-drone-killing-microwave-weapon-ukraine-has-its-eye-on-12178</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meet Leonidas, the Drone-Killing Microwave Weapon...3 Oct 2025 — Epirus brands Leonidas as cost-effective: the company claims the “cost...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DXpscG1D6_j/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXpscG1D6_j/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n developed by Epirus to neutralise drone swarms by frying their...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DXpscG1D6_j/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXpscG1D6_j/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n developed by Epirus to neutralise drone swarms by frying their...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/LessCredibleDefence/comments/yvhmcb/how_can_the_west_defend_against_low_cost_shahed/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LessCredibleDefence/comments/yvhmcb/how_can_the_west_defend_against_low_cost_shahed/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ves. They can simply overwhelm their defenses in swarms. The...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/LessCredibleDefence/comments/yvhmcb/how_can_the_west_defend_against_low_cost_shahed/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LessCredibleDefence/comments/yvhmcb/how_can_the_west_defend_against_low_cost_shahed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ves. They can simply overwhelm their defenses in swarms. The...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/TankPorn/comments/1h3dyft/[stryker" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TankPorn/comments/1h3dyft/[stryker</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nti-aircraft gun since electricity is cheaper than physical...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/TankPorn/comments/1h3dyft/[stryker" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TankPorn/comments/1h3dyft/[stryker</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nti-aircraft gun since electricity is cheaper than physical...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWT64qTgn7T/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWT64qTgn7T/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tware-defined electromagnetic pulses to &quot;fry&quot; drone electronics...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DWT64qTgn7T/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWT64qTgn7T/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tware-defined electromagnetic pulses to &quot;fry&quot; drone electronics...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/techtimespage/posts/the-us-military-has-announced-the-successful-test-of-the-leonidas-high-power-mic/916037894565283/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/techtimespage/posts/the-us-military-has-announced-the-successful-test-of-the-leonidas-high-power-mic/916037894565283/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ng a cost-effective alternative to missiles or lasers for...</p></details>
+   Link:<a href="https://www.facebook.com/techtimespage/posts/the-us-military-has-announced-the-successful-test-of-the-leonidas-high-power-mic/916037894565283/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/techtimespage/posts/the-us-military-has-announced-the-successful-test-of-the-leonidas-high-power-mic/916037894565283/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ng a cost-effective alternative to missiles or lasers for...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DPOpg2WDCDR/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DPOpg2WDCDR/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rones was neutralized within seconds during tests of its...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DPOpg2WDCDR/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DPOpg2WDCDR/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rones was neutralized within seconds during tests of its...</p></details>

@@ -269,17 +269,17 @@ image: /assets/images/Directed_Ener_98f417_microwave_dro_730805_microwave_las_83
 
 ## Introduction
 
-High-power microwave weapons are attractive for swarm defence because they can affect multiple drones with a single pulse rather than engaging each target individually. That same advantage creates one of their most difficult operational problems: the energy is intended to influence electronics across a volume of airspace, not just a single point target. In a mixed environment containing friendly aircraft, civilian infrastructure, communications equipment, vehicles, sensors, and people carrying electronic devices, the question is no longer only whether the swarm can be stopped. It is whether the defensive effect can be confined to the intended targets. This discrimination challenge is one of the most important trade-offs between microwave and laser systems in [counter-drone]({{ 'missile-savings/' | relative_url }}) operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[Office of Naval Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">Office of Naval Research Directed Energy Weapons: High Power Microwaves Navy DEWs include systems that use high-energy lasers (HEL) that</span><span class="citation-popover-snippet">Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesNavy DEWs include systems that use high-energy lasers (HEL) that em...</span></span></span>
+High-power microwave weapons are attractive for swarm defence because they can affect multiple drones with a single pulse rather than engaging each target individually. That same advantage creates one of their most difficult operational problems: the energy is intended to influence electronics across a volume of airspace, not just a single point target. In a mixed environment containing friendly aircraft, civilian infrastructure, communications equipment, vehicles, sensors, and people carrying electronic devices, the question is no longer only whether the swarm can be stopped. It is whether the defensive effect can be confined to the intended targets. This discrimination challenge is one of the most important trade-offs between microwave and laser systems in [counter-drone]({{ 'missile-savings/' | relative_url }}) operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[Office of Naval Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">Office of Naval Research Directed Energy Weapons: High Power Microwaves Navy DEWs include systems that use high-energy lasers (HEL) that</span><span class="citation-popover-snippet">Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesNavy DEWs include systems that use high-energy lasers (HEL) that em...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_microwave_dro_730805_microwave_las_837ffc_microwave_are_2bffe0-Illustration-1-dark.svg" | relative_url }}" alt="Area Risks illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_microwave_dro_730805_microwave_las_837ffc_microwave_are_2bffe0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_microwave_dro_730805_microwave_las_837ffc_microwave_are_2bffe0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## When Wider Beams Create a Targeting Problem
 
-High-power microwave systems are designed around a counter-electronics effect. Rather than burning through an airframe, they attempt to couple electromagnetic energy into antennas, wiring, sensors, processors, or other electronic pathways. Programmes such as the US Air Force Research Laboratory's [THOR]({{ 'thor/' | relative_url }}) have emphasised the ability to defeat multiple drones simultaneously using a comparatively wide engagement area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[Air Force Research Laboratory+2Air University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — “THOR was exceptionally effective at disabling th...</span><span class="citation-popover-meta">Published: May 16, 2023</span></span></span>
+High-power microwave systems are designed around a counter-electronics effect. Rather than burning through an airframe, they attempt to couple electromagnetic energy into antennas, wiring, sensors, processors, or other electronic pathways. Programmes such as the US Air Force Research Laboratory's [THOR]({{ 'thor/' | relative_url }}) have emphasised the ability to defeat multiple drones simultaneously using a comparatively wide engagement area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[Air Force Research Laboratory+2Air University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — “THOR was exceptionally effective at disabling th...</span><span class="citation-popover-meta">Published: May 16, 2023</span></span></span>
 
 The operational benefit is obvious when facing dense [swarms]({{ 'swarms/' | relative_url }}). However, the same area coverage means that the weapon's footprint may contain more than hostile drones. Real airspace is crowded with radios, navigation equipment, surveillance sensors, communication links, industrial control systems, and increasingly large numbers of unmanned aircraft performing legitimate functions.
 
-Unlike a laser strike, which is typically directed at a specific point on a selected target, a microwave engagement is concerned with the volume illuminated by the electromagnetic field. The central risk is therefore not simply missing the target. It is affecting additional systems that happen to occupy the same electromagnetic space. Defence analysts have long noted that assessing high-power microwave effects requires understanding not only the source but also how energy couples into surrounding electronics and infrastructure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dsb.cto.mil/wp-content/uploads/reports/2000s/ADA476320.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dsb.cto.mil">[dsb.cto.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dsb.cto.mil</span><span class="citation-popover-snippet">The process to assess the effects of high-powered microwave on a target has to include the full process from power...Read more...</span></span></span>
+Unlike a laser strike, which is typically directed at a specific point on a selected target, a microwave engagement is concerned with the volume illuminated by the electromagnetic field. The central risk is therefore not simply missing the target. It is affecting additional systems that happen to occupy the same electromagnetic space. Defence analysts have long noted that assessing high-power microwave effects requires understanding not only the source but also how energy couples into surrounding electronics and infrastructure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dsb.cto.mil/wp-content/uploads/reports/2000s/ADA476320.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dsb.cto.mil">[dsb.cto.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dsb.cto.mil</span><span class="citation-popover-snippet">The process to assess the effects of high-powered microwave on a target has to include the full process from power...Read more...</span></span></span>
 
 ### Why Prediction Is Difficult
 
@@ -296,7 +296,7 @@ Microwave effects are often less deterministic than laser damage. The outcome de
 
 </div>
 
-As a result, two nearby devices may experience very different outcomes even when exposed to the same pulse. A drone may fail completely while another remains operational, and non-target electronics may react in unexpected ways. This variability complicates confidence in discrimination, especially when friendly and hostile systems are intermingled. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mobilityengineeringtech.com/component/content/article/45802-afit-0006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mobilityengineeringtech.com">[Mobility Engineering Technology+2GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mobilityengineeringtech.com</span><span class="citation-popover-title">Unlike other</span><span class="citation-popover-snippet">Mobility Engineering TechnologyHardening Unmanned Aerial Systems Against High-Power...May 1, 2022 — 1 May 2022 — High power microwave we...</span><span class="citation-popover-meta">Published: May 1, 2022</span></span></span>
+As a result, two nearby devices may experience very different outcomes even when exposed to the same pulse. A drone may fail completely while another remains operational, and non-target electronics may react in unexpected ways. This variability complicates confidence in discrimination, especially when friendly and hostile systems are intermingled.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mobilityengineeringtech.com/component/content/article/45802-afit-0006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mobilityengineeringtech.com">[Mobility Engineering Technology+2GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mobilityengineeringtech.com</span><span class="citation-popover-title">Unlike other</span><span class="citation-popover-snippet">Mobility Engineering TechnologyHardening Unmanned Aerial Systems Against High-Power...May 1, 2022 — 1 May 2022 — High power microwave we...</span><span class="citation-popover-meta">Published: May 1, 2022</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QjHGxKb6W1c" title="THOR (Tactical High-power Operational Responder) Destroys Swarms of Enemy Drones" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QjHGxKb6W1c" target="_blank" rel="noopener noreferrer">THOR (Tactical High-power Operational Responder) Destroys Swarms of Enemy Drones</a></p><p class="youtube-embed-meta">Channel: AFResearchLab</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QjHGxKb6W1c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QjHGxKb6W1c">Open on YouTube</a></p></div></div></div>
@@ -305,7 +305,7 @@ As a result, two nearby devices may experience very different outcomes even when
 
 The mixed-airspace problem becomes most visible around military bases, airports, ports, urban infrastructure, and public events. These are precisely the locations where counter-drone systems are most likely to be deployed.
 
-Counter-drone industry and technical literature frequently notes that high-power microwave systems can interfere with electronic devices beyond the intended drone targets unless the energy is sufficiently directed and controlled. Some systems use specialised antennas to concentrate effects and reduce [collateral]({{ 'collateral-risk/' | relative_url }}) exposure, but this reduces rather than eliminates the discrimination challenge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.robinradar.com/resources/10-counter-drone-technologies-to-detect-and-stop-drones-today" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: robinradar.com">[robinradar.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">robinradar.com</span><span class="citation-popover-snippet">The EMP interferes with radio links and...</span></span></span>
+Counter-drone industry and technical literature frequently notes that high-power microwave systems can interfere with electronic devices beyond the intended drone targets unless the energy is sufficiently directed and controlled. Some systems use specialised antennas to concentrate effects and reduce [collateral]({{ 'collateral-risk/' | relative_url }}) exposure, but this reduces rather than eliminates the discrimination challenge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.robinradar.com/resources/10-counter-drone-technologies-to-detect-and-stop-drones-today" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: robinradar.com">[robinradar.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">robinradar.com</span><span class="citation-popover-snippet">The EMP interferes with radio links and...</span></span></span>
 
 Several categories of nearby systems are especially sensitive:
 
@@ -317,7 +317,7 @@ Several categories of nearby systems are especially sensitive:
 
 **Civilian digital infrastructure.** Industrial facilities, telecommunications equipment, transportation systems, and networked sensors may all be present near likely drone targets. Modern infrastructure contains far more electronics than the military environments in which many early directed-energy concepts were developed.
 
-The challenge is amplified by the rise of shared airspace. Legitimate commercial drones, inspection [platforms]({{ 'platforms/' | relative_url }}), delivery systems, and future advanced air mobility aircraft are expected to operate in environments where counter-drone measures may also be required. The distinction between hostile and non-hostile airborne electronics becomes increasingly important as airspace grows more crowded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2406.08038" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Interference Analysis for Coexistence of UAVs and Civil Aircrafts Based on Automatic Dependent Surveillance-BroadcastJune 12, 2024...</span><span class="citation-popover-meta">Published: June 12, 2024</span></span></span>
+The challenge is amplified by the rise of shared airspace. Legitimate commercial drones, inspection [platforms]({{ 'platforms/' | relative_url }}), delivery systems, and future advanced air mobility aircraft are expected to operate in environments where counter-drone measures may also be required. The distinction between hostile and non-hostile airborne electronics becomes increasingly important as airspace grows more crowded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2406.08038" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Interference Analysis for Coexistence of UAVs and Civil Aircrafts Based on Automatic Dependent Surveillance-BroadcastJune 12, 2024...</span><span class="citation-popover-meta">Published: June 12, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_microwave_dro_730805_microwave_las_837ffc_microwave_are_2bffe0-Illustration-2-dark.svg" | relative_url }}" alt="Area Risks illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_microwave_dro_730805_microwave_las_837ffc_microwave_are_2bffe0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_microwave_dro_730805_microwave_las_837ffc_microwave_are_2bffe0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -325,7 +325,7 @@ The challenge is amplified by the rise of shared airspace. Legitimate commercial
 
 The discrimination issue is not limited to equipment. Safety planners must also consider exposure zones for personnel and bystanders.
 
-High-power electromagnetic systems are subject to operational restrictions, exclusion areas, and safety analyses intended to ensure that people and equipment are not unintentionally exposed. Recent modelling work on counter-drone microwave systems explicitly includes safety exclusion calculations as part of system design, reflecting the fact that operational effectiveness cannot be separated from safety management. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2602.08477" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Multi-physics Simulation Framework for High-power Microwave Counter-unmanned Aerial System Design and Performance EvaluationFebrua...</span></span></span>
+High-power electromagnetic systems are subject to operational restrictions, exclusion areas, and safety analyses intended to ensure that people and equipment are not unintentionally exposed. Recent modelling work on counter-drone microwave systems explicitly includes safety exclusion calculations as part of system design, reflecting the fact that operational effectiveness cannot be separated from safety management.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2602.08477" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Multi-physics Simulation Framework for High-power Microwave Counter-unmanned Aerial System Design and Performance EvaluationFebrua...</span></span></span>
 
 For military operators, this means that the most effective firing opportunity against a swarm may not always be the safest opportunity. A drone cluster approaching over an isolated training range presents a different risk picture from the same cluster approaching over an airport perimeter, a logistics hub, or a populated urban area.
 
@@ -338,217 +338,217 @@ This reality creates a paradox. Microwave systems are often most valuable when m
 
 The comparison with [lasers]({{ 'lasers/' | relative_url }}) highlights why mixed-airspace risk is such a defining issue for microwave weapons.
 
-A laser engagement generally concentrates energy on a very small point. The operator selects a target, tracks it, and delivers energy to that specific object. The primary concern is line-of-sight accuracy rather than electromagnetic spillover into nearby electronics. This does not make lasers risk-free, but their effects are usually more geographically confined and easier to associate with a specific target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[Office of Naval Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">Office of Naval Research Directed Energy Weapons: High Power Microwaves Navy DEWs include systems that use high-energy lasers (HEL) that</span><span class="citation-popover-snippet">Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesNavy DEWs include systems that use high-energy lasers (HEL) that em...</span></span></span>
+A laser engagement generally concentrates energy on a very small point. The operator selects a target, tracks it, and delivers energy to that specific object. The primary concern is line-of-sight accuracy rather than electromagnetic spillover into nearby electronics. This does not make lasers risk-free, but their effects are usually more geographically confined and easier to associate with a specific target.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[Office of Naval Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">Office of Naval Research Directed Energy Weapons: High Power Microwaves Navy DEWs include systems that use high-energy lasers (HEL) that</span><span class="citation-popover-snippet">Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesNavy DEWs include systems that use high-energy lasers (HEL) that em...</span></span></span>
 
 Microwave systems reverse that balance:
 
 ConsiderationHigh-power microwavesLasersEngagement styleOne-to-many area effectOne-to-one precision effectSwarm efficiencyPotentially very highLimited by sequential engagementsTarget discriminationMore difficult in mixed environmentsGenerally higherRisk to nearby electronicsCentral planning concernUsually much lowerFriendly-system deconflictionOften complexTypically simpler
 
-This does not mean lasers are automatically preferable. A defender facing dozens of drones may accept increased discrimination challenges because a microwave system can engage the swarm more rapidly. The decision becomes situational: how much collateral electronic risk is acceptable in exchange for greater capacity against clustered threats? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[Air Force Research Laboratory+2Breaking Defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — “THOR was exceptionally effective at disabling th...</span><span class="citation-popover-meta">Published: May 16, 2023</span></span></span>
+This does not mean lasers are automatically preferable. A defender facing dozens of drones may accept increased discrimination challenges because a microwave system can engage the swarm more rapidly. The decision becomes situational: how much collateral electronic risk is acceptable in exchange for greater capacity against clustered threats?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[Air Force Research Laboratory+2Breaking Defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — “THOR was exceptionally effective at disabling th...</span><span class="citation-popover-meta">Published: May 16, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_microwave_dro_730805_microwave_las_837ffc_microwave_are_2bffe0-Illustration-3-dark.svg" | relative_url }}" alt="Area Risks illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_microwave_dro_730805_microwave_las_837ffc_microwave_are_2bffe0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_microwave_dro_730805_microwave_las_837ffc_microwave_are_2bffe0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Mixed Airspace Remains a Limiting Factor
 
-Much of the public discussion surrounding microwave counter-drone systems focuses on their ability to disable many drones at once. Demonstrations of systems such as THOR have reinforced that appeal by showing effective engagement of swarm-like targets. Air Force Research Laboratory+2Air &amp; Space Forces Magazine <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[afrl.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — “THOR was exceptionally effective at disabling th...</span><span class="citation-popover-meta">Published: May 16, 2023</span></span></span>
+Much of the public discussion surrounding microwave counter-drone systems focuses on their ability to disable many drones at once. Demonstrations of systems such as THOR have reinforced that appeal by showing effective engagement of swarm-like targets. Air Force Research Laboratory+2Air &amp; Space Forces Magazine<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[afrl.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — “THOR was exceptionally effective at disabling th...</span><span class="citation-popover-meta">Published: May 16, 2023</span></span></span>
 
 Yet the harder operational question is often what else occupies the engagement zone. Modern battlefields and security environments are dense with friendly electronics, civilian infrastructure, and legitimate aircraft. As microwave systems become more capable, the challenge shifts from generating sufficient power to managing where the effects occur and ensuring that non-target systems remain unaffected.
 
-For this reason, mixed-airspace risk is not a secondary concern but a defining constraint on microwave area-effect weapons. Their greatest strength against swarms—the ability to influence many targets simultaneously—is also the reason commanders must think carefully about discrimination, deconfliction, and collateral electronic effects before employing them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.robinradar.com/resources/10-counter-drone-technologies-to-detect-and-stop-drones-today" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: robinradar.com">[robinradar.com+2dsb.cto.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">robinradar.com</span><span class="citation-popover-snippet">The EMP interferes with radio links and...</span></span></span>
+For this reason, mixed-airspace risk is not a secondary concern but a defining constraint on microwave area-effect weapons. Their greatest strength against swarms—the ability to influence many targets simultaneously—is also the reason commanders must think carefully about discrimination, deconfliction, and collateral electronic effects before employing them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.robinradar.com/resources/10-counter-drone-technologies-to-detect-and-stop-drones-today" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: robinradar.com">[robinradar.com+2dsb.cto.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">robinradar.com</span><span class="citation-popover-snippet">The EMP interferes with radio links and...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aSM6q_TKcTs" title="DRDO&#x27;S New Microwave Weapon Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aSM6q_TKcTs" target="_blank" rel="noopener noreferrer">DRDO&#x27;S New Microwave Weapon Explained</a></p><p class="youtube-embed-meta">Channel: Republic World</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aSM6q_TKcTs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aSM6q_TKcTs">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Area Effects Become a Defense Problem. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Area Effects Become a Defense Problem. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12408854-M.jpg" alt="Cover for Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pentagon&#x27;s Brain">Pentagon&#x27;s Brain</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12408854-M.jpg" alt="Cover for Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pentagon&#x27;s Brain">Pentagon&#x27;s Brain</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explores DARPA-driven military innovation, including the broader ecosystem that produced advanced weapon technologies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores DARPA-driven military innovation, including the broader ecosystem that produced advanced weapon technologies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides context on advanced military technology development and the challenges of deploying novel defense systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on advanced military technology development and the challenges of deploying novel defense systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Explores DARPA-driven military innovation, including the broader ecosystem that produced advanced weapon technologies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores DARPA-driven military innovation, including the broader ecosystem that produced advanced weapon technologies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Military+Laser+Technology+and+Systems+David+H+Titterton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Military Laser Technology and Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13549730-M.jpg" alt="Cover for Military Laser Technology and Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Military+Laser+Technology+and+Systems+David+H+Titterton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Military Laser Technology and Systems">Military Laser Technology and Systems</a>
-        </h4>
-        <p class="fr-book-author">By David H Titterton, D H Titterton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Military+Laser+Technology+and+Systems+David+H+Titterton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Military Laser Technology and Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13549730-M.jpg" alt="Cover for Military Laser Technology and Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Military+Laser+Technology+and+Systems+David+H+Titterton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Military Laser Technology and Systems">Military Laser Technology and Systems</a>
+</h4>
+<p class="fr-book-author">By David H Titterton, D H Titterton</p>
         
-        <p class="fr-book-desc">First published 2015. Subjects: Weapons systems, Lasers, Military applications, Laser weapons, Systèmes d&#x27;armes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Military+Laser+Technology+and+Systems+David+H+Titterton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015. Subjects: Weapons systems, Lasers, Military applications, Laser weapons, Systèmes d&#x27;armes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Military+Laser+Technology+and+Systems+David+H+Titterton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Pentagon&#x27;s Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Pentagon&#x27;s Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHALLENGE COIN - U.S. Army 69th Air Defense Artillery Brigade Team Of Winners"><img src="{{ '/assets/images/marketplace-covers/7942abf3c20eb44692b6.jpg' | relative_url }}" alt="Listing image for CHALLENGE COIN - U.S. Army 69th Air Defense Artillery Brigade Team Of Winners" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">CHALLENGE COIN - U.S. Army 69th Air Defense Artillery Brigade Team Of Winners</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHALLENGE COIN - U.S. Army 69th Air Defense Artillery Brigade Team Of Winners"><img src="{{ '/assets/images/marketplace-covers/7942abf3c20eb44692b6.jpg' | relative_url }}" alt="Listing image for CHALLENGE COIN - U.S. Army 69th Air Defense Artillery Brigade Team Of Winners" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">CHALLENGE COIN - U.S. Army 69th Air Defense Artillery Brigade Team Of Winners</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for United States Air Force Challenge Coin Set USAF USSF Department Of Defense"><img src="{{ '/assets/images/marketplace-covers/e02970bbc84e9104cf8e.jpg' | relative_url }}" alt="Listing image for United States Air Force Challenge Coin Set USAF USSF Department Of Defense" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">United States Air Force Challenge Coin Set USAF USSF Department Of Defense</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for United States Air Force Challenge Coin Set USAF USSF Department Of Defense"><img src="{{ '/assets/images/marketplace-covers/e02970bbc84e9104cf8e.jpg' | relative_url }}" alt="Listing image for United States Air Force Challenge Coin Set USAF USSF Department Of Defense" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">United States Air Force Challenge Coin Set USAF USSF Department Of Defense</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AIR DEFENSE TROOPS OF ARMED FORCES -UKRAINIAN MILITARY TOKEN CHALLENGE COIN"><img src="{{ '/assets/images/marketplace-covers/586b8df262fdf4d8dcaf.jpg' | relative_url }}" alt="Listing image for AIR DEFENSE TROOPS OF ARMED FORCES -UKRAINIAN MILITARY TOKEN CHALLENGE COIN" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">AIR DEFENSE TROOPS OF ARMED FORCES -UKRAINIAN MILITARY TOKEN CHALLENGE COIN</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AIR DEFENSE TROOPS OF ARMED FORCES -UKRAINIAN MILITARY TOKEN CHALLENGE COIN"><img src="{{ '/assets/images/marketplace-covers/586b8df262fdf4d8dcaf.jpg' | relative_url }}" alt="Listing image for AIR DEFENSE TROOPS OF ARMED FORCES -UKRAINIAN MILITARY TOKEN CHALLENGE COIN" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">AIR DEFENSE TROOPS OF ARMED FORCES -UKRAINIAN MILITARY TOKEN CHALLENGE COIN</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Air Force Challenge Coin U.S. Air Force Skull Defense Force Badge Military Coin"><img src="{{ '/assets/images/marketplace-covers/cc28c6f578a016d48bda.jpg' | relative_url }}" alt="Listing image for Air Force Challenge Coin U.S. Air Force Skull Defense Force Badge Military Coin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Air Force Challenge Coin U.S. Air Force Skull Defense Force Badge Military Coin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Air Force Challenge Coin U.S. Air Force Skull Defense Force Badge Military Coin"><img src="{{ '/assets/images/marketplace-covers/cc28c6f578a016d48bda.jpg' | relative_url }}" alt="Listing image for Air Force Challenge Coin U.S. Air Force Skull Defense Force Badge Military Coin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Air Force Challenge Coin U.S. Air Force Skull Defense Force Badge Military Coin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="area-risks-when-area-effects-become-a-defense-problem-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -564,7 +564,7 @@ For this reason, mixed-airspace risk is not a secondary concern but a defining c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -584,7 +584,7 @@ For this reason, mixed-airspace risk is not a secondary concern but a defining c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -616,7 +616,7 @@ For this reason, mixed-airspace risk is not a secondary concern but a defining c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -668,7 +668,7 @@ For this reason, mixed-airspace risk is not a secondary concern but a defining c
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -713,7 +713,7 @@ For this reason, mixed-airspace risk is not a secondary concern but a defining c
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -754,149 +754,149 @@ For this reason, mixed-airspace risk is not a secondary concern but a defining c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gao.gov  
    Title: gao 23 106717  
-   Link: <a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — These weapons include high energy lasers and other high power electromagne...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — These weapons include high energy lasers and other high power electromagne...</p></details>
    Published: May 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: dsb.cto.mil  
-   Link: <a href="https://dsb.cto.mil/wp-content/uploads/reports/2000s/ADA476320.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dsb.cto.mil/wp-content/uploads/reports/2000s/ADA476320.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The process to assess the effects of high-powered microwave on a target has to include the full process from power...Read more...</p></details>
+   Link:<a href="https://dsb.cto.mil/wp-content/uploads/reports/2000s/ADA476320.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dsb.cto.mil/wp-content/uploads/reports/2000s/ADA476320.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The process to assess the effects of high-powered microwave on a target has to include the full process from power...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/assets/820/819139.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/820/819139.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DIRECTED ENERGY WEAPONS DOD Should Focus on...Apr 17, 2023 — DOD officials report that the effects of HPM are. “nearly linear” so tha...</p></details>
+   Link:<a href="https://www.gao.gov/assets/820/819139.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/820/819139.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DIRECTED ENERGY WEAPONS DOD Should Focus on...Apr 17, 2023 — DOD officials report that the effects of HPM are. “nearly linear” so tha...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: robinradar.com  
-   Link: <a href="https://www.robinradar.com/resources/10-counter-drone-technologies-to-detect-and-stop-drones-today" target="_blank" rel="noopener noreferrer nofollow">https://www.robinradar.com/resources/10-counter-drone-technologies-to-detect-and-stop-drones-today</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The EMP interferes with radio links and...</p></details>
+   Link:<a href="https://www.robinradar.com/resources/10-counter-drone-technologies-to-detect-and-stop-drones-today" target="_blank" rel="noopener noreferrer nofollow">https://www.robinradar.com/resources/10-counter-drone-technologies-to-detect-and-stop-drones-today</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The EMP interferes with radio links and...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2406.08038" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2406.08038</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Interference Analysis for Coexistence of UAVs and Civil Aircrafts Based on Automatic Dependent Surveillance-BroadcastJune 12, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2406.08038" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2406.08038</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interference Analysis for Coexistence of UAVs and Civil Aircrafts Based on Automatic Dependent Surveillance-BroadcastJune 12, 2024...</p></details>
    Published: June 12, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2602.08477" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.08477</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Multi-physics Simulation Framework for High-power Microwave Counter-unmanned Aerial System Design and Performance EvaluationFebrua...</p></details>
+   Link:<a href="https://arxiv.org/abs/2602.08477" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.08477</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Multi-physics Simulation Framework for High-power Microwave Counter-unmanned Aerial System Design and Performance EvaluationFebrua...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: onr.navy.mil  
-   Link: <a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-[microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-[microwaves</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesNavy DEWs include systems that use high-energy lasers (HEL) that em...</p></details>
+   Link:<a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-[microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-[microwaves</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesNavy DEWs include systems that use high-energy lasers (HEL) that em...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: afrl.af.mil  
    Title: Air Force Research Laboratory AFRL conducts swarm technology demonstration  
-   Link: <a href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — “THOR was exceptionally effective at disabling th...</p></details>
+   Link:<a href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — “THOR was exceptionally effective at disabling th...</p></details>
    Published: May 16, 2023  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: airuniversity.af.edu  
    Title: army partners with air forces thor for base defense  
-   Link: <a href="https://www.airuniversity.af.edu/News/Display/Article/2511792/army-partners-with-air-forces-thor-for-base-defense/" target="_blank" rel="noopener noreferrer nofollow">https://www.airuniversity.af.edu/News/Display/Article/2511792/army-partners-with-air-forces-thor-for-base-defense/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>“The system output is powerful radio wave bursts, which offer a greater engagement...Read more...</p></details>
+   Link:<a href="https://www.airuniversity.af.edu/News/Display/Article/2511792/army-partners-with-air-forces-thor-for-base-defense/" target="_blank" rel="noopener noreferrer nofollow">https://www.airuniversity.af.edu/News/Display/Article/2511792/army-partners-with-air-forces-thor-for-base-defense/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“The system output is powerful radio wave bursts, which offer a greater engagement...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: afresearchlab.com  
-   Link: <a href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://afresearchlab.com/counter-swarm-high-power-weapon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A target is identified, the silent weapon discharges in a nanosecond and the impact...Read more...</p></details>
+   Link:<a href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://afresearchlab.com/counter-swarm-high-power-weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A target is identified, the silent weapon discharges in a nanosecond and the impact...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: mobilityengineeringtech.com  
    Title: Unlike other  
-   Link: <a href="https://www.mobilityengineeringtech.com/component/content/article/45802-afit-0006" target="_blank" rel="noopener noreferrer nofollow">https://www.mobilityengineeringtech.com/component/content/article/45802-afit-0006</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mobility [Engineering](&amp;#123;&amp;#123; &#x27;engineering/&#x27; | relative_url &amp;#125;&amp;#125;) TechnologyHardening Unmanned Aerial Systems Against High-Power...May 1, 2022 — 1 May 2022 — High power microwave we...</p></details>
+   Link:<a href="https://www.mobilityengineeringtech.com/component/content/article/45802-afit-0006" target="_blank" rel="noopener noreferrer nofollow">https://www.mobilityengineeringtech.com/component/content/article/45802-afit-0006</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mobility [Engineering](&amp;#123;&amp;#123; &#x27;engineering/&#x27; | relative_url &amp;#125;&amp;#125;) TechnologyHardening Unmanned Aerial Systems Against High-Power...May 1, 2022 — 1 May 2022 — High power microwave we...</p></details>
    Published: May 1, 2022  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: breakingdefense.com  
    Title: high power microwave force field knocks drone swarms from sky  
-   Link: <a href="https://breakingdefense.com/2025/02/high-power-microwave-force-field-knocks-drone-swarms-from-sky/" target="_blank" rel="noopener noreferrer nofollow">https://breakingdefense.com/2025/02/high-power-microwave-force-field-knocks-drone-swarms-from-sky/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Working like an EMP weapon, microwaves change the counter-UAS mission from one-...Read more...</p></details>
+   Link:<a href="https://breakingdefense.com/2025/02/high-power-microwave-force-field-knocks-drone-swarms-from-sky/" target="_blank" rel="noopener noreferrer nofollow">https://breakingdefense.com/2025/02/high-power-microwave-force-field-knocks-drone-swarms-from-sky/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Working like an EMP weapon, microwaves change the counter-UAS mission from one-...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: airandspaceforces.com  
    Title: This was the first test of this scale in AFRL history.Read more  
-   Link: <a href="https://www.airandspaceforces.com/air-forces-thor-drone-swarm-demo/" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/air-forces-thor-drone-swarm-demo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air &amp; Space Forces MagazineTHOR Hammers Drone Swarm with High-Power MicrowavesMay 19, 2023 — AFRL completed a successful demonstration of...</p></details>
+   Link:<a href="https://www.airandspaceforces.com/air-forces-thor-drone-swarm-demo/" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/air-forces-thor-drone-swarm-demo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air &amp; Space Forces MagazineTHOR Hammers Drone Swarm with High-Power MicrowavesMay 19, 2023 — AFRL completed a successful demonstration of...</p></details>
    Published: May 19, 2023  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: afrl.af.mil  
    Title: Directed Energy Futures 2060 Final29June21 with clearance number  
-   Link: <a href="https://www.afrl.af.mil/Portals/90/Documents/RD/Directed_Energy_Futures_2060_Final29June21_with_clearance_number.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/Portals/90/Documents/RD/Directed_Energy_Futures_2060_Final29June21_with_clearance_number.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>af.mil2060 directed energy futures - Air Force Research LaboratoryJul 16, 2021 — We explore three technical areas: laser systems, high- p...</p></details>
+   Link:<a href="https://www.afrl.af.mil/Portals/90/Documents/RD/Directed_Energy_Futures_2060_Final29June21_with_clearance_number.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/Portals/90/Documents/RD/Directed_Energy_Futures_2060_Final29June21_with_clearance_number.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>af.mil2060 directed energy futures - Air Force Research LaboratoryJul 16, 2021 — We explore three technical areas: laser systems, high- p...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/904340/thor-tactical-high-power-operational-responder" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/904340/thor-tactical-high-power-operational-responder</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thor - Tactical High-power Operational ResponderTHOR is a high power microwave counter-drone weapon that the Air Force Research Lab has d...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/904340/thor-tactical-high-power-operational-responder" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/904340/thor-tactical-high-power-operational-responder</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thor - Tactical High-power Operational ResponderTHOR is a high power microwave counter-drone weapon that the Air Force Research Lab has d...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: stripes.com  
    Title: Air Force Research Laboratory-deployed microwave  
-   Link: <a href="https://www.stripes.com/branches/air_force/2023-05-22/air-force-research-laboratory-thor-10200997.html" target="_blank" rel="noopener noreferrer nofollow">https://www.stripes.com/branches/air_force/2023-05-22/air-force-research-laboratory-thor-10200997.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 22, 2023 — The Tactical High-power Operational Responder, or THOR, a high-powered microwave counter drone weapon, stands ready to dem...</p></details>
+   Link:<a href="https://www.stripes.com/branches/air_force/2023-05-22/air-force-research-laboratory-thor-10200997.html" target="_blank" rel="noopener noreferrer nofollow">https://www.stripes.com/branches/air_force/2023-05-22/air-force-research-laboratory-thor-10200997.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 22, 2023 — The Tactical High-power Operational Responder, or THOR, a high-powered microwave counter drone weapon, stands ready to dem...</p></details>
    Published: May 22, 2023  
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/334070738_High-Power_Microwave_Energy_as_Weapon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334070738_High-Power_Microwave_Energy_as_Weapon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) High-Power Microwave Energy as WeaponThis chapter discusses aspects of the technology base and weapon delivery techniques and propo...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/334070738_High-Power_Microwave_Energy_as_Weapon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334070738_High-Power_Microwave_Energy_as_Weapon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) High-Power Microwave Energy as WeaponThis chapter discusses aspects of the technology base and weapon delivery techniques and propo...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/401596360_Shaping_Modern_Warfare_The_Strategic_Role_of_High-Power_Microwave_Directed_Energy_Weapons_in_Multi-Domain_Operations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401596360_Shaping_Modern_Warfare_The_Strategic_Role_of_High-Power_Microwave_Directed_Energy_Weapons_in_Multi-Domain_Operations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Strategic Role of High-Power Microwave Directed...Mar 6, 2026 — The paper compares HPM DEWs with high-energy laser (HEL) systems alo...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/401596360_Shaping_Modern_Warfare_The_Strategic_Role_of_High-Power_Microwave_Directed_Energy_Weapons_in_Multi-Domain_Operations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401596360_Shaping_Modern_Warfare_The_Strategic_Role_of_High-Power_Microwave_Directed_Energy_Weapons_in_Multi-Domain_Operations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Strategic Role of High-Power Microwave Directed...Mar 6, 2026 — The paper compares HPM DEWs with high-energy laser (HEL) systems alo...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/904353/afrls-thor-tracks-and-disables-drone-swarm" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/904353/afrls-thor-tracks-and-disables-drone-swarm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AFRL&#x27;s THOR Tracks and Disables Drone Swarm&quot;Numerous drones were flown to simulate a swarm attack, and using its wide beam, high peak pow...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/904353/afrls-thor-tracks-and-disables-drone-swarm" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/904353/afrls-thor-tracks-and-disables-drone-swarm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFRL&#x27;s THOR Tracks and Disables Drone Swarm&quot;Numerous drones were flown to simulate a swarm attack, and using its wide beam, high peak pow...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: afresearchlab.com  
-   Link: <a href="https://afresearchlab.com/wp-content/uploads/2019/09/AFRL_THOR_FS_0719.pdf" target="_blank" rel="noopener noreferrer nofollow">https://afresearchlab.com/wp-content/uploads/2019/09/AFRL_THOR_FS_0719.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>COUNTER-SWARM HIGH POWER WEAPONTHOR looks to extend the range to effect and decrease the engagement time over these other deterrent devic...</p></details>
+   Link:<a href="https://afresearchlab.com/wp-content/uploads/2019/09/AFRL_THOR_FS_0719.pdf" target="_blank" rel="noopener noreferrer nofollow">https://afresearchlab.com/wp-content/uploads/2019/09/AFRL_THOR_FS_0719.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>COUNTER-SWARM HIGH POWER WEAPONTHOR looks to extend the range to effect and decrease the engagement time over these other deterrent devic...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: afresearchlab.com  
-   Link: <a href="https://afresearchlab.com/wp-content/uploads/2019/09/AFRL_THOR_FS_0122.pdf" target="_blank" rel="noopener noreferrer nofollow">https://afresearchlab.com/wp-content/uploads/2019/09/AFRL_THOR_FS_0122.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>COUNTER-SWARM HIGH POWER WEAPONThe system provides non-kinetic defeat of multiple targets. It operates from a wall plug and uses energy t...</p></details>
+   Link:<a href="https://afresearchlab.com/wp-content/uploads/2019/09/AFRL_THOR_FS_0122.pdf" target="_blank" rel="noopener noreferrer nofollow">https://afresearchlab.com/wp-content/uploads/2019/09/AFRL_THOR_FS_0122.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>COUNTER-SWARM HIGH POWER WEAPONThe system provides non-kinetic defeat of multiple targets. It operates from a wall plug and uses energy t...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: droneshield.com  
-   Link: <a href="https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons</a>  
+   Link:<a href="https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=aSM6q_TKcTs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aSM6q_TKcTs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DRDO&#x27;S New Microwave Weapon ExplainedDSIAC Webinar: &quot;High-Power, Radio Frequency/Microwave-Directed Energy Weapon Effects&quot;. Defense Syste...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aSM6q_TKcTs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aSM6q_TKcTs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DRDO&#x27;S New Microwave Weapon ExplainedDSIAC Webinar: &quot;High-Power, Radio Frequency/Microwave-Directed Energy Weapon Effects&quot;. Defense Syste...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=QjHGxKb6W1c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QjHGxKb6W1c</a>  
+   Link:<a href="https://www.youtube.com/watch?v=QjHGxKb6W1c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QjHGxKb6W1c</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: twz.com  
    Title: The War Zone THOR Microwave Anti-Drone System Downs Swarms In Test  
-   Link: <a href="https://www.twz.com/thor-microwave-anti-drone-system-downs-swarms-in-test" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/thor-microwave-anti-drone-system-downs-swarms-in-test</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneTHOR Microwave Anti-Drone System Downs Swarms In TestMay 19, 2023 — The demonstration pitted the service&#x27;s high-power microwa...</p></details>
+   Link:<a href="https://www.twz.com/thor-microwave-anti-drone-system-downs-swarms-in-test" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/thor-microwave-anti-drone-system-downs-swarms-in-test</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneTHOR Microwave Anti-Drone System Downs Swarms In TestMay 19, 2023 — The demonstration pitted the service&#x27;s high-power microwa...</p></details>
    Published: May 19, 2023  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: publications.sto.nato.int  
    Title: (HPM) impulses on the mechanical integrity of Unmanned Aerial  
-   Link: <a href="https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SET-315/MP-SET-315-24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SET-315/MP-SET-315-24.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disruption to Destruction Assessing theby K Karcz · Cited by 2 — Furthermore, our research outcomes provide insights into the consequence...</p></details>
+   Link:<a href="https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SET-315/MP-SET-315-24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SET-315/MP-SET-315-24.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disruption to Destruction Assessing theby K Karcz · Cited by 2 — Furthermore, our research outcomes provide insights into the consequence...</p></details>

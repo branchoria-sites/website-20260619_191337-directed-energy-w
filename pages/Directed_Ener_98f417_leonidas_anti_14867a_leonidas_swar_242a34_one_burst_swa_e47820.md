@@ -269,25 +269,25 @@ image: /assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_swar_24
 
 ## Introduction
 
-A [drone swarm]({{ 'swarm-limits/' | relative_url }}) becomes economically dangerous when a defender must spend a separate engagement on each incoming aircraft. High-power microwave systems such as Leonidas are designed to attack that problem directly. Instead of assigning one missile, one shell burst or one firing solution to each drone, they aim to project electromagnetic energy across a volume of airspace and disrupt multiple drones at once. If successful, a single microwave burst can turn a swarm from dozens of individual engagements into one area engagement, changing the cost equation that makes massed drones attractive in the first place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-snippet">EpirusEpirus - Home of Leonidas, the Premier High-Power...Epirus combines the latest in directed energy, long-pulse high-power microwave...</span></span></span>
+A [drone swarm]({{ 'swarm-limits/' | relative_url }}) becomes economically dangerous when a defender must spend a separate engagement on each incoming aircraft. High-power microwave systems such as Leonidas are designed to attack that problem directly. Instead of assigning one missile, one shell burst or one firing solution to each drone, they aim to project electromagnetic energy across a volume of airspace and disrupt multiple drones at once. If successful, a single microwave burst can turn a swarm from dozens of individual engagements into one area engagement, changing the cost equation that makes massed drones attractive in the first place.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-snippet">EpirusEpirus - Home of Leonidas, the Premier High-Power...Epirus combines the latest in directed energy, long-pulse high-power microwave...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_swar_242a34_one_burst_swa_e47820-Illustration-1-dark.svg" | relative_url }}" alt="One Burst illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_swar_242a34_one_burst_swa_e47820-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_swar_242a34_one_burst_swa_e47820-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The key point is not that [one pulse]({{ 'one-pulse/' | relative_url }}) always destroys an entire swarm. Rather, the economic logic changes because the defender's cost is no longer tied linearly to the number of drones present. When many targets occupy the same engagement zone, one burst may affect several, many, or even dozens of aircraft simultaneously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afresearchlab.com">[Air Force Research Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afresearchlab.com</span><span class="citation-popover-snippet">COUNTER-SWARM HIGH POWER WEAPON... The system uses high power microwaves to cause a counter electronic effect.Read more...</span></span></span>
+The key point is not that [one pulse]({{ 'one-pulse/' | relative_url }}) always destroys an entire swarm. Rather, the economic logic changes because the defender's cost is no longer tied linearly to the number of drones present. When many targets occupy the same engagement zone, one burst may affect several, many, or even dozens of aircraft simultaneously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afresearchlab.com">[Air Force Research Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afresearchlab.com</span><span class="citation-popover-snippet">COUNTER-SWARM HIGH POWER WEAPON... The system uses high power microwaves to cause a counter electronic effect.Read more...</span></span></span>
 
 ## Why one-to-many engagement matters
 
 Traditional air-defence economics often follow a simple pattern: more targets require more engagements. A missile interceptor usually addresses one target. Even gun-based systems consume ammunition and tracking capacity on a target-by-target basis.
 
-High-power microwave weapons are attractive because they break that relationship. The Air Force Research Laboratory (AFRL), which developed the THOR counter-[swarm microwave]({{ 'swarm-microwave/' | relative_url }}) demonstrator, explicitly contrasted microwave weapons with lasers by noting that lasers generally engage one target at a time, while high-power [microwaves]({{ 'microwaves/' | relative_url }}) can defeat groups or swarms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article/2512426/army-partners-with-air-forces-thor-for-base-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[AFRL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">army partners with air forces thor for base defense</span><span class="citation-popover-snippet">Army partners with Air Force&#x27;s THOR for base defense23 Feb 2021 — &quot;High energy lasers kill one target at a time, and high powered mic...</span></span></span>
+High-power microwave weapons are attractive because they break that relationship. The Air Force Research Laboratory (AFRL), which developed the THOR counter-[swarm microwave]({{ 'swarm-microwave/' | relative_url }}) demonstrator, explicitly contrasted microwave weapons with lasers by noting that lasers generally engage one target at a time, while high-power [microwaves]({{ 'microwaves/' | relative_url }}) can defeat groups or swarms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article/2512426/army-partners-with-air-forces-thor-for-base-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[AFRL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">army partners with air forces thor for base defense</span><span class="citation-popover-snippet">Army partners with Air Force&#x27;s THOR for base defense23 Feb 2021 — &quot;High energy lasers kill one target at a time, and high powered mic...</span></span></span>
 
-The mechanism matters more than the technology label. A microwave burst does not need to physically hit every drone with a separate projectile. Instead, it attempts to expose multiple drones' electronics to disruptive electromagnetic energy within the weapon's engagement volume. AFRL has described THOR as a system specifically engineered to counter multiple targets with rapid results and demonstrated it against realistic drone [swarms]({{ 'swarms/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airuniversity.af.edu/News/Display/Article/2511792/army-partners-with-air-forces-thor-for-base-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airuniversity.af.edu">[Air University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airuniversity.af.edu</span><span class="citation-popover-title">army partners with air forces thor for base defense</span><span class="citation-popover-snippet">Air UniversityArmy partners with Air Force&#x27;s THOR for base defense23 Feb 2021 — THOR is a prototype directed energy weapon used to disabl...</span></span></span>
+The mechanism matters more than the technology label. A microwave burst does not need to physically hit every drone with a separate projectile. Instead, it attempts to expose multiple drones' electronics to disruptive electromagnetic energy within the weapon's engagement volume. AFRL has described THOR as a system specifically engineered to counter multiple targets with rapid results and demonstrated it against realistic drone [swarms]({{ 'swarms/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airuniversity.af.edu/News/Display/Article/2511792/army-partners-with-air-forces-thor-for-base-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airuniversity.af.edu">[Air University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airuniversity.af.edu</span><span class="citation-popover-title">army partners with air forces thor for base defense</span><span class="citation-popover-snippet">Air UniversityArmy partners with Air Force&#x27;s THOR for base defense23 Feb 2021 — THOR is a prototype directed energy weapon used to disabl...</span></span></span>
 
 From an economic perspective, this creates a potentially different exchange ratio:
 
 * One missile against one drone remains a one-for-one transaction.
 * One microwave engagement against ten drones can become a one-for-many transaction.
-* As swarm density increases, the value of each microwave burst can rise because more drones occupy the affected space. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article/2512426/army-partners-with-air-forces-thor-for-base-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[AFRL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">army partners with air forces thor for base defense</span><span class="citation-popover-snippet">Army partners with Air Force&#x27;s THOR for base defense23 Feb 2021 — &quot;High energy lasers kill one target at a time, and high powered mic...</span></span></span>
+* As swarm density increases, the value of each microwave burst can rise because more drones occupy the affected space.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article/2512426/army-partners-with-air-forces-thor-for-base-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[AFRL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">army partners with air forces thor for base defense</span><span class="citation-popover-snippet">Army partners with Air Force&#x27;s THOR for base defense23 Feb 2021 — &quot;High energy lasers kill one target at a time, and high powered mic...</span></span></span>
 
 The result is that attackers lose some of the advantage gained by simply adding more inexpensive drones to the raid.
 
@@ -298,7 +298,7 @@ The result is that attackers lose some of the advantage gained by simply adding 
 
 The effectiveness of a microwave burst depends heavily on how drones are arranged in space. Counter-intuitively, tightly packed swarms can sometimes help the defender.
 
-AFRL has highlighted THOR's wide-beam approach as particularly effective against swarms, and demonstrations have shown the system disabling multiple drones during a single engagement. In one 2023 demonstration, AFRL reported that THOR used its wide beam and high peak power to disable a swarm during testing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[AFRL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">RLAFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">RL conducts swarm technology demonstrationMay 16, 2023 — “THOR was exceptionally effective at disabling the swarm with its wide bea...</span><span class="citation-popover-meta">Published: May 16, 2023</span></span></span>
+AFRL has highlighted THOR's wide-beam approach as particularly effective against swarms, and demonstrations have shown the system disabling multiple drones during a single engagement. In one 2023 demonstration, AFRL reported that THOR used its wide beam and high peak power to disable a swarm during testing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[AFRL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">RLAFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">RL conducts swarm technology demonstrationMay 16, 2023 — “THOR was exceptionally effective at disabling the swarm with its wide bea...</span><span class="citation-popover-meta">Published: May 16, 2023</span></span></span>
 
 The geometry works in the defender's favour when:
 
@@ -311,9 +311,9 @@ The geometry works in the defender's favour when:
 
 </div>
 
-In those circumstances, adding more drones does not necessarily force a proportional increase in defensive effort. A cluster of twenty drones may require only marginally more energy exposure than a cluster of ten if both occupy the same beam footprint. The swarm's numerical growth therefore produces diminishing returns for the attacker. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afresearchlab.com">[Air Force Research Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afresearchlab.com</span><span class="citation-popover-snippet">COUNTER-SWARM HIGH POWER WEAPON... The system uses high power microwaves to cause a counter electronic effect.Read more...</span></span></span>
+In those circumstances, adding more drones does not necessarily force a proportional increase in defensive effort. A cluster of twenty drones may require only marginally more energy exposure than a cluster of ten if both occupy the same beam footprint. The swarm's numerical growth therefore produces diminishing returns for the attacker.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afresearchlab.com">[Air Force Research Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afresearchlab.com</span><span class="citation-popover-snippet">COUNTER-SWARM HIGH POWER WEAPON... The system uses high power microwaves to cause a counter electronic effect.Read more...</span></span></span>
 
-Recent Leonidas demonstrations illustrate the concept. Epirus reported engagements in which multiple drones were defeated simultaneously, and later demonstrations showed the system disabling large groups of drones during a single activation. While company demonstrations should be treated differently from independent operational evidence, they are directly relevant because they showcase the one-to-many engagement model that underpins the system's economic argument. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-snippet">EpirusEpirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone...10 Sept 2025 — Leonidas engaged and defeated all three drones simultaneou...</span></span></span>
+Recent Leonidas demonstrations illustrate the concept. Epirus reported engagements in which multiple drones were defeated simultaneously, and later demonstrations showed the system disabling large groups of drones during a single activation. While company demonstrations should be treated differently from independent operational evidence, they are directly relevant because they showcase the one-to-many engagement model that underpins the system's economic argument.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-snippet">EpirusEpirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone...10 Sept 2025 — Leonidas engaged and defeated all three drones simultaneou...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_swar_242a34_one_burst_swa_e47820-Illustration-2-dark.svg" | relative_url }}" alt="One Burst illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_swar_242a34_one_burst_swa_e47820-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_swar_242a34_one_burst_swa_e47820-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -321,25 +321,25 @@ Recent Leonidas demonstrations illustrate the concept. Epirus reported engagemen
 
 The most important economic shift occurs after procurement.
 
-A microwave weapon is not free. Developing, purchasing, integrating and supporting a high-power microwave system can require substantial investment. The economic argument therefore does not focus on acquisition cost alone. Instead, it focuses on repeated engagements over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-105868" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 105868</span><span class="citation-popover-snippet">Directed Energy Weapons: DOD Should Focus...17 Apr 2023 — The Department of Defense (DOD) is currently developing directed energy...</span></span></span>
+A microwave weapon is not free. Developing, purchasing, integrating and supporting a high-power microwave system can require substantial investment. The economic argument therefore does not focus on acquisition cost alone. Instead, it focuses on repeated engagements over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-105868" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 105868</span><span class="citation-popover-snippet">Directed Energy Weapons: DOD Should Focus...17 Apr 2023 — The Department of Defense (DOD) is currently developing directed energy...</span></span></span>
 
-Once deployed, a microwave engagement primarily consumes electrical energy rather than an interceptor missile. The US Government Accountability Office has identified lower per-use costs as one of the potential advantages of directed-energy systems compared with traditional kinetic weapons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-snippet">Directed Energy Weapons DOD Should Focus on Transition...DOD spends about $1 billion annually on directed energy--concentrated electr...</span></span></span>
+Once deployed, a microwave engagement primarily consumes electrical energy rather than an interceptor missile. The US Government Accountability Office has identified lower per-use costs as one of the potential advantages of directed-energy systems compared with traditional kinetic weapons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-snippet">Directed Energy Weapons DOD Should Focus on Transition...DOD spends about $1 billion annually on directed energy--concentrated electr...</span></span></span>
 
 That changes the economics in three important ways:
 
 **The marginal cost of another engagement falls.**
 
-The defender does not necessarily need to expend another expensive interceptor for every additional drone encountered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-snippet">Directed Energy Weapons DOD Should Focus on Transition...DOD spends about $1 billion annually on directed energy--concentrated electr...</span></span></span>
+The defender does not necessarily need to expend another expensive interceptor for every additional drone encountered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-snippet">Directed Energy Weapons DOD Should Focus on Transition...DOD spends about $1 billion annually on directed energy--concentrated electr...</span></span></span>
 
 **Magazine depth becomes less restrictive.**
 
-Missile launchers eventually exhaust their inventory. Microwave systems are constrained by power [generation]({{ 'generation-ii/' | relative_url }}), cooling and system readiness, but not by a finite stack of interceptors in the same way. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">Science &amp; Tech Spotlight: Directed Energy Weapons</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy WeaponsMay 25, 2023 — These weapons include high energy lasers and other high power electrom...</span><span class="citation-popover-meta">Published: May 25, 2023</span></span></span>
+Missile launchers eventually exhaust their inventory. Microwave systems are constrained by power [generation]({{ 'generation-ii/' | relative_url }}), cooling and system readiness, but not by a finite stack of interceptors in the same way.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">Science &amp; Tech Spotlight: Directed Energy Weapons</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy WeaponsMay 25, 2023 — These weapons include high energy lasers and other high power electrom...</span><span class="citation-popover-meta">Published: May 25, 2023</span></span></span>
 
 **Large raids become less economically attractive.**
 
-If adding twenty extra drones does not force twenty extra defensive shots, the attacker receives less benefit from scaling the swarm. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article/2512426/army-partners-with-air-forces-thor-for-base-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[AFRL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">army partners with air forces thor for base defense</span><span class="citation-popover-snippet">Army partners with Air Force&#x27;s THOR for base defense23 Feb 2021 — &quot;High energy lasers kill one target at a time, and high powered mic...</span></span></span>
+If adding twenty extra drones does not force twenty extra defensive shots, the attacker receives less benefit from scaling the swarm.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article/2512426/army-partners-with-air-forces-thor-for-base-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[AFRL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">army partners with air forces thor for base defense</span><span class="citation-popover-snippet">Army partners with Air Force&#x27;s THOR for base defense23 Feb 2021 — &quot;High energy lasers kill one target at a time, and high powered mic...</span></span></span>
 
-The economic effect resembles a fixed-cost service rather than a pay-per-target service. The defender pays heavily to acquire the capability, but each additional swarm engagement may cost relatively little compared with firing multiple interceptors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-snippet">Directed Energy Weapons DOD Should Focus on Transition...DOD spends about $1 billion annually on directed energy--concentrated electr...</span></span></span>
+The economic effect resembles a fixed-cost service rather than a pay-per-target service. The defender pays heavily to acquire the capability, but each additional swarm engagement may cost relatively little compared with firing multiple interceptors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-snippet">Directed Energy Weapons DOD Should Focus on Transition...DOD spends about $1 billion annually on directed energy--concentrated electr...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QjHGxKb6W1c" title="THOR (Tactical High-power Operational Responder) Destroys Swarms of Enemy Drones" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QjHGxKb6W1c" target="_blank" rel="noopener noreferrer">THOR (Tactical High-power Operational Responder) Destroys Swarms of Enemy Drones</a></p><p class="youtube-embed-meta">Channel: AFResearchLab</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QjHGxKb6W1c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QjHGxKb6W1c">Open on YouTube</a></p></div></div></div>
@@ -348,9 +348,9 @@ The economic effect resembles a fixed-cost service rather than a pay-per-target 
 
 The phrase "one pulse defeats a swarm" can oversimplify reality.
 
-Microwave effectiveness depends on range, power, beam characteristics, target electronics, shielding and swarm behaviour. Technical studies indicate that engagement outcomes vary significantly with distance and target hardness; some drones are easier to disrupt than others. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2510.16495" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Performance Evaluation of High Power Microwave Systems Against UAVs A Probabilistic Antenna Propagation Framework with Sensitivity A...</span></span></span>
+Microwave effectiveness depends on range, power, beam characteristics, target electronics, shielding and swarm behaviour. Technical studies indicate that engagement outcomes vary significantly with distance and target hardness; some drones are easier to disrupt than others.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2510.16495" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Performance Evaluation of High Power Microwave Systems Against UAVs A Probabilistic Antenna Propagation Framework with Sensitivity A...</span></span></span>
 
-Attackers can also adapt. Dispersed formations, hardened electronics, mixed attack vectors and layered tactics may reduce the efficiency of a single microwave engagement. That is why military organisations generally discuss high-power microwaves as part of a broader layered defence architecture rather than as a complete replacement for missiles, guns or electronic warfare systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article/2512426/army-partners-with-air-forces-thor-for-base-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[AFRL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">army partners with air forces thor for base defense</span><span class="citation-popover-snippet">Army partners with Air Force&#x27;s THOR for base defense23 Feb 2021 — &quot;High energy lasers kill one target at a time, and high powered mic...</span></span></span>
+Attackers can also adapt. Dispersed formations, hardened electronics, mixed attack vectors and layered tactics may reduce the efficiency of a single microwave engagement. That is why military organisations generally discuss high-power microwaves as part of a broader layered defence architecture rather than as a complete replacement for missiles, guns or electronic warfare systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article/2512426/army-partners-with-air-forces-thor-for-base-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[AFRL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">army partners with air forces thor for base defense</span><span class="citation-popover-snippet">Army partners with Air Force&#x27;s THOR for base defense23 Feb 2021 — &quot;High energy lasers kill one target at a time, and high powered mic...</span></span></span>
 
 The important economic point remains intact even if a burst does not disable every drone. A weapon that removes a significant fraction of a swarm in one engagement can still dramatically reduce the number of follow-on engagements required.
 
@@ -361,202 +361,202 @@ The important economic point remains intact even if a burst does not disable eve
 
 The value of a microwave burst is not measured solely by how many drones it destroys. Its significance lies in changing the relationship between defensive effort and swarm size.
 
-In a conventional model, twenty drones may require roughly twenty defensive engagements. In a one-to-many microwave model, those same drones may be addressed through a much smaller number of engagements if they enter the same defended volume. Demonstrations by systems such as THOR and Leonidas have been built around exactly this principle: using wide-area electromagnetic effects to disable multiple drones simultaneously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article/2512426/army-partners-with-air-forces-thor-for-base-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[AFRL+2DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">army partners with air forces thor for base defense</span><span class="citation-popover-snippet">Army partners with Air Force&#x27;s THOR for base defense23 Feb 2021 — &quot;High energy lasers kill one target at a time, and high powered mic...</span></span></span>
+In a conventional model, twenty drones may require roughly twenty defensive engagements. In a one-to-many microwave model, those same drones may be addressed through a much smaller number of engagements if they enter the same defended volume. Demonstrations by systems such as THOR and Leonidas have been built around exactly this principle: using wide-area electromagnetic effects to disable multiple drones simultaneously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article/2512426/army-partners-with-air-forces-thor-for-base-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[AFRL+2DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">army partners with air forces thor for base defense</span><span class="citation-popover-snippet">Army partners with Air Force&#x27;s THOR for base defense23 Feb 2021 — &quot;High energy lasers kill one target at a time, and high powered mic...</span></span></span>
 
-That shift is what makes high-power microwave weapons economically interesting. They do not merely offer another way to shoot down drones; they seek to make the attacker's favourite advantage—cheap mass—less valuable than it was before. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: droneshield.com">[droneshield.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">droneshield.com</span><span class="citation-popover-snippet">sive, mass-produced drones can overwhelm defences.Read more...</span></span></span>
+That shift is what makes high-power microwave weapons economically interesting. They do not merely offer another way to shoot down drones; they seek to make the attacker's favourite advantage—cheap mass—less valuable than it was before.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: droneshield.com">[droneshield.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">droneshield.com</span><span class="citation-popover-snippet">sive, mass-produced drones can overwhelm defences.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_swar_242a34_one_burst_swa_e47820-Illustration-3-dark.svg" | relative_url }}" alt="One Burst illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_swar_242a34_one_burst_swa_e47820-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_swar_242a34_one_burst_swa_e47820-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can one pulse beat a drone swarm?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can one pulse beat a drone swarm?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
-        </h4>
-        <p class="fr-book-author">By Paul Scharre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
+</h4>
+<p class="fr-book-author">By Paul Scharre</p>
         
-        <p class="fr-book-desc">Provides context for autonomous massed systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for autonomous massed systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Discusses changing combat economics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses changing combat economics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Wars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13717341-M.jpg" alt="Cover for Drone Wars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Wars">Drone Wars</a>
-        </h4>
-        <p class="fr-book-author">By Seth J. Frantzman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Wars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13717341-M.jpg" alt="Cover for Drone Wars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Wars">Drone Wars</a>
+</h4>
+<p class="fr-book-author">By Seth J. Frantzman</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Military art and science.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Military art and science.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Drone+Wars%3A+Pioneers%2C+Killing+Machines%2C+Artificial+Intelligence%2C+and+the+Battle+for+the+Future+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Wars: Pioneers, Killing Machines, Artificial Intelligence, and the Battle for the Future on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drone+Wars%3A+Pioneers%2C+Killing+Machines%2C+Artificial+Intelligence%2C+and+the+Battle+for+the+Future+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Wars: Pioneers, Killing Machines, Artificial Intelligence, and the Battle for the Future">Drone Wars: Pioneers, Killing Machines, Artificial Intelligen...</a>
-        </h4>
-        <p class="fr-book-author">By Seth J. Frantzman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Drone+Wars%3A+Pioneers%2C+Killing+Machines%2C+Artificial+Intelligence%2C+and+the+Battle+for+the+Future+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Wars: Pioneers, Killing Machines, Artificial Intelligence, and the Battle for the Future on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drone+Wars%3A+Pioneers%2C+Killing+Machines%2C+Artificial+Intelligence%2C+and+the+Battle+for+the+Future+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Wars: Pioneers, Killing Machines, Artificial Intelligence, and the Battle for the Future">Drone Wars: Pioneers, Killing Machines, Artificial Intelligen...</a>
+</h4>
+<p class="fr-book-author">By Seth J. Frantzman</p>
         
-        <p class="fr-book-desc">Explains operational realities of drone warfare.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drone+Wars%3A+Pioneers%2C+Killing+Machines%2C+Artificial+Intelligence%2C+and+the+Battle+for+the+Future+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains operational realities of drone warfare.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drone+Wars%3A+Pioneers%2C+Killing+Machines%2C+Artificial+Intelligence%2C+and+the+Battle+for+the+Future+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Wars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Wars</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Wars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Wars</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/d9531a5d69a4b2b40398.jpg' | relative_url }}" alt="Listing image for Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/d9531a5d69a4b2b40398.jpg' | relative_url }}" alt="Listing image for Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for airplane UAVs drone military aircraft vehicle MQ 9 Reaper 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/5a9926f4f7c65f754a16.jpg' | relative_url }}" alt="Listing image for airplane UAVs drone military aircraft vehicle MQ 9 Reaper 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">airplane UAVs drone military aircraft vehicle MQ 9 Reaper 11x17 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for airplane UAVs drone military aircraft vehicle MQ 9 Reaper 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/5a9926f4f7c65f754a16.jpg' | relative_url }}" alt="Listing image for airplane UAVs drone military aircraft vehicle MQ 9 Reaper 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">airplane UAVs drone military aircraft vehicle MQ 9 Reaper 11x17 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for drone UAVs vehicle military aircraft American text MQ 9 Reaper top 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/d6f151bc20330af852ca.jpg' | relative_url }}" alt="Listing image for drone UAVs vehicle military aircraft American text MQ 9 Reaper top 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">drone UAVs vehicle military aircraft American text MQ 9 Reaper top 11x17 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for drone UAVs vehicle military aircraft American text MQ 9 Reaper top 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/d6f151bc20330af852ca.jpg' | relative_url }}" alt="Listing image for drone UAVs vehicle military aircraft American text MQ 9 Reaper top 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">drone UAVs vehicle military aircraft American text MQ 9 Reaper top 11x17 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Drone UAV&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049381)"><img src="{{ '/assets/images/marketplace-covers/e78a62d502e4d0830aa0.jpg' | relative_url }}" alt="Listing image for &#x27;Drone UAV&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049381)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Drone UAV&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049381)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Drone UAV&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049381)"><img src="{{ '/assets/images/marketplace-covers/e78a62d502e4d0830aa0.jpg' | relative_url }}" alt="Listing image for &#x27;Drone UAV&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049381)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Drone UAV&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049381)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="one-burst-can-one-pulse-beat-a-drone-swarm-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -572,7 +572,7 @@ That shift is what makes high-power microwave weapons economically interesting. 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -592,7 +592,7 @@ That shift is what makes high-power microwave weapons economically interesting. 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -624,7 +624,7 @@ That shift is what makes high-power microwave weapons economically interesting. 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -676,7 +676,7 @@ That shift is what makes high-power microwave weapons economically interesting. 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -721,7 +721,7 @@ That shift is what makes high-power microwave weapons economically interesting. 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -762,203 +762,203 @@ That shift is what makes high-power microwave weapons economically interesting. 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: afrl.af.mil  
    Title: army partners with air forces thor for base defense  
-   Link: <a href="https://www.afrl.af.mil/News/Article/2512426/army-partners-with-air-forces-thor-for-base-defense/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Article/2512426/army-partners-with-air-forces-thor-for-base-defense/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Army partners with Air Force&#x27;s THOR for base defense23 Feb 2021 — &quot;High energy [lasers](&amp;#123;&amp;#123; &#x27;lasers/&#x27; | relative_url &amp;#125;&amp;#125;) kill one target at a time, and high powered mic...</p></details>
+   Link:<a href="https://www.afrl.af.mil/News/Article/2512426/army-partners-with-air-forces-thor-for-base-defense/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Article/2512426/army-partners-with-air-forces-thor-for-base-defense/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Army partners with Air Force&#x27;s THOR for base defense23 Feb 2021 — &quot;High energy [lasers](&amp;#123;&amp;#123; &#x27;lasers/&#x27; | relative_url &amp;#125;&amp;#125;) kill one target at a time, and high powered mic...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gao.gov  
    Title: gao 23 105868  
-   Link: <a href="https://www.gao.gov/products/gao-23-105868" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-105868</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons: DOD Should Focus...17 Apr 2023 — The Department of Defense (DOD) is currently developing directed energy...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-23-105868" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-105868</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons: DOD Should Focus...17 Apr 2023 — The Department of Defense (DOD) is currently developing directed energy...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: gao.gov  
    Title: Science & Tech Spotlight: Directed Energy Weapons  
-   Link: <a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy WeaponsMay 25, 2023 — These weapons include high energy lasers and other high power electrom...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy WeaponsMay 25, 2023 — These weapons include high energy lasers and other high power electrom...</p></details>
    Published: May 25, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons DOD Should Focus on Transition...DOD spends about $1 billion annually on directed energy--concentrated electr...</p></details>
+   Link:<a href="https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons DOD Should Focus on Transition...DOD spends about $1 billion annually on directed energy--concentrated electr...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2510.16495" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.16495</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Performance Evaluation of High Power Microwave Systems Against UAVs A Probabilistic Antenna Propagation Framework with Sensitivity A...</p></details>
+   Link:<a href="https://arxiv.org/abs/2510.16495" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.16495</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Performance Evaluation of High Power Microwave Systems Against UAVs A Probabilistic Antenna Propagation Framework with Sensitivity A...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: droneshield.com  
-   Link: <a href="https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>sive, mass-produced drones can overwhelm defences.Read more...</p></details>
+   Link:<a href="https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sive, mass-produced drones can overwhelm defences.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: leonidas.com  
    Title: Master chocolatier  
-   Link: <a href="https://www.leonidas.com/gb_en" target="_blank" rel="noopener noreferrer nofollow">https://www.leonidas.com/gb_en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Master chocolatier - Belgian chocolate and pralinesLeonidas is a Belgian chocolate company that produces chocolates and other...</p></details>
+   Link:<a href="https://www.leonidas.com/gb_en" target="_blank" rel="noopener noreferrer nofollow">https://www.leonidas.com/gb_en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Master chocolatier - Belgian chocolate and pralinesLeonidas is a Belgian chocolate company that produces chocolates and other...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: leonidas.com  
-   Link: <a href="https://www.leonidas.com/gb_en/about-leonidas" target="_blank" rel="noopener noreferrer nofollow">https://www.leonidas.com/gb_en/about-leonidas</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>About LeonidasLeonidas Kestekides, who started out as a granitas seller, became the founder of the most popular brand of chocolates in Be...</p></details>
+   Link:<a href="https://www.leonidas.com/gb_en/about-leonidas" target="_blank" rel="noopener noreferrer nofollow">https://www.leonidas.com/gb_en/about-leonidas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>About LeonidasLeonidas Kestekides, who started out as a granitas seller, became the founder of the most popular brand of chocolates in Be...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: e-shop.leonidas.com  
-   Link: <a href="https://e-shop.leonidas.com/gb/en/home/" target="_blank" rel="noopener noreferrer nofollow">https://e-shop.leonidas.com/gb/en/home/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Discover Belgium&#x27;s best chocolates, chocolate tablets &amp; delicious chocolate gifts. Free delivery in Europe from...</p></details>
+   Link:<a href="https://e-shop.leonidas.com/gb/en/home/" target="_blank" rel="noopener noreferrer nofollow">https://e-shop.leonidas.com/gb/en/home/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discover Belgium&#x27;s best chocolates, chocolate tablets &amp; delicious chocolate gifts. Free delivery in Europe from...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=r8SYbFQGr-Y" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=r8SYbFQGr-Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus’ Leonidas High-Power Microwave Defeats 49-Drone Swarm...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=r8SYbFQGr-Y" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=r8SYbFQGr-Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus’ Leonidas High-Power Microwave Defeats 49-Drone Swarm...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Epirus’ Leonidas High-Power Microwave Defeats 49-Drone Swarm  
-   Link: <a href="http://www.youtube.com/watch?v=ZrkopSw5uas" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ZrkopSw5uas</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus Leonidas microwave weapon [counter drone](&amp;#123;&amp;#123; &#x27;missile-savings/&#x27; | relative_url &amp;#125;&amp;#125;) swarm Epirus’ Leonidas High-Power Microwave Defeats 49-Drone Swarm Epirus...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=ZrkopSw5uas" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ZrkopSw5uas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus Leonidas microwave weapon [counter drone](&amp;#123;&amp;#123; &#x27;missile-savings/&#x27; | relative_url &amp;#125;&amp;#125;) swarm Epirus’ Leonidas High-Power Microwave Defeats 49-Drone Swarm Epirus...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: epirusinc.com  
-   Link: <a href="https://www.epirusinc.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EpirusEpirus - Home of Leonidas, the Premier High-Power...Epirus combines the latest in directed energy, long-pulse high-power microwave...</p></details>
+   Link:<a href="https://www.epirusinc.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EpirusEpirus - Home of Leonidas, the Premier High-Power...Epirus combines the latest in directed energy, long-pulse high-power microwave...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: afresearchlab.com  
-   Link: <a href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://afresearchlab.com/counter-swarm-high-power-weapon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>COUNTER-SWARM HIGH POWER WEAPON... The system uses high power microwaves to cause a counter electronic effect.Read more...</p></details>
+   Link:<a href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://afresearchlab.com/counter-swarm-high-power-weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>COUNTER-SWARM HIGH POWER WEAPON... The system uses high power microwaves to cause a counter electronic effect.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: airuniversity.af.edu  
    Title: army partners with air forces thor for base defense  
-   Link: <a href="https://www.airuniversity.af.edu/News/Display/Article/2511792/army-partners-with-air-forces-thor-for-base-defense/" target="_blank" rel="noopener noreferrer nofollow">https://www.airuniversity.af.edu/News/Display/Article/2511792/army-partners-with-air-forces-thor-for-base-defense/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air UniversityArmy partners with Air Force&#x27;s THOR for base defense23 Feb 2021 — THOR is a prototype directed energy weapon used to disabl...</p></details>
+   Link:<a href="https://www.airuniversity.af.edu/News/Display/Article/2511792/army-partners-with-air-forces-thor-for-base-defense/" target="_blank" rel="noopener noreferrer nofollow">https://www.airuniversity.af.edu/News/Display/Article/2511792/army-partners-with-air-forces-thor-for-base-defense/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air UniversityArmy partners with Air Force&#x27;s THOR for base defense23 Feb 2021 — THOR is a prototype directed energy weapon used to disabl...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: afrl.af.mil  
    Title: RLAFRL conducts swarm technology demonstration  
-   Link: <a href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RL conducts swarm technology demonstrationMay 16, 2023 — “THOR was exceptionally effective at disabling the swarm with its wide bea...</p></details>
+   Link:<a href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RL conducts swarm technology demonstrationMay 16, 2023 — “THOR was exceptionally effective at disabling the swarm with its wide bea...</p></details>
    Published: May 16, 2023  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/904353/afrls-thor-tracks-and-disables-drone-swarm" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/904353/afrls-thor-tracks-and-disables-drone-swarm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AFRL&#x27;s THOR Tracks and Disables Drone Swarm&quot;Numerous drones were flown to simulate a swarm attack, and using its wide beam, high peak pow...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/904353/afrls-thor-tracks-and-disables-drone-swarm" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/904353/afrls-thor-tracks-and-disables-drone-swarm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFRL&#x27;s THOR Tracks and Disables Drone Swarm&quot;Numerous drones were flown to simulate a swarm attack, and using its wide beam, high peak pow...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: epirusinc.com  
-   Link: <a href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EpirusEpirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone...10 Sept 2025 — Leonidas engaged and defeated all three drones simultaneou...</p></details>
+   Link:<a href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EpirusEpirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone...10 Sept 2025 — Leonidas engaged and defeated all three drones simultaneou...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Epirus Leonidas  
-   Link: <a href="https://en.wikipedia.org/wiki/Epirus_Leonidas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Epirus_Leonidas</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus LeonidasThe Leonidas is a high-power microwave (HPM) weapon developed to disable unmanned aerial vehicle (UAV) swarms. in with...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Epirus_Leonidas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Epirus_Leonidas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus LeonidasThe Leonidas is a high-power microwave (HPM) weapon developed to disable unmanned aerial vehicle (UAV) swarms. in with...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: usfk.mil  
-   Link: <a href="https://www.usfk.mil/What-We-Do/Exercises/Freedom-Shield/?dvpTag=Thor&amp;videoid=904340" target="_blank" rel="noopener noreferrer nofollow">https://www.usfk.mil/What-We-Do/Exercises/Freedom-Shield/?dvpTag=Thor&amp;videoid=904340</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tactical High-power Operational ResponderTactical, High-power, Operational, Responder, known as THOR, is a high power microwave counter-d...</p></details>
+   Link:<a href="https://www.usfk.mil/What-We-Do/Exercises/Freedom-Shield/?dvpTag=Thor&amp;videoid=904340" target="_blank" rel="noopener noreferrer nofollow">https://www.usfk.mil/What-We-Do/Exercises/Freedom-Shield/?dvpTag=Thor&amp;videoid=904340</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tactical High-power Operational ResponderTactical, High-power, Operational, Responder, known as THOR, is a high power microwave counter-d...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: afrl.af.mil  
-   Link: <a href="https://www.afrl.af.mil/News/Video/?dvpTag=Thor&amp;dvpmoduleid=69743" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Video/?dvpTag=Thor&amp;dvpmoduleid=69743</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Force Research Laboratory VideoHigh-power, Operational Responder, known as THOR, is a high-power microwave counter-drone weapon. Numerou...</p></details>
+   Link:<a href="https://www.afrl.af.mil/News/Video/?dvpTag=Thor&amp;dvpmoduleid=69743" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Video/?dvpTag=Thor&amp;dvpmoduleid=69743</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Force Research Laboratory VideoHigh-power, Operational Responder, known as THOR, is a high-power microwave counter-drone weapon. Numerou...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/leonidas_chocolatier/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/leonidas_chocolatier/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Official account (@leonidas_chocolatier)Preferred Belgian chocolates since 1913 🌿 Made of sustainable cocoa, 100% pure cocoa butter and w...</p></details>
+   Link:<a href="https://www.instagram.com/leonidas_chocolatier/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/leonidas_chocolatier/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Official account (@leonidas_chocolatier)Preferred Belgian chocolates since 1913 🌿 Made of sustainable cocoa, 100% pure cocoa butter and w...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: dvidshub.net  
    Title: DVID S  
-   Link: <a href="https://www.dvidshub.net/video/904340/thor-tactical-high-power-operational-responder" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/904340/thor-tactical-high-power-operational-responder</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DVIDS - Video - Thor - Tactical High-power Operational...THOR is a high power microwave counter-drone weapon that the Air Force Research...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/904340/thor-tactical-high-power-operational-responder" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/904340/thor-tactical-high-power-operational-responder</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DVIDS - Video - Thor - Tactical High-power Operational...THOR is a high power microwave counter-drone weapon that the Air Force Research...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: britannica.com  
    Title: Leonidas king of Sparta  
-   Link: <a href="https://www.britannica.com/biography/Leonidas-king-of-Sparta" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/Leonidas-king-of-Sparta</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Leonidas | Biography &amp; Facts24 Apr 2026 — Leonidas (died 480 bc, Thermopylae, Locris [Greece]) was a Spartan king whose stand against the...</p></details>
+   Link:<a href="https://www.britannica.com/biography/Leonidas-king-of-Sparta" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/Leonidas-king-of-Sparta</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leonidas | Biography &amp; Facts24 Apr 2026 — Leonidas (died 480 bc, Thermopylae, Locris [Greece]) was a Spartan king whose stand against the...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: attalus.org  
-   Link: <a href="https://www.attalus.org/names/l/leonidas.html" target="_blank" rel="noopener noreferrer nofollow">https://www.attalus.org/names/l/leonidas.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in ancient sources @ attalus.orgLeonidas I - king of Sparta, killed in 480 B.C. Greek poet, 3rd century B.C. poet, 1st century A.D...</p></details>
+   Link:<a href="https://www.attalus.org/names/l/leonidas.html" target="_blank" rel="noopener noreferrer nofollow">https://www.attalus.org/names/l/leonidas.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in ancient sources @ attalus.orgLeonidas I - king of Sparta, killed in 480 B.C. Greek poet, 3rd century B.C. poet, 1st century A.D...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/epirus_epirus-leonidas-high-power-microwave-defeats-activity-7371575751776608256-i0zZ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/epirus_epirus-leonidas-high-power-microwave-defeats-activity-7371575751776608256-i0zZ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tic interference. “We believe showcasing our weaponized...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/epirus_epirus-leonidas-high-power-microwave-defeats-activity-7371575751776608256-i0zZ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/epirus_epirus-leonidas-high-power-microwave-defeats-activity-7371575751776608256-i0zZ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tic interference. “We believe showcasing our weaponized...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: calibredefence.co.uk  
    Title: epirus zaps fibre optic fpv with leonidas microwave weapon  
-   Link: <a href="https://www.calibredefence.co.uk/epirus-zaps-fibre-optic-fpv-with-leonidas-microwave-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.calibredefence.co.uk/epirus-zaps-fibre-optic-fpv-with-leonidas-microwave-weapon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus zaps fibre-optic FPV with Leonidas microwave...28 Jan 2026 — Epirus has developed a microwave weapon called Leonidas that has dem...</p></details>
+   Link:<a href="https://www.calibredefence.co.uk/epirus-zaps-fibre-optic-fpv-with-leonidas-microwave-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.calibredefence.co.uk/epirus-zaps-fibre-optic-fpv-with-leonidas-microwave-weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus zaps fibre-optic FPV with Leonidas microwave...28 Jan 2026 — Epirus has developed a microwave weapon called Leonidas that has dem...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: airuniversity.af.edu  
    Title: rls thor hammers drones in new video animation  
-   Link: <a href="https://www.airuniversity.af.edu/News/Display/Article/2658386/afrls-thor-hammers-drones-in-new-video-animation/" target="_blank" rel="noopener noreferrer nofollow">https://www.airuniversity.af.edu/News/Display/Article/2658386/afrls-thor-hammers-drones-in-new-video-animation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>af.eduAFRL&#x27;s THOR hammers drones in new video animation16 Jun 2021 — THOR is a prototype Directed Energy weapon used to disable the elect...</p></details>
+   Link:<a href="https://www.airuniversity.af.edu/News/Display/Article/2658386/afrls-thor-hammers-drones-in-new-video-animation/" target="_blank" rel="noopener noreferrer nofollow">https://www.airuniversity.af.edu/News/Display/Article/2658386/afrls-thor-hammers-drones-in-new-video-animation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>af.eduAFRL&#x27;s THOR hammers drones in new video animation16 Jun 2021 — THOR is a prototype Directed Energy weapon used to disable the elect...</p></details>
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/KirtlandAirForceBase/posts/airmen-the-air-force-research-laboratory-conducted-a-demonstration-april-5-2023-/648822910623189/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KirtlandAirForceBase/posts/airmen-the-air-force-research-laboratory-conducted-a-demonstration-april-5-2023-/648822910623189/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kirtland Air Force BaseThe system, known as the Tactical High-Power Operational Responder (THOR), uses focused bursts of microwave energy...</p></details>
+   Link:<a href="https://www.facebook.com/KirtlandAirForceBase/posts/airmen-the-air-force-research-laboratory-conducted-a-demonstration-april-5-2023-/648822910623189/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KirtlandAirForceBase/posts/airmen-the-air-force-research-laboratory-conducted-a-demonstration-april-5-2023-/648822910623189/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kirtland Air Force BaseThe system, known as the Tactical High-Power Operational Responder (THOR), uses focused bursts of microwave energy...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: behindthename.com  
-   Link: <a href="https://www.behindthename.com/name/leonidas" target="_blank" rel="noopener noreferrer nofollow">https://www.behindthename.com/name/leonidas</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meaning, origin and history of the name LeonidasLeonidas was a Spartan king of the 5th century BC who sacrificed his life and his army de...</p></details>
+   Link:<a href="https://www.behindthename.com/name/leonidas" target="_blank" rel="noopener noreferrer nofollow">https://www.behindthename.com/name/leonidas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meaning, origin and history of the name LeonidasLeonidas was a Spartan king of the 5th century BC who sacrificed his life and his army de...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/unitedkingdom/comments/1hled0c/radio_frequency_directed_energy_weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/unitedkingdom/comments/1hled0c/radio_frequency_directed_energy_weapon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radio Frequency Directed Energy Weapon successfully...RFDEWs are a type of directed energy weapon that neutralises threats by emitting h...</p></details>
+   Link:<a href="https://www.reddit.com/r/unitedkingdom/comments/1hled0c/radio_frequency_directed_energy_weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/unitedkingdom/comments/1hled0c/radio_frequency_directed_energy_weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Radio Frequency Directed Energy Weapon successfully...RFDEWs are a type of directed energy weapon that neutralises threats by emitting h...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: onr.navy.mil  
-   Link: <a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spectrum of radio and microwave freq...</p></details>
+   Link:<a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spectrum of radio and microwave freq...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: twz.com  
    Title: army puts 50m bet on next gen leonidas high power microwave counter drone tech  
-   Link: <a href="https://www.twz.com/land/army-puts-50m-bet-on-next-gen-leonidas-high-power-microwave-counter-drone-tech" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/land/army-puts-50m-bet-on-next-gen-leonidas-high-power-microwave-counter-drone-tech</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Army Puts $43M Bet On Next Gen Leonidas High Power...17 Jul 2025 — Epirus&#x27; CEO says successful tests of the company&#x27;s Gen II system capa...</p></details>
+   Link:<a href="https://www.twz.com/land/army-puts-50m-bet-on-next-gen-leonidas-high-power-microwave-counter-drone-tech" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/land/army-puts-50m-bet-on-next-gen-leonidas-high-power-microwave-counter-drone-tech</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Army Puts $43M Bet On Next Gen Leonidas High Power...17 Jul 2025 — Epirus&#x27; CEO says successful tests of the company&#x27;s Gen II system capa...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=0pwv1BOuqN4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0pwv1BOuqN4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AFRL&#x27;s THOR Tracks and Disables Drone SwarmTactical, High-power, Operational Responder, known as THOR, is a high-power microwave counter...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0pwv1BOuqN4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0pwv1BOuqN4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFRL&#x27;s THOR Tracks and Disables Drone SwarmTactical, High-power, Operational Responder, known as THOR, is a high-power microwave counter...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=aSM6q_TKcTs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aSM6q_TKcTs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DRDO&#x27;S New Microwave Weapon ExplainedDRDO&#x27;S New Microwave Weapon Explained The DRDO High Power Microwave (HPM) Directed Energy Weapon sys...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aSM6q_TKcTs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aSM6q_TKcTs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DRDO&#x27;S New Microwave Weapon ExplainedDRDO&#x27;S New Microwave Weapon Explained The DRDO High Power Microwave (HPM) Directed Energy Weapon sys...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=JGzL3fZgPZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JGzL3fZgPZY</a>  
+   Link:<a href="https://www.youtube.com/watch?v=JGzL3fZgPZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JGzL3fZgPZY</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=QjHGxKb6W1c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QjHGxKb6W1c</a>  
+   Link:<a href="https://www.youtube.com/watch?v=QjHGxKb6W1c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QjHGxKb6W1c</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: tomshardware.com  
    Title: Tom's Hardware High-power microwave system downs 49 drones in one shot  
-   Link: <a href="https://www.tomshardware.com/tech-industry/high-power-microwave-system-downs-49-drones-in-one-shot-weaponized-electromagnetic-interference-erases-drone-swarms-en-masse" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/high-power-microwave-system-downs-49-drones-in-one-shot-weaponized-electromagnetic-interference-erases-drone-swarms-en-masse</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>electronics warfare company, successfully demonstrated a major advancement in counter-drone technology with its Leonidas high-power micro...</p></details>
+   Link:<a href="https://www.tomshardware.com/tech-industry/high-power-microwave-system-downs-49-drones-in-one-shot-weaponized-electromagnetic-interference-erases-drone-swarms-en-masse" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/high-power-microwave-system-downs-49-drones-in-one-shot-weaponized-electromagnetic-interference-erases-drone-swarms-en-masse</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>electronics warfare company, successfully demonstrated a major advancement in counter-drone technology with its Leonidas high-power micro...</p></details>

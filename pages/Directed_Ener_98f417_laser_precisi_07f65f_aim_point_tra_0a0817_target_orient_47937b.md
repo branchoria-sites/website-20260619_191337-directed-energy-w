@@ -269,7 +269,7 @@ image: /assets/images/Directed_Ener_98f417_laser_precisi_07f65f_aim_point_tra_0a
 
 ## Introduction
 
-A laser weapon does not achieve its effect simply by touching a target with light. It must concentrate energy on a vulnerable feature long enough for damaging heat to accumulate. That creates a subtle tracking problem: a drone, missile, or aircraft can remain perfectly centred in the weapon’s sight while the component most worth heating has moved elsewhere because the target has banked, rolled, pitched, or turned. In practice, the best laser aim point often moves across the target image even when the target itself remains locked in the centre of the tracker. This is why modern laser-weapon research increasingly emphasises target pose estimation—the measurement of a target’s orientation in three-dimensional space—as a prerequisite for effective aim-point selection and [maintenance]({{ 'maintenance/' | relative_url }}). U.S. Navy+2Baird Maritime / Work Boat World <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navy.mil/Press-Office/News-Stories/Article/4064895/nps-develops-ai-solution-to-automate-drone-defense-with-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">nps develops ai solution to automate drone defense with high energy lasers</span><span class="citation-popover-snippet">U.S. NavyNPS Develops AI Solution to Automate Drone Defense with...12 Feb 2025 — By improving target classification, pose estimation, ai...</span></span></span>
+A laser weapon does not achieve its effect simply by touching a target with light. It must concentrate energy on a vulnerable feature long enough for damaging heat to accumulate. That creates a subtle tracking problem: a drone, missile, or aircraft can remain perfectly centred in the weapon’s sight while the component most worth heating has moved elsewhere because the target has banked, rolled, pitched, or turned. In practice, the best laser aim point often moves across the target image even when the target itself remains locked in the centre of the tracker. This is why modern laser-weapon research increasingly emphasises target pose estimation—the measurement of a target’s orientation in three-dimensional space—as a prerequisite for effective aim-point selection and [maintenance]({{ 'maintenance/' | relative_url }}). U.S. Navy+2Baird Maritime / Work Boat World<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navy.mil/Press-Office/News-Stories/Article/4064895/nps-develops-ai-solution-to-automate-drone-defense-with-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">nps develops ai solution to automate drone defense with high energy lasers</span><span class="citation-popover-snippet">U.S. NavyNPS Develops AI Solution to Automate Drone Defense with...12 Feb 2025 — By improving target classification, pose estimation, ai...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_aim_point_tra_0a0817_target_orient_47937b-Illustration-1-dark.svg" | relative_url }}" alt="Target Pose illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_aim_point_tra_0a0817_target_orient_47937b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_aim_point_tra_0a0817_target_orient_47937b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -277,22 +277,22 @@ A laser weapon does not achieve its effect simply by touching a target with ligh
 
 Conventional tracking systems often focus on keeping the target centroid—the apparent centre of the object—inside the aiming reticle. For a high-energy laser, however, the question is not whether the beam strikes the target, but whether it strikes the right part of the target.
 
-Consider a small unmanned aircraft. Depending on its orientation, the beam may land on a wing surface, battery compartment, sensor package, propulsion section, or a structurally robust area. These locations do not respond equally to heating. Some components may fail rapidly under sustained irradiation, while others can absorb significant energy with little immediate effect. Laser engagement [efficiency]({{ 'efficiency/' | relative_url }}) therefore depends on maintaining illumination of a specific vulnerable feature rather than merely keeping the beam somewhere on the airframe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://patents.google.com/patent/US5973309A/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patents.google.com">[Google Patents+2IDU FTP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patents.google.com</span><span class="citation-popover-snippet">Further, the laser tracking system is able to maintain a...Read more...</span></span></span>
+Consider a small unmanned aircraft. Depending on its orientation, the beam may land on a wing surface, battery compartment, sensor package, propulsion section, or a structurally robust area. These locations do not respond equally to heating. Some components may fail rapidly under sustained irradiation, while others can absorb significant energy with little immediate effect. Laser engagement [efficiency]({{ 'efficiency/' | relative_url }}) therefore depends on maintaining illumination of a specific vulnerable feature rather than merely keeping the beam somewhere on the airframe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://patents.google.com/patent/US5973309A/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patents.google.com">[Google Patents+2IDU FTP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patents.google.com</span><span class="citation-popover-snippet">Further, the laser tracking system is able to maintain a...Read more...</span></span></span>
 
-This distinction explains why laser-tracking architectures often separate target tracking from aim-point tracking. One loop follows the object. Another attempts to hold the beam on a designated damage point. Patents and beam-control research repeatedly describe locking onto vulnerable features rather than simply following the target’s centre. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://patents.google.com/patent/US5973309A/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patents.google.com">[Google Patents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patents.google.com</span><span class="citation-popover-snippet">Further, the laser tracking system is able to maintain a...Read more...</span></span></span>
+This distinction explains why laser-tracking architectures often separate target tracking from aim-point tracking. One loop follows the object. Another attempts to hold the beam on a designated damage point. Patents and beam-control research repeatedly describe locking onto vulnerable features rather than simply following the target’s centre.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://patents.google.com/patent/US5973309A/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patents.google.com">[Google Patents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patents.google.com</span><span class="citation-popover-snippet">Further, the laser tracking system is able to maintain a...Read more...</span></span></span>
 
 ## How Banking and Rotation Move Vulnerable Features
 
 The key mechanism is geometric rather than aerodynamic. As a target rotates, the visible location of its critical components changes relative to the observer.
 
-Imagine a quadcopter approaching head-on. From that angle, a battery housing might appear near the centre of the image. If the drone banks sharply, the same battery compartment may shift toward the edge of the visible silhouette. If the laser continues aiming at the original image centre, the beam can drift onto a less important structure despite flawless overall target tracking. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bairdmaritime.com/security/weaponry/development-underway-on-ai-enabled-laser-weapon-systems-for-us-navy-ships" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bairdmaritime.com">[Baird Maritime / Work Boat World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bairdmaritime.com</span><span class="citation-popover-title">development underway on ai enabled laser weapon systems for us navy ships</span><span class="citation-popover-snippet">Baird Maritime / Work Boat WorldDevelopment underway on AI-enabled laser weapon...14 Feb 2025 — Along with the drone type and aimpoint d...</span></span></span>
+Imagine a quadcopter approaching head-on. From that angle, a battery housing might appear near the centre of the image. If the drone banks sharply, the same battery compartment may shift toward the edge of the visible silhouette. If the laser continues aiming at the original image centre, the beam can drift onto a less important structure despite flawless overall target tracking.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bairdmaritime.com/security/weaponry/development-underway-on-ai-enabled-laser-weapon-systems-for-us-navy-ships" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bairdmaritime.com">[Baird Maritime / Work Boat World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bairdmaritime.com</span><span class="citation-popover-title">development underway on ai enabled laser weapon systems for us navy ships</span><span class="citation-popover-snippet">Baird Maritime / Work Boat WorldDevelopment underway on AI-enabled laser weapon...14 Feb 2025 — Along with the drone type and aimpoint d...</span></span></span>
 
 Several forms of motion matter:
 
 * **Roll (banking):** rotates the target around its forward axis, moving wings, motors, sensors, and other components around the image.
 * **Pitch:** changes which surfaces are exposed to the laser and can hide or reveal vulnerable features.
 * **Yaw (turning):** presents different sides of the vehicle, shifting the apparent location of internal systems and external equipment.
-* **Combined manoeuvres:** create continuous motion of critical features across the camera image even when the target remains visually stable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bairdmaritime.com/security/weaponry/development-underway-on-ai-enabled-laser-weapon-systems-for-us-navy-ships" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bairdmaritime.com">[Baird Maritime / Work Boat World+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bairdmaritime.com</span><span class="citation-popover-title">development underway on ai enabled laser weapon systems for us navy ships</span><span class="citation-popover-snippet">Baird Maritime / Work Boat WorldDevelopment underway on AI-enabled laser weapon...14 Feb 2025 — Along with the drone type and aimpoint d...</span></span></span>
+* **Combined manoeuvres:** create continuous motion of critical features across the camera image even when the target remains visually stable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bairdmaritime.com/security/weaponry/development-underway-on-ai-enabled-laser-weapon-systems-for-us-navy-ships" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bairdmaritime.com">[Baird Maritime / Work Boat World+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bairdmaritime.com</span><span class="citation-popover-title">development underway on ai enabled laser weapon systems for us navy ships</span><span class="citation-popover-snippet">Baird Maritime / Work Boat WorldDevelopment underway on AI-enabled laser weapon...14 Feb 2025 — Along with the drone type and aimpoint d...</span></span></span>
 
 The result is that the ideal heating location becomes a moving point attached to the target rather than a fixed point in the camera frame.
 
@@ -303,7 +303,7 @@ The result is that the ideal heating location becomes a moving point attached to
 
 Orientation changes do more than move components across the image. They also change how the laser energy interacts with the target.
 
-A component that is directly exposed in one orientation may become partially shielded by another structure after a turn. A beam striking a surface at a shallow angle may spread its energy over a larger area than one striking more directly. Different orientations can therefore alter both the accessibility of a vulnerable feature and the rate at which heat accumulates there. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/369726217_Target_aiming_point_focusing_strategy_for_destroying_a_short-range_target_using_distributed_laser_systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2IDU FTP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Target Aiming Point Focusing Strategy for Destroying a...January 1, 2023 — 28 May 2026 — Thus, this paper proposes utilizing...</span><span class="citation-popover-meta">Published: January 1, 2023</span></span></span>
+A component that is directly exposed in one orientation may become partially shielded by another structure after a turn. A beam striking a surface at a shallow angle may spread its energy over a larger area than one striking more directly. Different orientations can therefore alter both the accessibility of a vulnerable feature and the rate at which heat accumulates there.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/369726217_Target_aiming_point_focusing_strategy_for_destroying_a_short-range_target_using_distributed_laser_systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2IDU FTP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Target Aiming Point Focusing Strategy for Destroying a...January 1, 2023 — 28 May 2026 — Thus, this paper proposes utilizing...</span><span class="citation-popover-meta">Published: January 1, 2023</span></span></span>
 
 This means that “the battery compartment” or “the sensor package” is not always a single fixed aim point. The optimal impact location can migrate across the visible target as the geometry changes. A [laser fire]({{ 'a-laser-should-fire-before-a-missile/' | relative_url }})-control system may need to choose a different pixel location in successive video frames even though it is still pursuing the same underlying component.
 
@@ -319,11 +319,11 @@ Pose estimation attempts to answer questions such as:
 * How much is the aircraft banked?
 * Is the target climbing, descending, or turning?
 * Which vulnerable components are currently visible?
-* Where should those components appear in the image? ResearchGate+3U.S. Navy+3Baird Maritime / Work Boat World <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navy.mil/Press-Office/News-Stories/Article/4064895/nps-develops-ai-solution-to-automate-drone-defense-with-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">nps develops ai solution to automate drone defense with high energy lasers</span><span class="citation-popover-snippet">U.S. NavyNPS Develops AI Solution to Automate Drone Defense with...12 Feb 2025 — By improving target classification, pose estimation, ai...</span></span></span>
+* Where should those components appear in the image? ResearchGate+3U.S. Navy+3Baird Maritime / Work Boat World<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navy.mil/Press-Office/News-Stories/Article/4064895/nps-develops-ai-solution-to-automate-drone-defense-with-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">nps develops ai solution to automate drone defense with high energy lasers</span><span class="citation-popover-snippet">U.S. NavyNPS Develops AI Solution to Automate Drone Defense with...12 Feb 2025 — By improving target classification, pose estimation, ai...</span></span></span>
 
-Modern research testbeds have explored using machine learning and image-based recognition to infer a UAV’s orientation from camera imagery. Once the pose is estimated, a model of the target can predict where critical features should be located within the image. The laser can then track the desired feature rather than the target’s geometric centre. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/08839514.2022.2151191" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineDeep Learning Based Object Attitude Estimation for a...by L Herrera · 2023 · Cited by 5 — This paper presents an...</span></span></span>
+Modern research testbeds have explored using machine learning and image-based recognition to infer a UAV’s orientation from camera imagery. Once the pose is estimated, a model of the target can predict where critical features should be located within the image. The laser can then track the desired feature rather than the target’s geometric centre.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/08839514.2022.2151191" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineDeep Learning Based Object Attitude Estimation for a...by L Herrera · 2023 · Cited by 5 — This paper presents an...</span></span></span>
 
-Recent naval research into AI-assisted laser weapons explicitly identifies target classification, pose estimation, aim-point selection, and aim-point maintenance as linked tasks. The logic is straightforward: a system cannot reliably choose the best damage point unless it first understands how the target is oriented. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navy.mil/Press-Office/News-Stories/Article/4064895/nps-develops-ai-solution-to-automate-drone-defense-with-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[U.S. Navy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">nps develops ai solution to automate drone defense with high energy lasers</span><span class="citation-popover-snippet">U.S. NavyNPS Develops AI Solution to Automate Drone Defense with...12 Feb 2025 — By improving target classification, pose estimation, ai...</span></span></span>
+Recent naval research into AI-assisted laser weapons explicitly identifies target classification, pose estimation, aim-point selection, and aim-point maintenance as linked tasks. The logic is straightforward: a system cannot reliably choose the best damage point unless it first understands how the target is oriented.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navy.mil/Press-Office/News-Stories/Article/4064895/nps-develops-ai-solution-to-automate-drone-defense-with-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[U.S. Navy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">nps develops ai solution to automate drone defense with high energy lasers</span><span class="citation-popover-snippet">U.S. NavyNPS Develops AI Solution to Automate Drone Defense with...12 Feb 2025 — By improving target classification, pose estimation, ai...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_aim_point_tra_0a0817_target_orient_47937b-Illustration-2-dark.svg" | relative_url }}" alt="Target Pose illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_aim_point_tra_0a0817_target_orient_47937b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_aim_point_tra_0a0817_target_orient_47937b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -331,7 +331,7 @@ Recent naval research into AI-assisted laser weapons explicitly identifies targe
 
 A pose estimate does not have to be completely wrong to reduce effectiveness. Even modest orientation errors can place the beam on the wrong part of a small target.
 
-Suppose the tracking system believes a drone is level when it is actually banked several degrees. The predicted location of a battery pack or motor housing may be displaced enough that the beam spends its dwell time heating nearby structure instead. Because laser damage depends on sustained energy deposition, such errors can increase the time required to achieve an effect or prevent the desired effect altogether. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://patents.google.com/patent/US5973309A/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patents.google.com">[Google Patents+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patents.google.com</span><span class="citation-popover-snippet">Further, the laser tracking system is able to maintain a...Read more...</span></span></span>
+Suppose the tracking system believes a drone is level when it is actually banked several degrees. The predicted location of a battery pack or motor housing may be displaced enough that the beam spends its dwell time heating nearby structure instead. Because laser damage depends on sustained energy deposition, such errors can increase the time required to achieve an effect or prevent the desired effect altogether.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://patents.google.com/patent/US5973309A/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patents.google.com">[Google Patents+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patents.google.com</span><span class="citation-popover-snippet">Further, the laser tracking system is able to maintain a...Read more...</span></span></span>
 
 This sensitivity explains why researchers treat pose estimation as a sensor problem rather than a cosmetic enhancement. Determining orientation is part of determining where the energy should go.
 
@@ -342,201 +342,201 @@ This sensitivity explains why researchers treat pose estimation as a sensor prob
 
 The most important insight is that a laser engagement is not fundamentally about keeping a target inside a tracking box. It is about keeping heat concentrated on the correct physical feature.
 
-As a target manoeuvres, its vulnerable components move relative to the observer. A drone can remain perfectly centred while the battery compartment, sensor turret, motor assembly, or control electronics migrate across the image. The best laser aim point therefore moves with the target’s pose. Effective laser weapons must estimate that pose, predict where the desired feature has shifted, and continuously steer the beam to follow it. In that sense, orientation tracking is not a supporting function of laser combat—it is one of the mechanisms that determines whether the delivered energy produces meaningful damage at all. ResearchGate+3U.S. Navy+3Baird Maritime / Work Boat World <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navy.mil/Press-Office/News-Stories/Article/4064895/nps-develops-ai-solution-to-automate-drone-defense-with-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">nps develops ai solution to automate drone defense with high energy lasers</span><span class="citation-popover-snippet">U.S. NavyNPS Develops AI Solution to Automate Drone Defense with...12 Feb 2025 — By improving target classification, pose estimation, ai...</span></span></span>
+As a target manoeuvres, its vulnerable components move relative to the observer. A drone can remain perfectly centred while the battery compartment, sensor turret, motor assembly, or control electronics migrate across the image. The best laser aim point therefore moves with the target’s pose. Effective laser weapons must estimate that pose, predict where the desired feature has shifted, and continuously steer the beam to follow it. In that sense, orientation tracking is not a supporting function of laser combat—it is one of the mechanisms that determines whether the delivered energy produces meaningful damage at all. ResearchGate+3U.S. Navy+3Baird Maritime / Work Boat World<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navy.mil/Press-Office/News-Stories/Article/4064895/nps-develops-ai-solution-to-automate-drone-defense-with-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">nps develops ai solution to automate drone defense with high energy lasers</span><span class="citation-popover-snippet">U.S. NavyNPS Develops AI Solution to Automate Drone Defense with...12 Feb 2025 — By improving target classification, pose estimation, ai...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QjIYU2tiLR8" title="How Iron Beam 450 Works: Israel’s Laser Defense Weapon Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QjIYU2tiLR8" target="_blank" rel="noopener noreferrer">How Iron Beam 450 Works: Israel’s Laser Defense Weapon Explained</a></p><p class="youtube-embed-meta">Channel: DEFENCE CENTRAL</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QjIYU2tiLR8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QjIYU2tiLR8">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Best Laser Aim Point Moves. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Best Laser Aim Point Moves. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Introduction+to+Laser+Weapon+Systems&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Introduction to Laser Weapon Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13772805-M.jpg" alt="Cover for An Introduction to Laser Weapon Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=An+Introduction+to+Laser+Weapon+Systems&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Introduction to Laser Weapon Systems">An Introduction to Laser Weapon Systems</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Introduction+to+Laser+Weapon+Systems&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Introduction to Laser Weapon Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13772805-M.jpg" alt="Cover for An Introduction to Laser Weapon Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=An+Introduction+to+Laser+Weapon+Systems&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Introduction to Laser Weapon Systems">An Introduction to Laser Weapon Systems</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Discusses target tracking, engagement geometry and vulnerable aim-point considerations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=An+Introduction+to+Laser+Weapon+Systems&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses target tracking, engagement geometry and vulnerable aim-point considerations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=An+Introduction+to+Laser+Weapon+Systems&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Multiple view geometry in computer vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/350219-M.jpg" alt="Cover for Multiple view geometry in computer vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Multiple view geometry in computer vision">Multiple view geometry in computer vision</a>
-        </h4>
-        <p class="fr-book-author">By Richard Hartley, Andrew Zisserman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Multiple view geometry in computer vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/350219-M.jpg" alt="Cover for Multiple view geometry in computer vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Multiple view geometry in computer vision">Multiple view geometry in computer vision</a>
+</h4>
+<p class="fr-book-author">By Richard Hartley, Andrew Zisserman</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Computer vision, Projective Geometry, Geometry, modern.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Computer vision, Projective Geometry, Geometry, modern.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
-        </h4>
-        <p class="fr-book-author">By Richard Szeliski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
+</h4>
+<p class="fr-book-author">By Richard Szeliski</p>
         
-        <p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Connects tracking performance and target interaction to overall weapon effectiveness.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects tracking performance and target interaction to overall weapon effectiveness.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=An+to+Laser+Weapon+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An to Laser Weapon Systems books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Multiple view geometry in computer vision</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Computer+Vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Computer Vision</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=An+to+Laser+Weapon+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An to Laser Weapon Systems books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Multiple view geometry in computer vision</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Computer+Vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Computer Vision</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin"><img src="{{ '/assets/images/marketplace-covers/7e59f5248ccdd6fc90fc.jpg' | relative_url }}" alt="Listing image for Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin"><img src="{{ '/assets/images/marketplace-covers/7e59f5248ccdd6fc90fc.jpg' | relative_url }}" alt="Listing image for Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment"><img src="{{ '/assets/images/marketplace-covers/0405b1cb09b5dd20d5de.jpg' | relative_url }}" alt="Listing image for Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment"><img src="{{ '/assets/images/marketplace-covers/0405b1cb09b5dd20d5de.jpg' | relative_url }}" alt="Listing image for Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Press Photograph Research Laboratory Equipment and Laser Technology"><img src="{{ '/assets/images/marketplace-covers/e237132357180c5d278f.jpg' | relative_url }}" alt="Listing image for Vintage Press Photograph Research Laboratory Equipment and Laser Technology" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Vintage Press Photograph Research Laboratory Equipment and Laser Technology</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Press Photograph Research Laboratory Equipment and Laser Technology"><img src="{{ '/assets/images/marketplace-covers/e237132357180c5d278f.jpg' | relative_url }}" alt="Listing image for Vintage Press Photograph Research Laboratory Equipment and Laser Technology" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Vintage Press Photograph Research Laboratory Equipment and Laser Technology</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment"><img src="{{ '/assets/images/marketplace-covers/7b762fb9a777d61458bf.jpg' | relative_url }}" alt="Listing image for Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment"><img src="{{ '/assets/images/marketplace-covers/7b762fb9a777d61458bf.jpg' | relative_url }}" alt="Listing image for Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="target-pose-why-the-best-laser-aim-point-moves-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -552,7 +552,7 @@ As a target manoeuvres, its vulnerable components move relative to the observer.
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -572,7 +572,7 @@ As a target manoeuvres, its vulnerable components move relative to the observer.
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -604,7 +604,7 @@ As a target manoeuvres, its vulnerable components move relative to the observer.
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -656,7 +656,7 @@ As a target manoeuvres, its vulnerable components move relative to the observer.
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -701,7 +701,7 @@ As a target manoeuvres, its vulnerable components move relative to the observer.
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -742,114 +742,114 @@ As a target manoeuvres, its vulnerable components move relative to the observer.
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: navy.mil  
    Title: nps develops ai solution to automate drone defense with high energy [lasers](&#123;&#123; 'lasers/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.navy.mil/Press-Office/News-Stories/Article/4064895/nps-develops-ai-solution-to-automate-drone-defense-with-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow">https://www.navy.mil/Press-Office/News-Stories/Article/4064895/nps-develops-ai-solution-to-automate-drone-defense-with-high-energy-lasers/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. NavyNPS Develops AI Solution to Automate Drone Defense with...12 Feb 2025 — By improving target classification, pose estimation, ai...</p></details>
+   Link:<a href="https://www.navy.mil/Press-Office/News-Stories/Article/4064895/nps-develops-ai-solution-to-automate-drone-defense-with-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow">https://www.navy.mil/Press-Office/News-Stories/Article/4064895/nps-develops-ai-solution-to-automate-drone-defense-with-high-energy-lasers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. NavyNPS Develops AI Solution to Automate Drone Defense with...12 Feb 2025 — By improving target classification, pose estimation, ai...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/271457780_Pointingtracking_control_design_for_a_high_energy_laser_system" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/271457780_Pointingtracking_control_design_for_a_high_energy_laser_system</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pointing/tracking control design for a high energy laser...Image-based unmanned aerial vehicle (UAV) pose estimation is carried out by d...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/271457780_Pointingtracking_control_design_for_a_high_energy_laser_system" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/271457780_Pointingtracking_control_design_for_a_high_energy_laser_system</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pointing/tracking control design for a high energy laser...Image-based unmanned aerial vehicle (UAV) pose estimation is carried out by d...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: patents.google.com  
-   Link: <a href="https://patents.google.com/patent/US5973309A/en" target="_blank" rel="noopener noreferrer nofollow">https://patents.google.com/patent/US5973309A/en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Further, the laser tracking system is able to maintain a...Read more...</p></details>
+   Link:<a href="https://patents.google.com/patent/US5973309A/en" target="_blank" rel="noopener noreferrer nofollow">https://patents.google.com/patent/US5973309A/en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Further, the laser tracking system is able to maintain a...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ftp.idu.ac.id  
-   Link: <a href="https://ftp.idu.ac.id/wp-content/uploads/ebook/tdg/MILITARY%20PLATFORM%20DESIGN/Military%20Laser%20Technology%20For%20Defense.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ftp.idu.ac.id/wp-content/uploads/ebook/tdg/MILITARY%20PLATFORM%20DESIGN/Military%20Laser%20Technology%20For%20Defense.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Technology for Defensea large area of the target for the purpose of selecting an aim point on the target on which the main beam wil...</p></details>
+   Link:<a href="https://ftp.idu.ac.id/wp-content/uploads/ebook/tdg/MILITARY%20PLATFORM%20DESIGN/Military%20Laser%20Technology%20For%20Defense.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ftp.idu.ac.id/wp-content/uploads/ebook/tdg/MILITARY%20PLATFORM%20DESIGN/Military%20Laser%20Technology%20For%20Defense.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Technology for Defensea large area of the target for the purpose of selecting an aim point on the target on which the main beam wil...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: patents.google.com  
-   Link: <a href="https://patents.google.com/patent/KR101057303B1/en" target="_blank" rel="noopener noreferrer nofollow">https://patents.google.com/patent/KR101057303B1/en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google PatentsKR101057303B1 - Laser weapon tracking aiming deviceThe present invention is a laser weapon tracking aiming device 1000 that...</p></details>
+   Link:<a href="https://patents.google.com/patent/KR101057303B1/en" target="_blank" rel="noopener noreferrer nofollow">https://patents.google.com/patent/KR101057303B1/en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google PatentsKR101057303B1 - Laser weapon tracking aiming deviceThe present invention is a laser weapon tracking aiming device 1000 that...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/369726217_Target_aiming_point_focusing_strategy_for_destroying_a_short-range_target_using_distributed_laser_systems" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369726217_Target_aiming_point_focusing_strategy_for_destroying_a_short-range_target_using_distributed_laser_systems</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Target Aiming Point Focusing Strategy for Destroying a...January 1, 2023 — 28 May 2026 — Thus, this paper proposes utilizing...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/369726217_Target_aiming_point_focusing_strategy_for_destroying_a_short-range_target_using_distributed_laser_systems" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369726217_Target_aiming_point_focusing_strategy_for_destroying_a_short-range_target_using_distributed_laser_systems</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Target Aiming Point Focusing Strategy for Destroying a...January 1, 2023 — 28 May 2026 — Thus, this paper proposes utilizing...</p></details>
    Published: January 1, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2304-6732/12/12/1149" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2304-6732/12/12/1149</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Indirect Detection of Target Tracking and Strike Capability...by M Qin · 2025 — To address the significant challenges associated with ac...</p></details>
+   Link:<a href="https://www.mdpi.com/2304-6732/12/12/1149" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2304-6732/12/12/1149</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Indirect Detection of Target Tracking and Strike Capability...by M Qin · 2025 — To address the significant challenges associated with ac...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
    Title: 228750912 An approach to target detection in forested scenes  
-   Link: <a href="https://www.researchgate.net/publication/228750912_An_approach_to_target_detection_in_forested_scenes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228750912_An_approach_to_target_detection_in_forested_scenes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An approach to target detection in forested scenes29 Apr 2026 — Laser-based 3D sensors measure range with high accuracy and allow for det...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/228750912_An_approach_to_target_detection_in_forested_scenes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228750912_An_approach_to_target_detection_in_forested_scenes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An approach to target detection in forested scenes29 Apr 2026 — Laser-based 3D sensors measure range with high accuracy and allow for det...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: bairdmaritime.com  
    Title: development underway on ai enabled laser weapon systems for us navy ships  
-   Link: <a href="https://www.bairdmaritime.com/security/weaponry/development-underway-on-ai-enabled-laser-weapon-systems-for-us-navy-ships" target="_blank" rel="noopener noreferrer nofollow">https://www.bairdmaritime.com/security/weaponry/development-underway-on-ai-enabled-laser-weapon-systems-for-us-navy-ships</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Baird Maritime / Work Boat WorldDevelopment underway on AI-enabled laser weapon...14 Feb 2025 — Along with the drone type and aimpoint d...</p></details>
+   Link:<a href="https://www.bairdmaritime.com/security/weaponry/development-underway-on-ai-enabled-laser-weapon-systems-for-us-navy-ships" target="_blank" rel="noopener noreferrer nofollow">https://www.bairdmaritime.com/security/weaponry/development-underway-on-ai-enabled-laser-weapon-systems-for-us-navy-ships</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Baird Maritime / Work Boat WorldDevelopment underway on AI-enabled laser weapon...14 Feb 2025 — Along with the drone type and aimpoint d...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/08839514.2022.2151191" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/08839514.2022.2151191</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineDeep Learning Based Object Attitude Estimation for a...by L Herrera · 2023 · Cited by 5 — This paper presents an...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/08839514.2022.2151191" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/08839514.2022.2151191</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineDeep Learning Based Object Attitude Estimation for a...by L Herrera · 2023 · Cited by 5 — This paper presents an...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: mediatum.ub.tum.de  
-   Link: <a href="https://mediatum.ub.tum.de/doc/1324836/1324836.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mediatum.ub.tum.de/doc/1324836/1324836.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Proximity Operations for Noncooperative...At this point, the current target pose is estimated with a Newton-Raphson method that solves t...</p></details>
+   Link:<a href="https://mediatum.ub.tum.de/doc/1324836/1324836.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mediatum.ub.tum.de/doc/1324836/1324836.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Proximity Operations for Noncooperative...At this point, the current target pose is estimated with a Newton-Raphson method that solves t...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: publications.jrc.ec.europa.eu  
-   Link: <a href="https://publications.jrc.ec.europa.eu/repository/bitstream/JRC129088/JRC129088_01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.jrc.ec.europa.eu/repository/bitstream/JRC129088/JRC129088_01.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>europa.euX-ray baggage screening and artificial intelligence (AI)by D VUKADINOVIC · Cited by 24 — This publication is a Science for Polic...</p></details>
+   Link:<a href="https://publications.jrc.ec.europa.eu/repository/bitstream/JRC129088/JRC129088_01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.jrc.ec.europa.eu/repository/bitstream/JRC129088/JRC129088_01.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>europa.euX-ray baggage screening and artificial intelligence (AI)by D VUKADINOVIC · Cited by 24 — This publication is a Science for Polic...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: eureka.patsnap.com  
    Title: report advanced laser alignment in rail gun target validation  
-   Link: <a href="https://eureka.patsnap.com/report-advanced-laser-alignment-in-rail-gun-target-validation" target="_blank" rel="noopener noreferrer nofollow">https://eureka.patsnap.com/report-advanced-laser-alignment-in-rail-gun-target-validation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Alignment in Rail Gun Target Validation6 Aug 2025 — These techniques involve splitting a laser beam and measuring the interference...</p></details>
+   Link:<a href="https://eureka.patsnap.com/report-advanced-laser-alignment-in-rail-gun-target-validation" target="_blank" rel="noopener noreferrer nofollow">https://eureka.patsnap.com/report-advanced-laser-alignment-in-rail-gun-target-validation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Alignment in Rail Gun Target Validation6 Aug 2025 — These techniques involve splitting a laser beam and measuring the interference...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: mobilityengineeringtech.com  
    Title: 52999 ai automates drone defense with high energy lasers  
-   Link: <a href="https://www.mobilityengineeringtech.com/component/content/article/52999-ai-automates-drone-defense-with-high-energy-lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.mobilityengineeringtech.com/component/content/article/52999-ai-automates-drone-defense-with-high-energy-lasers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mobility [Engineering](&amp;#123;&amp;#123; &#x27;engineering/&#x27; | relative_url &amp;#125;&amp;#125;) TechnologyAI Automates Drone Defense With High Energy Lasers8 May 2025 — Researchers and collaborators are applying...</p></details>
+   Link:<a href="https://www.mobilityengineeringtech.com/component/content/article/52999-ai-automates-drone-defense-with-high-energy-lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.mobilityengineeringtech.com/component/content/article/52999-ai-automates-drone-defense-with-high-energy-lasers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mobility [Engineering](&amp;#123;&amp;#123; &#x27;engineering/&#x27; | relative_url &amp;#125;&amp;#125;) TechnologyAI Automates Drone Defense With High Energy Lasers8 May 2025 — Researchers and collaborators are applying...</p></details>
    Published: May 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: laserwars.net  
    Title: [navy laser](&#123;&#123; 'laser-lineage/' | relative_url &#125;&#125;) weapons artificial intelligence  
-   Link: <a href="https://www.laserwars.net/p/navy-laser-weapons-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/navy-laser-weapons-artificial-intelligence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Navy is Experimenting With AI-Powered Laser Weapons14 Feb 2025 — The US Navy is experimenting with integrating artificial intelligenc...</p></details>
+   Link:<a href="https://www.laserwars.net/p/navy-laser-weapons-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/navy-laser-weapons-artificial-intelligence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Navy is Experimenting With AI-Powered Laser Weapons14 Feb 2025 — The US Navy is experimenting with integrating artificial intelligenc...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: There are no direct analogues!  
-   Link: <a href="https://www.facebook.com/RostecCorporation/posts/there-are-no-direct-analogues-a-laser-pistol-target-designator-was-showed-at-arm/2617149871662526/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RostecCorporation/posts/there-are-no-direct-analogues-a-laser-pistol-target-designator-was-showed-at-arm/2617149871662526/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A laser pistol target...This innovative feature allows users to engage targets from virtually any position, overcoming traditional limit...</p></details>
+   Link:<a href="https://www.facebook.com/RostecCorporation/posts/there-are-no-direct-analogues-a-laser-pistol-target-designator-was-showed-at-arm/2617149871662526/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RostecCorporation/posts/there-are-no-direct-analogues-a-laser-pistol-target-designator-was-showed-at-arm/2617149871662526/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A laser pistol target...This innovative feature allows users to engage targets from virtually any position, overcoming traditional limit...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: iqytechnicalcollege.com  
-   Link: <a href="https://www.iqytechnicalcollege.com/Directed%20Energy%20Weapons_%20Physics%20of%20High%20Energy%20Lasers.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iqytechnicalcollege.com/Directed%20Energy%20Weapons_%20Physics%20of%20High%20Energy%20Lasers.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It transfers energy to a target...Read more...</p></details>
+   Link:<a href="https://www.iqytechnicalcollege.com/Directed%20Energy%20Weapons_%20Physics%20of%20High%20Energy%20Lasers.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iqytechnicalcollege.com/Directed%20Energy%20Weapons_%20Physics%20of%20High%20Energy%20Lasers.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It transfers energy to a target...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=h5YbAa3PzKE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h5YbAa3PzKE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How [Thor](&amp;#123;&amp;#123; &#x27;thor/&#x27; | relative_url &amp;#125;&amp;#125;) Is Using Laser Technology to Stop Drone [Swarms](&amp;#123;&amp;#123; &#x27;swarms/&#x27; | relative_url &amp;#125;&amp;#125;) at Scale...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=h5YbAa3PzKE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h5YbAa3PzKE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How [Thor](&amp;#123;&amp;#123; &#x27;thor/&#x27; | relative_url &amp;#125;&amp;#125;) Is Using Laser Technology to Stop Drone [Swarms](&amp;#123;&amp;#123; &#x27;swarms/&#x27; | relative_url &amp;#125;&amp;#125;) at Scale...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: How Iron Beam 450 Works: Israel's Laser Defense Weapon Explained  
-   Link: <a href="https://www.youtube.com/watch?v=QjIYU2tiLR8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QjIYU2tiLR8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>British Army successfully tests new drone-destroying high-energy laser weapon for the first time...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QjIYU2tiLR8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QjIYU2tiLR8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>British Army successfully tests new drone-destroying high-energy laser weapon for the first time...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2505.17985v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2505.17985v2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Driven Robotics for Optics15 Nov 2025 — The incoming laser beam direction makes an angle of 30 degrees with the x we first ask the AI...</p></details>
+   Link:<a href="https://arxiv.org/html/2505.17985v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2505.17985v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Driven Robotics for Optics15 Nov 2025 — The incoming laser beam direction makes an angle of 30 degrees with the x we first ask the AI...</p></details>

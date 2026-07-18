@@ -275,47 +275,47 @@ image: /assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_sea_spray_nav_87
 
 ## Introduction
 
-Bad maritime weather does not suddenly render naval [lasers]({{ 'lasers/' | relative_url }}) ineffective, but it can reduce practical engagement range from the system’s advertised potential to a much smaller tactical envelope. The key issue is not whether a laser can reach a target through rain, spray or haze. It is whether enough energy arrives on target quickly enough to achieve the desired effect before the target escapes, manoeuvres, or reaches weapon-release range. In maritime operations, where lasers must often fire through humid air, salt aerosols, turbulence and sea spray concentrated near the ocean surface, the difference between laboratory performance and operational performance can be substantial. Studies of ship-defence high-energy lasers consistently identify the marine boundary layer as one of the most demanding propagation environments for directed-energy systems. American Meteorological Society Journals+2Naval Postgraduate School <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.ametsoc.org/view/journals/apme/50/1/2010jamc2482.1.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.ametsoc.org">[journals.ametsoc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.ametsoc.org</span><span class="citation-popover-snippet">American Meteorological Society JournalsClimate Change: Anticipated Effects on High-Energy Laser...by ST Fiorino · 2011 · Cited by 10 —...</span></span></span>
+Bad maritime weather does not suddenly render naval [lasers]({{ 'lasers/' | relative_url }}) ineffective, but it can reduce practical engagement range from the system’s advertised potential to a much smaller tactical envelope. The key issue is not whether a laser can reach a target through rain, spray or haze. It is whether enough energy arrives on target quickly enough to achieve the desired effect before the target escapes, manoeuvres, or reaches weapon-release range. In maritime operations, where lasers must often fire through humid air, salt aerosols, turbulence and sea spray concentrated near the ocean surface, the difference between laboratory performance and operational performance can be substantial. Studies of ship-defence high-energy lasers consistently identify the marine boundary layer as one of the most demanding propagation environments for directed-energy systems. American Meteorological Society Journals+2Naval Postgraduate School<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.ametsoc.org/view/journals/apme/50/1/2010jamc2482.1.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.ametsoc.org">[journals.ametsoc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.ametsoc.org</span><span class="citation-popover-snippet">American Meteorological Society JournalsClimate Change: Anticipated Effects on High-Energy Laser...by ST Fiorino · 2011 · Cited by 10 —...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_sea_spray_nav_87f1da_maritime_weat_b74b58-Illustration-1-dark.svg" | relative_url }}" alt="Range Limits illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_sea_spray_nav_87f1da_maritime_weat_b74b58-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_sea_spray_nav_87f1da_maritime_weat_b74b58-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Delivered Energy Versus Advertised Power
 
-The range figures often associated with naval laser weapons can be misleading because laser effectiveness depends on delivered energy density rather than raw generator output. A 100 kW-class laser does not place 100 kW onto the target. Atmospheric absorption, scattering, turbulence, [beam jitter]({{ 'beam-jitter/' | relative_url }}) and thermal [blooming]({{ 'blooming/' | relative_url }}) progressively reduce the concentration of energy reaching the aim point. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everycrsreport.com/reports/R41526.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everycrsreport.com">[Every CRS Report+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everycrsreport.com</span><span class="citation-popover-snippet">Every CRS ReportNavy Shipboard Lasers for Surface, Air, and Missile DefenseDec 9, 2010 — atmospheric absorption, scattering, and turbulen...</span></span></span>
+The range figures often associated with naval laser weapons can be misleading because laser effectiveness depends on delivered energy density rather than raw generator output. A 100 kW-class laser does not place 100 kW onto the target. Atmospheric absorption, scattering, turbulence, [beam jitter]({{ 'beam-jitter/' | relative_url }}) and thermal [blooming]({{ 'blooming/' | relative_url }}) progressively reduce the concentration of energy reaching the aim point.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everycrsreport.com/reports/R41526.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everycrsreport.com">[Every CRS Report+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everycrsreport.com</span><span class="citation-popover-snippet">Every CRS ReportNavy Shipboard Lasers for Surface, Air, and Missile DefenseDec 9, 2010 — atmospheric absorption, scattering, and turbulen...</span></span></span>
 
-Over the sea, this distinction becomes especially important. Salt particles, water vapour and spray scatter and distort the beam. Turbulence generated by wind, waves and ship structures can further spread the beam spot. As range increases, these effects compound. A target that might be vulnerable at several kilometres in clear maritime air may require engagement at much shorter distances during periods of heavy spray, haze or rain. Naval Postgraduate School+2American Meteorological Society Journals <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nps.edu/web/research/-/propagation-of-high-energy-lasers-for-various-wavelengths-power-levels-and-atmospheric-conditions-2018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.edu">[nps.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.edu</span><span class="citation-popover-snippet">The goal is real-time atmospheric characterization to...</span></span></span>
+Over the sea, this distinction becomes especially important. Salt particles, water vapour and spray scatter and distort the beam. Turbulence generated by wind, waves and ship structures can further spread the beam spot. As range increases, these effects compound. A target that might be vulnerable at several kilometres in clear maritime air may require engagement at much shorter distances during periods of heavy spray, haze or rain. Naval Postgraduate School+2American Meteorological Society Journals<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nps.edu/web/research/-/propagation-of-high-energy-lasers-for-various-wavelengths-power-levels-and-atmospheric-conditions-2018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.edu">[nps.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.edu</span><span class="citation-popover-snippet">The goal is real-time atmospheric characterization to...</span></span></span>
 
-Open-source modelling and naval studies repeatedly show that atmospheric conditions can have a larger effect on lethality than modest increases in laser output power. This is one reason why modern naval laser programmes invest heavily in [adaptive optics]({{ 'adaptive-optics/' | relative_url }}), atmospheric sensing and beam-control systems rather than relying solely on higher power levels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.c4isrnet.com/opinion/2018/02/26/cloudy-and-a-chance-of-rain-need-not-sideline-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: c4isrnet.com">[C4ISRNet+2Every CRS Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">c4isrnet.com</span><span class="citation-popover-title">cloudy and a chance of rain need not sideline high energy lasers</span><span class="citation-popover-snippet">Cloudy and a chance of rain need not sideline high-energy...26 Feb 2018 — Under the most adverse conditions (heavy rain, very th...</span></span></span>
+Open-source modelling and naval studies repeatedly show that atmospheric conditions can have a larger effect on lethality than modest increases in laser output power. This is one reason why modern naval laser programmes invest heavily in [adaptive optics]({{ 'adaptive-optics/' | relative_url }}), atmospheric sensing and beam-control systems rather than relying solely on higher power levels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.c4isrnet.com/opinion/2018/02/26/cloudy-and-a-chance-of-rain-need-not-sideline-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: c4isrnet.com">[C4ISRNet+2Every CRS Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">c4isrnet.com</span><span class="citation-popover-title">cloudy and a chance of rain need not sideline high energy lasers</span><span class="citation-popover-snippet">Cloudy and a chance of rain need not sideline high-energy...26 Feb 2018 — Under the most adverse conditions (heavy rain, very th...</span></span></span>
 
 In practical terms, operators should think in terms of weather-dependent engagement zones rather than fixed maximum ranges:
 
 * **Clear maritime conditions:** lasers may engage drones, sensors or lightly built targets at their most favourable ranges.
 * **Moderate haze, humidity and spray:** effective range contracts, but engagements remain feasible.
 * **Heavy rain, dense fog or severe spray conditions:** the laser may still propagate, yet target damage becomes slower and less predictable.
-* **Extreme visibility degradation:** commanders may shift primary responsibility to missiles, guns or other defensive systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.c4isrnet.com/opinion/2018/02/26/cloudy-and-a-chance-of-rain-need-not-sideline-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: c4isrnet.com">[C4ISRNet+2laserwars.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">c4isrnet.com</span><span class="citation-popover-title">cloudy and a chance of rain need not sideline high energy lasers</span><span class="citation-popover-snippet">Cloudy and a chance of rain need not sideline high-energy...26 Feb 2018 — Under the most adverse conditions (heavy rain, very th...</span></span></span>
+* **Extreme visibility degradation:** commanders may shift primary responsibility to missiles, guns or other defensive systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.c4isrnet.com/opinion/2018/02/26/cloudy-and-a-chance-of-rain-need-not-sideline-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: c4isrnet.com">[C4ISRNet+2laserwars.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">c4isrnet.com</span><span class="citation-popover-title">cloudy and a chance of rain need not sideline high energy lasers</span><span class="citation-popover-snippet">Cloudy and a chance of rain need not sideline high-energy...26 Feb 2018 — Under the most adverse conditions (heavy rain, very th...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X1toVupe_R8" title="U.S. Directed Energy Weapons Systems" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer">U.S. Directed Energy Weapons Systems</a></p><p class="youtube-embed-meta">Channel: U.S. Government Accountability Office (GAO)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X1toVupe_R8">Open on YouTube</a></p></div></div></div>
 
 ## Why Rain and Sea Spray Shrink Range Faster Than Many Expect
 
-Rain is often less damaging to laser propagation than dense fog because raindrops occupy only part of the beam path, whereas fog fills the entire volume with scattering particles. Nevertheless, maritime rain rarely occurs in isolation. Heavy weather frequently combines rainfall with wind-driven spray, turbulent air and reduced tracking quality. The result is a cumulative penalty rather than a single atmospheric effect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nps.edu/web/research/-/propagation-of-high-energy-lasers-for-various-wavelengths-power-levels-and-atmospheric-conditions-2018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.edu">[Naval Postgraduate School+2C4ISRNet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.edu</span><span class="citation-popover-snippet">The goal is real-time atmospheric characterization to...</span></span></span>
+Rain is often less damaging to laser propagation than dense fog because raindrops occupy only part of the beam path, whereas fog fills the entire volume with scattering particles. Nevertheless, maritime rain rarely occurs in isolation. Heavy weather frequently combines rainfall with wind-driven spray, turbulent air and reduced tracking quality. The result is a cumulative penalty rather than a single atmospheric effect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nps.edu/web/research/-/propagation-of-high-energy-lasers-for-various-wavelengths-power-levels-and-atmospheric-conditions-2018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.edu">[Naval Postgraduate School+2C4ISRNet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.edu</span><span class="citation-popover-snippet">The goal is real-time atmospheric characterization to...</span></span></span>
 
-For naval engagements near the sea surface, sea spray can become particularly important. Wind-generated salt aerosols and suspended droplets create a constantly changing optical environment. Even if the beam retains enough power to damage the target, maintaining a sufficiently small and stable spot becomes harder. The laser therefore spends more time heating a larger area and less time creating the concentrated thermal effect required for a kill. American Meteorological Society Journals+2Naval Postgraduate School <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.ametsoc.org/view/journals/apme/50/1/2010jamc2482.1.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.ametsoc.org">[journals.ametsoc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.ametsoc.org</span><span class="citation-popover-snippet">American Meteorological Society JournalsClimate Change: Anticipated Effects on High-Energy Laser...by ST Fiorino · 2011 · Cited by 10 —...</span></span></span>
+For naval engagements near the sea surface, sea spray can become particularly important. Wind-generated salt aerosols and suspended droplets create a constantly changing optical environment. Even if the beam retains enough power to damage the target, maintaining a sufficiently small and stable spot becomes harder. The laser therefore spends more time heating a larger area and less time creating the concentrated thermal effect required for a kill. American Meteorological Society Journals+2Naval Postgraduate School<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.ametsoc.org/view/journals/apme/50/1/2010jamc2482.1.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.ametsoc.org">[journals.ametsoc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.ametsoc.org</span><span class="citation-popover-snippet">American Meteorological Society JournalsClimate Change: Anticipated Effects on High-Energy Laser...by ST Fiorino · 2011 · Cited by 10 —...</span></span></span>
 
-The practical outcome is that weather often reduces effective range before it prevents engagement entirely. Operators may still be able to hit the target, but only at shorter distances where atmospheric losses have had less time to accumulate. This distinction is frequently lost in public discussions that frame weather effects as a simple success-or-failure question. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.army.mil/article/195650/army_developing_lasers_that_pierce_fog_dust_to_destroy_targets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: army.mil">[Army+2C4ISRNet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">army.mil</span><span class="citation-popover-title">developing lasers that pierce fog dust to destroy targets</span><span class="citation-popover-snippet">Army developing lasers that pierce fog, dust to destroy targets23 Oct 2017 — A lot of people think that high-energy lasers, or HELs...</span></span></span>
+The practical outcome is that weather often reduces effective range before it prevents engagement entirely. Operators may still be able to hit the target, but only at shorter distances where atmospheric losses have had less time to accumulate. This distinction is frequently lost in public discussions that frame weather effects as a simple success-or-failure question.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.army.mil/article/195650/army_developing_lasers_that_pierce_fog_dust_to_destroy_targets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: army.mil">[Army+2C4ISRNet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">army.mil</span><span class="citation-popover-title">developing lasers that pierce fog dust to destroy targets</span><span class="citation-popover-snippet">Army developing lasers that pierce fog, dust to destroy targets23 Oct 2017 — A lot of people think that high-energy lasers, or HELs...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_sea_spray_nav_87f1da_maritime_weat_b74b58-Illustration-2-dark.svg" | relative_url }}" alt="Range Limits illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_sea_spray_nav_87f1da_maritime_weat_b74b58-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_sea_spray_nav_87f1da_maritime_weat_b74b58-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Dwell Time Against Fast Threats
 
-A naval laser typically requires a finite dwell time: the beam must remain on a vulnerable point long enough to heat, weaken, disable or destroy it. Weather increases this dwell-time requirement by reducing the rate at which energy is deposited onto the target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26560609/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2AFIT Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">High-power lasers for directed-energy applicationsby P Sprangle · 2015 · Cited by 288 — In this article, we review and discuss the...</span></span></span>
+A naval laser typically requires a finite dwell time: the beam must remain on a vulnerable point long enough to heat, weaken, disable or destroy it. Weather increases this dwell-time requirement by reducing the rate at which energy is deposited onto the target.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26560609/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2AFIT Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">High-power lasers for directed-energy applicationsby P Sprangle · 2015 · Cited by 288 — In this article, we review and discuss the...</span></span></span>
 
-This creates a compounding operational problem. A drone crossing a ship’s defensive sector at [high speed]({{ '650-km-h/' | relative_url }}) may already provide only a brief engagement window. If adverse weather doubles or triples the time needed to achieve the desired effect, the target may leave the engagement zone before the laser completes the kill chain. The problem becomes even more severe for manoeuvring targets or threats approaching directly toward the ship. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everycrsreport.com/reports/R41526.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everycrsreport.com">[Every CRS Report+2C4ISRNet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everycrsreport.com</span><span class="citation-popover-snippet">Every CRS ReportNavy Shipboard Lasers for Surface, Air, and Missile DefenseDec 9, 2010 — atmospheric absorption, scattering, and turbulen...</span></span></span>
+This creates a compounding operational problem. A drone crossing a ship’s defensive sector at [high speed]({{ '650-km-h/' | relative_url }}) may already provide only a brief engagement window. If adverse weather doubles or triples the time needed to achieve the desired effect, the target may leave the engagement zone before the laser completes the kill chain. The problem becomes even more severe for manoeuvring targets or threats approaching directly toward the ship.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everycrsreport.com/reports/R41526.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everycrsreport.com">[Every CRS Report+2C4ISRNet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everycrsreport.com</span><span class="citation-popover-snippet">Every CRS ReportNavy Shipboard Lasers for Surface, Air, and Missile DefenseDec 9, 2010 — atmospheric absorption, scattering, and turbulen...</span></span></span>
 
-Tracking accuracy also matters. Maritime weather does not merely affect the laser beam itself. Rain, haze and spray can reduce sensor quality and increase line-of-sight disturbances. Any movement of the beam spot across the target spreads heat over a larger area and further lengthens required dwell time. Naval research programmes therefore treat beam control, tracking and atmospheric characterisation as closely linked problems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nps.edu/web/research/-/propagation-of-high-energy-lasers-for-various-wavelengths-power-levels-and-atmospheric-conditions-2018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.edu">[Naval Postgraduate School+2Every CRS Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.edu</span><span class="citation-popover-snippet">The goal is real-time atmospheric characterization to...</span></span></span>
+Tracking accuracy also matters. Maritime weather does not merely affect the laser beam itself. Rain, haze and spray can reduce sensor quality and increase line-of-sight disturbances. Any movement of the beam spot across the target spreads heat over a larger area and further lengthens required dwell time. Naval research programmes therefore treat beam control, tracking and atmospheric characterisation as closely linked problems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nps.edu/web/research/-/propagation-of-high-energy-lasers-for-various-wavelengths-power-levels-and-atmospheric-conditions-2018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.edu">[Naval Postgraduate School+2Every CRS Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.edu</span><span class="citation-popover-snippet">The goal is real-time atmospheric characterization to...</span></span></span>
 
-For slow targets such as small boats or hovering drones, longer dwell times may remain acceptable. For sea-skimming missiles or rapidly approaching aerial threats, however, shrinking range and increasing dwell time can quickly consume the available engagement opportunity. This is one reason why published laser demonstrations often focus first on drones, small craft and other relatively forgiving targets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files01.core.ac.uk/download/pdf/36710555.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files01.core.ac.uk">[Core+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files01.core.ac.uk</span><span class="citation-popover-snippet">Analysis of High Energy Laser Weapon Employment from a...by CN ANG · 2012 · Cited by 20 — a 100 kW power laser would be adequate aga...</span></span></span>
+For slow targets such as small boats or hovering drones, longer dwell times may remain acceptable. For sea-skimming missiles or rapidly approaching aerial threats, however, shrinking range and increasing dwell time can quickly consume the available engagement opportunity. This is one reason why published laser demonstrations often focus first on drones, small craft and other relatively forgiving targets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files01.core.ac.uk/download/pdf/36710555.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files01.core.ac.uk">[Core+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files01.core.ac.uk</span><span class="citation-popover-snippet">Analysis of High Energy Laser Weapon Employment from a...by CN ANG · 2012 · Cited by 20 — a 100 kW power laser would be adequate aga...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VDHkpz1p1a4" title="AN/SEQ-3 Laser Weapon System: The Future of Naval Defense" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VDHkpz1p1a4" target="_blank" rel="noopener noreferrer">AN/SEQ-3 Laser Weapon System: The Future of Naval Defense</a></p><p class="youtube-embed-meta">Channel: The Navy Channel</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VDHkpz1p1a4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VDHkpz1p1a4">Open on YouTube</a></p></div></div></div>
@@ -324,9 +324,9 @@ For slow targets such as small boats or hovering drones, longer dwell times may 
 
 Open sources rarely provide precise operational engagement ranges because those values depend on classified system performance and real-time weather conditions. Nevertheless, naval studies and demonstrations support a consistent conclusion: laser range is highly elastic.
 
-Rather than asking whether a naval laser has a range of one, three or five kilometres, operators are more likely to think in terms of weather-adjusted effectiveness bands. A target that is vulnerable at the outer edge of the weapon’s envelope during clear conditions may need to be engaged substantially closer during periods of heavy maritime degradation. The exact reduction varies with wavelength, power level, target characteristics, adaptive-optics performance and local weather. American Meteorological Society Journals+2Naval Postgraduate School <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.ametsoc.org/view/journals/apme/50/1/2010jamc2482.1.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.ametsoc.org">[journals.ametsoc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.ametsoc.org</span><span class="citation-popover-snippet">American Meteorological Society JournalsClimate Change: Anticipated Effects on High-Energy Laser...by ST Fiorino · 2011 · Cited by 10 —...</span></span></span>
+Rather than asking whether a naval laser has a range of one, three or five kilometres, operators are more likely to think in terms of weather-adjusted effectiveness bands. A target that is vulnerable at the outer edge of the weapon’s envelope during clear conditions may need to be engaged substantially closer during periods of heavy maritime degradation. The exact reduction varies with wavelength, power level, target characteristics, adaptive-optics performance and local weather. American Meteorological Society Journals+2Naval Postgraduate School<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.ametsoc.org/view/journals/apme/50/1/2010jamc2482.1.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.ametsoc.org">[journals.ametsoc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.ametsoc.org</span><span class="citation-popover-snippet">American Meteorological Society JournalsClimate Change: Anticipated Effects on High-Energy Laser...by ST Fiorino · 2011 · Cited by 10 —...</span></span></span>
 
-This variability explains why naval programmes increasingly emphasise atmospheric monitoring. Real-time measurements of turbulence, aerosol density and optical transmission can help determine whether a target should be engaged immediately, allowed to approach further, or handed to another defensive layer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nps.edu/web/research/-/propagation-of-high-energy-lasers-for-various-wavelengths-power-levels-and-atmospheric-conditions-2018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.edu">[Naval Postgraduate School+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.edu</span><span class="citation-popover-snippet">The goal is real-time atmospheric characterization to...</span></span></span>
+This variability explains why naval programmes increasingly emphasise atmospheric monitoring. Real-time measurements of turbulence, aerosol density and optical transmission can help determine whether a target should be engaged immediately, allowed to approach further, or handed to another defensive layer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nps.edu/web/research/-/propagation-of-high-energy-lasers-for-various-wavelengths-power-levels-and-atmospheric-conditions-2018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.edu">[Naval Postgraduate School+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.edu</span><span class="citation-popover-snippet">The goal is real-time atmospheric characterization to...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_sea_spray_nav_87f1da_maritime_weat_b74b58-Illustration-3-dark.svg" | relative_url }}" alt="Range Limits illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_sea_spray_nav_87f1da_maritime_weat_b74b58-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_sea_spray_nav_87f1da_maritime_weat_b74b58-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -334,187 +334,187 @@ This variability explains why naval programmes increasingly emphasise atmospheri
 
 The weather sensitivity of laser weapons is not generally viewed as a reason to abandon them. Instead, it shapes how navies integrate them into wider defensive architectures.
 
-Lasers offer important advantages: extremely low cost per shot, [deep magazines]({{ 'deep-magazine/' | relative_url }}) limited primarily by electrical power, rapid target engagement and effectiveness against many drones and small threats. However, atmospheric conditions can reduce range and increase uncertainty. As a result, naval planners typically position lasers as one layer within a broader defensive system that also includes electronic warfare, guns and missiles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/AN/SEQ-3_Laser_Weapon_System" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Office of Naval Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">AN/SEQ-3 Laser Weapon System</span><span class="citation-popover-snippet">AN/SEQ-3 Laser Weapon System</span></span></span>
+Lasers offer important advantages: extremely low cost per shot, [deep magazines]({{ 'deep-magazine/' | relative_url }}) limited primarily by electrical power, rapid target engagement and effectiveness against many drones and small threats. However, atmospheric conditions can reduce range and increase uncertainty. As a result, naval planners typically position lasers as one layer within a broader defensive system that also includes electronic warfare, guns and missiles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/AN/SEQ-3_Laser_Weapon_System" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Office of Naval Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">AN/SEQ-3 Laser Weapon System</span><span class="citation-popover-snippet">AN/SEQ-3 Laser Weapon System</span></span></span>
 
-In favourable weather, lasers can engage threats at useful distances and conserve expensive interceptors. In degraded weather, they may still contribute against closer targets while other systems assume responsibility for longer-range or more time-critical engagements. The layered approach acknowledges a central reality of maritime directed-energy warfare: bad weather rarely makes lasers useless, but it often determines how much range is truly available when the engagement begins. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.c4isrnet.com/opinion/2018/02/26/cloudy-and-a-chance-of-rain-need-not-sideline-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: c4isrnet.com">[C4ISRNet+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">c4isrnet.com</span><span class="citation-popover-title">cloudy and a chance of rain need not sideline high energy lasers</span><span class="citation-popover-snippet">Cloudy and a chance of rain need not sideline high-energy...26 Feb 2018 — Under the most adverse conditions (heavy rain, very th...</span></span></span>
+In favourable weather, lasers can engage threats at useful distances and conserve expensive interceptors. In degraded weather, they may still contribute against closer targets while other systems assume responsibility for longer-range or more time-critical engagements. The layered approach acknowledges a central reality of maritime directed-energy warfare: bad weather rarely makes lasers useless, but it often determines how much range is truly available when the engagement begins.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.c4isrnet.com/opinion/2018/02/26/cloudy-and-a-chance-of-rain-need-not-sideline-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: c4isrnet.com">[C4ISRNet+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">c4isrnet.com</span><span class="citation-popover-title">cloudy and a chance of rain need not sideline high energy lasers</span><span class="citation-popover-snippet">Cloudy and a chance of rain need not sideline high-energy...26 Feb 2018 — Under the most adverse conditions (heavy rain, very th...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8fv-QnhV3k0" title="U.S Navy&#x27;s LASER WEAPON is a GAME-CHANGER for Modern Naval Warfare" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8fv-QnhV3k0" target="_blank" rel="noopener noreferrer">U.S Navy&#x27;s LASER WEAPON is a GAME-CHANGER for Modern Naval Warfare</a></p><p class="youtube-embed-meta">Channel: Daily Arsenal</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8fv-QnhV3k0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8fv-QnhV3k0">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Bad Weather Shrinks Laser Range. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Bad Weather Shrinks Laser Range. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Modern+Ew+Systems+Andrea+De+Martino&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Modern Ew Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9217588-M.jpg" alt="Cover for Introduction to Modern Ew Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Modern+Ew+Systems+Andrea+De+Martino&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Modern Ew Systems">Introduction to Modern Ew Systems</a>
-        </h4>
-        <p class="fr-book-author">By Andrea De Martino</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Modern+Ew+Systems+Andrea+De+Martino&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Modern Ew Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9217588-M.jpg" alt="Cover for Introduction to Modern Ew Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Modern+Ew+Systems+Andrea+De+Martino&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Modern Ew Systems">Introduction to Modern Ew Systems</a>
+</h4>
+<p class="fr-book-author">By Andrea De Martino</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Electronics in military engineering, Electronic countermeasures, Contre-mesures électroniques, TECHNOLOGY...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Modern+Ew+Systems+Andrea+De+Martino&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Electronics in military engineering, Electronic countermeasures, Contre-mesures électroniques, TECHNOLOGY...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Modern+Ew+Systems+Andrea+De+Martino&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Principles+of+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Principles of adaptive optics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1100610-M.jpg" alt="Cover for Principles of adaptive optics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Principles+of+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Principles of adaptive optics">Principles of adaptive optics</a>
-        </h4>
-        <p class="fr-book-author">By Robert K. Tyson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Principles+of+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Principles of adaptive optics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1100610-M.jpg" alt="Cover for Principles of adaptive optics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Principles+of+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Principles of adaptive optics">Principles of adaptive optics</a>
+</h4>
+<p class="fr-book-author">By Robert K. Tyson</p>
         
-        <p class="fr-book-desc">First published 1991. Subjects: Adaptive Optics, Optics, Adaptive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Principles+of+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1991. Subjects: Adaptive Optics, Optics, Adaptive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Principles+of+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
-        </h4>
-        <p class="fr-book-author">By Bahman Zohuri</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
+</h4>
+<p class="fr-book-author">By Bahman Zohuri</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Field+Guide+to+Atmospheric+Optics+by+Larry+C.+Andrews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Field Guide to Atmospheric Optics on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Field+Guide+to+Atmospheric+Optics+by+Larry+C.+Andrews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide to Atmospheric Optics">Field Guide to Atmospheric Optics</a>
-        </h4>
-        <p class="fr-book-author">By Larry C. Andrews</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Field+Guide+to+Atmospheric+Optics+by+Larry+C.+Andrews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Field Guide to Atmospheric Optics on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Field+Guide+to+Atmospheric+Optics+by+Larry+C.+Andrews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide to Atmospheric Optics">Field Guide to Atmospheric Optics</a>
+</h4>
+<p class="fr-book-author">By Larry C. Andrews</p>
         
-        <p class="fr-book-desc">Covers absorption, scattering, turbulence and other atmospheric phenomena that affect laser energy delivery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Field+Guide+to+Atmospheric+Optics+by+Larry+C.+Andrews&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers absorption, scattering, turbulence and other atmospheric phenomena that affect laser energy delivery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Field+Guide+to+Atmospheric+Optics+by+Larry+C.+Andrews&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Modern+Ew+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Modern Ew Systems books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Principles+of+adaptive+optics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Principles of adaptive optics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed Energy Weapons</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Modern+Ew+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Modern Ew Systems books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Principles+of+adaptive+optics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Principles of adaptive optics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed Energy Weapons</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Trumpeter HMS Dreadnought 1918 Model Kit 1/700 Scale Naval Ship"><img src="{{ '/assets/images/marketplace-covers/8d60bfb075fb28fb2073.jpg' | relative_url }}" alt="Listing image for Trumpeter HMS Dreadnought 1918 Model Kit 1/700 Scale Naval Ship" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer">Trumpeter HMS Dreadnought 1918 Model Kit 1/700 Scale Naval Ship</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for naval ship model">Search <span data-ebay-domain-label>eBay.co.uk</span>: naval ship model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Trumpeter HMS Dreadnought 1918 Model Kit 1/700 Scale Naval Ship"><img src="{{ '/assets/images/marketplace-covers/8d60bfb075fb28fb2073.jpg' | relative_url }}" alt="Listing image for Trumpeter HMS Dreadnought 1918 Model Kit 1/700 Scale Naval Ship" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer">Trumpeter HMS Dreadnought 1918 Model Kit 1/700 Scale Naval Ship</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for naval ship model">Search<span data-ebay-domain-label>eBay.co.uk</span>: naval ship model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Billing Boats 1/75 Scale Esmeralda Naval Training Ship Model Kit"><img src="{{ '/assets/images/marketplace-covers/011745edfa012e074583.jpg' | relative_url }}" alt="Listing image for Billing Boats 1/75 Scale Esmeralda Naval Training Ship Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer">Billing Boats 1/75 Scale Esmeralda Naval Training Ship Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for naval ship model">Search <span data-ebay-domain-label>eBay.co.uk</span>: naval ship model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Billing Boats 1/75 Scale Esmeralda Naval Training Ship Model Kit"><img src="{{ '/assets/images/marketplace-covers/011745edfa012e074583.jpg' | relative_url }}" alt="Listing image for Billing Boats 1/75 Scale Esmeralda Naval Training Ship Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer">Billing Boats 1/75 Scale Esmeralda Naval Training Ship Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for naval ship model">Search<span data-ebay-domain-label>eBay.co.uk</span>: naval ship model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Revell Battleship HMS Duke of York Royal Naval Ship Model Set Kit 65182"><img src="{{ '/assets/images/marketplace-covers/f5f28f933a524ca3a422.jpg' | relative_url }}" alt="Listing image for Revell Battleship HMS Duke of York Royal Naval Ship Model Set Kit 65182" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer">Revell Battleship HMS Duke of York Royal Naval Ship Model Set Kit 65182</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for naval ship model">Search <span data-ebay-domain-label>eBay.co.uk</span>: naval ship model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Revell Battleship HMS Duke of York Royal Naval Ship Model Set Kit 65182"><img src="{{ '/assets/images/marketplace-covers/f5f28f933a524ca3a422.jpg' | relative_url }}" alt="Listing image for Revell Battleship HMS Duke of York Royal Naval Ship Model Set Kit 65182" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer">Revell Battleship HMS Duke of York Royal Naval Ship Model Set Kit 65182</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for naval ship model">Search<span data-ebay-domain-label>eBay.co.uk</span>: naval ship model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="range-limits-how-bad-weather-shrinks-laser-range-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -530,7 +530,7 @@ In favourable weather, lasers can engage threats at useful distances and conserv
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -550,7 +550,7 @@ In favourable weather, lasers can engage threats at useful distances and conserv
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -582,7 +582,7 @@ In favourable weather, lasers can engage threats at useful distances and conserv
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -634,7 +634,7 @@ In favourable weather, lasers can engage threats at useful distances and conserv
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -679,7 +679,7 @@ In favourable weather, lasers can engage threats at useful distances and conserv
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -720,154 +720,154 @@ In favourable weather, lasers can engage threats at useful distances and conserv
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: scholar.afit.edu  
-   Link: <a href="https://scholar.afit.edu/cgi/viewcontent.cgi?article=1774&amp;context=facpub%2F1000" target="_blank" rel="noopener noreferrer nofollow">https://scholar.afit.edu/cgi/viewcontent.cgi?article=1774&amp;context=facpub%2F1000</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AFIT ScholarAtmospheric Propagation of High Energy Lasers: Thermal...Thermal blooming is a well documented phenomenon [15], whose releva...</p></details>
+   Link:<a href="https://scholar.afit.edu/cgi/viewcontent.cgi?article=1774&amp;context=facpub%2F1000" target="_blank" rel="noopener noreferrer nofollow">https://scholar.afit.edu/cgi/viewcontent.cgi?article=1774&amp;context=facpub%2F1000</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFIT ScholarAtmospheric Propagation of High Energy Lasers: Thermal...Thermal blooming is a well documented phenomenon [15], whose releva...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2073-4433/12/7/918" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2073-4433/12/7/918</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Beam Atmospheric Propagation Modelling for...by T Fahey · 2021 · Cited by 108 — In this paper, the atmospheric radiative transfer...</p></details>
+   Link:<a href="https://www.mdpi.com/2073-4433/12/7/918" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2073-4433/12/7/918</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Beam Atmospheric Propagation Modelling for...by T Fahey · 2021 · Cited by 108 — In this paper, the atmospheric radiative transfer...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: c4isrnet.com  
    Title: cloudy and a chance of rain need not sideline high energy lasers  
-   Link: <a href="https://www.c4isrnet.com/opinion/2018/02/26/cloudy-and-a-chance-of-rain-need-not-sideline-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow">https://www.c4isrnet.com/opinion/2018/02/26/cloudy-and-a-chance-of-rain-need-not-sideline-high-energy-lasers/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cloudy and a chance of rain need not sideline high-energy...26 Feb 2018 — Under the most adverse conditions (heavy rain, very th...</p></details>
+   Link:<a href="https://www.c4isrnet.com/opinion/2018/02/26/cloudy-and-a-chance-of-rain-need-not-sideline-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow">https://www.c4isrnet.com/opinion/2018/02/26/cloudy-and-a-chance-of-rain-need-not-sideline-high-energy-lasers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cloudy and a chance of rain need not sideline high-energy...26 Feb 2018 — Under the most adverse conditions (heavy rain, very th...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: laserwars.net  
    Title: navy laser weapons challenges [atmosphere](&#123;&#123; 'atmosphere/' | relative_url &#125;&#125;) fog  
-   Link: <a href="https://www.laserwars.net/p/navy-laser-weapons-challenges-atmosphere-fog" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/navy-laser-weapons-challenges-atmosphere-fog</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Biggest Challenge for Naval Laser Weapons22 May 2025 — Welcome to the literal fog of war, where high-energy lasers run face-first int...</p></details>
+   Link:<a href="https://www.laserwars.net/p/navy-laser-weapons-challenges-atmosphere-fog" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/navy-laser-weapons-challenges-atmosphere-fog</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Biggest Challenge for Naval Laser Weapons22 May 2025 — Welcome to the literal fog of war, where high-energy lasers run face-first int...</p></details>
    Published: May 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: AN/SEQ-3 Laser Weapon System  
-   Link: <a href="https://en.wikipedia.org/wiki/AN/SEQ-3_Laser_Weapon_System" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/AN/SEQ-3_Laser_Weapon_System</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/AN/SEQ-3_Laser_Weapon_System" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/AN/SEQ-3_Laser_Weapon_System</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: army.mil  
    Title: developing lasers that pierce fog dust to destroy targets  
-   Link: <a href="https://www.army.mil/article/195650/army_developing_lasers_that_pierce_fog_dust_to_destroy_targets" target="_blank" rel="noopener noreferrer nofollow">https://www.army.mil/article/195650/army_developing_lasers_that_pierce_fog_dust_to_destroy_targets</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Army developing lasers that pierce fog, dust to destroy targets23 Oct 2017 — A lot of people think that high-energy lasers, or HELs...</p></details>
+   Link:<a href="https://www.army.mil/article/195650/army_developing_lasers_that_pierce_fog_dust_to_destroy_targets" target="_blank" rel="noopener noreferrer nofollow">https://www.army.mil/article/195650/army_developing_lasers_that_pierce_fog_dust_to_destroy_targets</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Army developing lasers that pierce fog, dust to destroy targets23 Oct 2017 — A lot of people think that high-energy lasers, or HELs...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: laserwars.net  
    Title: navy solid state laser technology maturation demonstrator crimson dragon  
-   Link: <a href="https://www.laserwars.net/p/navy-solid-state-laser-technology-maturation-demonstrator-crimson-dragon" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/navy-solid-state-laser-technology-maturation-demonstrator-crimson-dragon</a>  
+   Link:<a href="https://www.laserwars.net/p/navy-solid-state-laser-technology-maturation-demonstrator-crimson-dragon" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/navy-solid-state-laser-technology-maturation-demonstrator-crimson-dragon</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Laser weapon  
-   Link: <a href="https://en.wikipedia.org/wiki/Laser_weapon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Laser_weapon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser weaponOne of the major issues with laser weapons is atmospheric thermal blooming, exacerbated when there is fog, smoke, dust, ra...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Laser_weapon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Laser_weapon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser weaponOne of the major issues with laser weapons is atmospheric thermal blooming, exacerbated when there is fog, smoke, dust, ra...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Naval Ravikant  
-   Link: <a href="https://en.wikipedia.org/wiki/Naval_Ravikant" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Naval_Ravikant</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval RavikantNaval Ravikant (born November 5, 1974) is an Indian-born American entrepreneur and investor. He is the co-founder and ch...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Naval_Ravikant" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Naval_Ravikant</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Naval RavikantNaval Ravikant (born November 5, 1974) is an Indian-born American entrepreneur and investor. He is the co-founder and ch...</p></details>
    Published: November 5, 1974  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: journals.ametsoc.org  
-   Link: <a href="https://journals.ametsoc.org/view/journals/apme/50/1/2010jamc2482.1.xml" target="_blank" rel="noopener noreferrer nofollow">https://journals.ametsoc.org/view/journals/apme/50/1/2010jamc2482.1.xml</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteorological Society JournalsClimate Change: Anticipated Effects on High-Energy Laser...by ST Fiorino · 2011 · Cited by 10 —...</p></details>
+   Link:<a href="https://journals.ametsoc.org/view/journals/apme/50/1/2010jamc2482.1.xml" target="_blank" rel="noopener noreferrer nofollow">https://journals.ametsoc.org/view/journals/apme/50/1/2010jamc2482.1.xml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteorological Society JournalsClimate Change: Anticipated Effects on High-Energy Laser...by ST Fiorino · 2011 · Cited by 10 —...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nps.edu  
-   Link: <a href="https://nps.edu/web/research/-/propagation-of-high-energy-lasers-for-various-wavelengths-power-levels-and-atmospheric-conditions-2018" target="_blank" rel="noopener noreferrer nofollow">https://nps.edu/web/research/-/propagation-of-high-energy-lasers-for-various-wavelengths-power-levels-and-atmospheric-conditions-2018</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The goal is real-time atmospheric characterization to...</p></details>
+   Link:<a href="https://nps.edu/web/research/-/propagation-of-high-energy-lasers-for-various-wavelengths-power-levels-and-atmospheric-conditions-2018" target="_blank" rel="noopener noreferrer nofollow">https://nps.edu/web/research/-/propagation-of-high-energy-lasers-for-various-wavelengths-power-levels-and-atmospheric-conditions-2018</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The goal is real-time atmospheric characterization to...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26560609/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26560609/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>High-power lasers for directed-energy applicationsby P Sprangle · 2015 · Cited by 288 — In this article, we review and discuss the...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26560609/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26560609/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High-power lasers for directed-energy applicationsby P Sprangle · 2015 · Cited by 288 — In this article, we review and discuss the...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: everycrsreport.com  
-   Link: <a href="https://www.everycrsreport.com/reports/R41526.html" target="_blank" rel="noopener noreferrer nofollow">https://www.everycrsreport.com/reports/R41526.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Every CRS ReportNavy Shipboard Lasers for Surface, Air, and Missile DefenseDec 9, 2010 — atmospheric absorption, scattering, and turbulen...</p></details>
+   Link:<a href="https://www.everycrsreport.com/reports/R41526.html" target="_blank" rel="noopener noreferrer nofollow">https://www.everycrsreport.com/reports/R41526.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Every CRS ReportNavy Shipboard Lasers for Surface, Air, and Missile DefenseDec 9, 2010 — atmospheric absorption, scattering, and turbulen...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: files01.core.ac.uk  
-   Link: <a href="https://files01.core.ac.uk/download/pdf/36710555.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files01.core.ac.uk/download/pdf/36710555.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of High Energy Laser Weapon Employment from a...by CN ANG · 2012 · Cited by 20 — a 100 kW power laser would be adequate aga...</p></details>
+   Link:<a href="https://files01.core.ac.uk/download/pdf/36710555.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files01.core.ac.uk/download/pdf/36710555.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of High Energy Laser Weapon Employment from a...by CN ANG · 2012 · Cited by 20 — a 100 kW power laser would be adequate aga...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: onr.navy.mil  
-   Link: <a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Naval ResearchCounter Directed Energy Weapons and High Energy LasersNavy DEWs include systems that use high-energy lasers (HEL)...</p></details>
+   Link:<a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Naval ResearchCounter Directed Energy Weapons and High Energy LasersNavy DEWs include systems that use high-energy lasers (HEL)...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nps.edu  
-   Link: <a href="https://nps.edu/web/nps-video-portal/-/sggm41j3boijddtwzbd880any7ict37" target="_blank" rel="noopener noreferrer nofollow">https://nps.edu/web/nps-video-portal/-/sggm41j3boijddtwzbd880any7ict37</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n code TBWaveCalc by adjusting the coefficients of an analytical formula...</p></details>
+   Link:<a href="https://nps.edu/web/nps-video-portal/-/sggm41j3boijddtwzbd880any7ict37" target="_blank" rel="noopener noreferrer nofollow">https://nps.edu/web/nps-video-portal/-/sggm41j3boijddtwzbd880any7ict37</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n code TBWaveCalc by adjusting the coefficients of an analytical formula...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: core.ac.uk  
-   Link: <a href="https://core.ac.uk/download/pdf/45464786.pdf" target="_blank" rel="noopener noreferrer nofollow">https://core.ac.uk/download/pdf/45464786.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An improved thermal blooming model for the laser...by JC Collins · 2016 · Cited by 8 — ANCHOR, a laser performance scaling code develope...</p></details>
+   Link:<a href="https://core.ac.uk/download/pdf/45464786.pdf" target="_blank" rel="noopener noreferrer nofollow">https://core.ac.uk/download/pdf/45464786.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An improved thermal blooming model for the laser...by JC Collins · 2016 · Cited by 8 — ANCHOR, a laser performance scaling code develope...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: everycrsreport.com  
-   Link: <a href="https://www.everycrsreport.com/files/20140731_R41526_fd8315d8b948d04e4df89f7f56f189fa20dc1a17.html" target="_blank" rel="noopener noreferrer nofollow">https://www.everycrsreport.com/files/20140731_R41526_fd8315d8b948d04e4df89f7f56f189fa20dc1a17.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HTMLNavy Shipboard Lasers for Surface, Air, and. Missile Defense: Background and Issues for. Congress Ronald O&#x27;Rourke Specialist in Naval...</p></details>
+   Link:<a href="https://www.everycrsreport.com/files/20140731_R41526_fd8315d8b948d04e4df89f7f56f189fa20dc1a17.html" target="_blank" rel="noopener noreferrer nofollow">https://www.everycrsreport.com/files/20140731_R41526_fd8315d8b948d04e4df89f7f56f189fa20dc1a17.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HTMLNavy Shipboard Lasers for Surface, Air, and. Missile Defense: Background and Issues for. Congress Ronald O&#x27;Rourke Specialist in Naval...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/235041191_Atmospheric_Propagation_of_High_Energy_Lasers_Modeling_Simulation_Tracking_and_Control" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/235041191_Atmospheric_Propagation_of_High_Energy_Lasers_Modeling_Simulation_Tracking_and_Control</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Atmospheric Propagation of High Energy LasersIn most directed energy applications, laser beams propagate several kms in turbulent a...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/235041191_Atmospheric_Propagation_of_High_Energy_Lasers_Modeling_Simulation_Tracking_and_Control" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/235041191_Atmospheric_Propagation_of_High_Energy_Lasers_Modeling_Simulation_Tracking_and_Control</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Atmospheric Propagation of High Energy LasersIn most directed energy applications, laser beams propagate several kms in turbulent a...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/221939203_Climate_Change_Anticipated_Effects_on_High-Energy_Laser_Weapon_Systems_in_Maritime_Environments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/221939203_Climate_Change_Anticipated_Effects_on_High-Energy_Laser_Weapon_Systems_in_Maritime_Environments</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Climate Change: Anticipated Effects on High-Energy Laser...Aug 26, 2015 — This study quantifies the potential impacts on ship-defense hi...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/221939203_Climate_Change_Anticipated_Effects_on_High-Energy_Laser_Weapon_Systems_in_Maritime_Environments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/221939203_Climate_Change_Anticipated_Effects_on_High-Energy_Laser_Weapon_Systems_in_Maritime_Environments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Climate Change: Anticipated Effects on High-Energy Laser...Aug 26, 2015 — This study quantifies the potential impacts on ship-defense hi...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: rafael.co.il  
-   Link: <a href="https://www.rafael.co.il/system/naval-iron-beam/" target="_blank" rel="noopener noreferrer nofollow">https://www.rafael.co.il/system/naval-iron-beam/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NAVAL IRON BEAM™: Laser Weapon for Naval VesselsThe NAVAL IRON BEAM is a 100kW HEL countermeasure that defeats a wide range of current an...</p></details>
+   Link:<a href="https://www.rafael.co.il/system/naval-iron-beam/" target="_blank" rel="noopener noreferrer nofollow">https://www.rafael.co.il/system/naval-iron-beam/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NAVAL IRON BEAM™: Laser Weapon for Naval VesselsThe NAVAL IRON BEAM is a 100kW HEL countermeasure that defeats a wide range of current an...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: naval-group.com  
-   Link: <a href="https://www.naval-group.com/en" target="_blank" rel="noopener noreferrer nofollow">https://www.naval-group.com/en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval Group: HomepageNaval Group designs, develops, manufactures and maintains equipment for submarines and surface ships around the worl...</p></details>
+   Link:<a href="https://www.naval-group.com/en" target="_blank" rel="noopener noreferrer nofollow">https://www.naval-group.com/en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Naval Group: HomepageNaval Group designs, develops, manufactures and maintains equipment for submarines and surface ships around the worl...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/high-energy-laser-propagation-in-various-atmospheric-3h3lb87qng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/high-energy-laser-propagation-in-various-atmospheric-3h3lb87qng.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>accounts for the effects of atmospheric diffraction, turbulence, platform...</p></details>
+   Link:<a href="https://scispace.com/pdf/high-energy-laser-propagation-in-various-atmospheric-3h3lb87qng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/high-energy-laser-propagation-in-various-atmospheric-3h3lb87qng.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>accounts for the effects of atmospheric diffraction, turbulence, platform...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/laser-wars-us-military-laser-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/laser-wars-us-military-laser-weapons</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Arriving overseas in 2022 and actively engaging enemy drones, this marks a significant milestone in laser weapon technology for air defen...</p></details>
+   Link:<a href="https://www.wired.com/story/laser-wars-us-military-laser-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/laser-wars-us-military-laser-weapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Arriving overseas in 2022 and actively engaging enemy drones, this marks a significant milestone in laser weapon technology for air defen...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: avinc.com  
    Title: how does weather affect laser weapons a more important question than it seems  
-   Link: <a href="https://www.avinc.com/2026/04/08/how-does-weather-affect-laser-weapons-a-more-important-question-than-it-seems/" target="_blank" rel="noopener noreferrer nofollow">https://www.avinc.com/2026/04/08/how-does-weather-affect-laser-weapons-a-more-important-question-than-it-seems/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Does Weather Affect Laser Weapons? A More...8 Apr 2026 — Similarly, reduced visibility conditions like haze, fog, or cloud cover und...</p></details>
+   Link:<a href="https://www.avinc.com/2026/04/08/how-does-weather-affect-laser-weapons-a-more-important-question-than-it-seems/" target="_blank" rel="noopener noreferrer nofollow">https://www.avinc.com/2026/04/08/how-does-weather-affect-laser-weapons-a-more-important-question-than-it-seems/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Does Weather Affect Laser Weapons? A More...8 Apr 2026 — Similarly, reduced visibility conditions like haze, fog, or cloud cover und...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: twz.com  
    Title: [uss preble](&#123;&#123; 'preble-test-2ed0d5/' | relative_url &#125;&#125;) used helios laser to zap four drones in expanding testing  
-   Link: <a href="https://www.twz.com/sea/uss-preble-used-helios-laser-to-zap-four-drones-in-expanding-testing" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/sea/uss-preble-used-helios-laser-to-zap-four-drones-in-expanding-testing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Preble Used HELIOS Laser To Zap Four Drones In...2 Feb 2026 — “The HELIOS weapon system successfully neutralized four drone threats...</p></details>
+   Link:<a href="https://www.twz.com/sea/uss-preble-used-helios-laser-to-zap-four-drones-in-expanding-testing" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/sea/uss-preble-used-helios-laser-to-zap-four-drones-in-expanding-testing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Preble Used HELIOS Laser To Zap Four Drones In...2 Feb 2026 — “The HELIOS weapon system successfully neutralized four drone threats...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: onr.navy.mil  
-   Link: <a href="https://www.onr.navy.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Naval Research: HomeThe Office of Naval Research coordinates, executes and promotes the science and technology programs of the United...</p></details>
+   Link:<a href="https://www.onr.navy.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Naval Research: HomeThe Office of Naval Research coordinates, executes and promotes the science and technology programs of the United...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: news.sky.com  
    Title: laser cannon deployed by us navy for tests 10449290  
-   Link: <a href="https://news.sky.com/story/laser-cannon-deployed-by-us-navy-for-tests-10449290" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/laser-cannon-deployed-by-us-navy-for-tests-10449290</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cannon Deployed By US Navy For Tests9 Apr 2013 — A prototype of the Laser Weapon System (LaWS) installed on the... The system can be aff...</p></details>
+   Link:<a href="https://news.sky.com/story/laser-cannon-deployed-by-us-navy-for-tests-10449290" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/laser-cannon-deployed-by-us-navy-for-tests-10449290</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cannon Deployed By US Navy For Tests9 Apr 2013 — A prototype of the Laser Weapon System (LaWS) installed on the... The system can be aff...</p></details>

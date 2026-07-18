@@ -269,30 +269,30 @@ image: /assets/images/Directed_Ener_98f417_helios_lasers_773815_threat_bounda_0b
 
 ## Introduction
 
-A 60 kilowatt-class laser can be highly effective against individual drones, but a drone swarm changes the problem from target destruction to target throughput. The key question is no longer whether the laser can burn through a drone's structure or sensors. It is whether the system can destroy enough drones before the surviving members of the swarm reach their objective. In many scenarios, the limiting factor is not [laser power]({{ 'power-costs/' | relative_url }}) alone but engagement rate: each target requires tracking, aiming and a period of sustained energy delivery known as dwell time. When dozens of drones, decoys or manoeuvring targets appear simultaneously, that sequential engagement process can become a bottleneck. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ciaotest.cc.columbia.edu/olj/sa/sa_feb01ghc01.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ciaotest.cc.columbia.edu">[CIAO+2National Defense Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ciaotest.cc.columbia.edu</span><span class="citation-popover-snippet">CIAODirected Energy Weaponsby CN Ghosh · Cited by 9 — In a thermal kill, the target is destroyed by a long dwell time of the laser and bu...</span></span></span>
+A 60 kilowatt-class laser can be highly effective against individual drones, but a drone swarm changes the problem from target destruction to target throughput. The key question is no longer whether the laser can burn through a drone's structure or sensors. It is whether the system can destroy enough drones before the surviving members of the swarm reach their objective. In many scenarios, the limiting factor is not [laser power]({{ 'power-costs/' | relative_url }}) alone but engagement rate: each target requires tracking, aiming and a period of sustained energy delivery known as dwell time. When dozens of drones, decoys or manoeuvring targets appear simultaneously, that sequential engagement process can become a bottleneck.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ciaotest.cc.columbia.edu/olj/sa/sa_feb01ghc01.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ciaotest.cc.columbia.edu">[CIAO+2National Defense Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ciaotest.cc.columbia.edu</span><span class="citation-popover-snippet">CIAODirected Energy Weaponsby CN Ghosh · Cited by 9 — In a thermal kill, the target is destroyed by a long dwell time of the laser and bu...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_threat_bounda_0b6cdc_drone_swarm_l_94cfd2-Illustration-1-dark.svg" | relative_url }}" alt="Swarm Limits illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_threat_bounda_0b6cdc_drone_swarm_l_94cfd2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_threat_bounda_0b6cdc_drone_swarm_l_94cfd2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This challenge sits at the heart of the debate over the practical [limits]({{ 'limits/' | relative_url }}) of naval and land-based laser weapons. A laser may possess a [deep magazine]({{ 'deep-magazine/' | relative_url }}) and very low cost per shot, yet still struggle if the incoming raid generates more targets than the weapon can service in the available time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2Sentrycs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — Directed energy weapons (DEW) use concentrated electromagnetic energy t...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+This challenge sits at the heart of the debate over the practical [limits]({{ 'limits/' | relative_url }}) of naval and land-based laser weapons. A laser may possess a [deep magazine]({{ 'deep-magazine/' | relative_url }}) and very low cost per shot, yet still struggle if the incoming raid generates more targets than the weapon can service in the available time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2Sentrycs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — Directed energy weapons (DEW) use concentrated electromagnetic energy t...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 ## Can One Laser Stop a Drone Swarm?
 
 The answer depends less on whether the laser can kill drones and more on how quickly it can do so.
 
-A high-energy laser typically engages one target at a time. Unlike a fragmentation warhead, missile salvo or area-effect weapon, the beam must remain concentrated on a specific aim point long enough to create damage. Depending on target construction, range, atmospheric conditions and desired effect, this may require a meaningful dwell period before the drone is neutralised. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ciaotest.cc.columbia.edu/olj/sa/sa_feb01ghc01.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ciaotest.cc.columbia.edu">[CIAO+2National Defense Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ciaotest.cc.columbia.edu</span><span class="citation-popover-snippet">CIAODirected Energy Weaponsby CN Ghosh · Cited by 9 — In a thermal kill, the target is destroyed by a long dwell time of the laser and bu...</span></span></span>
+A high-energy laser typically engages one target at a time. Unlike a fragmentation warhead, missile salvo or area-effect weapon, the beam must remain concentrated on a specific aim point long enough to create damage. Depending on target construction, range, atmospheric conditions and desired effect, this may require a meaningful dwell period before the drone is neutralised.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ciaotest.cc.columbia.edu/olj/sa/sa_feb01ghc01.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ciaotest.cc.columbia.edu">[CIAO+2National Defense Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ciaotest.cc.columbia.edu</span><span class="citation-popover-snippet">CIAODirected Energy Weaponsby CN Ghosh · Cited by 9 — In a thermal kill, the target is destroyed by a long dwell time of the laser and bu...</span></span></span>
 
-The result is a queueing problem. If a laser needs several seconds to detect, track and defeat one drone, then a raid involving dozens of drones may overwhelm the system simply through numbers. Researchers examining directed-energy defence against UAV [swarms]({{ 'swarms/' | relative_url }}) have specifically modelled the probability that at least one swarm member survives and reaches its target, highlighting that swarm defeat depends on engagement timelines as much as weapon lethality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/15485129251340992" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsEffect of dwell time, distance, and reflecting area on UAV...9 Jul 2025 — This paper is concerned with the operational effe...</span></span></span>
+The result is a queueing problem. If a laser needs several seconds to detect, track and defeat one drone, then a raid involving dozens of drones may overwhelm the system simply through numbers. Researchers examining directed-energy defence against UAV [swarms]({{ 'swarms/' | relative_url }}) have specifically modelled the probability that at least one swarm member survives and reaches its target, highlighting that swarm defeat depends on engagement timelines as much as weapon lethality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/15485129251340992" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsEffect of dwell time, distance, and reflecting area on UAV...9 Jul 2025 — This paper is concerned with the operational effe...</span></span></span>
 
-This is why analysts often describe drone swarms as saturation attacks. The attacker attempts to create more simultaneous threats than the defender can process. Even a weapon with a near-zero cost per shot can be overloaded if its target service rate is lower than the swarm's arrival rate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://synergiafoundation.org/2026/03/06/lasers-versus-swarms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: synergiafoundation.org">[synergiafoundation.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">synergiafoundation.org</span><span class="citation-popover-title">lasers versus swarms</span><span class="citation-popover-snippet">6 Mar 2026 — Directed energy weapons... This involves tracking multiple targets, prioritising threats, and firing quickly enough to prev...</span></span></span>
+This is why analysts often describe drone swarms as saturation attacks. The attacker attempts to create more simultaneous threats than the defender can process. Even a weapon with a near-zero cost per shot can be overloaded if its target service rate is lower than the swarm's arrival rate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://synergiafoundation.org/2026/03/06/lasers-versus-swarms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: synergiafoundation.org">[synergiafoundation.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">synergiafoundation.org</span><span class="citation-popover-title">lasers versus swarms</span><span class="citation-popover-snippet">6 Mar 2026 — Directed energy weapons... This involves tracking multiple targets, prioritising threats, and firing quickly enough to prev...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6ccTdYokGyY" title="Iron Beam vs Drone Swarms: What Really Happens When Lasers Meet Aerial Attacks | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6ccTdYokGyY" target="_blank" rel="noopener noreferrer">Iron Beam vs Drone Swarms: What Really Happens When Lasers Meet Aerial Attacks | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6ccTdYokGyY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6ccTdYokGyY">Open on YouTube</a></p></div></div></div>
 
 ## Why Lasers Usually Service Targets Sequentially
 
-The fundamental constraint comes from the way high-energy lasers create physical damage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rtx.com">[rtx.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rtx.com</span><span class="citation-popover-snippet">High-Energy Lasers &#124; RaytheonThis directed energy technology enables detection of threats, tracking during maneuvers, and positive visual...</span></span></span>
+The fundamental constraint comes from the way high-energy lasers create physical damage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rtx.com">[rtx.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rtx.com</span><span class="citation-popover-snippet">High-Energy Lasers &#124; RaytheonThis directed energy technology enables detection of threats, tracking during maneuvers, and positive visual...</span></span></span>
 
-A laser is not a projectile that instantly destroys a target upon contact. Most [counter-drone]({{ 'missile-savings/' | relative_url }}) laser concepts rely on thermal effects: heating a component until structural failure, sensor destruction, ignition or loss of flight control occurs. That process requires energy to accumulate on the target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ciaotest.cc.columbia.edu/olj/sa/sa_feb01ghc01.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ciaotest.cc.columbia.edu">[CIAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ciaotest.cc.columbia.edu</span><span class="citation-popover-snippet">CIAODirected Energy Weaponsby CN Ghosh · Cited by 9 — In a thermal kill, the target is destroyed by a long dwell time of the laser and bu...</span></span></span>
+A laser is not a projectile that instantly destroys a target upon contact. Most [counter-drone]({{ 'missile-savings/' | relative_url }}) laser concepts rely on thermal effects: heating a component until structural failure, sensor destruction, ignition or loss of flight control occurs. That process requires energy to accumulate on the target.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ciaotest.cc.columbia.edu/olj/sa/sa_feb01ghc01.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ciaotest.cc.columbia.edu">[CIAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ciaotest.cc.columbia.edu</span><span class="citation-popover-snippet">CIAODirected Energy Weaponsby CN Ghosh · Cited by 9 — In a thermal kill, the target is destroyed by a long dwell time of the laser and bu...</span></span></span>
 
 Even after one drone is defeated, the weapon must then:
 
@@ -307,9 +307,9 @@ Even after one drone is defeated, the weapon must then:
 
 </div>
 
-Each step consumes time. Modern systems can perform these actions rapidly, and manufacturers advertise increasingly impressive engagement rates. For example, EOS claims that its Apollo laser architecture can exceed twenty small-drone kills per minute under favourable conditions. Yet the fact that engagement rate is presented as a key performance metric illustrates the underlying limitation: the weapon still processes targets sequentially rather than eliminating an entire swarm in a single action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://eos-aus.com/defence/high-energy-laser-weapon/apollo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eos-aus.com">[eos-aus.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eos-aus.com</span><span class="citation-popover-snippet">Apollo High Energy Laser WeaponIts increased laser power and reduced dwell time between engagements... &gt;20 drone kills per minute (Group...</span></span></span>
+Each step consumes time. Modern systems can perform these actions rapidly, and manufacturers advertise increasingly impressive engagement rates. For example, EOS claims that its Apollo laser architecture can exceed twenty small-drone kills per minute under favourable conditions. Yet the fact that engagement rate is presented as a key performance metric illustrates the underlying limitation: the weapon still processes targets sequentially rather than eliminating an entire swarm in a single action.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://eos-aus.com/defence/high-energy-laser-weapon/apollo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eos-aus.com">[eos-aus.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eos-aus.com</span><span class="citation-popover-snippet">Apollo High Energy Laser WeaponIts increased laser power and reduced dwell time between engagements... &gt;20 drone kills per minute (Group...</span></span></span>
 
-Operational discussions of swarm defence repeatedly return to this issue of tracking multiple targets, prioritising them and engaging them quickly enough to avoid saturation. The challenge is not merely generating laser power; it is sustaining an engagement tempo that exceeds the swarm's attack tempo. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://synergiafoundation.org/2026/03/06/lasers-versus-swarms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: synergiafoundation.org">[synergiafoundation.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">synergiafoundation.org</span><span class="citation-popover-title">lasers versus swarms</span><span class="citation-popover-snippet">6 Mar 2026 — Directed energy weapons... This involves tracking multiple targets, prioritising threats, and firing quickly enough to prev...</span></span></span>
+Operational discussions of swarm defence repeatedly return to this issue of tracking multiple targets, prioritising them and engaging them quickly enough to avoid saturation. The challenge is not merely generating laser power; it is sustaining an engagement tempo that exceeds the swarm's attack tempo.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://synergiafoundation.org/2026/03/06/lasers-versus-swarms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: synergiafoundation.org">[synergiafoundation.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">synergiafoundation.org</span><span class="citation-popover-title">lasers versus swarms</span><span class="citation-popover-snippet">6 Mar 2026 — Directed energy weapons... This involves tracking multiple targets, prioritising threats, and firing quickly enough to prev...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_threat_bounda_0b6cdc_drone_swarm_l_94cfd2-Illustration-2-dark.svg" | relative_url }}" alt="Swarm Limits illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_threat_bounda_0b6cdc_drone_swarm_l_94cfd2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_threat_bounda_0b6cdc_drone_swarm_l_94cfd2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -317,13 +317,13 @@ Operational discussions of swarm defence repeatedly return to this issue of trac
 
 Swarm attacks do not require every drone to be valuable.
 
-One of the most effective ways to stress a laser defence is to include expendable decoys alongside genuine attack drones. If the defensive system cannot immediately distinguish between them, every object may require detection, classification and potentially engagement. Each decoy therefore consumes a share of the available timeline. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nps.edu/documents/10180/142489929/JDE_7-2_Johnson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.edu">[Naval Postgraduate School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.edu</span><span class="citation-popover-snippet">Naval Postgraduate SchoolCounter Directed Energy Weapons and the Defense of...January 10, 2023 — by B Johnson · 2023 · Cited by 2 — Line...</span><span class="citation-popover-meta">Published: January 10, 2023</span></span></span>
+One of the most effective ways to stress a laser defence is to include expendable decoys alongside genuine attack drones. If the defensive system cannot immediately distinguish between them, every object may require detection, classification and potentially engagement. Each decoy therefore consumes a share of the available timeline.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nps.edu/documents/10180/142489929/JDE_7-2_Johnson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.edu">[Naval Postgraduate School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.edu</span><span class="citation-popover-snippet">Naval Postgraduate SchoolCounter Directed Energy Weapons and the Defense of...January 10, 2023 — by B Johnson · 2023 · Cited by 2 — Line...</span><span class="citation-popover-meta">Published: January 10, 2023</span></span></span>
 
-From the defender's perspective, destroying a harmless decoy may require almost the same tracking and dwell effort as destroying a genuine threat. An attacker can exploit this asymmetry by forcing the laser to spend precious seconds on targets that do not matter. Meanwhile, higher-value drones continue advancing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nps.edu/documents/10180/142489929/JDE_7-2_Johnson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.edu">[Naval Postgraduate School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.edu</span><span class="citation-popover-snippet">Naval Postgraduate SchoolCounter Directed Energy Weapons and the Defense of...January 10, 2023 — by B Johnson · 2023 · Cited by 2 — Line...</span><span class="citation-popover-meta">Published: January 10, 2023</span></span></span>
+From the defender's perspective, destroying a harmless decoy may require almost the same tracking and dwell effort as destroying a genuine threat. An attacker can exploit this asymmetry by forcing the laser to spend precious seconds on targets that do not matter. Meanwhile, higher-value drones continue advancing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nps.edu/documents/10180/142489929/JDE_7-2_Johnson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.edu">[Naval Postgraduate School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.edu</span><span class="citation-popover-snippet">Naval Postgraduate SchoolCounter Directed Energy Weapons and the Defense of...January 10, 2023 — by B Johnson · 2023 · Cited by 2 — Line...</span><span class="citation-popover-meta">Published: January 10, 2023</span></span></span>
 
-Swarm tactics can further complicate the problem through manoeuvres designed to interrupt [line-of-sight]({{ 'dwell-time/' | relative_url }}) tracking or reduce effective dwell time. Research into counter-directed-energy techniques has explicitly identified swarm tactics and decoy drones as methods for reducing laser effectiveness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nps.edu/documents/10180/142489929/JDE_7-2_Johnson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.edu">[Naval Postgraduate School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.edu</span><span class="citation-popover-snippet">Naval Postgraduate SchoolCounter Directed Energy Weapons and the Defense of...January 10, 2023 — by B Johnson · 2023 · Cited by 2 — Line...</span><span class="citation-popover-meta">Published: January 10, 2023</span></span></span>
+Swarm tactics can further complicate the problem through manoeuvres designed to interrupt [line-of-sight]({{ 'dwell-time/' | relative_url }}) tracking or reduce effective dwell time. Research into counter-directed-energy techniques has explicitly identified swarm tactics and decoy drones as methods for reducing laser effectiveness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nps.edu/documents/10180/142489929/JDE_7-2_Johnson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.edu">[Naval Postgraduate School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.edu</span><span class="citation-popover-snippet">Naval Postgraduate SchoolCounter Directed Energy Weapons and the Defense of...January 10, 2023 — by B Johnson · 2023 · Cited by 2 — Line...</span><span class="citation-popover-meta">Published: January 10, 2023</span></span></span>
 
-The consequence is that a laser can be tactically overloaded without being physically overwhelmed. The beam remains operational, power remains available and the weapon continues scoring kills. Yet enough targets survive because the engagement timeline has been consumed faster than targets can be removed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/15485129251340992" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsEffect of dwell time, distance, and reflecting area on UAV...9 Jul 2025 — This paper is concerned with the operational effe...</span></span></span>
+The consequence is that a laser can be tactically overloaded without being physically overwhelmed. The beam remains operational, power remains available and the weapon continues scoring kills. Yet enough targets survive because the engagement timeline has been consumed faster than targets can be removed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/15485129251340992" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsEffect of dwell time, distance, and reflecting area on UAV...9 Jul 2025 — This paper is concerned with the operational effe...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X1toVupe_R8" title="U.S. Directed Energy Weapons Systems" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer">U.S. Directed Energy Weapons Systems</a></p><p class="youtube-embed-meta">Channel: U.S. Government Accountability Office (GAO)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X1toVupe_R8">Open on YouTube</a></p></div></div></div>
@@ -332,11 +332,11 @@ The consequence is that a laser can be tactically overloaded without being physi
 
 The swarm problem helps explain growing interest in directed-energy systems that affect multiple targets simultaneously.
 
-High-power microwave and radio-frequency directed-energy weapons do not generally rely on burning through one drone at a time. Instead, they attempt to disrupt or damage electronics across a wider volume of space. This creates the possibility of affecting multiple drones with a single pulse rather than servicing them sequentially. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aspistrategist.org.au/a-counter-to-drone-swarms-high-power-microwave-weapons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aspistrategist.org.au">[The Strategist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aspistrategist.org.au</span><span class="citation-popover-title">a counter to drone swarms high power microwave weapons</span><span class="citation-popover-snippet">The StrategistA counter to drone swarms: high-power microwave weapons12 May 2025 — HPM weapons work by emitting directed bursts of electr...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+High-power microwave and radio-frequency directed-energy weapons do not generally rely on burning through one drone at a time. Instead, they attempt to disrupt or damage electronics across a wider volume of space. This creates the possibility of affecting multiple drones with a single pulse rather than servicing them sequentially.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aspistrategist.org.au/a-counter-to-drone-swarms-high-power-microwave-weapons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aspistrategist.org.au">[The Strategist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aspistrategist.org.au</span><span class="citation-popover-title">a counter to drone swarms high power microwave weapons</span><span class="citation-popover-snippet">The StrategistA counter to drone swarms: high-power microwave weapons12 May 2025 — HPM weapons work by emitting directed bursts of electr...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
-Recent British trials of radio-frequency directed-energy weapons have highlighted this attraction. Defence officials specifically emphasised their ability to defeat drone swarms, reflecting the belief that area effects may offer advantages against large raids where sequential engagements become problematic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/british-soldiers-take-down-drone-swarm-in-groundbreaking-use-of-radio-wave-weapon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">British soldiers take down drone swarm in groundbreaking...17 Apr 2025 — British soldiers have successfully tracked, targeted and defeat...</span></span></span>
+Recent British trials of radio-frequency directed-energy weapons have highlighted this attraction. Defence officials specifically emphasised their ability to defeat drone swarms, reflecting the belief that area effects may offer advantages against large raids where sequential engagements become problematic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/british-soldiers-take-down-drone-swarm-in-groundbreaking-use-of-radio-wave-weapon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">British soldiers take down drone swarm in groundbreaking...17 Apr 2025 — British soldiers have successfully tracked, targeted and defeat...</span></span></span>
 
-This does not mean wider-area systems replace lasers. Lasers retain important strengths, including precision, low collateral effects and the ability to physically destroy individual drones. However, the swarm challenge has encouraged many defence planners to view lasers as one layer within a broader counter-drone architecture rather than a standalone solution. Sentrycs+2UNIDIR → Building a more secure world. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sentrycs.com/glossary/directed-energy-weapons-dew/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentrycs.com">[sentrycs.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentrycs.com</span><span class="citation-popover-snippet">Directed Energy Weapons (DEW)Directed Energy Weapons use electromagnetic energy to disable drones. Learn how HEL lasers and HPM s...</span></span></span>
+This does not mean wider-area systems replace lasers. Lasers retain important strengths, including precision, low collateral effects and the ability to physically destroy individual drones. However, the swarm challenge has encouraged many defence planners to view lasers as one layer within a broader counter-drone architecture rather than a standalone solution. Sentrycs+2UNIDIR → Building a more secure world.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sentrycs.com/glossary/directed-energy-weapons-dew/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentrycs.com">[sentrycs.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentrycs.com</span><span class="citation-popover-snippet">Directed Energy Weapons (DEW)Directed Energy Weapons use electromagnetic energy to disable drones. Learn how HEL lasers and HPM s...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_threat_bounda_0b6cdc_drone_swarm_l_94cfd2-Illustration-3-dark.svg" | relative_url }}" alt="Swarm Limits illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_threat_bounda_0b6cdc_drone_swarm_l_94cfd2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_threat_bounda_0b6cdc_drone_swarm_l_94cfd2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -344,203 +344,203 @@ This does not mean wider-area systems replace lasers. Lasers retain important st
 
 The most important lesson from swarm attacks is that laser effectiveness cannot be measured solely by power output.
 
-A 60 kW-class laser may reliably defeat many small drones under favourable conditions. The operational question is whether it can defeat enough drones before the attack arrives. Dwell time, target switching, tracking quality, atmospheric effects and decoy saturation all influence that answer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationaldefensemagazine.org/articles/2026/1/20/counterdrone-mission-seen-as-killer-app-for-directed-energy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationaldefensemagazine.org">[National Defense Magazine+2The Strategist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationaldefensemagazine.org</span><span class="citation-popover-snippet">National Defense MagazineCounter-UAS Mission Seen as Killer App for Directed EnergyJan 20, 2026 — High-energy lasers, meanwhile, can hit...</span></span></span>
+A 60 kW-class laser may reliably defeat many small drones under favourable conditions. The operational question is whether it can defeat enough drones before the attack arrives. Dwell time, target switching, tracking quality, atmospheric effects and decoy saturation all influence that answer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationaldefensemagazine.org/articles/2026/1/20/counterdrone-mission-seen-as-killer-app-for-directed-energy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationaldefensemagazine.org">[National Defense Magazine+2The Strategist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationaldefensemagazine.org</span><span class="citation-popover-snippet">National Defense MagazineCounter-UAS Mission Seen as Killer App for Directed EnergyJan 20, 2026 — High-energy lasers, meanwhile, can hit...</span></span></span>
 
-As a result, drone swarms expose a critical boundary in current directed-energy warfare. A laser can be extremely effective against individual targets while still being vulnerable to saturation. The challenge shifts from achieving a kill to achieving enough kills quickly enough, and that distinction often determines whether a swarm attack fails or succeeds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/15485129251340992" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2synergiafoundation.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsEffect of dwell time, distance, and reflecting area on UAV...9 Jul 2025 — This paper is concerned with the operational effe...</span></span></span>
+As a result, drone swarms expose a critical boundary in current directed-energy warfare. A laser can be extremely effective against individual targets while still being vulnerable to saturation. The challenge shifts from achieving a kill to achieving enough kills quickly enough, and that distinction often determines whether a swarm attack fails or succeeds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/15485129251340992" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2synergiafoundation.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsEffect of dwell time, distance, and reflecting area on UAV...9 Jul 2025 — This paper is concerned with the operational effe...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mKq60ECLhLA" title="Futuristic Weapon Just Turned U.S. Aircraft Carriers Into Unsinkable Fortresses" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mKq60ECLhLA" target="_blank" rel="noopener noreferrer">Futuristic Weapon Just Turned U.S. Aircraft Carriers Into Unsinkable Fortresses</a></p><p class="youtube-embed-meta">Channel: The Military Show</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mKq60ECLhLA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mKq60ECLhLA">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can One Laser Stop a Drone Swarm?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can One Laser Stop a Drone Swarm?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
-        </h4>
-        <p class="fr-book-author">By Paul Scharre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
+</h4>
+<p class="fr-book-author">By Paul Scharre</p>
         
-        <p class="fr-book-desc">Explains autonomous systems, drone operations, and the military challenges posed by large numbers of networked unmanned systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains autonomous systems, drone operations, and the military challenges posed by large numbers of networked unmanned systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Covers modern precision warfare, sensor-shooter networks, and emerging threats including unmanned systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers modern precision warfare, sensor-shooter networks, and emerging threats including unmanned systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+Fleet+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost Fleet on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rgvZCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Ghost Fleet" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+Fleet+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Fleet">Ghost Fleet</a>
-        </h4>
-        <p class="fr-book-author">By Peter Warren Singer, August Cole</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+Fleet+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost Fleet on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rgvZCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Ghost Fleet" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+Fleet+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Fleet">Ghost Fleet</a>
+</h4>
+<p class="fr-book-author">By Peter Warren Singer, August Cole</p>
         
-        <p class="fr-book-desc">Illustrates operational challenges involving drones, advanced weapons, and technology-driven conflicts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+Fleet+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates operational challenges involving drones, advanced weapons, and technology-driven conflicts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+Fleet+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Wars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13717341-M.jpg" alt="Cover for Drone Wars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Wars">Drone Wars</a>
-        </h4>
-        <p class="fr-book-author">By Seth J. Frantzman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Wars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13717341-M.jpg" alt="Cover for Drone Wars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Wars">Drone Wars</a>
+</h4>
+<p class="fr-book-author">By Seth J. Frantzman</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Military art and science.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Military art and science.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+Fleet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost Fleet</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+Fleet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost Fleet</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kinetic 1/72 MQ-9 Reaper UAV Drone Unmanned Aerial Vehicle USAF RAF Model Kit"><img src="{{ '/assets/images/marketplace-covers/7ae8927cdce392277bf9.jpg' | relative_url }}" alt="Listing image for Kinetic 1/72 MQ-9 Reaper UAV Drone Unmanned Aerial Vehicle USAF RAF Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">Kinetic 1/72 MQ-9 Reaper UAV Drone Unmanned Aerial Vehicle USAF RAF Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kinetic 1/72 MQ-9 Reaper UAV Drone Unmanned Aerial Vehicle USAF RAF Model Kit"><img src="{{ '/assets/images/marketplace-covers/7ae8927cdce392277bf9.jpg' | relative_url }}" alt="Listing image for Kinetic 1/72 MQ-9 Reaper UAV Drone Unmanned Aerial Vehicle USAF RAF Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">Kinetic 1/72 MQ-9 Reaper UAV Drone Unmanned Aerial Vehicle USAF RAF Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 MQ-1 Predator Drone Diecast Model – Modern Military UAV Replica"><img src="{{ '/assets/images/marketplace-covers/9c7aa39fbc37b606ef2d.jpg' | relative_url }}" alt="Listing image for 1:72 MQ-1 Predator Drone Diecast Model – Modern Military UAV Replica" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">1:72 MQ-1 Predator Drone Diecast Model – Modern Military UAV Replica</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 MQ-1 Predator Drone Diecast Model – Modern Military UAV Replica"><img src="{{ '/assets/images/marketplace-covers/9c7aa39fbc37b606ef2d.jpg' | relative_url }}" alt="Listing image for 1:72 MQ-1 Predator Drone Diecast Model – Modern Military UAV Replica" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">1:72 MQ-1 Predator Drone Diecast Model – Modern Military UAV Replica</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academy US Army Drone RQ-7B UAV 1/35 Scale Military Aircraft Model Kit 12117"><img src="{{ '/assets/images/marketplace-covers/54f43ced846c284ab9ae.jpg' | relative_url }}" alt="Listing image for Academy US Army Drone RQ-7B UAV 1/35 Scale Military Aircraft Model Kit 12117" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">Academy US Army Drone RQ-7B UAV 1/35 Scale Military Aircraft Model Kit 12117</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academy US Army Drone RQ-7B UAV 1/35 Scale Military Aircraft Model Kit 12117"><img src="{{ '/assets/images/marketplace-covers/54f43ced846c284ab9ae.jpg' | relative_url }}" alt="Listing image for Academy US Army Drone RQ-7B UAV 1/35 Scale Military Aircraft Model Kit 12117" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">Academy US Army Drone RQ-7B UAV 1/35 Scale Military Aircraft Model Kit 12117</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 MQ-1 Predator Drone Reconnaissance UAV Alloy Aircraft Model Airplane Craft"><img src="{{ '/assets/images/marketplace-covers/0f530137158c75597cc2.jpg' | relative_url }}" alt="Listing image for 1:72 MQ-1 Predator Drone Reconnaissance UAV Alloy Aircraft Model Airplane Craft" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">1:72 MQ-1 Predator Drone Reconnaissance UAV Alloy Aircraft Model Airplane Craft</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 MQ-1 Predator Drone Reconnaissance UAV Alloy Aircraft Model Airplane Craft"><img src="{{ '/assets/images/marketplace-covers/0f530137158c75597cc2.jpg' | relative_url }}" alt="Listing image for 1:72 MQ-1 Predator Drone Reconnaissance UAV Alloy Aircraft Model Airplane Craft" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">1:72 MQ-1 Predator Drone Reconnaissance UAV Alloy Aircraft Model Airplane Craft</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="swarm-limits-can-one-laser-stop-a-drone-swarm-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -556,7 +556,7 @@ As a result, drone swarms expose a critical boundary in current directed-energy 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -576,7 +576,7 @@ As a result, drone swarms expose a critical boundary in current directed-energy 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -608,7 +608,7 @@ As a result, drone swarms expose a critical boundary in current directed-energy 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -660,7 +660,7 @@ As a result, drone swarms expose a critical boundary in current directed-energy 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -705,7 +705,7 @@ As a result, drone swarms expose a critical boundary in current directed-energy 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -746,145 +746,145 @@ As a result, drone swarms expose a critical boundary in current directed-energy 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ciaotest.cc.columbia.edu  
-   Link: <a href="https://ciaotest.cc.columbia.edu/olj/sa/sa_feb01ghc01.html" target="_blank" rel="noopener noreferrer nofollow">https://ciaotest.cc.columbia.edu/olj/sa/sa_feb01ghc01.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIAODirected Energy Weaponsby CN Ghosh · Cited by 9 — In a thermal kill, the target is destroyed by a long dwell time of the laser and bu...</p></details>
+   Link:<a href="https://ciaotest.cc.columbia.edu/olj/sa/sa_feb01ghc01.html" target="_blank" rel="noopener noreferrer nofollow">https://ciaotest.cc.columbia.edu/olj/sa/sa_feb01ghc01.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIAODirected Energy Weaponsby CN Ghosh · Cited by 9 — In a thermal kill, the target is destroyed by a long dwell time of the laser and bu...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — Directed energy weapons (DEW) use concentrated electromagnetic energy t...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — Directed energy weapons (DEW) use concentrated electromagnetic energy t...</p></details>
    Published: May 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sentrycs.com  
-   Link: <a href="https://sentrycs.com/glossary/directed-energy-weapons-dew/" target="_blank" rel="noopener noreferrer nofollow">https://sentrycs.com/glossary/directed-energy-weapons-dew/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons (DEW)Directed Energy Weapons use electromagnetic energy to disable drones. Learn how HEL lasers and HPM s...</p></details>
+   Link:<a href="https://sentrycs.com/glossary/directed-energy-weapons-dew/" target="_blank" rel="noopener noreferrer nofollow">https://sentrycs.com/glossary/directed-energy-weapons-dew/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons (DEW)Directed Energy Weapons use electromagnetic energy to disable drones. Learn how HEL lasers and HPM s...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: synergiafoundation.org  
    Title: lasers versus swarms  
-   Link: <a href="https://synergiafoundation.org/2026/03/06/lasers-versus-swarms/" target="_blank" rel="noopener noreferrer nofollow">https://synergiafoundation.org/2026/03/06/lasers-versus-swarms/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Mar 2026 — Directed energy weapons... This involves tracking multiple targets, prioritising threats, and firing quickly enough to prev...</p></details>
+   Link:<a href="https://synergiafoundation.org/2026/03/06/lasers-versus-swarms/" target="_blank" rel="noopener noreferrer nofollow">https://synergiafoundation.org/2026/03/06/lasers-versus-swarms/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6 Mar 2026 — Directed energy weapons... This involves tracking multiple targets, prioritising threats, and firing quickly enough to prev...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: airpower.airforce.gov.au  
    Title: Air and Space Power Centre Directed Energy Weapons  
-   Link: <a href="https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf" target="_blank" rel="noopener noreferrer nofollow">https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air and Space Power CentreDirected Energy Weapons - Air and Space Power CentreLaser energy can be used to attack targets susceptible to h...</p></details>
+   Link:<a href="https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf" target="_blank" rel="noopener noreferrer nofollow">https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air and Space Power CentreDirected Energy Weapons - Air and Space Power CentreLaser energy can be used to attack targets susceptible to h...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: eos-aus.com  
-   Link: <a href="https://eos-aus.com/defence/high-energy-laser-weapon/apollo/" target="_blank" rel="noopener noreferrer nofollow">https://eos-aus.com/defence/high-energy-laser-weapon/apollo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Apollo High Energy Laser WeaponIts increased laser power and reduced dwell time between engagements... &gt;20 drone kills per minute (Group...</p></details>
+   Link:<a href="https://eos-aus.com/defence/high-energy-laser-weapon/apollo/" target="_blank" rel="noopener noreferrer nofollow">https://eos-aus.com/defence/high-energy-laser-weapon/apollo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apollo High Energy Laser WeaponIts increased laser power and reduced dwell time between engagements... &gt;20 drone kills per minute (Group...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/news/british-soldiers-take-down-drone-swarm-in-groundbreaking-use-of-radio-wave-weapon" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/british-soldiers-take-down-drone-swarm-in-groundbreaking-use-of-radio-wave-weapon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>British soldiers take down drone swarm in groundbreaking...17 Apr 2025 — British soldiers have successfully tracked, targeted and defeat...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/british-soldiers-take-down-drone-swarm-in-groundbreaking-use-of-radio-wave-weapon" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/british-soldiers-take-down-drone-swarm-in-groundbreaking-use-of-radio-wave-weapon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>British soldiers take down drone swarm in groundbreaking...17 Apr 2025 — British soldiers have successfully tracked, targeted and defeat...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: unidir.org  
-   Link: <a href="https://unidir.org/event/directed-energy-weapon-developments-in-counter-uas-defence/" target="_blank" rel="noopener noreferrer nofollow">https://unidir.org/event/directed-energy-weapon-developments-in-counter-uas-defence/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNIDIR → Building a more secure world.Directed energy weapon developments in counter-UAS...This briefing unpacks directed energy weapons...</p></details>
+   Link:<a href="https://unidir.org/event/directed-energy-weapon-developments-in-counter-uas-defence/" target="_blank" rel="noopener noreferrer nofollow">https://unidir.org/event/directed-energy-weapon-developments-in-counter-uas-defence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNIDIR → Building a more secure world.Directed energy weapon developments in counter-UAS...This briefing unpacks directed energy weapons...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: eos-aus.com  
    Title: al jazeera are lasers the future of anti drone warfare  
-   Link: <a href="https://eos-aus.com/news/al-jazeera-are-lasers-the-future-of-anti-drone-warfare/" target="_blank" rel="noopener noreferrer nofollow">https://eos-aus.com/news/al-jazeera-are-lasers-the-future-of-anti-drone-warfare/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Al Jazeera: Are lasers the future of anti-drone warfare?16 Feb 2026 — Repelling mass drone strikes is a hard and expensive task, but lase...</p></details>
+   Link:<a href="https://eos-aus.com/news/al-jazeera-are-lasers-the-future-of-anti-drone-warfare/" target="_blank" rel="noopener noreferrer nofollow">https://eos-aus.com/news/al-jazeera-are-lasers-the-future-of-anti-drone-warfare/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Al Jazeera: Are lasers the future of anti-drone warfare?16 Feb 2026 — Repelling mass drone strikes is a hard and expensive task, but lase...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons DOD Should Focus on Transition...DOD spends about $1 billion annually on directed energy--concentrated electroma...</p></details>
+   Link:<a href="https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons DOD Should Focus on Transition...DOD spends about $1 billion annually on directed energy--concentrated electroma...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nationaldefensemagazine.org  
-   Link: <a href="https://www.nationaldefensemagazine.org/articles/2026/1/20/counterdrone-mission-seen-as-killer-app-for-directed-energy" target="_blank" rel="noopener noreferrer nofollow">https://www.nationaldefensemagazine.org/articles/2026/1/20/counterdrone-mission-seen-as-killer-app-for-directed-energy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Defense MagazineCounter-UAS Mission Seen as Killer App for Directed EnergyJan 20, 2026 — High-energy lasers, meanwhile, can hit...</p></details>
+   Link:<a href="https://www.nationaldefensemagazine.org/articles/2026/1/20/counterdrone-mission-seen-as-killer-app-for-directed-energy" target="_blank" rel="noopener noreferrer nofollow">https://www.nationaldefensemagazine.org/articles/2026/1/20/counterdrone-mission-seen-as-killer-app-for-directed-energy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Defense MagazineCounter-UAS Mission Seen as Killer App for Directed EnergyJan 20, 2026 — High-energy lasers, meanwhile, can hit...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/15485129251340992" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/15485129251340992</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsEffect of dwell time, distance, and reflecting area on UAV...9 Jul 2025 — This paper is concerned with the operational effe...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/15485129251340992" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/15485129251340992</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsEffect of dwell time, distance, and reflecting area on UAV...9 Jul 2025 — This paper is concerned with the operational effe...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nps.edu  
-   Link: <a href="https://nps.edu/documents/10180/142489929/JDE_7-2_Johnson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nps.edu/documents/10180/142489929/JDE_7-2_Johnson.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval Postgraduate SchoolCounter Directed Energy Weapons and the Defense of...January 10, 2023 — by B Johnson · 2023 · Cited by 2 — Line...</p></details>
+   Link:<a href="https://nps.edu/documents/10180/142489929/JDE_7-2_Johnson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nps.edu/documents/10180/142489929/JDE_7-2_Johnson.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Naval Postgraduate SchoolCounter Directed Energy Weapons and the Defense of...January 10, 2023 — by B Johnson · 2023 · Cited by 2 — Line...</p></details>
    Published: January 10, 2023  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aspistrategist.org.au  
    Title: a counter to drone swarms high power microwave weapons  
-   Link: <a href="https://www.aspistrategist.org.au/a-counter-to-drone-swarms-high-power-microwave-weapons/" target="_blank" rel="noopener noreferrer nofollow">https://www.aspistrategist.org.au/a-counter-to-drone-swarms-high-power-microwave-weapons/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The StrategistA counter to drone swarms: high-power microwave weapons12 May 2025 — HPM weapons work by emitting directed bursts of electr...</p></details>
+   Link:<a href="https://www.aspistrategist.org.au/a-counter-to-drone-swarms-high-power-microwave-weapons/" target="_blank" rel="noopener noreferrer nofollow">https://www.aspistrategist.org.au/a-counter-to-drone-swarms-high-power-microwave-weapons/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The StrategistA counter to drone swarms: high-power microwave weapons12 May 2025 — HPM weapons work by emitting directed bursts of electr...</p></details>
    Published: May 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aspistrategist.org.au  
    Title: war at the speed of light the emerging role of directed energy weapons  
-   Link: <a href="https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow">https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>For example, atmospheric effects can...Read more...</p></details>
+   Link:<a href="https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow">https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For example, atmospheric effects can...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: rtx.com  
-   Link: <a href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>High-Energy Lasers | RaytheonThis directed energy technology enables detection of threats, tracking during maneuvers, and positive visual...</p></details>
+   Link:<a href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High-Energy Lasers | RaytheonThis directed energy technology enables detection of threats, tracking during maneuvers, and positive visual...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Laser-Based Directed Energy WeaponsThis review aims to evaluate the current capabilities of laser-based Directed Energy Weapons (DE...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Laser-Based Directed Energy WeaponsThis review aims to evaluate the current capabilities of laser-based Directed Energy Weapons (DE...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/399863884_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399863884_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Laser-Based Directed Energy Weapons30 Jan 2026 — Objectives This review aims to evaluate the current capabilities of laser-based Di...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/399863884_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399863884_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Laser-Based Directed Energy Weapons30 Jan 2026 — Objectives This review aims to evaluate the current capabilities of laser-based Di...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: lockheedmartin.com  
-   Link: <a href="https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy | Lockheed MartinExperience the potential of our laser weapons and directed energy weapon technologies, providing afforda...</p></details>
+   Link:<a href="https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy | Lockheed MartinExperience the potential of our laser weapons and directed energy weapon technologies, providing afforda...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: onr.navy.mil  
-   Link: <a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Naval ResearchCounter Directed Energy Weapons and High Energy LasersThe intent is to increase accuracy in all weather condition...</p></details>
+   Link:<a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Naval ResearchCounter Directed Energy Weapons and High Energy LasersThe intent is to increase accuracy in all weather condition...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/technical-evolution-operational-integration-light-based-robi-sen-hhdoc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/technical-evolution-operational-integration-light-based-robi-sen-hhdoc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Technical Evolution and Operational Integration of Directed...Developed by AeroVironment, the LOCUST Laser Weapon System is a modular, p...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/technical-evolution-operational-integration-light-based-robi-sen-hhdoc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/technical-evolution-operational-integration-light-based-robi-sen-hhdoc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Technical Evolution and Operational Integration of Directed...Developed by AeroVironment, the LOCUST Laser Weapon System is a modular, p...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: rand.com  
-   Link: <a href="https://www.rand.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rand Worldwide: [Engineering](&amp;#123;&amp;#123; &#x27;engineering/&#x27; | relative_url &amp;#125;&amp;#125;) Technology and ServicesRand Worldwide is a leading provider of technology solutions and professional services...</p></details>
+   Link:<a href="https://www.rand.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rand Worldwide: [Engineering](&amp;#123;&amp;#123; &#x27;engineering/&#x27; | relative_url &amp;#125;&amp;#125;) Technology and ServicesRand Worldwide is a leading provider of technology solutions and professional services...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ndupress.ndu.edu  
    Title: countering swarms strategic considerations and opportunities in drone warfare  
-   Link: <a href="https://ndupress.ndu.edu/Joint-Force-Quarterly/Joint-Force-Quarterly-107/Article/Article/3197193/countering-swarms-strategic-considerations-and-opportunities-in-drone-warfare/" target="_blank" rel="noopener noreferrer nofollow">https://ndupress.ndu.edu/Joint-Force-Quarterly/Joint-Force-Quarterly-107/Article/Article/3197193/countering-swarms-strategic-considerations-and-opportunities-in-drone-warfare/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Swarms: Strategic Considerations and...Oct 24, 2022 — Fully autonomous weapons systems increase the risk of miscalculation and/or misint...</p></details>
+   Link:<a href="https://ndupress.ndu.edu/Joint-Force-Quarterly/Joint-Force-Quarterly-107/Article/Article/3197193/countering-swarms-strategic-considerations-and-opportunities-in-drone-warfare/" target="_blank" rel="noopener noreferrer nofollow">https://ndupress.ndu.edu/Joint-Force-Quarterly/Joint-Force-Quarterly-107/Article/Article/3197193/countering-swarms-strategic-considerations-and-opportunities-in-drone-warfare/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Swarms: Strategic Considerations and...Oct 24, 2022 — Fully autonomous weapons systems increase the risk of miscalculation and/or misint...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: unmannedairspace.info  
    Title: us gao report directed energy weapon technical maturity levels still lagging  
-   Link: <a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-gao-report-directed-energy-weapon-technical-maturity-levels-still-lagging/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-gao-report-directed-energy-weapon-technical-maturity-levels-still-lagging/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>directed energy weapon technical maturity levels still laggingUS GAO report: directed energy weapon technical maturity levels still lagging...</p></details>
+   Link:<a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-gao-report-directed-energy-weapon-technical-maturity-levels-still-lagging/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-gao-report-directed-energy-weapon-technical-maturity-levels-still-lagging/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>directed energy weapon technical maturity levels still laggingUS GAO report: directed energy weapon technical maturity levels still lagging...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X1toVupe_R8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Directed Energy Weapons SystemsThe Government Accountability Office explains what are Directed Energy Weapons and takes a look at ho...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X1toVupe_R8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Directed Energy Weapons SystemsThe Government Accountability Office explains what are Directed Energy Weapons and takes a look at ho...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: navy.mil  
    Title: laser trailblazer navy conducts historic test of new laser weapon system  
-   Link: <a href="https://www.navy.mil/Press-Office/News-Stories/Article/2998829/laser-trailblazer-navy-conducts-historic-test-of-new-laser-weapon-system/" target="_blank" rel="noopener noreferrer nofollow">https://www.navy.mil/Press-Office/News-Stories/Article/2998829/laser-trailblazer-navy-conducts-historic-test-of-new-laser-weapon-system/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Conducts Historic Test of New Laser Weapon System13 Apr 2022 — The February demonstration marked the first time the US Navy used an...</p></details>
+   Link:<a href="https://www.navy.mil/Press-Office/News-Stories/Article/2998829/laser-trailblazer-navy-conducts-historic-test-of-new-laser-weapon-system/" target="_blank" rel="noopener noreferrer nofollow">https://www.navy.mil/Press-Office/News-Stories/Article/2998829/laser-trailblazer-navy-conducts-historic-test-of-new-laser-weapon-system/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Conducts Historic Test of New Laser Weapon System13 Apr 2022 — The February demonstration marked the first time the US Navy used an...</p></details>

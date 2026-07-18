@@ -294,47 +294,47 @@ image: /assets/images/Directed_Ener_98f417_helios_lasers_773815_navy_laser_li_19
 
 ## Introduction
 
-The path from USS *Ponce* to HELIOS illustrates how the US Navy has approached shipboard [lasers]({{ 'lasers/' | relative_url }}): not through a sudden revolution, but through a decade of incremental testing, operational experience and increasingly ambitious integration. Early systems proved that a laser could survive and function at sea against small boats, drones and sensors. Later demonstrators increased power and expanded target sets. HELIOS, installed on the destroyer USS *Preble*, represents a different milestone because it is not merely a test article aboard a specialised platform. It is integrated into the combat architecture of a front-line warship and intended to operate as part of normal fleet defence. This progression reveals less about dramatic technological breakthroughs than about the Navy’s cautious effort to turn a promising experiment into a usable naval capability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.doncio.navy.mil/%28m4jrto45tnpm4b45jxmngz3v%29/CHIPS/ArticleDetails.aspx?ID=9974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doncio.navy.mil">[doncio.navy.mil+2doncio.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doncio.navy.mil</span><span class="citation-popover-title">Article Details.aspx</span><span class="citation-popover-snippet">CHIPS Articles: Tech Transitions: the Laser Weapon SystemThe system was installed aboard USS Ponce (AFSB(I) 15) in 2014, becoming the fir...</span></span></span>
+The path from USS *Ponce* to HELIOS illustrates how the US Navy has approached shipboard [lasers]({{ 'lasers/' | relative_url }}): not through a sudden revolution, but through a decade of incremental testing, operational experience and increasingly ambitious integration. Early systems proved that a laser could survive and function at sea against small boats, drones and sensors. Later demonstrators increased power and expanded target sets. HELIOS, installed on the destroyer USS *Preble*, represents a different milestone because it is not merely a test article aboard a specialised platform. It is integrated into the combat architecture of a front-line warship and intended to operate as part of normal fleet defence. This progression reveals less about dramatic technological breakthroughs than about the Navy’s cautious effort to turn a promising experiment into a usable naval capability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.doncio.navy.mil/%28m4jrto45tnpm4b45jxmngz3v%29/CHIPS/ArticleDetails.aspx?ID=9974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doncio.navy.mil">[doncio.navy.mil+2doncio.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doncio.navy.mil</span><span class="citation-popover-title">Article Details.aspx</span><span class="citation-popover-snippet">CHIPS Articles: Tech Transitions: the Laser Weapon SystemThe system was installed aboard USS Ponce (AFSB(I) 15) in 2014, becoming the fir...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_navy_laser_li_1960e5-Illustration-1-dark.svg" | relative_url }}" alt="Laser Lineage illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_navy_laser_li_1960e5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_navy_laser_li_1960e5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Earlier Shipboard Trials Established
 
-The first major modern naval laser milestone came with the Laser Weapon System (LaWS) aboard USS *Ponce* in 2014. Developed through the Office of Naval Research, LaWS became the first Department of Defense laser weapon approved for operational [deployment]({{ 'deployment/' | relative_url }}). The system was installed on a forward-staging vessel operating in the Arabian Gulf, providing an opportunity to test a laser under real maritime conditions rather than in a laboratory or short-duration trial. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.doncio.navy.mil/%28m4jrto45tnpm4b45jxmngz3v%29/CHIPS/ArticleDetails.aspx?ID=9974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doncio.navy.mil">[doncio.navy.mil+2DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doncio.navy.mil</span><span class="citation-popover-title">Article Details.aspx</span><span class="citation-popover-snippet">CHIPS Articles: Tech Transitions: the Laser Weapon SystemThe system was installed aboard USS Ponce (AFSB(I) 15) in 2014, becoming the fir...</span></span></span>
+The first major modern naval laser milestone came with the Laser Weapon System (LaWS) aboard USS *Ponce* in 2014. Developed through the Office of Naval Research, LaWS became the first Department of Defense laser weapon approved for operational [deployment]({{ 'deployment/' | relative_url }}). The system was installed on a forward-staging vessel operating in the Arabian Gulf, providing an opportunity to test a laser under real maritime conditions rather than in a laboratory or short-duration trial.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.doncio.navy.mil/%28m4jrto45tnpm4b45jxmngz3v%29/CHIPS/ArticleDetails.aspx?ID=9974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doncio.navy.mil">[doncio.navy.mil+2DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doncio.navy.mil</span><span class="citation-popover-title">Article Details.aspx</span><span class="citation-popover-snippet">CHIPS Articles: Tech Transitions: the Laser Weapon SystemThe system was installed aboard USS Ponce (AFSB(I) 15) in 2014, becoming the fir...</span></span></span>
 
 The significance of *Ponce* was not that it transformed naval warfare. Instead, it answered practical questions:
 
 * Could a laser operate reliably amid salt spray, vibration and ship motion?
 * Could sailors be trained to use it as part of daily operations?
 * Could a shipboard laser contribute to surveillance and target identification as well as engagement?
-* Could commanders incorporate a directed-energy weapon into existing rules and procedures? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defenseone.com/technology/2014/12/navy-tests-super-precise-laser-weapon-persian-gulf/100929/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defenseone.com">[Defense One+2USNI News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defenseone.com</span><span class="citation-popover-title">navy tests super precise laser weapon persian gulf</span><span class="citation-popover-snippet">Defense OneNavy Tests Super Precise Laser Weapon in Persian GulfDec 10, 2014 — From September to November, sailors aboard the Ponce, curr...</span></span></span>
+* Could commanders incorporate a directed-energy weapon into existing rules and procedures?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defenseone.com/technology/2014/12/navy-tests-super-precise-laser-weapon-persian-gulf/100929/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defenseone.com">[Defense One+2USNI News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defenseone.com</span><span class="citation-popover-title">navy tests super precise laser weapon persian gulf</span><span class="citation-popover-snippet">Defense OneNavy Tests Super Precise Laser Weapon in Persian GulfDec 10, 2014 — From September to November, sailors aboard the Ponce, curr...</span></span></span>
 
-Reports from the deployment indicated that crews used the system routinely for training and tracking. Navy officials also highlighted the value of the laser’s optics for long-range observation, describing it as an unusually capable surveillance tool in addition to a weapon. These lessons mattered because they shifted discussion from whether lasers could work at sea to how they might fit into naval operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defenseone.com/technology/2014/12/navy-tests-super-precise-laser-weapon-persian-gulf/100929/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defenseone.com">[Defense One]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defenseone.com</span><span class="citation-popover-title">navy tests super precise laser weapon persian gulf</span><span class="citation-popover-snippet">Defense OneNavy Tests Super Precise Laser Weapon in Persian GulfDec 10, 2014 — From September to November, sailors aboard the Ponce, curr...</span></span></span>
+Reports from the deployment indicated that crews used the system routinely for training and tracking. Navy officials also highlighted the value of the laser’s optics for long-range observation, describing it as an unusually capable surveillance tool in addition to a weapon. These lessons mattered because they shifted discussion from whether lasers could work at sea to how they might fit into naval operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defenseone.com/technology/2014/12/navy-tests-super-precise-laser-weapon-persian-gulf/100929/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defenseone.com">[Defense One]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defenseone.com</span><span class="citation-popover-title">navy tests super precise laser weapon persian gulf</span><span class="citation-popover-snippet">Defense OneNavy Tests Super Precise Laser Weapon in Persian GulfDec 10, 2014 — From September to November, sailors aboard the Ponce, curr...</span></span></span>
 
-The next major step came with the Laser Weapon System Demonstrator (LWSD) aboard USS *Portland*. Unlike the lower-power LaWS, the LWSD programme explored higher-energy systems and more demanding engagements. In May 2020, *Portland* successfully disabled an unmanned aerial vehicle at sea, marking the first operational demonstration of a high-energy-class solid-state laser against an airborne target from a naval vessel. Subsequent tests also engaged surface targets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navy.mil/Press-Office/News-Stories/Article/2283997/uss-portland-conducts-laser-weapon-system-demonstrator-test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[navy.mil+2cpf.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">US S Portland Conducts Laser Weapon System Demonstrator</span><span class="citation-popover-snippet">USS Portland Conducts Laser Weapon System Demonstrator ...May 22, 2020 — Amphibious transport dock ship USS Portland (LPD 27) successfull...</span></span></span>
+The next major step came with the Laser Weapon System Demonstrator (LWSD) aboard USS *Portland*. Unlike the lower-power LaWS, the LWSD programme explored higher-energy systems and more demanding engagements. In May 2020, *Portland* successfully disabled an unmanned aerial vehicle at sea, marking the first operational demonstration of a high-energy-class solid-state laser against an airborne target from a naval vessel. Subsequent tests also engaged surface targets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navy.mil/Press-Office/News-Stories/Article/2283997/uss-portland-conducts-laser-weapon-system-demonstrator-test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[navy.mil+2cpf.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">US S Portland Conducts Laser Weapon System Demonstrator</span><span class="citation-popover-snippet">USS Portland Conducts Laser Weapon System Demonstrator ...May 22, 2020 — Amphibious transport dock ship USS Portland (LPD 27) successfull...</span></span></span>
 
-These *Portland* trials established that naval lasers could move beyond small-boat scenarios and begin addressing the growing challenge of unmanned systems. Just as importantly, they demonstrated the increasing maturity of power [generation]({{ 'generation-ii/' | relative_url }}), beam control and thermal management technologies needed for sustained shipboard use. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://militaryembedded.com/radar-ew/test/laser-weapon-system-demonstrator-tested-by-u-s-navy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: militaryembedded.com">[militaryembedded.com+2navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">militaryembedded.com</span><span class="citation-popover-title">Laser Weapon System Demonstrator tested by U.S</span><span class="citation-popover-snippet">NavyLWSD is a high-energy laser weapon system demonstrator developed by the Office of Naval Research and installed on Portland for an at...</span></span></span>
+These *Portland* trials established that naval lasers could move beyond small-boat scenarios and begin addressing the growing challenge of unmanned systems. Just as importantly, they demonstrated the increasing maturity of power [generation]({{ 'generation-ii/' | relative_url }}), beam control and thermal management technologies needed for sustained shipboard use.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://militaryembedded.com/radar-ew/test/laser-weapon-system-demonstrator-tested-by-u-s-navy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: militaryembedded.com">[militaryembedded.com+2navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">militaryembedded.com</span><span class="citation-popover-title">Laser Weapon System Demonstrator tested by U.S</span><span class="citation-popover-snippet">NavyLWSD is a high-energy laser weapon system demonstrator developed by the Office of Naval Research and installed on Portland for an at...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lJROWdRN7N0" title="Meet the new US Navy high-tech laser weapon, HELIOS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lJROWdRN7N0" target="_blank" rel="noopener noreferrer">Meet the new US Navy high-tech laser weapon, HELIOS</a></p><p class="youtube-embed-meta">Channel: Straight Arrow</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lJROWdRN7N0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lJROWdRN7N0">Open on YouTube</a></p></div></div></div>
 
 ## Why HELIOS Is a Different Integration Step
 
-The transition to HELIOS marks a shift from demonstration [platforms]({{ 'platforms/' | relative_url }}) toward fleet integration. Earlier systems were largely experimental installations placed on ships selected specifically to host and evaluate emerging technology. HELIOS was designed from the outset to be integrated into an operational Arleigh Burke-class destroyer and connected to the ship’s existing combat architecture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/High_Energy_Laser_with_Integrated_Optical-dazzler_and_Surveillance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">March 13, 2026 — The High Energy Laser with Integrated Optical-dazzler and Surveillance (HELIOS) or Mk 5 Mod 0 HELIOS is a Lockheed Marti...</span><span class="citation-popover-meta">Published: March 13, 2026</span></span></span>
+The transition to HELIOS marks a shift from demonstration [platforms]({{ 'platforms/' | relative_url }}) toward fleet integration. Earlier systems were largely experimental installations placed on ships selected specifically to host and evaluate emerging technology. HELIOS was designed from the outset to be integrated into an operational Arleigh Burke-class destroyer and connected to the ship’s existing combat architecture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/High_Energy_Laser_with_Integrated_Optical-dazzler_and_Surveillance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">March 13, 2026 — The High Energy Laser with Integrated Optical-dazzler and Surveillance (HELIOS) or Mk 5 Mod 0 HELIOS is a Lockheed Marti...</span><span class="citation-popover-meta">Published: March 13, 2026</span></span></span>
 
 This distinction is more important than increases in [laser power]({{ 'power-costs/' | relative_url }}) alone.
 
-USS *Preble* is a front-line destroyer equipped with the Aegis combat system, one of the Navy’s principal air and missile defence networks. Integrating HELIOS into that environment means the laser can receive sensor information, participate in target engagement processes and function as one element within a layered defensive system. Rather than operating as a stand-alone experiment, it becomes part of the ship’s broader decision-making and weapons framework. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/High_Energy_Laser_with_Integrated_Optical-dazzler_and_Surveillance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">March 13, 2026 — The High Energy Laser with Integrated Optical-dazzler and Surveillance (HELIOS) or Mk 5 Mod 0 HELIOS is a Lockheed Marti...</span><span class="citation-popover-meta">Published: March 13, 2026</span></span></span>
+USS *Preble* is a front-line destroyer equipped with the Aegis combat system, one of the Navy’s principal air and missile defence networks. Integrating HELIOS into that environment means the laser can receive sensor information, participate in target engagement processes and function as one element within a layered defensive system. Rather than operating as a stand-alone experiment, it becomes part of the ship’s broader decision-making and weapons framework.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/High_Energy_Laser_with_Integrated_Optical-dazzler_and_Surveillance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">March 13, 2026 — The High Energy Laser with Integrated Optical-dazzler and Surveillance (HELIOS) or Mk 5 Mod 0 HELIOS is a Lockheed Marti...</span><span class="citation-popover-meta">Published: March 13, 2026</span></span></span>
 
 HELIOS also combines several functions that earlier programmes often treated separately:
 
 * A high-energy laser for engaging drones and selected threats.
 * An optical dazzler intended to interfere with electro-optical sensors.
-* Surveillance and tracking capabilities that contribute information to the wider combat system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/americasnavy/posts/introducing-helios-%EF%B8%8F-the-navys-new-high-energy-laser-aboard-the-uss-preble-this-/1111257101036019/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Introducing Helios ☀️ the Navy&#x27;s new high-energy laser ...The Navy&#x27;s new high-energy laser aboard the USS Preble</span><span class="citation-popover-snippet">This new system allows the Preble to provide intel, surveillance and reconnaissance, all in one go.Read more</span></span></span>
+* Surveillance and tracking capabilities that contribute information to the wider combat system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/americasnavy/posts/introducing-helios-%EF%B8%8F-the-navys-new-high-energy-laser-aboard-the-uss-preble-this-/1111257101036019/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Introducing Helios ☀️ the Navy&#x27;s new high-energy laser ...The Navy&#x27;s new high-energy laser aboard the USS Preble</span><span class="citation-popover-snippet">This new system allows the Preble to provide intel, surveillance and reconnaissance, all in one go.Read more</span></span></span>
 
-The emphasis on integration helps explain why HELIOS is frequently described as a tactical system rather than merely a technology demonstrator. The Navy is evaluating not only whether the laser can hit targets but also whether it can be incorporated into routine fleet operations without disrupting existing combat procedures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=lJROWdRN7N0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Meet the new US Navy high-tech laser weapon, HELIOSThe Helios though very real it&#x27;s the first tactical laser weapon system to be i...</span></span></span>
+The emphasis on integration helps explain why HELIOS is frequently described as a tactical system rather than merely a technology demonstrator. The Navy is evaluating not only whether the laser can hit targets but also whether it can be incorporated into routine fleet operations without disrupting existing combat procedures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=lJROWdRN7N0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Meet the new US Navy high-tech laser weapon, HELIOSThe Helios though very real it&#x27;s the first tactical laser weapon system to be i...</span></span></span>
 
-Recent testing has reflected that goal. During fiscal year 2024, HELIOS aboard USS *Preble* successfully engaged an unmanned aerial target, providing evidence that the system could move from developmental demonstrations toward operationally relevant engagements. Additional reports released in 2025 and 2026 described continued testing against multiple drones, further expanding the system’s operational experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navytimes.com/news/your-navy/2025/02/04/us-navy-hits-drone-with-helios-laser-in-successful-test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navytimes.com">[Navy Times+2Naval News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navytimes.com</span><span class="citation-popover-title">us navy hits drone with helios laser in successful test</span><span class="citation-popover-snippet">Navy TimesUS Navy hits drone with HELIOS laser in successful testFeb 4, 2025 — The US Navy successfully tested its High-Energy Laser with...</span></span></span>
+Recent testing has reflected that goal. During fiscal year 2024, HELIOS aboard USS *Preble* successfully engaged an unmanned aerial target, providing evidence that the system could move from developmental demonstrations toward operationally relevant engagements. Additional reports released in 2025 and 2026 described continued testing against multiple drones, further expanding the system’s operational experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navytimes.com/news/your-navy/2025/02/04/us-navy-hits-drone-with-helios-laser-in-successful-test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navytimes.com">[Navy Times+2Naval News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navytimes.com</span><span class="citation-popover-title">us navy hits drone with helios laser in successful test</span><span class="citation-popover-snippet">Navy TimesUS Navy hits drone with HELIOS laser in successful testFeb 4, 2025 — The US Navy successfully tested its High-Energy Laser with...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_navy_laser_li_1960e5-Illustration-2-dark.svg" | relative_url }}" alt="Laser Lineage illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_navy_laser_li_1960e5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_navy_laser_li_1960e5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -342,11 +342,11 @@ Recent testing has reflected that goal. During fiscal year 2024, HELIOS aboard U
 
 Viewed as a sequence, the lineage reveals a deliberate pattern.
 
-**USS *Ponce*** demonstrated basic operational feasibility. It showed that sailors could deploy and use a laser weapon aboard a ship in a real-world theatre. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.doncio.navy.mil/%28m4jrto45tnpm4b45jxmngz3v%29/CHIPS/ArticleDetails.aspx?ID=9974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doncio.navy.mil">[doncio.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doncio.navy.mil</span><span class="citation-popover-title">Article Details.aspx</span><span class="citation-popover-snippet">CHIPS Articles: Tech Transitions: the Laser Weapon SystemThe system was installed aboard USS Ponce (AFSB(I) 15) in 2014, becoming the fir...</span></span></span>
+**USS *Ponce*** demonstrated basic operational feasibility. It showed that sailors could deploy and use a laser weapon aboard a ship in a real-world theatre.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.doncio.navy.mil/%28m4jrto45tnpm4b45jxmngz3v%29/CHIPS/ArticleDetails.aspx?ID=9974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doncio.navy.mil">[doncio.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doncio.navy.mil</span><span class="citation-popover-title">Article Details.aspx</span><span class="citation-popover-snippet">CHIPS Articles: Tech Transitions: the Laser Weapon SystemThe system was installed aboard USS Ponce (AFSB(I) 15) in 2014, becoming the fir...</span></span></span>
 
-**USS *Portland*** explored higher-power systems and more challenging engagements, especially against unmanned aerial threats. It pushed technical performance and validated key subsystems needed for future naval lasers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navy.mil/Press-Office/News-Stories/Article/2283997/uss-portland-conducts-laser-weapon-system-demonstrator-test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[navy.mil+2navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">US S Portland Conducts Laser Weapon System Demonstrator</span><span class="citation-popover-snippet">USS Portland Conducts Laser Weapon System Demonstrator ...May 22, 2020 — Amphibious transport dock ship USS Portland (LPD 27) successfull...</span></span></span>
+**USS *Portland*** explored higher-power systems and more challenging engagements, especially against unmanned aerial threats. It pushed technical performance and validated key subsystems needed for future naval lasers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navy.mil/Press-Office/News-Stories/Article/2283997/uss-portland-conducts-laser-weapon-system-demonstrator-test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[navy.mil+2navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">US S Portland Conducts Laser Weapon System Demonstrator</span><span class="citation-popover-snippet">USS Portland Conducts Laser Weapon System Demonstrator ...May 22, 2020 — Amphibious transport dock ship USS Portland (LPD 27) successfull...</span></span></span>
 
-**USS *Preble* and HELIOS** focus on integration. The central question is no longer whether a laser can be mounted on a ship, but whether it can function as a reliable element of an operational combat system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/High_Energy_Laser_with_Integrated_Optical-dazzler_and_Surveillance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">March 13, 2026 — The High Energy Laser with Integrated Optical-dazzler and Surveillance (HELIOS) or Mk 5 Mod 0 HELIOS is a Lockheed Marti...</span><span class="citation-popover-meta">Published: March 13, 2026</span></span></span>
+**USS *Preble* and HELIOS** focus on integration. The central question is no longer whether a laser can be mounted on a ship, but whether it can function as a reliable element of an operational combat system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/High_Energy_Laser_with_Integrated_Optical-dazzler_and_Surveillance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">March 13, 2026 — The High Energy Laser with Integrated Optical-dazzler and Surveillance (HELIOS) or Mk 5 Mod 0 HELIOS is a Lockheed Marti...</span><span class="citation-popover-meta">Published: March 13, 2026</span></span></span>
 
 This progression mirrors how many naval technologies mature. New systems often begin on experimental or auxiliary platforms, move through demonstration programmes and only later appear on front-line combatants once reliability, doctrine and support requirements become clearer.
 
@@ -358,204 +358,204 @@ This progression mirrors how many naval technologies mature. New systems often b
 
 ## What the Lineage Says About Cautious Adoption
 
-The journey from *Ponce* to HELIOS highlights how carefully the Navy has managed expectations around directed-energy weapons. Public discussion often portrays naval lasers as potential replacements for missiles, but the actual development path suggests a more measured objective. Each stage has focused on proving a specific operational question before moving to the next one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.doncio.navy.mil/%28m4jrto45tnpm4b45jxmngz3v%29/CHIPS/ArticleDetails.aspx?ID=9974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doncio.navy.mil">[doncio.navy.mil+2doncio.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doncio.navy.mil</span><span class="citation-popover-title">Article Details.aspx</span><span class="citation-popover-snippet">CHIPS Articles: Tech Transitions: the Laser Weapon SystemThe system was installed aboard USS Ponce (AFSB(I) 15) in 2014, becoming the fir...</span></span></span>
+The journey from *Ponce* to HELIOS highlights how carefully the Navy has managed expectations around directed-energy weapons. Public discussion often portrays naval lasers as potential replacements for missiles, but the actual development path suggests a more measured objective. Each stage has focused on proving a specific operational question before moving to the next one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.doncio.navy.mil/%28m4jrto45tnpm4b45jxmngz3v%29/CHIPS/ArticleDetails.aspx?ID=9974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doncio.navy.mil">[doncio.navy.mil+2doncio.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doncio.navy.mil</span><span class="citation-popover-title">Article Details.aspx</span><span class="citation-popover-snippet">CHIPS Articles: Tech Transitions: the Laser Weapon SystemThe system was installed aboard USS Ponce (AFSB(I) 15) in 2014, becoming the fir...</span></span></span>
 
-The Navy did not proceed directly from the 2014 *Ponce* deployment to fleet-wide installation. Instead, it spent years gathering data on maintenance, targeting, [power demands]({{ 'power-demand/' | relative_url }}), environmental effects and crew procedures. The *Portland* programme expanded technical confidence, while HELIOS has concentrated on integration with a combat-ready destroyer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.doncio.navy.mil/chips/ArticleDetails.aspx?ID=9974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doncio.navy.mil">[doncio.navy.mil+2navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doncio.navy.mil</span><span class="citation-popover-snippet">In January 2018, the Navy announced a next-generation upgrade would be installed...Read more...</span><span class="citation-popover-meta">Published: January 2018</span></span></span>
+The Navy did not proceed directly from the 2014 *Ponce* deployment to fleet-wide installation. Instead, it spent years gathering data on maintenance, targeting, [power demands]({{ 'power-demand/' | relative_url }}), environmental effects and crew procedures. The *Portland* programme expanded technical confidence, while HELIOS has concentrated on integration with a combat-ready destroyer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.doncio.navy.mil/chips/ArticleDetails.aspx?ID=9974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doncio.navy.mil">[doncio.navy.mil+2navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doncio.navy.mil</span><span class="citation-popover-snippet">In January 2018, the Navy announced a next-generation upgrade would be installed...Read more...</span><span class="citation-popover-meta">Published: January 2018</span></span></span>
 
-That lineage suggests the Navy views lasers as an additional defensive layer rather than a wholesale replacement for existing weapons. HELIOS is significant because it represents the point at which naval lasers begin entering the fleet’s operational ecosystem. The progression from USS *Ponce* to USS *Preble* therefore marks not the arrival of a fully mature laser era, but the transition from experimentation toward practical naval adoption. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.doncio.navy.mil/%28m4jrto45tnpm4b45jxmngz3v%29/CHIPS/ArticleDetails.aspx?ID=9974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doncio.navy.mil">[doncio.navy.mil+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doncio.navy.mil</span><span class="citation-popover-title">Article Details.aspx</span><span class="citation-popover-snippet">CHIPS Articles: Tech Transitions: the Laser Weapon SystemThe system was installed aboard USS Ponce (AFSB(I) 15) in 2014, becoming the fir...</span></span></span>
+That lineage suggests the Navy views lasers as an additional defensive layer rather than a wholesale replacement for existing weapons. HELIOS is significant because it represents the point at which naval lasers begin entering the fleet’s operational ecosystem. The progression from USS *Ponce* to USS *Preble* therefore marks not the arrival of a fully mature laser era, but the transition from experimentation toward practical naval adoption.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.doncio.navy.mil/%28m4jrto45tnpm4b45jxmngz3v%29/CHIPS/ArticleDetails.aspx?ID=9974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doncio.navy.mil">[doncio.navy.mil+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doncio.navy.mil</span><span class="citation-popover-title">Article Details.aspx</span><span class="citation-popover-snippet">CHIPS Articles: Tech Transitions: the Laser Weapon SystemThe system was installed aboard USS Ponce (AFSB(I) 15) in 2014, becoming the fir...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_navy_laser_li_1960e5-Illustration-3-dark.svg" | relative_url }}" alt="Laser Lineage illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_navy_laser_li_1960e5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_navy_laser_li_1960e5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Navy Lasers Moved From Trials to Ships. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Navy Lasers Moved From Trials to Ships. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Illustrates the broader technological transformation of warfare.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates the broader technological transformation of warfare.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+influence+of+sea+power+upon+history%2C+1660-1783+Alfred+Thayer+Mahan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The influence of sea power upon history, 1660-1783 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5855206-M.jpg" alt="Cover for The influence of sea power upon history, 1660-1783" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+influence+of+sea+power+upon+history%2C+1660-1783+Alfred+Thayer+Mahan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The influence of sea power upon history, 1660-1783">The influence of sea power upon history, 1660-1783</a>
-        </h4>
-        <p class="fr-book-author">By Alfred Thayer Mahan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+influence+of+sea+power+upon+history%2C+1660-1783+Alfred+Thayer+Mahan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The influence of sea power upon history, 1660-1783 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5855206-M.jpg" alt="Cover for The influence of sea power upon history," loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+influence+of+sea+power+upon+history%2C+1660-1783+Alfred+Thayer+Mahan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The influence of sea power upon history,">The influence of sea power upon history,</a>
+</h4>
+<p class="fr-book-author">By Alfred Thayer Mahan</p>
         
-        <p class="fr-book-desc">First published 1890. Subjects: History, Modern, Modern History, Modern Naval history, Naval History, Naval history, Modern.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+influence+of+sea+power+upon+history%2C+1660-1783+Alfred+Thayer+Mahan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1890. Subjects: History, Modern, Modern History, Modern Naval history, Naval History, Naval history, Modern.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+influence+of+sea+power+upon+history%2C+1660-1783+Alfred+Thayer+Mahan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fleet Tactics And Naval Operations, Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8833607-M.jpg" alt="Cover for Fleet Tactics And Naval Operations, Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fleet Tactics And Naval Operations, Third Edition">Fleet Tactics And Naval Operations, Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Wayne Hughes, Robert Girrier</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fleet Tactics And Naval Operations, Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8833607-M.jpg" alt="Cover for Fleet Tactics And Naval Operations, Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fleet Tactics And Naval Operations, Third Edition">Fleet Tactics And Naval Operations, Third Edition</a>
+</h4>
+<p class="fr-book-author">By Wayne Hughes, Robert Girrier</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Naval tactics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Naval tactics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
-        </h4>
-        <p class="fr-book-author">By Bahman Zohuri</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
+</h4>
+<p class="fr-book-author">By Bahman Zohuri</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+influence+of+sea+power+upon+history%2C+1660+1783&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The influence of sea power upon history, 1660 1783</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fleet Tactics And Naval Operations, Third Edition</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+influence+of+sea+power+upon+history%2C+1660+1783&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The influence of sea power upon history,</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fleet Tactics And Naval Operations, Third Edition</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mastercraft Royal Navy 1/500 Scale Destroyer Model Kit HMS Hero"><img src="{{ '/assets/images/marketplace-covers/71ddbcad08a919345b52.jpg' | relative_url }}" alt="Listing image for Mastercraft Royal Navy 1/500 Scale Destroyer Model Kit HMS Hero" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer">Mastercraft Royal Navy 1/500 Scale Destroyer Model Kit HMS Hero</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Royal Navy destroyer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Royal Navy destroyer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mastercraft Royal Navy 1/500 Scale Destroyer Model Kit HMS Hero"><img src="{{ '/assets/images/marketplace-covers/71ddbcad08a919345b52.jpg' | relative_url }}" alt="Listing image for Mastercraft Royal Navy 1/500 Scale Destroyer Model Kit HMS Hero" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer">Mastercraft Royal Navy 1/500 Scale Destroyer Model Kit HMS Hero</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Royal Navy destroyer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Royal Navy destroyer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/350 British Royal Navy Jervis Destroyer resin Model Kit NEW！3D Printed"><img src="{{ '/assets/images/marketplace-covers/9d113b4ae91c5a90700c.jpg' | relative_url }}" alt="Listing image for 1/350 British Royal Navy Jervis Destroyer resin Model Kit NEW！3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer">1/350 British Royal Navy Jervis Destroyer resin Model Kit NEW！3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Royal Navy destroyer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Royal Navy destroyer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/350 British Royal Navy Jervis Destroyer resin Model Kit NEW！3D Printed"><img src="{{ '/assets/images/marketplace-covers/9d113b4ae91c5a90700c.jpg' | relative_url }}" alt="Listing image for 1/350 British Royal Navy Jervis Destroyer resin Model Kit NEW！3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer">1/350 British Royal Navy Jervis Destroyer resin Model Kit NEW！3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Royal Navy destroyer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Royal Navy destroyer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pit-Road 3 Sky Wave Royal Navy G17 Onslow 1/700 O-Class Destroyer Model Kit Box."><img src="{{ '/assets/images/marketplace-covers/9253bc4b5bd6bae8d72c.jpg' | relative_url }}" alt="Listing image for Pit-Road 3 Sky Wave Royal Navy G17 Onslow 1/700 O-Class Destroyer Model Kit Box." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer">Pit-Road 3 Sky Wave Royal Navy G17 Onslow 1/700 O-Class Destroyer Model Kit Box.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Royal Navy destroyer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Royal Navy destroyer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pit-Road 3 Sky Wave Royal Navy G17 Onslow 1/700 O-Class Destroyer Model Kit Box."><img src="{{ '/assets/images/marketplace-covers/9253bc4b5bd6bae8d72c.jpg' | relative_url }}" alt="Listing image for Pit-Road 3 Sky Wave Royal Navy G17 Onslow 1/700 O-Class Destroyer Model Kit Box." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer">Pit-Road 3 Sky Wave Royal Navy G17 Onslow 1/700 O-Class Destroyer Model Kit Box.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Royal Navy destroyer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Royal Navy destroyer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tamiya 1:700 Royal Australian Navy Destroyer Vampire Model Kit"><img src="{{ '/assets/images/marketplace-covers/44927e497d4a8cd58008.jpg' | relative_url }}" alt="Listing image for Tamiya 1:700 Royal Australian Navy Destroyer Vampire Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer">Tamiya 1:700 Royal Australian Navy Destroyer Vampire Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Royal Navy destroyer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Royal Navy destroyer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tamiya 1:700 Royal Australian Navy Destroyer Vampire Model Kit"><img src="{{ '/assets/images/marketplace-covers/44927e497d4a8cd58008.jpg' | relative_url }}" alt="Listing image for Tamiya 1:700 Royal Australian Navy Destroyer Vampire Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer">Tamiya 1:700 Royal Australian Navy Destroyer Vampire Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Royal Navy destroyer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Royal Navy destroyer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Royal+Navy+destroyer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Royal Navy destroyer model" data-ebay-reference="laser-lineage-how-navy-lasers-moved-from-trials-to-ships-directed-ener-royal-navy-destroyer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -571,7 +571,7 @@ That lineage suggests the Navy views lasers as an additional defensive layer rat
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -591,7 +591,7 @@ That lineage suggests the Navy views lasers as an additional defensive layer rat
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -623,7 +623,7 @@ That lineage suggests the Navy views lasers as an additional defensive layer rat
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -675,7 +675,7 @@ That lineage suggests the Navy views lasers as an additional defensive layer rat
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -720,7 +720,7 @@ That lineage suggests the Navy views lasers as an additional defensive layer rat
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -761,282 +761,282 @@ That lineage suggests the Navy views lasers as an additional defensive layer rat
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: doncio.navy.mil  
    Title: Article Details.aspx  
-   Link: <a href="https://www.doncio.navy.mil/%28m4jrto45tnpm4b45jxmngz3v%29/CHIPS/ArticleDetails.aspx?ID=9974" target="_blank" rel="noopener noreferrer nofollow">https://www.doncio.navy.mil/%28m4jrto45tnpm4b45jxmngz3v%29/CHIPS/ArticleDetails.aspx?ID=9974</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CHIPS Articles: Tech Transitions: the Laser Weapon SystemThe system was installed aboard USS Ponce (AFSB(I) 15) in 2014, becoming the fir...</p></details>
+   Link:<a href="https://www.doncio.navy.mil/%28m4jrto45tnpm4b45jxmngz3v%29/CHIPS/ArticleDetails.aspx?ID=9974" target="_blank" rel="noopener noreferrer nofollow">https://www.doncio.navy.mil/%28m4jrto45tnpm4b45jxmngz3v%29/CHIPS/ArticleDetails.aspx?ID=9974</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CHIPS Articles: Tech Transitions: the Laser Weapon SystemThe system was installed aboard USS Ponce (AFSB(I) 15) in 2014, becoming the fir...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: doncio.navy.mil  
-   Link: <a href="https://www.doncio.navy.mil/chips/ArticleDetails.aspx?ID=9974" target="_blank" rel="noopener noreferrer nofollow">https://www.doncio.navy.mil/chips/ArticleDetails.aspx?ID=9974</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In January 2018, the Navy announced a next-generation upgrade would be installed...Read more...</p></details>
+   Link:<a href="https://www.doncio.navy.mil/chips/ArticleDetails.aspx?ID=9974" target="_blank" rel="noopener noreferrer nofollow">https://www.doncio.navy.mil/chips/ArticleDetails.aspx?ID=9974</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In January 2018, the Navy announced a next-generation upgrade would be installed...Read more...</p></details>
    Published: January 2018  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: optics.org  
    Title: us navy ship mounted 30kw laser weapon tested in persian gulf  
-   Link: <a href="https://optics.org/news/us-navy-ship-mounted-30kw-laser-weapon-tested-in-persian-gulf" target="_blank" rel="noopener noreferrer nofollow">https://optics.org/news/us-navy-ship-mounted-30kw-laser-weapon-tested-in-persian-gulf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Photo John F. Williams / U.S....Read more...</p></details>
+   Link:<a href="https://optics.org/news/us-navy-ship-mounted-30kw-laser-weapon-tested-in-persian-gulf" target="_blank" rel="noopener noreferrer nofollow">https://optics.org/news/us-navy-ship-mounted-30kw-laser-weapon-tested-in-persian-gulf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Photo John F. Williams / U.S....Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: news.usni.org  
    Title: News U.S  
-   Link: <a href="https://news.usni.org/2014/12/10/u-s-navy-allowed-use-persian-gulf-laser-defense" target="_blank" rel="noopener noreferrer nofollow">https://news.usni.org/2014/12/10/u-s-navy-allowed-use-persian-gulf-laser-defense</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Allowed to Use Persian Gulf Laser for Defense10 Dec 2014 — The Navy plans to keep LaWS onboard Ponce for a year and is examining dep...</p></details>
+   Link:<a href="https://news.usni.org/2014/12/10/u-s-navy-allowed-use-persian-gulf-laser-defense" target="_blank" rel="noopener noreferrer nofollow">https://news.usni.org/2014/12/10/u-s-navy-allowed-use-persian-gulf-laser-defense</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Allowed to Use Persian Gulf Laser for Defense10 Dec 2014 — The Navy plans to keep LaWS onboard Ponce for a year and is examining dep...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: navy.mil  
    Title: US S Portland Conducts Laser Weapon System Demonstrator  
-   Link: <a href="https://www.navy.mil/Press-Office/News-Stories/Article/2283997/[uss-portland" target="_blank" rel="noopener noreferrer nofollow">https://www.navy.mil/Press-Office/News-Stories/Article/2283997/[uss-portland</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Portland Conducts Laser Weapon System Demonstrator...May 22, 2020 — Amphibious transport dock ship USS Portland (LPD 27) successfull...</p></details>
+   Link:<a href="https://www.navy.mil/Press-Office/News-Stories/Article/2283997/[uss-portland" target="_blank" rel="noopener noreferrer nofollow">https://www.navy.mil/Press-Office/News-Stories/Article/2283997/[uss-portland</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Portland Conducts Laser Weapon System Demonstrator...May 22, 2020 — Amphibious transport dock ship USS Portland (LPD 27) successfull...</p></details>
    Published: May 22, 2020  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cpf.navy.mil  
    Title: US S Portland conducts Laser Weapon System Demonstrator  
-   Link: <a href="https://www.cpf.navy.mil/newsroom/news/article/2637722/uss-portland-conducts-laser-weapon-system-demonstrator-test/" target="_blank" rel="noopener noreferrer nofollow">https://www.cpf.navy.mil/newsroom/news/article/2637722/uss-portland-conducts-laser-weapon-system-demonstrator-test/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Portland conducts Laser Weapon System Demonstrator...May 22, 2020 — The test aboard the ship in the Pacific was the first system-lev...</p></details>
+   Link:<a href="https://www.cpf.navy.mil/newsroom/news/article/2637722/uss-portland-conducts-laser-weapon-system-demonstrator-test/" target="_blank" rel="noopener noreferrer nofollow">https://www.cpf.navy.mil/newsroom/news/article/2637722/uss-portland-conducts-laser-weapon-system-demonstrator-test/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Portland conducts Laser Weapon System Demonstrator...May 22, 2020 — The test aboard the ship in the Pacific was the first system-lev...</p></details>
    Published: May 22, 2020  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: navy.mil  
    Title: uss portland tests high energy laser weapon system in gulf of aden  
-   Link: <a href="https://www.navy.mil/Press-Office/News-Stories/Article/2873919/uss-portland-tests-high-energy-laser-weapon-system-in-gulf-of-aden/" target="_blank" rel="noopener noreferrer nofollow">https://www.navy.mil/Press-Office/News-Stories/Article/2873919/uss-portland-tests-high-energy-laser-weapon-system-in-gulf-of-aden/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Portland Tests High Energy Laser Weapon System in...Dec 15, 2021 — Portland previously tested the LWSD in May 2020 when it successfu...</p></details>
+   Link:<a href="https://www.navy.mil/Press-Office/News-Stories/Article/2873919/uss-portland-tests-high-energy-laser-weapon-system-in-gulf-of-aden/" target="_blank" rel="noopener noreferrer nofollow">https://www.navy.mil/Press-Office/News-Stories/Article/2873919/uss-portland-tests-high-energy-laser-weapon-system-in-gulf-of-aden/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Portland Tests High Energy Laser Weapon System in...Dec 15, 2021 — Portland previously tested the LWSD in May 2020 when it successfu...</p></details>
    Published: May 2020  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: militaryembedded.com  
    Title: Laser Weapon System Demonstrator tested by U.S  
-   Link: <a href="https://militaryembedded.com/radar-ew/test/laser-weapon-system-demonstrator-tested-by-u-s-navy" target="_blank" rel="noopener noreferrer nofollow">https://militaryembedded.com/radar-ew/test/laser-weapon-system-demonstrator-tested-by-u-s-navy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NavyLWSD is a high-energy laser weapon system demonstrator developed by the Office of Naval Research and installed on Portland for an at...</p></details>
+   Link:<a href="https://militaryembedded.com/radar-ew/test/laser-weapon-system-demonstrator-tested-by-u-s-navy" target="_blank" rel="noopener noreferrer nofollow">https://militaryembedded.com/radar-ew/test/laser-weapon-system-demonstrator-tested-by-u-s-navy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NavyLWSD is a high-energy laser weapon system demonstrator developed by the Office of Naval Research and installed on Portland for an at...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: news.usni.org  
-   Link: <a href="https://news.usni.org/2020/05/22/video-uss-portland-fires-laser-weapon-downs-drone-in-first-at-sea-test" target="_blank" rel="noopener noreferrer nofollow">https://news.usni.org/2020/05/22/video-uss-portland-fires-laser-weapon-downs-drone-in-first-at-sea-test</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USNI NewsVIDEO: USS Portland Fires Laser Weapon, Downs Drone in...May 22, 2020 — Amphibious ship USS Portland (LPD-27) shot down a drone...</p></details>
+   Link:<a href="https://news.usni.org/2020/05/22/video-uss-portland-fires-laser-weapon-downs-drone-in-first-at-sea-test" target="_blank" rel="noopener noreferrer nofollow">https://news.usni.org/2020/05/22/video-uss-portland-fires-laser-weapon-downs-drone-in-first-at-sea-test</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USNI NewsVIDEO: USS Portland Fires Laser Weapon, Downs Drone in...May 22, 2020 — Amphibious ship USS Portland (LPD-27) shot down a drone...</p></details>
    Published: May 22, 2020  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/High_Energy_Laser_with_Integrated_Optical-dazzler_and_Surveillance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/High_Energy_Laser_with_Integrated_Optical-dazzler_and_Surveillance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 13, 2026 — The High Energy Laser with Integrated Optical-dazzler and Surveillance (HELIOS) or Mk 5 Mod 0 HELIOS is a Lockheed Marti...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/High_Energy_Laser_with_Integrated_Optical-dazzler_and_Surveillance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/High_Energy_Laser_with_Integrated_Optical-dazzler_and_Surveillance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 13, 2026 — The High Energy Laser with Integrated Optical-dazzler and Surveillance (HELIOS) or Mk 5 Mod 0 HELIOS is a Lockheed Marti...</p></details>
    Published: March 13, 2026  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=lJROWdRN7N0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lJROWdRN7N0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meet the new US Navy high-tech laser weapon, HELIOSThe Helios though very real it&#x27;s the first tactical laser weapon system to be i...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lJROWdRN7N0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lJROWdRN7N0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meet the new US Navy high-tech laser weapon, HELIOSThe Helios though very real it&#x27;s the first tactical laser weapon system to be i...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/americasnavy/posts/introducing-helios-%EF%B8%8F-the-navys-new-high-energy-laser-aboard-the-[uss-preble" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/americasnavy/posts/introducing-helios-%EF%B8%8F-the-navys-new-high-energy-laser-aboard-the-[uss-preble</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This new system allows the Preble to provide intel, surveillance and reconnaissance, all in one go.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/americasnavy/posts/introducing-helios-%EF%B8%8F-the-navys-new-high-energy-laser-aboard-the-[uss-preble" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/americasnavy/posts/introducing-helios-%EF%B8%8F-the-navys-new-high-energy-laser-aboard-the-[uss-preble</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This new system allows the Preble to provide intel, surveillance and reconnaissance, all in one go.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: United States  
-   Link: <a href="https://en.wikipedia.org/wiki/United_States" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/United_States</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United StatesThe United States of America (USA), also known as the United States (U.S.) or America, is a country primarily located in...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/United_States" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/United_States</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United StatesThe United States of America (USA), also known as the United States (U.S.) or America, is a country primarily located in...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: SEQ 3 Laser Weapon System  
-   Link: <a href="https://en.wikipedia.org/wiki/AN/SEQ-3_Laser_Weapon_System" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/AN/SEQ-3_Laser_Weapon_System</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AN/SEQ-3 Laser Weapon SystemThe weapon was installed on USS Ponce for field testing in 2014. In December 2014, the United States Navy...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/AN/SEQ-3_Laser_Weapon_System" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/AN/SEQ-3_Laser_Weapon_System</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AN/SEQ-3 Laser Weapon SystemThe weapon was installed on USS Ponce for field testing in 2014. In December 2014, the United States Navy...</p></details>
    Published: December 2014  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: navy.mil  
    Title: US S Portland Conducts Laser Weapon System Demonstrator  
-   Link: <a href="https://www.navy.mil/DesktopModules/ArticleCS/Print.aspx?Article=2283997&amp;ModuleId=523&amp;PortalId=1" target="_blank" rel="noopener noreferrer nofollow">https://www.navy.mil/DesktopModules/ArticleCS/Print.aspx?Article=2283997&amp;ModuleId=523&amp;PortalId=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Portland Conducts Laser Weapon System Demonstrator...May 22, 2020 — Amphibious transport dock ship USS Portland (LPD 27) successfull...</p></details>
+   Link:<a href="https://www.navy.mil/DesktopModules/ArticleCS/Print.aspx?Article=2283997&amp;ModuleId=523&amp;PortalId=1" target="_blank" rel="noopener noreferrer nofollow">https://www.navy.mil/DesktopModules/ArticleCS/Print.aspx?Article=2283997&amp;ModuleId=523&amp;PortalId=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Portland Conducts Laser Weapon System Demonstrator...May 22, 2020 — Amphibious transport dock ship USS Portland (LPD 27) successfull...</p></details>
    Published: May 22, 2020  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: navsea.navy.mil  
    Title: mil Laser Weapon System (La Ws)  
-   Link: <a href="https://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Dahlgren/Who-We-Are/History/Blogs/LaWs/" target="_blank" rel="noopener noreferrer nofollow">https://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Dahlgren/Who-We-Are/History/Blogs/LaWs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>System or LaWS is a directed energy weapon developed by the United States Navy. The weapon was installed on USS Ponce for field testing i...</p></details>
+   Link:<a href="https://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Dahlgren/Who-We-Are/History/Blogs/LaWs/" target="_blank" rel="noopener noreferrer nofollow">https://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Dahlgren/Who-We-Are/History/Blogs/LaWs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>System or LaWS is a directed energy weapon developed by the United States Navy. The weapon was installed on USS Ponce for field testing i...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: U S Navy deploys First Laser Weapon La WS in Persian Gulf  
-   Link: <a href="https://www.youtube.com/watch?v=PIKoCqJ8ppE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PIKoCqJ8ppE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Navy deploys First Laser Weapon LaWS in Persian GulfNovember 15, 2014 - The U.S. Navy has deployed on a command ship in the Persian Gu...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PIKoCqJ8ppE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PIKoCqJ8ppE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Navy deploys First Laser Weapon LaWS in Persian GulfNovember 15, 2014 - The U.S. Navy has deployed on a command ship in the Persian Gu...</p></details>
    Published: November 15, 2014  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=sbjXXRfwrHg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sbjXXRfwrHg</a>  
+   Link:<a href="https://www.youtube.com/watch?v=sbjXXRfwrHg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sbjXXRfwrHg</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=DjILYsObqmQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DjILYsObqmQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 11, 2014 #3 The Office of Naval Research announced the laser weapon sytem, or LAWS, successfully deployed and...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DjILYsObqmQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DjILYsObqmQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 11, 2014 #3 The Office of Naval Research announced the laser weapon sytem, or LAWS, successfully deployed and...</p></details>
    Published: December 11, 2014  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=cvQV7Mt02q4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cvQV7Mt02q4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Finally! Watch the US Navy&#x27;s Laser Weapon in ActionThe Helios is the US Navy&#x27;s first truly operational laser weapon with enough energy to...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cvQV7Mt02q4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cvQV7Mt02q4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Finally! Watch the US Navy&#x27;s Laser Weapon in ActionThe Helios is the US Navy&#x27;s first truly operational laser weapon with enough energy to...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=IrDu6k3me8U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IrDu6k3me8U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Portland conducts a high-energy laser weapon system...A U.S. Navy warship operating in the gulf of aden successfully fired on a floa...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IrDu6k3me8U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IrDu6k3me8U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Portland conducts a high-energy laser weapon system...A U.S. Navy warship operating in the gulf of aden successfully fired on a floa...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1216058135233165/posts/2892245810947714/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1216058135233165/posts/2892245810947714/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Preble equipped with Helios laser weapon systemUSS PREBLE DDG 88🇺🇸 The Ship has HELIOS (High Energy Laser with Integrated Optical Daz...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1216058135233165/posts/2892245810947714/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1216058135233165/posts/2892245810947714/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Preble equipped with Helios laser weapon systemUSS PREBLE DDG 88🇺🇸 The Ship has HELIOS (High Energy Laser with Integrated Optical Daz...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
    Title: us navy revives 150 kilowatt laser weapon as drone threats surgethe navy revived  
-   Link: <a href="https://www.facebook.com/sofrep.official/posts/us-navy-revives-150-kilowatt-laser-weapon-as-drone-threats-surgethe-navy-revived/1379299647575112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sofrep.official/posts/us-navy-revives-150-kilowatt-laser-weapon-as-drone-threats-surgethe-navy-revived/1379299647575112/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Navy Revives 150-kilowatt Laser Weapon as Drone...The LWSD Mk 2 Mod 0 took that concept and multiplied it. At 150 kilowatts (150 kW)...</p></details>
+   Link:<a href="https://www.facebook.com/sofrep.official/posts/us-navy-revives-150-kilowatt-laser-weapon-as-drone-threats-surgethe-navy-revived/1379299647575112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sofrep.official/posts/us-navy-revives-150-kilowatt-laser-weapon-as-drone-threats-surgethe-navy-revived/1379299647575112/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Navy Revives 150-kilowatt Laser Weapon as Drone...The LWSD Mk 2 Mod 0 took that concept and multiplied it. At 150 kilowatts (150 kW)...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/marineinsight/posts/the-us-navy-has-revealed-new-details-about-a-laser-weapon-test-conducted-in-2025/1320033923500944/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/marineinsight/posts/the-us-navy-has-revealed-new-details-about-a-laser-weapon-test-conducted-in-2025/1320033923500944/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ce System (HELIOS) is a 60-kilowatt-class directed energy...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/marineinsight/posts/the-us-navy-has-revealed-new-details-about-a-laser-weapon-test-conducted-in-2025/1320033923500944/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/marineinsight/posts/the-us-navy-has-revealed-new-details-about-a-laser-weapon-test-conducted-in-2025/1320033923500944/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ce System (HELIOS) is a 60-kilowatt-class directed energy...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ukdefencejournal/posts/the-us-navy-has-conducted-live-fire-testing-of-a-containerised-laser-weapon-syst/1374946264678633/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ukdefencejournal/posts/the-us-navy-has-conducted-live-fire-testing-of-a-containerised-laser-weapon-syst/1374946264678633/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The U.S. Navy has conducted live-fire testing of a...The Laser Weapons System, or LaWS, is now deployed aboard the USS Ponce... Navy ca...</p></details>
+   Link:<a href="https://www.facebook.com/ukdefencejournal/posts/the-us-navy-has-conducted-live-fire-testing-of-a-containerised-laser-weapon-syst/1374946264678633/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ukdefencejournal/posts/the-us-navy-has-conducted-live-fire-testing-of-a-containerised-laser-weapon-syst/1374946264678633/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The U.S. Navy has conducted live-fire testing of a...The Laser Weapons System, or LaWS, is now deployed aboard the USS Ponce... Navy ca...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: sofrep.com  
    Title: navy sends iran and china a message with high energy laser test in gulf of aden  
-   Link: <a href="https://sofrep.com/news/navy-sends-iran-and-china-a-message-with-high-energy-laser-test-in-gulf-of-aden/" target="_blank" rel="noopener noreferrer nofollow">https://sofrep.com/news/navy-sends-iran-and-china-a-message-with-high-energy-laser-test-in-gulf-of-aden/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Office of...</p></details>
+   Link:<a href="https://sofrep.com/news/navy-sends-iran-and-china-a-message-with-high-energy-laser-test-in-gulf-of-aden/" target="_blank" rel="noopener noreferrer nofollow">https://sofrep.com/news/navy-sends-iran-and-china-a-message-with-high-energy-laser-test-in-gulf-of-aden/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Office of...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: optics.org  
-   Link: <a href="https://optics.org/news/us-navy-warship-fires-laser-weapon-downs-drone-off-pearl-harbor" target="_blank" rel="noopener noreferrer nofollow">https://optics.org/news/us-navy-warship-fires-laser-weapon-downs-drone-off-pearl-harbor</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Navy warship fires laser weapon, downs drone off...The US Navy has announced that its amphibious transport dock ship the USS Portland...</p></details>
+   Link:<a href="https://optics.org/news/us-navy-warship-fires-laser-weapon-downs-drone-off-pearl-harbor" target="_blank" rel="noopener noreferrer nofollow">https://optics.org/news/us-navy-warship-fires-laser-weapon-downs-drone-off-pearl-harbor</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Navy warship fires laser weapon, downs drone off...The US Navy has announced that its amphibious transport dock ship the USS Portland...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Why HELIOS is set to be a key defensive asset for US Navy warships?  
-   Link: <a href="https://www.youtube.com/watch?v=hVnIiE2W2a0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hVnIiE2W2a0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Finally! Watch The US Navy&#x27;s NEW Laser Weapon in Action...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hVnIiE2W2a0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hVnIiE2W2a0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Finally! Watch The US Navy&#x27;s NEW Laser Weapon in Action...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Finally! Watch The US Navy's NEW Laser Weapon in Action  
-   Link: <a href="https://www.youtube.com/watch?v=yqu6RNTYIMQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yqu6RNTYIMQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Navy&#x27;s NEW Killer Laser Gun Weapon That Shock the World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yqu6RNTYIMQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yqu6RNTYIMQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Navy&#x27;s NEW Killer Laser Gun Weapon That Shock the World...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: The U.S. Navy's Laser Weapon (HELIOS) Just Changed Warfare Forever!  
-   Link: <a href="https://www.youtube.com/watch?v=B0hgtOw-zjY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B0hgtOw-zjY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Super Killer Laser Gun: LaWS Laser Weapon System Live-fire, Testing(LaWS)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=B0hgtOw-zjY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B0hgtOw-zjY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Super Killer Laser Gun: LaWS Laser Weapon System Live-fire, Testing(LaWS)...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Super Killer Laser Gun: La WS Laser Weapon System Live-fire, Testing(La WS)  
-   Link: <a href="https://www.youtube.com/watch?v=N-SCnrmRrKg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N-SCnrmRrKg</a>  
+   Link:<a href="https://www.youtube.com/watch?v=N-SCnrmRrKg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N-SCnrmRrKg</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: navytimes.com  
    Title: us navy hits drone with helios laser in successful test  
-   Link: <a href="https://www.navytimes.com/news/your-navy/2025/02/04/us-navy-hits-drone-with-helios-laser-in-successful-test/" target="_blank" rel="noopener noreferrer nofollow">https://www.navytimes.com/news/your-navy/2025/02/04/us-navy-hits-drone-with-helios-laser-in-successful-test/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy TimesUS Navy hits drone with HELIOS laser in successful testFeb 4, 2025 — The US Navy successfully tested its High-Energy Laser with...</p></details>
+   Link:<a href="https://www.navytimes.com/news/your-navy/2025/02/04/us-navy-hits-drone-with-helios-laser-in-successful-test/" target="_blank" rel="noopener noreferrer nofollow">https://www.navytimes.com/news/your-navy/2025/02/04/us-navy-hits-drone-with-helios-laser-in-successful-test/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy TimesUS Navy hits drone with HELIOS laser in successful testFeb 4, 2025 — The US Navy successfully tested its High-Energy Laser with...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: dvidshub.net  
    Title: uss ponce conducts laser weapon system operational demonstration  
-   Link: <a href="https://www.dvidshub.net/image/1695853/uss-ponce-conducts-laser-weapon-system-operational-demonstration" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/image/1695853/uss-ponce-conducts-laser-weapon-system-operational-demonstration</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Ponce conducts Laser Weapon System operational...Nov 12, 2014 — The Afloat Forward Staging Base (Interim) USS Ponce (ASB(I) 15) cond...</p></details>
+   Link:<a href="https://www.dvidshub.net/image/1695853/uss-ponce-conducts-laser-weapon-system-operational-demonstration" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/image/1695853/uss-ponce-conducts-laser-weapon-system-operational-demonstration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Ponce conducts Laser Weapon System operational...Nov 12, 2014 — The Afloat Forward Staging Base (Interim) USS Ponce (ASB(I) 15) cond...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: defenseone.com  
    Title: navy tests super precise laser weapon persian gulf  
-   Link: <a href="https://www.defenseone.com/technology/2014/12/navy-tests-super-precise-laser-weapon-persian-gulf/100929/" target="_blank" rel="noopener noreferrer nofollow">https://www.defenseone.com/technology/2014/12/navy-tests-super-precise-laser-weapon-persian-gulf/100929/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense OneNavy Tests Super Precise Laser Weapon in Persian GulfDec 10, 2014 — From September to November, sailors aboard the Ponce, curr...</p></details>
+   Link:<a href="https://www.defenseone.com/technology/2014/12/navy-tests-super-precise-laser-weapon-persian-gulf/100929/" target="_blank" rel="noopener noreferrer nofollow">https://www.defenseone.com/technology/2014/12/navy-tests-super-precise-laser-weapon-persian-gulf/100929/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense OneNavy Tests Super Precise Laser Weapon in Persian GulfDec 10, 2014 — From September to November, sailors aboard the Ponce, curr...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: navalnews.com  
    Title: Naval News U.S  
-   Link: <a href="https://www.navalnews.com/naval-news/2025/02/u-s-navy-helios-laser-test-underscores-greater-advancements-in-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow">https://www.navalnews.com/naval-news/2025/02/u-s-navy-helios-laser-test-underscores-greater-advancements-in-directed-energy-weapons/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy HELIOS laser test underscores greater...Feb 4, 2025 — The US Navy&#x27;s High Energy Laser and Integrated Optical Dazzler and Surveillan...</p></details>
+   Link:<a href="https://www.navalnews.com/naval-news/2025/02/u-s-navy-helios-laser-test-underscores-greater-advancements-in-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow">https://www.navalnews.com/naval-news/2025/02/u-s-navy-helios-laser-test-underscores-greater-advancements-in-directed-energy-weapons/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy HELIOS laser test underscores greater...Feb 4, 2025 — The US Navy&#x27;s High Energy Laser and Integrated Optical Dazzler and Surveillan...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/753776/uss-portland-lpd-27-tests-lwsd" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/753776/uss-portland-lpd-27-tests-lwsd</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Portland (LPD 27) tests LWSDAmphibious transport dock ship USS Portland (LPD 27) successfully disabled an unmanned aerial vehicle (UA...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/753776/uss-portland-lpd-27-tests-lwsd" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/753776/uss-portland-lpd-27-tests-lwsd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Portland (LPD 27) tests LWSDAmphibious transport dock ship USS Portland (LPD 27) successfully disabled an unmanned aerial vehicle (UA...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: uss.co.uk  
-   Link: <a href="https://www.uss.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.uss.co.uk/</a>  
+   Link:<a href="https://www.uss.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.uss.co.uk/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: globalsecurity.org  
-   Link: <a href="https://www.globalsecurity.org/military/systems/ship/systems/laws.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/military/systems/ship/systems/laws.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>That harsh and operationally important environment provided...Read more...</p></details>
+   Link:<a href="https://www.globalsecurity.org/military/systems/ship/systems/laws.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/military/systems/ship/systems/laws.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>That harsh and operationally important environment provided...Read more...</p></details>
 
 ### Additional References
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DW1bNLPD-Pt/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DW1bNLPD-Pt/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Navy Revives 150-kilowatt Laser Weapon as Drone...The Laser Weapon System Demonstrator Mk 2 Mod 0 (LWSD Mk 2 Mod 0) was never meant t...</p></details>
+   Link:<a href="https://www.instagram.com/p/DW1bNLPD-Pt/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DW1bNLPD-Pt/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Navy Revives 150-kilowatt Laser Weapon as Drone...The Laser Weapon System Demonstrator Mk 2 Mod 0 (LWSD Mk 2 Mod 0) was never meant t...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/WarshipPorn/comments/1qutb5v/uss_preble_ddg88_used_her_helios_laser_to_shoot/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WarshipPorn/comments/1qutb5v/uss_preble_ddg88_used_her_helios_laser_to_shoot/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Preble (DDG-88) used her HELIOS laser to shoot...USS Preble (DDG-88) used her HELIOS laser to shoot down 4 drones during an exercise...</p></details>
+   Link:<a href="https://www.reddit.com/r/WarshipPorn/comments/1qutb5v/uss_preble_ddg88_used_her_helios_laser_to_shoot/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WarshipPorn/comments/1qutb5v/uss_preble_ddg88_used_her_helios_laser_to_shoot/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Preble (DDG-88) used her HELIOS laser to shoot...USS Preble (DDG-88) used her HELIOS laser to shoot down 4 drones during an exercise...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: spacewar.com  
    Title: USS Portlands high powered laser disables drone in weapons first at sea test 999  
-   Link: <a href="https://www.spacewar.com/reports/USS_Portlands_high_powered_laser_disables_drone_in_weapons_first_at_sea_test_999.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spacewar.com/reports/USS_Portlands_high_powered_laser_disables_drone_in_weapons_first_at_sea_test_999.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Portland&#x27;s high-powered laser disables drone in...22 May 2020 — Amphibious transport dock ship USS Portland (LPD 27) successfully di...</p></details>
+   Link:<a href="https://www.spacewar.com/reports/USS_Portlands_high_powered_laser_disables_drone_in_weapons_first_at_sea_test_999.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spacewar.com/reports/USS_Portlands_high_powered_laser_disables_drone_in_weapons_first_at_sea_test_999.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Portland&#x27;s high-powered laser disables drone in...22 May 2020 — Amphibious transport dock ship USS Portland (LPD 27) successfully di...</p></details>
    Published: May 2020  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ALaser_Weapon_System_aboard_USS_Ponce_%28AFSB%28I%29-15%29_in_November_2014_%2805%29.JPG" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ALaser_Weapon_System_aboard_USS_Ponce_%28AFSB%28I%29-15%29_in_November_2014_%2805%29.JPG</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Laser Weapon System aboard USS Ponce (AFSB(I)Nov 15, 2014 — This file is a work of a sailor or employee of the U.S...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ALaser_Weapon_System_aboard_USS_Ponce_%28AFSB%28I%29-15%29_in_November_2014_%2805%29.JPG" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ALaser_Weapon_System_aboard_USS_Ponce_%28AFSB%28I%29-15%29_in_November_2014_%2805%29.JPG</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Laser Weapon System aboard USS Ponce (AFSB(I)Nov 15, 2014 — This file is a work of a sailor or employee of the U.S...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: twz.com  
    Title: uss preble used helios laser to zap four drones in expanding testing  
-   Link: <a href="https://www.twz.com/sea/uss-preble-used-helios-laser-to-zap-four-drones-in-expanding-testing" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/sea/uss-preble-used-helios-laser-to-zap-four-drones-in-expanding-testing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Preble Used HELIOS Laser To Zap Four Drones In...Feb 2, 2026 — The U.S. Navy&#x27;s Arleigh Burke class destroyer USS Preble used its Hig...</p></details>
+   Link:<a href="https://www.twz.com/sea/uss-preble-used-helios-laser-to-zap-four-drones-in-expanding-testing" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/sea/uss-preble-used-helios-laser-to-zap-four-drones-in-expanding-testing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Preble Used HELIOS Laser To Zap Four Drones In...Feb 2, 2026 — The U.S. Navy&#x27;s Arleigh Burke class destroyer USS Preble used its Hig...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: sofrep.com  
    Title: us navy revives 150 kilowatt laser weapon as drone threats surge  
-   Link: <a href="https://sofrep.com/news/us-navy-revives-150-kilowatt-laser-weapon-as-drone-threats-surge/" target="_blank" rel="noopener noreferrer nofollow">https://sofrep.com/news/us-navy-revives-150-kilowatt-laser-weapon-as-drone-threats-surge/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Navy Revives 150-kilowatt Laser Weapon as Drone...5 days ago — The Navy revived a retired 150-kW laser, exposing a hard truth: the fut...</p></details>
+   Link:<a href="https://sofrep.com/news/us-navy-revives-150-kilowatt-laser-weapon-as-drone-threats-surge/" target="_blank" rel="noopener noreferrer nofollow">https://sofrep.com/news/us-navy-revives-150-kilowatt-laser-weapon-as-drone-threats-surge/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Navy Revives 150-kilowatt Laser Weapon as Drone...5 days ago — The Navy revived a retired 150-kW laser, exposing a hard truth: the fut...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: businessinsider.com  
    Title: photos us navy warship blasting target with laser beam 2021 12  
-   Link: <a href="https://www.businessinsider.com/photos-us-navy-warship-blasting-target-with-laser-beam-2021-12" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/photos-us-navy-warship-blasting-target-with-laser-beam-2021-12</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A US Navy warship blasted a floating target with a laser...Dec 15, 2021 — The high-energy laser weapon system on USS Portland was first...</p></details>
+   Link:<a href="https://www.businessinsider.com/photos-us-navy-warship-blasting-target-with-laser-beam" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/photos-us-navy-warship-blasting-target-with-laser-beam</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A US Navy warship blasted a floating target with a laser...Dec 15, 2021 — The high-energy laser weapon system on USS Portland was first...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: maritime-executive.com  
    Title: u s navy amphib shoots down drone with laser weapon prototype  
-   Link: <a href="https://maritime-executive.com/article/u-s-navy-amphib-shoots-down-drone-with-laser-weapon-prototype" target="_blank" rel="noopener noreferrer nofollow">https://maritime-executive.com/article/u-s-navy-amphib-shoots-down-drone-with-laser-weapon-prototype</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Amphib Shoots Down Drone With Laser...May 22, 2020 — LWSD is a high-energy laser weapon system developed by the Office of Naval Res...</p></details>
+   Link:<a href="https://maritime-executive.com/article/u-s-navy-amphib-shoots-down-drone-with-laser-weapon-prototype" target="_blank" rel="noopener noreferrer nofollow">https://maritime-executive.com/article/u-s-navy-amphib-shoots-down-drone-with-laser-weapon-prototype</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Amphib Shoots Down Drone With Laser...May 22, 2020 — LWSD is a high-energy laser weapon system developed by the Office of Naval Res...</p></details>
    Published: May 22, 2020  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/acecombat/comments/1ifmzzu/new_photo_of_the_navys_high_energy_laser_with/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/acecombat/comments/1ifmzzu/new_photo_of_the_navys_high_energy_laser_with/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>d Surveillance (HELIOS) weapon system firing aboard the USS Preble during...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/acecombat/comments/1ifmzzu/new_photo_of_the_navys_high_energy_laser_with/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/acecombat/comments/1ifmzzu/new_photo_of_the_navys_high_energy_laser_with/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d Surveillance (HELIOS) weapon system firing aboard the USS Preble during...Read more...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: taskandpurpose.com  
    Title: Watch the Navy fry a drone with a new shipboard laser  
-   Link: <a href="https://taskandpurpose.com/news/navy-laser-weapon-video/" target="_blank" rel="noopener noreferrer nofollow">https://taskandpurpose.com/news/navy-laser-weapon-video/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 22, 2020 — The amphibious transport ship USS Portland took out the UAV using a Solid State Laser Weapons System Demonstrator (LWSD) t...</p></details>
+   Link:<a href="https://taskandpurpose.com/news/navy-laser-weapon-video/" target="_blank" rel="noopener noreferrer nofollow">https://taskandpurpose.com/news/navy-laser-weapon-video/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 22, 2020 — The amphibious transport ship USS Portland took out the UAV using a Solid State Laser Weapons System Demonstrator (LWSD) t...</p></details>
    Published: May 22, 2020  

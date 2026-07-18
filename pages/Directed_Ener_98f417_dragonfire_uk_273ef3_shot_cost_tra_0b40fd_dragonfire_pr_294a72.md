@@ -275,17 +275,17 @@ image: /assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_shot_cost_tra_0b
 
 ## Introduction
 
-The apparent contradiction at the heart of DragonFire is simple: if a laser shot costs roughly £10 in electricity, why is the Royal Navy paying hundreds of millions of pounds for the capability? The answer is that the low firing cost refers only to the energy consumed during an engagement. The procurement bill covers an entire combat system: the laser itself, precision tracking sensors, beam-control optics, software, [ship integration]({{ 'ship-integration/' | relative_url }}), power management, [cooling]({{ 'cooling/' | relative_url }}) equipment, testing, certification, training and long-term support. In November 2025, the UK Ministry of Defence awarded MBDA a £316 million contract to deliver operational DragonFire systems for Royal Navy service from 2027, illustrating the difference between a cheap shot and an expensive military capability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">boost for armed forces as new laser weapon takes down high speed drones</span><span class="citation-popover-snippet">Boost for Armed Forces as new laser weapon takes down...20 Nov 2025 — MBDA awarded £316 million contract to deliver new DragonFire syste...</span></span></span>
+The apparent contradiction at the heart of DragonFire is simple: if a laser shot costs roughly £10 in electricity, why is the Royal Navy paying hundreds of millions of pounds for the capability? The answer is that the low firing cost refers only to the energy consumed during an engagement. The procurement bill covers an entire combat system: the laser itself, precision tracking sensors, beam-control optics, software, [ship integration]({{ 'ship-integration/' | relative_url }}), power management, [cooling]({{ 'cooling/' | relative_url }}) equipment, testing, certification, training and long-term support. In November 2025, the UK Ministry of Defence awarded MBDA a £316 million contract to deliver operational DragonFire systems for Royal Navy service from 2027, illustrating the difference between a cheap shot and an expensive military capability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">boost for armed forces as new laser weapon takes down high speed drones</span><span class="citation-popover-snippet">Boost for Armed Forces as new laser weapon takes down...20 Nov 2025 — MBDA awarded £316 million contract to deliver new DragonFire syste...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_shot_cost_tra_0b40fd_dragonfire_pr_294a72-Illustration-1-dark.svg" | relative_url }}" alt="Programme Cost illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_shot_cost_tra_0b40fd_dragonfire_pr_294a72-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_shot_cost_tra_0b40fd_dragonfire_pr_294a72-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the £316 Million Contract Has to Buy
 
-The most common misunderstanding is to imagine DragonFire as little more than a powerful industrial laser bolted onto a warship. In reality, the weapon is a tightly integrated system developed by a consortium led by MBDA, with major contributions from Leonardo and QinetiQ. The procurement programme covers the transition from technology demonstrator to deployable naval weapon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/uk/uk-beefs-up-royal-navy-counter-drone-tech-with-413-mln-laser-contract-2025-11-20/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2MBDA Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">This initiative is part of Britain&#x27;s efforts to enhance its naval defenses, particularly against drone threats. The DragonFire system is...</span></span></span>
+The most common misunderstanding is to imagine DragonFire as little more than a powerful industrial laser bolted onto a warship. In reality, the weapon is a tightly integrated system developed by a consortium led by MBDA, with major contributions from Leonardo and QinetiQ. The procurement programme covers the transition from technology demonstrator to deployable naval weapon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/uk/uk-beefs-up-royal-navy-counter-drone-tech-with-413-mln-laser-contract-2025-11-20/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2MBDA Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">This initiative is part of Britain&#x27;s efforts to enhance its naval defenses, particularly against drone threats. The DragonFire system is...</span></span></span>
 
 The contract is not paying for a single beam generator. It must fund:
 
-* Operational weapon systems for Royal Navy deployment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">boost for armed forces as new laser weapon takes down high speed drones</span><span class="citation-popover-snippet">Boost for Armed Forces as new laser weapon takes down...20 Nov 2025 — MBDA awarded £316 million contract to deliver new DragonFire syste...</span></span></span>
+* Operational weapon systems for Royal Navy deployment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">boost for armed forces as new laser weapon takes down high speed drones</span><span class="citation-popover-snippet">Boost for Armed Forces as new laser weapon takes down...20 Nov 2025 — MBDA awarded £316 million contract to deliver new DragonFire syste...</span></span></span>
 * Precision beam-directing and stabilisation equipment.
 * Electro-optical tracking and targeting sensors.
 * Fire-control and engagement software.
@@ -293,7 +293,7 @@ The contract is not paying for a single beam generator. It must fund:
 * Cooling and thermal-management systems.
 * Installation and integration aboard warships.
 * Testing, qualification and safety certification.
-* Training, [maintenance]({{ 'maintenance/' | relative_url }}) and support arrangements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2QinetiQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">boost for armed forces as new laser weapon takes down high speed drones</span><span class="citation-popover-snippet">Boost for Armed Forces as new laser weapon takes down...20 Nov 2025 — MBDA awarded £316 million contract to deliver new DragonFire syste...</span></span></span>
+* Training, [maintenance]({{ 'maintenance/' | relative_url }}) and support arrangements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2QinetiQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">boost for armed forces as new laser weapon takes down high speed drones</span><span class="citation-popover-snippet">Boost for Armed Forces as new laser weapon takes down...20 Nov 2025 — MBDA awarded £316 million contract to deliver new DragonFire syste...</span></span></span>
 
 Defence procurement often looks expensive because governments are buying complete mission capability rather than individual components. A modern missile system is not priced according to the cost of explosive material inside a missile; similarly, DragonFire is not priced according to the cost of the laser source alone.
 
@@ -306,7 +306,7 @@ A combat laser is only effective if it can continuously place enormous amounts o
 
 ### Tracking a Fast-Moving Target
 
-DragonFire combines the laser weapon with sophisticated tracking and imaging systems. Public descriptions indicate the system uses electro-optical sensors and dedicated tracking mechanisms to locate, identify and maintain lock on targets. During recent trials it reportedly achieved above-the-[horizon tracking]({{ 'horizon-tracking/' | relative_url }}) and engagement of [high-speed]({{ '650-km-h/' | relative_url }}) drones travelling up to 650 km/h. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://des.mod.uk/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: des.mod.uk">[Defence Equipment &amp; Support+2Tom&#x27;s Hardware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">des.mod.uk</span><span class="citation-popover-title">boost for armed forces as new laser weapon takes down high speed drones</span><span class="citation-popover-snippet">Defence Equipment &amp; SupportBoost for Armed Forces as new laser weapon takes down...20 Nov 2025 — Britain&#x27;s ground-breaking DragonFire la...</span></span></span>
+DragonFire combines the laser weapon with sophisticated tracking and imaging systems. Public descriptions indicate the system uses electro-optical sensors and dedicated tracking mechanisms to locate, identify and maintain lock on targets. During recent trials it reportedly achieved above-the-[horizon tracking]({{ 'horizon-tracking/' | relative_url }}) and engagement of [high-speed]({{ '650-km-h/' | relative_url }}) drones travelling up to 650 km/h.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://des.mod.uk/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: des.mod.uk">[Defence Equipment &amp; Support+2Tom&#x27;s Hardware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">des.mod.uk</span><span class="citation-popover-title">boost for armed forces as new laser weapon takes down high speed drones</span><span class="citation-popover-snippet">Defence Equipment &amp; SupportBoost for Armed Forces as new laser weapon takes down...20 Nov 2025 — Britain&#x27;s ground-breaking DragonFire la...</span></span></span>
 
 That capability depends on advanced sensing, target discrimination and stabilisation technology. Even tiny tracking errors can prevent a laser from depositing enough energy to destroy a target. The sensors and control systems therefore become major cost elements in their own right.
 
@@ -314,11 +314,11 @@ That capability depends on advanced sensing, target discrimination and stabilisa
 <img src="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_shot_cost_tra_0b40fd_dragonfire_pr_294a72-Illustration-2-dark.svg" | relative_url }}" alt="Programme Cost illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_shot_cost_tra_0b40fd_dragonfire_pr_294a72-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_shot_cost_tra_0b40fd_dragonfire_pr_294a72-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Beam Control and Precision Optics
 
-The laser must be focused, directed and stabilised with extreme accuracy. Public reports on DragonFire frequently emphasise its ability to hit targets with remarkable precision, often illustrated by the claim that it can strike a coin-sized target at significant distance. Delivering that level of accuracy requires sophisticated optics, beam directors and control systems that are far more complex than a commercial laser installation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tomshardware.com/tech-industry/uk-dragonfire-laser-downs-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomshardware.com">[Tom&#x27;s Hardware+2TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomshardware.com</span><span class="citation-popover-snippet">A $413 million (£316 million) contract has been awarded to MBDA UK to deploy DragonFire on the Royal Navy’s Type 45 destroyers starting i...</span></span></span>
+The laser must be focused, directed and stabilised with extreme accuracy. Public reports on DragonFire frequently emphasise its ability to hit targets with remarkable precision, often illustrated by the claim that it can strike a coin-sized target at significant distance. Delivering that level of accuracy requires sophisticated optics, beam directors and control systems that are far more complex than a commercial laser installation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tomshardware.com/tech-industry/uk-dragonfire-laser-downs-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomshardware.com">[Tom&#x27;s Hardware+2TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomshardware.com</span><span class="citation-popover-snippet">A $413 million (£316 million) contract has been awarded to MBDA UK to deploy DragonFire on the Royal Navy’s Type 45 destroyers starting i...</span></span></span>
 
 ### Power Management
 
-A naval laser weapon consumes far more power than the headline firing-cost figure might suggest. While the electricity used in a single engagement may be inexpensive, the weapon still requires infrastructure capable of storing, conditioning and delivering high levels of electrical power on demand. DragonFire's architecture has been associated with advanced energy-management solutions and substantial shipboard electrical requirements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/DragonFire_%28weapon%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dragon Fire (weapon</span><span class="citation-popover-snippet">Dragon Fire (weapon</span></span></span>
+A naval laser weapon consumes far more power than the headline firing-cost figure might suggest. While the electricity used in a single engagement may be inexpensive, the weapon still requires infrastructure capable of storing, conditioning and delivering high levels of electrical power on demand. DragonFire's architecture has been associated with advanced energy-management solutions and substantial shipboard electrical requirements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/DragonFire_%28weapon%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dragon Fire (weapon</span><span class="citation-popover-snippet">Dragon Fire (weapon</span></span></span>
 
 Warships must safely distribute that power without disrupting other critical systems. Designing and certifying those interfaces adds cost long before the first operational shot is fired.
 
@@ -338,11 +338,11 @@ For a naval installation, cooling equipment must operate reliably in a harsh mar
 
 The most important economic distinction is between marginal cost and capability cost.
 
-Marginal cost refers to what happens after the weapon already exists. At that point, a laser engagement can be extraordinarily cheap compared with launching a missile. Capability cost refers to everything required to make those engagements possible in the first place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">boost for armed forces as new laser weapon takes down high speed drones</span><span class="citation-popover-snippet">Boost for Armed Forces as new laser weapon takes down...20 Nov 2025 — MBDA awarded £316 million contract to deliver new DragonFire syste...</span></span></span>
+Marginal cost refers to what happens after the weapon already exists. At that point, a laser engagement can be extraordinarily cheap compared with launching a missile. Capability cost refers to everything required to make those engagements possible in the first place.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">boost for armed forces as new laser weapon takes down high speed drones</span><span class="citation-popover-snippet">Boost for Armed Forces as new laser weapon takes down...20 Nov 2025 — MBDA awarded £316 million contract to deliver new DragonFire syste...</span></span></span>
 
-For DragonFire, integration is especially significant because the system must operate as part of a warship's wider combat architecture. The laser cannot function as an isolated device. It must exchange data with sensors, command systems, threat-evaluation software and operators while meeting naval safety and reliability requirements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navylookout.com/contract-to-deliver-first-laser-weapons-for-the-royal-navy-agreed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navylookout.com">[Navy Lookout]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navylookout.com</span><span class="citation-popover-title">contract to deliver first laser weapons for the royal navy agreed</span><span class="citation-popover-snippet">Navy LookoutContract to deliver first laser weapons for the Royal...20 Nov 2025 — DragonFire is scheduled to be installed on four RN Typ...</span></span></span>
+For DragonFire, integration is especially significant because the system must operate as part of a warship's wider combat architecture. The laser cannot function as an isolated device. It must exchange data with sensors, command systems, threat-evaluation software and operators while meeting naval safety and reliability requirements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navylookout.com/contract-to-deliver-first-laser-weapons-for-the-royal-navy-agreed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navylookout.com">[Navy Lookout]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navylookout.com</span><span class="citation-popover-title">contract to deliver first laser weapons for the royal navy agreed</span><span class="citation-popover-snippet">Navy LookoutContract to deliver first laser weapons for the Royal...20 Nov 2025 — DragonFire is scheduled to be installed on four RN Typ...</span></span></span>
 
-The challenge becomes even greater at sea. A ship moves continuously, experiences vibration and weather effects, and must maintain combat readiness while operating multiple weapon and sensor systems simultaneously. Ensuring that DragonFire performs reliably under those conditions requires years of engineering work, testing and validation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.techradar.com/tech/game-of-drones-dragonfire-laser-is-so-accurate-it-can-hit-a-coin-from-a-kilometer-away-and-even-400mph-drones-didnt-stand-a-chance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar+2Tom&#x27;s Hardware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-title">Tech Radar Game of drones</span><span class="citation-popover-snippet">Capable of hitting a coin-sized target from a kilometer away, DragonFire offers a cost-effective alternative to traditional missile defen...</span></span></span>
+The challenge becomes even greater at sea. A ship moves continuously, experiences vibration and weather effects, and must maintain combat readiness while operating multiple weapon and sensor systems simultaneously. Ensuring that DragonFire performs reliably under those conditions requires years of engineering work, testing and validation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.techradar.com/tech/game-of-drones-dragonfire-laser-is-so-accurate-it-can-hit-a-coin-from-a-kilometer-away-and-even-400mph-drones-didnt-stand-a-chance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar+2Tom&#x27;s Hardware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-title">Tech Radar Game of drones</span><span class="citation-popover-snippet">Capable of hitting a coin-sized target from a kilometer away, DragonFire offers a cost-effective alternative to traditional missile defen...</span></span></span>
 
 This is why procurement costs remain high even when firing costs are low. The Royal Navy is paying not for electricity, but for confidence that a laser weapon will find, track and destroy threats from a moving warship under operational conditions.
 
@@ -350,199 +350,199 @@ This is why procurement costs remain high even when firing costs are low. The Ro
 <img src="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_shot_cost_tra_0b40fd_dragonfire_pr_294a72-Illustration-3-dark.svg" | relative_url }}" alt="Programme Cost illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_shot_cost_tra_0b40fd_dragonfire_pr_294a72-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_shot_cost_tra_0b40fd_dragonfire_pr_294a72-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Real Economic Logic Behind the Programme
 
-The £316 million figure looks less surprising when viewed against the intended operational benefit. DragonFire is being developed as a [counter-drone]({{ 'missile-savings/' | relative_url }}) and close-in defence system capable of engaging threats that might otherwise require expensive missile interceptors. The economic argument is that substantial upfront investment may be justified if the weapon can repeatedly defeat large numbers of low-cost aerial threats using only electrical power. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/uk/uk-beefs-up-royal-navy-counter-drone-tech-with-413-mln-laser-contract-2025-11-20/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">This initiative is part of Britain&#x27;s efforts to enhance its naval defenses, particularly against drone threats. The DragonFire system is...</span></span></span>
+The £316 million figure looks less surprising when viewed against the intended operational benefit. DragonFire is being developed as a [counter-drone]({{ 'missile-savings/' | relative_url }}) and close-in defence system capable of engaging threats that might otherwise require expensive missile interceptors. The economic argument is that substantial upfront investment may be justified if the weapon can repeatedly defeat large numbers of low-cost aerial threats using only electrical power.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/uk/uk-beefs-up-royal-navy-counter-drone-tech-with-413-mln-laser-contract-2025-11-20/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">This initiative is part of Britain&#x27;s efforts to enhance its naval defenses, particularly against drone threats. The DragonFire system is...</span></span></span>
 
-In other words, the programme's value proposition is not that the weapon is cheap to buy. It is that, once the expensive integration work has been completed, the Royal Navy gains a reusable defensive system whose individual engagements cost a tiny fraction of conventional interceptors. The hundreds of millions are the price of reaching that point. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">boost for armed forces as new laser weapon takes down high speed drones</span><span class="citation-popover-snippet">Boost for Armed Forces as new laser weapon takes down...20 Nov 2025 — MBDA awarded £316 million contract to deliver new DragonFire syste...</span></span></span>
+In other words, the programme's value proposition is not that the weapon is cheap to buy. It is that, once the expensive integration work has been completed, the Royal Navy gains a reusable defensive system whose individual engagements cost a tiny fraction of conventional interceptors. The hundreds of millions are the price of reaching that point.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">boost for armed forces as new laser weapon takes down high speed drones</span><span class="citation-popover-snippet">Boost for Armed Forces as new laser weapon takes down...20 Nov 2025 — MBDA awarded £316 million contract to deliver new DragonFire syste...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Is a Cheap Laser So Expensive?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Is a Cheap Laser So Expensive?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Addresses how military capabilities are valued beyond simple weapon-unit costs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses how military capabilities are valued beyond simple weapon-unit costs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Relevant to understanding why advanced weapons require large programme budgets.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to understanding why advanced weapons require large programme budgets.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
-        </h4>
-        <p class="fr-book-author">By Paul Scharre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
+</h4>
+<p class="fr-book-author">By Paul Scharre</p>
         
-        <p class="fr-book-desc">Explains how advanced military systems derive value from integrated capabilities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how advanced military systems derive value from integrated capabilities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Demonstrates the hidden engineering and integration costs behind advanced defence programmes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates the hidden engineering and integration costs behind advanced defence programmes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment"><img src="{{ '/assets/images/marketplace-covers/0405b1cb09b5dd20d5de.jpg' | relative_url }}" alt="Listing image for Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment"><img src="{{ '/assets/images/marketplace-covers/0405b1cb09b5dd20d5de.jpg' | relative_url }}" alt="Listing image for Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin"><img src="{{ '/assets/images/marketplace-covers/7e59f5248ccdd6fc90fc.jpg' | relative_url }}" alt="Listing image for Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin"><img src="{{ '/assets/images/marketplace-covers/7e59f5248ccdd6fc90fc.jpg' | relative_url }}" alt="Listing image for Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Press Photograph Research Laboratory Equipment and Laser Technology"><img src="{{ '/assets/images/marketplace-covers/e237132357180c5d278f.jpg' | relative_url }}" alt="Listing image for Vintage Press Photograph Research Laboratory Equipment and Laser Technology" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Vintage Press Photograph Research Laboratory Equipment and Laser Technology</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Press Photograph Research Laboratory Equipment and Laser Technology"><img src="{{ '/assets/images/marketplace-covers/e237132357180c5d278f.jpg' | relative_url }}" alt="Listing image for Vintage Press Photograph Research Laboratory Equipment and Laser Technology" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Vintage Press Photograph Research Laboratory Equipment and Laser Technology</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment"><img src="{{ '/assets/images/marketplace-covers/7b762fb9a777d61458bf.jpg' | relative_url }}" alt="Listing image for Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment"><img src="{{ '/assets/images/marketplace-covers/7b762fb9a777d61458bf.jpg' | relative_url }}" alt="Listing image for Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="programme-cost-why-is-a-cheap-laser-so-expensive-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -558,7 +558,7 @@ In other words, the programme's value proposition is not that the weapon is chea
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -578,7 +578,7 @@ In other words, the programme's value proposition is not that the weapon is chea
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -610,7 +610,7 @@ In other words, the programme's value proposition is not that the weapon is chea
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -662,7 +662,7 @@ In other words, the programme's value proposition is not that the weapon is chea
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -707,7 +707,7 @@ In other words, the programme's value proposition is not that the weapon is chea
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -748,117 +748,117 @@ In other words, the programme's value proposition is not that the weapon is chea
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: boost for armed forces as new laser weapon takes down high speed drones  
-   Link: <a href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Boost for Armed Forces as new laser weapon takes down...20 Nov 2025 — MBDA awarded £316 million contract to deliver new DragonFire syste...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boost for Armed Forces as new laser weapon takes down...20 Nov 2025 — MBDA awarded £316 million contract to deliver new DragonFire syste...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/uk/uk-beefs-up-royal-navy-counter-drone-tech-with-413-mln-laser-contract-2025-11-20/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/uk/uk-beefs-up-royal-navy-counter-drone-tech-with-413-mln-laser-contract-2025-11-20/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This initiative is part of Britain&#x27;s efforts to enhance its naval defenses, particularly against drone threats. The DragonFire system is...</p></details>
+   Link:<a href="https://www.reuters.com/world/uk/uk-beefs-up-royal-navy-counter-drone-tech-with-413-mln-laser-contract-2025-11-20/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/uk/uk-beefs-up-royal-navy-counter-drone-tech-with-413-mln-laser-contract-2025-11-20/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This initiative is part of Britain&#x27;s efforts to enhance its naval defenses, particularly against drone threats. The DragonFire system is...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: mbda-systems.com  
    Title: uk defence minister visits mbda dragonfire laser weapon contract announcement  
-   Link: <a href="https://www.mbda-systems.com/uk-defence-minister-visits-mbda-dragonfire-laser-weapon-contract-announcement" target="_blank" rel="noopener noreferrer nofollow">https://www.mbda-systems.com/uk-defence-minister-visits-mbda-dragonfire-laser-weapon-contract-announcement</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>316 million contract to deliver new DRAGONFIRE laser weapon systems to the Royal Navy from 2027. Chris Allam, UK Managing Director at MBD...</p></details>
+   Link:<a href="https://www.mbda-systems.com/uk-defence-minister-visits-mbda-dragonfire-laser-weapon-contract-announcement" target="_blank" rel="noopener noreferrer nofollow">https://www.mbda-systems.com/uk-defence-minister-visits-mbda-dragonfire-laser-weapon-contract-announcement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>316 million contract to deliver new DRAGONFIRE laser weapon systems to the Royal Navy from 2027. Chris Allam, UK Managing Director at MBD...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: qinetiq.com  
-   Link: <a href="https://www.qinetiq.com/en/news/qinetiq-delivering-laser-weapons-to-royal-navy-[platforms" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/news/qinetiq-delivering-laser-weapons-to-royal-navy-[platforms</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Delivering laser weapons to Royal Navy platformsQinetiQ has been awarded a £67 million contract to ensure the delivery of the UK&#x27;s first...</p></details>
+   Link:<a href="https://www.qinetiq.com/en/news/qinetiq-delivering-laser-weapons-to-royal-navy-[platforms" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/news/qinetiq-delivering-laser-weapons-to-royal-navy-[platforms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Delivering laser weapons to Royal Navy platformsQinetiQ has been awarded a £67 million contract to ensure the delivery of the UK&#x27;s first...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: techradar.com  
    Title: Tech Radar Game of drones  
-   Link: <a href="https://www.techradar.com/tech/game-of-drones-dragonfire-laser-is-so-accurate-it-can-hit-a-coin-from-a-kilometer-away-and-even-400mph-drones-didnt-stand-a-chance" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/tech/game-of-drones-dragonfire-laser-is-so-accurate-it-can-hit-a-coin-from-a-kilometer-away-and-even-400mph-drones-didnt-stand-a-chance</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Capable of hitting a coin-sized target from a kilometer away, DragonFire offers a cost-effective alternative to traditional missile defen...</p></details>
+   Link:<a href="https://www.techradar.com/tech/game-of-drones-dragonfire-laser-is-so-accurate-it-can-hit-a-coin-from-a-kilometer-away-and-even-400mph-drones-didnt-stand-a-chance" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/tech/game-of-drones-dragonfire-laser-is-so-accurate-it-can-hit-a-coin-from-a-kilometer-away-and-even-400mph-drones-didnt-stand-a-chance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Capable of hitting a coin-sized target from a kilometer away, DragonFire offers a cost-effective alternative to traditional missile defen...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Dragon Fire (weapon)  
-   Link: <a href="https://en.wikipedia.org/wiki/DragonFire_%28weapon%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/DragonFire_%28weapon%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/DragonFire_%28weapon%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/DragonFire_%28weapon%29</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: navylookout.com  
    Title: contract to deliver first laser weapons for the royal navy agreed  
-   Link: <a href="https://www.navylookout.com/contract-to-deliver-first-laser-weapons-for-the-royal-navy-agreed/" target="_blank" rel="noopener noreferrer nofollow">https://www.navylookout.com/contract-to-deliver-first-laser-weapons-for-the-royal-navy-agreed/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy LookoutContract to deliver first laser weapons for the Royal...20 Nov 2025 — DragonFire is scheduled to be installed on four RN Typ...</p></details>
+   Link:<a href="https://www.navylookout.com/contract-to-deliver-first-laser-weapons-for-the-royal-navy-agreed/" target="_blank" rel="noopener noreferrer nofollow">https://www.navylookout.com/contract-to-deliver-first-laser-weapons-for-the-royal-navy-agreed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy LookoutContract to deliver first laser weapons for the Royal...20 Nov 2025 — DragonFire is scheduled to be installed on four RN Typ...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: des.mod.uk  
    Title: boost for armed forces as new laser weapon takes down high speed drones  
-   Link: <a href="https://des.mod.uk/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones/" target="_blank" rel="noopener noreferrer nofollow">https://des.mod.uk/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Defence Equipment &amp; SupportBoost for Armed Forces as new laser weapon takes down...20 Nov 2025 — Britain&#x27;s ground-breaking DragonFire la...</p></details>
+   Link:<a href="https://des.mod.uk/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones/" target="_blank" rel="noopener noreferrer nofollow">https://des.mod.uk/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defence Equipment &amp; SupportBoost for Armed Forces as new laser weapon takes down...20 Nov 2025 — Britain&#x27;s ground-breaking DragonFire la...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: tomshardware.com  
-   Link: <a href="https://www.tomshardware.com/tech-industry/uk-dragonfire-laser-downs-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/uk-dragonfire-laser-downs-high-speed-drones</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A $413 million (£316 million) contract has been awarded to MBDA UK to deploy DragonFire on the Royal Navy’s Type 45 destroyers starting i...</p></details>
+   Link:<a href="https://www.tomshardware.com/tech-industry/uk-dragonfire-laser-downs-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/uk-dragonfire-laser-downs-high-speed-drones</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A $413 million (£316 million) contract has been awarded to MBDA UK to deploy DragonFire on the Royal Navy’s Type 45 destroyers starting i...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: royalnavy.mod.uk  
    Title: 20251120 dragonfire trials  
-   Link: <a href="https://www.royalnavy.mod.uk/news/2025/november/20/20251120-dragonfire-trials" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/news/2025/november/20/20251120-dragonfire-trials</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mod.uk£316m deal for Royal Navy&#x27;s first laser weapon after...20 Nov 2025 — More than £300m is being invested in the Royal Navy&#x27;s first e...</p></details>
+   Link:<a href="https://www.royalnavy.mod.uk/news/2025/november/20/20251120-dragonfire-trials" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/news/2025/november/20/20251120-dragonfire-trials</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mod.uk£316m deal for Royal Navy&#x27;s first laser weapon after...20 Nov 2025 — More than £300m is being invested in the Royal Navy&#x27;s first e...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: tomshardware.com  
    Title: uk confirms dragonfire laser weapon for royal navy destroyers by 2027  
-   Link: <a href="https://www.tomshardware.com/tech-industry/uk-confirms-dragonfire-laser-weapon-for-royal-navy-destroyers-by-2027" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/uk-confirms-dragonfire-laser-weapon-for-royal-navy-destroyers-by-2027</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK confirms drone-killing DragonFire laser weapon for...5 Apr 2026 — The 50 kW laser costs about £10 per shot... Meanwhile, the £316 mi...</p></details>
+   Link:<a href="https://www.tomshardware.com/tech-industry/uk-confirms-dragonfire-laser-weapon-for-royal-navy-destroyers-by-2027" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/uk-confirms-dragonfire-laser-weapon-for-royal-navy-destroyers-by-2027</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK confirms drone-killing DragonFire laser weapon for...5 Apr 2026 — The 50 kW laser costs about £10 per shot... Meanwhile, the £316 mi...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/leoneluca_contract-to-deliver-first-laser-weapons-for-activity-7397604843282145280-mApa" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/leoneluca_contract-to-deliver-first-laser-weapons-for-activity-7397604843282145280-mApa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MBDA UK wins £316m contract for Royal Navy&#x27;s first laser...The MOD has awarded MBDA UK a £316 million contract to deliver DragonFire, th...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/leoneluca_contract-to-deliver-first-laser-weapons-for-activity-7397604843282145280-mApa" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/leoneluca_contract-to-deliver-first-laser-weapons-for-activity-7397604843282145280-mApa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MBDA UK wins £316m contract for Royal Navy&#x27;s first laser...The MOD has awarded MBDA UK a £316 million contract to deliver DragonFire, th...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/qinetiq_2_dragonfire-laserdirectedenergyweapon-ukmod-activity-7397282876435615744-0Crn" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/qinetiq_2_dragonfire-laserdirectedenergyweapon-ukmod-activity-7397282876435615744-0Crn</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MBDA wins £316m contract for laser weapon tech with UK...This is great news and we&#x27;re really pleased that the UK Ministry of Defence awa...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/qinetiq_2_dragonfire-laserdirectedenergyweapon-ukmod-activity-7397282876435615744-0Crn" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/qinetiq_2_dragonfire-laserdirectedenergyweapon-ukmod-activity-7397282876435615744-0Crn</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MBDA wins £316m contract for laser weapon tech with UK...This is great news and we&#x27;re really pleased that the UK Ministry of Defence awa...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ForcesTV/posts/royal-navy-to-be-given-the-power-of-dragonfire-defence-minister-luke-pollard-exp/882211504464865/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ForcesTV/posts/royal-navy-to-be-given-the-power-of-dragonfire-defence-minister-luke-pollard-exp/882211504464865/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Navy to be given the power of DragonFire...The UK has awarded a £316 million contract for the delivery of new DRAGONFIRE laser wea...</p></details>
+   Link:<a href="https://www.facebook.com/ForcesTV/posts/royal-navy-to-be-given-the-power-of-dragonfire-defence-minister-luke-pollard-exp/882211504464865/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ForcesTV/posts/royal-navy-to-be-given-the-power-of-dragonfire-defence-minister-luke-pollard-exp/882211504464865/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Navy to be given the power of DragonFire...The UK has awarded a £316 million contract for the delivery of new DRAGONFIRE laser wea...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ukdefencejournal/posts/-the-uks-dragonfire-laser-has-shot-down-high-speed-drones-in-new-trials-with-abo/1252761440230450/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ukdefencejournal/posts/-the-uks-dragonfire-laser-has-shot-down-high-speed-drones-in-new-trials-with-abo/1252761440230450/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK&#x27;s DragonFire laser has shot down highFollowing the successful tests, the UK government approved a £316 million contract to fast-tr...</p></details>
+   Link:<a href="https://www.facebook.com/ukdefencejournal/posts/-the-uks-dragonfire-laser-has-shot-down-high-speed-drones-in-new-trials-with-abo/1252761440230450/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ukdefencejournal/posts/-the-uks-dragonfire-laser-has-shot-down-high-speed-drones-in-new-trials-with-abo/1252761440230450/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UK&#x27;s DragonFire laser has shot down highFollowing the successful tests, the UK government approved a £316 million contract to fast-tr...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BBCBedsHertsBucks/posts/the-316m-investment-will-be-used-to-develop-the-dragonfire-laser-at-mbdas-uk-hea/1406135451519622/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCBedsHertsBucks/posts/the-316m-investment-will-be-used-to-develop-the-dragonfire-laser-at-mbdas-uk-hea/1406135451519622/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The £316m investment will be used to develop...The £316m investment will be used to develop the DragonFire laser at MBDA&#x27;s UK headquarte...</p></details>
+   Link:<a href="https://www.facebook.com/BBCBedsHertsBucks/posts/the-316m-investment-will-be-used-to-develop-the-dragonfire-laser-at-mbdas-uk-hea/1406135451519622/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCBedsHertsBucks/posts/the-316m-investment-will-be-used-to-develop-the-dragonfire-laser-at-mbdas-uk-hea/1406135451519622/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The £316m investment will be used to develop...The £316m investment will be used to develop the DragonFire laser at MBDA&#x27;s UK headquarte...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: businessinsider.com  
-   Link: <a href="https://www.businessinsider.com/uk-plans-laser-weapons-dragonfire-warships-defence-drones-royal-navy-2025-3" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/uk-plans-laser-weapons-dragonfire-warships-defence-drones-royal-navy-2025-3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ministry of Defence (MOD) aims to invest in advanced technologies to equip the armed forces for modern warfare. The DragonFire laser...</p></details>
+   Link:<a href="https://www.businessinsider.com/uk-plans-laser-weapons-dragonfire-warships-defence-drones-royal-navy" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/uk-plans-laser-weapons-dragonfire-warships-defence-drones-royal-navy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ministry of Defence (MOD) aims to invest in advanced technologies to equip the armed forces for modern warfare. The DragonFire laser...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thenatlinterest/posts/the-uk-is-investing-20-million-about-27-million-in-the-dragonfire-laser-learn-mo/1337961085026200/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thenatlinterest/posts/the-uk-is-investing-20-million-about-27-million-in-the-dragonfire-laser-learn-mo/1337961085026200/</a>  
+   Link:<a href="https://www.facebook.com/thenatlinterest/posts/the-uk-is-investing-20-million-about-27-million-in-the-dragonfire-laser-learn-mo/1337961085026200/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thenatlinterest/posts/the-uk-is-investing-20-million-about-27-million-in-the-dragonfire-laser-learn-mo/1337961085026200/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: axios.com  
-   Link: <a href="https://www.axios.com/2025/11/26/dragonfire-laser-weapon-drones-scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2025/11/26/dragonfire-laser-weapon-drones-scotland</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ministry of Defence has successfully tested a new high-powered military laser weapon known as DragonFire, designed to destroy drones with...</p></details>
+   Link:<a href="https://www.axios.com/2025/11/26/dragonfire-laser-weapon-drones-scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2025/11/26/dragonfire-laser-weapon-drones-scotland</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ministry of Defence has successfully tested a new high-powered military laser weapon known as DragonFire, designed to destroy drones with...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
    Title: uk beefs up royal navy counter drone tech with 413 million laser contractclick t  
-   Link: <a href="https://www.facebook.com/Reuters/posts/uk-beefs-up-royal-navy-counter-drone-tech-with-413-million-laser-contractclick-t/1395090899148305/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Reuters/posts/uk-beefs-up-royal-navy-counter-drone-tech-with-413-million-laser-contractclick-t/1395090899148305/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK beefs up Royal Navy counter- drone tech with $413...... DragonFire laser weapon will be deployed on Type 45 destroyers by 2027. And t...</p></details>
+   Link:<a href="https://www.facebook.com/Reuters/posts/uk-beefs-up-royal-navy-counter-drone-tech-with-413-million-laser-contractclick-t/1395090899148305/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Reuters/posts/uk-beefs-up-royal-navy-counter-drone-tech-with-413-million-laser-contractclick-t/1395090899148305/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK beefs up Royal Navy counter- drone tech with $413...... DragonFire laser weapon will be deployed on Type 45 destroyers by 2027. And t...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: navaltoday.com  
    Title: 316 million deal puts laser weapons on royal navys warships from 2027  
-   Link: <a href="https://www.navaltoday.com/2025/12/16/316-million-deal-puts-laser-weapons-on-royal-navys-warships-from-2027/" target="_blank" rel="noopener noreferrer nofollow">https://www.navaltoday.com/2025/12/16/316-million-deal-puts-laser-weapons-on-royal-navys-warships-from-2027/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>£316 million deal puts laser weapons on Royal Navy&#x27;s...16 Dec 2025 — Defense company MBDA has been awarded a £316 million contract to de...</p></details>
+   Link:<a href="https://www.navaltoday.com/2025/12/16/316-million-deal-puts-laser-weapons-on-royal-navys-warships-from-2027/" target="_blank" rel="noopener noreferrer nofollow">https://www.navaltoday.com/2025/12/16/316-million-deal-puts-laser-weapons-on-royal-navys-warships-from-2027/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>£316 million deal puts laser weapons on Royal Navy&#x27;s...16 Dec 2025 — Defense company MBDA has been awarded a £316 million contract to de...</p></details>

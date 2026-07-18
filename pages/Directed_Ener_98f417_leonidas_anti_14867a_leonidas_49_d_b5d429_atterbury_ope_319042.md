@@ -269,7 +269,7 @@ image: /assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_49_d_b5
 
 ## Introduction
 
-The Camp Atterbury demonstration showed something important: Leonidas could disable a large group of drones in a live-fire event, including a highly publicised engagement against a 49-drone swarm. That was a meaningful proof of capability for a high-power microwave (HPM) [counter-drone]({{ 'missile-savings/' | relative_url }}) system. However, military demonstrations rarely answer every operational question. The event established that Leonidas can generate a significant effect under the conditions tested, but it did not establish how reliably that effect would translate across the full range of [battlefield]({{ 'battle-limits/' | relative_url }}) environments, drone designs, weather conditions, and prolonged combat operations that real-world forces face. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-title">Tap to unmute.Read more</span><span class="citation-popover-snippet">EpirusEpirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone...10 Sept 2025 — Leonidas neutralized 61-of-61 drones, culminating in a 49...</span></span></span>
+The Camp Atterbury demonstration showed something important: Leonidas could disable a large group of drones in a live-fire event, including a highly publicised engagement against a 49-drone swarm. That was a meaningful proof of capability for a high-power microwave (HPM) [counter-drone]({{ 'missile-savings/' | relative_url }}) system. However, military demonstrations rarely answer every operational question. The event established that Leonidas can generate a significant effect under the conditions tested, but it did not establish how reliably that effect would translate across the full range of [battlefield]({{ 'battle-limits/' | relative_url }}) environments, drone designs, weather conditions, and prolonged combat operations that real-world forces face.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-title">Tap to unmute.Read more</span><span class="citation-popover-snippet">EpirusEpirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone...10 Sept 2025 — Leonidas neutralized 61-of-61 drones, culminating in a 49...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_49_d_b5d429_atterbury_ope_319042-Illustration-1-dark.svg" | relative_url }}" alt="Open Questions illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_49_d_b5d429_atterbury_ope_319042-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_49_d_b5d429_atterbury_ope_319042-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -279,7 +279,7 @@ Understanding those [limits]({{ 'limits/' | relative_url }}) is essential. The m
 
 One of the largest unanswered questions concerns the drones themselves.
 
-Epirus reported that the final swarm consisted of two representative drone types and that all 61 drones flown during the event were successfully defeated across five scenarios. That demonstrates effectiveness against those specific targets. It does not automatically demonstrate equivalent effectiveness against every drone architecture an adversary might field. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-title">Tap to unmute.Read more</span><span class="citation-popover-snippet">EpirusEpirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone...10 Sept 2025 — Leonidas neutralized 61-of-61 drones, culminating in a 49...</span></span></span>
+Epirus reported that the final swarm consisted of two representative drone types and that all 61 drones flown during the event were successfully defeated across five scenarios. That demonstrates effectiveness against those specific targets. It does not automatically demonstrate equivalent effectiveness against every drone architecture an adversary might field.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-title">Tap to unmute.Read more</span><span class="citation-popover-snippet">EpirusEpirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone...10 Sept 2025 — Leonidas neutralized 61-of-61 drones, culminating in a 49...</span></span></span>
 
 High-power microwave systems work by coupling electromagnetic energy into electronic components and disrupting or damaging them. The degree of vulnerability depends on numerous design factors, including:
 
@@ -295,7 +295,7 @@ High-power microwave systems work by coupling electromagnetic energy into electr
 
 </div>
 
-Different drones may therefore respond very differently to the same microwave pulse. A commercial-style quadcopter, a purpose-built military drone, and a specially hardened unmanned system may not exhibit the same susceptibility. Research on microwave effects against electronics consistently shows that outcomes depend heavily on how energy couples into specific electronic pathways rather than on a simple universal "on or off" vulnerability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2602.08477" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Multi-physics Simulation Framework for High-power Microwave Counter-unmanned Aerial System Design and Performance EvaluationFebrua...</span></span></span>
+Different drones may therefore respond very differently to the same microwave pulse. A commercial-style quadcopter, a purpose-built military drone, and a specially hardened unmanned system may not exhibit the same susceptibility. Research on microwave effects against electronics consistently shows that outcomes depend heavily on how energy couples into specific electronic pathways rather than on a simple universal "on or off" vulnerability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2602.08477" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Multi-physics Simulation Framework for High-power Microwave Counter-unmanned Aerial System Design and Performance EvaluationFebrua...</span></span></span>
 
 Camp Atterbury demonstrated effectiveness against the drones flown that day. It did not establish a universal kill probability against future or more heavily protected designs.
 
@@ -321,7 +321,7 @@ Several variables remain largely unanswered by the public evidence:
 
 </div>
 
-The Camp Atterbury event showed successful engagements in a controlled [test range]({{ 'test-range/' | relative_url }}) environment. It did not provide publicly available evidence about how the system behaves when terrain obstructs lines of engagement, when targets emerge from complex urban canyons, or when numerous friendly and hostile emitters compete for electromagnetic space. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/2025/08/28/epirus-indiana-drone-swarm-demo-leonidas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">The event highlighted a significant advancement in counter-drone technology amid growing global security concerns over drone swarms, whic...</span></span></span>
+The Camp Atterbury event showed successful engagements in a controlled [test range]({{ 'test-range/' | relative_url }}) environment. It did not provide publicly available evidence about how the system behaves when terrain obstructs lines of engagement, when targets emerge from complex urban canyons, or when numerous friendly and hostile emitters compete for electromagnetic space.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/2025/08/28/epirus-indiana-drone-swarm-demo-leonidas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">The event highlighted a significant advancement in counter-drone technology amid growing global security concerns over drone swarms, whic...</span></span></span>
 
 This distinction matters because modern conflicts increasingly occur in environments crowded with sensors, radios, networks and autonomous systems. A weapon that performs exceptionally on a test range may still face integration and effectiveness challenges in more complex operational settings.
 
@@ -331,7 +331,7 @@ This distinction matters because modern conflicts increasingly occur in environm
 
 The Camp Atterbury demonstration was also a snapshot in time rather than a test of sustained combat endurance.
 
-The event involved five scenarios and 61 drones in total, culminating in the 49-[drone swarm]({{ 'swarm-limits/' | relative_url }}) engagement. That is substantial for a demonstration, but it is not the same as weeks or months of operational deployment against a determined opponent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-title">Tap to unmute.Read more</span><span class="citation-popover-snippet">EpirusEpirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone...10 Sept 2025 — Leonidas neutralized 61-of-61 drones, culminating in a 49...</span></span></span>
+The event involved five scenarios and 61 drones in total, culminating in the 49-[drone swarm]({{ 'swarm-limits/' | relative_url }}) engagement. That is substantial for a demonstration, but it is not the same as weeks or months of operational deployment against a determined opponent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-title">Tap to unmute.Read more</span><span class="citation-popover-snippet">EpirusEpirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone...10 Sept 2025 — Leonidas neutralized 61-of-61 drones, culminating in a 49...</span></span></span>
 
 Several questions therefore remain unresolved:
 
@@ -345,7 +345,7 @@ A successful engagement against one swarm does not automatically demonstrate eff
 
 **What happens when adversaries adapt?**
 
-History suggests that every successful defensive technology eventually triggers countermeasures. Drone designers may experiment with improved shielding, altered electronics, distributed swarm behaviours, sacrificial decoys or tactics intended to complicate microwave engagements. The Camp Atterbury event could not demonstrate how Leonidas would perform against future adaptations that have not yet appeared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Epirus_Leonidas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Epirus Leonidas</span><span class="citation-popover-snippet">Epirus Leonidas</span></span></span>
+History suggests that every successful defensive technology eventually triggers countermeasures. Drone designers may experiment with improved shielding, altered electronics, distributed swarm behaviours, sacrificial decoys or tactics intended to complicate microwave engagements. The Camp Atterbury event could not demonstrate how Leonidas would perform against future adaptations that have not yet appeared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Epirus_Leonidas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Epirus Leonidas</span><span class="citation-popover-snippet">Epirus Leonidas</span></span></span>
 
 Military technology competitions are dynamic rather than static. Demonstrating success against today's threat does not automatically prove superiority against tomorrow's version of that threat.
 
@@ -356,7 +356,7 @@ Military technology competitions are dynamic rather than static. Demonstrating s
 
 A common misunderstanding is that a successful demonstration automatically validates battlefield performance.
 
-In reality, military acquisition programmes often progress through multiple stages precisely because demonstrations answer only part of the overall question. The U.S. Army's continued investment, prototype deployments and operational experimentation reflect the fact that decision-makers still need evidence from broader testing and real-world use. Public reporting indicates that Leonidas prototypes have been delivered for Army evaluation and that some systems have been deployed for operational assessment, suggesting that further validation remains necessary beyond demonstration events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Epirus_Leonidas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Epirus Leonidas</span><span class="citation-popover-snippet">Epirus Leonidas</span></span></span>
+In reality, military acquisition programmes often progress through multiple stages precisely because demonstrations answer only part of the overall question. The U.S. Army's continued investment, prototype deployments and operational experimentation reflect the fact that decision-makers still need evidence from broader testing and real-world use. Public reporting indicates that Leonidas prototypes have been delivered for Army evaluation and that some systems have been deployed for operational assessment, suggesting that further validation remains necessary beyond demonstration events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Epirus_Leonidas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Epirus Leonidas</span><span class="citation-popover-snippet">Epirus Leonidas</span></span></span>
 
 The Camp Atterbury results therefore did not prove:
 
@@ -381,201 +381,201 @@ The most accurate interpretation of Camp Atterbury is not that Leonidas was prov
 
 Instead, the demonstration established a credible and highly visible proof that a high-power microwave system can defeat a large drone swarm under operationally relevant test conditions. What remains unresolved is how broadly that success can be generalised.
 
-The event answered the question, “Can Leonidas disable dozens of drones at once?” with strong evidence that it can. It left unanswered the more difficult question that matters most to military planners: “How consistently can it do so across the unpredictable conditions of real warfare?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus+2Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-title">Tap to unmute.Read more</span><span class="citation-popover-snippet">EpirusEpirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone...10 Sept 2025 — Leonidas neutralized 61-of-61 drones, culminating in a 49...</span></span></span>
+The event answered the question, “Can Leonidas disable dozens of drones at once?” with strong evidence that it can. It left unanswered the more difficult question that matters most to military planners: “How consistently can it do so across the unpredictable conditions of real warfare?”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus+2Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-title">Tap to unmute.Read more</span><span class="citation-popover-snippet">EpirusEpirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone...10 Sept 2025 — Leonidas neutralized 61-of-61 drones, culminating in a 49...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZrkopSw5uas" title="Epirus’ Leonidas High-Power Microwave Defeats 49-Drone Swarm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZrkopSw5uas" target="_blank" rel="noopener noreferrer">Epirus’ Leonidas High-Power Microwave Defeats 49-Drone Swarm</a></p><p class="youtube-embed-meta">Channel: Epirus</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZrkopSw5uas" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZrkopSw5uas">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What the 49 Drone Test Still Left Unanswered. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What the 49 Drone Test Still Left Unanswered. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Discusses operational realities beyond demonstrations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses operational realities beyond demonstrations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
-        </h4>
-        <p class="fr-book-author">By Paul Scharre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
+</h4>
+<p class="fr-book-author">By Paul Scharre</p>
         
-        <p class="fr-book-desc">Explores limits and risks of emerging military systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores limits and risks of emerging military systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Wars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13717341-M.jpg" alt="Cover for Drone Wars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Wars">Drone Wars</a>
-        </h4>
-        <p class="fr-book-author">By Seth J. Frantzman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Wars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13717341-M.jpg" alt="Cover for Drone Wars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Wars">Drone Wars</a>
+</h4>
+<p class="fr-book-author">By Seth J. Frantzman</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Military art and science.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Military art and science.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
-        </h4>
-        <p class="fr-book-author">By Bahman Zohuri</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
+</h4>
+<p class="fr-book-author">By Bahman Zohuri</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Wars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Wars</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Wars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Wars</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drone Pilot Model Builder Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2710b7716c86724863e7.jpg' | relative_url }}" alt="Listing image for Drone Pilot Model Builder Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer">Drone Pilot Model Builder Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drone Pilot Model Builder Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2710b7716c86724863e7.jpg' | relative_url }}" alt="Listing image for Drone Pilot Model Builder Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer">Drone Pilot Model Builder Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for American Flag Drone Pilot Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b74d22984eb98ad9434f.jpg' | relative_url }}" alt="Listing image for American Flag Drone Pilot Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer">American Flag Drone Pilot Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for American Flag Drone Pilot Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b74d22984eb98ad9434f.jpg' | relative_url }}" alt="Listing image for American Flag Drone Pilot Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer">American Flag Drone Pilot Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Drone Pilot Vintage Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f1614915c1e1edb99e45.jpg' | relative_url }}" alt="Listing image for Retro Drone Pilot Vintage Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Drone Pilot Vintage Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Drone Pilot Vintage Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f1614915c1e1edb99e45.jpg' | relative_url }}" alt="Listing image for Retro Drone Pilot Vintage Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Drone Pilot Vintage Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Darwen Tower at Dawn erial Drone Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7c55c179c741733c41e5.jpg' | relative_url }}" alt="Listing image for Darwen Tower at Dawn erial Drone Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer">Darwen Tower at Dawn erial Drone Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Darwen Tower at Dawn erial Drone Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7c55c179c741733c41e5.jpg' | relative_url }}" alt="Listing image for Darwen Tower at Dawn erial Drone Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer">Darwen Tower at Dawn erial Drone Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="open-questions-f1b729-what-the-49-drone-test-still-left-unanswered-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -591,7 +591,7 @@ The event answered the question, “Can Leonidas disable dozens of drones at onc
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -611,7 +611,7 @@ The event answered the question, “Can Leonidas disable dozens of drones at onc
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -643,7 +643,7 @@ The event answered the question, “Can Leonidas disable dozens of drones at onc
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -695,7 +695,7 @@ The event answered the question, “Can Leonidas disable dozens of drones at onc
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -740,7 +740,7 @@ The event answered the question, “Can Leonidas disable dozens of drones at onc
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -781,142 +781,142 @@ The event answered the question, “Can Leonidas disable dozens of drones at onc
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: axios.com  
-   Link: <a href="https://www.axios.com/2025/08/28/epirus-indiana-drone-swarm-demo-leonidas" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2025/08/28/epirus-indiana-drone-swarm-demo-leonidas</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The event highlighted a significant advancement in counter-drone technology amid growing global security concerns over drone [swarms](&amp;#123;&amp;#123; &#x27;swarms/&#x27; | relative_url &amp;#125;&amp;#125;), whic...</p></details>
+   Link:<a href="https://www.axios.com/2025/08/28/epirus-indiana-drone-swarm-demo-leonidas" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2025/08/28/epirus-indiana-drone-swarm-demo-leonidas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The event highlighted a significant advancement in counter-drone technology amid growing global security concerns over drone [swarms](&amp;#123;&amp;#123; &#x27;swarms/&#x27; | relative_url &amp;#125;&amp;#125;), whic...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2602.08477" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.08477</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Multi-physics Simulation Framework for High-power Microwave Counter-unmanned Aerial System Design and Performance EvaluationFebrua...</p></details>
+   Link:<a href="https://arxiv.org/abs/2602.08477" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.08477</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Multi-physics Simulation Framework for High-power Microwave Counter-unmanned Aerial System Design and Performance EvaluationFebrua...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Epirus Leonidas  
-   Link: <a href="https://en.wikipedia.org/wiki/Epirus_Leonidas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Epirus_Leonidas</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Epirus_Leonidas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Epirus_Leonidas</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: The Microwave Cannons Built to Stop Drone Swarms  
-   Link: <a href="https://www.youtube.com/watch?v=S5GLxs7U5lk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S5GLxs7U5lk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus&#x27; Leonidas High-Power Microwave Neutralizes 61-of-61 Drones Across 5 Flight Scenarios...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=S5GLxs7U5lk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S5GLxs7U5lk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus&#x27; Leonidas High-Power Microwave Neutralizes 61-of-61 Drones Across 5 Flight Scenarios...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=na0pGfopahM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=na0pGfopahM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Swarms Are Here. This Technology Could Stop Them...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=na0pGfopahM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=na0pGfopahM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Swarms Are Here. This Technology Could Stop Them...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: epirusinc.com  
    Title: Tap to unmute.Read more  
-   Link: <a href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EpirusEpirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone...10 Sept 2025 — Leonidas neutralized 61-of-61 drones, culminating in a 49...</p></details>
+   Link:<a href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EpirusEpirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone...10 Sept 2025 — Leonidas neutralized 61-of-61 drones, culminating in a 49...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/militarymechanicsie/posts/epirus-leonidas-agv-combines-autonomous-mobility-with-microwave-counter-drone-te/122293849676191911/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/militarymechanicsie/posts/epirus-leonidas-agv-combines-autonomous-mobility-with-microwave-counter-drone-te/122293849676191911/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>em, successfully disabling a swarm of 49 quadcopters in seconds.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/militarymechanicsie/posts/epirus-leonidas-agv-combines-autonomous-mobility-with-microwave-counter-drone-te/122293849676191911/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/militarymechanicsie/posts/epirus-leonidas-agv-combines-autonomous-mobility-with-microwave-counter-drone-te/122293849676191911/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>em, successfully disabling a swarm of 49 quadcopters in seconds.Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: unmannedairspace.info  
    Title: epirus leonidas defeats 49 drone swarm with one electromagnetic burst  
-   Link: <a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/epirus-leonidas-defeats-49-drone-swarm-with-one-electromagnetic-burst/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/epirus-leonidas-defeats-49-drone-swarm-with-one-electromagnetic-burst/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus&#x27; Leonidas defeats 49-drone swarm with one...2 Sept 2025 — Epirus has successfully demonstrated its Leonidas counter-drone system...</p></details>
+   Link:<a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/epirus-leonidas-defeats-49-drone-swarm-with-one-electromagnetic-burst/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/epirus-leonidas-defeats-49-drone-swarm-with-one-electromagnetic-burst/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus&#x27; Leonidas defeats 49-drone swarm with one...2 Sept 2025 — Epirus has successfully demonstrated its Leonidas counter-drone system...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ZrkopSw5uas" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZrkopSw5uas</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>100% successful against drones flown...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZrkopSw5uas" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZrkopSw5uas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>100% successful against drones flown...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=f-_GR0be6FE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=f-_GR0be6FE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In Indiana Axios. 254 views · 4 months ago...more...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=f-_GR0be6FE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=f-_GR0be6FE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In Indiana Axios. 254 views · 4 months ago...more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: inss.org.il  
    Title: innovative systems for neutralizing drone and uav swarms  
-   Link: <a href="https://www.inss.org.il/social_media/innovative-systems-for-neutralizing-drone-and-uav-swarms/" target="_blank" rel="noopener noreferrer nofollow">https://www.inss.org.il/social_media/innovative-systems-for-neutralizing-drone-and-uav-swarms/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus released new documentation showing that its Leonidas system successfully intercepted a swarm of 49 drones simultaneously. The...R...</p></details>
+   Link:<a href="https://www.inss.org.il/social_media/innovative-systems-for-neutralizing-drone-and-uav-swarms/" target="_blank" rel="noopener noreferrer nofollow">https://www.inss.org.il/social_media/innovative-systems-for-neutralizing-drone-and-uav-swarms/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus released new documentation showing that its Leonidas system successfully intercepted a swarm of 49 drones simultaneously. The...R...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/epirus_epirus-leonidas-high-power-microwave-defeats-activity-7371575751776608256-i0zZ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/epirus_epirus-leonidas-high-power-microwave-defeats-activity-7371575751776608256-i0zZ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tic interference. “We believe showcasing our weaponized...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/epirus_epirus-leonidas-high-power-microwave-defeats-activity-7371575751776608256-i0zZ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/epirus_epirus-leonidas-high-power-microwave-defeats-activity-7371575751776608256-i0zZ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tic interference. “We believe showcasing our weaponized...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: wordpress-1555235-6025816.cloudwaysapps.com  
    Title: epirus leonidas system downs 49 drones in swarm test  
-   Link: <a href="https://wordpress-1555235-6025816.cloudwaysapps.com/content/epirus-leonidas-system-downs-49-drones-in-swarm-test/" target="_blank" rel="noopener noreferrer nofollow">https://wordpress-1555235-6025816.cloudwaysapps.com/content/epirus-leonidas-system-downs-49-drones-in-swarm-test/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Leonidas system downs 49 drones in swarm testThe system uses directed energy in the form of high-power [microwaves](&amp;#123;&amp;#123; &#x27;microwaves/&#x27; | relative_url &amp;#125;&amp;#125;) to disable or damage on...</p></details>
+   Link:<a href="https://wordpress-1555235-6025816.cloudwaysapps.com/content/epirus-leonidas-system-downs-49-drones-in-swarm-test/" target="_blank" rel="noopener noreferrer nofollow">https://wordpress-1555235-6025816.cloudwaysapps.com/content/epirus-leonidas-system-downs-49-drones-in-swarm-test/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leonidas system downs 49 drones in swarm testThe system uses directed energy in the form of high-power [microwaves](&amp;#123;&amp;#123; &#x27;microwaves/&#x27; | relative_url &amp;#125;&amp;#125;) to disable or damage on...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: defenceredefined.com.cy  
    Title: epirus leonidas defeats 49 drone swarm with one electromagnetic burst  
-   Link: <a href="https://defenceredefined.com.cy/epirus-leonidas-defeats-49-drone-swarm-with-one-electromagnetic-burst/" target="_blank" rel="noopener noreferrer nofollow">https://defenceredefined.com.cy/epirus-leonidas-defeats-49-drone-swarm-with-one-electromagnetic-burst/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus | Leonidas Defeats 49-Drone Swarm with One...Sep 14, 2025 — Epirus has successfully demonstrated its Leonidas counter-drone syste...</p></details>
+   Link:<a href="https://defenceredefined.com.cy/epirus-leonidas-defeats-49-drone-swarm-with-one-electromagnetic-burst/" target="_blank" rel="noopener noreferrer nofollow">https://defenceredefined.com.cy/epirus-leonidas-defeats-49-drone-swarm-with-one-electromagnetic-burst/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus | Leonidas Defeats 49-Drone Swarm with One...Sep 14, 2025 — Epirus has successfully demonstrated its Leonidas counter-drone syste...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: norskluftvern.com  
    Title: epirus leonidas counter drone system us  
-   Link: <a href="https://norskluftvern.com/2025/03/31/epirus-leonidas-counter-drone-system-us/" target="_blank" rel="noopener noreferrer nofollow">https://norskluftvern.com/2025/03/31/epirus-leonidas-counter-drone-system-us/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus Leonidas Counter-Drone System (US)31 Mar 2025 — Neutralization Method: High-power microwave (HPM) pulses disrupt drone electronics...</p></details>
+   Link:<a href="https://norskluftvern.com/2025/03/31/epirus-leonidas-counter-drone-system-us/" target="_blank" rel="noopener noreferrer nofollow">https://norskluftvern.com/2025/03/31/epirus-leonidas-counter-drone-system-us/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus Leonidas Counter-Drone System (US)31 Mar 2025 — Neutralization Method: High-power microwave (HPM) pulses disrupt drone electronics...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: on august 26 2025 at camp atterbury in indiana us defense contractor epirus test  
-   Link: <a href="https://www.facebook.com/techtimespage/posts/on-august-26-2025-at-camp-atterbury-in-indiana-us-defense-contractor-epirus-test/787324270769980/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/techtimespage/posts/on-august-26-2025-at-camp-atterbury-in-indiana-us-defense-contractor-epirus-test/787324270769980/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The US military successfully tested Leonidas, a high- power microwave weapon capable of neutralizing drones in seconds. In one trial, the...</p></details>
+   Link:<a href="https://www.facebook.com/techtimespage/posts/on-august-26-2025-at-camp-atterbury-in-indiana-us-defense-contractor-epirus-test/787324270769980/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/techtimespage/posts/on-august-26-2025-at-camp-atterbury-in-indiana-us-defense-contractor-epirus-test/787324270769980/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The US military successfully tested Leonidas, a high- power microwave weapon capable of neutralizing drones in seconds. In one trial, the...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: twz.com  
    Title: army puts 50m bet on next gen leonidas high power microwave counter drone tech  
-   Link: <a href="https://www.twz.com/land/army-puts-50m-bet-on-next-gen-leonidas-high-power-microwave-counter-drone-tech" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/land/army-puts-50m-bet-on-next-gen-leonidas-high-power-microwave-counter-drone-tech</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneArmy Puts $43M Bet On Next Gen Leonidas High Power...17 Jul 2025 — Epirus&#x27; CEO says successful tests of the company&#x27;s Gen II...</p></details>
+   Link:<a href="https://www.twz.com/land/army-puts-50m-bet-on-next-gen-leonidas-high-power-microwave-counter-drone-tech" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/land/army-puts-50m-bet-on-next-gen-leonidas-high-power-microwave-counter-drone-tech</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneArmy Puts $43M Bet On Next Gen Leonidas High Power...17 Jul 2025 — Epirus&#x27; CEO says successful tests of the company&#x27;s Gen II...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: newsflare.com  
    Title: The Epirus Leonidas works by firing its high-power microwave weapon to disable  
-   Link: <a href="https://www.newsflare.com/video/792400/jaw-dropping-new-weapon-knocks-dozens-of-attacking-drones-out-of-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.newsflare.com/video/792400/jaw-dropping-new-weapon-knocks-dozens-of-attacking-drones-out-of-sky</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jaw-dropping new weapon knocks dozens of attacking drones...In one dramatic test, they demonstrated defeating 49 drones at the same time...</p></details>
+   Link:<a href="https://www.newsflare.com/video/792400/jaw-dropping-new-weapon-knocks-dozens-of-attacking-drones-out-of-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.newsflare.com/video/792400/jaw-dropping-new-weapon-knocks-dozens-of-attacking-drones-out-of-sky</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jaw-dropping new weapon knocks dozens of attacking drones...In one dramatic test, they demonstrated defeating 49 drones at the same time...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: evrimagaci.org  
    Title: leonidas microwave weapon downs drone swarm in indiana 495469  
-   Link: <a href="https://evrimagaci.org/gpt/leonidas-microwave-weapon-downs-drone-swarm-in-indiana-495469?srsltid=AfmBOopOxs7I_g5PMJpwTmGsYec8PWe91X6H-9YqJ7dT6yCDWjPHt75y" target="_blank" rel="noopener noreferrer nofollow">https://evrimagaci.org/gpt/leonidas-microwave-weapon-downs-drone-swarm-in-indiana-495469?srsltid=AfmBOopOxs7I_g5PMJpwTmGsYec8PWe91X6H-9YqJ7dT6yCDWjPHt75y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Leonidas Microwave Weapon Downs Drone Swarm In...29 Aug 2025 — Demonstrate Leonidas, Epirus&#x27;s high-powered microwave weapon, successfull...</p></details>
+   Link:<a href="https://evrimagaci.org/gpt/leonidas-microwave-weapon-downs-drone-swarm-in-indiana-495469?srsltid=AfmBOopOxs7I_g5PMJpwTmGsYec8PWe91X6H-9YqJ7dT6yCDWjPHt75y" target="_blank" rel="noopener noreferrer nofollow">https://evrimagaci.org/gpt/leonidas-microwave-weapon-downs-drone-swarm-in-indiana-495469?srsltid=AfmBOopOxs7I_g5PMJpwTmGsYec8PWe91X6H-9YqJ7dT6yCDWjPHt75y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leonidas Microwave Weapon Downs Drone Swarm In...29 Aug 2025 — Demonstrate Leonidas, Epirus&#x27;s high-powered microwave weapon, successfull...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: evrimagaci.org  
    Title: leonidas microwave weapon downs drone swarm in indiana 495469  
-   Link: <a href="https://evrimagaci.org/gpt/leonidas-microwave-weapon-downs-drone-swarm-in-indiana-495469?srsltid=AfmBOopo9CRJnaR1vSy2w5Z5KsOh3-00DWRbsE5cBZghkXbSrYKHUvjv" target="_blank" rel="noopener noreferrer nofollow">https://evrimagaci.org/gpt/leonidas-microwave-weapon-downs-drone-swarm-in-indiana-495469?srsltid=AfmBOopo9CRJnaR1vSy2w5Z5KsOh3-00DWRbsE5cBZghkXbSrYKHUvjv</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Leonidas Microwave Weapon Downs Drone Swarm In...29 Aug 2025 — Demonstrate Leonidas, Epirus&#x27;s high-powered microwave weapon, successfull...</p></details>
+   Link:<a href="https://evrimagaci.org/gpt/leonidas-microwave-weapon-downs-drone-swarm-in-indiana-495469?srsltid=AfmBOopo9CRJnaR1vSy2w5Z5KsOh3-00DWRbsE5cBZghkXbSrYKHUvjv" target="_blank" rel="noopener noreferrer nofollow">https://evrimagaci.org/gpt/leonidas-microwave-weapon-downs-drone-swarm-in-indiana-495469?srsltid=AfmBOopo9CRJnaR1vSy2w5Z5KsOh3-00DWRbsE5cBZghkXbSrYKHUvjv</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leonidas Microwave Weapon Downs Drone Swarm In...29 Aug 2025 — Demonstrate Leonidas, Epirus&#x27;s high-powered microwave weapon, successfull...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: tomshardware.com  
    Title: The demonstration attracted representatives from the U.S  
-   Link: <a href="https://www.tomshardware.com/tech-industry/high-power-microwave-system-downs-49-drones-in-[one-shot" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/high-power-microwave-system-downs-49-drones-in-[one-shot</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense, other government agencies, and nine allied nations. It showcased strategic features such as multi-angle engagement...</p></details>
+   Link:<a href="https://www.tomshardware.com/tech-industry/high-power-microwave-system-downs-49-drones-in-[one-shot" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/high-power-microwave-system-downs-49-drones-in-[one-shot</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense, other government agencies, and nine allied nations. It showcased strategic features such as multi-angle engagement...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/techtimespage/posts/the-us-military-has-announced-the-successful-test-of-the-leonidas-high-power-mic/916037894565283/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/techtimespage/posts/the-us-military-has-announced-the-successful-test-of-the-leonidas-high-power-mic/916037894565283/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rowave (HPM) system, which disabled a record-breaking 49...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/techtimespage/posts/the-us-military-has-announced-the-successful-test-of-the-leonidas-high-power-mic/916037894565283/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/techtimespage/posts/the-us-military-has-announced-the-successful-test-of-the-leonidas-high-power-mic/916037894565283/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rowave (HPM) system, which disabled a record-breaking 49...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/avweek/posts/singapores-defense-science-and-technology-agency-and-us-based-epirus-have-signed/1343371494500750/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/avweek/posts/singapores-defense-science-and-technology-agency-and-us-based-epirus-have-signed/1343371494500750/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>uccessfully disabling a swarm of 49 quadcopters in seconds.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/avweek/posts/singapores-defense-science-and-technology-agency-and-us-based-epirus-have-signed/1343371494500750/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/avweek/posts/singapores-defense-science-and-technology-agency-and-us-based-epirus-have-signed/1343371494500750/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>uccessfully disabling a swarm of 49 quadcopters in seconds.Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWjefMaoiz8/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWjefMaoiz8/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>er communication stability compared to traditional RF-based drones...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DWjefMaoiz8/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWjefMaoiz8/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>er communication stability compared to traditional RF-based drones...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/unboxfactory/posts/the-us-military-has-successfully-tested-a-next-generation-high-power-microwave-h/944338644583853/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unboxfactory/posts/the-us-military-has-successfully-tested-a-next-generation-high-power-microwave-h/944338644583853/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rowave (HPM) weapon capable of disabling dozens of drones at once...</p></details>
+   Link:<a href="https://www.facebook.com/unboxfactory/posts/the-us-military-has-successfully-tested-a-next-generation-high-power-microwave-h/944338644583853/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unboxfactory/posts/the-us-military-has-successfully-tested-a-next-generation-high-power-microwave-h/944338644583853/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rowave (HPM) weapon capable of disabling dozens of drones at once...</p></details>

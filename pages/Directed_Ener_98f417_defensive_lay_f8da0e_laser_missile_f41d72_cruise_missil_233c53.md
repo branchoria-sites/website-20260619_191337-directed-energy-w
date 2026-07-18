@@ -269,17 +269,17 @@ image: /assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_laser_missile_f4
 
 ## Introduction
 
-Cruise missiles are one of the clearest examples of when air defenders often choose an expensive interceptor missile over a much cheaper laser shot. The reason is not that [lasers]({{ 'lasers/' | relative_url }}) are useless. Rather, cruise missiles combine speed, low-altitude flight, manoeuvrability and potentially severe consequences if even a single weapon gets through. In those circumstances, commanders usually value early engagement, long defensive reach and multiple opportunities to kill the target more than the low cost of a laser engagement. Modern directed-energy programmes are therefore increasingly designed to complement missile defences rather than replace them, especially against the most dangerous airborne threats. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-105868" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 105868</span><span class="citation-popover-snippet">Directed Energy Weapons: DOD Should Focus on...Apr 17, 2023 — The Department of Defense (DOD) is currently developing directed energy...</span></span></span>
+Cruise missiles are one of the clearest examples of when air defenders often choose an expensive interceptor missile over a much cheaper laser shot. The reason is not that [lasers]({{ 'lasers/' | relative_url }}) are useless. Rather, cruise missiles combine speed, low-altitude flight, manoeuvrability and potentially severe consequences if even a single weapon gets through. In those circumstances, commanders usually value early engagement, long defensive reach and multiple opportunities to kill the target more than the low cost of a laser engagement. Modern directed-energy programmes are therefore increasingly designed to complement missile defences rather than replace them, especially against the most dangerous airborne threats.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-105868" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 105868</span><span class="citation-popover-snippet">Directed Energy Weapons: DOD Should Focus on...Apr 17, 2023 — The Department of Defense (DOD) is currently developing directed energy...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_laser_missile_f41d72_cruise_missil_233c53-Illustration-1-dark.svg" | relative_url }}" alt="Cruise Missiles illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_laser_missile_f41d72_cruise_missil_233c53-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_laser_missile_f41d72_cruise_missil_233c53-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Speed and Consequence Change the Engagement Choice
 
-Cruise missiles create a uniquely demanding defensive problem. Unlike ballistic missiles, they remain within the [atmosphere]({{ 'atmosphere/' | relative_url }}) and often fly at very low altitude, using terrain and the curvature of the Earth to reduce detection range. Their flight profiles are specifically intended to compress a defender’s reaction time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://armscontrolcenter.org/wp-content/uploads/2017/04/Ballistic-vs.-Cruise-Missiles-Fact-Sheet.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armscontrolcenter.org">[Arms Control Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armscontrolcenter.org</span><span class="citation-popover-title">Arms Control Center Fact Sheet: Ballistic vs</span><span class="citation-popover-snippet">Cruise MissilesApril 27, 2017 — Flying low to the surface of the earth expends more fuel but makes a cruise missile very difficult to det...</span><span class="citation-popover-meta">Published: April 27, 2017</span></span></span>
+Cruise missiles create a uniquely demanding defensive problem. Unlike ballistic missiles, they remain within the [atmosphere]({{ 'atmosphere/' | relative_url }}) and often fly at very low altitude, using terrain and the curvature of the Earth to reduce detection range. Their flight profiles are specifically intended to compress a defender’s reaction time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://armscontrolcenter.org/wp-content/uploads/2017/04/Ballistic-vs.-Cruise-Missiles-Fact-Sheet.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armscontrolcenter.org">[Arms Control Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armscontrolcenter.org</span><span class="citation-popover-title">Arms Control Center Fact Sheet: Ballistic vs</span><span class="citation-popover-snippet">Cruise MissilesApril 27, 2017 — Flying low to the surface of the earth expends more fuel but makes a cruise missile very difficult to det...</span><span class="citation-popover-meta">Published: April 27, 2017</span></span></span>
 
-When a target may be carrying a large conventional warhead, threatening a naval vessel, or attacking a critical military installation, the cost of failure dominates the cost of the shot. A laser engagement that works most of the time may still be less attractive than a missile interceptor that can engage earlier and from greater distance. Air-defence commanders are not optimising for the cheapest engagement; they are optimising for the highest probability of preventing damage. This logic underpins many integrated air and missile defence concepts used by NATO and other advanced militaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2025/02/13/nato-integrated-air-and-missile-defence-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nato.int">[NATO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nato.int</span><span class="citation-popover-title">integrated air and missile defence policy</span><span class="citation-popover-snippet">NATO Integrated Air and Missile Defence Policy13 Feb 2025 — NATO IAMD aims to ensure that conditions are met for rapid detection, dec...</span></span></span>
+When a target may be carrying a large conventional warhead, threatening a naval vessel, or attacking a critical military installation, the cost of failure dominates the cost of the shot. A laser engagement that works most of the time may still be less attractive than a missile interceptor that can engage earlier and from greater distance. Air-defence commanders are not optimising for the cheapest engagement; they are optimising for the highest probability of preventing damage. This logic underpins many integrated air and missile defence concepts used by NATO and other advanced militaries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2025/02/13/nato-integrated-air-and-missile-defence-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nato.int">[NATO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nato.int</span><span class="citation-popover-title">integrated air and missile defence policy</span><span class="citation-popover-snippet">NATO Integrated Air and Missile Defence Policy13 Feb 2025 — NATO IAMD aims to ensure that conditions are met for rapid detection, dec...</span></span></span>
 
-The challenge is compounded by the way lasers achieve their effect. A high-energy laser generally must maintain sufficient energy on a vulnerable part of the target for a measurable period. Against a fast-moving cruise missile, any interruption caused by manoeuvring, atmospheric distortion, obscurants or tracking difficulties can reduce effectiveness. Missile interceptors, by contrast, carry their destructive mechanism to the target and are designed specifically to achieve a kill under [high-speed]({{ '650-km-h/' | relative_url }}) engagement conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2053280/directed-energy-weapons-are-real-and-disruptive/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndupress.ndu.edu">[NDU Press+2National Defense Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndupress.ndu.edu</span><span class="citation-popover-title">Press Directed Energy Weapons Are Real</span><span class="citation-popover-snippet">And Disruptive9 Jan 2020 — In this case, the laser weapon system would sense the atmospheric conditions to the target, then using fast st...</span></span></span>
+The challenge is compounded by the way lasers achieve their effect. A high-energy laser generally must maintain sufficient energy on a vulnerable part of the target for a measurable period. Against a fast-moving cruise missile, any interruption caused by manoeuvring, atmospheric distortion, obscurants or tracking difficulties can reduce effectiveness. Missile interceptors, by contrast, carry their destructive mechanism to the target and are designed specifically to achieve a kill under [high-speed]({{ '650-km-h/' | relative_url }}) engagement conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2053280/directed-energy-weapons-are-real-and-disruptive/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndupress.ndu.edu">[NDU Press+2National Defense Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndupress.ndu.edu</span><span class="citation-popover-title">Press Directed Energy Weapons Are Real</span><span class="citation-popover-snippet">And Disruptive9 Jan 2020 — In this case, the laser weapon system would sense the atmospheric conditions to the target, then using fast st...</span></span></span>
 
 ## How Longer-Range Intercepts Create Backup Opportunities
 
@@ -297,9 +297,9 @@ A long-range interceptor can engage a cruise missile far from the defended asset
 
 </div>
 
-This concept is fundamental to layered air defence. Rather than relying on a single defensive action near the target, defenders attempt to create multiple engagement windows. If an outer-layer interceptor misses, another layer may still have time to act. NATO doctrine and numerous missile-defence studies emphasise rapid detection, tracking and engagement across multiple defensive layers for precisely this reason. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2025/02/13/nato-integrated-air-and-missile-defence-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nato.int">[NATO+2HCSS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nato.int</span><span class="citation-popover-title">integrated air and missile defence policy</span><span class="citation-popover-snippet">NATO Integrated Air and Missile Defence Policy13 Feb 2025 — NATO IAMD aims to ensure that conditions are met for rapid detection, dec...</span></span></span>
+This concept is fundamental to layered air defence. Rather than relying on a single defensive action near the target, defenders attempt to create multiple engagement windows. If an outer-layer interceptor misses, another layer may still have time to act. NATO doctrine and numerous missile-defence studies emphasise rapid detection, tracking and engagement across multiple defensive layers for precisely this reason.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2025/02/13/nato-integrated-air-and-missile-defence-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nato.int">[NATO+2HCSS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nato.int</span><span class="citation-popover-title">integrated air and missile defence policy</span><span class="citation-popover-snippet">NATO Integrated Air and Missile Defence Policy13 Feb 2025 — NATO IAMD aims to ensure that conditions are met for rapid detection, dec...</span></span></span>
 
-Lasers generally struggle to provide the same depth of engagement space. Even where a laser can technically damage a cruise missile, it often does so at shorter effective ranges than dedicated interceptor missiles. A shorter engagement range means less time to assess the outcome and less room for a second attempt. Against a high-consequence target, losing that margin can be unacceptable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationaldefensemagazine.org/articles/2025/8/11/government-perspective-directed-energy-in-air-base-defense-can-save-the-arsenal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationaldefensemagazine.org">[National Defense Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationaldefensemagazine.org</span><span class="citation-popover-title">government perspective directed energy in air base defense can save the arsenal</span><span class="citation-popover-snippet">High-power electromagnetic weapons require line-of-sight and are sensitive to...Read more...</span></span></span>
+Lasers generally struggle to provide the same depth of engagement space. Even where a laser can technically damage a cruise missile, it often does so at shorter effective ranges than dedicated interceptor missiles. A shorter engagement range means less time to assess the outcome and less room for a second attempt. Against a high-consequence target, losing that margin can be unacceptable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationaldefensemagazine.org/articles/2025/8/11/government-perspective-directed-energy-in-air-base-defense-can-save-the-arsenal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationaldefensemagazine.org">[National Defense Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationaldefensemagazine.org</span><span class="citation-popover-title">government perspective directed energy in air base defense can save the arsenal</span><span class="citation-popover-snippet">High-power electromagnetic weapons require line-of-sight and are sensitive to...Read more...</span></span></span>
 
 This is why many air-defence planners view range as a form of insurance. The farther from the defended asset a threat can be engaged, the more opportunities exist to recover from errors, equipment failures or unexpected target behaviour. Cruise missiles leave little room for such mistakes once they are close.
 
@@ -312,7 +312,7 @@ The debate is often framed as lasers versus missiles, but operationally it is mo
 
 A missile interceptor launched tens of kilometres away can provide an initial engagement opportunity. If sensors indicate the target survived, additional interceptors or inner defensive layers may still be available. This sequence effectively spreads risk across time and distance.
 
-A close-range laser engagement compresses those opportunities. If atmospheric conditions degrade [beam quality]({{ 'beam-quality/' | relative_url }}), if tracking is interrupted, or if damage occurs too late in the target’s approach, the defender may have little opportunity to recover. Government and defence assessments repeatedly identify atmospheric effects, [line-of-sight]({{ 'dwell-time/' | relative_url }}) constraints, beam control and power management as continuing operational challenges for directed-energy systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-105868" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[Science.gc.ca+3GAO+3GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 105868</span><span class="citation-popover-snippet">Directed Energy Weapons: DOD Should Focus on...Apr 17, 2023 — The Department of Defense (DOD) is currently developing directed energy...</span></span></span>
+A close-range laser engagement compresses those opportunities. If atmospheric conditions degrade [beam quality]({{ 'beam-quality/' | relative_url }}), if tracking is interrupted, or if damage occurs too late in the target’s approach, the defender may have little opportunity to recover. Government and defence assessments repeatedly identify atmospheric effects, [line-of-sight]({{ 'dwell-time/' | relative_url }}) constraints, beam control and power management as continuing operational challenges for directed-energy systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-105868" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[Science.gc.ca+3GAO+3GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 105868</span><span class="citation-popover-snippet">Directed Energy Weapons: DOD Should Focus on...Apr 17, 2023 — The Department of Defense (DOD) is currently developing directed energy...</span></span></span>
 
 For inexpensive drones, that risk may be acceptable. For a cruise missile aimed at a warship, command centre or air base, the tolerance for uncertainty is much lower.
 
@@ -322,11 +322,11 @@ For inexpensive drones, that risk may be acceptable. For a cruise missile aimed 
 
 The behaviour of defence organisations provides an important clue about how the problem is viewed in practice.
 
-Even as militaries invest heavily in directed-energy weapons, they continue funding extended-range missile interceptors and layered missile-defence architectures. Studies from the Centre for Strategic and Budgetary Assessments (CSBA) highlight the continued importance of kinetic interceptors against advanced missile threats while simultaneously advocating development of lasers and other directed-energy systems as additional layers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://csbaonline.org/uploads/documents/Crossroads_-_rollout_brief%2C_14Nov.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csbaonline.org">[CSBA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csbaonline.org</span><span class="citation-popover-snippet">CSBAAir and Missile Defense at a CrossroadsNovember 13, 2018 — 14 Nov 2018 — o Longer range HPM systems for cruise missiles and other thr...</span><span class="citation-popover-meta">Published: November 13, 2018</span></span></span>
+Even as militaries invest heavily in directed-energy weapons, they continue funding extended-range missile interceptors and layered missile-defence architectures. Studies from the Centre for Strategic and Budgetary Assessments (CSBA) highlight the continued importance of kinetic interceptors against advanced missile threats while simultaneously advocating development of lasers and other directed-energy systems as additional layers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://csbaonline.org/uploads/documents/Crossroads_-_rollout_brief%2C_14Nov.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csbaonline.org">[CSBA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csbaonline.org</span><span class="citation-popover-snippet">CSBAAir and Missile Defense at a CrossroadsNovember 13, 2018 — 14 Nov 2018 — o Longer range HPM systems for cruise missiles and other thr...</span><span class="citation-popover-meta">Published: November 13, 2018</span></span></span>
 
-Recent laser programmes also reveal how defence planners see the technology's role. Israel's Iron Beam system is being integrated alongside Iron Dome, David's Sling and Arrow rather than replacing them. Official statements describe the laser as a complementary capability that adds a low-cost engagement option within a broader defensive network. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/israeli-anti-missile-laser-system-iron-beam-ready-military-use-this-year-2025-09-17/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Co-developed by Rafael Advanced Defense Systems and Elbit Systems, Iron Beam is a high-power, ground-based laser designed to intercept ro...</span></span></span>
+Recent laser programmes also reveal how defence planners see the technology's role. Israel's Iron Beam system is being integrated alongside Iron Dome, David's Sling and Arrow rather than replacing them. Official statements describe the laser as a complementary capability that adds a low-cost engagement option within a broader defensive network.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/israeli-anti-missile-laser-system-iron-beam-ready-military-use-this-year-2025-09-17/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Co-developed by Rafael Advanced Defense Systems and Elbit Systems, Iron Beam is a high-power, ground-based laser designed to intercept ro...</span></span></span>
 
-Similarly, current US efforts to develop higher-power laser systems capable of engaging cruise missiles are framed as an expansion of layered defence rather than a replacement for interceptor missiles. Even advocates of these systems acknowledge that cruise missile interception remains especially challenging because of target speed, manoeuvrability and atmospheric interference. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tomshardware.com/tech-industry/pentagon-budget-documents-reveal-its-pursuing-containerized-300kw-laser-weapons-ambitious-joint-laser-weapon-system-designed-to-shoot-down-cruise-missiles-system-part-of-usd17-9-billion-golden-dome-missile-defense-initiative" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomshardware.com">[Tom&#x27;s Hardware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomshardware.com</span><span class="citation-popover-snippet">The JLWS is a containerized high-energy laser system intended to neutralize cruise missiles and other advanced threats. Designed to scale...</span></span></span>
+Similarly, current US efforts to develop higher-power laser systems capable of engaging cruise missiles are framed as an expansion of layered defence rather than a replacement for interceptor missiles. Even advocates of these systems acknowledge that cruise missile interception remains especially challenging because of target speed, manoeuvrability and atmospheric interference.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tomshardware.com/tech-industry/pentagon-budget-documents-reveal-its-pursuing-containerized-300kw-laser-weapons-ambitious-joint-laser-weapon-system-designed-to-shoot-down-cruise-missiles-system-part-of-usd17-9-billion-golden-dome-missile-defense-initiative" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomshardware.com">[Tom&#x27;s Hardware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomshardware.com</span><span class="citation-popover-snippet">The JLWS is a containerized high-energy laser system intended to neutralize cruise missiles and other advanced threats. Designed to scale...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nFw7LwWrMDI" title="Every Modern Air Defense System Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nFw7LwWrMDI" target="_blank" rel="noopener noreferrer">Every Modern Air Defense System Explained</a></p><p class="youtube-embed-meta">Channel: krisis LOGS</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nFw7LwWrMDI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nFw7LwWrMDI">Open on YouTube</a></p></div></div></div>
@@ -347,207 +347,207 @@ In a layered architecture, lasers can contribute by:
 
 </div>
 
-This approach reflects a broader trend in air defence: combining different weapons rather than searching for a universal solution. Missiles provide reach, engagement depth and high-confidence kills. Lasers offer speed-of-light response, [deep magazines]({{ 'deep-magazine/' | relative_url }}) and low per-shot cost. Together they can create a more resilient defensive system than either technology alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-snippet">Directed Energy Weapons DOD Should Focus on Transition...DOD spends about $1 billion annually on directed energy--concentrated electr...</span></span></span>
+This approach reflects a broader trend in air defence: combining different weapons rather than searching for a universal solution. Missiles provide reach, engagement depth and high-confidence kills. Lasers offer speed-of-light response, [deep magazines]({{ 'deep-magazine/' | relative_url }}) and low per-shot cost. Together they can create a more resilient defensive system than either technology alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-snippet">Directed Energy Weapons DOD Should Focus on Transition...DOD spends about $1 billion annually on directed energy--concentrated electr...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_laser_missile_f41d72_cruise_missil_233c53-Illustration-3-dark.svg" | relative_url }}" alt="Cruise Missiles illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_laser_missile_f41d72_cruise_missil_233c53-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_laser_missile_f41d72_cruise_missil_233c53-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Cruise Missiles Still Get Missiles
 
-Cruise missiles remain prime candidates for kinetic interception because they compress decision time while threatening highly valuable targets. In that environment, the decisive advantage is usually not the price of a shot but the ability to engage early, create multiple kill opportunities and maintain high confidence that the threat will be stopped before it reaches its objective. Until directed-energy systems can consistently provide the same range, reliability and engagement depth, interceptor missiles will continue to be the preferred response to many cruise-missile threats. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2025/02/13/nato-integrated-air-and-missile-defence-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nato.int">[NATO+2CSBA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nato.int</span><span class="citation-popover-title">integrated air and missile defence policy</span><span class="citation-popover-snippet">NATO Integrated Air and Missile Defence Policy13 Feb 2025 — NATO IAMD aims to ensure that conditions are met for rapid detection, dec...</span></span></span>
+Cruise missiles remain prime candidates for kinetic interception because they compress decision time while threatening highly valuable targets. In that environment, the decisive advantage is usually not the price of a shot but the ability to engage early, create multiple kill opportunities and maintain high confidence that the threat will be stopped before it reaches its objective. Until directed-energy systems can consistently provide the same range, reliability and engagement depth, interceptor missiles will continue to be the preferred response to many cruise-missile threats.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2025/02/13/nato-integrated-air-and-missile-defence-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nato.int">[NATO+2CSBA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nato.int</span><span class="citation-popover-title">integrated air and missile defence policy</span><span class="citation-popover-snippet">NATO Integrated Air and Missile Defence Policy13 Feb 2025 — NATO IAMD aims to ensure that conditions are met for rapid detection, dec...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mKYFqWiuFh0" title="Which technology offers the best defense against drones? Lasers or mobile gun trucks? | DW News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mKYFqWiuFh0" target="_blank" rel="noopener noreferrer">Which technology offers the best defense against drones? Lasers or mobile gun trucks? | DW News</a></p><p class="youtube-embed-meta">Channel: DW News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mKYFqWiuFh0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mKYFqWiuFh0">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Cruise Missiles Still Get Missiles. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Cruise Missiles Still Get Missiles. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Explores modern precision-strike threats, defensive networks, and the operational realities behind missile-defense decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores modern precision-strike threats, defensive networks, and the operational realities behind missile-defense decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides context on advanced aerospace systems, missile technologies, and defense innovation relevant to air-defense discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on advanced aerospace systems, missile technologies, and defense innovation relevant to air-defense discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Covers advanced military technologies, including concepts that underpin directed-energy and missile-defense development.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers advanced military technologies, including concepts that underpin directed-energy and missile-defense development.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain%3A+An+Uncensored+History+of+DARPA%2C+America%27s+Top-Secret+Military+Research+Agency+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain: An Uncensored History of DARPA, America&#x27;s Top-Secret Military Research Agency on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8402971-M.jpg" alt="Cover for The Pentagon&#x27;s Brain: An Uncensored History of DARPA, America&#x27;s Top-Secret Military Research Agency" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain%3A+An+Uncensored+History+of+DARPA%2C+America%27s+Top-Secret+Military+Research+Agency+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain: An Uncensored History of DARPA, America&#x27;s Top-Secret Military Research Agency">The Pentagon&#x27;s Brain: An Uncensored History of DARPA, America...</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain%3A+An+Uncensored+History+of+DARPA%2C+America%27s+Top-Secret+Military+Research+Agency+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain: An Uncensored History of DARPA, America&#x27;s Top-Secret Military Research Agency on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8402971-M.jpg" alt="Cover for The Pentagon&#x27;s Brain: An Uncensored History of DARPA, America&#x27;s Top-Secret Military Research Agency" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain%3A+An+Uncensored+History+of+DARPA%2C+America%27s+Top-Secret+Military+Research+Agency+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain: An Uncensored History of DARPA, America&#x27;s Top-Secret Military Research Agency">The Pentagon&#x27;s Brain: An Uncensored History of DARPA, America...</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">First published 2015. Subjects: Science and state, United States, Military research, Large type books, United States. Defense Advanced Re...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain%3A+An+Uncensored+History+of+DARPA%2C+America%27s+Top-Secret+Military+Research+Agency+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015. Subjects: Science and state, United States, Military research, Large type books, United States. Defense Advanced Re...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain%3A+An+Uncensored+History+of+DARPA%2C+America%27s+Top-Secret+Military+Research+Agency+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF Boeing YAL-1A Airborne Laser Edwards AFB Desk Top Model 1/200 SC Airplane"><img src="{{ '/assets/images/marketplace-covers/50462e7e924f17a01d9d.jpg' | relative_url }}" alt="Listing image for USAF Boeing YAL-1A Airborne Laser Edwards AFB Desk Top Model 1/200 SC Airplane" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">USAF Boeing YAL-1A Airborne Laser Edwards AFB Desk Top Model 1/200 SC Airplane</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF Boeing YAL-1A Airborne Laser Edwards AFB Desk Top Model 1/200 SC Airplane"><img src="{{ '/assets/images/marketplace-covers/50462e7e924f17a01d9d.jpg' | relative_url }}" alt="Listing image for USAF Boeing YAL-1A Airborne Laser Edwards AFB Desk Top Model 1/200 SC Airplane" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">USAF Boeing YAL-1A Airborne Laser Edwards AFB Desk Top Model 1/200 SC Airplane</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF Boeing YAL-1 Airborne Laser Edwards AFB Desk Jet Model 1/200 SC Airplane"><img src="{{ '/assets/images/marketplace-covers/74491e61e34b2636275b.jpg' | relative_url }}" alt="Listing image for USAF Boeing YAL-1 Airborne Laser Edwards AFB Desk Jet Model 1/200 SC Airplane" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">USAF Boeing YAL-1 Airborne Laser Edwards AFB Desk Jet Model 1/200 SC Airplane</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF Boeing YAL-1 Airborne Laser Edwards AFB Desk Jet Model 1/200 SC Airplane"><img src="{{ '/assets/images/marketplace-covers/74491e61e34b2636275b.jpg' | relative_url }}" alt="Listing image for USAF Boeing YAL-1 Airborne Laser Edwards AFB Desk Jet Model 1/200 SC Airplane" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">USAF Boeing YAL-1 Airborne Laser Edwards AFB Desk Jet Model 1/200 SC Airplane</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit"><img src="{{ '/assets/images/marketplace-covers/3327be5d6e43f1a2d594.jpg' | relative_url }}" alt="Listing image for Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit"><img src="{{ '/assets/images/marketplace-covers/3327be5d6e43f1a2d594.jpg' | relative_url }}" alt="Listing image for Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit"><img src="{{ '/assets/images/marketplace-covers/e39e7ba02c6fc339dd8d.jpg' | relative_url }}" alt="Listing image for Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit"><img src="{{ '/assets/images/marketplace-covers/e39e7ba02c6fc339dd8d.jpg' | relative_url }}" alt="Listing image for Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="cruise-missiles-why-cruise-missiles-still-get-missiles-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -563,7 +563,7 @@ Cruise missiles remain prime candidates for kinetic interception because they co
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -583,7 +583,7 @@ Cruise missiles remain prime candidates for kinetic interception because they co
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -615,7 +615,7 @@ Cruise missiles remain prime candidates for kinetic interception because they co
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -667,7 +667,7 @@ Cruise missiles remain prime candidates for kinetic interception because they co
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -712,7 +712,7 @@ Cruise missiles remain prime candidates for kinetic interception because they co
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -753,144 +753,144 @@ Cruise missiles remain prime candidates for kinetic interception because they co
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gao.gov  
    Title: gao 23 105868  
-   Link: <a href="https://www.gao.gov/products/gao-23-105868" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-105868</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons: DOD Should Focus on...Apr 17, 2023 — The Department of Defense (DOD) is currently developing directed energy...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-23-105868" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-105868</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons: DOD Should Focus on...Apr 17, 2023 — The Department of Defense (DOD) is currently developing directed energy...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — Directed energy weapons (DEW) use concentrated electromagnetic energy t...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — Directed energy weapons (DEW) use concentrated electromagnetic energy t...</p></details>
    Published: May 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/business/aerospace-defense/israeli-anti-missile-laser-system-iron-beam-ready-military-use-this-year-2025-09-17/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/israeli-anti-missile-laser-system-iron-beam-ready-military-use-this-year-2025-09-17/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Co-developed by Rafael Advanced Defense Systems and Elbit Systems, Iron Beam is a high-power, ground-based laser designed to intercept ro...</p></details>
+   Link:<a href="https://www.reuters.com/business/aerospace-defense/israeli-anti-missile-laser-system-iron-beam-ready-military-use-this-year-2025-09-17/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/israeli-anti-missile-laser-system-iron-beam-ready-military-use-this-year-2025-09-17/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Co-developed by Rafael Advanced Defense Systems and Elbit Systems, Iron Beam is a high-power, ground-based laser designed to intercept ro...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nato.int  
    Title: integrated air and missile defence policy  
-   Link: <a href="https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2025/02/13/nato-integrated-air-and-missile-defence-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2025/02/13/nato-integrated-air-and-missile-defence-policy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NATO Integrated Air and Missile Defence Policy13 Feb 2025 — NATO IAMD aims to ensure that conditions are met for rapid detection, dec...</p></details>
+   Link:<a href="https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2025/02/13/nato-integrated-air-and-missile-defence-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2025/02/13/nato-integrated-air-and-missile-defence-policy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NATO Integrated Air and Missile Defence Policy13 Feb 2025 — NATO IAMD aims to ensure that conditions are met for rapid detection, dec...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ndupress.ndu.edu  
    Title: Press Directed Energy Weapons Are Real  
-   Link: <a href="https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2053280/directed-energy-weapons-are-real-and-disruptive/" target="_blank" rel="noopener noreferrer nofollow">https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2053280/directed-energy-weapons-are-real-and-disruptive/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>And Disruptive9 Jan 2020 — In this case, the laser weapon system would sense the atmospheric conditions to the target, then using fast st...</p></details>
+   Link:<a href="https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2053280/directed-energy-weapons-are-real-and-disruptive/" target="_blank" rel="noopener noreferrer nofollow">https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2053280/directed-energy-weapons-are-real-and-disruptive/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>And Disruptive9 Jan 2020 — In this case, the laser weapon system would sense the atmospheric conditions to the target, then using fast st...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: hcss.nl  
    Title: Surviving the Deadly Skies  
-   Link: <a href="https://hcss.nl/wp-content/uploads/2021/12/Integrated-Air-and-Missile-Defense-HCSS-Dec-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hcss.nl/wp-content/uploads/2021/12/Integrated-Air-and-Missile-Defense-HCSS-Dec-2021.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Integrated Air and Missile...This report argues that interacting geopolitical and technological trends have raised the type and level of...</p></details>
+   Link:<a href="https://hcss.nl/wp-content/uploads/2021/12/Integrated-Air-and-Missile-Defense-HCSS-Dec-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hcss.nl/wp-content/uploads/2021/12/Integrated-Air-and-Missile-Defense-HCSS-Dec-2021.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Integrated Air and Missile...This report argues that interacting geopolitical and technological trends have raised the type and level of...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: science.gc.ca  
    Title: directed energy weapons  
-   Link: <a href="https://science.gc.ca/site/science/en/safeguarding-your-research/guidelines-and-tools-implement-research-security/emerging-technology-trend-cards/directed-energy-weapons" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/safeguarding-your-research/guidelines-and-tools-implement-research-security/emerging-technology-trend-cards/directed-energy-weapons</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Feb 11, 2025 — Directed energy weapons (DEWs) use concentrated energy from electromagnetic or particle technology, rather than kinetic en...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/safeguarding-your-research/guidelines-and-tools-implement-research-security/emerging-technology-trend-cards/directed-energy-weapons" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/safeguarding-your-research/guidelines-and-tools-implement-research-security/emerging-technology-trend-cards/directed-energy-weapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Feb 11, 2025 — Directed energy weapons (DEWs) use concentrated energy from electromagnetic or particle technology, rather than kinetic en...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: csbaonline.org  
-   Link: <a href="https://csbaonline.org/uploads/documents/Crossroads_-_rollout_brief%2C_14Nov.pdf" target="_blank" rel="noopener noreferrer nofollow">https://csbaonline.org/uploads/documents/Crossroads_-_rollout_brief%2C_14Nov.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CSBAAir and Missile Defense at a CrossroadsNovember 13, 2018 — 14 Nov 2018 — o Longer range HPM systems for cruise missiles and other thr...</p></details>
+   Link:<a href="https://csbaonline.org/uploads/documents/Crossroads_-_rollout_brief%2C_14Nov.pdf" target="_blank" rel="noopener noreferrer nofollow">https://csbaonline.org/uploads/documents/Crossroads_-_rollout_brief%2C_14Nov.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CSBAAir and Missile Defense at a CrossroadsNovember 13, 2018 — 14 Nov 2018 — o Longer range HPM systems for cruise missiles and other thr...</p></details>
    Published: November 13, 2018  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons DOD Should Focus on Transition...DOD spends about $1 billion annually on directed energy--concentrated electr...</p></details>
+   Link:<a href="https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons DOD Should Focus on Transition...DOD spends about $1 billion annually on directed energy--concentrated electr...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>onal watchdog,&quot; GAO investigates federal spending and performance...</p></details>
+   Link:<a href="https://www.gao.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>onal watchdog,&quot; GAO investigates federal spending and performance...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: armscontrolcenter.org  
    Title: Arms Control Center Fact Sheet: Ballistic vs  
-   Link: <a href="https://armscontrolcenter.org/wp-content/uploads/2017/04/Ballistic-vs.-Cruise-Missiles-Fact-Sheet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://armscontrolcenter.org/wp-content/uploads/2017/04/Ballistic-vs.-Cruise-Missiles-Fact-Sheet.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cruise MissilesApril 27, 2017 — Flying low to the surface of the earth expends more fuel but makes a cruise missile very difficult to det...</p></details>
+   Link:<a href="https://armscontrolcenter.org/wp-content/uploads/2017/04/Ballistic-vs.-Cruise-Missiles-Fact-Sheet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://armscontrolcenter.org/wp-content/uploads/2017/04/Ballistic-vs.-Cruise-Missiles-Fact-Sheet.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cruise MissilesApril 27, 2017 — Flying low to the surface of the earth expends more fuel but makes a cruise missile very difficult to det...</p></details>
    Published: April 27, 2017  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: csbaonline.org  
-   Link: <a href="https://csbaonline.org/uploads/documents/Crossroads_web%2C_14Nov.pdf" target="_blank" rel="noopener noreferrer nofollow">https://csbaonline.org/uploads/documents/Crossroads_web%2C_14Nov.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AIR AND MISSILE DEFENSE AT A CROSSROADSFor most of the post-Cold War era, DoD focused its missile defense priorities on fielding ground-b...</p></details>
+   Link:<a href="https://csbaonline.org/uploads/documents/Crossroads_web%2C_14Nov.pdf" target="_blank" rel="noopener noreferrer nofollow">https://csbaonline.org/uploads/documents/Crossroads_web%2C_14Nov.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AIR AND MISSILE DEFENSE AT A CROSSROADSFor most of the post-Cold War era, DoD focused its missile defense priorities on fielding ground-b...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nationaldefensemagazine.org  
    Title: government perspective directed energy in air base defense can save the arsenal  
-   Link: <a href="https://www.nationaldefensemagazine.org/articles/2025/8/11/government-perspective-directed-energy-in-air-base-defense-can-save-the-arsenal" target="_blank" rel="noopener noreferrer nofollow">https://www.nationaldefensemagazine.org/articles/2025/8/11/government-perspective-directed-energy-in-air-base-defense-can-save-the-arsenal</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>High-power electromagnetic weapons require line-of-sight and are sensitive to...Read more...</p></details>
+   Link:<a href="https://www.nationaldefensemagazine.org/articles/2025/8/11/government-perspective-directed-energy-in-air-base-defense-can-save-the-arsenal" target="_blank" rel="noopener noreferrer nofollow">https://www.nationaldefensemagazine.org/articles/2025/8/11/government-perspective-directed-energy-in-air-base-defense-can-save-the-arsenal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High-power electromagnetic weapons require line-of-sight and are sensitive to...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: tomshardware.com  
-   Link: <a href="https://www.tomshardware.com/tech-industry/pentagon-budget-documents-reveal-its-pursuing-containerized-300kw-laser-weapons-ambitious-joint-laser-weapon-system-designed-to-shoot-down-cruise-missiles-system-part-of-usd17-9-billion-golden-dome-missile-defense-initiative" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/pentagon-budget-documents-reveal-its-pursuing-containerized-300kw-laser-weapons-ambitious-joint-laser-weapon-system-designed-to-shoot-down-cruise-missiles-system-part-of-usd17-9-billion-golden-dome-missile-defense-initiative</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The JLWS is a containerized high-energy laser system intended to neutralize cruise missiles and other advanced threats. Designed to scale...</p></details>
+   Link:<a href="https://www.tomshardware.com/tech-industry/pentagon-budget-documents-reveal-its-pursuing-containerized-300kw-laser-weapons-ambitious-joint-laser-weapon-system-designed-to-shoot-down-cruise-missiles-system-part-of-usd17-9-billion-golden-dome-missile-defense-initiative" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/pentagon-budget-documents-reveal-its-pursuing-containerized-300kw-laser-weapons-ambitious-joint-laser-weapon-system-designed-to-shoot-down-cruise-missiles-system-part-of-usd17-9-billion-golden-dome-missile-defense-initiative</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The JLWS is a containerized high-energy laser system intended to neutralize cruise missiles and other advanced threats. Designed to scale...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: armscontrol.org  
-   Link: <a href="https://www.armscontrol.org/factsheets/missile-defense-systems-glance" target="_blank" rel="noopener noreferrer nofollow">https://www.armscontrol.org/factsheets/missile-defense-systems-glance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missile Defense Systems at a GlanceCruise missiles are propelled by jet engines and can be launched from land-, air-, or sea-based platfo...</p></details>
+   Link:<a href="https://www.armscontrol.org/factsheets/missile-defense-systems-glance" target="_blank" rel="noopener noreferrer nofollow">https://www.armscontrol.org/factsheets/missile-defense-systems-glance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missile Defense Systems at a GlanceCruise missiles are propelled by jet engines and can be launched from land-, air-, or sea-based platfo...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: csbaonline.org  
-   Link: <a href="https://csbaonline.org/research/publications/strengthening-the-phalanx-layered-comprehensive-and-distributed-air-and-missile-defense-in-the-indo-pacific" target="_blank" rel="noopener noreferrer nofollow">https://csbaonline.org/research/publications/strengthening-the-phalanx-layered-comprehensive-and-distributed-air-and-missile-defense-in-the-indo-pacific</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strengthening the Phalanx: Layered, Comprehensive, and...17 Jan 2024 — CSBA held a webinar discussion on Strengthening the Phalanx: Laye...</p></details>
+   Link:<a href="https://csbaonline.org/research/publications/strengthening-the-phalanx-layered-comprehensive-and-distributed-air-and-missile-defense-in-the-indo-pacific" target="_blank" rel="noopener noreferrer nofollow">https://csbaonline.org/research/publications/strengthening-the-phalanx-layered-comprehensive-and-distributed-air-and-missile-defense-in-the-indo-pacific</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strengthening the Phalanx: Layered, Comprehensive, and...17 Jan 2024 — CSBA held a webinar discussion on Strengthening the Phalanx: Laye...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: house.gov  
-   Link: <a href="https://www.house.gov/the-house-explained/legislative-branch-partners/government-accountability-office" target="_blank" rel="noopener noreferrer nofollow">https://www.house.gov/the-house-explained/legislative-branch-partners/government-accountability-office</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Accountability OfficeThe Government Accountability Office (GAO) is known as the investigative arm of Congress and the congress...</p></details>
+   Link:<a href="https://www.house.gov/the-house-explained/legislative-branch-partners/government-accountability-office" target="_blank" rel="noopener noreferrer nofollow">https://www.house.gov/the-house-explained/legislative-branch-partners/government-accountability-office</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government Accountability OfficeThe Government Accountability Office (GAO) is known as the investigative arm of Congress and the congress...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: lexingtoninstitute.org  
-   Link: <a href="https://lexingtoninstitute.org/wp-content/uploads/cruise-missile-defense.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lexingtoninstitute.org/wp-content/uploads/cruise-missile-defense.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cruise Missile DefenseCruise missiles are flying bombs that can precisely strike distant targets after traversing circuitous, ground-hugg...</p></details>
+   Link:<a href="https://lexingtoninstitute.org/wp-content/uploads/cruise-missile-defense.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lexingtoninstitute.org/wp-content/uploads/cruise-missile-defense.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cruise Missile DefenseCruise missiles are flying bombs that can precisely strike distant targets after traversing circuitous, ground-hugg...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Laser-Based Directed Energy WeaponsThis review aims to evaluate the current capabilities of laser-based Directed Energy Weapons (DE...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Laser-Based Directed Energy WeaponsThis review aims to evaluate the current capabilities of laser-based Directed Energy Weapons (DE...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: iiss.org  
-   Link: <a href="https://www.iiss.org/globalassets/media-library---content--migration/files/publications---free-files/strategic-dossier/pds-2025/chapters/iiss_progress-and-shortfalls-in-europes-defence_2025_ch-3_integrated-air-and-missile-defence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iiss.org/globalassets/media-library---content--migration/files/publications---free-files/strategic-dossier/pds-2025/chapters/iiss_progress-and-shortfalls-in-europes-defence_2025_ch-3_integrated-air-and-missile-defence.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>European Integrated Air and Missile Defence: Slow Progress2 Sept 2025 — These range from combat aircraft, ballistic and aero-ballistic mi...</p></details>
+   Link:<a href="https://www.iiss.org/globalassets/media-library---content--migration/files/publications---free-files/strategic-dossier/pds-2025/chapters/iiss_progress-and-shortfalls-in-europes-defence_2025_ch-3_integrated-air-and-missile-defence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iiss.org/globalassets/media-library---content--migration/files/publications---free-files/strategic-dossier/pds-2025/chapters/iiss_progress-and-shortfalls-in-europes-defence_2025_ch-3_integrated-air-and-missile-defence.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>European Integrated Air and Missile Defence: Slow Progress2 Sept 2025 — These range from combat aircraft, ballistic and aero-ballistic mi...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: gagagagao.com  
-   Link: <a href="https://www.gagagagao.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.gagagagao.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GAO OFFICIAL WEB SITEGAO(歌手) 公式サイト、最新ニュース、新曲、ライブ、イベント、スケジュール、試聴、出演依頼。「サヨナラ」がミリオンヒットを記録。(NHK紅白歌合戦 2年連続...</p></details>
+   Link:<a href="https://www.gagagagao.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.gagagagao.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GAO OFFICIAL WEB SITEGAO(歌手) 公式サイト、最新ニュース、新曲、ライブ、イベント、スケジュール、試聴、出演依頼。「サヨナラ」がミリオンヒットを記録。(NHK紅白歌合戦 2年連続...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/usgao" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/usgao</a>  
+   Link:<a href="https://www.youtube.com/usgao" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/usgao</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/technical-evolution-operational-integration-light-based-robi-sen-hhdoc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/technical-evolution-operational-integration-light-based-robi-sen-hhdoc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ammers can serve as low-marginal-cost interceptors or disruptors; when...Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/technical-evolution-operational-integration-light-based-robi-sen-hhdoc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/technical-evolution-operational-integration-light-based-robi-sen-hhdoc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ammers can serve as low-marginal-cost interceptors or disruptors; when...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: usa.gov  
-   Link: <a href="https://www.usa.gov/agencies/government-accountability-office" target="_blank" rel="noopener noreferrer nofollow">https://www.usa.gov/agencies/government-accountability-office</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tively executive branch agencies are doing their jobs...</p></details>
+   Link:<a href="https://www.usa.gov/agencies/government-accountability-office" target="_blank" rel="noopener noreferrer nofollow">https://www.usa.gov/agencies/government-accountability-office</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tively executive branch agencies are doing their jobs...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/portals/1/interactive/2018/11-2019-missile-defense-review/the%202019%20mdr_executive%20summary.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/portals/1/interactive/2018/11-2019-missile-defense-review/the%202019%20mdr_executive%20summary.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2019 Missile Defense Review (MDR)15 Jan 2019 — It describes the policies, strategies, and capabilities that will guide the Department of...</p></details>
+   Link:<a href="https://www.war.gov/portals/1/interactive/2018/11-2019-missile-defense-review/the%202019%20mdr_executive%20summary.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/portals/1/interactive/2018/11-2019-missile-defense-review/the%202019%20mdr_executive%20summary.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2019 Missile Defense Review (MDR)15 Jan 2019 — It describes the policies, strategies, and capabilities that will guide the Department of...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: laserwars.net  
    Title: us military laser weapons fielding timeline  
-   Link: <a href="https://www.laserwars.net/p/us-military-laser-weapons-fielding-timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/us-military-laser-weapons-fielding-timeline</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon Wants to Field Laser Weapons Within 3 Years16 Mar 2026 — The US military plans on fielding laser weapons at scale within the...</p></details>
+   Link:<a href="https://www.laserwars.net/p/us-military-laser-weapons-fielding-timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/us-military-laser-weapons-fielding-timeline</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon Wants to Field Laser Weapons Within 3 Years16 Mar 2026 — The US military plans on fielding laser weapons at scale within the...</p></details>

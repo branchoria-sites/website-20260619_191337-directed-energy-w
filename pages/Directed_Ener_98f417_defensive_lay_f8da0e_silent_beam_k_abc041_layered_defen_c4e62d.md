@@ -275,19 +275,19 @@ image: /assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_silent_beam_k_ab
 
 ## Introduction
 
-A directed-energy weapon can hit a target without producing the visual cues that normally confirm a successful intercept. A laser may damage a flight-control system, sensor, or structural component without causing an immediate crash. A high-power microwave system may disable electronics while leaving the airframe apparently intact. In a layered [defence network]({{ 'defence-network/' | relative_url }}), that uncertainty creates a practical question: should defenders continue using the beam, switch to another weapon, or declare the threat defeated and conserve resources? The answer is rarely based on a single observation. Modern air-defence architectures increasingly rely on confidence-based decisions that combine sensor data, track behaviour, weapon performance models, and command-and-control rules to determine whether a target remains dangerous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2RTX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — DEWs are generally less effective the farther they are from the target...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+A directed-energy weapon can hit a target without producing the visual cues that normally confirm a successful intercept. A laser may damage a flight-control system, sensor, or structural component without causing an immediate crash. A high-power microwave system may disable electronics while leaving the airframe apparently intact. In a layered [defence network]({{ 'defence-network/' | relative_url }}), that uncertainty creates a practical question: should defenders continue using the beam, switch to another weapon, or declare the threat defeated and conserve resources? The answer is rarely based on a single observation. Modern air-defence architectures increasingly rely on confidence-based decisions that combine sensor data, track behaviour, weapon performance models, and command-and-control rules to determine whether a target remains dangerous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2RTX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — DEWs are generally less effective the farther they are from the target...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_silent_beam_k_abc041_layered_defen_c4e62d-Illustration-1-dark.svg" | relative_url }}" alt="Handoff Choice illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_silent_beam_k_abc041_layered_defen_c4e62d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_silent_beam_k_abc041_layered_defen_c4e62d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This decision process matters because directed-energy weapons are often intended to work alongside missiles, guns, electronic warfare systems, and other interceptors. The value of a layered defence lies not only in having multiple weapons, but in deciding when to transition between them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.autonomyglobal.co/homeland-protection-at-speed-and-scale-lockheed-martins-layered-integrated-air-and-missile-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: autonomyglobal.co">[Autonomy Global+2PESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">autonomyglobal.co</span><span class="citation-popover-snippet">Autonomy GlobalLockheed Martin&#x27;s Layered Integrated Air and Missile...6 Apr 2026 — Those same architectures have to incorporate counter‑...</span></span></span>
+This decision process matters because directed-energy weapons are often intended to work alongside missiles, guns, electronic warfare systems, and other interceptors. The value of a layered defence lies not only in having multiple weapons, but in deciding when to transition between them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.autonomyglobal.co/homeland-protection-at-speed-and-scale-lockheed-martins-layered-integrated-air-and-missile-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: autonomyglobal.co">[Autonomy Global+2PESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">autonomyglobal.co</span><span class="citation-popover-snippet">Autonomy GlobalLockheed Martin&#x27;s Layered Integrated Air and Missile...6 Apr 2026 — Those same architectures have to incorporate counter‑...</span></span></span>
 
 ## When Should Defenders Fire the Next Weapon?
 
 After an uncertain beam engagement, commanders rarely seek absolute proof of destruction. Instead, they assess whether confidence is high enough that the target can no longer complete its mission.
 
-In practice, the decision resembles risk management rather than a simple yes-or-no judgement. A drone approaching an air base, for example, may continue flying after laser exposure. The key question is whether it is still under control, still navigating toward the defended asset, and still capable of delivering its payload. If confidence in mission failure remains low, another defensive layer may be activated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationaldefensemagazine.org/articles/2026/1/20/counterdrone-mission-seen-as-killer-app-for-directed-energy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationaldefensemagazine.org">[National Defense Magazine+2Dedrone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationaldefensemagazine.org</span><span class="citation-popover-title">help discriminate what</span><span class="citation-popover-snippet">National Defense MagazineCounter-UAS Mission Seen as Killer App for Directed Energy20 Jan 2026 — High-energy lasers, meanwhile, can hit a...</span></span></span>
+In practice, the decision resembles risk management rather than a simple yes-or-no judgement. A drone approaching an air base, for example, may continue flying after laser exposure. The key question is whether it is still under control, still navigating toward the defended asset, and still capable of delivering its payload. If confidence in mission failure remains low, another defensive layer may be activated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationaldefensemagazine.org/articles/2026/1/20/counterdrone-mission-seen-as-killer-app-for-directed-energy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationaldefensemagazine.org">[National Defense Magazine+2Dedrone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationaldefensemagazine.org</span><span class="citation-popover-title">help discriminate what</span><span class="citation-popover-snippet">National Defense MagazineCounter-UAS Mission Seen as Killer App for Directed Energy20 Jan 2026 — High-energy lasers, meanwhile, can hit a...</span></span></span>
 
-Many integrated air-defence concepts therefore treat weapon assignment as a continuous process. Sensors track the target after engagement, while command systems evaluate whether observed behaviour matches expected damage effects. If uncertainty remains above an established threshold, responsibility can pass to a different defensive layer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/6699039.pdf?abstractid=6699039&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN+2RTX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Layered Counter-Unmanned Aerial System (C-UAS)...by A Rawat · 2026 — Doctrinal guidance must specify sensor handover protocols and m...</span></span></span>
+Many integrated air-defence concepts therefore treat weapon assignment as a continuous process. Sensors track the target after engagement, while command systems evaluate whether observed behaviour matches expected damage effects. If uncertainty remains above an established threshold, responsibility can pass to a different defensive layer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/6699039.pdf?abstractid=6699039&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN+2RTX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Layered Counter-Unmanned Aerial System (C-UAS)...by A Rawat · 2026 — Doctrinal guidance must specify sensor handover protocols and m...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nbScVKIXZQA" title="Why Future Wars Will Be Won by Satellites and Lasers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nbScVKIXZQA" target="_blank" rel="noopener noreferrer">Why Future Wars Will Be Won by Satellites and Lasers</a></p><p class="youtube-embed-meta">Channel: Military Mechanics</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nbScVKIXZQA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nbScVKIXZQA">Open on YouTube</a></p></div></div></div>
@@ -296,9 +296,9 @@ Many integrated air-defence concepts therefore treat weapon assignment as a cont
 
 The most dangerous mistake is a false kill assessment: concluding that a target has been defeated when it remains capable of attack.
 
-Directed-energy effects can create exactly this problem. A drone may lose a camera but retain autonomous navigation. A cruise missile may experience subsystem degradation yet remain on course. A microwave strike may temporarily disrupt electronics without causing permanent failure. In each case, apparent changes in behaviour can be misleading. Air and Space Power Centre+2National Defense Magazine <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airpower.airforce.gov.au">[airpower.airforce.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airpower.airforce.gov.au</span><span class="citation-popover-snippet">Air and Space Power CentreDirected Energy Weapons - Air and Space Power CentreMarch 26, 2020 — Whilst the desired damage is planned to oc...</span><span class="citation-popover-meta">Published: March 26, 2020</span></span></span>
+Directed-energy effects can create exactly this problem. A drone may lose a camera but retain autonomous navigation. A cruise missile may experience subsystem degradation yet remain on course. A microwave strike may temporarily disrupt electronics without causing permanent failure. In each case, apparent changes in behaviour can be misleading. Air and Space Power Centre+2National Defense Magazine<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airpower.airforce.gov.au">[airpower.airforce.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airpower.airforce.gov.au</span><span class="citation-popover-snippet">Air and Space Power CentreDirected Energy Weapons - Air and Space Power CentreMarch 26, 2020 — Whilst the desired damage is planned to oc...</span><span class="citation-popover-meta">Published: March 26, 2020</span></span></span>
 
-For that reason, many defensive concepts emphasise track continuity rather than visual damage. A target that continues moving toward a protected area, maintains stable flight, or preserves mission-relevant behaviour is often treated as a continuing threat regardless of suspected beam effects. The burden of proof effectively shifts toward demonstrating loss of mission capability rather than merely observing a successful hit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dedrone.com/white-papers/counter-uas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dedrone.com">[Dedrone+2Embention]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dedrone.com</span><span class="citation-popover-snippet">The Comprehensive Guide to Counter-UASThe comprehensive guide for all things counter-drone (C-UAS or CUAS). Counter-UAS systems de...</span></span></span>
+For that reason, many defensive concepts emphasise track continuity rather than visual damage. A target that continues moving toward a protected area, maintains stable flight, or preserves mission-relevant behaviour is often treated as a continuing threat regardless of suspected beam effects. The burden of proof effectively shifts toward demonstrating loss of mission capability rather than merely observing a successful hit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dedrone.com/white-papers/counter-uas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dedrone.com">[Dedrone+2Embention]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dedrone.com</span><span class="citation-popover-snippet">The Comprehensive Guide to Counter-UASThe comprehensive guide for all things counter-drone (C-UAS or CUAS). Counter-UAS systems de...</span></span></span>
 
 This conservative approach can appear wasteful, but it reflects the asymmetry of consequences. A missed opportunity to save an interceptor is usually less severe than allowing an incoming threat to penetrate the defence because operators trusted an uncertain assessment.
 
@@ -309,11 +309,11 @@ This conservative approach can appear wasteful, but it reflects the asymmetry of
 
 The opposite error is also costly. If every uncertain laser engagement automatically triggers a missile shot, the economic and operational advantages of directed energy largely disappear.
 
-One reason military organisations pursue [lasers]({{ 'lasers/' | relative_url }}) and other directed-energy systems is their low marginal cost per engagement compared with conventional interceptors. Multiple analyses note that missile defences can face severe cost-exchange problems when confronting large numbers of inexpensive drones. Directed-energy weapons are frequently promoted as a way to preserve scarce missile inventories for higher-priority threats. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedebrief.org/iran-conflict-could-drain-u-s-missile-defenses-underscoring-the-pentagons-push-for-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[Norsk luftvern+3The Debrief+3ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Iran Conflict Could Drain U.S</span><span class="citation-popover-snippet">Missile Defenses...25 Feb 2026 — A 2023 GAO report to Congress described the cost to fire a directed energy weapon at “about $1-$10 per...</span></span></span>
+One reason military organisations pursue [lasers]({{ 'lasers/' | relative_url }}) and other directed-energy systems is their low marginal cost per engagement compared with conventional interceptors. Multiple analyses note that missile defences can face severe cost-exchange problems when confronting large numbers of inexpensive drones. Directed-energy weapons are frequently promoted as a way to preserve scarce missile inventories for higher-priority threats.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedebrief.org/iran-conflict-could-drain-u-s-missile-defenses-underscoring-the-pentagons-push-for-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[Norsk luftvern+3The Debrief+3ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Iran Conflict Could Drain U.S</span><span class="citation-popover-snippet">Missile Defenses...25 Feb 2026 — A 2023 GAO report to Congress described the cost to fire a directed energy weapon at “about $1-$10 per...</span></span></span>
 
 This creates a balancing challenge. Excessive confidence risks leakage of threats. Excessive caution risks exhausting expensive interceptors against targets that may already be defeated.
 
-Layered defence doctrines increasingly address this tension through engagement policies that define conditions for [escalation]({{ 'escalation/' | relative_url }}). Instead of firing a missile immediately after any uncertain outcome, systems may require specific indicators such as continued threat trajectory, confirmed control authority, failure to deviate after beam exposure, or insufficient confidence in sensor observations. These rules help prevent unnecessary handoffs while preserving defensive reliability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/6699039.pdf?abstractid=6699039&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN+2Autonomy Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Layered Counter-Unmanned Aerial System (C-UAS)...by A Rawat · 2026 — Doctrinal guidance must specify sensor handover protocols and m...</span></span></span>
+Layered defence doctrines increasingly address this tension through engagement policies that define conditions for [escalation]({{ 'escalation/' | relative_url }}). Instead of firing a missile immediately after any uncertain outcome, systems may require specific indicators such as continued threat trajectory, confirmed control authority, failure to deviate after beam exposure, or insufficient confidence in sensor observations. These rules help prevent unnecessary handoffs while preserving defensive reliability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/6699039.pdf?abstractid=6699039&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN+2Autonomy Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Layered Counter-Unmanned Aerial System (C-UAS)...by A Rawat · 2026 — Doctrinal guidance must specify sensor handover protocols and m...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_silent_beam_k_abc041_layered_defen_c4e62d-Illustration-2-dark.svg" | relative_url }}" alt="Handoff Choice illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_silent_beam_k_abc041_layered_defen_c4e62d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_silent_beam_k_abc041_layered_defen_c4e62d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -329,13 +329,13 @@ Several sensor types contribute different pieces of evidence:
 * **Radar tracking** can reveal loss of speed, altitude, manoeuvrability, or stable flight.
 * **Electro-optical and infrared sensors** can identify visible damage, unusual heating patterns, or flight anomalies.
 * **Electronic-support systems** may detect changes in communications, navigation signals, or command links.
-* **Weapon telemetry** can confirm beam dwell time, aim-point stability, and delivered energy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rtx.com">[RTX+3RTX+3Dedrone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rtx.com</span><span class="citation-popover-snippet">High-Energy Lasers &#124; RaytheonThis directed energy technology enables detection of threats, tracking during maneuvers, and positive vis...</span></span></span>
+* **Weapon telemetry** can confirm beam dwell time, aim-point stability, and delivered energy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rtx.com">[RTX+3RTX+3Dedrone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rtx.com</span><span class="citation-popover-snippet">High-Energy Lasers &#124; RaytheonThis directed energy technology enables detection of threats, tracking during maneuvers, and positive vis...</span></span></span>
 
 </div>
 
-No single sensor normally provides certainty. Instead, command systems combine observations into a confidence estimate. For example, a laser may report sufficient dwell time on a vulnerable area, radar may detect an unexpected descent rate, and electro-optical sensors may observe erratic movement. Together, these indicators can justify withholding a missile interceptor. If those indicators are absent, escalation becomes more likely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationaldefensemagazine.org/articles/2026/1/20/counterdrone-mission-seen-as-killer-app-for-directed-energy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationaldefensemagazine.org">[National Defense Magazine+2RTX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationaldefensemagazine.org</span><span class="citation-popover-title">help discriminate what</span><span class="citation-popover-snippet">National Defense MagazineCounter-UAS Mission Seen as Killer App for Directed Energy20 Jan 2026 — High-energy lasers, meanwhile, can hit a...</span></span></span>
+No single sensor normally provides certainty. Instead, command systems combine observations into a confidence estimate. For example, a laser may report sufficient dwell time on a vulnerable area, radar may detect an unexpected descent rate, and electro-optical sensors may observe erratic movement. Together, these indicators can justify withholding a missile interceptor. If those indicators are absent, escalation becomes more likely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationaldefensemagazine.org/articles/2026/1/20/counterdrone-mission-seen-as-killer-app-for-directed-energy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationaldefensemagazine.org">[National Defense Magazine+2RTX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationaldefensemagazine.org</span><span class="citation-popover-title">help discriminate what</span><span class="citation-popover-snippet">National Defense MagazineCounter-UAS Mission Seen as Killer App for Directed Energy20 Jan 2026 — High-energy lasers, meanwhile, can hit a...</span></span></span>
 
-This fusion approach reflects a broader trend in integrated air and missile defence, where sensors and effectors are linked through common command-and-control networks rather than operating as isolated systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rtx.com">[RTX+2NATO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rtx.com</span><span class="citation-popover-snippet">Integrated Air &amp; Missile Defense &#124; RaytheonA portfolio of sensors, command and control systems, and effectors designed to detect and d...</span></span></span>
+This fusion approach reflects a broader trend in integrated air and missile defence, where sensors and effectors are linked through common command-and-control networks rather than operating as isolated systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rtx.com">[RTX+2NATO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rtx.com</span><span class="citation-popover-snippet">Integrated Air &amp; Missile Defense &#124; RaytheonA portfolio of sensors, command and control systems, and effectors designed to detect and d...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X1toVupe_R8" title="U.S. Directed Energy Weapons Systems" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer">U.S. Directed Energy Weapons Systems</a></p><p class="youtube-embed-meta">Channel: U.S. Government Accountability Office (GAO)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X1toVupe_R8">Open on YouTube</a></p></div></div></div>
@@ -344,11 +344,11 @@ This fusion approach reflects a broader trend in integrated air and missile defe
 
 One notable feature of emerging layered-defence thinking is the emphasis on track quality thresholds.
 
-A defence network cannot make reliable handoff decisions if it loses confidence in where the target is or what it is doing. Recent work on layered counter-uncrewed-aircraft architectures highlights the need for defined sensor handover procedures and minimum track-quality standards before activating subsequent defensive layers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/6699039.pdf?abstractid=6699039&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Layered Counter-Unmanned Aerial System (C-UAS)...by A Rawat · 2026 — Doctrinal guidance must specify sensor handover protocols and m...</span></span></span>
+A defence network cannot make reliable handoff decisions if it loses confidence in where the target is or what it is doing. Recent work on layered counter-uncrewed-aircraft architectures highlights the need for defined sensor handover procedures and minimum track-quality standards before activating subsequent defensive layers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/6699039.pdf?abstractid=6699039&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Layered Counter-Unmanned Aerial System (C-UAS)...by A Rawat · 2026 — Doctrinal guidance must specify sensor handover protocols and m...</span></span></span>
 
 This requirement becomes especially important after directed-energy engagements because target behaviour may become irregular. A damaged drone might wobble, descend, or drift unpredictably. Those effects could indicate success, but they can also complicate tracking. If sensor confidence falls at the same moment that weapon-effect confidence rises, commanders face a more difficult decision.
 
-As a result, many layered-defence concepts prioritise maintaining continuous observation throughout the engagement sequence. The objective is not merely to shoot the target but to preserve enough information to determine whether additional action is required. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.saab.com/markets/eu-nato-affairs/layered-defence-against-the-drone-threat" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saab.com">[Start+2Embention]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saab.com</span><span class="citation-popover-snippet">StartLayered defence against the drone threatCounter-UAS systems must detect, identify, track and neutralise threats ranging from small c...</span></span></span>
+As a result, many layered-defence concepts prioritise maintaining continuous observation throughout the engagement sequence. The objective is not merely to shoot the target but to preserve enough information to determine whether additional action is required.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.saab.com/markets/eu-nato-affairs/layered-defence-against-the-drone-threat" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saab.com">[Start+2Embention]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saab.com</span><span class="citation-popover-snippet">StartLayered defence against the drone threatCounter-UAS systems must detect, identify, track and neutralise threats ranging from small c...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_silent_beam_k_abc041_layered_defen_c4e62d-Illustration-3-dark.svg" | relative_url }}" alt="Handoff Choice illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_silent_beam_k_abc041_layered_defen_c4e62d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_silent_beam_k_abc041_layered_defen_c4e62d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -356,199 +356,199 @@ As a result, many layered-defence concepts prioritise maintaining continuous obs
 
 A common misconception is that layered defence simply means stacking multiple weapons. In practice, the more difficult challenge is coordinating decisions between those weapons.
 
-Directed-energy systems introduce a unique form of uncertainty because successful effects may be subtle, delayed, or invisible. Consequently, modern layered architectures increasingly treat kill assessment as a confidence-management problem. Sensors, command systems, and engagement policies work together to estimate whether a target has truly been neutralised and whether another layer should engage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2Autonomy Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — DEWs are generally less effective the farther they are from the target...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+Directed-energy systems introduce a unique form of uncertainty because successful effects may be subtle, delayed, or invisible. Consequently, modern layered architectures increasingly treat kill assessment as a confidence-management problem. Sensors, command systems, and engagement policies work together to estimate whether a target has truly been neutralised and whether another layer should engage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2Autonomy Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — DEWs are generally less effective the farther they are from the target...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
-The effectiveness of a layered defence therefore depends not only on the quality of its lasers, missiles, or electronic warfare systems, but also on the quality of the handoff decisions connecting them. When a beam hit leaves uncertainty, the critical question is not whether damage occurred. It is whether enough evidence exists to justify withholding the next shot. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/6699039.pdf?abstractid=6699039&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN+2Start]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Layered Counter-Unmanned Aerial System (C-UAS)...by A Rawat · 2026 — Doctrinal guidance must specify sensor handover protocols and m...</span></span></span>
+The effectiveness of a layered defence therefore depends not only on the quality of its lasers, missiles, or electronic warfare systems, but also on the quality of the handoff decisions connecting them. When a beam hit leaves uncertainty, the critical question is not whether damage occurred. It is whether enough evidence exists to justify withholding the next shot.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/6699039.pdf?abstractid=6699039&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN+2Start]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Layered Counter-Unmanned Aerial System (C-UAS)...by A Rawat · 2026 — Doctrinal guidance must specify sensor handover protocols and m...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Should Defenders Fire the Next Weapon?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Should Defenders Fire the Next Weapon?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Directly relevant to layered defense and engagement decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to layered defense and engagement decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
-        </h4>
-        <p class="fr-book-author">By Paul Scharre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
+</h4>
+<p class="fr-book-author">By Paul Scharre</p>
         
-        <p class="fr-book-desc">Discusses human-machine collaboration in defense.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses human-machine collaboration in defense.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Radar Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eQhTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Radar Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Radar Systems">Introduction to Radar Systems</a>
-        </h4>
-        <p class="fr-book-author">By Merrill Ivan Skolnik</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Radar Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eQhTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Radar Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Radar Systems">Introduction to Radar Systems</a>
+</h4>
+<p class="fr-book-author">By Merrill Ivan Skolnik</p>
         
-        <p class="fr-book-desc">Sensor confidence is central to layered-defense handoffs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Sensor confidence is central to layered-defense handoffs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
-        </h4>
-        <p class="fr-book-author">By Bahman Zohuri</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
+</h4>
+<p class="fr-book-author">By Bahman Zohuri</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Radar+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Radar Systems books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Radar+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Radar Systems books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3.5&quot; AIR DEFENSE COMMAND EMBROIDERED PATCH"><img src="{{ '/assets/images/marketplace-covers/2d04589bbb77cece2254.jpg' | relative_url }}" alt="Listing image for 3.5&quot; AIR DEFENSE COMMAND EMBROIDERED PATCH" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer">3.5&quot; AIR DEFENSE COMMAND EMBROIDERED PATCH</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3.5&quot; AIR DEFENSE COMMAND EMBROIDERED PATCH"><img src="{{ '/assets/images/marketplace-covers/2d04589bbb77cece2254.jpg' | relative_url }}" alt="Listing image for 3.5&quot; AIR DEFENSE COMMAND EMBROIDERED PATCH" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer">3.5&quot; AIR DEFENSE COMMAND EMBROIDERED PATCH</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Air Defense Command Patch"><img src="{{ '/assets/images/marketplace-covers/d2ebea29245dc6dd94a0.jpg' | relative_url }}" alt="Listing image for Air Defense Command Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer">Air Defense Command Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Air Defense Command Patch"><img src="{{ '/assets/images/marketplace-covers/d2ebea29245dc6dd94a0.jpg' | relative_url }}" alt="Listing image for Air Defense Command Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer">Air Defense Command Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF BASE PATCH, McCHORD AIR FORCE BASE, WASHINGTON, WESTERN AIR DEFENSE SECTOR"><img src="{{ '/assets/images/marketplace-covers/fedff61ac27a7440cbe8.jpg' | relative_url }}" alt="Listing image for USAF BASE PATCH, McCHORD AIR FORCE BASE, WASHINGTON, WESTERN AIR DEFENSE SECTOR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer">USAF BASE PATCH, McCHORD AIR FORCE BASE, WASHINGTON, WESTERN AIR DEFENSE SECTOR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF BASE PATCH, McCHORD AIR FORCE BASE, WASHINGTON, WESTERN AIR DEFENSE SECTOR"><img src="{{ '/assets/images/marketplace-covers/fedff61ac27a7440cbe8.jpg' | relative_url }}" alt="Listing image for USAF BASE PATCH, McCHORD AIR FORCE BASE, WASHINGTON, WESTERN AIR DEFENSE SECTOR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer">USAF BASE PATCH, McCHORD AIR FORCE BASE, WASHINGTON, WESTERN AIR DEFENSE SECTOR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 7th Air Defence Brigade British Army Trf Iron Sew On Military Embroidered Patch"><img src="{{ '/assets/images/marketplace-covers/1acbf17091b359be007f.jpg' | relative_url }}" alt="Listing image for 7th Air Defence Brigade British Army Trf Iron Sew On Military Embroidered Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer">7th Air Defence Brigade British Army Trf Iron Sew On Military Embroidered Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 7th Air Defence Brigade British Army Trf Iron Sew On Military Embroidered Patch"><img src="{{ '/assets/images/marketplace-covers/1acbf17091b359be007f.jpg' | relative_url }}" alt="Listing image for 7th Air Defence Brigade British Army Trf Iron Sew On Military Embroidered Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer">7th Air Defence Brigade British Army Trf Iron Sew On Military Embroidered Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="handoff-choice-when-should-defenders-fire-the-next-weapon-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -564,7 +564,7 @@ The effectiveness of a layered defence therefore depends not only on the quality
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -584,7 +584,7 @@ The effectiveness of a layered defence therefore depends not only on the quality
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -616,7 +616,7 @@ The effectiveness of a layered defence therefore depends not only on the quality
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -668,7 +668,7 @@ The effectiveness of a layered defence therefore depends not only on the quality
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -713,7 +713,7 @@ The effectiveness of a layered defence therefore depends not only on the quality
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -754,156 +754,156 @@ The effectiveness of a layered defence therefore depends not only on the quality
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gao.gov  
    Title: gao 23 106717  
-   Link: <a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — DEWs are generally less effective the farther they are from the target...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — DEWs are generally less effective the farther they are from the target...</p></details>
    Published: May 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: rtx.com  
-   Link: <a href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Integrated Air &amp; Missile Defense | RaytheonA portfolio of sensors, command and control systems, and effectors designed to detect and d...</p></details>
+   Link:<a href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Integrated Air &amp; Missile Defense | RaytheonA portfolio of sensors, command and control systems, and effectors designed to detect and d...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nato.int  
    Title: integrated air and missile defence  
-   Link: <a href="https://www.nato.int/en/what-we-do/deterrence-and-defence/nato-integrated-air-and-missile-defence" target="_blank" rel="noopener noreferrer nofollow">https://www.nato.int/en/what-we-do/deterrence-and-defence/nato-integrated-air-and-missile-defence</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>egrated Air and Missile Defence13 Feb 2025 — The IAMD Rotational Model provides for regular deployments of combat aircraft and surface-ba...</p></details>
+   Link:<a href="https://www.nato.int/en/what-we-do/deterrence-and-defence/nato-integrated-air-and-missile-defence" target="_blank" rel="noopener noreferrer nofollow">https://www.nato.int/en/what-we-do/deterrence-and-defence/nato-integrated-air-and-missile-defence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>egrated Air and Missile Defence13 Feb 2025 — The IAMD Rotational Model provides for regular deployments of combat aircraft and surface-ba...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pesco.europa.eu  
-   Link: <a href="https://www.pesco.europa.eu/project/integrated-multi-layer-air-and-missile-defence-system-imlamd/" target="_blank" rel="noopener noreferrer nofollow">https://www.pesco.europa.eu/project/integrated-multi-layer-air-and-missile-defence-system-imlamd/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Multi-Layer Air and Missile Defence system (IMLAMD)Fully integrated, multi-layered Ground Based Air and Missile Defense systems, capable...</p></details>
+   Link:<a href="https://www.pesco.europa.eu/project/integrated-multi-layer-air-and-missile-defence-system-imlamd/" target="_blank" rel="noopener noreferrer nofollow">https://www.pesco.europa.eu/project/integrated-multi-layer-air-and-missile-defence-system-imlamd/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Multi-Layer Air and Missile Defence system (IMLAMD)Fully integrated, multi-layered Ground Based Air and Missile Defense systems, capable...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dedrone.com  
-   Link: <a href="https://www.dedrone.com/white-papers/counter-uas" target="_blank" rel="noopener noreferrer nofollow">https://www.dedrone.com/white-papers/counter-uas</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Comprehensive Guide to Counter-UASThe comprehensive guide for all things [counter-drone](&amp;#123;&amp;#123; &#x27;missile-savings/&#x27; | relative_url &amp;#125;&amp;#125;) (C-UAS or CUAS). Counter-UAS systems de...</p></details>
+   Link:<a href="https://www.dedrone.com/white-papers/counter-uas" target="_blank" rel="noopener noreferrer nofollow">https://www.dedrone.com/white-papers/counter-uas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Comprehensive Guide to Counter-UASThe comprehensive guide for all things [counter-drone](&amp;#123;&amp;#123; &#x27;missile-savings/&#x27; | relative_url &amp;#125;&amp;#125;) (C-UAS or CUAS). Counter-UAS systems de...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: embention.com  
-   Link: <a href="https://www.embention.com/embention-uam-academy/lesson/counter-uas-interceptor-drones-defending-the-skies/" target="_blank" rel="noopener noreferrer nofollow">https://www.embention.com/embention-uam-academy/lesson/counter-uas-interceptor-drones-defending-the-skies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Counter-UAS: interceptor drones defending the skiesA complete C-UAS architecture follows a strict “[Kill Chain](&amp;#123;&amp;#123; &#x27;kill-chain/&#x27; | relative_url &amp;#125;&amp;#125;)” consisting of fou...</p></details>
+   Link:<a href="https://www.embention.com/embention-uam-academy/lesson/counter-uas-interceptor-drones-defending-the-skies/" target="_blank" rel="noopener noreferrer nofollow">https://www.embention.com/embention-uam-academy/lesson/counter-uas-interceptor-drones-defending-the-skies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Counter-UAS: interceptor drones defending the skiesA complete C-UAS architecture follows a strict “[Kill Chain](&amp;#123;&amp;#123; &#x27;kill-chain/&#x27; | relative_url &amp;#125;&amp;#125;)” consisting of fou...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/6699039.pdf?abstractid=6699039&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6699039.pdf?abstractid=6699039&amp;mirid=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Layered Counter-Unmanned Aerial System (C-UAS)...by A Rawat · 2026 — Doctrinal guidance must specify sensor handover protocols and m...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/6699039.pdf?abstractid=6699039&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6699039.pdf?abstractid=6699039&amp;mirid=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Layered Counter-Unmanned Aerial System (C-UAS)...by A Rawat · 2026 — Doctrinal guidance must specify sensor handover protocols and m...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/401707891_Cost-Effectiveness_Analysis_of_Counter-Unmanned_Aircraft_Systems_Technologies_A_Comparative_Study_of_Kinetic_Electronic_Warfare_and_Directed_Energy_Countermeasures_2022-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401707891_Cost-Effectiveness_Analysis_of_Counter-Unmanned_Aircraft_Systems_Technologies_A_Comparative_Study_of_Kinetic_Electronic_Warfare_and_Directed_Energy_Countermeasures_2022-2026</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cost-Effectiveness Analysis of Counter-Unmanned Aircraft...9 Mar 2026 — This quantitative study conducted a comprehensive cost-effective...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/401707891_Cost-Effectiveness_Analysis_of_Counter-Unmanned_Aircraft_Systems_Technologies_A_Comparative_Study_of_Kinetic_Electronic_Warfare_and_Directed_Energy_Countermeasures" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401707891_Cost-Effectiveness_Analysis_of_Counter-Unmanned_Aircraft_Systems_Technologies_A_Comparative_Study_of_Kinetic_Electronic_Warfare_and_Directed_Energy_Countermeasures</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cost-Effectiveness Analysis of Counter-Unmanned Aircraft...9 Mar 2026 — This quantitative study conducted a comprehensive cost-effective...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: rtx.com  
-   Link: <a href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>High-Energy Lasers | RaytheonThis directed energy technology enables detection of threats, tracking during maneuvers, and positive vis...</p></details>
+   Link:<a href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High-Energy Lasers | RaytheonThis directed energy technology enables detection of threats, tracking during maneuvers, and positive vis...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: act.nato.int  
-   Link: <a href="https://www.act.nato.int/article/lci-x-builds-approach-fast-moving-threat/" target="_blank" rel="noopener noreferrer nofollow">https://www.act.nato.int/article/lci-x-builds-approach-fast-moving-threat/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Counter-UAS Initiative (LCI-X) is Building...LCI-X is designed to help NATO move faster from experimentation to practical capability in...</p></details>
+   Link:<a href="https://www.act.nato.int/article/lci-x-builds-approach-fast-moving-threat/" target="_blank" rel="noopener noreferrer nofollow">https://www.act.nato.int/article/lci-x-builds-approach-fast-moving-threat/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Counter-UAS Initiative (LCI-X) is Building...LCI-X is designed to help NATO move faster from experimentation to practical capability in...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Laser-Based Directed Energy WeaponsThis review aims to evaluate the current capabilities of laser-based Directed Energy Weapons (DE...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Laser-Based Directed Energy WeaponsThis review aims to evaluate the current capabilities of laser-based Directed Energy Weapons (DE...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: autonomyglobal.co  
-   Link: <a href="https://www.autonomyglobal.co/homeland-protection-at-speed-and-scale-lockheed-martins-layered-integrated-air-and-missile-defense/" target="_blank" rel="noopener noreferrer nofollow">https://www.autonomyglobal.co/homeland-protection-at-speed-and-scale-lockheed-martins-layered-integrated-air-and-missile-defense/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomy GlobalLockheed Martin&#x27;s Layered Integrated Air and Missile...6 Apr 2026 — Those same architectures have to incorporate counter‑...</p></details>
+   Link:<a href="https://www.autonomyglobal.co/homeland-protection-at-speed-and-scale-lockheed-martins-layered-integrated-air-and-missile-defense/" target="_blank" rel="noopener noreferrer nofollow">https://www.autonomyglobal.co/homeland-protection-at-speed-and-scale-lockheed-martins-layered-integrated-air-and-missile-defense/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomy GlobalLockheed Martin&#x27;s Layered Integrated Air and Missile...6 Apr 2026 — Those same architectures have to incorporate counter‑...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: saab.com  
-   Link: <a href="https://www.saab.com/markets/eu-nato-affairs/layered-defence-against-the-drone-threat" target="_blank" rel="noopener noreferrer nofollow">https://www.saab.com/markets/eu-nato-affairs/layered-defence-against-the-drone-threat</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>StartLayered defence against the drone threatCounter-UAS systems must detect, identify, track and neutralise threats ranging from small c...</p></details>
+   Link:<a href="https://www.saab.com/markets/eu-nato-affairs/layered-defence-against-the-drone-threat" target="_blank" rel="noopener noreferrer nofollow">https://www.saab.com/markets/eu-nato-affairs/layered-defence-against-the-drone-threat</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>StartLayered defence against the drone threatCounter-UAS systems must detect, identify, track and neutralise threats ranging from small c...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nationaldefensemagazine.org  
    Title: help discriminate what  
-   Link: <a href="https://www.nationaldefensemagazine.org/articles/2026/1/20/counterdrone-mission-seen-as-killer-app-for-directed-energy" target="_blank" rel="noopener noreferrer nofollow">https://www.nationaldefensemagazine.org/articles/2026/1/20/counterdrone-mission-seen-as-killer-app-for-directed-energy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Defense MagazineCounter-UAS Mission Seen as Killer App for Directed Energy20 Jan 2026 — High-energy lasers, meanwhile, can hit a...</p></details>
+   Link:<a href="https://www.nationaldefensemagazine.org/articles/2026/1/20/counterdrone-mission-seen-as-killer-app-for-directed-energy" target="_blank" rel="noopener noreferrer nofollow">https://www.nationaldefensemagazine.org/articles/2026/1/20/counterdrone-mission-seen-as-killer-app-for-directed-energy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Defense MagazineCounter-UAS Mission Seen as Killer App for Directed Energy20 Jan 2026 — High-energy lasers, meanwhile, can hit a...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: airpower.airforce.gov.au  
-   Link: <a href="https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf" target="_blank" rel="noopener noreferrer nofollow">https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air and Space Power CentreDirected Energy Weapons - Air and Space Power CentreMarch 26, 2020 — Whilst the desired damage is planned to oc...</p></details>
+   Link:<a href="https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf" target="_blank" rel="noopener noreferrer nofollow">https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air and Space Power CentreDirected Energy Weapons - Air and Space Power CentreMarch 26, 2020 — Whilst the desired damage is planned to oc...</p></details>
    Published: March 26, 2020  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: thedebrief.org  
    Title: The Debrief Iran Conflict Could Drain U.S  
-   Link: <a href="https://thedebrief.org/iran-conflict-could-drain-u-s-missile-defenses-underscoring-the-pentagons-push-for-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/iran-conflict-could-drain-u-s-missile-defenses-underscoring-the-pentagons-push-for-directed-energy-weapons/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missile Defenses...25 Feb 2026 — A 2023 GAO report to Congress described the cost to fire a directed energy weapon at “about $1-$10 per...</p></details>
+   Link:<a href="https://thedebrief.org/iran-conflict-could-drain-u-s-missile-defenses-underscoring-the-pentagons-push-for-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/iran-conflict-could-drain-u-s-missile-defenses-underscoring-the-pentagons-push-for-directed-energy-weapons/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missile Defenses...25 Feb 2026 — A 2023 GAO report to Congress described the cost to fire a directed energy weapon at “about $1-$10 per...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: norskluftvern.com  
    Title: counter drone systems comparison c uas technology assessment  
-   Link: <a href="https://norskluftvern.com/2025/07/10/counter-drone-systems-comparison-c-uas-technology-assessment/" target="_blank" rel="noopener noreferrer nofollow">https://norskluftvern.com/2025/07/10/counter-drone-systems-comparison-c-uas-technology-assessment/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Counter-Drone Systems Comparison: C-UAS Technology...10 Jul 2025 — This represents a dramatic cost reduction compared to traditional int...</p></details>
+   Link:<a href="https://norskluftvern.com/2025/07/10/counter-drone-systems-comparison-c-uas-technology-assessment/" target="_blank" rel="noopener noreferrer nofollow">https://norskluftvern.com/2025/07/10/counter-drone-systems-comparison-c-uas-technology-assessment/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Counter-Drone Systems Comparison: C-UAS Technology...10 Jul 2025 — This represents a dramatic cost reduction compared to traditional int...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nationaldefensemagazine.org  
    Title: government perspective directed energy in air base defense can save the arsenal  
-   Link: <a href="https://www.nationaldefensemagazine.org/articles/2025/8/11/government-perspective-directed-energy-in-air-base-defense-can-save-the-arsenal" target="_blank" rel="noopener noreferrer nofollow">https://www.nationaldefensemagazine.org/articles/2025/8/11/government-perspective-directed-energy-in-air-base-defense-can-save-the-arsenal</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>High-power electromagnetic weapons require [line-of-sight](&amp;#123;&amp;#123; &#x27;dwell-time/&#x27; | relative_url &amp;#125;&amp;#125;) and are sensitive to...Read more...</p></details>
+   Link:<a href="https://www.nationaldefensemagazine.org/articles/2025/8/11/government-perspective-directed-energy-in-air-base-defense-can-save-the-arsenal" target="_blank" rel="noopener noreferrer nofollow">https://www.nationaldefensemagazine.org/articles/2025/8/11/government-perspective-directed-energy-in-air-base-defense-can-save-the-arsenal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High-power electromagnetic weapons require [line-of-sight](&amp;#123;&amp;#123; &#x27;dwell-time/&#x27; | relative_url &amp;#125;&amp;#125;) and are sensitive to...Read more...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: tno.nl  
-   Link: <a href="https://www.tno.nl/en/safe/integrated-air-missile-defence/" target="_blank" rel="noopener noreferrer nofollow">https://www.tno.nl/en/safe/integrated-air-missile-defence/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>/nlIntegrated air and missile defenceDrones and hypersonic missiles can bypass conventional air defense, necessitating a new comprehensiv...</p></details>
+   Link:<a href="https://www.tno.nl/en/safe/integrated-air-missile-defence/" target="_blank" rel="noopener noreferrer nofollow">https://www.tno.nl/en/safe/integrated-air-missile-defence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>/nlIntegrated air and missile defenceDrones and hypersonic missiles can bypass conventional air defense, necessitating a new comprehensiv...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: breakingdefense.com  
-   Link: <a href="https://breakingdefense.com/2026/06/mbda-showcases-hybrid-high-energy-laser-interceptor-counter-drone-system/" target="_blank" rel="noopener noreferrer nofollow">https://breakingdefense.com/2026/06/mbda-showcases-hybrid-high-energy-laser-interceptor-counter-drone-system/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MBDA showcases hybrid high-energy laser, interceptor...8 days ago — The laser is specifically intended to neutralize close-range targets...</p></details>
+   Link:<a href="https://breakingdefense.com/2026/06/mbda-showcases-hybrid-high-energy-laser-interceptor-counter-drone-system/" target="_blank" rel="noopener noreferrer nofollow">https://breakingdefense.com/2026/06/mbda-showcases-hybrid-high-energy-laser-interceptor-counter-drone-system/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MBDA showcases hybrid high-energy laser, interceptor...8 days ago — The laser is specifically intended to neutralize close-range targets...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: leidos.com  
-   Link: <a href="https://www.leidos.com/markets/defense/Integrated-Air-and-Missile-Defense" target="_blank" rel="noopener noreferrer nofollow">https://www.leidos.com/markets/defense/Integrated-Air-and-Missile-Defense</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Integrated Air and Missile DefenseLeidos develops a range of air and missile defense systems, creating a layered defense strategy with fl...</p></details>
+   Link:<a href="https://www.leidos.com/markets/defense/Integrated-Air-and-Missile-Defense" target="_blank" rel="noopener noreferrer nofollow">https://www.leidos.com/markets/defense/Integrated-Air-and-Missile-Defense</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Integrated Air and Missile DefenseLeidos develops a range of air and missile defense systems, creating a layered defense strategy with fl...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reports.nlr.nl  
-   Link: <a href="https://reports.nlr.nl/server/api/core/bitstreams/4f7c637f-62f2-4cc8-aaec-c50e89715b48/content" target="_blank" rel="noopener noreferrer nofollow">https://reports.nlr.nl/server/api/core/bitstreams/4f7c637f-62f2-4cc8-aaec-c50e89715b48/content</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NLR ReportsNew [Generation](&amp;#123;&amp;#123; &#x27;generation-ii/&#x27; | relative_url &amp;#125;&amp;#125;) of Counter UAS Systems to Defeat of Low...by J Dominicus · Cited by 15 — A next generation of C-UAS systems wi...</p></details>
+   Link:<a href="https://reports.nlr.nl/server/api/core/bitstreams/4f7c637f-62f2-4cc8-aaec-c50e89715b48/content" target="_blank" rel="noopener noreferrer nofollow">https://reports.nlr.nl/server/api/core/bitstreams/4f7c637f-62f2-4cc8-aaec-c50e89715b48/content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NLR ReportsNew [Generation](&amp;#123;&amp;#123; &#x27;generation-ii/&#x27; | relative_url &amp;#125;&amp;#125;) of Counter UAS Systems to Defeat of Low...by J Dominicus · Cited by 15 — A next generation of C-UAS systems wi...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: onr.navy.mil  
-   Link: <a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons and High Energy LasersTechniques to synthetically degrade the atmosphere for directed energy propagation are of i...</p></details>
+   Link:<a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons and High Energy LasersTechniques to synthetically degrade the atmosphere for directed energy propagation are of i...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: upload.wikimedia.org  
    Title: Direct energy weapons invisible and invincible? (IA directenergyweap109453311)  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/2/29/Direct-energy_weapons_-_invisible_and_invincible%3F_%28IA_directenergyweap109453311%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/2/29/Direct-energy_weapons_-_invisible_and_invincible%3F_%28IA_directenergyweap109453311%29.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgDirect-energy weapons: invisible and invincible?by BM Deveci · 2007 · Cited by 16 — Directed-energy weapons, which offer ad...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/2/29/Direct-energy_weapons_-_invisible_and_invincible%3F_%28IA_directenergyweap109453311%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/2/29/Direct-energy_weapons_-_invisible_and_invincible%3F_%28IA_directenergyweap109453311%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgDirect-energy weapons: invisible and invincible?by BM Deveci · 2007 · Cited by 16 — Directed-energy weapons, which offer ad...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: leonardodrs.com  
    Title: counter drone stryker armored vehicle armed with lasers rockets guns unveiled  
-   Link: <a href="https://www.leonardodrs.com/news/in-the-news/counter-drone-stryker-armored-vehicle-armed-with-lasers-rockets-guns-unveiled/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonardodrs.com/news/in-the-news/counter-drone-stryker-armored-vehicle-armed-with-lasers-rockets-guns-unveiled/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>C-UAS Drone Stryker Vehicle Armed With Lasers Unveiled14 Oct 2024 — A new counter-drone focused variant of the Stryker armed with a laser...</p></details>
+   Link:<a href="https://www.leonardodrs.com/news/in-the-news/counter-drone-stryker-armored-vehicle-armed-with-lasers-rockets-guns-unveiled/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonardodrs.com/news/in-the-news/counter-drone-stryker-armored-vehicle-armed-with-lasers-rockets-guns-unveiled/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>C-UAS Drone Stryker Vehicle Armed With Lasers Unveiled14 Oct 2024 — A new counter-drone focused variant of the Stryker armed with a laser...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: unmannedairspace.info  
    Title: us gao report directed energy weapon technical maturity levels still lagging  
-   Link: <a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-gao-report-directed-energy-weapon-technical-maturity-levels-still-lagging/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-gao-report-directed-energy-weapon-technical-maturity-levels-still-lagging/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>directed energy weapon technical maturity levels still laggingUS GAO report: directed energy weapon technical maturity levels still lagging...</p></details>
+   Link:<a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-gao-report-directed-energy-weapon-technical-maturity-levels-still-lagging/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-gao-report-directed-energy-weapon-technical-maturity-levels-still-lagging/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>directed energy weapon technical maturity levels still laggingUS GAO report: directed energy weapon technical maturity levels still lagging...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X1toVupe_R8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Directed Energy Weapons SystemsDSIAC Webinar: &quot;High-Power, Radio Frequency/Microwave-Directed Energy Weapon Effects&quot;. Defense System...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X1toVupe_R8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Directed Energy Weapons SystemsDSIAC Webinar: &quot;High-Power, Radio Frequency/Microwave-Directed Energy Weapon Effects&quot;. Defense System...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: aspistrategist.org.au  
    Title: war at the speed of light the emerging role of directed energy weapons  
-   Link: <a href="https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow">https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the emerging role of directed-energy weapons15 Apr 2026 — The report argues that it is important for Defence to develop a directed-energy...</p></details>
+   Link:<a href="https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow">https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the emerging role of directed-energy weapons15 Apr 2026 — The report argues that it is important for Defence to develop a directed-energy...</p></details>

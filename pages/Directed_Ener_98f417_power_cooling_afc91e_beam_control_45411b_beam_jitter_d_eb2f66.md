@@ -275,7 +275,7 @@ image: /assets/images/Directed_Ener_98f417_power_cooling_afc91e_beam_control_454
 
 ## Introduction
 
-A directed-energy laser does not win by power alone. It wins by keeping that power concentrated on the same tiny location long enough for heat to build past a damage threshold. Beam jitter—the small, rapid motion of the laser spot caused by vibration, tracking error, atmospheric effects or optical instability—can prevent that from happening. Even when a laser generates enormous optical power, slight aim-point fluctuations can spread energy over a larger area, reducing peak temperature and extending the time needed to damage a target. In some cases, jitter can turn a potentially destructive beam into little more than a heating source. Studies of high-energy laser propagation and beam-control systems consistently identify pointing stability as a critical factor in achieving the required irradiance and fluence on target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ijmer.com/papers/Vol4_Issue2/Version-1/N04201123127.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijmer.com">[ijmer.com+2AIAA Arc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijmer.com</span><span class="citation-popover-title">Real time adaptive optical system for beam jitter correction ...The jitter in a high power laser may results from platform vibrations and</span><span class="citation-popover-snippet">dynamically varying in-homogeneities in the lasing medium</span></span></span>
+A directed-energy laser does not win by power alone. It wins by keeping that power concentrated on the same tiny location long enough for heat to build past a damage threshold. Beam jitter—the small, rapid motion of the laser spot caused by vibration, tracking error, atmospheric effects or optical instability—can prevent that from happening. Even when a laser generates enormous optical power, slight aim-point fluctuations can spread energy over a larger area, reducing peak temperature and extending the time needed to damage a target. In some cases, jitter can turn a potentially destructive beam into little more than a heating source. Studies of high-energy laser propagation and beam-control systems consistently identify pointing stability as a critical factor in achieving the required irradiance and fluence on target.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ijmer.com/papers/Vol4_Issue2/Version-1/N04201123127.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijmer.com">[ijmer.com+2AIAA Arc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijmer.com</span><span class="citation-popover-title">Real time adaptive optical system for beam jitter correction ...The jitter in a high power laser may results from platform vibrations and</span><span class="citation-popover-snippet">dynamically varying in-homogeneities in the lasing medium</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_power_cooling_afc91e_beam_control_45411b_beam_jitter_d_eb2f66-Illustration-1-dark.svg" | relative_url }}" alt="Beam Jitter illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_power_cooling_afc91e_beam_control_45411b_beam_jitter_d_eb2f66-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_power_cooling_afc91e_beam_control_45411b_beam_jitter_d_eb2f66-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -283,7 +283,7 @@ A directed-energy laser does not win by power alone. It wins by keeping that pow
 
 Beam jitter is usually measured as an angular pointing error. At the laser aperture, the movement may appear insignificant—often measured in microradians. Over long distances, however, tiny angular deviations translate into substantial spot displacement.
 
-The relationship is straightforward: linear displacement on the target increases approximately in proportion to range. A minute angular error that produces a barely noticeable shift at short distance can move the beam many centimetres or even metres away from its intended aim point at operational ranges. High-energy laser researchers therefore treat pointing stability as a fundamental performance parameter rather than a secondary [engineering]({{ 'engineering/' | relative_url }}) detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ijmer.com/papers/Vol4_Issue2/Version-1/N04201123127.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijmer.com">[ijmer.com+2rp-photonics.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijmer.com</span><span class="citation-popover-title">Real time adaptive optical system for beam jitter correction ...The jitter in a high power laser may results from platform vibrations and</span><span class="citation-popover-snippet">dynamically varying in-homogeneities in the lasing medium</span></span></span>
+The relationship is straightforward: linear displacement on the target increases approximately in proportion to range. A minute angular error that produces a barely noticeable shift at short distance can move the beam many centimetres or even metres away from its intended aim point at operational ranges. High-energy laser researchers therefore treat pointing stability as a fundamental performance parameter rather than a secondary [engineering]({{ 'engineering/' | relative_url }}) detail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ijmer.com/papers/Vol4_Issue2/Version-1/N04201123127.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijmer.com">[ijmer.com+2rp-photonics.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijmer.com</span><span class="citation-popover-title">Real time adaptive optical system for beam jitter correction ...The jitter in a high power laser may results from platform vibrations and</span><span class="citation-popover-snippet">dynamically varying in-homogeneities in the lasing medium</span></span></span>
 
 This problem is especially severe because laser weapons often aim at specific vulnerable locations rather than entire vehicles. A beam intended for a sensor window, control surface, seeker head or thin structural feature may miss the critical spot entirely if jitter moves the beam footprint around the target.
 
@@ -291,9 +291,9 @@ Several mechanisms contribute to jitter:
 
 * Platform vibration from aircraft, ships or ground vehicles.
 * Mechanical motion in beam-steering systems.
-* Atmospheric turbulence that alters the beam path. <span class="citation-chip-wrap"><a class="citation-chip" href="http://www.youtube.com/watch?v=FnMm5aiuBHs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Current status of adaptive optics imaging through deep atmospheric turbulence</span><span class="citation-popover-snippet">Laser beam across atmospheric turbulence...</span></span></span>
+* Atmospheric turbulence that alters the beam path.<span class="citation-chip-wrap"><a class="citation-chip" href="http://www.youtube.com/watch?v=FnMm5aiuBHs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Current status of adaptive optics imaging through deep atmospheric turbulence</span><span class="citation-popover-snippet">Laser beam across atmospheric turbulence...</span></span></span>
 * Thermal distortions in optical components.
-* [Tracking errors]({{ 'tracking-errors/' | relative_url }}) caused by target manoeuvres. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ijmer.com/papers/Vol4_Issue2/Version-1/N04201123127.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijmer.com">[ijmer.com+2rp-photonics.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijmer.com</span><span class="citation-popover-title">Real time adaptive optical system for beam jitter correction ...The jitter in a high power laser may results from platform vibrations and</span><span class="citation-popover-snippet">dynamically varying in-homogeneities in the lasing medium</span></span></span>
+* [Tracking errors]({{ 'tracking-errors/' | relative_url }}) caused by target manoeuvres.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ijmer.com/papers/Vol4_Issue2/Version-1/N04201123127.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijmer.com">[ijmer.com+2rp-photonics.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijmer.com</span><span class="citation-popover-title">Real time adaptive optical system for beam jitter correction ...The jitter in a high power laser may results from platform vibrations and</span><span class="citation-popover-snippet">dynamically varying in-homogeneities in the lasing medium</span></span></span>
 
 The result is a continuously moving laser spot rather than a perfectly fixed one.
 
@@ -312,7 +312,7 @@ The result is a continuously moving laser spot rather than a perfectly fixed one
 
 The most important consequence of jitter is not simply missing the target. It is reducing peak heating.
 
-Laser damage depends heavily on irradiance, the amount of power delivered per unit area. If a beam remains tightly focused on one location, heat accumulates faster than it can dissipate. Material temperature rises steadily until melting, ablation, structural weakening or another damage mechanism begins. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arc.aiaa.org/doi/10.2514/1.J061766" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arc.aiaa.org">[AIAA Arc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arc.aiaa.org</span><span class="citation-popover-snippet">AIAA ArcAdaptive Optics for Directed Energy: Fundamentals and...by RB Holmes · 2022 · Cited by 28 — For peak irradiance, adaptive optics...</span></span></span>
+Laser damage depends heavily on irradiance, the amount of power delivered per unit area. If a beam remains tightly focused on one location, heat accumulates faster than it can dissipate. Material temperature rises steadily until melting, ablation, structural weakening or another damage mechanism begins.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arc.aiaa.org/doi/10.2514/1.J061766" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arc.aiaa.org">[AIAA Arc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arc.aiaa.org</span><span class="citation-popover-snippet">AIAA ArcAdaptive Optics for Directed Energy: Fundamentals and...by RB Holmes · 2022 · Cited by 28 — For peak irradiance, adaptive optics...</span></span></span>
 
 When jitter causes the spot to wander, the same total [laser power]({{ 'power-costs/' | relative_url }}) is distributed across a larger effective area. Instead of one intensely heated point, the target experiences a series of lower-intensity exposures. Each location receives less energy before the beam moves elsewhere.
 
@@ -358,194 +358,194 @@ Recent work on high-power laser facilities has shown that predictive control sys
 In operational laser weapons, the practical measure of success is not merely how much power leaves the laser. It is how much of that power remains concentrated on the correct location for the required dwell time. Beam jitter directly attacks that requirement. By enlarging the effective spot, lowering peak irradiance and interrupting thermal accumulation, tiny pointing errors can defeat a laser that is otherwise powerful enough to cause damage. [ijmer.com+2Google Patents](https://www.ijmer.com/papers/Vol4_Issue2/Version-1/N04201123127.pdf)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Tiny Beam Jitters Matter So Much. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Tiny Beam Jitters Matter So Much. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Field+guide+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Field guide to adaptive optics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1554860-M.jpg" alt="Cover for Field guide to adaptive optics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Field+guide+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field guide to adaptive optics">Field guide to adaptive optics</a>
-        </h4>
-        <p class="fr-book-author">By Robert K. Tyson, Benjamin W. Frazier</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Field+guide+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Field guide to adaptive optics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1554860-M.jpg" alt="Cover for Field guide to adaptive optics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Field+guide+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field guide to adaptive optics">Field guide to adaptive optics</a>
+</h4>
+<p class="fr-book-author">By Robert K. Tyson, Benjamin W. Frazier</p>
         
-        <p class="fr-book-desc">First published 2004. Subjects: Adaptive Optics, Optical detectors, Optical measurements, Optics, Adaptive, Applied optics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Field+guide+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2004. Subjects: Adaptive Optics, Optical detectors, Optical measurements, Optics, Adaptive, Applied optics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Field+guide+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to adaptive optics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8312561-M.jpg" alt="Cover for Introduction to adaptive optics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to adaptive optics">Introduction to adaptive optics</a>
-        </h4>
-        <p class="fr-book-author">By Robert K. Tyson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to adaptive optics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8312561-M.jpg" alt="Cover for Introduction to adaptive optics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to adaptive optics">Introduction to adaptive optics</a>
+</h4>
+<p class="fr-book-author">By Robert K. Tyson</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Adaptive Optics, Optical detectors, Optical instruments, Optical measurements, Optics, Adaptive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Adaptive Optics, Optical detectors, Optical instruments, Optical measurements, Optics, Adaptive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Principles+of+Lasers+Orazio+Svelto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Principles of Lasers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8709531-M.jpg" alt="Cover for Principles of Lasers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Principles+of+Lasers+Orazio+Svelto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Principles of Lasers">Principles of Lasers</a>
-        </h4>
-        <p class="fr-book-author">By Orazio Svelto</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Principles+of+Lasers+Orazio+Svelto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Principles of Lasers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8709531-M.jpg" alt="Cover for Principles of Lasers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Principles+of+Lasers+Orazio+Svelto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Principles of Lasers">Principles of Lasers</a>
+</h4>
+<p class="fr-book-author">By Orazio Svelto</p>
         
-        <p class="fr-book-desc">First published 1970. Subjects: Lasers, Quantum theory, Physics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Principles+of+Lasers+Orazio+Svelto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1970. Subjects: Lasers, Quantum theory, Physics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Principles+of+Lasers+Orazio+Svelto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Laser+Beam+Propagation+Andrew+Forbes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Laser Beam Propagation on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Laser+Beam+Propagation+Andrew+Forbes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser Beam Propagation">Laser Beam Propagation</a>
-        </h4>
-        <p class="fr-book-author">By Andrew Forbes</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Laser+Beam+Propagation+Andrew+Forbes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Laser Beam Propagation on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Laser+Beam+Propagation+Andrew+Forbes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser Beam Propagation">Laser Beam Propagation</a>
+</h4>
+<p class="fr-book-author">By Andrew Forbes</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Physics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Laser+Beam+Propagation+Andrew+Forbes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Physics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Laser+Beam+Propagation+Andrew+Forbes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Field+to+adaptive+optics+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Field to adaptive optics books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+adaptive+optics+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to adaptive optics books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Principles+of+Lasers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Principles of Lasers</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Field+to+adaptive+optics+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Field to adaptive optics books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+adaptive+optics+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to adaptive optics books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Principles+of+Lasers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Principles of Lasers</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology patch" data-ebay-reference="beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weapons Engineering Mechanic Patch Uniform Jacket Coat Dress Badge"><img src="{{ '/assets/images/marketplace-covers/18a915f8edac1f9ddc73.jpg' | relative_url }}" alt="Listing image for Weapons Engineering Mechanic Patch Uniform Jacket Coat Dress Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology patch" data-ebay-reference="beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch" target="_blank" rel="sponsored noopener noreferrer">Weapons Engineering Mechanic Patch Uniform Jacket Coat Dress Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology patch" data-ebay-reference="beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military technology patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military technology patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology patch" data-ebay-reference="beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology patch" data-ebay-reference="beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weapons Engineering Mechanic Patch Uniform Jacket Coat Dress Badge"><img src="{{ '/assets/images/marketplace-covers/18a915f8edac1f9ddc73.jpg' | relative_url }}" alt="Listing image for Weapons Engineering Mechanic Patch Uniform Jacket Coat Dress Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology patch" data-ebay-reference="beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch" target="_blank" rel="sponsored noopener noreferrer">Weapons Engineering Mechanic Patch Uniform Jacket Coat Dress Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology patch" data-ebay-reference="beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military technology patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: military technology patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology patch" data-ebay-reference="beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology patch" data-ebay-reference="beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for British Army - Engineering &amp; Logistics Staff Corps - Sew On Patch No3355"><img src="{{ '/assets/images/marketplace-covers/45554a1a7fdd8aec55e5.jpg' | relative_url }}" alt="Listing image for British Army - Engineering &amp; Logistics Staff Corps - Sew On Patch No3355" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology patch" data-ebay-reference="beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch" target="_blank" rel="sponsored noopener noreferrer">British Army - Engineering &amp; Logistics Staff Corps - Sew On Patch No3355</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology patch" data-ebay-reference="beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military technology patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military technology patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology patch" data-ebay-reference="beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology patch" data-ebay-reference="beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for British Army - Engineering &amp; Logistics Staff Corps - Sew On Patch No3355"><img src="{{ '/assets/images/marketplace-covers/45554a1a7fdd8aec55e5.jpg' | relative_url }}" alt="Listing image for British Army - Engineering &amp; Logistics Staff Corps - Sew On Patch No3355" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology patch" data-ebay-reference="beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch" target="_blank" rel="sponsored noopener noreferrer">British Army - Engineering &amp; Logistics Staff Corps - Sew On Patch No3355</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology patch" data-ebay-reference="beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military technology patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: military technology patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology patch" data-ebay-reference="beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology patch" data-ebay-reference="beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROYAL AIR FORCE LOSSIEMOUTH ENGINEERING LOGISTICS WING 3D PVC PATCH"><img src="{{ '/assets/images/marketplace-covers/47668e8e7156e0a272b5.jpg' | relative_url }}" alt="Listing image for ROYAL AIR FORCE LOSSIEMOUTH ENGINEERING LOGISTICS WING 3D PVC PATCH" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology patch" data-ebay-reference="beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch" target="_blank" rel="sponsored noopener noreferrer">ROYAL AIR FORCE LOSSIEMOUTH ENGINEERING LOGISTICS WING 3D PVC PATCH</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology patch" data-ebay-reference="beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military technology patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military technology patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology patch" data-ebay-reference="beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology patch" data-ebay-reference="beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROYAL AIR FORCE LOSSIEMOUTH ENGINEERING LOGISTICS WING 3D PVC PATCH"><img src="{{ '/assets/images/marketplace-covers/47668e8e7156e0a272b5.jpg' | relative_url }}" alt="Listing image for ROYAL AIR FORCE LOSSIEMOUTH ENGINEERING LOGISTICS WING 3D PVC PATCH" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology patch" data-ebay-reference="beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch" target="_blank" rel="sponsored noopener noreferrer">ROYAL AIR FORCE LOSSIEMOUTH ENGINEERING LOGISTICS WING 3D PVC PATCH</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology patch" data-ebay-reference="beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military technology patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: military technology patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology patch" data-ebay-reference="beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology patch" data-ebay-reference="beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for British Royal Navy Weapons Engineering Mechanic (Ordnance) Trade Patch"><img src="{{ '/assets/images/marketplace-covers/18ab48613cd4b44f5f4c.jpg' | relative_url }}" alt="Listing image for British Royal Navy Weapons Engineering Mechanic (Ordnance) Trade Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology patch" data-ebay-reference="beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch" target="_blank" rel="sponsored noopener noreferrer">British Royal Navy Weapons Engineering Mechanic (Ordnance) Trade Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology patch" data-ebay-reference="beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military technology patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military technology patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology patch" data-ebay-reference="beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology patch" data-ebay-reference="beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology patch" data-ebay-reference="beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for British Royal Navy Weapons Engineering Mechanic (Ordnance) Trade Patch"><img src="{{ '/assets/images/marketplace-covers/18ab48613cd4b44f5f4c.jpg' | relative_url }}" alt="Listing image for British Royal Navy Weapons Engineering Mechanic (Ordnance) Trade Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology patch" data-ebay-reference="beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch" target="_blank" rel="sponsored noopener noreferrer">British Royal Navy Weapons Engineering Mechanic (Ordnance) Trade Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology patch" data-ebay-reference="beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military technology patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: military technology patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology patch" data-ebay-reference="beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology patch" data-ebay-reference="beam-jitter-why-tiny-beam-jitters-matter-so-much-directed-ener-military-technology-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -561,7 +561,7 @@ In operational laser weapons, the practical measure of success is not merely how
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -581,7 +581,7 @@ In operational laser weapons, the practical measure of success is not merely how
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -613,7 +613,7 @@ In operational laser weapons, the practical measure of success is not merely how
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -665,7 +665,7 @@ In operational laser weapons, the practical measure of success is not merely how
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -710,7 +710,7 @@ In operational laser weapons, the practical measure of success is not merely how
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -751,95 +751,95 @@ In operational laser weapons, the practical measure of success is not merely how
 
 ## Endnotes
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arc.aiaa.org  
-   Link: <a href="https://arc.aiaa.org/doi/10.2514/1.J061766" target="_blank" rel="noopener noreferrer nofollow">https://arc.aiaa.org/doi/10.2514/1.J061766</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AIAA ArcAdaptive Optics for Directed Energy: Fundamentals and...by RB Holmes · 2022 · Cited by 28 — For peak irradiance, adaptive optics...</p></details>
+   Link:<a href="https://arc.aiaa.org/doi/10.2514/1.J061766" target="_blank" rel="noopener noreferrer nofollow">https://arc.aiaa.org/doi/10.2514/1.J061766</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AIAA ArcAdaptive Optics for Directed Energy: Fundamentals and...by RB Holmes · 2022 · Cited by 28 — For peak irradiance, adaptive optics...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: patents.google.com  
-   Link: <a href="https://patents.google.com/patent/WO2021071559A1/en" target="_blank" rel="noopener noreferrer nofollow">https://patents.google.com/patent/WO2021071559A1/en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google PatentsAtmospheric jitter correction and target tracking using...Target dynamics, such as changes in direction or velocity of the...</p></details>
+   Link:<a href="https://patents.google.com/patent/WO2021071559A1/en" target="_blank" rel="noopener noreferrer nofollow">https://patents.google.com/patent/WO2021071559A1/en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google PatentsAtmospheric jitter correction and target tracking using...Target dynamics, such as changes in direction or velocity of the...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: rp-photonics.com  
-   Link: <a href="https://www.rp-photonics.com/beam_pointing_fluctuations.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rp-photonics.com/beam_pointing_fluctuations.html</a>  
+   Link:<a href="https://www.rp-photonics.com/beam_pointing_fluctuations.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rp-photonics.com/beam_pointing_fluctuations.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/330488869_Analysis_of_Beam_Wander_and_Pointing_Error_on_Laser_Beam_Propagation_through_[Atmosphere" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/330488869_Analysis_of_Beam_Wander_and_Pointing_Error_on_Laser_Beam_Propagation_through_[Atmosphere</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Beam Wander and Pointing Error on Laser...30 Jan 2019 — The random deviation occurring in the laser beam pointing system due...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/330488869_Analysis_of_Beam_Wander_and_Pointing_Error_on_Laser_Beam_Propagation_through_[Atmosphere" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/330488869_Analysis_of_Beam_Wander_and_Pointing_Error_on_Laser_Beam_Propagation_through_[Atmosphere</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Beam Wander and Pointing Error on Laser...30 Jan 2019 — The random deviation occurring in the laser beam pointing system due...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: atap.lbl.gov  
    Title: machine learning helps ease the jitters of high power lasers  
-   Link: <a href="https://atap.lbl.gov/news/machine-learning-helps-ease-the-jitters-of-high-power-lasers/" target="_blank" rel="noopener noreferrer nofollow">https://atap.lbl.gov/news/machine-learning-helps-ease-the-jitters-of-high-power-lasers/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Machine Learning Helps Ease The Jitters Of High-Power Lasers11 Jun 2025 — The method can make real-time adjustments to minimize jitter by...</p></details>
+   Link:<a href="https://atap.lbl.gov/news/machine-learning-helps-ease-the-jitters-of-high-power-lasers/" target="_blank" rel="noopener noreferrer nofollow">https://atap.lbl.gov/news/machine-learning-helps-ease-the-jitters-of-high-power-lasers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Machine Learning Helps Ease The Jitters Of High-Power Lasers11 Jun 2025 — The method can make real-time adjustments to minimize jitter by...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
    Title: Research Gate Performance of laser tracking of small targets during  
-   Link: <a href="https://www.researchgate.net/publication/253567581_Performance_of_laser_tracking_of_small_targets_during_turbulence_and_beam_jitter" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/253567581_Performance_of_laser_tracking_of_small_targets_during_turbulence_and_beam_jitter</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The results are presented as tracking errors vs the angular spot size of the laser beam in...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/253567581_Performance_of_laser_tracking_of_small_targets_during_turbulence_and_beam_jitter" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/253567581_Performance_of_laser_tracking_of_small_targets_during_turbulence_and_beam_jitter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The results are presented as tracking errors vs the angular spot size of the laser beam in...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: rp-photonics.com  
    Title: thermal [blooming](&#123;&#123; 'blooming/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.rp-photonics.com/thermal_blooming.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rp-photonics.com/thermal_blooming.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The beam heats the...Read more...</p></details>
+   Link:<a href="https://www.rp-photonics.com/thermal_blooming.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rp-photonics.com/thermal_blooming.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The beam heats the...Read more...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: brightsolutions.it  
-   Link: <a href="https://brightsolutions.it/wp-content/uploads/2020/07/Low-Jitter-feature-in-Actively-Q-Switched-DPSS-lasers-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://brightsolutions.it/wp-content/uploads/2020/07/Low-Jitter-feature-in-Actively-Q-Switched-DPSS-lasers-1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Low Jitter feature in Actively Q-Switched DPSS lasersIf the above-defined jitter Tj is in the order of 1 ns, the error in the measurement...</p></details>
+   Link:<a href="https://brightsolutions.it/wp-content/uploads/2020/07/Low-Jitter-feature-in-Actively-Q-Switched-DPSS-lasers-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://brightsolutions.it/wp-content/uploads/2020/07/Low-Jitter-feature-in-Actively-Q-Switched-DPSS-lasers-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Low Jitter feature in Actively Q-Switched DPSS lasersIf the above-defined jitter Tj is in the order of 1 ns, the error in the measurement...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: oar.ptb.de  
-   Link: <a href="https://oar.ptb.de/files/download/681c517853218de84f08e685" target="_blank" rel="noopener noreferrer nofollow">https://oar.ptb.de/files/download/681c517853218de84f08e685</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of misalignment and angular scale errors of...We report on the determination of laser tracker geometrical alignment and angular scale er...</p></details>
+   Link:<a href="https://oar.ptb.de/files/download/681c517853218de84f08e685" target="_blank" rel="noopener noreferrer nofollow">https://oar.ptb.de/files/download/681c517853218de84f08e685</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of misalignment and angular scale errors of...We report on the determination of laser tracker geometrical alignment and angular scale er...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: deps.org  
-   Link: <a href="https://deps.org/DEPSpages/JDE/JV2N3P1-Long.pdf" target="_blank" rel="noopener noreferrer nofollow">https://deps.org/DEPSpages/JDE/JV2N3P1-Long.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scott N. Long* and J. O. Miller. Air Force... Thermal blooming distortion usually reduces the peak irradiance of the laser.Read more...</p></details>
+   Link:<a href="https://deps.org/DEPSpages/JDE/JV2N3P1-Long.pdf" target="_blank" rel="noopener noreferrer nofollow">https://deps.org/DEPSpages/JDE/JV2N3P1-Long.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scott N. Long* and J. O. Miller. Air Force... Thermal blooming distortion usually reduces the peak irradiance of the laser.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=6PNofWfrf9E" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=6PNofWfrf9E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed energy weapon tracking beam alignment Beam Pointing Stability Measurement Made Easy with BeamTrack &amp; StarLab Ophir Photonics - A...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=6PNofWfrf9E" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=6PNofWfrf9E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed energy weapon tracking beam alignment Beam Pointing Stability Measurement Made Easy with BeamTrack &amp; StarLab Ophir Photonics - A...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: link.aps.org  
-   Link: <a href="https://link.aps.org/doi/10.1103/PhysRevSTAB.17.032803" target="_blank" rel="noopener noreferrer nofollow">https://link.aps.org/doi/10.1103/PhysRevSTAB.17.032803</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>time resolution beam-based measurement of the rf-to...by Z Zhang · 2014 · Cited by 11 — A new method based on the rf compression effect...</p></details>
+   Link:<a href="https://link.aps.org/doi/10.1103/PhysRevSTAB.17.032803" target="_blank" rel="noopener noreferrer nofollow">https://link.aps.org/doi/10.1103/PhysRevSTAB.17.032803</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>time resolution beam-based measurement of the rf-to...by Z Zhang · 2014 · Cited by 11 — A new method based on the rf compression effect...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: How Atmospheric Turbulence Can be Used to Improve Optical Systems Performance  
-   Link: <a href="http://www.youtube.com/watch?v=yAd4yMDaQ7w" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=yAd4yMDaQ7w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Current status of adaptive optics imaging through deep atmospheric turbulence...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=yAd4yMDaQ7w" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=yAd4yMDaQ7w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Current status of adaptive optics imaging through deep atmospheric turbulence...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Beam Pointing Stability Measurement Made Easy with Beam Track & Star Lab  
-   Link: <a href="http://www.youtube.com/watch?v=Rc24AFu88qM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Rc24AFu88qM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Atmospheric Turbulence Can be Used to Improve Optical Systems Performance...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=Rc24AFu88qM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Rc24AFu88qM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Atmospheric Turbulence Can be Used to Improve Optical Systems Performance...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: clf.stfc.ac.uk  
-   Link: <a href="https://www.clf.stfc.ac.uk/Gallery/29%20-%20Dann.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.clf.stfc.ac.uk/Gallery/29%20-%20Dann.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pointing Stabilisation on the Gemini Laser System - CLFThese can manifest as random jitter affecting each laser pulse independently, or a...</p></details>
+   Link:<a href="https://www.clf.stfc.ac.uk/Gallery/29%20-%20Dann.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.clf.stfc.ac.uk/Gallery/29%20-%20Dann.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pointing Stabilisation on the Gemini Laser System - CLFThese can manifest as random jitter affecting each laser pulse independently, or a...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Current status of adaptive optics imaging through deep atmospheric turbulence  
-   Link: <a href="http://www.youtube.com/watch?v=FnMm5aiuBHs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=FnMm5aiuBHs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser beam across atmospheric turbulence...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=FnMm5aiuBHs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=FnMm5aiuBHs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser beam across atmospheric turbulence...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sciopen.com  
    Title: kqdlxxb 2024.0156  
-   Link: <a href="https://www.sciopen.com/article/10.7638/kqdlxxb-2024.0156" target="_blank" rel="noopener noreferrer nofollow">https://www.sciopen.com/article/10.7638/kqdlxxb-2024.0156</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Numerical simulation of aero-optical thermal blooming...by Z WEI · 2025 — This effect refers to the phase distortion and degradation of...</p></details>
+   Link:<a href="https://www.sciopen.com/article/10.7638/kqdlxxb-2024.0156" target="_blank" rel="noopener noreferrer nofollow">https://www.sciopen.com/article/10.7638/kqdlxxb-2024.0156</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Numerical simulation of aero-optical thermal blooming...by Z WEI · 2025 — This effect refers to the phase distortion and degradation of...</p></details>

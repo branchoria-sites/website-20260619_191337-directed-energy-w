@@ -294,17 +294,17 @@ image: /assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_frie_0d
 
 ## Introduction
 
-Leonidas is marketed as a solution to one of modern air defence’s hardest problems: defeating many drones at once. Its high-power microwave (HPM) approach is attractive precisely because it can affect multiple electronic targets within a volume of space rather than engaging each drone individually. Yet that same strength creates one of the central operational questions surrounding the system: how to disable hostile electronics without creating unacceptable risks for friendly electronics operating nearby. The challenge is not unique to Leonidas, but it is especially important for microwave-based counter-swarm systems because they rely on electromagnetic effects that can extend across an area rather than being confined to a single physical point of impact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — High power microwave weapons produce microwaves, which have longer wave...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+Leonidas is marketed as a solution to one of modern air defence’s hardest problems: defeating many drones at once. Its high-power microwave (HPM) approach is attractive precisely because it can affect multiple electronic targets within a volume of space rather than engaging each drone individually. Yet that same strength creates one of the central operational questions surrounding the system: how to disable hostile electronics without creating unacceptable risks for friendly electronics operating nearby. The challenge is not unique to Leonidas, but it is especially important for microwave-based counter-swarm systems because they rely on electromagnetic effects that can extend across an area rather than being confined to a single physical point of impact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — High power microwave weapons produce microwaves, which have longer wave...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_frie_0d4251-Illustration-1-dark.svg" | relative_url }}" alt="Electronics Risk illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_frie_0d4251-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_frie_0d4251-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For military users, the issue is not whether Leonidas can affect electronics—that is the intended effect. The question is how reliably operators can control where those effects occur, which friendly systems might be exposed, and what procedures are needed to avoid disrupting their own forces while defeating a drone threat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/electronic-warfare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-snippet">EpirusEpirus Leonidas High-Power Microwave: Directed Energy...Leonidas is a solid-state, high-power HPM system, utilizing Gallium Nitrid...</span></span></span>
+For military users, the issue is not whether Leonidas can affect electronics—that is the intended effect. The question is how reliably operators can control where those effects occur, which friendly systems might be exposed, and what procedures are needed to avoid disrupting their own forces while defeating a drone threat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/electronic-warfare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-snippet">EpirusEpirus Leonidas High-Power Microwave: Directed Energy...Leonidas is a solid-state, high-power HPM system, utilizing Gallium Nitrid...</span></span></span>
 
 ## The Risk Inside a Wide Microwave Beam
 
-High-power microwave weapons work by directing electromagnetic energy into electronic systems. Unlike a laser, which generally concentrates energy on a specific spot, an HPM system can influence a broader area and potentially affect multiple targets during a single engagement. The US Government Accountability Office notes that wider-beam directed-energy systems, including high-power microwave weapons, can affect assets throughout an area rather than only a single designated target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — High power microwave weapons produce microwaves, which have longer wave...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+High-power microwave weapons work by directing electromagnetic energy into electronic systems. Unlike a laser, which generally concentrates energy on a specific spot, an HPM system can influence a broader area and potentially affect multiple targets during a single engagement. The US Government Accountability Office notes that wider-beam directed-energy systems, including high-power microwave weapons, can affect assets throughout an area rather than only a single designated target.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — High power microwave weapons produce microwaves, which have longer wave...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
-This characteristic is what makes Leonidas valuable against drone [swarms]({{ 'swarms/' | relative_url }}). A swarm presents a “one-to-many” problem, and a microwave beam offers a “one-to-many” response. Epirus has repeatedly highlighted the system's ability to generate counter-electronics effects against multiple unmanned systems simultaneously. Demonstrations have shown the platform defeating large groups of drones in a single engagement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/electronic-warfare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus+2Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-snippet">EpirusEpirus Leonidas High-Power Microwave: Directed Energy...Leonidas is a solid-state, high-power HPM system, utilizing Gallium Nitrid...</span></span></span>
+This characteristic is what makes Leonidas valuable against drone [swarms]({{ 'swarms/' | relative_url }}). A swarm presents a “one-to-many” problem, and a microwave beam offers a “one-to-many” response. Epirus has repeatedly highlighted the system's ability to generate counter-electronics effects against multiple unmanned systems simultaneously. Demonstrations have shown the platform defeating large groups of drones in a single engagement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/electronic-warfare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus+2Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-snippet">EpirusEpirus Leonidas High-Power Microwave: Directed Energy...Leonidas is a solid-state, high-power HPM system, utilizing Gallium Nitrid...</span></span></span>
 
 The trade-off is straightforward: the larger the area in which electronic effects are desired, the more important it becomes to understand what else occupies that area. Friendly radios, sensors, communications links, vehicle electronics, autonomous systems and even other defensive systems may all exist within the same battlespace.
 
@@ -324,7 +324,7 @@ If a microwave engagement area overlaps with those assets, several outcomes are 
 * Degradation of communications or sensor performance.
 * Unexpected behaviour in autonomous or remotely controlled systems.
 * Physical damage to insufficiently protected electronics in severe cases.
-* Operational confusion caused by uncertainty over whether a malfunction resulted from enemy action or friendly defensive activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onr.navy.mil">[Office of Naval Research+2GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onr.navy.mil</span><span class="citation-popover-snippet">Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spe...</span></span></span>
+* Operational confusion caused by uncertainty over whether a malfunction resulted from enemy action or friendly defensive activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onr.navy.mil">[Office of Naval Research+2GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onr.navy.mil</span><span class="citation-popover-snippet">Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spe...</span></span></span>
 
 </div>
 
@@ -334,7 +334,7 @@ The concern grows as militaries become more reliant on unmanned systems. A forma
 
 [Counter-drone]({{ 'missile-savings/' | relative_url }}) systems traditionally focus on identifying hostile aircraft and engaging them. High-power microwave systems introduce a more complex deconfliction problem because friendly drones may occupy the same airspace.
 
-Public descriptions of Leonidas emphasise software-defined control and discrimination capabilities intended to help operators manage engagements in crowded electromagnetic environments. Industry reporting has also highlighted claims that the system's waveforms can be adapted to specific operational conditions rather than relying on a single fixed effect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jedonline.com/2023/01/24/high-power-microwave-systems-getting-much-much-closer-to-operational-status/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jedonline.com">[Journal of Electromagnetic Dominance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jedonline.com</span><span class="citation-popover-snippet">Journal of Electromagnetic DominanceHigh-Power Microwave Systems – Getting (Much...January 24, 2023 — 24 Jan 2023 — This means Leonidas...</span><span class="citation-popover-meta">Published: January 24, 2023</span></span></span>
+Public descriptions of Leonidas emphasise software-defined control and discrimination capabilities intended to help operators manage engagements in crowded electromagnetic environments. Industry reporting has also highlighted claims that the system's waveforms can be adapted to specific operational conditions rather than relying on a single fixed effect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jedonline.com/2023/01/24/high-power-microwave-systems-getting-much-much-closer-to-operational-status/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jedonline.com">[Journal of Electromagnetic Dominance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jedonline.com</span><span class="citation-popover-snippet">Journal of Electromagnetic DominanceHigh-Power Microwave Systems – Getting (Much...January 24, 2023 — 24 Jan 2023 — This means Leonidas...</span><span class="citation-popover-meta">Published: January 24, 2023</span></span></span>
 
 However, discrimination does not eliminate the underlying requirement for careful airspace management. Even if a system can better distinguish targets, commanders must still determine whether friendly unmanned aircraft are operating inside the potential effects zone before firing.
 
@@ -344,9 +344,9 @@ However, discrimination does not eliminate the underlying requirement for carefu
 
 The friendly-electronics problem exists because the operational advantage is real.
 
-Drone swarms are designed to saturate defences. Traditional interceptors often engage threats individually, creating cost and magazine-depth problems. Microwave systems offer a fundamentally different geometry. Instead of tracking and destroying each target separately, they attempt to create an electromagnetic environment in which many targets become ineffective at once. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2DroneShield]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — High power microwave weapons produce microwaves, which have longer wave...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+Drone swarms are designed to saturate defences. Traditional interceptors often engage threats individually, creating cost and magazine-depth problems. Microwave systems offer a fundamentally different geometry. Instead of tracking and destroying each target separately, they attempt to create an electromagnetic environment in which many targets become ineffective at once.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2DroneShield]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — High power microwave weapons produce microwaves, which have longer wave...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
-Recent Leonidas demonstrations have reinforced this appeal. Epirus reported defeating dozens of drones during a single live-fire event, including a large swarm engagement. Such results help explain military interest in HPM technologies as a complement to missiles, guns and electronic warfare systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-snippet">EpirusEpirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone Swarm...Leonidas neutralized 61-of-61 drones, culminating in a 49-drone swa...</span></span></span>
+Recent Leonidas demonstrations have reinforced this appeal. Epirus reported defeating dozens of drones during a single live-fire event, including a large swarm engagement. Such results help explain military interest in HPM technologies as a complement to missiles, guns and electronic warfare systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-snippet">EpirusEpirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone Swarm...Leonidas neutralized 61-of-61 drones, culminating in a 49-drone swa...</span></span></span>
 
 Yet the very feature that makes these systems efficient against swarms also means commanders must think beyond the target list. The operational question becomes not simply "Can it stop the drones?" but also "What else is inside the engagement volume?"
 
@@ -357,7 +357,7 @@ Yet the very feature that makes these systems efficient against swarms also mean
 
 The practical value of Leonidas depends heavily on control mechanisms rather than microwave power alone.
 
-The Government Accountability Office has highlighted that wider-beam directed-energy systems require careful consideration because effects may extend across an area. For operators, this translates into a need for robust doctrine, training and engagement procedures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — High power microwave weapons produce microwaves, which have longer wave...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+The Government Accountability Office has highlighted that wider-beam directed-energy systems require careful consideration because effects may extend across an area. For operators, this translates into a need for robust doctrine, training and engagement procedures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — High power microwave weapons produce microwaves, which have longer wave...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 Several control requirements become especially important:
 
@@ -369,7 +369,7 @@ Several control requirements become especially important:
 
 **Layered defence integration.** Leonidas is most useful when treated as one component of a broader defence architecture. Narrower-effect systems can handle engagements where friendly assets are too close to the threat, while HPM systems can address dense swarm attacks in more permissive conditions.
 
-**Operator discretion.** The ability to adjust effects, engagement geometry and targeting logic is often as important as raw power output. Epirus itself emphasises operator control and software-defined operation as key features of the Leonidas family. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/electronic-warfare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-snippet">EpirusEpirus Leonidas High-Power Microwave: Directed Energy...Leonidas is a solid-state, high-power HPM system, utilizing Gallium Nitrid...</span></span></span>
+**Operator discretion.** The ability to adjust effects, engagement geometry and targeting logic is often as important as raw power output. Epirus itself emphasises operator control and software-defined operation as key features of the Leonidas family.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/electronic-warfare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-snippet">EpirusEpirus Leonidas High-Power Microwave: Directed Energy...Leonidas is a solid-state, high-power HPM system, utilizing Gallium Nitrid...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_frie_0d4251-Illustration-3-dark.svg" | relative_url }}" alt="Electronics Risk illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_frie_0d4251-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_frie_0d4251-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -377,201 +377,201 @@ Several control requirements become especially important:
 
 Public discussion of Leonidas often focuses on dramatic swarm-kill demonstrations, but the more revealing question may be whether it can be used repeatedly in a crowded battlespace without disrupting the friendly systems it is meant to protect.
 
-For high-power microwave weapons, effectiveness is not simply measured by the number of drones disabled. It is measured by whether commanders can create useful electronic effects against hostile systems while preserving freedom of action for their own forces. The challenge is therefore not just generating a powerful microwave beam, but shaping, controlling and integrating that beam into an environment increasingly filled with friendly electronics. In that sense, the risk to nearby electronics is not a side issue around Leonidas—it is one of the central factors determining its operational value. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2Office of Naval Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — High power microwave weapons produce microwaves, which have longer wave...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+For high-power microwave weapons, effectiveness is not simply measured by the number of drones disabled. It is measured by whether commanders can create useful electronic effects against hostile systems while preserving freedom of action for their own forces. The challenge is therefore not just generating a powerful microwave beam, but shaping, controlling and integrating that beam into an environment increasingly filled with friendly electronics. In that sense, the risk to nearby electronics is not a side issue around Leonidas—it is one of the central factors determining its operational value.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2Office of Naval Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — High power microwave weapons produce microwaves, which have longer wave...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CfOAKxRKJrA" title="Leonidas Generation II: Weaponized Electromagnetic Interference for Counter-Drone Defense" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CfOAKxRKJrA" target="_blank" rel="noopener noreferrer">Leonidas Generation II: Weaponized Electromagnetic Interference for Counter-Drone Defense</a></p><p class="youtube-embed-meta">Channel: Epirus</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CfOAKxRKJrA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CfOAKxRKJrA">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Risk Inside a Wide Microwave Beam. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Risk Inside a Wide Microwave Beam. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Discusses operational trade-offs in advanced military systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses operational trade-offs in advanced military systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
-        </h4>
-        <p class="fr-book-author">By Paul Scharre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
+</h4>
+<p class="fr-book-author">By Paul Scharre</p>
         
-        <p class="fr-book-desc">Examines risks, controls, and trust in advanced systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines risks, controls, and trust in advanced systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Wars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13717341-M.jpg" alt="Cover for Drone Wars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Wars">Drone Wars</a>
-        </h4>
-        <p class="fr-book-author">By Seth J. Frantzman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Wars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13717341-M.jpg" alt="Cover for Drone Wars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Wars">Drone Wars</a>
+</h4>
+<p class="fr-book-author">By Seth J. Frantzman</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Military art and science.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Military art and science.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
-        </h4>
-        <p class="fr-book-author">By Bahman Zohuri</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
+</h4>
+<p class="fr-book-author">By Bahman Zohuri</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Wars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Wars</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Wars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Wars</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/72C 8Pcs classic fighter bomber helicopter drone Model Military Assembly Model"><img src="{{ '/assets/images/marketplace-covers/6bbac5d334a4a0667cf5.jpg' | relative_url }}" alt="Listing image for 1/72C 8Pcs classic fighter bomber helicopter drone Model Military Assembly Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">1/72C 8Pcs classic fighter bomber helicopter drone Model Military Assembly Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/72C 8Pcs classic fighter bomber helicopter drone Model Military Assembly Model"><img src="{{ '/assets/images/marketplace-covers/6bbac5d334a4a0667cf5.jpg' | relative_url }}" alt="Listing image for 1/72C 8Pcs classic fighter bomber helicopter drone Model Military Assembly Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">1/72C 8Pcs classic fighter bomber helicopter drone Model Military Assembly Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 MQ-1 Predator Drone Reconnaissance UAV Alloy Aircraft Model Airplane Craft"><img src="{{ '/assets/images/marketplace-covers/0f530137158c75597cc2.jpg' | relative_url }}" alt="Listing image for 1:72 MQ-1 Predator Drone Reconnaissance UAV Alloy Aircraft Model Airplane Craft" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">1:72 MQ-1 Predator Drone Reconnaissance UAV Alloy Aircraft Model Airplane Craft</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 MQ-1 Predator Drone Reconnaissance UAV Alloy Aircraft Model Airplane Craft"><img src="{{ '/assets/images/marketplace-covers/0f530137158c75597cc2.jpg' | relative_url }}" alt="Listing image for 1:72 MQ-1 Predator Drone Reconnaissance UAV Alloy Aircraft Model Airplane Craft" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">1:72 MQ-1 Predator Drone Reconnaissance UAV Alloy Aircraft Model Airplane Craft</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academy US Army Drone RQ-7B UAV 1/35 Scale Military Aircraft Model Kit 12117"><img src="{{ '/assets/images/marketplace-covers/54f43ced846c284ab9ae.jpg' | relative_url }}" alt="Listing image for Academy US Army Drone RQ-7B UAV 1/35 Scale Military Aircraft Model Kit 12117" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">Academy US Army Drone RQ-7B UAV 1/35 Scale Military Aircraft Model Kit 12117</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academy US Army Drone RQ-7B UAV 1/35 Scale Military Aircraft Model Kit 12117"><img src="{{ '/assets/images/marketplace-covers/54f43ced846c284ab9ae.jpg' | relative_url }}" alt="Listing image for Academy US Army Drone RQ-7B UAV 1/35 Scale Military Aircraft Model Kit 12117" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">Academy US Army Drone RQ-7B UAV 1/35 Scale Military Aircraft Model Kit 12117</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 MQ-1 Predator Drone Diecast Model – Modern Military UAV Replica"><img src="{{ '/assets/images/marketplace-covers/9c7aa39fbc37b606ef2d.jpg' | relative_url }}" alt="Listing image for 1:72 MQ-1 Predator Drone Diecast Model – Modern Military UAV Replica" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">1:72 MQ-1 Predator Drone Diecast Model – Modern Military UAV Replica</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 MQ-1 Predator Drone Diecast Model – Modern Military UAV Replica"><img src="{{ '/assets/images/marketplace-covers/9c7aa39fbc37b606ef2d.jpg' | relative_url }}" alt="Listing image for 1:72 MQ-1 Predator Drone Diecast Model – Modern Military UAV Replica" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">1:72 MQ-1 Predator Drone Diecast Model – Modern Military UAV Replica</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="electronics-risk-3bbd36-the-risk-inside-a-wide-microwave-beam-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -587,7 +587,7 @@ For high-power microwave weapons, effectiveness is not simply measured by the nu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -607,7 +607,7 @@ For high-power microwave weapons, effectiveness is not simply measured by the nu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -639,7 +639,7 @@ For high-power microwave weapons, effectiveness is not simply measured by the nu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -691,7 +691,7 @@ For high-power microwave weapons, effectiveness is not simply measured by the nu
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -736,7 +736,7 @@ For high-power microwave weapons, effectiveness is not simply measured by the nu
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -777,147 +777,147 @@ For high-power microwave weapons, effectiveness is not simply measured by the nu
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gao.gov  
    Title: gao 23 106717  
-   Link: <a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — High power microwave weapons produce [microwaves](&amp;#123;&amp;#123; &#x27;microwaves/&#x27; | relative_url &amp;#125;&amp;#125;), which have longer wave...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — High power microwave weapons produce [microwaves](&amp;#123;&amp;#123; &#x27;microwaves/&#x27; | relative_url &amp;#125;&amp;#125;), which have longer wave...</p></details>
    Published: May 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: droneshield.com  
-   Link: <a href="https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Counter to Drone Swarms: High-Power Microwave...Military forces must prioritise a counter to drone swarming tactics with which inexpen...</p></details>
+   Link:<a href="https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Counter to Drone Swarms: High-Power Microwave...Military forces must prioritise a counter to drone swarming tactics with which inexpen...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: directed.com  
    Title: DIRECTE D  
-   Link: <a href="https://www.directed.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.directed.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Car Alarms | Remote Starters | SMARTSTART...DIRECTED is the largest designer and marketer of consumer-branded car alarms and...</p></details>
+   Link:<a href="https://www.directed.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.directed.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Car Alarms | Remote Starters | SMARTSTART...DIRECTED is the largest designer and marketer of consumer-branded car alarms and...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons DOD Should Focus on Transition...DOD spends about $1 billion annually on directed energy--concentrated electroma...</p></details>
+   Link:<a href="https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons DOD Should Focus on Transition...DOD spends about $1 billion annually on directed energy--concentrated electroma...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/products/gao-23-105868" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-105868</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>purposes such as engaging missile or [drone swarm](&amp;#123;&amp;#123; &#x27;swarm-limits/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-23-105868" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-105868</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>purposes such as engaging missile or [drone swarm](&amp;#123;&amp;#123; &#x27;swarm-limits/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Epirus Leonidas HPM: The Premier Counter-Drone Swarm Solution  
-   Link: <a href="https://www.youtube.com/watch?v=gAmSDdK57o0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gAmSDdK57o0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=gAmSDdK57o0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gAmSDdK57o0</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: onr.navy.mil  
-   Link: <a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spe...</p></details>
+   Link:<a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spe...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: epirusinc.com  
-   Link: <a href="https://www.epirusinc.com/electronic-warfare" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/electronic-warfare</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EpirusEpirus Leonidas High-Power Microwave: Directed Energy...Leonidas is a solid-state, high-power HPM system, utilizing Gallium Nitrid...</p></details>
+   Link:<a href="https://www.epirusinc.com/electronic-warfare" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/electronic-warfare</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EpirusEpirus Leonidas High-Power Microwave: Directed Energy...Leonidas is a solid-state, high-power HPM system, utilizing Gallium Nitrid...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: epirusinc.com  
-   Link: <a href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EpirusEpirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone Swarm...Leonidas neutralized 61-of-61 drones, culminating in a 49-drone swa...</p></details>
+   Link:<a href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EpirusEpirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone Swarm...Leonidas neutralized 61-of-61 drones, culminating in a 49-drone swa...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: jedonline.com  
-   Link: <a href="https://www.jedonline.com/2023/01/24/high-power-microwave-systems-getting-much-much-closer-to-operational-status/" target="_blank" rel="noopener noreferrer nofollow">https://www.jedonline.com/2023/01/24/high-power-microwave-systems-getting-much-much-closer-to-operational-status/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Electromagnetic DominanceHigh-Power Microwave Systems – Getting (Much...January 24, 2023 — 24 Jan 2023 — This means Leonidas...</p></details>
+   Link:<a href="https://www.jedonline.com/2023/01/24/high-power-microwave-systems-getting-much-much-closer-to-operational-status/" target="_blank" rel="noopener noreferrer nofollow">https://www.jedonline.com/2023/01/24/high-power-microwave-systems-getting-much-much-closer-to-operational-status/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Electromagnetic DominanceHigh-Power Microwave Systems – Getting (Much...January 24, 2023 — 24 Jan 2023 — This means Leonidas...</p></details>
    Published: January 24, 2023  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Epirus Leonidas  
-   Link: <a href="https://en.wikipedia.org/wiki/Epirus_Leonidas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Epirus_Leonidas</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus LeonidasThe Leonidas is a high-power microwave (HPM) weapon developed to disable unmanned aerial vehicle (UAV) swarms. It was n...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Epirus_Leonidas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Epirus_Leonidas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus LeonidasThe Leonidas is a high-power microwave (HPM) weapon developed to disable unmanned aerial vehicle (UAV) swarms. It was n...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: calibredefence.co.uk  
    Title: epirus zaps fibre optic fpv with leonidas microwave weapon  
-   Link: <a href="https://www.calibredefence.co.uk/epirus-zaps-fibre-optic-fpv-with-leonidas-microwave-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.calibredefence.co.uk/epirus-zaps-fibre-optic-fpv-with-leonidas-microwave-weapon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus zaps fibre-optic FPV with Leonidas microwave...28 Jan 2026 — Epirus has developed a microwave weapon called Leonidas that has dem...</p></details>
+   Link:<a href="https://www.calibredefence.co.uk/epirus-zaps-fibre-optic-fpv-with-leonidas-microwave-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.calibredefence.co.uk/epirus-zaps-fibre-optic-fpv-with-leonidas-microwave-weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus zaps fibre-optic FPV with Leonidas microwave...28 Jan 2026 — Epirus has developed a microwave weapon called Leonidas that has dem...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: epirusinc.com  
-   Link: <a href="https://www.epirusinc.com/press-releases/epirus-leonidas-demonstrates-successful-use-of-high-power-microwave-to-defeat-[fiber-optic" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/press-releases/epirus-leonidas-demonstrates-successful-use-of-high-power-microwave-to-defeat-[fiber-optic</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus&#x27; Leonidas Demonstrates Successful Use of High-...13 Jan 2026 — Leonidas is the first EW-based counter-UAS technology to demonstra...</p></details>
+   Link:<a href="https://www.epirusinc.com/press-releases/epirus-leonidas-demonstrates-successful-use-of-high-power-microwave-to-defeat-[fiber-optic" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/press-releases/epirus-leonidas-demonstrates-successful-use-of-high-power-microwave-to-defeat-[fiber-optic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus&#x27; Leonidas Demonstrates Successful Use of High-...13 Jan 2026 — Leonidas is the first EW-based counter-UAS technology to demonstra...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: epirusinc.com  
-   Link: <a href="https://www.epirusinc.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Home of Leonidas, the Premier High-Power...Epirus combines the latest in solid-state, long-pulse high-power microwave systems with softw...</p></details>
+   Link:<a href="https://www.epirusinc.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Home of Leonidas, the Premier High-Power...Epirus combines the latest in solid-state, long-pulse high-power microwave systems with softw...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: unmannedairspace.info  
    Title: epirus leonidas defeats 49 drone swarm with one electromagnetic burst  
-   Link: <a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/epirus-leonidas-defeats-49-drone-swarm-with-one-electromagnetic-burst/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/epirus-leonidas-defeats-49-drone-swarm-with-one-electromagnetic-burst/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus&#x27; Leonidas defeats 49-drone swarm with one...2 Sept 2025 — Epirus&#x27; Leonidas defeats 49-drone swarm with one electromagnetic burst...</p></details>
+   Link:<a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/epirus-leonidas-defeats-49-drone-swarm-with-one-electromagnetic-burst/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/epirus-leonidas-defeats-49-drone-swarm-with-one-electromagnetic-burst/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus&#x27; Leonidas defeats 49-drone swarm with one...2 Sept 2025 — Epirus&#x27; Leonidas defeats 49-drone swarm with one electromagnetic burst...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/epirus_epirus-leonidas-high-power-microwave-defeats-activity-7371575751776608256-i0zZ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/epirus_epirus-leonidas-high-power-microwave-defeats-activity-7371575751776608256-i0zZ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tic interference. “We believe showcasing our weaponized...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/epirus_epirus-leonidas-high-power-microwave-defeats-activity-7371575751776608256-i0zZ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/epirus_epirus-leonidas-high-power-microwave-defeats-activity-7371575751776608256-i0zZ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tic interference. “We believe showcasing our weaponized...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/401596360_Shaping_Modern_Warfare_The_Strategic_Role_of_High-Power_Microwave_Directed_Energy_Weapons_in_Multi-Domain_Operations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401596360_Shaping_Modern_Warfare_The_Strategic_Role_of_High-Power_Microwave_Directed_Energy_Weapons_in_Multi-Domain_Operations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Strategic Role of High-Power Microwave Directed...29 May 2026 — This structured narrative review analyses how High-Power Microwave (...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/401596360_Shaping_Modern_Warfare_The_Strategic_Role_of_High-Power_Microwave_Directed_Energy_Weapons_in_Multi-Domain_Operations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401596360_Shaping_Modern_Warfare_The_Strategic_Role_of_High-Power_Microwave_Directed_Energy_Weapons_in_Multi-Domain_Operations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Strategic Role of High-Power Microwave Directed...29 May 2026 — This structured narrative review analyses how High-Power Microwave (...</p></details>
    Published: May 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/4229403_Research_on_high_power_microwave_weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/4229403_Research_on_high_power_microwave_weapons</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Research on high power microwave weaponsHigh-power microwave (HPM) technology, characterized by peak power exceeding 100 MW and fre...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/4229403_Research_on_high_power_microwave_weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/4229403_Research_on_high_power_microwave_weapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Research on high power microwave weaponsHigh-power microwave (HPM) technology, characterized by peak power exceeding 100 MW and fre...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dronelife.com  
-   Link: <a href="https://dronelife.com/2025/10/15/microwave-counter-drone-system/" target="_blank" rel="noopener noreferrer nofollow">https://dronelife.com/2025/10/15/microwave-counter-drone-system/</a>  
+   Link:<a href="https://dronelife.com/2025/10/15/microwave-counter-drone-system/" target="_blank" rel="noopener noreferrer nofollow">https://dronelife.com/2025/10/15/microwave-counter-drone-system/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=aSM6q_TKcTs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aSM6q_TKcTs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DRDO&#x27;S New Microwave Weapon Explained... frequency range, the weapon uses high‑power microwave sources to generate rapid bursts of energy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aSM6q_TKcTs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aSM6q_TKcTs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DRDO&#x27;S New Microwave Weapon Explained... frequency range, the weapon uses high‑power microwave sources to generate rapid bursts of energy...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X1toVupe_R8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Directed Energy Weapons SystemsThe Government Accountability Office explains what are Directed Energy Weapons and takes a look at ho...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X1toVupe_R8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Directed Energy Weapons SystemsThe Government Accountability Office explains what are Directed Energy Weapons and takes a look at ho...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: tomshardware.com  
    Title: Tom's Hardware High-power microwave system downs 49 drones in [one shot](&#123;&#123; 'one-shot/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.tomshardware.com/tech-industry/high-power-microwave-system-downs-49-drones-in-one-shot-weaponized-electromagnetic-interference-erases-drone-swarms-en-masse" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/high-power-microwave-system-downs-49-drones-in-one-shot-weaponized-electromagnetic-interference-erases-drone-swarms-en-masse</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>electronics warfare company, successfully demonstrated a major advancement in counter-drone technology with its Leonidas high-power micro...</p></details>
+   Link:<a href="https://www.tomshardware.com/tech-industry/high-power-microwave-system-downs-49-drones-in-one-shot-weaponized-electromagnetic-interference-erases-drone-swarms-en-masse" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/high-power-microwave-system-downs-49-drones-in-one-shot-weaponized-electromagnetic-interference-erases-drone-swarms-en-masse</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>electronics warfare company, successfully demonstrated a major advancement in counter-drone technology with its Leonidas high-power micro...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: caliber.az  
    Title: powerful directional microwave downs six uass in nevada desert  
-   Link: <a href="https://caliber.az/en/post/powerful-directional-microwave-downs-six-uass-in-nevada-desert" target="_blank" rel="noopener noreferrer nofollow">https://caliber.az/en/post/powerful-directional-microwave-downs-six-uass-in-nevada-desert</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Powerful directional microwave downs six UASs in Nevada...27 May 2024 — Leonidas is a cutting-edge, high-power solid-state HPM system th...</p></details>
+   Link:<a href="https://caliber.az/en/post/powerful-directional-microwave-downs-six-uass-in-nevada-desert" target="_blank" rel="noopener noreferrer nofollow">https://caliber.az/en/post/powerful-directional-microwave-downs-six-uass-in-nevada-desert</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Powerful directional microwave downs six UASs in Nevada...27 May 2024 — Leonidas is a cutting-edge, high-power solid-state HPM system th...</p></details>
    Published: May 2024  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: electronicsforu.com  
    Title: Frequencies around 100GHz have been exploited to build non-lethal  
-   Link: <a href="https://www.electronicsforu.com/market-verticals/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.electronicsforu.com/market-verticals/directed-energy-weapons-high-power-microwaves</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons: High Power Microwaves4 Oct 2016 — HPM weapons under development occupy the frequency range of 500MHz to 3GHz...</p></details>
+   Link:<a href="https://www.electronicsforu.com/market-verticals/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.electronicsforu.com/market-verticals/directed-energy-weapons-high-power-microwaves</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons: High Power Microwaves4 Oct 2016 — HPM weapons under development occupy the frequency range of 500MHz to 3GHz...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: unmannedairspace.info  
-   Link: <a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-gao-report-directed-energy-weapon-technical-maturity-levels-still-lagging/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-gao-report-directed-energy-weapon-technical-maturity-levels-still-lagging/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>directed energy weapon technical maturity levels still laggingUS GAO report: directed energy weapon technical maturity levels still lagging...</p></details>
+   Link:<a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-gao-report-directed-energy-weapon-technical-maturity-levels-still-lagging/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-gao-report-directed-energy-weapon-technical-maturity-levels-still-lagging/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>directed energy weapon technical maturity levels still laggingUS GAO report: directed energy weapon technical maturity levels still lagging...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
    Title: Meet the Microwave Weapon That Zaps Swarms of Drones  
-   Link: <a href="https://www.reddit.com/r/STEW_ScTecEngWorld/comments/1m2npg2/meet_the_microwave_weapon_that_zaps_swarms_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/STEW_ScTecEngWorld/comments/1m2npg2/meet_the_microwave_weapon_that_zaps_swarms_of/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 18, 2025 — Epirus, a Los Angeles-based defense company, has developed Leonidas, a high-powered microwave weapon that disables...</p></details>
+   Link:<a href="https://www.reddit.com/r/STEW_ScTecEngWorld/comments/1m2npg2/meet_the_microwave_weapon_that_zaps_swarms_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/STEW_ScTecEngWorld/comments/1m2npg2/meet_the_microwave_weapon_that_zaps_swarms_of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 18, 2025 — Epirus, a Los Angeles-based defense company, has developed Leonidas, a high-powered microwave weapon that disables...</p></details>
    Published: July 18, 2025  

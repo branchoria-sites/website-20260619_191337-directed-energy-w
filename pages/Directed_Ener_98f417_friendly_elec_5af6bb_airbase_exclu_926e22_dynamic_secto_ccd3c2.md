@@ -275,7 +275,7 @@ image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_airbase_exclu_92
 
 ## Introduction
 
-High-power microwave (HPM) weapons are attractive for airbase defence because they can disable multiple drones with a single burst. The same characteristic that makes them effective, however, creates a control problem: the area affected by a microwave shot is not simply a point target. Operators must know which runways, taxiways, aprons, communications sites, vehicles and aircraft fall within the planned engagement volume before firing. As a result, modern microwave exclusion zones are increasingly managed through dynamic sector control rather than a single static perimeter. Dynamic sector control divides the airbase and surrounding airspace into manageable sectors that can be cleared, restricted and reopened in real time, allowing commanders to employ HPM systems while reducing risks to friendly personnel and equipment. High-power microwave systems are specifically designed to affect electronics across an area rather than a single point, making such control measures operationally important. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: droneshield.com">[DroneShield+2Journal of Electromagnetic Dominance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">droneshield.com</span><span class="citation-popover-title">Drone Shield A Counter to Drone Swarms: High-Power Microwave</span><span class="citation-popover-snippet">A Counter to Drone Swarms: High-Power Microwave...July 22, 2025 — Military forces must prioritise a counter to drone swarming...</span><span class="citation-popover-meta">Published: July 22, 2025</span></span></span>
+High-power microwave (HPM) weapons are attractive for airbase defence because they can disable multiple drones with a single burst. The same characteristic that makes them effective, however, creates a control problem: the area affected by a microwave shot is not simply a point target. Operators must know which runways, taxiways, aprons, communications sites, vehicles and aircraft fall within the planned engagement volume before firing. As a result, modern microwave exclusion zones are increasingly managed through dynamic sector control rather than a single static perimeter. Dynamic sector control divides the airbase and surrounding airspace into manageable sectors that can be cleared, restricted and reopened in real time, allowing commanders to employ HPM systems while reducing risks to friendly personnel and equipment. High-power microwave systems are specifically designed to affect electronics across an area rather than a single point, making such control measures operationally important.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: droneshield.com">[DroneShield+2Journal of Electromagnetic Dominance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">droneshield.com</span><span class="citation-popover-title">Drone Shield A Counter to Drone Swarms: High-Power Microwave</span><span class="citation-popover-snippet">A Counter to Drone Swarms: High-Power Microwave...July 22, 2025 — Military forces must prioritise a counter to drone swarming...</span><span class="citation-popover-meta">Published: July 22, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_airbase_exclu_926e22_dynamic_secto_ccd3c2-Illustration-1-dark.svg" | relative_url }}" alt="Sector Control illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_airbase_exclu_926e22_dynamic_secto_ccd3c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_airbase_exclu_926e22_dynamic_secto_ccd3c2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -283,7 +283,7 @@ High-power microwave (HPM) weapons are attractive for airbase defence because th
 
 A fixed exclusion ring assumes that the operational environment remains unchanged during an engagement. Airbases rarely function that way. Aircraft taxi, [maintenance]({{ 'maintenance/' | relative_url }}) teams move between shelters, fuel trucks cross service roads, and communications equipment may be activated or relocated within minutes.
 
-Microwave [counter-drone]({{ 'missile-savings/' | relative_url }}) systems also vary in how they project energy. Some are designed to cover relatively broad sectors against drone [swarms]({{ 'swarms/' | relative_url }}), while others can shape or direct energy into narrower engagement areas. Because the beam geometry, target direction and operational circumstances change from shot to shot, a single permanent safety boundary can either become overly restrictive or fail to account for changing exposure risks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jedonline.com/2023/01/24/high-power-microwave-systems-getting-much-much-closer-to-operational-status/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jedonline.com">[Journal of Electromagnetic Dominance+2AFRL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jedonline.com</span><span class="citation-popover-snippet">Journal of Electromagnetic DominanceHigh-Power Microwave Systems – Getting (Much...24 Jan 2023 — In this article, we&#x27;re going to look at...</span></span></span>
+Microwave [counter-drone]({{ 'missile-savings/' | relative_url }}) systems also vary in how they project energy. Some are designed to cover relatively broad sectors against drone [swarms]({{ 'swarms/' | relative_url }}), while others can shape or direct energy into narrower engagement areas. Because the beam geometry, target direction and operational circumstances change from shot to shot, a single permanent safety boundary can either become overly restrictive or fail to account for changing exposure risks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jedonline.com/2023/01/24/high-power-microwave-systems-getting-much-much-closer-to-operational-status/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jedonline.com">[Journal of Electromagnetic Dominance+2AFRL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jedonline.com</span><span class="citation-popover-snippet">Journal of Electromagnetic DominanceHigh-Power Microwave Systems – Getting (Much...24 Jan 2023 — In this article, we&#x27;re going to look at...</span></span></span>
 
 A practical airbase therefore treats the microwave effect area as a temporary operational volume. Instead of asking whether a location is always safe or unsafe, controllers ask whether a particular sector is clear at the moment a shot is requested.
 
@@ -330,7 +330,7 @@ This approach allows commanders to close only the areas affected by a planned en
 
 Effective sector management depends on continuous situational awareness. Radar, optical sensors, airfield monitoring systems and local command networks help determine whether friendly aircraft, vehicles or personnel remain inside the engagement footprint.
 
-This is particularly important because modern HPM systems can engage multiple drones simultaneously through a broad-area electromagnetic effect. Demonstrations of systems such as [THOR]({{ 'thor/' | relative_url }}) have highlighted their ability to disable multiple airborne targets rapidly using wide-beam microwave energy, reinforcing the need to know exactly what lies inside the intended engagement zone before firing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[AFRL+2Air Force Research Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">rl conducts swarm technology demonstration</span><span class="citation-popover-snippet">RL conducts swarm technology demonstration16 May 2023 — “THOR was exceptionally effective at disabling the swarm with its wide beam...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+This is particularly important because modern HPM systems can engage multiple drones simultaneously through a broad-area electromagnetic effect. Demonstrations of systems such as [THOR]({{ 'thor/' | relative_url }}) have highlighted their ability to disable multiple airborne targets rapidly using wide-beam microwave energy, reinforcing the need to know exactly what lies inside the intended engagement zone before firing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[AFRL+2Air Force Research Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">rl conducts swarm technology demonstration</span><span class="citation-popover-snippet">RL conducts swarm technology demonstration16 May 2023 — “THOR was exceptionally effective at disabling the swarm with its wide beam...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_airbase_exclu_926e22_dynamic_secto_ccd3c2-Illustration-2-dark.svg" | relative_url }}" alt="Sector Control illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_airbase_exclu_926e22_dynamic_secto_ccd3c2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_airbase_exclu_926e22_dynamic_secto_ccd3c2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -397,207 +397,207 @@ Weather, equipment faults or network failures can reduce confidence in surveilla
 
 ### Changes in Beam Geometry or Engagement Direction
 
-Many HPM systems can shape, steer or redirect their energy output. If the target manoeuvres or operators alter the planned engagement direction, the affected sectors may change as well. Previously cleared sectors may no longer be sufficient, requiring a reassessment before firing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jedonline.com/2023/01/24/high-power-microwave-systems-getting-much-much-closer-to-operational-status/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jedonline.com">[Journal of Electromagnetic Dominance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jedonline.com</span><span class="citation-popover-snippet">Journal of Electromagnetic DominanceHigh-Power Microwave Systems – Getting (Much...24 Jan 2023 — In this article, we&#x27;re going to look at...</span></span></span>
+Many HPM systems can shape, steer or redirect their energy output. If the target manoeuvres or operators alter the planned engagement direction, the affected sectors may change as well. Previously cleared sectors may no longer be sufficient, requiring a reassessment before firing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jedonline.com/2023/01/24/high-power-microwave-systems-getting-much-much-closer-to-operational-status/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jedonline.com">[Journal of Electromagnetic Dominance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jedonline.com</span><span class="citation-popover-snippet">Journal of Electromagnetic DominanceHigh-Power Microwave Systems – Getting (Much...24 Jan 2023 — In this article, we&#x27;re going to look at...</span></span></span>
 
 ## The Operational Value of Sector Control
 
 Dynamic sector control allows airbases to balance two competing requirements: defeating drone threats quickly while maintaining safe operation of a complex electronic environment. Instead of relying on a large permanent exclusion zone, commanders can temporarily isolate only the sectors that intersect the projected microwave engagement area.
 
-For HPM counter-drone systems, this approach is often the difference between a theoretically available capability and one that can be employed routinely during active airbase operations. By treating the airfield as a set of controllable sectors rather than a single protected perimeter, operators gain a practical method for clearing, holding and reopening microwave firing zones as conditions change in real time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: droneshield.com">[DroneShield+2Journal of Electromagnetic Dominance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">droneshield.com</span><span class="citation-popover-title">Drone Shield A Counter to Drone Swarms: High-Power Microwave</span><span class="citation-popover-snippet">A Counter to Drone Swarms: High-Power Microwave...July 22, 2025 — Military forces must prioritise a counter to drone swarming...</span><span class="citation-popover-meta">Published: July 22, 2025</span></span></span>
+For HPM counter-drone systems, this approach is often the difference between a theoretically available capability and one that can be employed routinely during active airbase operations. By treating the airfield as a set of controllable sectors rather than a single protected perimeter, operators gain a practical method for clearing, holding and reopening microwave firing zones as conditions change in real time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: droneshield.com">[DroneShield+2Journal of Electromagnetic Dominance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">droneshield.com</span><span class="citation-popover-title">Drone Shield A Counter to Drone Swarms: High-Power Microwave</span><span class="citation-popover-snippet">A Counter to Drone Swarms: High-Power Microwave...July 22, 2025 — Military forces must prioritise a counter to drone swarming...</span><span class="citation-popover-meta">Published: July 22, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8lZoSI1LauI" title="Leonidas Counter-Electronics System — Generation 0 – Customer Demonstration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8lZoSI1LauI" target="_blank" rel="noopener noreferrer">Leonidas Counter-Electronics System — Generation 0 – Customer Demonstration</a></p><p class="youtube-embed-meta">Channel: Epirus</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8lZoSI1LauI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8lZoSI1LauI">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Airbases Clear Microwave Firing Zones. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Airbases Clear Microwave Firing Zones. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
-        </h4>
-        <p class="fr-book-author">By Paul Scharre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
+</h4>
+<p class="fr-book-author">By Paul Scharre</p>
         
-        <p class="fr-book-desc">Covers autonomous weapons and drone warfare context that makes airbase counter-drone microwave systems commercially intelligible.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers autonomous weapons and drone warfare context that makes airbase counter-drone microwave systems commercially intelligible.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Explains the operational shift toward networked, sensor-driven, unmanned and electronic battle systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the operational shift toward networked, sensor-driven, unmanned and electronic battle systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wired+for+War+by+P.+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wired for War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6aStP3Du5cgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wired for War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wired+for+War+by+P.+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wired for War">Wired for War</a>
-        </h4>
-        <p class="fr-book-author">By P. W. Singer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Wired+for+War+by+P.+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wired for War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6aStP3Du5cgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wired for War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Wired+for+War+by+P.+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wired for War">Wired for War</a>
+</h4>
+<p class="fr-book-author">By P. W. Singer</p>
         
-        <p class="fr-book-desc">Provides broader context for robotic and unmanned threats that airbase microwave defences are built to counter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wired+for+War+by+P.+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for robotic and unmanned threats that airbase microwave defences are built to counter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Wired+for+War+by+P.+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+E-bomb+Doug+Beason&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The E-bomb on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/165373-M.jpg" alt="Cover for The E-bomb" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+E-bomb+Doug+Beason&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The E-bomb">The E-bomb</a>
-        </h4>
-        <p class="fr-book-author">By Doug Beason</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+E-bomb+Doug+Beason&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The E-bomb on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/165373-M.jpg" alt="Cover for The E-bomb" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+E-bomb+Doug+Beason&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The E-bomb">The E-bomb</a>
+</h4>
+<p class="fr-book-author">By Doug Beason</p>
         
-        <p class="fr-book-desc">First published 2005. Subjects: Directed-energy weapons, Nonlethal weapons, Ordnance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+E-bomb+Doug+Beason&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2005. Subjects: Directed-energy weapons, Nonlethal weapons, Ordnance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+E-bomb+Doug+Beason&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wired+for+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wired for War</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Wired+for+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wired for War</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=electronic+warfare+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="electronic warfare patch" data-ebay-reference="sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Royal Navy Electronic Warfare Electron + 1 Star Blue On White Embroidered Patch"><img src="{{ '/assets/images/marketplace-covers/43744b56dfdeacd7c001.jpg' | relative_url }}" alt="Listing image for Royal Navy Electronic Warfare Electron + 1 Star Blue On White Embroidered Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=electronic+warfare+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="electronic warfare patch" data-ebay-reference="sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch" target="_blank" rel="sponsored noopener noreferrer">Royal Navy Electronic Warfare Electron + 1 Star Blue On White Embroidered Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=electronic+warfare+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="electronic warfare patch" data-ebay-reference="sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for electronic warfare patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: electronic warfare patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=electronic+warfare+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="electronic warfare patch" data-ebay-reference="sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=electronic+warfare+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="electronic warfare patch" data-ebay-reference="sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Royal Navy Electronic Warfare Electron + 1 Star Blue On White Embroidered Patch"><img src="{{ '/assets/images/marketplace-covers/43744b56dfdeacd7c001.jpg' | relative_url }}" alt="Listing image for Royal Navy Electronic Warfare Electron + 1 Star Blue On White Embroidered Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=electronic+warfare+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="electronic warfare patch" data-ebay-reference="sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch" target="_blank" rel="sponsored noopener noreferrer">Royal Navy Electronic Warfare Electron + 1 Star Blue On White Embroidered Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=electronic+warfare+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="electronic warfare patch" data-ebay-reference="sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for electronic warfare patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: electronic warfare patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=electronic+warfare+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="electronic warfare patch" data-ebay-reference="sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=electronic+warfare+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="electronic warfare patch" data-ebay-reference="sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage British Royal Navy Electronic Warfare trade Patch."><img src="{{ '/assets/images/marketplace-covers/8d16ad7df40b05935b8b.jpg' | relative_url }}" alt="Listing image for Vintage British Royal Navy Electronic Warfare trade Patch." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=electronic+warfare+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="electronic warfare patch" data-ebay-reference="sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch" target="_blank" rel="sponsored noopener noreferrer">Vintage British Royal Navy Electronic Warfare trade Patch.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=electronic+warfare+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="electronic warfare patch" data-ebay-reference="sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for electronic warfare patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: electronic warfare patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=electronic+warfare+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="electronic warfare patch" data-ebay-reference="sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=electronic+warfare+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="electronic warfare patch" data-ebay-reference="sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage British Royal Navy Electronic Warfare trade Patch."><img src="{{ '/assets/images/marketplace-covers/8d16ad7df40b05935b8b.jpg' | relative_url }}" alt="Listing image for Vintage British Royal Navy Electronic Warfare trade Patch." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=electronic+warfare+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="electronic warfare patch" data-ebay-reference="sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch" target="_blank" rel="sponsored noopener noreferrer">Vintage British Royal Navy Electronic Warfare trade Patch.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=electronic+warfare+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="electronic warfare patch" data-ebay-reference="sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for electronic warfare patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: electronic warfare patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=electronic+warfare+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="electronic warfare patch" data-ebay-reference="sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=electronic+warfare+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="electronic warfare patch" data-ebay-reference="sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for British Military Issue Royal Navy Electronic Warfare Trade Uniform Patch"><img src="{{ '/assets/images/marketplace-covers/5598c317adee2158b9f0.jpg' | relative_url }}" alt="Listing image for British Military Issue Royal Navy Electronic Warfare Trade Uniform Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=electronic+warfare+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="electronic warfare patch" data-ebay-reference="sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch" target="_blank" rel="sponsored noopener noreferrer">British Military Issue Royal Navy Electronic Warfare Trade Uniform Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=electronic+warfare+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="electronic warfare patch" data-ebay-reference="sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for electronic warfare patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: electronic warfare patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=electronic+warfare+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="electronic warfare patch" data-ebay-reference="sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=electronic+warfare+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="electronic warfare patch" data-ebay-reference="sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for British Military Issue Royal Navy Electronic Warfare Trade Uniform Patch"><img src="{{ '/assets/images/marketplace-covers/5598c317adee2158b9f0.jpg' | relative_url }}" alt="Listing image for British Military Issue Royal Navy Electronic Warfare Trade Uniform Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=electronic+warfare+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="electronic warfare patch" data-ebay-reference="sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch" target="_blank" rel="sponsored noopener noreferrer">British Military Issue Royal Navy Electronic Warfare Trade Uniform Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=electronic+warfare+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="electronic warfare patch" data-ebay-reference="sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for electronic warfare patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: electronic warfare patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=electronic+warfare+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="electronic warfare patch" data-ebay-reference="sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=electronic+warfare+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="electronic warfare patch" data-ebay-reference="sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1980s/1990s Custom NATO Electronic Warfare Cold War Morale Patch"><img src="{{ '/assets/images/marketplace-covers/c349628e9c288e914035.jpg' | relative_url }}" alt="Listing image for 1980s/1990s Custom NATO Electronic Warfare Cold War Morale Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=electronic+warfare+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="electronic warfare patch" data-ebay-reference="sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch" target="_blank" rel="sponsored noopener noreferrer">1980s/1990s Custom NATO Electronic Warfare Cold War Morale Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=electronic+warfare+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="electronic warfare patch" data-ebay-reference="sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for electronic warfare patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: electronic warfare patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=electronic+warfare+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="electronic warfare patch" data-ebay-reference="sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=electronic+warfare+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="electronic warfare patch" data-ebay-reference="sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=electronic+warfare+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="electronic warfare patch" data-ebay-reference="sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1980s/1990s Custom NATO Electronic Warfare Cold War Morale Patch"><img src="{{ '/assets/images/marketplace-covers/c349628e9c288e914035.jpg' | relative_url }}" alt="Listing image for 1980s/1990s Custom NATO Electronic Warfare Cold War Morale Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=electronic+warfare+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="electronic warfare patch" data-ebay-reference="sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch" target="_blank" rel="sponsored noopener noreferrer">1980s/1990s Custom NATO Electronic Warfare Cold War Morale Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=electronic+warfare+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="electronic warfare patch" data-ebay-reference="sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for electronic warfare patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: electronic warfare patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=electronic+warfare+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="electronic warfare patch" data-ebay-reference="sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=electronic+warfare+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="electronic warfare patch" data-ebay-reference="sector-control-how-airbases-clear-microwave-firing-zones-directed-ener-electronic-warfare-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -613,7 +613,7 @@ For HPM counter-drone systems, this approach is often the difference between a t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -633,7 +633,7 @@ For HPM counter-drone systems, this approach is often the difference between a t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -665,7 +665,7 @@ For HPM counter-drone systems, this approach is often the difference between a t
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -717,7 +717,7 @@ For HPM counter-drone systems, this approach is often the difference between a t
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -762,7 +762,7 @@ For HPM counter-drone systems, this approach is often the difference between a t
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -803,83 +803,83 @@ For HPM counter-drone systems, this approach is often the difference between a t
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: droneshield.com  
    Title: Drone Shield A Counter to Drone Swarms: High-Power Microwave  
-   Link: <a href="https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Counter to Drone Swarms: High-Power Microwave...July 22, 2025 — Military forces must prioritise a counter to drone swarming...</p></details>
+   Link:<a href="https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Counter to Drone Swarms: High-Power Microwave...July 22, 2025 — Military forces must prioritise a counter to drone swarming...</p></details>
    Published: July 22, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: jedonline.com  
-   Link: <a href="https://www.jedonline.com/2023/01/24/high-power-microwave-systems-getting-much-much-closer-to-operational-status/" target="_blank" rel="noopener noreferrer nofollow">https://www.jedonline.com/2023/01/24/high-power-microwave-systems-getting-much-much-closer-to-operational-status/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Electromagnetic DominanceHigh-Power Microwave Systems – Getting (Much...24 Jan 2023 — In this article, we&#x27;re going to look at...</p></details>
+   Link:<a href="https://www.jedonline.com/2023/01/24/high-power-microwave-systems-getting-much-much-closer-to-operational-status/" target="_blank" rel="noopener noreferrer nofollow">https://www.jedonline.com/2023/01/24/high-power-microwave-systems-getting-much-much-closer-to-operational-status/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Electromagnetic DominanceHigh-Power Microwave Systems – Getting (Much...24 Jan 2023 — In this article, we&#x27;re going to look at...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: afrl.af.mil  
    Title: rl conducts swarm technology demonstration  
-   Link: <a href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RL conducts swarm technology demonstration16 May 2023 — “THOR was exceptionally effective at disabling the swarm with its wide beam...</p></details>
+   Link:<a href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RL conducts swarm technology demonstration16 May 2023 — “THOR was exceptionally effective at disabling the swarm with its wide beam...</p></details>
    Published: May 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: afresearchlab.com  
-   Link: <a href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://afresearchlab.com/counter-swarm-high-power-weapon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A target is identified, the silent weapon discharges in a nanosecond and the...Read more...</p></details>
+   Link:<a href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://afresearchlab.com/counter-swarm-high-power-weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A target is identified, the silent weapon discharges in a nanosecond and the...Read more...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: envcare.net  
-   Link: <a href="https://www.envcare.net/international-microwave-leakage-standard.html" target="_blank" rel="noopener noreferrer nofollow">https://www.envcare.net/international-microwave-leakage-standard.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>International microwave leakage standardThe microwave leakage measured at 5 cm outside the door of the microwave equipment shall not exce...</p></details>
+   Link:<a href="https://www.envcare.net/international-microwave-leakage-standard.html" target="_blank" rel="noopener noreferrer nofollow">https://www.envcare.net/international-microwave-leakage-standard.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International microwave leakage standardThe microwave leakage measured at 5 cm outside the door of the microwave equipment shall not exce...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: rtx.com  
-   Link: <a href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/phaser-high-power-microwave" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/phaser-high-power-microwave</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Phaser High-Power Microwave System | RaytheonDefending at the speed of light. The Phaser high-power microwave system uses directed energy...</p></details>
+   Link:<a href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/phaser-high-power-microwave" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/phaser-high-power-microwave</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phaser High-Power Microwave System | RaytheonDefending at the speed of light. The Phaser high-power microwave system uses directed energy...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: asianmilitaryreview.com  
-   Link: <a href="https://www.asianmilitaryreview.com/2025/03/atlas-high-power-microwave-device-advancing-rd-for-cost-effective-counter-drone-systems-nsbt/" target="_blank" rel="noopener noreferrer nofollow">https://www.asianmilitaryreview.com/2025/03/atlas-high-power-microwave-device-advancing-rd-for-cost-effective-counter-drone-systems-nsbt/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ATLA&#x27;s High-Power Microwave Device: Advancing R&amp;D for...10 Mar 2025 — JMOD views the HPM system, which uses high-powered [microwaves](&amp;#123;&amp;#123; &#x27;microwaves/&#x27; | relative_url &amp;#125;&amp;#125;) to d...</p></details>
+   Link:<a href="https://www.asianmilitaryreview.com/2025/03/atlas-high-power-microwave-device-advancing-rd-for-cost-effective-counter-drone-systems-nsbt/" target="_blank" rel="noopener noreferrer nofollow">https://www.asianmilitaryreview.com/2025/03/atlas-high-power-microwave-device-advancing-rd-for-cost-effective-counter-drone-systems-nsbt/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ATLA&#x27;s High-Power Microwave Device: Advancing R&amp;D for...10 Mar 2025 — JMOD views the HPM system, which uses high-powered [microwaves](&amp;#123;&amp;#123; &#x27;microwaves/&#x27; | relative_url &amp;#125;&amp;#125;) to d...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: icnirp.org  
-   Link: <a href="https://www.icnirp.org/cms/upload/publications/ICNIRPrfgdl2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icnirp.org/cms/upload/publications/ICNIRPrfgdl2020.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GUIDELINESThe main objective of this publication is to establish guidelines for limiting exposure to EMFs that will provide a high...</p></details>
+   Link:<a href="https://www.icnirp.org/cms/upload/publications/ICNIRPrfgdl2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icnirp.org/cms/upload/publications/ICNIRPrfgdl2020.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GUIDELINESThe main objective of this publication is to establish guidelines for limiting exposure to EMFs that will provide a high...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: incompliancemag.com  
    Title: air force unveils new microwave weapon named thor that can kill drones  
-   Link: <a href="https://incompliancemag.com/air-force-unveils-new-microwave-weapon-named-thor-that-can-kill-drones/" target="_blank" rel="noopener noreferrer nofollow">https://incompliancemag.com/air-force-unveils-new-microwave-weapon-named-thor-that-can-kill-drones/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Unveils New Microwave Weapon Named &#x27;Thor&#x27;...2 Jul 2019 — Using an inaudible and invisible magnetic wave, the high-powered devi...</p></details>
+   Link:<a href="https://incompliancemag.com/air-force-unveils-new-microwave-weapon-named-thor-that-can-kill-drones/" target="_blank" rel="noopener noreferrer nofollow">https://incompliancemag.com/air-force-unveils-new-microwave-weapon-named-thor-that-can-kill-drones/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Unveils New Microwave Weapon Named &#x27;Thor&#x27;...2 Jul 2019 — Using an inaudible and invisible magnetic wave, the high-powered devi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: THOR (Tactical High-power Operational Responder) Destroys Swarms of Enemy Drones  
-   Link: <a href="https://www.youtube.com/watch?v=QjHGxKb6W1c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QjHGxKb6W1c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;America’s “THOR” Shoots Drones With High-power Microwaves | Has US Found the Answer to Drone Swarms?[https://www.youtube.com/watch?v=r8SYb...&quot;](https://www.youtube.com/watch?v=r8SYb...&quot;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QjHGxKb6W1c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QjHGxKb6W1c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;America’s “THOR” Shoots Drones With High-power Microwaves | Has US Found the Answer to Drone Swarms?[https://www.youtube.com/watch?v=r8SYb...&quot;](https://www.youtube.com/watch?v=r8SYb...&quot;)...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Leonidas Counter-Electronics System — [Generation](&#123;&#123; 'generation-ii/' | relative_url &#125;&#125;) 0 – Customer Demonstration  
-   Link: <a href="https://www.youtube.com/watch?v=8lZoSI1LauI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8lZoSI1LauI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus Leonidas software defined high power microwave counter [drone swarm](&amp;#123;&amp;#123; &#x27;swarm-limits/&#x27; | relative_url &amp;#125;&amp;#125;) Epirus’ Leonidas High-Power Microwave Neutralizes 61-of-61 Dron...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8lZoSI1LauI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8lZoSI1LauI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus Leonidas software defined high power microwave counter [drone swarm](&amp;#123;&amp;#123; &#x27;swarm-limits/&#x27; | relative_url &amp;#125;&amp;#125;) Epirus’ Leonidas High-Power Microwave Neutralizes 61-of-61 Dron...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: fortunebusinessinsights.com  
    Title: high power microwave counter drone market 117042  
-   Link: <a href="https://www.fortunebusinessinsights.com/high-power-microwave-counter-drone-market-117042" target="_blank" rel="noopener noreferrer nofollow">https://www.fortunebusinessinsights.com/high-power-microwave-counter-drone-market-117042</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>High Power Microwave Counter Drone Market Size, Share...9 Jun 2026 — The global high power microwave counter-drone market size is projec...</p></details>
+   Link:<a href="https://www.fortunebusinessinsights.com/high-power-microwave-counter-drone-market-117042" target="_blank" rel="noopener noreferrer nofollow">https://www.fortunebusinessinsights.com/high-power-microwave-counter-drone-market-117042</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High Power Microwave Counter Drone Market Size, Share...9 Jun 2026 — The global high power microwave counter-drone market size is projec...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
    Title: Near fields at various distance and power ratings are presented.Read more  
-   Link: <a href="https://www.researchgate.net/publication/358274981_C277_Recent_Trends_in_High_Power_Microwave_Counter_Measure_Against_Drone_Swarm_Attack" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358274981_C277_Recent_Trends_in_High_Power_Microwave_Counter_Measure_Against_Drone_Swarm_Attack</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) C277: Recent Trends in High Power Microwave...C277: Recent Trends in High Power Microwave Counter Measure Against Drone Swarm Attack...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/358274981_C277_Recent_Trends_in_High_Power_Microwave_Counter_Measure_Against_Drone_Swarm_Attack" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358274981_C277_Recent_Trends_in_High_Power_Microwave_Counter_Measure_Against_Drone_Swarm_Attack</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) C277: Recent Trends in High Power Microwave...C277: Recent Trends in High Power Microwave Counter Measure Against Drone Swarm Attack...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aft-microwave.com  
-   Link: <a href="https://www.aft-microwave.com/en/industry-sectors/industry/" target="_blank" rel="noopener noreferrer nofollow">https://www.aft-microwave.com/en/industry-sectors/industry/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cularly high-quality circulators, isolators, loads and arc detectors...</p></details>
+   Link:<a href="https://www.aft-microwave.com/en/industry-sectors/industry/" target="_blank" rel="noopener noreferrer nofollow">https://www.aft-microwave.com/en/industry-sectors/industry/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cularly high-quality circulators, isolators, loads and arc detectors...</p></details>

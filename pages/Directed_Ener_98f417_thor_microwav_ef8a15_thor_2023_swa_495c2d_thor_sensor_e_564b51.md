@@ -269,7 +269,7 @@ image: /assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_2023_swa_49
 
 ## Introduction
 
-The most important lesson from AFRL’s April 2023 [THOR swarm]({{ 'thor-tests-8df623/' | relative_url }}) demonstration was not simply that high-power [microwaves]({{ 'microwaves/' | relative_url }}) could disable drones. The test showed that a complete sensor-to-effect chain could function quickly enough to engage a fast-moving group of airborne targets. In practice, the microwave pulse was only the final step. Before THOR could disrupt a swarm, operators had to detect approaching drones, maintain track on them, point the system accurately and keep the microwave beam aligned long enough for the electronic effects to occur. AFRL’s public descriptions of the event repeatedly highlighted tracking, gimbal motion and operator control alongside microwave power, suggesting that integration of these elements was central to the demonstration’s success. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force Research Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — “THOR was exceptionally effective a...</span></span></span>
+The most important lesson from AFRL’s April 2023 [THOR swarm]({{ 'thor-tests-8df623/' | relative_url }}) demonstration was not simply that high-power [microwaves]({{ 'microwaves/' | relative_url }}) could disable drones. The test showed that a complete sensor-to-effect chain could function quickly enough to engage a fast-moving group of airborne targets. In practice, the microwave pulse was only the final step. Before THOR could disrupt a swarm, operators had to detect approaching drones, maintain track on them, point the system accurately and keep the microwave beam aligned long enough for the electronic effects to occur. AFRL’s public descriptions of the event repeatedly highlighted tracking, gimbal motion and operator control alongside microwave power, suggesting that integration of these elements was central to the demonstration’s success.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force Research Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — “THOR was exceptionally effective a...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_2023_swa_495c2d_thor_sensor_e_564b51-Illustration-1-dark.svg" | relative_url }}" alt="Kill Chain illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_2023_swa_495c2d_thor_sensor_e_564b51-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_2023_swa_495c2d_thor_sensor_e_564b51-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -280,11 +280,11 @@ For directed-energy systems, this integration is often the difference between a 
 
 ## Detection and Tracking Before the Shot
 
-Publicly released information does not provide a detailed technical description of THOR’s sensor suite, but AFRL’s accounts make clear that the system was engaged against numerous airborne drones approaching in a swarm-like scenario at the Chestnut Test Site on Kirtland Air Force Base. The engagement required the weapon to maintain awareness of multiple targets rather than a single drone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force Research Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — “THOR was exceptionally effective a...</span></span></span>
+Publicly released information does not provide a detailed technical description of THOR’s sensor suite, but AFRL’s accounts make clear that the system was engaged against numerous airborne drones approaching in a swarm-like scenario at the Chestnut Test Site on Kirtland Air Force Base. The engagement required the weapon to maintain awareness of multiple targets rather than a single drone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force Research Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — “THOR was exceptionally effective a...</span></span></span>
 
 The key challenge in such a scenario is not generating microwave energy. It is determining where the swarm is, how it is moving and where the engagement zone should be placed. High-power microwave systems are generally more forgiving than [lasers]({{ 'lasers/' | relative_url }}) because they can affect a broader area, but they still require the target group to be inside the effective beam volume. A swarm that is mislocated, tracked inaccurately or allowed to move outside that volume can reduce effectiveness dramatically.
 
-AFRL officials repeatedly emphasised THOR’s ability to “track” the swarm during the April 2023 event. That wording is significant because it implies a continuous process rather than a one-time target acquisition. The drones were flown specifically to simulate a realistic swarm attack, meaning the system had to update its engagement geometry as targets moved through the airspace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force Research Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — “THOR was exceptionally effective a...</span></span></span>
+AFRL officials repeatedly emphasised THOR’s ability to “track” the swarm during the April 2023 event. That wording is significant because it implies a continuous process rather than a one-time target acquisition. The drones were flown specifically to simulate a realistic swarm attack, meaning the system had to update its engagement geometry as targets moved through the airspace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force Research Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — “THOR was exceptionally effective a...</span></span></span>
 
 In practical terms, the tracking phase likely involved three linked functions:
 
@@ -297,18 +297,18 @@ In practical terms, the tracking phase likely involved three linked functions:
 
 </div>
 
-The public evidence does not reveal exact sensor types, ranges or algorithms, but AFRL’s descriptions show that tracking was treated as a core component of the demonstration rather than a background function. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force Research Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — “THOR was exceptionally effective a...</span></span></span>
+The public evidence does not reveal exact sensor types, ranges or algorithms, but AFRL’s descriptions show that tracking was treated as a core component of the demonstration rather than a background function.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force Research Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — “THOR was exceptionally effective a...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r8SYbFQGr-Y" title="America’s “THOR” Shoots Drones With High-power Microwaves | Has US Found the Answer to Drone Swarms?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r8SYbFQGr-Y" target="_blank" rel="noopener noreferrer">America’s “THOR” Shoots Drones With High-power Microwaves | Has US Found the Answer to Drone Swarms?</a></p><p class="youtube-embed-meta">Channel: CRUX</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r8SYbFQGr-Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r8SYbFQGr-Y">Open on YouTube</a></p></div></div></div>
 
 ## Manual Aiming and Gimballed Engagement
 
-One of the most revealing details from AFRL’s reporting is that the system was manually aimed during the test. AFRL identified Capt. Eric Plummer as the operator responsible for aiming THOR at the swarm during the demonstration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force Research Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — “THOR was exceptionally effective a...</span></span></span>
+One of the most revealing details from AFRL’s reporting is that the system was manually aimed during the test. AFRL identified Capt. Eric Plummer as the operator responsible for aiming THOR at the swarm during the demonstration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force Research Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — “THOR was exceptionally effective a...</span></span></span>
 
 This detail matters because it clarifies that the engagement was not a fully autonomous detect-to-defeat sequence. Human operators remained inside the loop. The demonstration therefore validated a human-directed [engagement chain]({{ 'engagement-chain/' | relative_url }}) rather than an entirely automated one.
 
-The physical mechanism enabling this engagement was THOR’s gimballed antenna system. AFRL repeatedly cited a “fast-moving gimbal” as one of the reasons the weapon successfully disabled the swarm. The gimbal allowed the microwave emitter to slew rapidly across the sky and remain pointed at the target area as drones moved. Air Force Research Laboratory+2Air Force Research Laboratory <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — “THOR was exceptionally effective a...</span></span></span>
+The physical mechanism enabling this engagement was THOR’s gimballed antenna system. AFRL repeatedly cited a “fast-moving gimbal” as one of the reasons the weapon successfully disabled the swarm. The gimbal allowed the microwave emitter to slew rapidly across the sky and remain pointed at the target area as drones moved. Air Force Research Laboratory+2Air Force Research Laboratory<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — “THOR was exceptionally effective a...</span></span></span>
 
 That gimbal served several purposes simultaneously:
 
@@ -324,7 +324,7 @@ That gimbal served several purposes simultaneously:
 
 Unlike a missile launcher, which fires an interceptor that continues independently, THOR’s effectiveness depended on maintaining alignment between the emitter and the target area. The gimbal therefore formed a crucial link between sensing and effect generation.
 
-AFRL officials specifically highlighted the combination of a wide beam and a fast-moving gimbal. Those two characteristics worked together. The wide beam reduced the precision required compared with a laser, while the gimbal ensured the beam remained directed at the swarm as it moved. Air Force Research Laboratory+2Air Force Tech Connect <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — “THOR was exceptionally effective a...</span></span></span>
+AFRL officials specifically highlighted the combination of a wide beam and a fast-moving gimbal. Those two characteristics worked together. The wide beam reduced the precision required compared with a laser, while the gimbal ensured the beam remained directed at the swarm as it moved. Air Force Research Laboratory+2Air Force Tech Connect<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — “THOR was exceptionally effective a...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_2023_swa_495c2d_thor_sensor_e_564b51-Illustration-2-dark.svg" | relative_url }}" alt="Kill Chain illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_2023_swa_495c2d_thor_sensor_e_564b51-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_2023_swa_495c2d_thor_sensor_e_564b51-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -332,18 +332,18 @@ AFRL officials specifically highlighted the combination of a wide beam and a fas
 
 Once the swarm had been tracked and the system was aimed, THOR executed its actual mission: delivering high-power microwave pulses into the engagement area.
 
-THOR was designed around the idea that microwave energy can affect multiple drones simultaneously by disrupting electronics rather than physically destroying airframes. AFRL described the system as using high-power microwave pulses that produced an immediate counter-electronic effect on targeted drones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.inceptivemind.com/afrl-tests-thor-high-power-microwave-counter-drone-weapon/31083/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inceptivemind.com">[Inceptive Mind+2DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inceptivemind.com</span><span class="citation-popover-title">afrl tests thor high power microwave counter drone weapon</span><span class="citation-popover-snippet">Inceptive MindAFRL tests its THOR high-power microwave counter-drone...29 May 2023 — AFRL conducted a demonstration of its THOR high-pow...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+THOR was designed around the idea that microwave energy can affect multiple drones simultaneously by disrupting electronics rather than physically destroying airframes. AFRL described the system as using high-power microwave pulses that produced an immediate counter-electronic effect on targeted drones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.inceptivemind.com/afrl-tests-thor-high-power-microwave-counter-drone-weapon/31083/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inceptivemind.com">[Inceptive Mind+2DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inceptivemind.com</span><span class="citation-popover-title">afrl tests thor high power microwave counter drone weapon</span><span class="citation-popover-snippet">Inceptive MindAFRL tests its THOR high-power microwave counter-drone...29 May 2023 — AFRL conducted a demonstration of its THOR high-pow...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
-The timing of this stage is important. Unlike kinetic weapons, which require projectiles to travel to the target, the microwave pulse reaches the engagement area at the speed of light. That does not eliminate the need for accurate tracking and pointing, but it greatly compresses the interval between decision and effect. Once the beam is correctly placed, the electronic disruption occurs essentially instantaneously from an operational perspective. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force Research Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — “THOR was exceptionally effective a...</span></span></span>
+The timing of this stage is important. Unlike kinetic weapons, which require projectiles to travel to the target, the microwave pulse reaches the engagement area at the speed of light. That does not eliminate the need for accurate tracking and pointing, but it greatly compresses the interval between decision and effect. Once the beam is correctly placed, the electronic disruption occurs essentially instantaneously from an operational perspective.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force Research Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — “THOR was exceptionally effective a...</span></span></span>
 
-AFRL officials also described the engagement as involving near-continuous firing during the swarm event. This suggests that the sensor, tracking and aiming elements were operating continuously while the microwave effect mechanism repeatedly engaged targets moving through the threat area. Rather than a single dramatic shot, the engagement appears to have been an ongoing cycle of tracking, pointing and pulsing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-air-force-research-laboratory-demonstrates-anti-drone-swarm-c-uas-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unmannedairspace.info">[Unmanned Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unmannedairspace.info</span><span class="citation-popover-snippet">Unmanned AirspaceUS Air Force Research Laboratory demonstrates anti-...“THOR was exceptionally effective at disabling the swarm with its...</span></span></span>
+AFRL officials also described the engagement as involving near-continuous firing during the swarm event. This suggests that the sensor, tracking and aiming elements were operating continuously while the microwave effect mechanism repeatedly engaged targets moving through the threat area. Rather than a single dramatic shot, the engagement appears to have been an ongoing cycle of tracking, pointing and pulsing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-air-force-research-laboratory-demonstrates-anti-drone-swarm-c-uas-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unmannedairspace.info">[Unmanned Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unmannedairspace.info</span><span class="citation-popover-snippet">Unmanned AirspaceUS Air Force Research Laboratory demonstrates anti-...“THOR was exceptionally effective at disabling the swarm with its...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QjHGxKb6W1c" title="THOR (Tactical High-power Operational Responder) Destroys Swarms of Enemy Drones" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QjHGxKb6W1c" target="_blank" rel="noopener noreferrer">THOR (Tactical High-power Operational Responder) Destroys Swarms of Enemy Drones</a></p><p class="youtube-embed-meta">Channel: AFResearchLab</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QjHGxKb6W1c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QjHGxKb6W1c">Open on YouTube</a></p></div></div></div>
 
 ## Why Integration Mattered More Than Raw Power
 
-The most overlooked aspect of the 2023 demonstration is that AFRL’s public statements focused as much on tracking and pointing as on microwave output. Officials repeatedly cited three linked attributes: a wide beam, high peak power and a fast-moving gimbal. Those features belong to different parts of the kill chain, yet AFRL presented them as a combined reason for success. Air Force Research Laboratory+2Air Force Tech Connect <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — “THOR was exceptionally effective a...</span></span></span>
+The most overlooked aspect of the 2023 demonstration is that AFRL’s public statements focused as much on tracking and pointing as on microwave output. Officials repeatedly cited three linked attributes: a wide beam, high peak power and a fast-moving gimbal. Those features belong to different parts of the kill chain, yet AFRL presented them as a combined reason for success. Air Force Research Laboratory+2Air Force Tech Connect<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — “THOR was exceptionally effective a...</span></span></span>
 
 This reveals an important reality about counter-swarm directed-energy weapons. Raw power alone does not solve the problem. A microwave source that cannot be pointed effectively is of limited value. Likewise, excellent tracking is insufficient if the weapon cannot rapidly place energy on target.
 
@@ -366,194 +366,194 @@ The April [2023 test]({{ '2023-test/' | relative_url }}) therefore demonstrated 
 That sequence is what made the event significant. The demonstration did not merely prove that microwave energy can affect drones—a fact already established in earlier testing. Instead, it showed that the sensing, tracking, aiming and effect-generation elements could operate together against a larger swarm-style target set. Within the limits of a controlled test, the hidden achievement was the functioning of the entire sensor-to-effect chain rather than the microwave pulse alone. [Air Force Research Laboratory+2Air Force Research Laboratory](https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Hidden Chain Behind THOR&#x27;s Drone Disruptions. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Hidden Chain Behind THOR&#x27;s Drone Disruptions. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Discusses how emerging technologies are evaluated and adopted by militaries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses how emerging technologies are evaluated and adopted by militaries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+Fleet+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost Fleet on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rgvZCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Ghost Fleet" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+Fleet+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Fleet">Ghost Fleet</a>
-        </h4>
-        <p class="fr-book-author">By Peter Warren Singer, August Cole</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+Fleet+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost Fleet on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rgvZCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Ghost Fleet" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+Fleet+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Fleet">Ghost Fleet</a>
+</h4>
+<p class="fr-book-author">By Peter Warren Singer, August Cole</p>
         
-        <p class="fr-book-desc">Illustrates future conflict scenarios involving advanced technologies and unmanned systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+Fleet+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates future conflict scenarios involving advanced technologies and unmanned systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+Fleet+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Electronic+Defense+Systems+Filippo+Neri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Electronic Defense Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1646840-M.jpg" alt="Cover for Introduction to Electronic Defense Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Electronic+Defense+Systems+Filippo+Neri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Electronic Defense Systems">Introduction to Electronic Defense Systems</a>
-        </h4>
-        <p class="fr-book-author">By Filippo Neri</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Electronic+Defense+Systems+Filippo+Neri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Electronic Defense Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1646840-M.jpg" alt="Cover for Introduction to Electronic Defense Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Electronic+Defense+Systems+Filippo+Neri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Electronic Defense Systems">Introduction to Electronic Defense Systems</a>
+</h4>
+<p class="fr-book-author">By Filippo Neri</p>
         
-        <p class="fr-book-desc">First published 1991. Subjects: Electronics in military engineering.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Electronic+Defense+Systems+Filippo+Neri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1991. Subjects: Electronics in military engineering.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Electronic+Defense+Systems+Filippo+Neri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing+Mark+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Radar Signal Processing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1079619-M.jpg" alt="Cover for Fundamentals of Radar Signal Processing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing+Mark+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Radar Signal Processing">Fundamentals of Radar Signal Processing</a>
-        </h4>
-        <p class="fr-book-author">By Mark A. Richards</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing+Mark+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Radar Signal Processing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1079619-M.jpg" alt="Cover for Fundamentals of Radar Signal Processing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing+Mark+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Radar Signal Processing">Fundamentals of Radar Signal Processing</a>
+</h4>
+<p class="fr-book-author">By Mark A. Richards</p>
         
-        <p class="fr-book-desc">First published 2005. Subjects: Radar, Signal processing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing+Mark+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2005. Subjects: Radar, Signal processing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing+Mark+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+Fleet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost Fleet</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Electronic+Defense+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Electronic Defense Systems books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+Fleet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost Fleet</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Electronic+Defense+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Electronic Defense Systems books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DoD UAV Integrated Roadmap Poster 2009 2034 Military Drone Chart Foldout"><img src="{{ '/assets/images/marketplace-covers/194b1edade76d37a0741.jpg' | relative_url }}" alt="Listing image for DoD UAV Integrated Roadmap Poster 2009 2034 Military Drone Chart Foldout" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">DoD UAV Integrated Roadmap Poster 2009 2034 Military Drone Chart Foldout</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DoD UAV Integrated Roadmap Poster 2009 2034 Military Drone Chart Foldout"><img src="{{ '/assets/images/marketplace-covers/194b1edade76d37a0741.jpg' | relative_url }}" alt="Listing image for DoD UAV Integrated Roadmap Poster 2009 2034 Military Drone Chart Foldout" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">DoD UAV Integrated Roadmap Poster 2009 2034 Military Drone Chart Foldout</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for drone UAVs vehicle aircraft asphalt military MQ 9 Reaper American 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/a9a06161a51d15e6d893.jpg' | relative_url }}" alt="Listing image for drone UAVs vehicle aircraft asphalt military MQ 9 Reaper American 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">drone UAVs vehicle aircraft asphalt military MQ 9 Reaper American 11x17 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for drone UAVs vehicle aircraft asphalt military MQ 9 Reaper American 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/a9a06161a51d15e6d893.jpg' | relative_url }}" alt="Listing image for drone UAVs vehicle aircraft asphalt military MQ 9 Reaper American 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">drone UAVs vehicle aircraft asphalt military MQ 9 Reaper American 11x17 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for airplane UAVs drone military aircraft vehicle MQ 9 Reaper 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/5a9926f4f7c65f754a16.jpg' | relative_url }}" alt="Listing image for airplane UAVs drone military aircraft vehicle MQ 9 Reaper 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">airplane UAVs drone military aircraft vehicle MQ 9 Reaper 11x17 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for airplane UAVs drone military aircraft vehicle MQ 9 Reaper 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/5a9926f4f7c65f754a16.jpg' | relative_url }}" alt="Listing image for airplane UAVs drone military aircraft vehicle MQ 9 Reaper 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">airplane UAVs drone military aircraft vehicle MQ 9 Reaper 11x17 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/d9531a5d69a4b2b40398.jpg' | relative_url }}" alt="Listing image for Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/d9531a5d69a4b2b40398.jpg' | relative_url }}" alt="Listing image for Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="kill-chain-the-hidden-chain-behind-thor-s-drone-disruptions-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -569,7 +569,7 @@ That sequence is what made the event significant. The demonstration did not mere
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -589,7 +589,7 @@ That sequence is what made the event significant. The demonstration did not mere
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -621,7 +621,7 @@ That sequence is what made the event significant. The demonstration did not mere
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -673,7 +673,7 @@ That sequence is what made the event significant. The demonstration did not mere
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -718,7 +718,7 @@ That sequence is what made the event significant. The demonstration did not mere
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -759,94 +759,94 @@ That sequence is what made the event significant. The demonstration did not mere
 
 ## Endnotes
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: afrl.af.mil  
-   Link: <a href="https://www.afrl.af.mil/News/Video/?dvpTag=Thor&amp;dvpmoduleid=69743" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Video/?dvpTag=Thor&amp;dvpmoduleid=69743</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Force Research Laboratory VideoTHOR, is a high-power microwave [counter-drone](&amp;#123;&amp;#123; &#x27;missile-savings/&#x27; | relative_url &amp;#125;&amp;#125;) weapon. Numerous drones were flown to simulate a swarm attac...</p></details>
+   Link:<a href="https://www.afrl.af.mil/News/Video/?dvpTag=Thor&amp;dvpmoduleid=69743" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Video/?dvpTag=Thor&amp;dvpmoduleid=69743</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Force Research Laboratory VideoTHOR, is a high-power microwave [counter-drone](&amp;#123;&amp;#123; &#x27;missile-savings/&#x27; | relative_url &amp;#125;&amp;#125;) weapon. Numerous drones were flown to simulate a swarm attac...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: inceptivemind.com  
    Title: afrl tests thor high power microwave counter drone weapon  
-   Link: <a href="https://www.inceptivemind.com/afrl-tests-thor-high-power-microwave-counter-drone-weapon/31083/" target="_blank" rel="noopener noreferrer nofollow">https://www.inceptivemind.com/afrl-tests-thor-high-power-microwave-counter-drone-weapon/31083/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Inceptive MindAFRL tests its THOR high-power microwave counter-drone...29 May 2023 — AFRL conducted a demonstration of its THOR high-pow...</p></details>
+   Link:<a href="https://www.inceptivemind.com/afrl-tests-thor-high-power-microwave-counter-drone-weapon/31083/" target="_blank" rel="noopener noreferrer nofollow">https://www.inceptivemind.com/afrl-tests-thor-high-power-microwave-counter-drone-weapon/31083/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inceptive MindAFRL tests its THOR high-power microwave counter-drone...29 May 2023 — AFRL conducted a demonstration of its THOR high-pow...</p></details>
    Published: May 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: unmannedairspace.info  
-   Link: <a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-air-force-research-laboratory-demonstrates-anti-drone-swarm-c-uas-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-air-force-research-laboratory-demonstrates-anti-drone-swarm-c-uas-technology/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unmanned AirspaceUS Air Force Research Laboratory demonstrates anti-...“THOR was exceptionally effective at disabling the swarm with its...</p></details>
+   Link:<a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-air-force-research-laboratory-demonstrates-anti-drone-swarm-c-uas-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-air-force-research-laboratory-demonstrates-anti-drone-swarm-c-uas-technology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unmanned AirspaceUS Air Force Research Laboratory demonstrates anti-...“THOR was exceptionally effective at disabling the swarm with its...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: airforcetechconnect.org  
    Title: thor hammers drone swarm high power microwaves  
-   Link: <a href="https://airforcetechconnect.org/news/thor-hammers-drone-swarm-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow">https://airforcetechconnect.org/news/thor-hammers-drone-swarm-high-power-microwaves</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THOR Hammers Drone Swarm with High-Power Microwaves24 May 2023 — “THOR was exceptionally effective at disabling the swarm with its wide b...</p></details>
+   Link:<a href="https://airforcetechconnect.org/news/thor-hammers-drone-swarm-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow">https://airforcetechconnect.org/news/thor-hammers-drone-swarm-high-power-microwaves</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THOR Hammers Drone Swarm with High-Power Microwaves24 May 2023 — “THOR was exceptionally effective at disabling the swarm with its wide b...</p></details>
    Published: May 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/800274/thor-tactical-high-power-operational-responder" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/800274/thor-tactical-high-power-operational-responder</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Video - THOR (Tactical High-power Operational Responder)THOR (Tactical High-power Operational Responder) is a prototype Directed Energy (...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/800274/thor-tactical-high-power-operational-responder" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/800274/thor-tactical-high-power-operational-responder</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Video - THOR (Tactical High-power Operational Responder)THOR (Tactical High-power Operational Responder) is a prototype Directed Energy (...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: af.mil  
    Title: rls thor hammers drones in new video animation  
-   Link: <a href="https://www.af.mil/News/Article-Display/Article/2658386/afrls-thor-hammers-drones-in-new-video-animation/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/News/Article-Display/Article/2658386/afrls-thor-hammers-drones-in-new-video-animation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceAFRL&#x27;s THOR hammers drones in new video animation16 Jun 2021 — THOR is a prototype Directed Energy weapon used to disable t...</p></details>
+   Link:<a href="https://www.af.mil/News/Article-Display/Article/2658386/afrls-thor-hammers-drones-in-new-video-animation/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/News/Article-Display/Article/2658386/afrls-thor-hammers-drones-in-new-video-animation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceAFRL&#x27;s THOR hammers drones in new video animation16 Jun 2021 — THOR is a prototype Directed Energy weapon used to disable t...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=QjHGxKb6W1c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QjHGxKb6W1c</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THOR (Tactical High-power Operational Responder) Destroys...AFRL&#x27;s THOR (Tactical High-power Operational Responder) is a prototype Direc...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QjHGxKb6W1c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QjHGxKb6W1c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THOR (Tactical High-power Operational Responder) Destroys...AFRL&#x27;s THOR (Tactical High-power Operational Responder) is a prototype Direc...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: techbriefs.com  
-   Link: <a href="https://www.techbriefs.com/component/content/article/49907-meet-thor-afrls-counter-drone-that-tracks-and-disables-drone-swarm" target="_blank" rel="noopener noreferrer nofollow">https://www.techbriefs.com/component/content/article/49907-meet-thor-afrls-counter-drone-that-tracks-and-disables-drone-swarm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch this video to see how THOR tracks and turns off entire drone [swarms](&amp;#123;&amp;#123; &#x27;swarms/&#x27; | relative_url &amp;#125;&amp;#125;). Thor is a high power microwave...</p></details>
+   Link:<a href="https://www.techbriefs.com/component/content/article/49907-meet-thor-afrls-counter-drone-that-tracks-and-disables-drone-swarm" target="_blank" rel="noopener noreferrer nofollow">https://www.techbriefs.com/component/content/article/49907-meet-thor-afrls-counter-drone-that-tracks-and-disables-drone-swarm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch this video to see how THOR tracks and turns off entire drone [swarms](&amp;#123;&amp;#123; &#x27;swarms/&#x27; | relative_url &amp;#125;&amp;#125;). Thor is a high power microwave...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: taskandpurpose.com  
    Title: air force thor directed energy drone swarm test  
-   Link: <a href="https://taskandpurpose.com/tech-tactics/air-force-thor-directed-energy-drone-swarm-test/" target="_blank" rel="noopener noreferrer nofollow">https://taskandpurpose.com/tech-tactics/air-force-thor-directed-energy-drone-swarm-test/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force&#x27;s THOR directed energy weapon ready for drone...19 May 2023 — THOR “was exceptionally effective at disabling the swarm with it...</p></details>
+   Link:<a href="https://taskandpurpose.com/tech-tactics/air-force-thor-directed-energy-drone-swarm-test/" target="_blank" rel="noopener noreferrer nofollow">https://taskandpurpose.com/tech-tactics/air-force-thor-directed-energy-drone-swarm-test/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force&#x27;s THOR directed energy weapon ready for drone...19 May 2023 — THOR “was exceptionally effective at disabling the swarm with it...</p></details>
    Published: May 2023  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: flightglobal.com  
    Title: usaf tests anti drone swarm energy weapon  
-   Link: <a href="https://www.flightglobal.com/military-uavs/2023/05/usaf-tests-anti-drone-swarm-energy-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightglobal.com/military-uavs/2023/05/usaf-tests-anti-drone-swarm-energy-weapon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USAF tests anti-drone swarm energy weapon17 May 2023 — “THOR was exceptionally effective at disabling the swarm with its wide beam, high...</p></details>
+   Link:<a href="https://www.flightglobal.com/military-uavs/2023/05/usaf-tests-anti-drone-swarm-energy-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightglobal.com/military-uavs/2023/05/usaf-tests-anti-drone-swarm-energy-weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USAF tests anti-drone swarm energy weapon17 May 2023 — “THOR was exceptionally effective at disabling the swarm with its wide beam, high...</p></details>
    Published: May 2023  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: airforce-technology.com  
    Title: thor defeats swarm with energy weapon  
-   Link: <a href="https://www.airforce-technology.com/news/thor-defeats-swarm-with-energy-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.airforce-technology.com/news/thor-defeats-swarm-with-energy-weapon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>17 May 2023 — During the demonstration, THOR&#x27;s high-power microwave counter drone weapon was tested in an engagement with a swarm of mult...</p></details>
+   Link:<a href="https://www.airforce-technology.com/news/thor-defeats-swarm-with-energy-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.airforce-technology.com/news/thor-defeats-swarm-with-energy-weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>17 May 2023 — During the demonstration, THOR&#x27;s high-power microwave counter drone weapon was tested in an engagement with a swarm of mult...</p></details>
    Published: May 2023  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=r8SYbFQGr-Y" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=r8SYbFQGr-Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THOR (Tactical High-power Operational Responder) Destroys Swarms of Enemy Drones...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=r8SYbFQGr-Y" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=r8SYbFQGr-Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THOR (Tactical High-power Operational Responder) Destroys Swarms of Enemy Drones...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: Meet THOR, the Air Force Research Laboratory  
-   Link: <a href="https://www.facebook.com/ArmedWithScience/videos/meet-thor-a-counter-drone-weapon/907504010708144/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ArmedWithScience/videos/meet-thor-a-counter-drone-weapon/907504010708144/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AFRL&#x27;s...Numerous drones were flown to simulate a swarm attack, and using. THOR tracked and disabled the entire swarm...</p></details>
+   Link:<a href="https://www.facebook.com/ArmedWithScience/videos/meet-thor-a-counter-drone-weapon/907504010708144/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ArmedWithScience/videos/meet-thor-a-counter-drone-weapon/907504010708144/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFRL&#x27;s...Numerous drones were flown to simulate a swarm attack, and using. THOR tracked and disabled the entire swarm...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: THOR tested  
-   Link: <a href="http://www.youtube.com/watch?v=hljlP4qsbak" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=hljlP4qsbak</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>America’s “THOR” Shoots Drones With High-power Microwaves | Has US Found the Answer to Drone Swarms?...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=hljlP4qsbak" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=hljlP4qsbak</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>America’s “THOR” Shoots Drones With High-power Microwaves | Has US Found the Answer to Drone Swarms?...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: THOR Defeats Swarm With Microwave Weapon  
-   Link: <a href="http://www.youtube.com/watch?v=-Q959a82NQo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=-Q959a82NQo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AFRL THOR drone swarm tracking sensor Air Force Research Lab unleashed THOR on drone swarm Straight Arrow...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=-Q959a82NQo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=-Q959a82NQo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFRL THOR drone swarm tracking sensor Air Force Research Lab unleashed THOR on drone swarm Straight Arrow...</p></details>
 

@@ -275,7 +275,7 @@ image: /assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_wide_bea_77
 
 ## Introduction
 
-[THOR]({{ 'thor/' | relative_url }})’s wide microwave beam changes swarm defence because it alters the relationship between the number of incoming drones and the number of engagements required to stop them. In a conventional one-target-at-a-time model, every additional drone adds pressure to the defender’s tracking, targeting and firing cycle. A swarm succeeds by forcing those cycles to occur faster than the defence system can manage. THOR was designed around a different idea: affect a volume of airspace rather than a single aircraft. If multiple drones occupy that volume, [one microwave]({{ 'one-shot/' | relative_url }}) pulse can potentially disrupt several of them during the same engagement cycle. Public descriptions from the US Air Force Research Laboratory (AFRL) consistently emphasise THOR’s ability to counter multiple targets and its use of a wide beam specifically for swarm scenarios. Air Force Research Laboratory+2Air Force Research Laboratory <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[afrl.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — THOR, a high-powered microwave coun...</span><span class="citation-popover-meta">Published: May 16, 2023</span></span></span>
+[THOR]({{ 'thor/' | relative_url }})’s wide microwave beam changes swarm defence because it alters the relationship between the number of incoming drones and the number of engagements required to stop them. In a conventional one-target-at-a-time model, every additional drone adds pressure to the defender’s tracking, targeting and firing cycle. A swarm succeeds by forcing those cycles to occur faster than the defence system can manage. THOR was designed around a different idea: affect a volume of airspace rather than a single aircraft. If multiple drones occupy that volume, [one microwave]({{ 'one-shot/' | relative_url }}) pulse can potentially disrupt several of them during the same engagement cycle. Public descriptions from the US Air Force Research Laboratory (AFRL) consistently emphasise THOR’s ability to counter multiple targets and its use of a wide beam specifically for swarm scenarios. Air Force Research Laboratory+2Air Force Research Laboratory<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[afrl.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — THOR, a high-powered microwave coun...</span><span class="citation-popover-meta">Published: May 16, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_wide_bea_77bcf1_wide_beam_eng_872adc-Illustration-1-dark.svg" | relative_url }}" alt="Engagement Math illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_wide_bea_77bcf1_wide_beam_eng_872adc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_wide_bea_77bcf1_wide_beam_eng_872adc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -285,11 +285,11 @@ The significance is not merely that several drones may be disabled at once. The 
 
 Drone [swarms]({{ 'swarms/' | relative_url }}) create pressure through quantity rather than individual sophistication. A defender facing fifty drones does not simply face fifty times more aircraft; it faces a compressed decision problem in which detection, classification, prioritisation and engagement all occur within a short time window.
 
-Traditional interceptors often operate according to a roughly linear relationship. If ten drones appear, the defender may need approximately ten engagements. If one hundred appear, the number of required engagements rises correspondingly. Even highly effective systems can become saturated if incoming targets arrive faster than engagements can be completed. This challenge has become a central concern in [counter-drone]({{ 'missile-savings/' | relative_url }}) planning because relatively inexpensive drones can be fielded in large numbers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: droneshield.com">[DroneShield]</a><span class="citation-popover" role="note"><span class="citation-popover-source">droneshield.com</span><span class="citation-popover-snippet">A Counter to Drone Swarms: High-Power Microwave...Military forces must prioritise a counter to drone swarming tactics with wh...</span></span></span>
+Traditional interceptors often operate according to a roughly linear relationship. If ten drones appear, the defender may need approximately ten engagements. If one hundred appear, the number of required engagements rises correspondingly. Even highly effective systems can become saturated if incoming targets arrive faster than engagements can be completed. This challenge has become a central concern in [counter-drone]({{ 'missile-savings/' | relative_url }}) planning because relatively inexpensive drones can be fielded in large numbers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: droneshield.com">[DroneShield]</a><span class="citation-popover" role="note"><span class="citation-popover-source">droneshield.com</span><span class="citation-popover-snippet">A Counter to Drone Swarms: High-Power Microwave...Military forces must prioritise a counter to drone swarming tactics with wh...</span></span></span>
 
 From a swarm designer’s perspective, the goal is often not to make every drone survive. The objective is to overload the defender’s engagement capacity. If enough aircraft arrive simultaneously, some may pass through simply because the defender runs out of time, ammunition or engagement opportunities.
 
-This is the problem THOR was created to address. AFRL describes the system as a counter-swarm weapon designed for the non-kinetic defeat of multiple targets rather than isolated aircraft. Air Force Research Laboratory+2Air Force Research Laboratory <span class="citation-link-wrap"><a class="citation-inline-link" href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afresearchlab.com">[afresearchlab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afresearchlab.com</span><span class="citation-popover-snippet">uses high power microwaves to cause a counter...</span></span></span>
+This is the problem THOR was created to address. AFRL describes the system as a counter-swarm weapon designed for the non-kinetic defeat of multiple targets rather than isolated aircraft. Air Force Research Laboratory+2Air Force Research Laboratory<span class="citation-link-wrap"><a class="citation-inline-link" href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afresearchlab.com">[afresearchlab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afresearchlab.com</span><span class="citation-popover-snippet">uses high power microwaves to cause a counter...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0pwv1BOuqN4" title="AFRL&#x27;s THOR Tracks and Disables Drone Swarm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0pwv1BOuqN4" target="_blank" rel="noopener noreferrer">AFRL&#x27;s THOR Tracks and Disables Drone Swarm</a></p><p class="youtube-embed-meta">Channel: AFResearchLab</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0pwv1BOuqN4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0pwv1BOuqN4">Open on YouTube</a></p></div></div></div>
@@ -300,7 +300,7 @@ The most important shift is from target-centric engagements to area-centric enga
 
 A laser or missile is generally assigned to a specific drone. The engagement cycle begins with identifying a target and ends with applying effects to that target. The process then repeats. Even when these cycles are rapid, the defender is still processing individual aircraft.
 
-THOR’s concept is different. A high-power microwave pulse creates an electromagnetic effect across a broader region than a laser spot. Drones inside that region may experience disruption to electronics, sensors, processors, communication links or power-management systems depending on their design and vulnerability. Because the pulse is applied across an area rather than a single point, several drones may be exposed during the same firing event. Air &amp; Space Forces Magazine+2Potomac Officers Club <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airandspaceforces.com/air-forces-thor-drone-swarm-demo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspaceforces.com">[airandspaceforces.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspaceforces.com</span><span class="citation-popover-title">air forces thor drone swarm demo</span><span class="citation-popover-snippet">Air &amp; Space Forces MagazineTHOR Hammers Drone Swarm with High-Power Microwaves19 May 2023 — THOR uses bursts of high-power microwave ener...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+THOR’s concept is different. A high-power microwave pulse creates an electromagnetic effect across a broader region than a laser spot. Drones inside that region may experience disruption to electronics, sensors, processors, communication links or power-management systems depending on their design and vulnerability. Because the pulse is applied across an area rather than a single point, several drones may be exposed during the same firing event. Air &amp; Space Forces Magazine+2Potomac Officers Club<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airandspaceforces.com/air-forces-thor-drone-swarm-demo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspaceforces.com">[airandspaceforces.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspaceforces.com</span><span class="citation-popover-title">air forces thor drone swarm demo</span><span class="citation-popover-snippet">Air &amp; Space Forces MagazineTHOR Hammers Drone Swarm with High-Power Microwaves19 May 2023 — THOR uses bursts of high-power microwave ener...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 The practical consequence is that the engagement cycle is no longer tied one-to-one with the target count. Instead of asking:
 
@@ -312,7 +312,7 @@ The defender can begin asking:
 
 That distinction changes the economics of defence. A pulse that affects five drones is not merely five successful engagements; it is one engagement cycle producing five outcomes.
 
-AFRL's public demonstrations repeatedly describe THOR as engineered to counter multiple targets rapidly. During swarm demonstrations, officials highlighted the combination of a wide beam and high-power microwave effects as key reasons the system could engage entire groups rather than isolated drones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dvidshub.net/video/904353/afrls-thor-tracks-and-disables-drone-swarm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS+2Unmanned Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-title">DVIDSAFRL&#x27;s THOR Tracks and Disables Drone Swarm&quot;Numerous drones were flown to simulate a swarm attack, and using its wide beam, high pea</span><span class="citation-popover-snippet">k powers and fast-moving gimble, THOR tracked and turned</span></span></span>
+AFRL's public demonstrations repeatedly describe THOR as engineered to counter multiple targets rapidly. During swarm demonstrations, officials highlighted the combination of a wide beam and high-power microwave effects as key reasons the system could engage entire groups rather than isolated drones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dvidshub.net/video/904353/afrls-thor-tracks-and-disables-drone-swarm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS+2Unmanned Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-title">DVIDSAFRL&#x27;s THOR Tracks and Disables Drone Swarm&quot;Numerous drones were flown to simulate a swarm attack, and using its wide beam, high pea</span><span class="citation-popover-snippet">k powers and fast-moving gimble, THOR tracked and turned</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hljlP4qsbak" title="THOR tested - engage multiple drones successfully !" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hljlP4qsbak" target="_blank" rel="noopener noreferrer">THOR tested - engage multiple drones successfully !</a></p><p class="youtube-embed-meta">Channel: Defense Updates</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hljlP4qsbak" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hljlP4qsbak">Open on YouTube</a></p></div></div></div>
@@ -327,7 +327,7 @@ The first system can defeat one drone per engagement cycle. Even if every engage
 
 The second system affects a cluster of drones whenever they occupy the same engagement volume. If four drones are within the beam during each pulse, only five engagement cycles may be needed to influence the same number of aircraft.
 
-The exact figures depend on geometry, range and drone vulnerability, but the principle remains the same: the effectiveness of a wide-area microwave system grows when targets are spatially concentrated. The swarm's numerical advantage is partially reduced because several aircraft can be addressed simultaneously rather than sequentially. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afresearchlab.com">[Air Force Research Laboratory+2DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afresearchlab.com</span><span class="citation-popover-snippet">uses high power microwaves to cause a counter...</span></span></span>
+The exact figures depend on geometry, range and drone vulnerability, but the principle remains the same: the effectiveness of a wide-area microwave system grows when targets are spatially concentrated. The swarm's numerical advantage is partially reduced because several aircraft can be addressed simultaneously rather than sequentially.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afresearchlab.com">[Air Force Research Laboratory+2DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afresearchlab.com</span><span class="citation-popover-snippet">uses high power microwaves to cause a counter...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_wide_bea_77bcf1_wide_beam_eng_872adc-Illustration-2-dark.svg" | relative_url }}" alt="Engagement Math illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_wide_bea_77bcf1_wide_beam_eng_872adc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_wide_bea_77bcf1_wide_beam_eng_872adc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -361,13 +361,13 @@ Several factors influence the outcome:
 * **Range:** Electromagnetic effects weaken with distance, affecting how much energy reaches target electronics.
 * **Aspect and orientation:** Drone electronics do not present the same vulnerability from every angle.
 * **Swarm dispersion:** Widely separated aircraft may require multiple engagements even if the weapon itself is highly effective.
-* **Beam placement:** The defender must still position the effect where drones are expected to be. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-air-force-research-laboratory-demonstrates-anti-drone-swarm-c-uas-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unmannedairspace.info">[Unmanned Airspace+2DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unmannedairspace.info</span><span class="citation-popover-snippet">Unmanned AirspaceUS Air Force Research Laboratory demonstrates anti-...“THOR was exceptionally effective at disabling the swarm with its...</span></span></span>
+* **Beam placement:** The defender must still position the effect where drones are expected to be.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-air-force-research-laboratory-demonstrates-anti-drone-swarm-c-uas-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unmannedairspace.info">[Unmanned Airspace+2DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unmannedairspace.info</span><span class="citation-popover-snippet">Unmanned AirspaceUS Air Force Research Laboratory demonstrates anti-...“THOR was exceptionally effective at disabling the swarm with its...</span></span></span>
 
 </div>
 
 This means THOR does not eliminate geometry from air defence; it makes geometry more important. Success depends on placing a wide-area effect where target density is highest.
 
-AFRL's descriptions of THOR's operation reflect this reality. Public material highlights not only the wide beam but also tracking systems and a fast-moving gimbal that help position the microwave effect against swarm formations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dvidshub.net/video/904353/afrls-thor-tracks-and-disables-drone-swarm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-title">DVIDSAFRL&#x27;s THOR Tracks and Disables Drone Swarm&quot;Numerous drones were flown to simulate a swarm attack, and using its wide beam, high pea</span><span class="citation-popover-snippet">k powers and fast-moving gimble, THOR tracked and turned</span></span></span>
+AFRL's descriptions of THOR's operation reflect this reality. Public material highlights not only the wide beam but also tracking systems and a fast-moving gimbal that help position the microwave effect against swarm formations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dvidshub.net/video/904353/afrls-thor-tracks-and-disables-drone-swarm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-title">DVIDSAFRL&#x27;s THOR Tracks and Disables Drone Swarm&quot;Numerous drones were flown to simulate a swarm attack, and using its wide beam, high pea</span><span class="citation-popover-snippet">k powers and fast-moving gimble, THOR tracked and turned</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_wide_bea_77bcf1_wide_beam_eng_872adc-Illustration-3-dark.svg" | relative_url }}" alt="Engagement Math illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_wide_bea_77bcf1_wide_beam_eng_872adc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_wide_bea_77bcf1_wide_beam_eng_872adc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -377,199 +377,199 @@ The fundamental advantage emerges as swarm size increases.
 
 In a one-to-one engagement model, required engagements rise almost directly with the number of drones. The defender's workload grows alongside the swarm.
 
-In a one-to-many model, workload can grow more slowly because each engagement may influence multiple aircraft. The larger and denser the swarm becomes, the greater the potential payoff from each engagement cycle. That is why AFRL repeatedly frames THOR as a counter-swarm rather than simply a counter-drone system. Its design goal is not merely to destroy drones but to prevent swarm size from overwhelming the defence process itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afresearchlab.com">[Air Force Research Laboratory+2Air University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afresearchlab.com</span><span class="citation-popover-snippet">uses high power microwaves to cause a counter...</span></span></span>
+In a one-to-many model, workload can grow more slowly because each engagement may influence multiple aircraft. The larger and denser the swarm becomes, the greater the potential payoff from each engagement cycle. That is why AFRL repeatedly frames THOR as a counter-swarm rather than simply a counter-drone system. Its design goal is not merely to destroy drones but to prevent swarm size from overwhelming the defence process itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afresearchlab.com">[Air Force Research Laboratory+2Air University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afresearchlab.com</span><span class="citation-popover-snippet">uses high power microwaves to cause a counter...</span></span></span>
 
-The key insight is that THOR's wide beam attacks the swarm's principal advantage—numbers. By allowing a single engagement cycle to affect multiple aircraft, it changes the arithmetic from counting targets individually to exploiting target density. In swarm defence, that shift can matter as much as the power of the microwave pulse itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dvidshub.net/video/904353/afrls-thor-tracks-and-disables-drone-swarm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS+2Unmanned Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-title">DVIDSAFRL&#x27;s THOR Tracks and Disables Drone Swarm&quot;Numerous drones were flown to simulate a swarm attack, and using its wide beam, high pea</span><span class="citation-popover-snippet">k powers and fast-moving gimble, THOR tracked and turned</span></span></span>
+The key insight is that THOR's wide beam attacks the swarm's principal advantage—numbers. By allowing a single engagement cycle to affect multiple aircraft, it changes the arithmetic from counting targets individually to exploiting target density. In swarm defence, that shift can matter as much as the power of the microwave pulse itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dvidshub.net/video/904353/afrls-thor-tracks-and-disables-drone-swarm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS+2Unmanned Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-title">DVIDSAFRL&#x27;s THOR Tracks and Disables Drone Swarm&quot;Numerous drones were flown to simulate a swarm attack, and using its wide beam, high pea</span><span class="citation-popover-snippet">k powers and fast-moving gimble, THOR tracked and turned</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why One Shot Can Matter Against Many Drones. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why One Shot Can Matter Against Many Drones. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
-        </h4>
-        <p class="fr-book-author">By Paul Scharre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
+</h4>
+<p class="fr-book-author">By Paul Scharre</p>
         
-        <p class="fr-book-desc">Discusses scaling challenges posed by autonomous and swarm systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses scaling challenges posed by autonomous and swarm systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Highlights how public demonstrations often reveal only part of a program’s capabilities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights how public demonstrations often reveal only part of a program’s capabilities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Electronic+Defense+Systems+Filippo+Neri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Electronic Defense Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1646840-M.jpg" alt="Cover for Introduction to Electronic Defense Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Electronic+Defense+Systems+Filippo+Neri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Electronic Defense Systems">Introduction to Electronic Defense Systems</a>
-        </h4>
-        <p class="fr-book-author">By Filippo Neri</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Electronic+Defense+Systems+Filippo+Neri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Electronic Defense Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1646840-M.jpg" alt="Cover for Introduction to Electronic Defense Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Electronic+Defense+Systems+Filippo+Neri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Electronic Defense Systems">Introduction to Electronic Defense Systems</a>
+</h4>
+<p class="fr-book-author">By Filippo Neri</p>
         
-        <p class="fr-book-desc">First published 1991. Subjects: Electronics in military engineering.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Electronic+Defense+Systems+Filippo+Neri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1991. Subjects: Electronics in military engineering.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Electronic+Defense+Systems+Filippo+Neri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing+Mark+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Radar Signal Processing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1079619-M.jpg" alt="Cover for Fundamentals of Radar Signal Processing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing+Mark+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Radar Signal Processing">Fundamentals of Radar Signal Processing</a>
-        </h4>
-        <p class="fr-book-author">By Mark A. Richards</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing+Mark+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Radar Signal Processing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1079619-M.jpg" alt="Cover for Fundamentals of Radar Signal Processing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing+Mark+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Radar Signal Processing">Fundamentals of Radar Signal Processing</a>
+</h4>
+<p class="fr-book-author">By Mark A. Richards</p>
         
-        <p class="fr-book-desc">First published 2005. Subjects: Radar, Signal processing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing+Mark+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2005. Subjects: Radar, Signal processing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing+Mark+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Electronic+Defense+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Electronic Defense Systems books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Electronic+Defense+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Electronic Defense Systems books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Porsche wall logo decor"><img src="{{ '/assets/images/marketplace-covers/f1fe1118623e7ee0ff9b.jpg' | relative_url }}" alt="Listing image for Porsche wall logo decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Porsche wall logo decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military technology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: military technology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Porsche wall logo decor"><img src="{{ '/assets/images/marketplace-covers/f1fe1118623e7ee0ff9b.jpg' | relative_url }}" alt="Listing image for Porsche wall logo decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Porsche wall logo decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military technology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: military technology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for military technology, graphic of air Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/96a66bcca512342979fb.jpg' | relative_url }}" alt="Listing image for military technology, graphic of air Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">military technology, graphic of air Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military technology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: military technology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for military technology, graphic of air Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/96a66bcca512342979fb.jpg' | relative_url }}" alt="Listing image for military technology, graphic of air Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">military technology, graphic of air Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military technology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: military technology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for aviation technology military aircra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d61fb9cd1c0f89892371.jpg' | relative_url }}" alt="Listing image for aviation technology military aircra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">aviation technology military aircra Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military technology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: military technology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for aviation technology military aircra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d61fb9cd1c0f89892371.jpg' | relative_url }}" alt="Listing image for aviation technology military aircra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">aviation technology military aircra Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military technology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: military technology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for aviation technology military aircra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2359a1525e1d31a99921.jpg' | relative_url }}" alt="Listing image for aviation technology military aircra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">aviation technology military aircra Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military technology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: military technology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for aviation technology military aircra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2359a1525e1d31a99921.jpg' | relative_url }}" alt="Listing image for aviation technology military aircra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">aviation technology military aircra Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military technology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: military technology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military technology wall art" data-ebay-reference="engagement-math-why-one-shot-can-matter-against-many-drones-directed-ener-military-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -585,7 +585,7 @@ The key insight is that THOR's wide beam attacks the swarm's principal advantage
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -605,7 +605,7 @@ The key insight is that THOR's wide beam attacks the swarm's principal advantage
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -637,7 +637,7 @@ The key insight is that THOR's wide beam attacks the swarm's principal advantage
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -689,7 +689,7 @@ The key insight is that THOR's wide beam attacks the swarm's principal advantage
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -734,7 +734,7 @@ The key insight is that THOR's wide beam attacks the swarm's principal advantage
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -775,141 +775,141 @@ The key insight is that THOR's wide beam attacks the swarm's principal advantage
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: afrl.af.mil  
    Title: Air Force Research Laboratory AFRL conducts swarm technology demonstration  
-   Link: <a href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — THOR, a high-powered microwave coun...</p></details>
+   Link:<a href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — THOR, a high-powered microwave coun...</p></details>
    Published: May 16, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: afresearchlab.com  
-   Link: <a href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://afresearchlab.com/counter-swarm-high-power-weapon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>uses high power [microwaves](&amp;#123;&amp;#123; &#x27;microwaves/&#x27; | relative_url &amp;#125;&amp;#125;) to cause a counter...</p></details>
+   Link:<a href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://afresearchlab.com/counter-swarm-high-power-weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>uses high power [microwaves](&amp;#123;&amp;#123; &#x27;microwaves/&#x27; | relative_url &amp;#125;&amp;#125;) to cause a counter...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/904353/afrls-thor-tracks-and-disables-[drone-swarm" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/904353/afrls-thor-tracks-and-disables-[drone-swarm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>k powers and fast-moving gimble, THOR tracked and turned...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/904353/afrls-thor-tracks-and-disables-[drone-swarm" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/904353/afrls-thor-tracks-and-disables-[drone-swarm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>k powers and fast-moving gimble, THOR tracked and turned...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: droneshield.com  
-   Link: <a href="https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Counter to Drone Swarms: High-Power Microwave...Military forces must prioritise a counter to drone swarming tactics with wh...</p></details>
+   Link:<a href="https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Counter to Drone Swarms: High-Power Microwave...Military forces must prioritise a counter to drone swarming tactics with wh...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: afresearchlab.com  
    Title: AFRL THOR FS 0122  
-   Link: <a href="https://afresearchlab.com/wp-content/uploads/2019/09/AFRL_THOR_FS_0122.pdf" target="_blank" rel="noopener noreferrer nofollow">https://afresearchlab.com/wp-content/uploads/2019/09/AFRL_THOR_FS_0122.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>COUNTER-SWARM HIGH POWER WEAPONWinner of the What&#x27;s New in Defense 2021 award. THOR is a counter-swarm electromagnetic weapon the. Air F...</p></details>
+   Link:<a href="https://afresearchlab.com/wp-content/uploads/2019/09/AFRL_THOR_FS_0122.pdf" target="_blank" rel="noopener noreferrer nofollow">https://afresearchlab.com/wp-content/uploads/2019/09/AFRL_THOR_FS_0122.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>COUNTER-SWARM HIGH POWER WEAPONWinner of the What&#x27;s New in Defense 2021 award. THOR is a counter-swarm electromagnetic weapon the. Air F...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: airuniversity.af.edu  
    Title: army partners with air forces thor for base defense  
-   Link: <a href="https://www.airuniversity.af.edu/News/Display/Article/2511792/army-partners-with-air-forces-thor-for-base-defense/" target="_blank" rel="noopener noreferrer nofollow">https://www.airuniversity.af.edu/News/Display/Article/2511792/army-partners-with-air-forces-thor-for-base-defense/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air UniversityArmy partners with Air Force&#x27;s THOR for base defense23 Feb 2021 — THOR is a prototype directed energy weapon used to disabl...</p></details>
+   Link:<a href="https://www.airuniversity.af.edu/News/Display/Article/2511792/army-partners-with-air-forces-thor-for-base-defense/" target="_blank" rel="noopener noreferrer nofollow">https://www.airuniversity.af.edu/News/Display/Article/2511792/army-partners-with-air-forces-thor-for-base-defense/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air UniversityArmy partners with Air Force&#x27;s THOR for base defense23 Feb 2021 — THOR is a prototype directed energy weapon used to disabl...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: airandspaceforces.com  
    Title: air forces thor drone swarm demo  
-   Link: <a href="https://www.airandspaceforces.com/air-forces-thor-drone-swarm-demo/" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/air-forces-thor-drone-swarm-demo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air &amp; Space Forces MagazineTHOR Hammers Drone Swarm with High-Power Microwaves19 May 2023 — THOR uses bursts of high-power microwave ener...</p></details>
+   Link:<a href="https://www.airandspaceforces.com/air-forces-thor-drone-swarm-demo/" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/air-forces-thor-drone-swarm-demo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air &amp; Space Forces MagazineTHOR Hammers Drone Swarm with High-Power Microwaves19 May 2023 — THOR uses bursts of high-power microwave ener...</p></details>
    Published: May 2023  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: potomacofficersclub.com  
-   Link: <a href="https://www.potomacofficersclub.com/afrl-demonstrates-microwave-powered-defense-system-against-drone-swarms/" target="_blank" rel="noopener noreferrer nofollow">https://www.potomacofficersclub.com/afrl-demonstrates-microwave-powered-defense-system-against-drone-swarms/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Potomac Officers ClubAFRL Demonstrates Microwave-Powered Defense System...23 May 2023 — The AFRL said THOR generates HPM pulses and disc...</p></details>
+   Link:<a href="https://www.potomacofficersclub.com/afrl-demonstrates-microwave-powered-defense-system-against-drone-swarms/" target="_blank" rel="noopener noreferrer nofollow">https://www.potomacofficersclub.com/afrl-demonstrates-microwave-powered-defense-system-against-drone-swarms/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Potomac Officers ClubAFRL Demonstrates Microwave-Powered Defense System...23 May 2023 — The AFRL said THOR generates HPM pulses and disc...</p></details>
    Published: May 2023  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: unmannedairspace.info  
-   Link: <a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-air-force-research-laboratory-demonstrates-anti-drone-swarm-c-uas-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-air-force-research-laboratory-demonstrates-anti-drone-swarm-c-uas-technology/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unmanned AirspaceUS Air Force Research Laboratory demonstrates anti-...“THOR was exceptionally effective at disabling the swarm with its...</p></details>
+   Link:<a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-air-force-research-laboratory-demonstrates-anti-drone-swarm-c-uas-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-air-force-research-laboratory-demonstrates-anti-drone-swarm-c-uas-technology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unmanned AirspaceUS Air Force Research Laboratory demonstrates anti-...“THOR was exceptionally effective at disabling the swarm with its...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: airuniversity.af.edu  
    Title: rls thor hammers drones in new video animation  
-   Link: <a href="https://www.airuniversity.af.edu/News/Display/Article/2658386/afrls-thor-hammers-drones-in-new-video-animation/" target="_blank" rel="noopener noreferrer nofollow">https://www.airuniversity.af.edu/News/Display/Article/2658386/afrls-thor-hammers-drones-in-new-video-animation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air UniversityAFRL&#x27;s THOR hammers drones in new video animation16 Jun 2021 — THOR is a prototype Directed Energy weapon used to disable t...</p></details>
+   Link:<a href="https://www.airuniversity.af.edu/News/Display/Article/2658386/afrls-thor-hammers-drones-in-new-video-animation/" target="_blank" rel="noopener noreferrer nofollow">https://www.airuniversity.af.edu/News/Display/Article/2658386/afrls-thor-hammers-drones-in-new-video-animation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air UniversityAFRL&#x27;s THOR hammers drones in new video animation16 Jun 2021 — THOR is a prototype Directed Energy weapon used to disable t...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: afrl.af.mil  
    Title: rl awards contract for drone killer mjlnir brings new drone hammer to the fig  
-   Link: <a href="https://www.afrl.af.mil/News/Article/2945744/afrl-awards-contract-for-drone-killer-mjlnir-brings-new-drone-hammer-to-the-fig/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Article/2945744/afrl-awards-contract-for-drone-killer-mjlnir-brings-new-drone-hammer-to-the-fig/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>awards contract for drone killer, Mjölnir; brings new...Feb 25, 2022 — The Air Force Research Laboratory has awarded a contract for Mjöl...</p></details>
+   Link:<a href="https://www.afrl.af.mil/News/Article/2945744/afrl-awards-contract-for-drone-killer-mjlnir-brings-new-drone-hammer-to-the-fig/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Article/2945744/afrl-awards-contract-for-drone-killer-mjlnir-brings-new-drone-hammer-to-the-fig/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>awards contract for drone killer, Mjölnir; brings new...Feb 25, 2022 — The Air Force Research Laboratory has awarded a contract for Mjöl...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: afrl.af.mil  
-   Link: <a href="https://www.afrl.af.mil/News/Video/?dvpTag=Thor&amp;dvpmoduleid=69743" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Video/?dvpTag=Thor&amp;dvpmoduleid=69743</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Force Research Laboratory VideoTactical, High-power, Operational Responder, known as THOR, is a high-power microwave counter-drone weapon...</p></details>
+   Link:<a href="https://www.afrl.af.mil/News/Video/?dvpTag=Thor&amp;dvpmoduleid=69743" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Video/?dvpTag=Thor&amp;dvpmoduleid=69743</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Force Research Laboratory VideoTactical, High-power, Operational Responder, known as THOR, is a high-power microwave counter-drone weapon...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: afrl.af.mil  
-   Link: <a href="https://www.afrl.af.mil/News/Photos/igphoto/2003223867/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Photos/igphoto/2003223867/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>High-power Operational ResponderA high-powered microwave counter drone weapon, stands ready to demonstrate its effectiveness against a sw...</p></details>
+   Link:<a href="https://www.afrl.af.mil/News/Photos/igphoto/2003223867/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Photos/igphoto/2003223867/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High-power Operational ResponderA high-powered microwave counter drone weapon, stands ready to demonstrate its effectiveness against a sw...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/904340/thor-tactical-high-power-operational-responder" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/904340/thor-tactical-high-power-operational-responder</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thor - Tactical High-power Operational ResponderTHOR is a high power microwave counter-drone weapon that the Air Force Research Lab has d...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/904340/thor-tactical-high-power-operational-responder" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/904340/thor-tactical-high-power-operational-responder</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thor - Tactical High-power Operational ResponderTHOR is a high power microwave counter-drone weapon that the Air Force Research Lab has d...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/high" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/high</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionaryhigh noun (HAPPY PERIOD)... a period of extreme excitement or happiness, when you feel full of e...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/high" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/high</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionaryhigh noun (HAPPY PERIOD)... a period of extreme excitement or happiness, when you feel full of e...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AFResearchLab/posts/for-this-techtuesday-we-look-back-at-the-power-of-thor-and-what-that-means-for-n/3271349919568312/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AFResearchLab/posts/for-this-techtuesday-we-look-back-at-the-power-of-thor-and-what-that-means-for-n/3271349919568312/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>For this #TechTuesday, we look back at the power of THOR...A high-power microwave counter-drone system, the containerized THOR is design...</p></details>
+   Link:<a href="https://www.facebook.com/AFResearchLab/posts/for-this-techtuesday-we-look-back-at-the-power-of-thor-and-what-that-means-for-n/3271349919568312/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AFResearchLab/posts/for-this-techtuesday-we-look-back-at-the-power-of-thor-and-what-that-means-for-n/3271349919568312/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For this #TechTuesday, we look back at the power of THOR...A high-power microwave counter-drone system, the containerized THOR is design...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/thesaurus/high" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/thesaurus/high</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HIGH Synonyms: 529 Similar and Opposite WordsSynonyms for HIGH: tall, towering, lofty, dominant, altitudinous, prominent, eminent, elevat...</p></details>
+   Link:<a href="https://www.merriam-webster.com/thesaurus/high" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/thesaurus/high</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HIGH Synonyms: 529 Similar and Opposite WordsSynonyms for HIGH: tall, towering, lofty, dominant, altitudinous, prominent, eminent, elevat...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: techbriefs.com  
-   Link: <a href="https://www.techbriefs.com/component/content/article/49907-meet-thor-afrls-counter-drone-that-tracks-and-disables-drone-swarm" target="_blank" rel="noopener noreferrer nofollow">https://www.techbriefs.com/component/content/article/49907-meet-thor-afrls-counter-drone-that-tracks-and-disables-drone-swarm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meet THOR: AFRL&#x27;s Counter-Drone that Tracks and...THOR is a high-power microwave counter-drone weapon that the Air Force Research Lab ha...</p></details>
+   Link:<a href="https://www.techbriefs.com/component/content/article/49907-meet-thor-afrls-counter-drone-that-tracks-and-disables-drone-swarm" target="_blank" rel="noopener noreferrer nofollow">https://www.techbriefs.com/component/content/article/49907-meet-thor-afrls-counter-drone-that-tracks-and-disables-drone-swarm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meet THOR: AFRL&#x27;s Counter-Drone that Tracks and...THOR is a high-power microwave counter-drone weapon that the Air Force Research Lab ha...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ledrones.org  
-   Link: <a href="https://ledrones.org/thor-electromagnetic-counter-swarm-drone-weapon/?srsltid=AfmBOopC-BRxt_tfqYWDR_37vP2HMT-a-4mEuAgzRUcytq2gMcb0ZQBa" target="_blank" rel="noopener noreferrer nofollow">https://ledrones.org/thor-electromagnetic-counter-swarm-drone-weapon/?srsltid=AfmBOopC-BRxt_tfqYWDR_37vP2HMT-a-4mEuAgzRUcytq2gMcb0ZQBa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THOR: AFRL Electromagnetic counter-swarm drone weaponTHOR is a counter-swarm electromagnetic weapon developed for defense of airbases. Th...</p></details>
+   Link:<a href="https://ledrones.org/thor-electromagnetic-counter-swarm-drone-weapon/?srsltid=AfmBOopC-BRxt_tfqYWDR_37vP2HMT-a-4mEuAgzRUcytq2gMcb0ZQBa" target="_blank" rel="noopener noreferrer nofollow">https://ledrones.org/thor-electromagnetic-counter-swarm-drone-weapon/?srsltid=AfmBOopC-BRxt_tfqYWDR_37vP2HMT-a-4mEuAgzRUcytq2gMcb0ZQBa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THOR: AFRL Electromagnetic counter-swarm drone weaponTHOR is a counter-swarm electromagnetic weapon developed for defense of airbases. Th...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/high" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/high</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/high" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/high</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: collinsdictionary.com  
-   Link: <a href="https://www.collinsdictionary.com/dictionary/english/high" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/high</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of more than normal height; lofty; tall [not used of persons] · 2. extending upward a (specified) distance · 3. situated far above...Rea...</p></details>
+   Link:<a href="https://www.collinsdictionary.com/dictionary/english/high" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/high</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of more than normal height; lofty; tall [not used of persons] · 2. extending upward a (specified) distance · 3. situated far above...Rea...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=0pwv1BOuqN4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0pwv1BOuqN4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AFRL&#x27;s THOR Tracks and Disables Drone SwarmTactical, High-power, Operational Responder, known as THOR, is a high-power microwave counter...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0pwv1BOuqN4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0pwv1BOuqN4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFRL&#x27;s THOR Tracks and Disables Drone SwarmTactical, High-power, Operational Responder, known as THOR, is a high-power microwave counter...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=QjHGxKb6W1c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QjHGxKb6W1c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THOR (Tactical High-power Operational Responder) Destroys...AFRL&#x27;s THOR (Tactical High-power Operational Responder) is a prototype Direc...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QjHGxKb6W1c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QjHGxKb6W1c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THOR (Tactical High-power Operational Responder) Destroys...AFRL&#x27;s THOR (Tactical High-power Operational Responder) is a prototype Direc...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: twz.com  
    Title: thor microwave anti drone system downs swarms in test  
-   Link: <a href="https://www.twz.com/thor-microwave-anti-drone-system-downs-swarms-in-test" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/thor-microwave-anti-drone-system-downs-swarms-in-test</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THOR Microwave Anti-Drone System Downs Swarms In Test19 May 2023 — The demonstration pitted the service&#x27;s high-power microwave THOR syste...</p></details>
+   Link:<a href="https://www.twz.com/thor-microwave-anti-drone-system-downs-swarms-in-test" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/thor-microwave-anti-drone-system-downs-swarms-in-test</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THOR Microwave Anti-Drone System Downs Swarms In Test19 May 2023 — The demonstration pitted the service&#x27;s high-power microwave THOR syste...</p></details>
    Published: May 2023  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: taskandpurpose.com  
    Title: air force thor directed energy drone swarm test  
-   Link: <a href="https://taskandpurpose.com/tech-tactics/air-force-thor-directed-energy-drone-swarm-test/" target="_blank" rel="noopener noreferrer nofollow">https://taskandpurpose.com/tech-tactics/air-force-thor-directed-energy-drone-swarm-test/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force&#x27;s THOR directed energy weapon ready for drone...19 May 2023 — The Air Force has successfully employed its primary directed ene...</p></details>
+   Link:<a href="https://taskandpurpose.com/tech-tactics/air-force-thor-directed-energy-drone-swarm-test/" target="_blank" rel="noopener noreferrer nofollow">https://taskandpurpose.com/tech-tactics/air-force-thor-directed-energy-drone-swarm-test/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force&#x27;s THOR directed energy weapon ready for drone...19 May 2023 — The Air Force has successfully employed its primary directed ene...</p></details>
    Published: May 2023  

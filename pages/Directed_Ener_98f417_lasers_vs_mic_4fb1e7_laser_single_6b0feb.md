@@ -294,7 +294,7 @@ image: /assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_laser_single_6b0
 
 ## Introduction
 
-When a defender faces a single visible drone, a laser can be the better directed-energy option than a high-power microwave weapon. The reason is not that [lasers]({{ 'lasers/' | relative_url }}) are universally more effective. It is that they allow the operator to place energy on one specific target and often on one specific component of that target. In situations where discrimination, controlled effects and predictable engagement outcomes matter, the laser’s narrow beam can outweigh the broader-area advantages that make microwave weapons attractive against larger raids or [swarms]({{ 'swarms/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — For example, wider beam DEWs, such as high power microwave or millimete...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+When a defender faces a single visible drone, a laser can be the better directed-energy option than a high-power microwave weapon. The reason is not that [lasers]({{ 'lasers/' | relative_url }}) are universally more effective. It is that they allow the operator to place energy on one specific target and often on one specific component of that target. In situations where discrimination, controlled effects and predictable engagement outcomes matter, the laser’s narrow beam can outweigh the broader-area advantages that make microwave weapons attractive against larger raids or [swarms]({{ 'swarms/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — For example, wider beam DEWs, such as high power microwave or millimete...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_laser_single_6b0feb-Illustration-1-dark.svg" | relative_url }}" alt="Single Drones illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_laser_single_6b0feb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_laser_single_6b0feb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -304,11 +304,11 @@ This distinction has become increasingly important as small drones appear near a
 
 One of the most common criticisms of laser weapons is that they require dwell time: the beam must remain on the target long enough to create a damaging thermal effect. Against a fast-moving threat, this requirement can be a disadvantage.
 
-For a single drone, however, dwell time is often manageable. Modern tracking systems can maintain a stable aim point on a lone target, allowing energy to accumulate on a vulnerable area such as a propeller, motor housing, sensor window or structural component. The engagement becomes a focused [engineering]({{ 'engineering/' | relative_url }}) problem rather than a race to affect many targets simultaneously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onr.navy.mil">[Office of Naval Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onr.navy.mil</span><span class="citation-popover-snippet">Office of Naval ResearchCounter Directed Energy Weapons and High Energy LasersThe intent is to increase accuracy in all weather condition...</span></span></span>
+For a single drone, however, dwell time is often manageable. Modern tracking systems can maintain a stable aim point on a lone target, allowing energy to accumulate on a vulnerable area such as a propeller, motor housing, sensor window or structural component. The engagement becomes a focused [engineering]({{ 'engineering/' | relative_url }}) problem rather than a race to affect many targets simultaneously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onr.navy.mil">[Office of Naval Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onr.navy.mil</span><span class="citation-popover-snippet">Office of Naval ResearchCounter Directed Energy Weapons and High Energy LasersThe intent is to increase accuracy in all weather condition...</span></span></span>
 
-Recent DragonFire trials in the United Kingdom illustrate this logic. The system successfully tracked and destroyed [high-speed]({{ '650-km-h/' | relative_url }}) drones travelling up to roughly 650 km/h while demonstrating above-the-[horizon tracking]({{ 'horizon-tracking/' | relative_url }}) and engagement. These tests were notable not because lasers suddenly eliminated the need for dwell time, but because tracking and beam-control systems had advanced enough to keep energy concentrated on a specific target long enough to achieve a kill. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">boost for armed forces as new laser weapon takes down high speed drones</span><span class="citation-popover-snippet">Boost for Armed Forces as new laser weapon takes down...20 Nov 2025 — Britain&#x27;s ground-breaking DragonFire laser has shot down high-spee...</span></span></span>
+Recent DragonFire trials in the United Kingdom illustrate this logic. The system successfully tracked and destroyed [high-speed]({{ '650-km-h/' | relative_url }}) drones travelling up to roughly 650 km/h while demonstrating above-the-[horizon tracking]({{ 'horizon-tracking/' | relative_url }}) and engagement. These tests were notable not because lasers suddenly eliminated the need for dwell time, but because tracking and beam-control systems had advanced enough to keep energy concentrated on a specific target long enough to achieve a kill.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">boost for armed forces as new laser weapon takes down high speed drones</span><span class="citation-popover-snippet">Boost for Armed Forces as new laser weapon takes down...20 Nov 2025 — Britain&#x27;s ground-breaking DragonFire laser has shot down high-spee...</span></span></span>
 
-Microwave weapons approach the problem differently. They attempt to couple electromagnetic energy into electronic systems rather than physically heating a precise spot. That can be highly effective, but the wider-area approach offers less benefit when there is only one drone to defeat. In that scenario, the laser's ability to stay focused on a single object becomes a strength rather than a limitation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onr.navy.mil">[Office of Naval Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onr.navy.mil</span><span class="citation-popover-snippet">Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spe...</span></span></span>
+Microwave weapons approach the problem differently. They attempt to couple electromagnetic energy into electronic systems rather than physically heating a precise spot. That can be highly effective, but the wider-area approach offers less benefit when there is only one drone to defeat. In that scenario, the laser's ability to stay focused on a single object becomes a strength rather than a limitation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onr.navy.mil">[Office of Naval Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onr.navy.mil</span><span class="citation-popover-snippet">Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spe...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JGzL3fZgPZY" title="Laser and Microwave Weapons - Directed-Energy Weapon Programs, Potential, and Issues" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JGzL3fZgPZY" target="_blank" rel="noopener noreferrer">Laser and Microwave Weapons - Directed-Energy Weapon Programs, Potential, and Issues</a></p><p class="youtube-embed-meta">Channel: Perun</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JGzL3fZgPZY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JGzL3fZgPZY">Open on YouTube</a></p></div></div></div>
@@ -317,9 +317,9 @@ Microwave weapons approach the problem differently. They attempt to couple elect
 
 The strongest case for a laser against a single drone is often not technical performance but discrimination.
 
-A high-energy laser can be directed at one identified object with extremely narrow beam geometry. Military programmes such as DragonFire have repeatedly highlighted precision measured in coin-sized aim points at significant distances. That level of control allows operators to engage a specific drone while minimising effects on nearby aircraft, friendly drones, sensors or civilian infrastructure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gcaptain.com/uk-fast-tracks-naval-laser-weapon-after-successful-high-speed-drone-trials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gcaptain.com">[gCaptain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gcaptain.com</span><span class="citation-popover-title">uk fast tracks naval laser weapon after successful high speed drone trials</span><span class="citation-popover-snippet">UK Fast-Tracks Naval Laser Weapon After Successful High...24 Nov 2025 — The system demonstrated its ability to detect, track, en...</span></span></span>
+A high-energy laser can be directed at one identified object with extremely narrow beam geometry. Military programmes such as DragonFire have repeatedly highlighted precision measured in coin-sized aim points at significant distances. That level of control allows operators to engage a specific drone while minimising effects on nearby aircraft, friendly drones, sensors or civilian infrastructure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gcaptain.com/uk-fast-tracks-naval-laser-weapon-after-successful-high-speed-drone-trials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gcaptain.com">[gCaptain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gcaptain.com</span><span class="citation-popover-title">uk fast tracks naval laser weapon after successful high speed drone trials</span><span class="citation-popover-snippet">UK Fast-Tracks Naval Laser Weapon After Successful High...24 Nov 2025 — The system demonstrated its ability to detect, track, en...</span></span></span>
 
-High-power microwave systems operate under a different philosophy. According to the US Office of Naval Research, they are intended to interact with electronics across a targeted area. The US Government Accountability Office notes that wider-beam directed-energy systems may affect assets in the engagement zone regardless of whether they are friendly or hostile. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onr.navy.mil">[Office of Naval Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onr.navy.mil</span><span class="citation-popover-snippet">Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spe...</span></span></span>
+High-power microwave systems operate under a different philosophy. According to the US Office of Naval Research, they are intended to interact with electronics across a targeted area. The US Government Accountability Office notes that wider-beam directed-energy systems may affect assets in the engagement zone regardless of whether they are friendly or hostile.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onr.navy.mil">[Office of Naval Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onr.navy.mil</span><span class="citation-popover-snippet">Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spe...</span></span></span>
 
 That difference matters in several practical situations:
 
@@ -333,7 +333,7 @@ That difference matters in several practical situations:
 
 </div>
 
-The result is that a laser often offers a more predictable engagement outcome when only one drone requires action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — For example, wider beam DEWs, such as high power microwave or millimete...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+The result is that a laser often offers a more predictable engagement outcome when only one drone requires action.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — For example, wider beam DEWs, such as high power microwave or millimete...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_laser_single_6b0feb-Illustration-2-dark.svg" | relative_url }}" alt="Single Drones illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_laser_single_6b0feb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_laser_single_6b0feb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -353,9 +353,9 @@ A laser can achieve this through several mechanisms:
 
 </div>
 
-Because the energy is concentrated on a specific point, operators may have greater confidence about what caused the failure and which target was affected. The engagement chain is often easier to observe and assess visually. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.linkedin.com/pulse/technical-evolution-operational-integration-light-based-robi-sen-hhdoc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Technical Evolution and Operational Integration of Directed...Directed-energy performance claims are especially sensitive to ran...</span></span></span>
+Because the energy is concentrated on a specific point, operators may have greater confidence about what caused the failure and which target was affected. The engagement chain is often easier to observe and assess visually.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.linkedin.com/pulse/technical-evolution-operational-integration-light-based-robi-sen-hhdoc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Technical Evolution and Operational Integration of Directed...Directed-energy performance claims are especially sensitive to ran...</span></span></span>
 
-Microwave effects can be harder to characterise. A drone may suffer temporary disruption, permanent electronic damage or partial degradation depending on design, shielding and component resilience. While that flexibility can be useful, it can also make effects less deterministic on a single target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onr.navy.mil">[Office of Naval Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onr.navy.mil</span><span class="citation-popover-snippet">Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spe...</span></span></span>
+Microwave effects can be harder to characterise. A drone may suffer temporary disruption, permanent electronic damage or partial degradation depending on design, shielding and component resilience. While that flexibility can be useful, it can also make effects less deterministic on a single target.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onr.navy.mil">[Office of Naval Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onr.navy.mil</span><span class="citation-popover-snippet">Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spe...</span></span></span>
 
 For commanders who need a clear answer to the question “Did that specific drone stop flying because we engaged it?”, the laser often provides the more straightforward path.
 
@@ -366,9 +366,9 @@ For commanders who need a clear answer to the question “Did that specific dron
 
 The laser's advantages depend on maintaining a high-quality beam path between weapon and target.
 
-Atmospheric conditions remain one of the most important constraints. Fog, rain, smoke, dust and turbulence can scatter, absorb or distort laser energy before it reaches the drone. Thermal [blooming]({{ 'blooming/' | relative_url }}) and other propagation effects can further reduce performance as range increases. Government and military research programmes continue to improve tracking and beam-control technology, but these physical limitations have not disappeared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — For example, wider beam DEWs, such as high power microwave or millimete...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+Atmospheric conditions remain one of the most important constraints. Fog, rain, smoke, dust and turbulence can scatter, absorb or distort laser energy before it reaches the drone. Thermal [blooming]({{ 'blooming/' | relative_url }}) and other propagation effects can further reduce performance as range increases. Government and military research programmes continue to improve tracking and beam-control technology, but these physical limitations have not disappeared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — For example, wider beam DEWs, such as high power microwave or millimete...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
-This is where microwave weapons can regain an advantage. Microwave systems are generally less dependent on maintaining an extremely precise optical path and are often described as more tolerant of adverse environmental conditions. Their broader beam geometry also reduces the need for pinpoint tracking. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kstatelibraries.pressbooks.pub/drone-delivery/chapter/11-microwaves/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kstatelibraries.pressbooks.pub">[K-State Libraries Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kstatelibraries.pressbooks.pub</span><span class="citation-popover-title">K-State Libraries Pressbooks11</span><span class="citation-popover-snippet">DE Weapons &amp; Microwavesby C Carter · 2022 — Microwave weapons are far less sensitive to atmospheric disturbances than lasers, making them...</span></span></span>
+This is where microwave weapons can regain an advantage. Microwave systems are generally less dependent on maintaining an extremely precise optical path and are often described as more tolerant of adverse environmental conditions. Their broader beam geometry also reduces the need for pinpoint tracking.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kstatelibraries.pressbooks.pub/drone-delivery/chapter/11-microwaves/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kstatelibraries.pressbooks.pub">[K-State Libraries Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kstatelibraries.pressbooks.pub</span><span class="citation-popover-title">K-State Libraries Pressbooks11</span><span class="citation-popover-snippet">DE Weapons &amp; Microwavesby C Carter · 2022 — Microwave weapons are far less sensitive to atmospheric disturbances than lasers, making them...</span></span></span>
 
 As a result, the laser's superiority against a single drone is conditional rather than absolute. The cleaner solution exists only when the weapon can reliably see and illuminate the target.
 
@@ -378,187 +378,187 @@ As a result, the laser's superiority against a single drone is conditional rathe
 
 In the broader debate between lasers and microwaves for air defence, the simplest rule is that lasers become most attractive when the defender values discrimination more than area coverage.
 
-If the challenge is one identified drone, visible to sensors, operating in an environment where collateral effects matter, a laser often provides the most controlled engagement available among directed-energy options. Its need for tracking and dwell time is offset by its ability to place energy exactly where the operator intends. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">boost for armed forces as new laser weapon takes down high speed drones</span><span class="citation-popover-snippet">Boost for Armed Forces as new laser weapon takes down...20 Nov 2025 — Britain&#x27;s ground-breaking DragonFire laser has shot down high-spee...</span></span></span>
+If the challenge is one identified drone, visible to sensors, operating in an environment where collateral effects matter, a laser often provides the most controlled engagement available among directed-energy options. Its need for tracking and dwell time is offset by its ability to place energy exactly where the operator intends.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">boost for armed forces as new laser weapon takes down high speed drones</span><span class="citation-popover-snippet">Boost for Armed Forces as new laser weapon takes down...20 Nov 2025 — Britain&#x27;s ground-breaking DragonFire laser has shot down high-spee...</span></span></span>
 
-Microwave weapons remain powerful tools, particularly when many drones must be addressed quickly or when broader electronic effects are desirable. But for the narrow problem of defeating a single drone with the greatest possible precision, the laser's focused beam is frequently the cleaner kill. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.inss.org.il/social_media/better-than-the-laser-interceptor-the-microwave-weapon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inss.org.il">[INSS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inss.org.il</span><span class="citation-popover-title">INSSBetter than the laser interceptor?</span><span class="citation-popover-snippet">The microwave weapon! &#124; INSS1 Apr 2024 — Microwave weapons have significant operational advantages. They are cost-effective, simple weapo...</span></span></span>
+Microwave weapons remain powerful tools, particularly when many drones must be addressed quickly or when broader electronic effects are desirable. But for the narrow problem of defeating a single drone with the greatest possible precision, the laser's focused beam is frequently the cleaner kill.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.inss.org.il/social_media/better-than-the-laser-interceptor-the-microwave-weapon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inss.org.il">[INSS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inss.org.il</span><span class="citation-popover-title">INSSBetter than the laser interceptor?</span><span class="citation-popover-snippet">The microwave weapon! &#124; INSS1 Apr 2024 — Microwave weapons have significant operational advantages. They are cost-effective, simple weapo...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X1toVupe_R8" title="U.S. Directed Energy Weapons Systems" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer">U.S. Directed Energy Weapons Systems</a></p><p class="youtube-embed-meta">Channel: U.S. Government Accountability Office (GAO)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X1toVupe_R8">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Is A Laser The Cleaner Kill?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Is A Laser The Cleaner Kill?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Explains modern precision-engagement systems, sensors, targeting, and emerging weapon technologies that frame laser-versus-microwave deci...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains modern precision-engagement systems, sensors, targeting, and emerging weapon technologies that frame laser-versus-microwave deci...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
-        </h4>
-        <p class="fr-book-author">By Paul Scharre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
+</h4>
+<p class="fr-book-author">By Paul Scharre</p>
         
-        <p class="fr-book-desc">Provides context on drone threats, defensive systems, and how precision effects matter in modern engagements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on drone threats, defensive systems, and how precision effects matter in modern engagements.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warfare on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e2vnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warfare" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warfare">Drone Warfare</a>
-        </h4>
-        <p class="fr-book-author">By Medea Benjamin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warfare on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e2vnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warfare" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warfare">Drone Warfare</a>
+</h4>
+<p class="fr-book-author">By Medea Benjamin</p>
         
-        <p class="fr-book-desc">Helps readers understand the operational environment in which single-drone engagements occur.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand the operational environment in which single-drone engagements occur.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NyU3EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Leo Janos, Ben R. Rich</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NyU3EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Leo Janos, Ben R. Rich</p>
         
-        <p class="fr-book-desc">Offers insight into advanced defense innovation and the engineering culture behind breakthrough military technologies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers insight into advanced defense innovation and the engineering culture behind breakthrough military technologies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Warfare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Warfare</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Warfare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Warfare</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Professional 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Model With Stand"><img src="{{ '/assets/images/marketplace-covers/056ef0ac7dadf352feda.jpg' | relative_url }}" alt="Listing image for Professional 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Model With Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer">Professional 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Model With Stand</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser weapon model">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser weapon model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Professional 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Model With Stand"><img src="{{ '/assets/images/marketplace-covers/056ef0ac7dadf352feda.jpg' | relative_url }}" alt="Listing image for Professional 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Model With Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer">Professional 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Model With Stand</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser weapon model">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser weapon model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1PCS 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Plastic Model With Stand"><img src="{{ '/assets/images/marketplace-covers/2dfd96291cf29af9defa.jpg' | relative_url }}" alt="Listing image for 1PCS 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Plastic Model With Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer">1PCS 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Plastic Model With Stand</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser weapon model">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser weapon model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1PCS 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Plastic Model With Stand"><img src="{{ '/assets/images/marketplace-covers/2dfd96291cf29af9defa.jpg' | relative_url }}" alt="Listing image for 1PCS 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Plastic Model With Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer">1PCS 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Plastic Model With Stand</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser weapon model">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser weapon model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D Printed 1/72 Ly1 Laser Weapon Model Unpainted Kit"><img src="{{ '/assets/images/marketplace-covers/b02cbf6ea96fa696e631.jpg' | relative_url }}" alt="Listing image for 3D Printed 1/72 Ly1 Laser Weapon Model Unpainted Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer">3D Printed 1/72 Ly1 Laser Weapon Model Unpainted Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser weapon model">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser weapon model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D Printed 1/72 Ly1 Laser Weapon Model Unpainted Kit"><img src="{{ '/assets/images/marketplace-covers/b02cbf6ea96fa696e631.jpg' | relative_url }}" alt="Listing image for 3D Printed 1/72 Ly1 Laser Weapon Model Unpainted Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer">3D Printed 1/72 Ly1 Laser Weapon Model Unpainted Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser weapon model">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser weapon model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="single-drones-when-is-a-laser-the-cleaner-kill-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -574,7 +574,7 @@ Microwave weapons remain powerful tools, particularly when many drones must be a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -594,7 +594,7 @@ Microwave weapons remain powerful tools, particularly when many drones must be a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -626,7 +626,7 @@ Microwave weapons remain powerful tools, particularly when many drones must be a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -678,7 +678,7 @@ Microwave weapons remain powerful tools, particularly when many drones must be a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -723,7 +723,7 @@ Microwave weapons remain powerful tools, particularly when many drones must be a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -764,123 +764,123 @@ Microwave weapons remain powerful tools, particularly when many drones must be a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gao.gov  
    Title: gao 23 106717  
-   Link: <a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — For example, wider beam DEWs, such as high power microwave or millimete...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — For example, wider beam DEWs, such as high power microwave or millimete...</p></details>
    Published: May 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/technical-evolution-operational-integration-light-based-robi-sen-hhdoc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/technical-evolution-operational-integration-light-based-robi-sen-hhdoc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Technical Evolution and Operational Integration of Directed...Directed-energy performance claims are especially sensitive to ran...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/technical-evolution-operational-integration-light-based-robi-sen-hhdoc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/technical-evolution-operational-integration-light-based-robi-sen-hhdoc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Technical Evolution and Operational Integration of Directed...Directed-energy performance claims are especially sensitive to ran...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: boost for armed forces as new laser weapon takes down high speed drones  
-   Link: <a href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Boost for Armed Forces as new laser weapon takes down...20 Nov 2025 — Britain&#x27;s ground-breaking DragonFire laser has shot down high-spee...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boost for Armed Forces as new laser weapon takes down...20 Nov 2025 — Britain&#x27;s ground-breaking DragonFire laser has shot down high-spee...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: inss.org.il  
    Title: INSSBetter than the laser interceptor?  
-   Link: <a href="https://www.inss.org.il/social_media/better-than-the-laser-interceptor-the-microwave-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.inss.org.il/social_media/better-than-the-laser-interceptor-the-microwave-weapon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The microwave weapon! | INSS1 Apr 2024 — Microwave weapons have significant operational advantages. They are cost-effective, simple weapo...</p></details>
+   Link:<a href="https://www.inss.org.il/social_media/better-than-the-laser-interceptor-the-microwave-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.inss.org.il/social_media/better-than-the-laser-interceptor-the-microwave-weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The microwave weapon! | INSS1 Apr 2024 — Microwave weapons have significant operational advantages. They are cost-effective, simple weapo...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: gcaptain.com  
    Title: uk fast tracks naval laser weapon after successful high speed drone trials  
-   Link: <a href="https://gcaptain.com/uk-fast-tracks-naval-laser-weapon-after-successful-high-speed-drone-trials/" target="_blank" rel="noopener noreferrer nofollow">https://gcaptain.com/uk-fast-tracks-naval-laser-weapon-after-successful-high-speed-drone-trials/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Fast-Tracks Naval Laser Weapon After Successful High...24 Nov 2025 — The system demonstrated its ability to detect, track, en...</p></details>
+   Link:<a href="https://gcaptain.com/uk-fast-tracks-naval-laser-weapon-after-successful-high-speed-drone-trials/" target="_blank" rel="noopener noreferrer nofollow">https://gcaptain.com/uk-fast-tracks-naval-laser-weapon-after-successful-high-speed-drone-trials/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Fast-Tracks Naval Laser Weapon After Successful High...24 Nov 2025 — The system demonstrated its ability to detect, track, en...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: kstatelibraries.pressbooks.pub  
    Title: K-State Libraries Pressbooks11  
-   Link: <a href="https://kstatelibraries.pressbooks.pub/drone-delivery/chapter/11-microwaves/" target="_blank" rel="noopener noreferrer nofollow">https://kstatelibraries.pressbooks.pub/drone-delivery/chapter/11-microwaves/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DE Weapons &amp; Microwavesby C Carter · 2022 — Microwave weapons are far less sensitive to atmospheric disturbances than lasers, making them...</p></details>
+   Link:<a href="https://kstatelibraries.pressbooks.pub/drone-delivery/chapter/11-microwaves/" target="_blank" rel="noopener noreferrer nofollow">https://kstatelibraries.pressbooks.pub/drone-delivery/chapter/11-microwaves/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DE Weapons &amp; Microwavesby C Carter · 2022 — Microwave weapons are far less sensitive to atmospheric disturbances than lasers, making them...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: gao.gov  
    Title: gao 23 105868  
-   Link: <a href="https://www.gao.gov/products/gao-23-105868" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-105868</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons: DOD Should Focus on...17 Apr 2023 — Additionally, the departments developed a range of high power microwave cap...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-23-105868" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-105868</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons: DOD Should Focus on...17 Apr 2023 — Additionally, the departments developed a range of high power microwave cap...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: airpower.airforce.gov.au  
    Title: airforce.gov.au Directed Energy Weapons  
-   Link: <a href="https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf" target="_blank" rel="noopener noreferrer nofollow">https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Energy Weapons - Air and Space Power CentreA DEW is a weapon system that uses an energy source and a pointing system to control the deliv...</p></details>
+   Link:<a href="https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf" target="_blank" rel="noopener noreferrer nofollow">https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Energy Weapons - Air and Space Power CentreA DEW is a weapon system that uses an energy source and a pointing system to control the deliv...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons DOD Should Focus on Transition...DOD spends about $1 billion annually on directed energy--concentrated electroma...</p></details>
+   Link:<a href="https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons DOD Should Focus on Transition...DOD spends about $1 billion annually on directed energy--concentrated electroma...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: onr.navy.mil  
-   Link: <a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spe...</p></details>
+   Link:<a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spe...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: onr.navy.mil  
-   Link: <a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Naval ResearchCounter Directed Energy Weapons and High Energy LasersThe intent is to increase accuracy in all weather condition...</p></details>
+   Link:<a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Naval ResearchCounter Directed Energy Weapons and High Energy LasersThe intent is to increase accuracy in all weather condition...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DRUtM8hDKZS/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRUtM8hDKZS/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Government Scotland on Instagram: &quot;Introducing...The British Ministry of Defence released the first video footage of its DragonFire l...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DRUtM8hDKZS/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRUtM8hDKZS/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Government Scotland on Instagram: &quot;Introducing...The British Ministry of Defence released the first video footage of its DragonFire l...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: unmannedairspace.info  
-   Link: <a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-gao-report-directed-energy-weapon-technical-maturity-levels-still-lagging/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-gao-report-directed-energy-weapon-technical-maturity-levels-still-lagging/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>directed energy weapon technical maturity levels still laggingThe DoD current spends about USD1 billion annually on directed energy—conce...</p></details>
+   Link:<a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-gao-report-directed-energy-weapon-technical-maturity-levels-still-lagging/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-gao-report-directed-energy-weapon-technical-maturity-levels-still-lagging/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>directed energy weapon technical maturity levels still laggingThe DoD current spends about USD1 billion annually on directed energy—conce...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: twz.com  
    Title: lasers microwaves missiles guns not on the table for domestic drone defense  
-   Link: <a href="https://www.twz.com/air/lasers-microwaves-missiles-guns-not-on-the-table-for-domestic-drone-defense" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/air/lasers-microwaves-missiles-guns-not-on-the-table-for-domestic-drone-defense</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lasers, Microwaves, Missiles, Guns Not On The Table For...31 Oct 2024 — At the same time, even lower tiers of counter-drone weapons, suc...</p></details>
+   Link:<a href="https://www.twz.com/air/lasers-microwaves-missiles-guns-not-on-the-table-for-domestic-drone-defense" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/air/lasers-microwaves-missiles-guns-not-on-the-table-for-domestic-drone-defense</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lasers, Microwaves, Missiles, Guns Not On The Table For...31 Oct 2024 — At the same time, even lower tiers of counter-drone weapons, suc...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X1toVupe_R8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Directed Energy Weapons SystemsThe Government Accountability Office explains what are Directed Energy Weapons and takes a look at ho...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X1toVupe_R8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Directed Energy Weapons SystemsThe Government Accountability Office explains what are Directed Energy Weapons and takes a look at ho...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aspistrategist.org.au  
    Title: war at the speed of light the emerging role of directed energy weapons  
-   Link: <a href="https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow">https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the emerging role of directed-energy weapons15 Apr 2026 — Certainly, directed-energy weapons may be key to inexpensively countering missi...</p></details>
+   Link:<a href="https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow">https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the emerging role of directed-energy weapons15 Apr 2026 — Certainly, directed-energy weapons may be key to inexpensively countering missi...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: coherentmarketinsights.com  
    Title: directed energy weapons in counter drone missile defense 3576  
-   Link: <a href="https://www.coherentmarketinsights.com/blog/aerospace-and-defense/directed-energy-weapons-in-counter-drone-missile-defense-3576" target="_blank" rel="noopener noreferrer nofollow">https://www.coherentmarketinsights.com/blog/aerospace-and-defense/directed-energy-weapons-in-counter-drone-missile-defense-3576</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons in CounterDrone Missile Defense4 May 2026 — These include energy beams like laser, microwave, or radio frequency...</p></details>
+   Link:<a href="https://www.coherentmarketinsights.com/blog/aerospace-and-defense/directed-energy-weapons-in-counter-drone-missile-defense-3576" target="_blank" rel="noopener noreferrer nofollow">https://www.coherentmarketinsights.com/blog/aerospace-and-defense/directed-energy-weapons-in-counter-drone-missile-defense-3576</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons in CounterDrone Missile Defense4 May 2026 — These include energy beams like laser, microwave, or radio frequency...</p></details>
    Published: May 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: calibredefence.co.uk  
    Title: more lasers dragonfire downs high speed drone in [uk trials](&#123;&#123; 'uk-trials/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.calibredefence.co.uk/more-lasers-dragonfire-downs-high-speed-drone-in-uk-trials/" target="_blank" rel="noopener noreferrer nofollow">https://www.calibredefence.co.uk/more-lasers-dragonfire-downs-high-speed-drone-in-uk-trials/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>More lasers: DragonFire downs high speed drone in UK trials22 Nov 2025 — The UK&#x27;s Defence Science Technology Laboratory (DSTL) has tested...</p></details>
+   Link:<a href="https://www.calibredefence.co.uk/more-lasers-dragonfire-downs-high-speed-drone-in-uk-trials/" target="_blank" rel="noopener noreferrer nofollow">https://www.calibredefence.co.uk/more-lasers-dragonfire-downs-high-speed-drone-in-uk-trials/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>More lasers: DragonFire downs high speed drone in UK trials22 Nov 2025 — The UK&#x27;s Defence Science Technology Laboratory (DSTL) has tested...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/930540941927100/posts/1258521139129077/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/930540941927100/posts/1258521139129077/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>les and guns, with an almost unlimited firing capacity, and...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/930540941927100/posts/1258521139129077/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/930540941927100/posts/1258521139129077/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>les and guns, with an almost unlimited firing capacity, and...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: electronicsforu.com  
    Title: directed energy weapons high power microwaves  
-   Link: <a href="https://www.electronicsforu.com/market-verticals/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.electronicsforu.com/market-verticals/directed-energy-weapons-high-power-microwaves</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Electronics For YouDirected Energy Weapons: High Power Microwaves4 Oct 2016 — HPM weapons generate an intense blast of microwave energy s...</p></details>
+   Link:<a href="https://www.electronicsforu.com/market-verticals/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.electronicsforu.com/market-verticals/directed-energy-weapons-high-power-microwaves</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Electronics For YouDirected Energy Weapons: High Power Microwaves4 Oct 2016 — HPM weapons generate an intense blast of microwave energy s...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Futurology/comments/1rjeaie/why_lasers_and_microwave_weapons_are_next/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/1rjeaie/why_lasers_and_microwave_weapons_are_next/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>re weight for microwave shielding means it&#x27;s potentially...</p></details>
+   Link:<a href="https://www.reddit.com/r/Futurology/comments/1rjeaie/why_lasers_and_microwave_weapons_are_next/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/1rjeaie/why_lasers_and_microwave_weapons_are_next/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>re weight for microwave shielding means it&#x27;s potentially...</p></details>

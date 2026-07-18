@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /directed-ener-98f417-laser-atmosph/
 description: Focused pages that expand on Atmosphere.
-date: '2026-06-19'
+date: '2026'
 layout: default
 parent_basename: Directed_Ener_98f417_laser_atmosph_af9b93
 parent_title: Atmosphere
@@ -16,7 +16,7 @@ parent_permalink: /atmosphere/
 
 # Explore Topics in Atmosphere
 
-The following pages expand on the main **[Atmosphere]({{ '/atmosphere/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Atmosphere]({{ '/atmosphere/' | relative_url }})** page and cover its key branches in.
 
 - [Beam Control]({{ '/beam-control/' | relative_url }})
 - [Fog Range]({{ '/fog-range/' | relative_url }})

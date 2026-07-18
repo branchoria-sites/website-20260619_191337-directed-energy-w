@@ -292,11 +292,11 @@ A laser defence system is often described as a weapon that destroys targets with
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_sensor_chain_13add0-Illustration-1-dark.svg" | relative_url }}" alt="Sensor Chain illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_sensor_chain_13add0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_sensor_chain_13add0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is why many directed-energy programmes increasingly emphasise sensor fusion, tracking accuracy and command-and-control integration as much as laser power. Modern counter-drone lasers rely on networks of radar, electro-optical and infrared sensors, tracking algorithms, beam directors and fire-control software that work together under severe time pressure. The effectiveness of the weapon depends as much on those systems as on the laser itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rtx.com">[RTX+2AeroVironment, Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rtx.com</span><span class="citation-popover-snippet">High-Energy Lasers &#124; RaytheonThis directed energy technology enables detection of threats, tracking during maneuvers, and positive vis...</span></span></span>
+This is why many directed-energy programmes increasingly emphasise sensor fusion, tracking accuracy and command-and-control integration as much as laser power. Modern counter-drone lasers rely on networks of radar, electro-optical and infrared sensors, tracking algorithms, beam directors and fire-control software that work together under severe time pressure. The effectiveness of the weapon depends as much on those systems as on the laser itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rtx.com">[RTX+2AeroVironment, Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rtx.com</span><span class="citation-popover-snippet">High-Energy Lasers &#124; RaytheonThis directed energy technology enables detection of threats, tracking during maneuvers, and positive vis...</span></span></span>
 
 ## The Beam Is Only Half the Weapon
 
-A high-energy laser cannot engage what it cannot see. Unlike a missile that can receive guidance updates after launch, a laser generally requires continuous line-of-sight tracking and a sustained dwell time on the target. The target must remain accurately located while the beam is held on a vulnerable point long enough to create damage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defencefinancemonitor.com/p/directed-energy-weapons-in-20252035" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defencefinancemonitor.com">[Defence Finance Monitor+2AFRL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defencefinancemonitor.com</span><span class="citation-popover-title">directed energy weapons in 20252035</span><span class="citation-popover-snippet">Defence Finance MonitorDirected Energy Weapons in 2025–2035: Development...23 May 2025 — lasers generally require a dwell time of a few...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+A high-energy laser cannot engage what it cannot see. Unlike a missile that can receive guidance updates after launch, a laser generally requires continuous line-of-sight tracking and a sustained dwell time on the target. The target must remain accurately located while the beam is held on a vulnerable point long enough to create damage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defencefinancemonitor.com/p/directed-energy-weapons-in-20252035" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defencefinancemonitor.com">[Defence Finance Monitor+2AFRL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defencefinancemonitor.com</span><span class="citation-popover-title">directed energy weapons in 20252035</span><span class="citation-popover-snippet">Defence Finance MonitorDirected Energy Weapons in 2025–2035: Development...23 May 2025 — lasers generally require a dwell time of a few...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 This requirement creates a distinctive architecture:
 
@@ -311,7 +311,7 @@ This requirement creates a distinctive architecture:
 
 </div>
 
-Each stage narrows uncertainty. The laser itself operates at the end of that process rather than replacing it. Advanced counter-UAS laser systems therefore combine radar, electro-optical and infrared cameras, laser rangefinders and specialised fine-tracking subsystems designed specifically to support the beam. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bluehalo.com/c-uas-autonomous-systems/c-uas-directed-energy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluehalo.com">[AeroVironment, Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluehalo.com</span><span class="citation-popover-title">Aero Vironment, Inc.C-UAS Directed Energy &#124; Aero Vironment, Inc</span><span class="citation-popover-snippet">This ISR unit features a fine tracking system (FTS), powerful telescope, laser rangefinder, acquisition tracking system (ATS), an...</span></span></span>
+Each stage narrows uncertainty. The laser itself operates at the end of that process rather than replacing it. Advanced counter-UAS laser systems therefore combine radar, electro-optical and infrared cameras, laser rangefinders and specialised fine-tracking subsystems designed specifically to support the beam.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bluehalo.com/c-uas-autonomous-systems/c-uas-directed-energy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluehalo.com">[AeroVironment, Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluehalo.com</span><span class="citation-popover-title">Aero Vironment, Inc.C-UAS Directed Energy &#124; Aero Vironment, Inc</span><span class="citation-popover-snippet">This ISR unit features a fine tracking system (FTS), powerful telescope, laser rangefinder, acquisition tracking system (ATS), an...</span></span></span>
 
 ## Why Small Drones Strain Detection Systems
 
@@ -325,7 +325,7 @@ Several factors make detection difficult:
 * **Large numbers:** [swarms]({{ 'swarms/' | relative_url }}) can overwhelm tracking capacity.
 * **Short warning times:** a drone may appear only minutes or seconds before reaching a defended site.
 
-Because no single sensor is reliable in every condition, modern counter-drone architectures increasingly rely on sensor fusion. Radar may provide initial detection, while electro-optical and infrared systems confirm identity and generate a more precise track. Some systems also integrate radio-frequency sensing to identify drone control links when available. Multi-sensor fusion has become a central design principle because individual sensors have complementary weaknesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2510.22947" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2AeroVironment, Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Intelligent Multimodal Multi-Sensor Fusion-Based UAV Identification, Localization, and Countermeasures for Safeguarding Low-Altitude...</span></span></span>
+Because no single sensor is reliable in every condition, modern counter-drone architectures increasingly rely on sensor fusion. Radar may provide initial detection, while electro-optical and infrared systems confirm identity and generate a more precise track. Some systems also integrate radio-frequency sensing to identify drone control links when available. Multi-sensor fusion has become a central design principle because individual sensors have complementary weaknesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2510.22947" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2AeroVironment, Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Intelligent Multimodal Multi-Sensor Fusion-Based UAV Identification, Localization, and Countermeasures for Safeguarding Low-Altitude...</span></span></span>
 
 The result is a paradox: the cheapest threats often impose the greatest sensing burden. A laser may be inexpensive to fire, but finding a small drone in cluttered airspace remains technically demanding.
 
@@ -336,13 +336,13 @@ The result is a paradox: the cheapest threats often impose the greatest sensing 
 
 Detection is not enough. A laser engagement requires much greater accuracy than simply knowing a target exists.
 
-A missile interceptor can often tolerate some guidance error because it carries an explosive warhead. A laser must place energy on a specific part of the target and keep it there. Even minor tracking errors can spread energy across a larger area and reduce effectiveness. The challenge becomes even harder when either the target or the defending platform is moving. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/Portals/90/Documents/RD/Directed_Energy_Futures_2060_Final29June21_with_clearance_number.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[AFRL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">Directed Energy Futures 2060 Final29June21 with clearance number</span><span class="citation-popover-snippet">2060 directed energy futures16 Jul 2021 — The challenge includes both tracking of moving targets at high levels of accuracy from movi...</span></span></span>
+A missile interceptor can often tolerate some guidance error because it carries an explosive warhead. A laser must place energy on a specific part of the target and keep it there. Even minor tracking errors can spread energy across a larger area and reduce effectiveness. The challenge becomes even harder when either the target or the defending platform is moving.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/Portals/90/Documents/RD/Directed_Energy_Futures_2060_Final29June21_with_clearance_number.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[AFRL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">Directed Energy Futures 2060 Final29June21 with clearance number</span><span class="citation-popover-snippet">2060 directed energy futures16 Jul 2021 — The challenge includes both tracking of moving targets at high levels of accuracy from movi...</span></span></span>
 
 ### From Detection Track to Fire-Control Track
 
 Radar usually provides the first track. However, the angular precision of a search radar is often insufficient for a laser shot. The track must therefore be handed to higher-resolution sensors.
 
-Electro-optical and infrared systems then zoom onto the target, allowing software to identify features and maintain a much more precise track. Systems such as BlueHalo's LOCUST architecture incorporate telescopes, acquisition trackers, laser rangefinders and dedicated fine-tracking systems specifically for this purpose. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bluehalo.com/c-uas-autonomous-systems/c-uas-directed-energy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluehalo.com">[AeroVironment, Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluehalo.com</span><span class="citation-popover-title">Aero Vironment, Inc.C-UAS Directed Energy &#124; Aero Vironment, Inc</span><span class="citation-popover-snippet">This ISR unit features a fine tracking system (FTS), powerful telescope, laser rangefinder, acquisition tracking system (ATS), an...</span></span></span>
+Electro-optical and infrared systems then zoom onto the target, allowing software to identify features and maintain a much more precise track. Systems such as BlueHalo's LOCUST architecture incorporate telescopes, acquisition trackers, laser rangefinders and dedicated fine-tracking systems specifically for this purpose.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bluehalo.com/c-uas-autonomous-systems/c-uas-directed-energy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluehalo.com">[AeroVironment, Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluehalo.com</span><span class="citation-popover-title">Aero Vironment, Inc.C-UAS Directed Energy &#124; Aero Vironment, Inc</span><span class="citation-popover-snippet">This ISR unit features a fine tracking system (FTS), powerful telescope, laser rangefinder, acquisition tracking system (ATS), an...</span></span></span>
 
 This transition from broad detection to precision tracking is one of the most critical moments in the engagement chain. A target lost during handoff may disappear entirely from the engagement picture.
 
@@ -350,7 +350,7 @@ This transition from broad detection to precision tracking is one of the most cr
 
 Once a target has been acquired, the system must compensate for vibration, atmospheric effects, target manoeuvres and platform motion.
 
-This is why directed-energy developers devote major effort to beam directors, [adaptive optics]({{ 'adaptive-optics/' | relative_url }}) and stabilised tracking systems. Lockheed Martin identifies beam control and beam directors as core elements of operational laser systems, while long-term Air Force assessments highlight high-accuracy target tracking as one of the key challenges limiting future laser effectiveness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lockheedmartin.com">[Lockheed Martin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lockheedmartin.com</span><span class="citation-popover-snippet">Lockheed MartinDirected Energy &#124; Lockheed MartinExperience the potential of our laser weapons and directed energy weapon technologies, pr...</span></span></span>
+This is why directed-energy developers devote major effort to beam directors, [adaptive optics]({{ 'adaptive-optics/' | relative_url }}) and stabilised tracking systems. Lockheed Martin identifies beam control and beam directors as core elements of operational laser systems, while long-term Air Force assessments highlight high-accuracy target tracking as one of the key challenges limiting future laser effectiveness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lockheedmartin.com">[Lockheed Martin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lockheedmartin.com</span><span class="citation-popover-snippet">Lockheed MartinDirected Energy &#124; Lockheed MartinExperience the potential of our laser weapons and directed energy weapon technologies, pr...</span></span></span>
 
 The popular image of a laser instantly destroying a target is therefore misleading. In reality, maintaining precise aim may be harder than generating the beam itself.
 
@@ -379,7 +379,7 @@ Consider a drone approaching a naval vessel or military base:
 
 Every step consumes time.
 
-Against small drones, that timeline may be measured in seconds. Delays that seem minor in a command centre can eliminate the laser's opportunity to engage. This is one reason why directed-energy systems are increasingly designed as components within integrated air-defence architectures rather than as standalone weapons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.leonardodrs.com/news/press-releases/leonardo-drs-and-bluehalo-successfully-demonstrate-new-counter-uas-directed-energy-stryker-shooting-down-drones-in-live-fire-engagement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonardodrs.com">[Leonardo DRS+2Leonardo USA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonardodrs.com</span><span class="citation-popover-title">leonardo drs and bluehalo successfully demonstrate new counter uas directed energy stryker shooting down drones in live fire engagement</span><span class="citation-popover-snippet">Leonardo DRSSuccessful Demonstration of New C-UAS Directed Energy ...14 Oct 2024 — Leonardo DRS and BlueHalo Successfully Demonstrate New...</span></span></span>
+Against small drones, that timeline may be measured in seconds. Delays that seem minor in a command centre can eliminate the laser's opportunity to engage. This is one reason why directed-energy systems are increasingly designed as components within integrated air-defence architectures rather than as standalone weapons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.leonardodrs.com/news/press-releases/leonardo-drs-and-bluehalo-successfully-demonstrate-new-counter-uas-directed-energy-stryker-shooting-down-drones-in-live-fire-engagement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonardodrs.com">[Leonardo DRS+2Leonardo USA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonardodrs.com</span><span class="citation-popover-title">leonardo drs and bluehalo successfully demonstrate new counter uas directed energy stryker shooting down drones in live fire engagement</span><span class="citation-popover-snippet">Leonardo DRSSuccessful Demonstration of New C-UAS Directed Energy ...14 Oct 2024 — Leonardo DRS and BlueHalo Successfully Demonstrate New...</span></span></span>
 
 The challenge becomes more severe during mass attacks. A defence network may successfully detect dozens of targets but still struggle to classify, prioritise and assign them quickly enough. Sensor saturation can become a limiting factor before [laser power]({{ 'power-costs/' | relative_url }}) does.
 
@@ -392,7 +392,7 @@ Public discussions of laser weapons often focus on power levels measured in kilo
 
 ### Atmospheric Conditions
 
-The same atmosphere that weakens laser beams can also degrade sensors. Haze, smoke, rain, sea spray and dust reduce detection ranges and tracking quality. A laser weapon that theoretically has a firing solution may still struggle if optical tracking quality collapses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.laserwars.net/p/navy-laser-weapons-challenges-atmosphere-fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laserwars.net">[Laser Wars]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laserwars.net</span><span class="citation-popover-title">navy laser weapons challenges atmosphere fog</span><span class="citation-popover-snippet">Laser WarsFog of War: The Biggest Challenge for Naval Laser Weapons22 May 2025 — Laser weapons require line of sight and atmospheric stab...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+The same atmosphere that weakens laser beams can also degrade sensors. Haze, smoke, rain, sea spray and dust reduce detection ranges and tracking quality. A laser weapon that theoretically has a firing solution may still struggle if optical tracking quality collapses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.laserwars.net/p/navy-laser-weapons-challenges-atmosphere-fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laserwars.net">[Laser Wars]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laserwars.net</span><span class="citation-popover-title">navy laser weapons challenges atmosphere fog</span><span class="citation-popover-snippet">Laser WarsFog of War: The Biggest Challenge for Naval Laser Weapons22 May 2025 — Laser weapons require line of sight and atmospheric stab...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 ### Identification Errors
 
@@ -400,7 +400,7 @@ A defensive laser requires confidence that a detected object is actually hostile
 
 ### Swarm Saturation
 
-The most serious concern may not be individual drones but large numbers of them. Tracking resources, operator attention and fire-control capacity can all become overloaded. A sensor network that performs well against one target may struggle against dozens arriving simultaneously. Research into multi-sensor fusion and automated tracking increasingly focuses on this problem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2510.22947" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Intelligent Multimodal Multi-Sensor Fusion-Based UAV Identification, Localization, and Countermeasures for Safeguarding Low-Altitude...</span></span></span>
+The most serious concern may not be individual drones but large numbers of them. Tracking resources, operator attention and fire-control capacity can all become overloaded. A sensor network that performs well against one target may struggle against dozens arriving simultaneously. Research into multi-sensor fusion and automated tracking increasingly focuses on this problem.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2510.22947" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Intelligent Multimodal Multi-Sensor Fusion-Based UAV Identification, Localization, and Countermeasures for Safeguarding Low-Altitude...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_sensor_chain_13add0-Illustration-3-dark.svg" | relative_url }}" alt="Sensor Chain illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_sensor_chain_13add0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_sensor_chain_13add0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -408,11 +408,11 @@ The most serious concern may not be individual drones but large numbers of them.
 
 Recent counter-drone laser developments repeatedly highlight sensors rather than laser power alone.
 
-BlueHalo's LOCUST system emphasises its gimballed electro-optical tracking system, fine tracking system, telescope, acquisition tracking capability and laser rangefinder as key components supporting the laser engagement process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bluehalo.com/c-uas-autonomous-systems/c-uas-directed-energy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluehalo.com">[AeroVironment, Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluehalo.com</span><span class="citation-popover-title">Aero Vironment, Inc.C-UAS Directed Energy &#124; Aero Vironment, Inc</span><span class="citation-popover-snippet">This ISR unit features a fine tracking system (FTS), powerful telescope, laser rangefinder, acquisition tracking system (ATS), an...</span></span></span>
+BlueHalo's LOCUST system emphasises its gimballed electro-optical tracking system, fine tracking system, telescope, acquisition tracking capability and laser rangefinder as key components supporting the laser engagement process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bluehalo.com/c-uas-autonomous-systems/c-uas-directed-energy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluehalo.com">[AeroVironment, Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluehalo.com</span><span class="citation-popover-title">Aero Vironment, Inc.C-UAS Directed Energy &#124; Aero Vironment, Inc</span><span class="citation-popover-snippet">This ISR unit features a fine tracking system (FTS), powerful telescope, laser rangefinder, acquisition tracking system (ATS), an...</span></span></span>
 
-The UK's DragonFire programme has attracted attention for its reported ability to hit extremely small aim points and engage [high-speed]({{ '650-km-h/' | relative_url }}) drones. Such performance depends not only on laser output but also on precise tracking and beam-control functions capable of maintaining accuracy against moving targets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tomshardware.com/tech-industry/uk-confirms-dragonfire-laser-weapon-for-royal-navy-destroyers-by-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomshardware.com">[Tom&#x27;s Hardware+2Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomshardware.com</span><span class="citation-popover-title">uk confirms dragonfire laser weapon for royal navy destroyers by 2027</span><span class="citation-popover-snippet">This follows a £316 million ($414 million) contract awarded to MBDA UK for the first two production units. DragonFire, a 50 kW-class lase...</span></span></span>
+The UK's DragonFire programme has attracted attention for its reported ability to hit extremely small aim points and engage [high-speed]({{ '650-km-h/' | relative_url }}) drones. Such performance depends not only on laser output but also on precise tracking and beam-control functions capable of maintaining accuracy against moving targets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tomshardware.com/tech-industry/uk-confirms-dragonfire-laser-weapon-for-royal-navy-destroyers-by-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomshardware.com">[Tom&#x27;s Hardware+2Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomshardware.com</span><span class="citation-popover-title">uk confirms dragonfire laser weapon for royal navy destroyers by 2027</span><span class="citation-popover-snippet">This follows a £316 million ($414 million) contract awarded to MBDA UK for the first two production units. DragonFire, a 50 kW-class lase...</span></span></span>
 
-Similarly, recent naval and ground-based demonstrations increasingly advertise AI-assisted detection, target tracking and sensor integration alongside the laser itself. Developers appear to recognise that future gains may come as much from improving the sensor chain as from adding more power to the beam. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.techradar.com/pro/the-usd5-drone-killer-the-navys-new-20kw-locust-laser-just-proved-its-unlimited-magazine-depth-on-the-uss-george-h-w-bush-it-neutralized-multiple-uavs-for-a-fraction-of-the-cost-of-a-missile-protecting-the-fleet-from-cheap-enemy-drone-swarms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar+2Leonardo DRS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">Bush - it neutralized multiple UAVs for a fraction of the cost of a missile, protecting the fleet from cheap enemy drone swarmsApril 22...</span></span></span>
+Similarly, recent naval and ground-based demonstrations increasingly advertise AI-assisted detection, target tracking and sensor integration alongside the laser itself. Developers appear to recognise that future gains may come as much from improving the sensor chain as from adding more power to the beam.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.techradar.com/pro/the-usd5-drone-killer-the-navys-new-20kw-locust-laser-just-proved-its-unlimited-magazine-depth-on-the-uss-george-h-w-bush-it-neutralized-multiple-uavs-for-a-fraction-of-the-cost-of-a-missile-protecting-the-fleet-from-cheap-enemy-drone-swarms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar+2Leonardo DRS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">Bush - it neutralized multiple UAVs for a fraction of the cost of a missile, protecting the fleet from cheap enemy drone swarmsApril 22...</span></span></span>
 
 ## The Real Bottleneck
 
@@ -427,178 +427,178 @@ For that reason, the sensor chain is not merely a support system for a laser wea
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Beam Is Only Half the Weapon. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Beam Is Only Half the Weapon. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Radar Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eQhTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Radar Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Radar Systems">Introduction to Radar Systems</a>
-        </h4>
-        <p class="fr-book-author">By Merrill Ivan Skolnik</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Radar Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eQhTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Radar Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Radar Systems">Introduction to Radar Systems</a>
+</h4>
+<p class="fr-book-author">By Merrill Ivan Skolnik</p>
         
-        <p class="fr-book-desc">Foundational for detection and tracking in sensor chains.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Foundational for detection and tracking in sensor chains.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Links sensors, command systems and weapons.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Links sensors, command systems and weapons.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Useful background on advanced defense system development.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful background on advanced defense system development.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Principles+of+Modern+Radar+by+William+L.+Melvin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Principles of Modern Radar on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Principles+of+Modern+Radar+by+William+L.+Melvin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Principles of Modern Radar">Principles of Modern Radar</a>
-        </h4>
-        <p class="fr-book-author">By William L. Melvin, Jim Scheer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Principles+of+Modern+Radar+by+William+L.+Melvin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Principles of Modern Radar on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Principles+of+Modern+Radar+by+William+L.+Melvin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Principles of Modern Radar">Principles of Modern Radar</a>
+</h4>
+<p class="fr-book-author">By William L. Melvin, Jim Scheer</p>
         
-        <p class="fr-book-desc">Covers modern sensor architectures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Principles+of+Modern+Radar+by+William+L.+Melvin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers modern sensor architectures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Principles+of+Modern+Radar+by+William+L.+Melvin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Radar+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Radar Systems books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Radar+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Radar Systems books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1PCS 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Plastic Model With Stand"><img src="{{ '/assets/images/marketplace-covers/2dfd96291cf29af9defa.jpg' | relative_url }}" alt="Listing image for 1PCS 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Plastic Model With Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer">1PCS 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Plastic Model With Stand</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser weapon model">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser weapon model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1PCS 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Plastic Model With Stand"><img src="{{ '/assets/images/marketplace-covers/2dfd96291cf29af9defa.jpg' | relative_url }}" alt="Listing image for 1PCS 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Plastic Model With Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer">1PCS 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Plastic Model With Stand</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser weapon model">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser weapon model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Professional 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Model With Stand"><img src="{{ '/assets/images/marketplace-covers/056ef0ac7dadf352feda.jpg' | relative_url }}" alt="Listing image for Professional 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Model With Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer">Professional 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Model With Stand</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser weapon model">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser weapon model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Professional 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Model With Stand"><img src="{{ '/assets/images/marketplace-covers/056ef0ac7dadf352feda.jpg' | relative_url }}" alt="Listing image for Professional 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Model With Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer">Professional 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Model With Stand</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser weapon model">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser weapon model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D Printed 1/72 Ly1 Laser Weapon Model Unpainted Kit"><img src="{{ '/assets/images/marketplace-covers/b02cbf6ea96fa696e631.jpg' | relative_url }}" alt="Listing image for 3D Printed 1/72 Ly1 Laser Weapon Model Unpainted Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer">3D Printed 1/72 Ly1 Laser Weapon Model Unpainted Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser weapon model">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser weapon model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D Printed 1/72 Ly1 Laser Weapon Model Unpainted Kit"><img src="{{ '/assets/images/marketplace-covers/b02cbf6ea96fa696e631.jpg' | relative_url }}" alt="Listing image for 3D Printed 1/72 Ly1 Laser Weapon Model Unpainted Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer">3D Printed 1/72 Ly1 Laser Weapon Model Unpainted Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser weapon model">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser weapon model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="sensor-chain-the-beam-is-only-half-the-weapon-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -614,7 +614,7 @@ For that reason, the sensor chain is not merely a support system for a laser wea
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -634,7 +634,7 @@ For that reason, the sensor chain is not merely a support system for a laser wea
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -666,7 +666,7 @@ For that reason, the sensor chain is not merely a support system for a laser wea
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -718,7 +718,7 @@ For that reason, the sensor chain is not merely a support system for a laser wea
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -763,7 +763,7 @@ For that reason, the sensor chain is not merely a support system for a laser wea
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -804,145 +804,145 @@ For that reason, the sensor chain is not merely a support system for a laser wea
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: rtx.com  
-   Link: <a href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>High-Energy Lasers | RaytheonThis directed energy technology enables detection of threats, tracking during maneuvers, and positive vis...</p></details>
+   Link:<a href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High-Energy Lasers | RaytheonThis directed energy technology enables detection of threats, tracking during maneuvers, and positive vis...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: bluehalo.com  
    Title: Aero Vironment, Inc.C-UAS Directed Energy | Aero Vironment, Inc  
-   Link: <a href="https://bluehalo.com/c-uas-autonomous-systems/c-uas-directed-energy/" target="_blank" rel="noopener noreferrer nofollow">https://bluehalo.com/c-uas-autonomous-systems/c-uas-directed-energy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This ISR unit features a fine tracking system (FTS), powerful telescope, laser rangefinder, acquisition tracking system (ATS), an...</p></details>
+   Link:<a href="https://bluehalo.com/c-uas-autonomous-systems/c-uas-directed-energy/" target="_blank" rel="noopener noreferrer nofollow">https://bluehalo.com/c-uas-autonomous-systems/c-uas-directed-energy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This ISR unit features a fine tracking system (FTS), powerful telescope, laser rangefinder, acquisition tracking system (ATS), an...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2510.22947" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.22947</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligent Multimodal Multi-Sensor Fusion-Based UAV Identification, Localization, and Countermeasures for Safeguarding Low-Altitude...</p></details>
+   Link:<a href="https://arxiv.org/abs/2510.22947" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.22947</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligent Multimodal Multi-Sensor Fusion-Based UAV Identification, Localization, and Countermeasures for Safeguarding Low-Altitude...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: leonardodrs.com  
-   Link: <a href="https://www.leonardodrs.com/news/press-releases/leonardo-drs-and-bluehalo-successfully-demonstrate-new-counter-uas-directed-energy-[stryker" target="_blank" rel="noopener noreferrer nofollow">https://www.leonardodrs.com/news/press-releases/leonardo-drs-and-bluehalo-successfully-demonstrate-new-counter-uas-directed-energy-[stryker</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Leonardo DRSSuccessful Demonstration of New C-UAS Directed Energy...14 Oct 2024 — Leonardo DRS and BlueHalo Successfully Demonstrate New...</p></details>
+   Link:<a href="https://www.leonardodrs.com/news/press-releases/leonardo-drs-and-bluehalo-successfully-demonstrate-new-counter-uas-directed-energy-[stryker" target="_blank" rel="noopener noreferrer nofollow">https://www.leonardodrs.com/news/press-releases/leonardo-drs-and-bluehalo-successfully-demonstrate-new-counter-uas-directed-energy-[stryker</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leonardo DRSSuccessful Demonstration of New C-UAS Directed Energy...14 Oct 2024 — Leonardo DRS and BlueHalo Successfully Demonstrate New...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: usa.leonardo.com  
    Title: c uas de stryker successfully demonstrated  
-   Link: <a href="https://usa.leonardo.com/en/press-release-detail/-/detail/c-uas-de-stryker-successfully-demonstrated" target="_blank" rel="noopener noreferrer nofollow">https://usa.leonardo.com/en/press-release-detail/-/detail/c-uas-de-stryker-successfully-demonstrated</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Leonardo USALeonardo DRS and BlueHalo successfully demonstrate...Oct 14, 2024 — Leonardo DRS and BlueHalo successfully demonstrate new C...</p></details>
+   Link:<a href="https://usa.leonardo.com/en/press-release-detail/-/detail/c-uas-de-stryker-successfully-demonstrated" target="_blank" rel="noopener noreferrer nofollow">https://usa.leonardo.com/en/press-release-detail/-/detail/c-uas-de-stryker-successfully-demonstrated</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leonardo USALeonardo DRS and BlueHalo successfully demonstrate...Oct 14, 2024 — Leonardo DRS and BlueHalo successfully demonstrate new C...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: axios.com  
-   Link: <a href="https://www.axios.com/2025/11/26/dragonfire-laser-weapon-drones-scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2025/11/26/dragonfire-laser-weapon-drones-scotland</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ministry of Defence has successfully tested a new high-powered military laser weapon known as DragonFire, designed to destroy drones with...</p></details>
+   Link:<a href="https://www.axios.com/2025/11/26/dragonfire-laser-weapon-drones-scotland" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2025/11/26/dragonfire-laser-weapon-drones-scotland</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ministry of Defence has successfully tested a new high-powered military laser weapon known as DragonFire, designed to destroy drones with...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: techradar.com  
    Title: Tech Radar Game of drones  
-   Link: <a href="https://www.techradar.com/tech/game-of-drones-dragonfire-laser-is-so-accurate-it-can-hit-a-coin-from-a-kilometer-away-and-even-400mph-drones-didnt-stand-a-chance" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/tech/game-of-drones-dragonfire-laser-is-so-accurate-it-can-hit-a-coin-from-a-kilometer-away-and-even-400mph-drones-didnt-stand-a-chance</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Capable of hitting a coin-sized target from a kilometer away, DragonFire offers a cost-effective alternative to traditional missile defen...</p></details>
+   Link:<a href="https://www.techradar.com/tech/game-of-drones-dragonfire-laser-is-so-accurate-it-can-hit-a-coin-from-a-kilometer-away-and-even-400mph-drones-didnt-stand-a-chance" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/tech/game-of-drones-dragonfire-laser-is-so-accurate-it-can-hit-a-coin-from-a-kilometer-away-and-even-400mph-drones-didnt-stand-a-chance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Capable of hitting a coin-sized target from a kilometer away, DragonFire offers a cost-effective alternative to traditional missile defen...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: techradar.com  
-   Link: <a href="https://www.techradar.com/pro/the-usd5-drone-killer-the-navys-new-20kw-locust-laser-just-proved-its-unlimited-magazine-depth-on-the-uss-george-h-w-bush-it-neutralized-multiple-uavs-for-a-fraction-of-the-cost-of-a-missile-protecting-the-fleet-from-cheap-enemy-drone-swarms" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/the-usd5-drone-killer-the-navys-new-20kw-locust-laser-just-proved-its-unlimited-magazine-depth-on-the-uss-george-h-w-bush-it-neutralized-multiple-uavs-for-a-fraction-of-the-cost-of-a-missile-protecting-the-fleet-from-cheap-enemy-drone-swarms</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bush - it neutralized multiple UAVs for a fraction of the cost of a missile, protecting the fleet from cheap enemy drone swarmsApril 22...</p></details>
+   Link:<a href="https://www.techradar.com/pro/the-usd5-drone-killer-the-navys-new-20kw-locust-laser-just-proved-its-unlimited-magazine-depth-on-the-uss-george-h-w-bush-it-neutralized-multiple-uavs-for-a-fraction-of-the-cost-of-a-missile-protecting-the-fleet-from-cheap-enemy-drone-swarms" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/the-usd5-drone-killer-the-navys-new-20kw-locust-laser-just-proved-its-unlimited-magazine-depth-on-the-uss-george-h-w-bush-it-neutralized-multiple-uavs-for-a-fraction-of-the-cost-of-a-missile-protecting-the-fleet-from-cheap-enemy-drone-swarms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bush - it neutralized multiple UAVs for a fraction of the cost of a missile, protecting the fleet from cheap enemy drone swarmsApril 22...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: afrl.af.mil  
    Title: Directed Energy Futures 2060 Final29June21 with clearance number  
-   Link: <a href="https://www.afrl.af.mil/Portals/90/Documents/RD/Directed_Energy_Futures_2060_Final29June21_with_clearance_number.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/Portals/90/Documents/RD/Directed_Energy_Futures_2060_Final29June21_with_clearance_number.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2060 directed energy futures16 Jul 2021 — The challenge includes both tracking of moving targets at high levels of accuracy from movi...</p></details>
+   Link:<a href="https://www.afrl.af.mil/Portals/90/Documents/RD/Directed_Energy_Futures_2060_Final29June21_with_clearance_number.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/Portals/90/Documents/RD/Directed_Energy_Futures_2060_Final29June21_with_clearance_number.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2060 directed energy futures16 Jul 2021 — The challenge includes both tracking of moving targets at high levels of accuracy from movi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: defencefinancemonitor.com  
    Title: directed energy weapons in 20252035  
-   Link: <a href="https://www.defencefinancemonitor.com/p/directed-energy-weapons-in-20252035" target="_blank" rel="noopener noreferrer nofollow">https://www.defencefinancemonitor.com/p/directed-energy-weapons-in-20252035</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defence Finance MonitorDirected Energy Weapons in 2025–2035: Development...23 May 2025 — lasers generally require a dwell time of a few...</p></details>
+   Link:<a href="https://www.defencefinancemonitor.com/p/directed-energy-weapons-in-20252035" target="_blank" rel="noopener noreferrer nofollow">https://www.defencefinancemonitor.com/p/directed-energy-weapons-in-20252035</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defence Finance MonitorDirected Energy Weapons in 2025–2035: Development...23 May 2025 — lasers generally require a dwell time of a few...</p></details>
    Published: May 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: lockheedmartin.com  
-   Link: <a href="https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lockheed MartinDirected Energy | Lockheed MartinExperience the potential of our laser weapons and directed energy weapon technologies, pr...</p></details>
+   Link:<a href="https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lockheed MartinDirected Energy | Lockheed MartinExperience the potential of our laser weapons and directed energy weapon technologies, pr...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: laserwars.net  
    Title: [navy laser](&#123;&#123; 'laser-lineage/' | relative_url &#125;&#125;) weapons challenges atmosphere fog  
-   Link: <a href="https://www.laserwars.net/p/navy-laser-weapons-challenges-atmosphere-fog" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/navy-laser-weapons-challenges-atmosphere-fog</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser WarsFog of War: The Biggest Challenge for Naval Laser Weapons22 May 2025 — Laser weapons require line of sight and atmospheric stab...</p></details>
+   Link:<a href="https://www.laserwars.net/p/navy-laser-weapons-challenges-atmosphere-fog" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/navy-laser-weapons-challenges-atmosphere-fog</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser WarsFog of War: The Biggest Challenge for Naval Laser Weapons22 May 2025 — Laser weapons require line of sight and atmospheric stab...</p></details>
    Published: May 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: tomshardware.com  
    Title: uk confirms dragonfire laser weapon for royal navy destroyers by 2027  
-   Link: <a href="https://www.tomshardware.com/tech-industry/uk-confirms-dragonfire-laser-weapon-for-royal-navy-destroyers-by-2027" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/uk-confirms-dragonfire-laser-weapon-for-royal-navy-destroyers-by-2027</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This follows a £316 million ($414 million) contract awarded to MBDA UK for the first two production units. DragonFire, a 50 kW-class lase...</p></details>
+   Link:<a href="https://www.tomshardware.com/tech-industry/uk-confirms-dragonfire-laser-weapon-for-royal-navy-destroyers-by-2027" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/uk-confirms-dragonfire-laser-weapon-for-royal-navy-destroyers-by-2027</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This follows a £316 million ($414 million) contract awarded to MBDA UK for the first two production units. DragonFire, a 50 kW-class lase...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: breakingdefense.com  
-   Link: <a href="https://breakingdefense.com/2021/10/what-does-it-take-to-out-maneuver-enemy-drones/" target="_blank" rel="noopener noreferrer nofollow">https://breakingdefense.com/2021/10/what-does-it-take-to-out-maneuver-enemy-drones/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Does It Take To Out-Maneuver Enemy Drones?4 Oct 2021 — Semiconductor diode lasers spread out and diffuse over distances, which, on t...</p></details>
+   Link:<a href="https://breakingdefense.com/2021/10/what-does-it-take-to-out-maneuver-enemy-drones/" target="_blank" rel="noopener noreferrer nofollow">https://breakingdefense.com/2021/10/what-does-it-take-to-out-maneuver-enemy-drones/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Does It Take To Out-Maneuver Enemy Drones?4 Oct 2021 — Semiconductor diode lasers spread out and diffuse over distances, which, on t...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: onr.navy.mil  
-   Link: <a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons and High Energy LasersDirected energy weapons (DEWs) are defined as electromagnetic systems capable of converting...</p></details>
+   Link:<a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons and High Energy LasersDirected energy weapons (DEWs) are defined as electromagnetic systems capable of converting...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Laser-Based Directed Energy WeaponsThis review aims to evaluate the current capabilities of laser-based Directed Energy Weapons (DE...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Laser-Based Directed Energy WeaponsThis review aims to evaluate the current capabilities of laser-based Directed Energy Weapons (DE...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: eos-aus.com  
-   Link: <a href="https://eos-aus.com/defence/high-energy-laser-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://eos-aus.com/defence/high-energy-laser-weapon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>High Energy Laser WeaponApollo is a high energy laser weapon system designed to defeat Group 1–3 UAS, with power levels up to 150kW and t...</p></details>
+   Link:<a href="https://eos-aus.com/defence/high-energy-laser-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://eos-aus.com/defence/high-energy-laser-weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High Energy Laser WeaponApollo is a high energy laser weapon system designed to defeat Group 1–3 UAS, with power levels up to 150kW and t...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/technical-evolution-operational-integration-light-based-robi-sen-hhdoc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/technical-evolution-operational-integration-light-based-robi-sen-hhdoc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Technical Evolution and Operational Integration of Directed...The SpaceRay SA is an ultra-portable tracking and targeting device designe...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/technical-evolution-operational-integration-light-based-robi-sen-hhdoc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/technical-evolution-operational-integration-light-based-robi-sen-hhdoc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Technical Evolution and Operational Integration of Directed...The SpaceRay SA is an ultra-portable tracking and targeting device designe...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: unmannedairspace.info  
    Title: us gao report directed energy weapon technical maturity levels still lagging  
-   Link: <a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-gao-report-directed-energy-weapon-technical-maturity-levels-still-lagging/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-gao-report-directed-energy-weapon-technical-maturity-levels-still-lagging/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>directed energy weapon technical maturity levels still laggingUS GAO report: directed energy weapon technical maturity levels still lagging...</p></details>
+   Link:<a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-gao-report-directed-energy-weapon-technical-maturity-levels-still-lagging/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-gao-report-directed-energy-weapon-technical-maturity-levels-still-lagging/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>directed energy weapon technical maturity levels still laggingUS GAO report: directed energy weapon technical maturity levels still lagging...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X1toVupe_R8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Directed Energy Weapons SystemsThe Government Accountability Office explains what are Directed Energy Weapons and takes a look at ho...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X1toVupe_R8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Directed Energy Weapons SystemsThe Government Accountability Office explains what are Directed Energy Weapons and takes a look at ho...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: aspistrategist.org.au  
    Title: war at the speed of light the emerging role of directed energy weapons  
-   Link: <a href="https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow">https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the emerging role of directed-energy weapons15 Apr 2026 — The report argues that it is important for Defence to develop a directed-energy...</p></details>
+   Link:<a href="https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow">https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the emerging role of directed-energy weapons15 Apr 2026 — The report argues that it is important for Defence to develop a directed-energy...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: twz.com  
    Title: production standard laser air defense weapons to equip army this year  
-   Link: <a href="https://www.twz.com/sponsored-content/production-standard-laser-air-defense-weapons-to-equip-army-this-year" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/sponsored-content/production-standard-laser-air-defense-weapons-to-equip-army-this-year</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Production-Standard Laser Air Defense Weapons To Equip...Jul 13, 2022 — Directed energy weapons, and in particular high-energy lasers (H...</p></details>
+   Link:<a href="https://www.twz.com/sponsored-content/production-standard-laser-air-defense-weapons-to-equip-army-this-year" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/sponsored-content/production-standard-laser-air-defense-weapons-to-equip-army-this-year</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Production-Standard Laser Air Defense Weapons To Equip...Jul 13, 2022 — Directed energy weapons, and in particular high-energy lasers (H...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: eos-aus.com  
    Title: EOS AUSEmerging tech trends in the counter-drone landscape  
-   Link: <a href="https://eos-aus.com/news/emerging-tech-trends-in-the-counter-drone-landscape/" target="_blank" rel="noopener noreferrer nofollow">https://eos-aus.com/news/emerging-tech-trends-in-the-counter-drone-landscape/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Emerging tech trends in the counter-drone landscape - NewsDec 2, 2024 — Emerging technologies, such as quantum radars, are paving the way...</p></details>
+   Link:<a href="https://eos-aus.com/news/emerging-tech-trends-in-the-counter-drone-landscape/" target="_blank" rel="noopener noreferrer nofollow">https://eos-aus.com/news/emerging-tech-trends-in-the-counter-drone-landscape/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emerging tech trends in the counter-drone landscape - NewsDec 2, 2024 — Emerging technologies, such as quantum radars, are paving the way...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: defenseadvancement.com  
    Title: high energy counter drone laser weapon successfully tested  
-   Link: <a href="https://www.defenseadvancement.com/news/high-energy-counter-drone-laser-weapon-successfully-tested/" target="_blank" rel="noopener noreferrer nofollow">https://www.defenseadvancement.com/news/high-energy-counter-drone-laser-weapon-successfully-tested/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>High-Energy Counter-Drone Laser Weapon Successfully...Dec 17, 2024 — The Laser Directed Energy Weapon works by directing an intense beam...</p></details>
+   Link:<a href="https://www.defenseadvancement.com/news/high-energy-counter-drone-laser-weapon-successfully-tested/" target="_blank" rel="noopener noreferrer nofollow">https://www.defenseadvancement.com/news/high-energy-counter-drone-laser-weapon-successfully-tested/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High-Energy Counter-Drone Laser Weapon Successfully...Dec 17, 2024 — The Laser Directed Energy Weapon works by directing an intense beam...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ophiropt.com  
    Title: directed energy laser devices advantages and challenges  
-   Link: <a href="https://www.ophiropt.com/blog/directed-energy-laser-devices-advantages-and-challenges/" target="_blank" rel="noopener noreferrer nofollow">https://www.ophiropt.com/blog/directed-energy-laser-devices-advantages-and-challenges/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed‑Energy Laser Devices: Advantages and Challenges12 May 2021 — Efficient: They can be deployed against several targets successivel...</p></details>
+   Link:<a href="https://www.ophiropt.com/blog/directed-energy-laser-devices-advantages-and-challenges/" target="_blank" rel="noopener noreferrer nofollow">https://www.ophiropt.com/blog/directed-energy-laser-devices-advantages-and-challenges/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed‑Energy Laser Devices: Advantages and Challenges12 May 2021 — Efficient: They can be deployed against several targets successivel...</p></details>
    Published: May 2021  

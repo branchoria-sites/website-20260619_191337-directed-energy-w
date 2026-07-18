@@ -294,7 +294,7 @@ image: /assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_microwav_63
 
 ## Introduction
 
-THOR, the US Air Force Research Laboratory’s Tactical High-power Operational Responder, is often described as a system that “disables” or “defeats” drones with high-power [microwaves]({{ 'microwaves/' | relative_url }}). What remains difficult to verify publicly is exactly how that defeat occurs. Unlike a missile strike, a gunshot, or even a laser burn mark, a microwave attack may leave little visible evidence on the target. Public releases show that THOR has repeatedly disrupted drone [swarms]({{ 'swarms/' | relative_url }}), but they reveal almost none of the technical details needed for independent assessment of the underlying kill mechanism. AFRL has deliberately limited public disclosures to broad descriptions such as “counter-electronic effects”, “high-power microwaves”, and the ability to disable multiple drones simultaneously. Air Force Research Laboratory+2Air Force Research Laboratory <span class="citation-link-wrap"><a class="citation-inline-link" href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afresearchlab.com">[afresearchlab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afresearchlab.com</span><span class="citation-popover-snippet">The system uses high power...</span></span></span>
+THOR, the US Air Force Research Laboratory’s Tactical High-power Operational Responder, is often described as a system that “disables” or “defeats” drones with high-power [microwaves]({{ 'microwaves/' | relative_url }}). What remains difficult to verify publicly is exactly how that defeat occurs. Unlike a missile strike, a gunshot, or even a laser burn mark, a microwave attack may leave little visible evidence on the target. Public releases show that THOR has repeatedly disrupted drone [swarms]({{ 'swarms/' | relative_url }}), but they reveal almost none of the technical details needed for independent assessment of the underlying kill mechanism. AFRL has deliberately limited public disclosures to broad descriptions such as “counter-electronic effects”, “high-power microwaves”, and the ability to disable multiple drones simultaneously. Air Force Research Laboratory+2Air Force Research Laboratory<span class="citation-link-wrap"><a class="citation-inline-link" href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afresearchlab.com">[afresearchlab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afresearchlab.com</span><span class="citation-popover-snippet">The system uses high power...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_microwav_636998-Illustration-1-dark.svg" | relative_url }}" alt="Kill Effect illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_microwav_636998-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_microwav_636998-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -302,9 +302,9 @@ As a result, outside observers can confirm that drones were affected during demo
 
 ## How Do Microwaves Disable Drones?
 
-High-power microwave (HPM) weapons work by projecting intense electromagnetic energy toward electronic systems. The basic theory is well understood: electromagnetic fields can couple into wiring, antennas, circuit traces, sensors, power-management systems, and communication links, creating voltages or currents that electronics were not designed to tolerate. Depending on the intensity and the target design, the result may range from brief malfunction to permanent component damage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2K-State Libraries Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">Science &amp; Tech Spotlight: Directed Energy Weapons</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy WeaponsMay 25, 2023 — These weapons include high energy lasers and other high power electrom...</span><span class="citation-popover-meta">Published: May 25, 2023</span></span></span>
+High-power microwave (HPM) weapons work by projecting intense electromagnetic energy toward electronic systems. The basic theory is well understood: electromagnetic fields can couple into wiring, antennas, circuit traces, sensors, power-management systems, and communication links, creating voltages or currents that electronics were not designed to tolerate. Depending on the intensity and the target design, the result may range from brief malfunction to permanent component damage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2K-State Libraries Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">Science &amp; Tech Spotlight: Directed Energy Weapons</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy WeaponsMay 25, 2023 — These weapons include high energy lasers and other high power electrom...</span><span class="citation-popover-meta">Published: May 25, 2023</span></span></span>
 
-For THOR specifically, AFRL has stated only that the weapon uses high-power microwaves to disable drones and produce a counter-electronic effect. Public documents do not disclose the operating frequency, pulse structure, power density at target range, waveform characteristics, or damage thresholds achieved during testing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afresearchlab.com">[Air Force Research Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afresearchlab.com</span><span class="citation-popover-snippet">The system uses high power...</span></span></span>
+For THOR specifically, AFRL has stated only that the weapon uses high-power microwaves to disable drones and produce a counter-electronic effect. Public documents do not disclose the operating frequency, pulse structure, power density at target range, waveform characteristics, or damage thresholds achieved during testing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afresearchlab.com">[Air Force Research Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afresearchlab.com</span><span class="citation-popover-snippet">The system uses high power...</span></span></span>
 
 That omission matters because different microwave effects imply very different levels of military effectiveness:
 
@@ -327,7 +327,7 @@ From a distance, many of these outcomes can look identical: a drone falls, lands
 
 ### Electromagnetic Coupling Into Drone Electronics
 
-The most widely accepted explanation for HPM [counter-drone]({{ 'missile-savings/' | relative_url }}) systems is electromagnetic coupling. Rather than physically striking the aircraft, microwave energy interacts with conductive structures and electronic circuits. Wires, antennas, motor-control systems, GPS receivers, radios, and processors can all serve as pathways through which electromagnetic energy reaches sensitive components. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defencefinancemonitor.com/p/non-kinetic-counter-uas-with-high" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defencefinancemonitor.com">[Defence Finance Monitor+2K-State Libraries Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defencefinancemonitor.com</span><span class="citation-popover-title">non kinetic counter uas with high</span><span class="citation-popover-snippet">Defence Finance MonitorNon-Kinetic Counter-UAS with High Power Microwave8 Dec 2025 — HPM systems work by emitting powerful pulses of radi...</span></span></span>
+The most widely accepted explanation for HPM [counter-drone]({{ 'missile-savings/' | relative_url }}) systems is electromagnetic coupling. Rather than physically striking the aircraft, microwave energy interacts with conductive structures and electronic circuits. Wires, antennas, motor-control systems, GPS receivers, radios, and processors can all serve as pathways through which electromagnetic energy reaches sensitive components.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defencefinancemonitor.com/p/non-kinetic-counter-uas-with-high" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defencefinancemonitor.com">[Defence Finance Monitor+2K-State Libraries Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defencefinancemonitor.com</span><span class="citation-popover-title">non kinetic counter uas with high</span><span class="citation-popover-snippet">Defence Finance MonitorNon-Kinetic Counter-UAS with High Power Microwave8 Dec 2025 — HPM systems work by emitting powerful pulses of radi...</span></span></span>
 
 However, coupling is highly dependent on technical factors that are not publicly known for THOR:
 
@@ -352,7 +352,7 @@ Because these variables are undisclosed, independent researchers cannot reproduc
 
 One of the biggest obstacles to verification is that there may not be a single universal failure mode.
 
-Consumer quadcopters, military reconnaissance drones, fixed-wing unmanned aircraft, and autonomous swarm systems often use different processors, radio systems, wiring layouts, shielding approaches, and flight-control architectures. A microwave pulse that permanently damages one design might only temporarily disrupt another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defencefinancemonitor.com/p/non-kinetic-counter-uas-with-high" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defencefinancemonitor.com">[Defence Finance Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defencefinancemonitor.com</span><span class="citation-popover-title">non kinetic counter uas with high</span><span class="citation-popover-snippet">Defence Finance MonitorNon-Kinetic Counter-UAS with High Power Microwave8 Dec 2025 — HPM systems work by emitting powerful pulses of radi...</span></span></span>
+Consumer quadcopters, military reconnaissance drones, fixed-wing unmanned aircraft, and autonomous swarm systems often use different processors, radio systems, wiring layouts, shielding approaches, and flight-control architectures. A microwave pulse that permanently damages one design might only temporarily disrupt another.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defencefinancemonitor.com/p/non-kinetic-counter-uas-with-high" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defencefinancemonitor.com">[Defence Finance Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defencefinancemonitor.com</span><span class="citation-popover-title">non kinetic counter uas with high</span><span class="citation-popover-snippet">Defence Finance MonitorNon-Kinetic Counter-UAS with High Power Microwave8 Dec 2025 — HPM systems work by emitting powerful pulses of radi...</span></span></span>
 
 This creates an important public-observation problem. When AFRL reports that THOR disabled a swarm, outside observers typically know little about:
 
@@ -367,7 +367,7 @@ This creates an important public-observation problem. When AFRL reports that THO
 
 </div>
 
-AFRL's 2023 swarm demonstration reported that THOR was highly effective against a realistic multi-target scenario, but the released information focused on operational success rather than technical failure analysis. Observers saw that drones were defeated; they were not shown detailed post-test [engineering]({{ 'engineering/' | relative_url }}) evidence explaining exactly what happened inside each aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[Air Force Research Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — “THOR was exceptionally effective at disabling th...</span><span class="citation-popover-meta">Published: May 16, 2023</span></span></span>
+AFRL's 2023 swarm demonstration reported that THOR was highly effective against a realistic multi-target scenario, but the released information focused on operational success rather than technical failure analysis. Observers saw that drones were defeated; they were not shown detailed post-test [engineering]({{ 'engineering/' | relative_url }}) evidence explaining exactly what happened inside each aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[Air Force Research Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — “THOR was exceptionally effective at disabling th...</span><span class="citation-popover-meta">Published: May 16, 2023</span></span></span>
 
 That distinction is crucial. Demonstrating an operational outcome is not the same as revealing the physical mechanism behind it.
 
@@ -378,7 +378,7 @@ That distinction is crucial. Demonstrating an operational outcome is not the sam
 
 A microwave defeat mechanism is inherently harder to verify than more visible forms of directed energy.
 
-With laser weapons, investigators may observe burn marks, structural damage, or thermal effects. With kinetic weapons, impact damage is usually obvious. Microwave effects are often invisible and internal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">Science &amp; Tech Spotlight: Directed Energy Weapons</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy WeaponsMay 25, 2023 — These weapons include high energy lasers and other high power electrom...</span><span class="citation-popover-meta">Published: May 25, 2023</span></span></span>
+With laser weapons, investigators may observe burn marks, structural damage, or thermal effects. With kinetic weapons, impact damage is usually obvious. Microwave effects are often invisible and internal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">Science &amp; Tech Spotlight: Directed Energy Weapons</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy WeaponsMay 25, 2023 — These weapons include high energy lasers and other high power electrom...</span><span class="citation-popover-meta">Published: May 25, 2023</span></span></span>
 
 A public observer watching a THOR test typically sees only the end result: drones lose control, fall, or cease functioning. Several alternative explanations can produce similar visible outcomes:
 
@@ -412,212 +412,212 @@ AFRL publicly describes THOR as a counter-swarm high-power microwave weapon but 
 
 * Pulse repetition characteristics.
 * Waveform design.
-* Peak electromagnetic field strengths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/350941439_High_power_microwave_for_knocking_out_programmable_suicide_drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">350941439 High power microwave for knocking out programmable suicide drones</span><span class="citation-popover-snippet">PDF) High power microwave for knocking out...16 Apr 2021 — This article aims to examine the directed energy of HPM (high power microwav...</span></span></span>
+* Peak electromagnetic field strengths.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/350941439_High_power_microwave_for_knocking_out_programmable_suicide_drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">350941439 High power microwave for knocking out programmable suicide drones</span><span class="citation-popover-snippet">PDF) High power microwave for knocking out...16 Apr 2021 — This article aims to examine the directed energy of HPM (high power microwav...</span></span></span>
 * Effective kill thresholds.
 * Engagement ranges against different targets.
 * Specific component failure mechanisms.
 * Performance against hardened electronics.
-* Recovery rates after exposure. Air Force Research Laboratory+2Air Force Research Laboratory <span class="citation-link-wrap"><a class="citation-inline-link" href="https://afresearchlab.com/wp-content/uploads/2019/09/AFRL_THOR_FS_0122.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afresearchlab.com">[afresearchlab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afresearchlab.com</span><span class="citation-popover-snippet">It operates from a wall plug and uses energy to disable drones. THOR, a first of its kind system...Read more...</span></span></span>
+* Recovery rates after exposure. Air Force Research Laboratory+2Air Force Research Laboratory<span class="citation-link-wrap"><a class="citation-inline-link" href="https://afresearchlab.com/wp-content/uploads/2019/09/AFRL_THOR_FS_0122.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afresearchlab.com">[afresearchlab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afresearchlab.com</span><span class="citation-popover-snippet">It operates from a wall plug and uses energy to disable drones. THOR, a first of its kind system...Read more...</span></span></span>
 
 </div>
 
 These omissions are unsurprising from a military perspective. Revealing the exact parameters that produce successful electronic defeat would help adversaries design shielding, filtering, hardening, and countermeasures. Yet the same secrecy that protects military capability also [limits]({{ 'limits/' | relative_url }}) external verification.
 
-As a result, public evidence supports a narrower conclusion than some headlines imply. Open sources strongly indicate that THOR can disrupt or disable groups of drones under test conditions and that high-power microwaves can produce damaging effects in electronics. What open sources do not provide is a complete, independently verifiable chain showing exactly how THOR's microwave pulse enters a drone, which components fail first, whether the damage is temporary or permanent, and how reliably that process occurs across the diverse range of drones likely to appear in real-world operations. Air University+3Air Force Research Laboratory+3Air Force Research Laboratory <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[afrl.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — “THOR was exceptionally effective at disabling th...</span><span class="citation-popover-meta">Published: May 16, 2023</span></span></span>
+As a result, public evidence supports a narrower conclusion than some headlines imply. Open sources strongly indicate that THOR can disrupt or disable groups of drones under test conditions and that high-power microwaves can produce damaging effects in electronics. What open sources do not provide is a complete, independently verifiable chain showing exactly how THOR's microwave pulse enters a drone, which components fail first, whether the damage is temporary or permanent, and how reliably that process occurs across the diverse range of drones likely to appear in real-world operations. Air University+3Air Force Research Laboratory+3Air Force Research Laboratory<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[afrl.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — “THOR was exceptionally effective at disabling th...</span><span class="citation-popover-meta">Published: May 16, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vLA826fH4Vc" title="Epirus Leonidas: High-Power Microwave for Counter-Electronics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vLA826fH4Vc" target="_blank" rel="noopener noreferrer">Epirus Leonidas: High-Power Microwave for Counter-Electronics</a></p><p class="youtube-embed-meta">Channel: Epirus</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vLA826fH4Vc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vLA826fH4Vc">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Do Microwaves Disable Drones?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Do Microwaves Disable Drones?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
-        </h4>
-        <p class="fr-book-author">By Paul Scharre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
+</h4>
+<p class="fr-book-author">By Paul Scharre</p>
         
-        <p class="fr-book-desc">Strong background on autonomous systems and swarm threats that THOR is designed to counter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong background on autonomous systems and swarm threats that THOR is designed to counter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Applied+Electromagnetics+6th+By+Fawwaz+T.+Ulaby+Fawwaz+T+Ulaby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Applied Electromagnetics 6th By Fawwaz T. Ulaby on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10858380-M.jpg" alt="Cover for Fundamentals of Applied Electromagnetics 6th By Fawwaz T. Ulaby" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Applied+Electromagnetics+6th+By+Fawwaz+T.+Ulaby+Fawwaz+T+Ulaby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Applied Electromagnetics 6th By Fawwaz T. Ulaby">Fundamentals of Applied Electromagnetics 6th By Fawwaz T. Ulaby</a>
-        </h4>
-        <p class="fr-book-author">By Fawwaz T Ulaby</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Applied+Electromagnetics+6th+By+Fawwaz+T.+Ulaby+Fawwaz+T+Ulaby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Applied Electromagnetics 6th By Fawwaz T. Ulaby on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10858380-M.jpg" alt="Cover for Fundamentals of Applied Electromagnetics 6th By Fawwaz T. Ulaby" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+Applied+Electromagnetics+6th+By+Fawwaz+T.+Ulaby+Fawwaz+T+Ulaby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Applied Electromagnetics 6th By Fawwaz T. Ulaby">Fundamentals of Applied Electromagnetics 6th By Fawwaz T. Ulaby</a>
+</h4>
+<p class="fr-book-author">By Fawwaz T Ulaby</p>
         
-        <p class="fr-book-desc">First published 2014.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Applied+Electromagnetics+6th+By+Fawwaz+T.+Ulaby+Fawwaz+T+Ulaby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+Applied+Electromagnetics+6th+By+Fawwaz+T.+Ulaby+Fawwaz+T+Ulaby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Air+base+defense+in+the+Republic+of+Vietnam%2C+1961-1973+Roger+P.+Fox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Air base defense in the Republic of Vietnam, 1961-1973 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1762443-M.jpg" alt="Cover for Air base defense in the Republic of Vietnam, 1961-1973" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Air+base+defense+in+the+Republic+of+Vietnam%2C+1961-1973+Roger+P.+Fox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Air base defense in the Republic of Vietnam, 1961-1973">Air base defense in the Republic of Vietnam, 1961-1973</a>
-        </h4>
-        <p class="fr-book-author">By Roger P. Fox</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Air+base+defense+in+the+Republic+of+Vietnam%2C+1961-1973+Roger+P.+Fox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Air base defense in the Republic of Vietnam, 1961-1973 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1762443-M.jpg" alt="Cover for Air base defense in the Republic of Vietnam," loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Air+base+defense+in+the+Republic+of+Vietnam%2C+1961-1973+Roger+P.+Fox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Air base defense in the Republic of Vietnam,">Air base defense in the Republic of Vietnam,</a>
+</h4>
+<p class="fr-book-author">By Roger P. Fox</p>
         
-        <p class="fr-book-desc">First published 1979. Subjects: Aerial operations, Air bases, American Air bases, History, United States.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Air+base+defense+in+the+Republic+of+Vietnam%2C+1961-1973+Roger+P.+Fox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1979. Subjects: Aerial operations, Air bases, American Air bases, History, United States.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Air+base+defense+in+the+Republic+of+Vietnam%2C+1961-1973+Roger+P.+Fox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
-        </h4>
-        <p class="fr-book-author">By Bahman Zohuri</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
+</h4>
+<p class="fr-book-author">By Bahman Zohuri</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+Applied+Electromagnetics+6th+By+Fawwaz+T.+Ulaby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of Applied Electromagnetics 6th By Fawwaz T. Ulaby</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Air+base+defense+in+the+Republic+of+Vietnam%2C+1961+1973&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Air base defense in the Republic of Vietnam, 1961 1973</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+Applied+Electromagnetics+6th+By+Fawwaz+T.+Ulaby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of Applied Electromagnetics 6th By Fawwaz T. Ulaby</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Air+base+defense+in+the+Republic+of+Vietnam%2C+1961+1973&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Air base defense in the Republic of Vietnam,</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Air Defense Artillery Veteran Custo Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/51aea6f648c5e7fc860f.jpg' | relative_url }}" alt="Listing image for Air Defense Artillery Veteran Custo Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer">Air Defense Artillery Veteran Custo Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Air Defense Artillery Veteran Custo Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/51aea6f648c5e7fc860f.jpg' | relative_url }}" alt="Listing image for Air Defense Artillery Veteran Custo Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer">Air Defense Artillery Veteran Custo Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Soviet Poster Weapon Aviation Air Defense army Pilot MIG Jet Fighter"><img src="{{ '/assets/images/marketplace-covers/5f0575b8dfa6d4a6ee38.jpg' | relative_url }}" alt="Listing image for Original Soviet Poster Weapon Aviation Air Defense army Pilot MIG Jet Fighter" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer">Original Soviet Poster Weapon Aviation Air Defense army Pilot MIG Jet Fighter</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Soviet Poster Weapon Aviation Air Defense army Pilot MIG Jet Fighter"><img src="{{ '/assets/images/marketplace-covers/5f0575b8dfa6d4a6ee38.jpg' | relative_url }}" alt="Listing image for Original Soviet Poster Weapon Aviation Air Defense army Pilot MIG Jet Fighter" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer">Original Soviet Poster Weapon Aviation Air Defense army Pilot MIG Jet Fighter</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 PROPOGANDA POSTER - CIVIL DEFENCE AIR RAID BARRAGE BALLOONS"><img src="{{ '/assets/images/marketplace-covers/bd7139ab35ba3fc280c2.jpg' | relative_url }}" alt="Listing image for WW2 PROPOGANDA POSTER - CIVIL DEFENCE AIR RAID BARRAGE BALLOONS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer">WW2 PROPOGANDA POSTER - CIVIL DEFENCE AIR RAID BARRAGE BALLOONS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 PROPOGANDA POSTER - CIVIL DEFENCE AIR RAID BARRAGE BALLOONS"><img src="{{ '/assets/images/marketplace-covers/bd7139ab35ba3fc280c2.jpg' | relative_url }}" alt="Listing image for WW2 PROPOGANDA POSTER - CIVIL DEFENCE AIR RAID BARRAGE BALLOONS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer">WW2 PROPOGANDA POSTER - CIVIL DEFENCE AIR RAID BARRAGE BALLOONS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2W8 Vintage WWII Civil Air Patrol War Defence Military War Poster WW2 A4"><img src="{{ '/assets/images/marketplace-covers/69cd23fbf489abd97e4d.jpg' | relative_url }}" alt="Listing image for 2W8 Vintage WWII Civil Air Patrol War Defence Military War Poster WW2 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer">2W8 Vintage WWII Civil Air Patrol War Defence Military War Poster WW2 A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2W8 Vintage WWII Civil Air Patrol War Defence Military War Poster WW2 A4"><img src="{{ '/assets/images/marketplace-covers/69cd23fbf489abd97e4d.jpg' | relative_url }}" alt="Listing image for 2W8 Vintage WWII Civil Air Patrol War Defence Military War Poster WW2 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer">2W8 Vintage WWII Civil Air Patrol War Defence Military War Poster WW2 A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="kill-effect-how-do-microwaves-disable-drones-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -633,7 +633,7 @@ As a result, public evidence supports a narrower conclusion than some headlines 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -653,7 +653,7 @@ As a result, public evidence supports a narrower conclusion than some headlines 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -685,7 +685,7 @@ As a result, public evidence supports a narrower conclusion than some headlines 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -737,7 +737,7 @@ As a result, public evidence supports a narrower conclusion than some headlines 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -782,7 +782,7 @@ As a result, public evidence supports a narrower conclusion than some headlines 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -823,128 +823,128 @@ As a result, public evidence supports a narrower conclusion than some headlines 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gao.gov  
    Title: Science & Tech Spotlight: Directed Energy Weapons  
-   Link: <a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy WeaponsMay 25, 2023 — These weapons include high energy lasers and other high power electrom...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy WeaponsMay 25, 2023 — These weapons include high energy lasers and other high power electrom...</p></details>
    Published: May 25, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: kstatelibraries.pressbooks.pub  
    Title: K-State Libraries Pressbooks11  
-   Link: <a href="https://kstatelibraries.pressbooks.pub/drone-delivery/chapter/11-microwaves/" target="_blank" rel="noopener noreferrer nofollow">https://kstatelibraries.pressbooks.pub/drone-delivery/chapter/11-microwaves/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DE Weapons &amp; Microwavesby C Carter · 2022 — Electronic systems exposed to a pulse of high-energy microwaves will suffer catastrophic fail...</p></details>
+   Link:<a href="https://kstatelibraries.pressbooks.pub/drone-delivery/chapter/11-microwaves/" target="_blank" rel="noopener noreferrer nofollow">https://kstatelibraries.pressbooks.pub/drone-delivery/chapter/11-microwaves/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DE Weapons &amp; Microwavesby C Carter · 2022 — Electronic systems exposed to a pulse of high-energy microwaves will suffer catastrophic fail...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: military.com  
    Title: Air Force's Mjölnir?  
-   Link: <a href="https://www.military.com/daily-news/2019/04/25/air-forces-mjolnir-service-testing-thor-anti-drone-system.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/2019/04/25/air-forces-mjolnir-service-testing-thor-anti-drone-system.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Service Testing THOR Anti-Drone SystemApr 25, 2019 — The Tactical High-power Microwave Operational Responder, or THOR, is in developmenta...</p></details>
+   Link:<a href="https://www.military.com/daily-news/2019/04/25/air-forces-mjolnir-service-testing-thor-anti-drone-system.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/2019/04/25/air-forces-mjolnir-service-testing-thor-anti-drone-system.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Service Testing THOR Anti-Drone SystemApr 25, 2019 — The Tactical High-power Microwave Operational Responder, or THOR, is in developmenta...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: afresearchlab.com  
-   Link: <a href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://afresearchlab.com/counter-swarm-high-power-weapon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The system uses high power...</p></details>
+   Link:<a href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://afresearchlab.com/counter-swarm-high-power-weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The system uses high power...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: afresearchlab.com  
-   Link: <a href="https://afresearchlab.com/wp-content/uploads/2019/09/AFRL_THOR_FS_0122.pdf" target="_blank" rel="noopener noreferrer nofollow">https://afresearchlab.com/wp-content/uploads/2019/09/AFRL_THOR_FS_0122.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It operates from a wall plug and uses energy to disable drones. THOR, a first of its kind system...Read more...</p></details>
+   Link:<a href="https://afresearchlab.com/wp-content/uploads/2019/09/AFRL_THOR_FS_0122.pdf" target="_blank" rel="noopener noreferrer nofollow">https://afresearchlab.com/wp-content/uploads/2019/09/AFRL_THOR_FS_0122.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It operates from a wall plug and uses energy to disable drones. THOR, a first of its kind system...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: afrl.af.mil  
    Title: Air Force Research Laboratory AFRL conducts swarm technology demonstration  
-   Link: <a href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — “THOR was exceptionally effective at disabling th...</p></details>
+   Link:<a href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — “THOR was exceptionally effective at disabling th...</p></details>
    Published: May 16, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: defencefinancemonitor.com  
    Title: non kinetic counter uas with high  
-   Link: <a href="https://www.defencefinancemonitor.com/p/non-kinetic-counter-uas-with-high" target="_blank" rel="noopener noreferrer nofollow">https://www.defencefinancemonitor.com/p/non-kinetic-counter-uas-with-high</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Defence Finance MonitorNon-Kinetic Counter-UAS with High Power Microwave8 Dec 2025 — HPM systems work by emitting powerful pulses of radi...</p></details>
+   Link:<a href="https://www.defencefinancemonitor.com/p/non-kinetic-counter-uas-with-high" target="_blank" rel="noopener noreferrer nofollow">https://www.defencefinancemonitor.com/p/non-kinetic-counter-uas-with-high</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defence Finance MonitorNon-Kinetic Counter-UAS with High Power Microwave8 Dec 2025 — HPM systems work by emitting powerful pulses of radi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: afrl.af.mil  
-   Link: <a href="https://www.afrl.af.mil/News/Photos/igphoto/2003223867/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Photos/igphoto/2003223867/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Research LaboratoryTactical High-power Operational ResponderA high-powered microwave counter drone weapon, stands ready to demo...</p></details>
+   Link:<a href="https://www.afrl.af.mil/News/Photos/igphoto/2003223867/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Photos/igphoto/2003223867/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Research LaboratoryTactical High-power Operational ResponderA high-powered microwave counter drone weapon, stands ready to demo...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: airuniversity.af.edu  
    Title: army partners with air forces thor for base defense  
-   Link: <a href="https://www.airuniversity.af.edu/News/Display/Article/2511792/army-partners-with-air-forces-thor-for-base-defense/" target="_blank" rel="noopener noreferrer nofollow">https://www.airuniversity.af.edu/News/Display/Article/2511792/army-partners-with-air-forces-thor-for-base-defense/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air UniversityArmy partners with Air Force&#x27;s THOR for base defenseFeb 23, 2021 — THOR is a prototype directed energy weapon used to disab...</p></details>
+   Link:<a href="https://www.airuniversity.af.edu/News/Display/Article/2511792/army-partners-with-air-forces-thor-for-base-defense/" target="_blank" rel="noopener noreferrer nofollow">https://www.airuniversity.af.edu/News/Display/Article/2511792/army-partners-with-air-forces-thor-for-base-defense/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air UniversityArmy partners with Air Force&#x27;s THOR for base defenseFeb 23, 2021 — THOR is a prototype directed energy weapon used to disab...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: usfk.mil  
-   Link: <a href="https://www.usfk.mil/What-We-Do/Exercises/Freedom-Shield/?dvpTag=Thor&amp;videoid=904340" target="_blank" rel="noopener noreferrer nofollow">https://www.usfk.mil/What-We-Do/Exercises/Freedom-Shield/?dvpTag=Thor&amp;videoid=904340</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tactical High-power Operational ResponderTactical, High-power, Operational, Responder, known as THOR, is a high power microwave counter-d...</p></details>
+   Link:<a href="https://www.usfk.mil/What-We-Do/Exercises/Freedom-Shield/?dvpTag=Thor&amp;videoid=904340" target="_blank" rel="noopener noreferrer nofollow">https://www.usfk.mil/What-We-Do/Exercises/Freedom-Shield/?dvpTag=Thor&amp;videoid=904340</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tactical High-power Operational ResponderTactical, High-power, Operational, Responder, known as THOR, is a high power microwave counter-d...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: afrl.af.mil  
-   Link: <a href="https://www.afrl.af.mil/News/Video/?dvpTag=Thor&amp;dvpmoduleid=69743" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Video/?dvpTag=Thor&amp;dvpmoduleid=69743</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Force Research Laboratory VideoTactical, High-power, Operational Responder, known as THOR, is a high-power microwave counter-drone weapon...</p></details>
+   Link:<a href="https://www.afrl.af.mil/News/Video/?dvpTag=Thor&amp;dvpmoduleid=69743" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Video/?dvpTag=Thor&amp;dvpmoduleid=69743</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Force Research Laboratory VideoTactical, High-power, Operational Responder, known as THOR, is a high-power microwave counter-drone weapon...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/904340/thor-tactical-high-power-operational-responder" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/904340/thor-tactical-high-power-operational-responder</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thor - Tactical High-power Operational ResponderTHOR is a high power microwave counter-drone weapon that the Air Force Research Lab has d...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/904340/thor-tactical-high-power-operational-responder" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/904340/thor-tactical-high-power-operational-responder</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thor - Tactical High-power Operational ResponderTHOR is a high power microwave counter-drone weapon that the Air Force Research Lab has d...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english/high" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/high</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a period of extreme excitement or happiness, when you feel full of energy: There are lots of highs and lows in this job.Read more...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/us/dictionary/english/high" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/high</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a period of extreme excitement or happiness, when you feel full of energy: There are lots of highs and lows in this job.Read more...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/334070738_High-Power_Microwave_Energy_as_Weapon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334070738_High-Power_Microwave_Energy_as_Weapon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) High-Power Microwave Energy as WeaponThis chapter discusses aspects of the technology base and weapon delivery techniques and propo...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/334070738_High-Power_Microwave_Energy_as_Weapon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334070738_High-Power_Microwave_Energy_as_Weapon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) High-Power Microwave Energy as WeaponThis chapter discusses aspects of the technology base and weapon delivery techniques and propo...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: techbriefs.com  
-   Link: <a href="https://www.techbriefs.com/component/content/article/49907-meet-thor-afrls-counter-drone-that-tracks-and-disables-[drone-swarm" target="_blank" rel="noopener noreferrer nofollow">https://www.techbriefs.com/component/content/article/49907-meet-thor-afrls-counter-drone-that-tracks-and-disables-[drone-swarm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meet THOR: AFRL&#x27;s Counter-Drone that Tracks and...THOR is a high-power microwave counter-drone weapon that the Air Force Research Lab ha...</p></details>
+   Link:<a href="https://www.techbriefs.com/component/content/article/49907-meet-thor-afrls-counter-drone-that-tracks-and-disables-[drone-swarm" target="_blank" rel="noopener noreferrer nofollow">https://www.techbriefs.com/component/content/article/49907-meet-thor-afrls-counter-drone-that-tracks-and-disables-[drone-swarm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meet THOR: AFRL&#x27;s Counter-Drone that Tracks and...THOR is a high-power microwave counter-drone weapon that the Air Force Research Lab ha...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: unmannedairspace.info  
-   Link: <a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-air-force-research-laboratory-demonstrates-anti-drone-swarm-c-uas-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-air-force-research-laboratory-demonstrates-anti-drone-swarm-c-uas-technology/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Air Force Research Laboratory demonstrates anti-...The US Air Force Research Laboratory (AFRL) conducted a demonstration April 5, 202...</p></details>
+   Link:<a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-air-force-research-laboratory-demonstrates-anti-drone-swarm-c-uas-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-air-force-research-laboratory-demonstrates-anti-drone-swarm-c-uas-technology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Air Force Research Laboratory demonstrates anti-...The US Air Force Research Laboratory (AFRL) conducted a demonstration April 5, 202...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AFResearchLab/videos/afrls-tactical-high-power-operational-responder-or-thor-system-%EF%B8%8F-is-swarming-int/1138955837220051/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AFResearchLab/videos/afrls-tactical-high-power-operational-responder-or-thor-system-%EF%B8%8F-is-swarming-int/1138955837220051/</a>  
+   Link:<a href="https://www.facebook.com/AFResearchLab/videos/afrls-tactical-high-power-operational-responder-or-thor-system-%EF%B8%8F-is-swarming-int/1138955837220051/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AFResearchLab/videos/afrls-tactical-high-power-operational-responder-or-thor-system-%EF%B8%8F-is-swarming-int/1138955837220051/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/high" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/high</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/high" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/high</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: safie.hq.af.mil  
-   Link: <a href="https://www.safie.hq.af.mil/News/Video/mod/61713/player/0/video/904340/Thor" target="_blank" rel="noopener noreferrer nofollow">https://www.safie.hq.af.mil/News/Video/mod/61713/player/0/video/904340/Thor</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is a high power microwave counter drone weapon that the Air Force research lab has demonstrated for Effectiveness against realistic targets...</p></details>
+   Link:<a href="https://www.safie.hq.af.mil/News/Video/mod/61713/player/0/video/904340/Thor" target="_blank" rel="noopener noreferrer nofollow">https://www.safie.hq.af.mil/News/Video/mod/61713/player/0/video/904340/Thor</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is a high power microwave counter drone weapon that the Air Force research lab has demonstrated for Effectiveness against realistic targets...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
    Title: 350941439 High power microwave for knocking out programmable suicide drones  
-   Link: <a href="https://www.researchgate.net/publication/350941439_High_power_microwave_for_knocking_out_programmable_suicide_drones" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/350941439_High_power_microwave_for_knocking_out_programmable_suicide_drones</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) High power microwave for knocking out...16 Apr 2021 — This article aims to examine the directed energy of HPM (high power microwav...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/350941439_High_power_microwave_for_knocking_out_programmable_suicide_drones" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/350941439_High_power_microwave_for_knocking_out_programmable_suicide_drones</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) High power microwave for knocking out...16 Apr 2021 — This article aims to examine the directed energy of HPM (high power microwav...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=aSM6q_TKcTs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aSM6q_TKcTs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DRDO&#x27;S New Microwave Weapon Explaineddisable hostile drone swarms by emitting concentrated microwave pulses that disrupt or destroy onboa...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aSM6q_TKcTs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aSM6q_TKcTs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DRDO&#x27;S New Microwave Weapon Explaineddisable hostile drone swarms by emitting concentrated microwave pulses that disrupt or destroy onboa...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: airforce-technology.com  
    Title: tactical high power operational responder thor drone killer usa  
-   Link: <a href="https://www.airforce-technology.com/projects/tactical-high-power-operational-responder-thor-drone-killer-usa/" target="_blank" rel="noopener noreferrer nofollow">https://www.airforce-technology.com/projects/tactical-high-power-operational-responder-thor-drone-killer-usa/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tactical High Power Operational Responder (THOR)...Oct 26, 2021 — The THOR is a high-power microwave weapon developed by the Air Force R...</p></details>
+   Link:<a href="https://www.airforce-technology.com/projects/tactical-high-power-operational-responder-thor-drone-killer-usa/" target="_blank" rel="noopener noreferrer nofollow">https://www.airforce-technology.com/projects/tactical-high-power-operational-responder-thor-drone-killer-usa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tactical High Power Operational Responder (THOR)...Oct 26, 2021 — The THOR is a high-power microwave weapon developed by the Air Force R...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: jedonline.com  
    Title: It is designed to take down drones either in single numbers or  
-   Link: <a href="https://www.jedonline.com/2023/01/24/high-power-microwave-systems-getting-much-much-closer-to-operational-status/" target="_blank" rel="noopener noreferrer nofollow">https://www.jedonline.com/2023/01/24/high-power-microwave-systems-getting-much-much-closer-to-operational-status/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>High-Power Microwave Systems – Getting (Much...Jan 24, 2023 — The Phaser is another counter-drone HPM system developed by Raytheon for AFRL...</p></details>
+   Link:<a href="https://www.jedonline.com/2023/01/24/high-power-microwave-systems-getting-much-much-closer-to-operational-status/" target="_blank" rel="noopener noreferrer nofollow">https://www.jedonline.com/2023/01/24/high-power-microwave-systems-getting-much-much-closer-to-operational-status/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High-Power Microwave Systems – Getting (Much...Jan 24, 2023 — The Phaser is another counter-drone HPM system developed by Raytheon for AFRL...</p></details>

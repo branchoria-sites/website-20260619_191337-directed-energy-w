@@ -294,17 +294,17 @@ image: /assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_fog_laser_ran_e9
 
 ## Introduction
 
-Laser weapons work by concentrating light onto a target long enough to heat, weaken, or damage it. Fog interferes with that process because the beam must travel through a cloud of suspended water droplets before it reaches the target. Even when a target remains visible to sensors or the human eye, fog can remove enough energy from the beam that the laser no longer delivers a useful destructive effect at the required distance. The result is a practical reduction in effective range rather than a simple on/off failure. Studies of atmospheric laser propagation consistently identify fog as one of the most challenging weather conditions because water droplets scatter and absorb laser energy far more strongly than clear air. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10546-021-00675-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer+2SPIE Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Microphysics and Optical Attenuation in Fog</span><span class="citation-popover-snippet">Microphysics and Optical Attenuation in Fog - Springer Natureby Q Wang · 2021 · Cited by 17 — For fog/mist conditions, the main a...</span></span></span>
+Laser weapons work by concentrating light onto a target long enough to heat, weaken, or damage it. Fog interferes with that process because the beam must travel through a cloud of suspended water droplets before it reaches the target. Even when a target remains visible to sensors or the human eye, fog can remove enough energy from the beam that the laser no longer delivers a useful destructive effect at the required distance. The result is a practical reduction in effective range rather than a simple on/off failure. Studies of atmospheric laser propagation consistently identify fog as one of the most challenging weather conditions because water droplets scatter and absorb laser energy far more strongly than clear air.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10546-021-00675-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer+2SPIE Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Microphysics and Optical Attenuation in Fog</span><span class="citation-popover-snippet">Microphysics and Optical Attenuation in Fog - Springer Natureby Q Wang · 2021 · Cited by 17 — For fog/mist conditions, the main a...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_fog_laser_ran_e9f3f6-Illustration-1-dark.svg" | relative_url }}" alt="Fog Range illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_fog_laser_ran_e9f3f6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_fog_laser_ran_e9f3f6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Fog Droplets Scatter and Absorb Laser Light
 
-Fog consists of vast numbers of tiny water droplets suspended in air. These droplets are often similar in size to the [wavelengths]({{ 'wavelengths/' | relative_url }}) used by many laser systems, placing propagation in the regime known as Mie scattering. In this regime, droplets redirect a significant fraction of the beam away from its intended path. Instead of arriving as a tightly concentrated spot, part of the energy is scattered in many directions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10546-021-00675-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer+2TopEx]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Microphysics and Optical Attenuation in Fog</span><span class="citation-popover-snippet">Microphysics and Optical Attenuation in Fog - Springer Natureby Q Wang · 2021 · Cited by 17 — For fog/mist conditions, the main a...</span></span></span>
+Fog consists of vast numbers of tiny water droplets suspended in air. These droplets are often similar in size to the [wavelengths]({{ 'wavelengths/' | relative_url }}) used by many laser systems, placing propagation in the regime known as Mie scattering. In this regime, droplets redirect a significant fraction of the beam away from its intended path. Instead of arriving as a tightly concentrated spot, part of the energy is scattered in many directions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10546-021-00675-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer+2TopEx]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Microphysics and Optical Attenuation in Fog</span><span class="citation-popover-snippet">Microphysics and Optical Attenuation in Fog - Springer Natureby Q Wang · 2021 · Cited by 17 — For fog/mist conditions, the main a...</span></span></span>
 
-The problem is not merely that droplets sit in the beam's way. Each droplet acts as a miniature optical obstacle. Across thousands or millions of droplets along the beam path, repeated scattering steadily reduces the energy that remains focused on the target. Some energy is also absorbed by the water itself and converted into heat within the fog rather than in the target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cpb.iphy.ac.cn/EN/article/downloadArticleFile.do?attachType=PDF&amp;id=123597" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpb.iphy.ac.cn">[Chinese Physics B+2ACP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpb.iphy.ac.cn</span><span class="citation-popover-title">download Article File.do</span><span class="citation-popover-snippet">Chinese Physics BMultiple scattering and modeling of laser in fogby JY Xue · 2021 · Cited by 16 — When a laser is transmitted in fog, and...</span></span></span>
+The problem is not merely that droplets sit in the beam's way. Each droplet acts as a miniature optical obstacle. Across thousands or millions of droplets along the beam path, repeated scattering steadily reduces the energy that remains focused on the target. Some energy is also absorbed by the water itself and converted into heat within the fog rather than in the target.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cpb.iphy.ac.cn/EN/article/downloadArticleFile.do?attachType=PDF&amp;id=123597" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpb.iphy.ac.cn">[Chinese Physics B+2ACP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpb.iphy.ac.cn</span><span class="citation-popover-title">download Article File.do</span><span class="citation-popover-snippet">Chinese Physics BMultiple scattering and modeling of laser in fogby JY Xue · 2021 · Cited by 16 — When a laser is transmitted in fog, and...</span></span></span>
 
-Multiple-scattering effects can make the situation even worse. Light that has already been scattered by one droplet may encounter additional droplets and be scattered again, further reducing the useful beam intensity. Research on laser propagation in different fog types shows that attenuation depends strongly on droplet concentration, droplet size distribution, and fog density. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/367037857_The_Multiple_Scattering_of_Laser_Beam_Propagation_in_Advection_Fog_and_Radiation_Fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) The Multiple Scattering of Laser Beam Propagation</span><span class="citation-popover-snippet">ResearchGate(PDF) The Multiple Scattering of Laser Beam Propagation...January 10, 2023 — The laser beams were scattered and attenuated w...</span><span class="citation-popover-meta">Published: January 10, 2023</span></span></span>
+Multiple-scattering effects can make the situation even worse. Light that has already been scattered by one droplet may encounter additional droplets and be scattered again, further reducing the useful beam intensity. Research on laser propagation in different fog types shows that attenuation depends strongly on droplet concentration, droplet size distribution, and fog density.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/367037857_The_Multiple_Scattering_of_Laser_Beam_Propagation_in_Advection_Fog_and_Radiation_Fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) The Multiple Scattering of Laser Beam Propagation</span><span class="citation-popover-snippet">ResearchGate(PDF) The Multiple Scattering of Laser Beam Propagation...January 10, 2023 — The laser beams were scattered and attenuated w...</span><span class="citation-popover-meta">Published: January 10, 2023</span></span></span>
 
 For a laser weapon, what matters is not whether some light reaches the target. What matters is whether enough energy arrives in a sufficiently small spot to create rapid heating. Fog directly attacks that requirement.
 
@@ -315,21 +315,21 @@ For a laser weapon, what matters is not whether some light reaches the target. W
 
 A common misconception is that if a target can still be seen through fog, a laser should be able to damage it. In practice, visibility and destructive energy delivery are different measurements.
 
-Human vision and many imaging systems can operate with surprisingly small amounts of light. A laser weapon, by contrast, must deliver enough energy to heat material to damaging temperatures. The beam therefore needs far higher energy density at the target than a camera or observer needs for detection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">Science &amp; Tech Spotlight: Directed Energy Weapons</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy WeaponsMay 25, 2023 — Directed energy weapons—such as lasers—use energy fired at the speed o...</span><span class="citation-popover-meta">Published: May 25, 2023</span></span></span>
+Human vision and many imaging systems can operate with surprisingly small amounts of light. A laser weapon, by contrast, must deliver enough energy to heat material to damaging temperatures. The beam therefore needs far higher energy density at the target than a camera or observer needs for detection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">Science &amp; Tech Spotlight: Directed Energy Weapons</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy WeaponsMay 25, 2023 — Directed energy weapons—such as lasers—use energy fired at the speed o...</span><span class="citation-popover-meta">Published: May 25, 2023</span></span></span>
 
-This distinction explains why a target may remain trackable while laser effectiveness falls sharply. A beam that loses a moderate percentage of its power in transit may still illuminate the target, but the remaining energy may be insufficient to burn through a structure, damage electronics, or achieve the intended effect within the available engagement time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://upload.wikimedia.org/wikipedia/commons/1/16/High_energy_laser_propagation_in_various_atmospheric_conditions_utilizing_a_new%2C_accelerated_scaling_code_%28IA_highenergylaserp1094542628%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsHigh energy laser propagation in various atmospheric...by CR Fussman · 2014 · Cited by 25 — Laser dwell times for varyi...</span></span></span>
+This distinction explains why a target may remain trackable while laser effectiveness falls sharply. A beam that loses a moderate percentage of its power in transit may still illuminate the target, but the remaining energy may be insufficient to burn through a structure, damage electronics, or achieve the intended effect within the available engagement time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://upload.wikimedia.org/wikipedia/commons/1/16/High_energy_laser_propagation_in_various_atmospheric_conditions_utilizing_a_new%2C_accelerated_scaling_code_%28IA_highenergylaserp1094542628%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsHigh energy laser propagation in various atmospheric...by CR Fussman · 2014 · Cited by 25 — Laser dwell times for varyi...</span></span></span>
 
-Military analyses of high-energy [lasers]({{ 'lasers/' | relative_url }}) frequently emphasise that atmospheric extinction affects lethality disproportionately. A reduction in delivered power can force much longer dwell times—the period the beam must remain precisely on one point. As atmospheric losses increase, required dwell times can grow rapidly and eventually become operationally impractical. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://upload.wikimedia.org/wikipedia/commons/1/16/High_energy_laser_propagation_in_various_atmospheric_conditions_utilizing_a_new%2C_accelerated_scaling_code_%28IA_highenergylaserp1094542628%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsHigh energy laser propagation in various atmospheric...by CR Fussman · 2014 · Cited by 25 — Laser dwell times for varyi...</span></span></span>
+Military analyses of high-energy [lasers]({{ 'lasers/' | relative_url }}) frequently emphasise that atmospheric extinction affects lethality disproportionately. A reduction in delivered power can force much longer dwell times—the period the beam must remain precisely on one point. As atmospheric losses increase, required dwell times can grow rapidly and eventually become operationally impractical.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://upload.wikimedia.org/wikipedia/commons/1/16/High_energy_laser_propagation_in_various_atmospheric_conditions_utilizing_a_new%2C_accelerated_scaling_code_%28IA_highenergylaserp1094542628%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsHigh energy laser propagation in various atmospheric...by CR Fussman · 2014 · Cited by 25 — Laser dwell times for varyi...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_fog_laser_ran_e9f3f6-Illustration-2-dark.svg" | relative_url }}" alt="Fog Range illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_fog_laser_ran_e9f3f6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_fog_laser_ran_e9f3f6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Wavelength Changes in Fog
 
-Laser designers often try to improve atmospheric performance by selecting wavelengths that experience lower losses. This approach works to a degree, but fog remains difficult because droplet scattering can dominate propagation losses across a broad range of commonly used wavelengths. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2076-3417/9/14/2843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Light Transmission in Fog: The Influence of Wavelength on...by P Duthon · 2019 · Cited by 80 — A theoretical approach by calculating...</span></span></span>
+Laser designers often try to improve atmospheric performance by selecting wavelengths that experience lower losses. This approach works to a degree, but fog remains difficult because droplet scattering can dominate propagation losses across a broad range of commonly used wavelengths.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2076-3417/9/14/2843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Light Transmission in Fog: The Influence of Wavelength on...by P Duthon · 2019 · Cited by 80 — A theoretical approach by calculating...</span></span></span>
 
-Research has shown that wavelength effects in dense fog are more complicated than the simple rule that "longer wavelengths penetrate better". Some measurements and modelling indicate relatively small differences between certain near-infrared wavelengths in fog, while other studies show that attenuation can remain severe or even increase across parts of the infrared spectrum depending on droplet characteristics and fog structure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ece.mcmaster.ca/~hranilovic/woc/resources/local/spie2000b.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ece.mcmaster.ca">[ece.mcmaster.ca+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ece.mcmaster.ca</span><span class="citation-popover-snippet">Comparison of laser beam propagation at 785 nm and...by II Kim · Cited by 1438 — It is more significant to say that these calculations s...</span></span></span>
+Research has shown that wavelength effects in dense fog are more complicated than the simple rule that "longer wavelengths penetrate better". Some measurements and modelling indicate relatively small differences between certain near-infrared wavelengths in fog, while other studies show that attenuation can remain severe or even increase across parts of the infrared spectrum depending on droplet characteristics and fog structure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ece.mcmaster.ca/~hranilovic/woc/resources/local/spie2000b.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ece.mcmaster.ca">[ece.mcmaster.ca+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ece.mcmaster.ca</span><span class="citation-popover-snippet">Comparison of laser beam propagation at 785 nm and...by II Kim · Cited by 1438 — It is more significant to say that these calculations s...</span></span></span>
 
-This means wavelength selection can improve performance at the margins, but it cannot eliminate the underlying problem. Fog is fundamentally a collection of water droplets large enough to scatter substantial amounts of laser energy regardless of careful wavelength choice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10546-021-00675-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Microphysics and Optical Attenuation in Fog</span><span class="citation-popover-snippet">Microphysics and Optical Attenuation in Fog - Springer Natureby Q Wang · 2021 · Cited by 17 — For fog/mist conditions, the main a...</span></span></span>
+This means wavelength selection can improve performance at the margins, but it cannot eliminate the underlying problem. Fog is fundamentally a collection of water droplets large enough to scatter substantial amounts of laser energy regardless of careful wavelength choice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10546-021-00675-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Microphysics and Optical Attenuation in Fog</span><span class="citation-popover-snippet">Microphysics and Optical Attenuation in Fog - Springer Natureby Q Wang · 2021 · Cited by 17 — For fog/mist conditions, the main a...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Fd7vm-YZqXY" title="Exploring Directed Energy Weapons and the Implications of Their Use Under International Law ⚡🌐⚖" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Fd7vm-YZqXY" target="_blank" rel="noopener noreferrer">Exploring Directed Energy Weapons and the Implications of Their Use Under International Law ⚡🌐⚖</a></p><p class="youtube-embed-meta">Channel: United Nations Institute for Disarmament Research</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Fd7vm-YZqXY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Fd7vm-YZqXY">Open on YouTube</a></p></div></div></div>
@@ -338,199 +338,199 @@ This means wavelength selection can improve performance at the margins, but it c
 
 The practical consequence of fog is a shrinking engagement envelope.
 
-As range increases, the beam encounters more droplets. Every additional metre of fog increases cumulative scattering and absorption. The relationship is often unforgiving: a target twice as far away may experience substantially more attenuation because the beam has traversed a longer path through the obscuring medium. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spiedigitallibrary.org/proceedings/Download?downloadType=proceedings+article&amp;isResultClick=True&amp;urlId=10.1117%2F12.2245030" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spiedigitallibrary.org">[SPIE Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spiedigitallibrary.org</span><span class="citation-popover-title">The laser transmittance is 40% in the 100m</span><span class="citation-popover-snippet">SPIE Digital LibraryAnalysis research on transmitting and attenuating...In this paper, the influence of fog visibility of laser attenuat...</span></span></span>
+As range increases, the beam encounters more droplets. Every additional metre of fog increases cumulative scattering and absorption. The relationship is often unforgiving: a target twice as far away may experience substantially more attenuation because the beam has traversed a longer path through the obscuring medium.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spiedigitallibrary.org/proceedings/Download?downloadType=proceedings+article&amp;isResultClick=True&amp;urlId=10.1117%2F12.2245030" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spiedigitallibrary.org">[SPIE Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spiedigitallibrary.org</span><span class="citation-popover-title">The laser transmittance is 40% in the 100m</span><span class="citation-popover-snippet">SPIE Digital LibraryAnalysis research on transmitting and attenuating...In this paper, the influence of fog visibility of laser attenuat...</span></span></span>
 
-At the same time, the laser must maintain damaging energy on the target for a longer period. If atmospheric losses reduce the power arriving at the target, the dwell time required to achieve damage rises. Modelling of high-energy laser engagements shows that worsening visibility conditions can dramatically increase required dwell times and reduce viable engagement distances. Eventually, the target may move, manoeuvre, rotate, or leave the engagement window before sufficient heating occurs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://upload.wikimedia.org/wikipedia/commons/1/16/High_energy_laser_propagation_in_various_atmospheric_conditions_utilizing_a_new%2C_accelerated_scaling_code_%28IA_highenergylaserp1094542628%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsHigh energy laser propagation in various atmospheric...by CR Fussman · 2014 · Cited by 25 — Laser dwell times for varyi...</span></span></span>
+At the same time, the laser must maintain damaging energy on the target for a longer period. If atmospheric losses reduce the power arriving at the target, the dwell time required to achieve damage rises. Modelling of high-energy laser engagements shows that worsening visibility conditions can dramatically increase required dwell times and reduce viable engagement distances. Eventually, the target may move, manoeuvre, rotate, or leave the engagement window before sufficient heating occurs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://upload.wikimedia.org/wikipedia/commons/1/16/High_energy_laser_propagation_in_various_atmospheric_conditions_utilizing_a_new%2C_accelerated_scaling_code_%28IA_highenergylaserp1094542628%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsHigh energy laser propagation in various atmospheric...by CR Fussman · 2014 · Cited by 25 — Laser dwell times for varyi...</span></span></span>
 
-This is why laser range in fog cannot be described by a single fixed number. The useful range depends on fog density, target vulnerability, beam power, wavelength, and the amount of time available to keep the beam on the target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2Elib DLR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">Science &amp; Tech Spotlight: Directed Energy Weapons</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy WeaponsMay 25, 2023 — Directed energy weapons—such as lasers—use energy fired at the speed o...</span><span class="citation-popover-meta">Published: May 25, 2023</span></span></span>
+This is why laser range in fog cannot be described by a single fixed number. The useful range depends on fog density, target vulnerability, beam power, wavelength, and the amount of time available to keep the beam on the target.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2Elib DLR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">Science &amp; Tech Spotlight: Directed Energy Weapons</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy WeaponsMay 25, 2023 — Directed energy weapons—such as lasers—use energy fired at the speed o...</span><span class="citation-popover-meta">Published: May 25, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_fog_laser_ran_e9f3f6-Illustration-3-dark.svg" | relative_url }}" alt="Fog Range illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_fog_laser_ran_e9f3f6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_fog_laser_ran_e9f3f6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Can Technology Overcome the Problem?
 
-Modern laser programmes use [adaptive optics]({{ 'adaptive-optics/' | relative_url }}), beam-control techniques, atmospheric sensing, and wavelength optimisation to improve performance under degraded conditions. Military developers have repeatedly argued that lasers are not rendered completely useless by fog, rain, or dust. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.army.mil/article/195650/army_developing_lasers_that_pierce_fog_dust_to_destroy_targets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: army.mil">[Army+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">army.mil</span><span class="citation-popover-title">developing lasers that pierce fog dust to destroy targets</span><span class="citation-popover-snippet">Army developing lasers that pierce fog, dust to destroy targets23 Oct 2017 — A lot of people think that high-energy lasers, or HELs...</span></span></span>
+Modern laser programmes use [adaptive optics]({{ 'adaptive-optics/' | relative_url }}), beam-control techniques, atmospheric sensing, and wavelength optimisation to improve performance under degraded conditions. Military developers have repeatedly argued that lasers are not rendered completely useless by fog, rain, or dust.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.army.mil/article/195650/army_developing_lasers_that_pierce_fog_dust_to_destroy_targets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: army.mil">[Army+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">army.mil</span><span class="citation-popover-title">developing lasers that pierce fog dust to destroy targets</span><span class="citation-popover-snippet">Army developing lasers that pierce fog, dust to destroy targets23 Oct 2017 — A lot of people think that high-energy lasers, or HELs...</span></span></span>
 
-However, these technologies mainly reduce penalties rather than remove them. Atmospheric attenuation remains a fundamental propagation challenge for directed-energy systems. Recent research has even explored exotic approaches such as using ultrashort laser pulses to clear channels through fog by physically disrupting droplets, illustrating how significant the fog problem remains. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1612.08276" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv High repetition rate ultrashort laser cuts a path through fog</span><span class="citation-popover-snippet">High repetition rate ultrashort laser cuts a path through fogDecember 25, 2016...</span><span class="citation-popover-meta">Published: December 25, 2016</span></span></span>
+However, these technologies mainly reduce penalties rather than remove them. Atmospheric attenuation remains a fundamental propagation challenge for directed-energy systems. Recent research has even explored exotic approaches such as using ultrashort laser pulses to clear channels through fog by physically disrupting droplets, illustrating how significant the fog problem remains.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1612.08276" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv High repetition rate ultrashort laser cuts a path through fog</span><span class="citation-popover-snippet">High repetition rate ultrashort laser cuts a path through fogDecember 25, 2016...</span><span class="citation-popover-meta">Published: December 25, 2016</span></span></span>
 
-The key point is that fog does not have to stop a laser completely to defeat it operationally. If enough energy is scattered or absorbed that the target cannot be damaged within the required range and time, the weapon's effective reach has already been shortened. That makes fog one of the most important atmospheric limits on high-energy laser weapons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10546-021-00675-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer+2GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Microphysics and Optical Attenuation in Fog</span><span class="citation-popover-snippet">Microphysics and Optical Attenuation in Fog - Springer Natureby Q Wang · 2021 · Cited by 17 — For fog/mist conditions, the main a...</span></span></span>
+The key point is that fog does not have to stop a laser completely to defeat it operationally. If enough energy is scattered or absorbed that the target cannot be damaged within the required range and time, the weapon's effective reach has already been shortened. That makes fog one of the most important atmospheric limits on high-energy laser weapons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10546-021-00675-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer+2GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Microphysics and Optical Attenuation in Fog</span><span class="citation-popover-snippet">Microphysics and Optical Attenuation in Fog - Springer Natureby Q Wang · 2021 · Cited by 17 — For fog/mist conditions, the main a...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/knCuGgPkZ-4" title="Laser Weapons Are Becoming Reality Faster Than You Think" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=knCuGgPkZ-4" target="_blank" rel="noopener noreferrer">Laser Weapons Are Becoming Reality Faster Than You Think</a></p><p class="youtube-embed-meta">Channel: The Buzz</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=knCuGgPkZ-4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=knCuGgPkZ-4">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Fog Can Beat a Laser Beam. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Fog Can Beat a Laser Beam. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to adaptive optics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8312561-M.jpg" alt="Cover for Introduction to adaptive optics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to adaptive optics">Introduction to adaptive optics</a>
-        </h4>
-        <p class="fr-book-author">By Robert K. Tyson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to adaptive optics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8312561-M.jpg" alt="Cover for Introduction to adaptive optics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to adaptive optics">Introduction to adaptive optics</a>
+</h4>
+<p class="fr-book-author">By Robert K. Tyson</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Adaptive Optics, Optical detectors, Optical instruments, Optical measurements, Optics, Adaptive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Adaptive Optics, Optical detectors, Optical instruments, Optical measurements, Optics, Adaptive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Photonics, 2 Volume Set on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13839810-M.jpg" alt="Cover for Fundamentals of Photonics, 2 Volume Set" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Photonics, 2 Volume Set">Fundamentals of Photonics, 2 Volume Set</a>
-        </h4>
-        <p class="fr-book-author">By Bahaa E. A. Saleh, Malvin Carl Teich</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Photonics, 2 Volume Set on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13839810-M.jpg" alt="Cover for Fundamentals of Photonics, 2 Volume Set" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Photonics, 2 Volume Set">Fundamentals of Photonics, 2 Volume Set</a>
+</h4>
+<p class="fr-book-author">By Bahaa E. A. Saleh, Malvin Carl Teich</p>
         
-        <p class="fr-book-desc">First published 2019. Subjects: Photonics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019. Subjects: Photonics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
-        </h4>
-        <p class="fr-book-author">By Bahman Zohuri</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
+</h4>
+<p class="fr-book-author">By Bahman Zohuri</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media+Larry+C.+Andrews+and+Ronald+L.+Phillips&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Laser Beam Propagation through Random Media on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media+Larry+C.+Andrews+and+Ronald+L.+Phillips&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser Beam Propagation through Random Media">Laser Beam Propagation through Random Media</a>
-        </h4>
-        <p class="fr-book-author">By Larry C. Andrews and Ronald L. Phillips</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media+Larry+C.+Andrews+and+Ronald+L.+Phillips&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Laser Beam Propagation through Random Media on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media+Larry+C.+Andrews+and+Ronald+L.+Phillips&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser Beam Propagation through Random Media">Laser Beam Propagation through Random Media</a>
+</h4>
+<p class="fr-book-author">By Larry C. Andrews and Ronald L. Phillips</p>
         
-        <p class="fr-book-desc">Directly addresses how atmospheric conditions degrade laser performance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media+Larry+C.+Andrews+and+Ronald+L.+Phillips&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how atmospheric conditions degrade laser performance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media+Larry+C.+Andrews+and+Ronald+L.+Phillips&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+adaptive+optics+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to adaptive optics books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of Photonics, 2 Volume Set</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed Energy Weapons</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+adaptive+optics+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to adaptive optics books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of Photonics, 2 Volume Set</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed Energy Weapons</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tactical Backpack 15L Multicam Laser Cut MOLLE Ukraine Military army Cordura"><img src="{{ '/assets/images/marketplace-covers/179b534c30a079c11d6a.jpg' | relative_url }}" alt="Listing image for Tactical Backpack 15L Multicam Laser Cut MOLLE Ukraine Military army Cordura" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer">Tactical Backpack 15L Multicam Laser Cut MOLLE Ukraine Military army Cordura</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser system patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military laser system patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tactical Backpack 15L Multicam Laser Cut MOLLE Ukraine Military army Cordura"><img src="{{ '/assets/images/marketplace-covers/179b534c30a079c11d6a.jpg' | relative_url }}" alt="Listing image for Tactical Backpack 15L Multicam Laser Cut MOLLE Ukraine Military army Cordura" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer">Tactical Backpack 15L Multicam Laser Cut MOLLE Ukraine Military army Cordura</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser system patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: military laser system patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF BOEING YAL-1 ABL AIRBORNE LASER TESTBED WEAPONS SYSTEM PROGRAM PATCH"><img src="{{ '/assets/images/marketplace-covers/1726e259d1034fdadf64.jpg' | relative_url }}" alt="Listing image for USAF BOEING YAL-1 ABL AIRBORNE LASER TESTBED WEAPONS SYSTEM PROGRAM PATCH" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer">USAF BOEING YAL-1 ABL AIRBORNE LASER TESTBED WEAPONS SYSTEM PROGRAM PATCH</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser system patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military laser system patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF BOEING YAL-1 ABL AIRBORNE LASER TESTBED WEAPONS SYSTEM PROGRAM PATCH"><img src="{{ '/assets/images/marketplace-covers/1726e259d1034fdadf64.jpg' | relative_url }}" alt="Listing image for USAF BOEING YAL-1 ABL AIRBORNE LASER TESTBED WEAPONS SYSTEM PROGRAM PATCH" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer">USAF BOEING YAL-1 ABL AIRBORNE LASER TESTBED WEAPONS SYSTEM PROGRAM PATCH</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser system patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: military laser system patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY AIRBORNE LASER MINE DETECTION SYSTEM AN/AES-1 Staff Polo Shirt Medium"><img src="{{ '/assets/images/marketplace-covers/cb65298d2d953b6fd381.jpg' | relative_url }}" alt="Listing image for US NAVY AIRBORNE LASER MINE DETECTION SYSTEM AN/AES-1 Staff Polo Shirt Medium" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer">US NAVY AIRBORNE LASER MINE DETECTION SYSTEM AN/AES-1 Staff Polo Shirt Medium</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser system patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military laser system patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY AIRBORNE LASER MINE DETECTION SYSTEM AN/AES-1 Staff Polo Shirt Medium"><img src="{{ '/assets/images/marketplace-covers/cb65298d2d953b6fd381.jpg' | relative_url }}" alt="Listing image for US NAVY AIRBORNE LASER MINE DETECTION SYSTEM AN/AES-1 Staff Polo Shirt Medium" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer">US NAVY AIRBORNE LASER MINE DETECTION SYSTEM AN/AES-1 Staff Polo Shirt Medium</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser system patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: military laser system patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="fog-range-why-fog-can-beat-a-laser-beam-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -546,7 +546,7 @@ The key point is that fog does not have to stop a laser completely to defeat it 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -566,7 +566,7 @@ The key point is that fog does not have to stop a laser completely to defeat it 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -598,7 +598,7 @@ The key point is that fog does not have to stop a laser completely to defeat it 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -650,7 +650,7 @@ The key point is that fog does not have to stop a laser completely to defeat it 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -695,7 +695,7 @@ The key point is that fog does not have to stop a laser completely to defeat it 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -736,173 +736,173 @@ The key point is that fog does not have to stop a laser completely to defeat it 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: link.springer.com  
    Title: Microphysics and Optical Attenuation in Fog  
-   Link: <a href="https://link.springer.com/article/10.1007/s10546-021-00675-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10546-021-00675-5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Microphysics and Optical Attenuation in Fog - Springer Natureby Q Wang · 2021 · Cited by 17 — For fog/mist conditions, the main a...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s10546-021-00675-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10546-021-00675-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Microphysics and Optical Attenuation in Fog - Springer Natureby Q Wang · 2021 · Cited by 17 — For fog/mist conditions, the main a...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gao.gov  
    Title: Science & Tech Spotlight: Directed Energy Weapons  
-   Link: <a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy WeaponsMay 25, 2023 — Directed energy weapons—such as lasers—use energy fired at the speed o...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy WeaponsMay 25, 2023 — Directed energy weapons—such as lasers—use energy fired at the speed o...</p></details>
    Published: May 25, 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cpb.iphy.ac.cn  
    Title: download Article File.do  
-   Link: <a href="https://cpb.iphy.ac.cn/EN/article/downloadArticleFile.do?attachType=PDF&amp;id=123597" target="_blank" rel="noopener noreferrer nofollow">https://cpb.iphy.ac.cn/EN/article/downloadArticleFile.do?attachType=PDF&amp;id=123597</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chinese Physics BMultiple scattering and modeling of laser in fogby JY Xue · 2021 · Cited by 16 — When a laser is transmitted in fog, and...</p></details>
+   Link:<a href="https://cpb.iphy.ac.cn/EN/article/downloadArticleFile.do?attachType=PDF&amp;id=123597" target="_blank" rel="noopener noreferrer nofollow">https://cpb.iphy.ac.cn/EN/article/downloadArticleFile.do?attachType=PDF&amp;id=123597</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chinese Physics BMultiple scattering and modeling of laser in fogby JY Xue · 2021 · Cited by 16 — When a laser is transmitted in fog, and...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: acp.copernicus.org  
-   Link: <a href="https://acp.copernicus.org/articles/15/6605/2015/acp-15-6605-2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://acp.copernicus.org/articles/15/6605/2015/acp-15-6605-2015.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>extinction of visible radiation due to hydrated...by T Elias · 2015 · Cited by 44 — Aerosol particles and [fog droplets](&amp;#123;&amp;#123; &#x27;fog-droplets/&#x27; | relative_url &amp;#125;&amp;#125;) are responsible f...</p></details>
+   Link:<a href="https://acp.copernicus.org/articles/15/6605/2015/acp-15-6605-2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://acp.copernicus.org/articles/15/6605/2015/acp-15-6605-2015.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>extinction of visible radiation due to hydrated...by T Elias · 2015 · Cited by 44 — Aerosol particles and [fog droplets](&amp;#123;&amp;#123; &#x27;fog-droplets/&#x27; | relative_url &amp;#125;&amp;#125;) are responsible f...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: elib.dlr.de  
-   Link: <a href="https://elib.dlr.de/201517/1/ao-62-27-7127.pdf" target="_blank" rel="noopener noreferrer nofollow">https://elib.dlr.de/201517/1/ao-62-27-7127.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Extinction of high-power laser radiation under adverse...by A Peckhaus · 2023 · Cited by 3 — The propagation of laser radiation...</p></details>
+   Link:<a href="https://elib.dlr.de/201517/1/ao-62-27-7127.pdf" target="_blank" rel="noopener noreferrer nofollow">https://elib.dlr.de/201517/1/ao-62-27-7127.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extinction of high-power laser radiation under adverse...by A Peckhaus · 2023 · Cited by 3 — The propagation of laser radiation...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) The Multiple Scattering of Laser Beam Propagation  
-   Link: <a href="https://www.researchgate.net/publication/367037857_The_Multiple_Scattering_of_Laser_Beam_Propagation_in_Advection_Fog_and_Radiation_Fog" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367037857_The_Multiple_Scattering_of_Laser_Beam_Propagation_in_Advection_Fog_and_Radiation_Fog</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) The Multiple Scattering of Laser Beam Propagation...January 10, 2023 — The laser beams were scattered and attenuated w...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/367037857_The_Multiple_Scattering_of_Laser_Beam_Propagation_in_Advection_Fog_and_Radiation_Fog" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367037857_The_Multiple_Scattering_of_Laser_Beam_Propagation_in_Advection_Fog_and_Radiation_Fog</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) The Multiple Scattering of Laser Beam Propagation...January 10, 2023 — The laser beams were scattered and attenuated w...</p></details>
    Published: January 10, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: upload.wikimedia.org  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/1/16/High_energy_laser_propagation_in_various_atmospheric_conditions_utilizing_a_new%2C_accelerated_scaling_code_%28IA_highenergylaserp1094542628%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/1/16/High_energy_laser_propagation_in_various_atmospheric_conditions_utilizing_a_new%2C_accelerated_scaling_code_%28IA_highenergylaserp1094542628%29.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsHigh energy laser propagation in various atmospheric...by CR Fussman · 2014 · Cited by 25 — Laser dwell times for varyi...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/1/16/High_energy_laser_propagation_in_various_atmospheric_conditions_utilizing_a_new%2C_accelerated_scaling_code_%28IA_highenergylaserp1094542628%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/1/16/High_energy_laser_propagation_in_various_atmospheric_conditions_utilizing_a_new%2C_accelerated_scaling_code_%28IA_highenergylaserp1094542628%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsHigh energy laser propagation in various atmospheric...by CR Fussman · 2014 · Cited by 25 — Laser dwell times for varyi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2076-3417/9/14/2843" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-3417/9/14/2843</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Light Transmission in Fog: The Influence of Wavelength on...by P Duthon · 2019 · Cited by 80 — A theoretical approach by calculating...</p></details>
+   Link:<a href="https://www.mdpi.com/2076-3417/9/14/2843" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-3417/9/14/2843</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Light Transmission in Fog: The Influence of Wavelength on...by P Duthon · 2019 · Cited by 80 — A theoretical approach by calculating...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ece.mcmaster.ca  
-   Link: <a href="https://www.ece.mcmaster.ca/~hranilovic/woc/resources/local/spie2000b.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ece.mcmaster.ca/~hranilovic/woc/resources/local/spie2000b.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Comparison of laser beam propagation at 785 nm and...by II Kim · Cited by 1438 — It is more significant to say that these calculations s...</p></details>
+   Link:<a href="https://www.ece.mcmaster.ca/~hranilovic/woc/resources/local/spie2000b.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ece.mcmaster.ca/~hranilovic/woc/resources/local/spie2000b.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comparison of laser beam propagation at 785 nm and...by II Kim · Cited by 1438 — It is more significant to say that these calculations s...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/259275472_Wavelength_and_altitude_dependence_of_laser_beam_propagation_in_dense_fog" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259275472_Wavelength_and_altitude_dependence_of_laser_beam_propagation_in_dense_fog</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Wavelength and altitude dependence of laser beam...13 Jan 2015 — Our results show that an atmospheric attenuation in such fogs sli...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/259275472_Wavelength_and_altitude_dependence_of_laser_beam_propagation_in_dense_fog" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259275472_Wavelength_and_altitude_dependence_of_laser_beam_propagation_in_dense_fog</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Wavelength and altitude dependence of laser beam...13 Jan 2015 — Our results show that an atmospheric attenuation in such fogs sli...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: army.mil  
    Title: developing lasers that pierce fog dust to destroy targets  
-   Link: <a href="https://www.army.mil/article/195650/army_developing_lasers_that_pierce_fog_dust_to_destroy_targets" target="_blank" rel="noopener noreferrer nofollow">https://www.army.mil/article/195650/army_developing_lasers_that_pierce_fog_dust_to_destroy_targets</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Army developing lasers that pierce fog, dust to destroy targets23 Oct 2017 — A lot of people think that high-energy lasers, or HELs...</p></details>
+   Link:<a href="https://www.army.mil/article/195650/army_developing_lasers_that_pierce_fog_dust_to_destroy_targets" target="_blank" rel="noopener noreferrer nofollow">https://www.army.mil/article/195650/army_developing_lasers_that_pierce_fog_dust_to_destroy_targets</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Army developing lasers that pierce fog, dust to destroy targets23 Oct 2017 — A lot of people think that high-energy lasers, or HELs...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mitigated through feedback from wavefront and atmospheric sensors to the adaptive...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mitigated through feedback from wavefront and atmospheric sensors to the adaptive...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
    Title: arXiv High repetition rate ultrashort laser cuts a path through fog  
-   Link: <a href="https://arxiv.org/abs/1612.08276" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1612.08276</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>High repetition rate ultrashort laser cuts a path through fogDecember 25, 2016...</p></details>
+   Link:<a href="https://arxiv.org/abs/1612.08276" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1612.08276</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High repetition rate ultrashort laser cuts a path through fogDecember 25, 2016...</p></details>
    Published: December 25, 2016  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: arxiv.org  
    Title: arXiv Atmospheric aerosol clearing by femtosecond filaments  
-   Link: <a href="https://arxiv.org/abs/2203.00196" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2203.00196</a>  
+   Link:<a href="https://arxiv.org/abs/2203.00196" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2203.00196</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: arxiv.org  
    Title: arXiv Free space laser telecommunication through fog  
-   Link: <a href="https://arxiv.org/abs/1810.09800" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1810.09800</a>  
+   Link:<a href="https://arxiv.org/abs/1810.09800" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1810.09800</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/307435846_Atmospheric_Propagation_of_High-Energy_Laser_Beams" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/307435846_Atmospheric_Propagation_of_High-Energy_Laser_Beams</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Atmospheric Propagation of High-Energy Laser BeamsLaser sources are widely used for exploring the [atmosphere](&amp;#123;&amp;#123; &#x27;atmosphere/&#x27; | relative_url &amp;#125;&amp;#125;), in particular, its ga...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/307435846_Atmospheric_Propagation_of_High-Energy_Laser_Beams" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/307435846_Atmospheric_Propagation_of_High-Energy_Laser_Beams</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Atmospheric Propagation of High-Energy Laser BeamsLaser sources are widely used for exploring the [atmosphere](&amp;#123;&amp;#123; &#x27;atmosphere/&#x27; | relative_url &amp;#125;&amp;#125;), in particular, its ga...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: spiedigitallibrary.org  
    Title: The laser transmittance is 40% in the 100m  
-   Link: <a href="https://www.spiedigitallibrary.org/proceedings/Download?downloadType=proceedings+article&amp;isResultClick=True&amp;urlId=10.1117%2F12.2245030" target="_blank" rel="noopener noreferrer nofollow">https://www.spiedigitallibrary.org/proceedings/Download?downloadType=proceedings+article&amp;isResultClick=True&amp;urlId=10.1117%2F12.2245030</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SPIE Digital LibraryAnalysis research on transmitting and attenuating...In this paper, the influence of fog visibility of laser attenuat...</p></details>
+   Link:<a href="https://www.spiedigitallibrary.org/proceedings/Download?downloadType=proceedings+article&amp;isResultClick=True&amp;urlId=10.1117%2F12.2245030" target="_blank" rel="noopener noreferrer nofollow">https://www.spiedigitallibrary.org/proceedings/Download?downloadType=proceedings+article&amp;isResultClick=True&amp;urlId=10.1117%2F12.2245030</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SPIE Digital LibraryAnalysis research on transmitting and attenuating...In this paper, the influence of fog visibility of laser attenuat...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: topex.ucsd.edu  
    Title: For visible light, water vapor, dust, and other particles  
-   Link: <a href="https://topex.ucsd.edu/rs/Lec07.pdf" target="_blank" rel="noopener noreferrer nofollow">https://topex.ucsd.edu/rs/Lec07.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lecture 7: Propagation, Dispersion and Scatteringby HA Fricker · Cited by 3 — Mie scattering takes place when there are essentially...</p></details>
+   Link:<a href="https://topex.ucsd.edu/rs/Lec07.pdf" target="_blank" rel="noopener noreferrer nofollow">https://topex.ucsd.edu/rs/Lec07.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lecture 7: Propagation, Dispersion and Scatteringby HA Fricker · Cited by 3 — Mie scattering takes place when there are essentially...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Laser weapon  
-   Link: <a href="https://en.wikipedia.org/wiki/Laser_weapon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Laser_weapon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser weaponA laser weapon is a type of directed-energy weapon (DEW) that uses lasers to inflict damage. Laser weapons are of two type...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Laser_weapon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Laser_weapon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser weaponA laser weapon is a type of directed-energy weapon (DEW) that uses lasers to inflict damage. Laser weapons are of two type...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: spiedigitallibrary.org  
-   Link: <a href="https://www.spiedigitallibrary.org/proceedings/Download?downloadType=proceedings+article&amp;isResultClick=True&amp;urlId=10.1117%2F12.2037779" target="_blank" rel="noopener noreferrer nofollow">https://www.spiedigitallibrary.org/proceedings/Download?downloadType=proceedings+article&amp;isResultClick=True&amp;urlId=10.1117%2F12.2037779</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>olecules and salt, especially in adverse weather conditions, such as fog, rain...</p></details>
+   Link:<a href="https://www.spiedigitallibrary.org/proceedings/Download?downloadType=proceedings+article&amp;isResultClick=True&amp;urlId=10.1117%2F12.2037779" target="_blank" rel="noopener noreferrer nofollow">https://www.spiedigitallibrary.org/proceedings/Download?downloadType=proceedings+article&amp;isResultClick=True&amp;urlId=10.1117%2F12.2037779</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>olecules and salt, especially in adverse weather conditions, such as fog, rain...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: eureka.patsnap.com  
    Title: report atmospheric effects on long range [laser power](&#123;&#123; 'power-costs/' | relative_url &#125;&#125;) transmission  
-   Link: <a href="https://eureka.patsnap.com/report-atmospheric-effects-on-long-range-laser-power-transmission" target="_blank" rel="noopener noreferrer nofollow">https://eureka.patsnap.com/report-atmospheric-effects-on-long-range-laser-power-transmission</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects On Long-Range Laser Power...28 Aug 2025 — Weather conditions dramatically affect transmission efficiency, with fog, rain, snow...</p></details>
+   Link:<a href="https://eureka.patsnap.com/report-atmospheric-effects-on-long-range-laser-power-transmission" target="_blank" rel="noopener noreferrer nofollow">https://eureka.patsnap.com/report-atmospheric-effects-on-long-range-laser-power-transmission</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects On Long-Range Laser Power...28 Aug 2025 — Weather conditions dramatically affect transmission efficiency, with fog, rain, snow...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: c4isrnet.com  
    Title: cloudy and a chance of rain need not sideline high energy lasers  
-   Link: <a href="https://www.c4isrnet.com/opinion/2018/02/26/cloudy-and-a-chance-of-rain-need-not-sideline-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow">https://www.c4isrnet.com/opinion/2018/02/26/cloudy-and-a-chance-of-rain-need-not-sideline-high-energy-lasers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cloudy and a chance of rain need not sideline high-energy...Feb 26, 2018 — As such, while certain effects of a laser weapon are negative...</p></details>
+   Link:<a href="https://www.c4isrnet.com/opinion/2018/02/26/cloudy-and-a-chance-of-rain-need-not-sideline-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow">https://www.c4isrnet.com/opinion/2018/02/26/cloudy-and-a-chance-of-rain-need-not-sideline-high-energy-lasers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cloudy and a chance of rain need not sideline high-energy...Feb 26, 2018 — As such, while certain effects of a laser weapon are negative...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: deps.org  
-   Link: <a href="https://www.deps.org/DEPSpages/JDE/JV2N4P6-Fiorino.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.deps.org/DEPSpages/JDE/JV2N4P6-Fiorino.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ible to the shortwave infrared, with the exceptions again of 1.31525 µm, which...Read more...</p></details>
+   Link:<a href="https://www.deps.org/DEPSpages/JDE/JV2N4P6-Fiorino.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.deps.org/DEPSpages/JDE/JV2N4P6-Fiorino.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ible to the shortwave infrared, with the exceptions again of 1.31525 µm, which...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: laserwars.net  
    Title: navy laser weapons challenges atmosphere fog  
-   Link: <a href="https://www.laserwars.net/p/navy-laser-weapons-challenges-atmosphere-fog" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/navy-laser-weapons-challenges-atmosphere-fog</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fog of War: The Biggest Challenge for Naval Laser Weapons22 May 2025 — Welcome to the literal fog of war, where high-energy lasers run fa...</p></details>
+   Link:<a href="https://www.laserwars.net/p/navy-laser-weapons-challenges-atmosphere-fog" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/navy-laser-weapons-challenges-atmosphere-fog</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fog of War: The Biggest Challenge for Naval Laser Weapons22 May 2025 — Welcome to the literal fog of war, where high-energy lasers run fa...</p></details>
    Published: May 2025  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ciaotest.cc.columbia.edu  
-   Link: <a href="https://ciaotest.cc.columbia.edu/olj/sa/sa_feb01ghc01.html" target="_blank" rel="noopener noreferrer nofollow">https://ciaotest.cc.columbia.edu/olj/sa/sa_feb01ghc01.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Energy Weaponsby CN Ghosh · Cited by 9 — Laser beam can get degraded if there is fog, cloud or rain but it does not affect the PBW...</p></details>
+   Link:<a href="https://ciaotest.cc.columbia.edu/olj/sa/sa_feb01ghc01.html" target="_blank" rel="noopener noreferrer nofollow">https://ciaotest.cc.columbia.edu/olj/sa/sa_feb01ghc01.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Energy Weaponsby CN Ghosh · Cited by 9 — Laser beam can get degraded if there is fog, cloud or rain but it does not affect the PBW...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: How Lasers Might Control the Weather: Real Science  
-   Link: <a href="https://www.youtube.com/watch?v=IyM6Ng4TP4c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IyM6Ng4TP4c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>【Photonics Innovation】How Lasers Might Control the Weather: Real Science - YouTube 【Photonics Innovation】How Lasers Might Control the Wea...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IyM6Ng4TP4c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IyM6Ng4TP4c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>【Photonics Innovation】How Lasers Might Control the Weather: Real Science - YouTube 【Photonics Innovation】How Lasers Might Control the Wea...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Fd7vm-YZqXY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fd7vm-YZqXY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ectromagnetic energy, and include lasers, high-powered [microwaves](&amp;#123;&amp;#123; &#x27;microwaves/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Fd7vm-YZqXY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fd7vm-YZqXY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ectromagnetic energy, and include lasers, high-powered [microwaves](&amp;#123;&amp;#123; &#x27;microwaves/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=FANfV27gD1E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FANfV27gD1E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Lasers Might Control the Weather: Real Science...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FANfV27gD1E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FANfV27gD1E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Lasers Might Control the Weather: Real Science...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Laser Weapons Are Becoming Reality Faster Than You Think  
-   Link: <a href="https://www.youtube.com/watch?v=knCuGgPkZ-4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=knCuGgPkZ-4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eurosatory Day 2: Laser Weapons Go Operational &amp; France Unveils B-Strike Missiles...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=knCuGgPkZ-4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=knCuGgPkZ-4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eurosatory Day 2: Laser Weapons Go Operational &amp; France Unveils B-Strike Missiles...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: defencesciencereview.com.pl  
    Title: pdf 216776 135052  
-   Link: <a href="https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-Directed-Ener.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-Directed-Ener.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFENCE SCIENCE REVIEWby A Karkadakattil · 2026 · Cited by 1 — This review aims to evaluate the current capabilities of laser- based Dire...</p></details>
+   Link:<a href="https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-Directed-Ener.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-Directed-Ener.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DEFENCE SCIENCE REVIEWby A Karkadakattil · 2026 · Cited by 1 — This review aims to evaluate the current capabilities of laser- based Dire...</p></details>

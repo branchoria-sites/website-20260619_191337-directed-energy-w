@@ -269,7 +269,7 @@ image: /assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_laser_layered_1c
 
 ## Introduction
 
-Drone saturation attacks are dangerous not simply because they place many aircraft in the sky at once, but because they force defenders into a resource-allocation problem. When dozens or hundreds of inexpensive drones arrive together, air-defence operators must decide which targets justify the use of finite interceptor missiles. If enough low-cost threats appear, missile inventories can be depleted before more dangerous [cruise missiles]({{ 'cruise-missiles/' | relative_url }}), ballistic missiles, or aircraft enter the battle. Recent conflicts have shown that saturation is often an economic and logistical strategy as much as a kinetic one. In that environment, the value of directed-energy weapons lies less in replacing missiles than in preventing [cheap drones]({{ 'missile-mismatch/' | relative_url }}) from consuming them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.csis.org/analysis/drone-saturation-russias-shahed-campaign" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-title">drone saturation russias shahed campaign</span><span class="citation-popover-snippet">Drone Saturation: Russia&#x27;s Shahed Campaign13 May 2025 — Russia&#x27;s drone campaign utilizes inexpensive Shahed drones to saturate Ukrain...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Drone saturation attacks are dangerous not simply because they place many aircraft in the sky at once, but because they force defenders into a resource-allocation problem. When dozens or hundreds of inexpensive drones arrive together, air-defence operators must decide which targets justify the use of finite interceptor missiles. If enough low-cost threats appear, missile inventories can be depleted before more dangerous [cruise missiles]({{ 'cruise-missiles/' | relative_url }}), ballistic missiles, or aircraft enter the battle. Recent conflicts have shown that saturation is often an economic and logistical strategy as much as a kinetic one. In that environment, the value of directed-energy weapons lies less in replacing missiles than in preventing [cheap drones]({{ 'missile-mismatch/' | relative_url }}) from consuming them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.csis.org/analysis/drone-saturation-russias-shahed-campaign" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-title">drone saturation russias shahed campaign</span><span class="citation-popover-snippet">Drone Saturation: Russia&#x27;s Shahed Campaign13 May 2025 — Russia&#x27;s drone campaign utilizes inexpensive Shahed drones to saturate Ukrain...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_laser_layered_1c45d0_drone_saturat_bcc120-Illustration-1-dark.svg" | relative_url }}" alt="Saturation illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_laser_layered_1c45d0_drone_saturat_bcc120-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_laser_layered_1c45d0_drone_saturat_bcc120-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -277,11 +277,11 @@ Drone saturation attacks are dangerous not simply because they place many aircra
 
 The basic imbalance is straightforward. Modern air-defence missiles are designed to defeat difficult targets under demanding conditions. They therefore require sophisticated seekers, propulsion systems, guidance electronics, and production chains. One-way attack drones, by contrast, can often be manufactured in large numbers at much lower cost.
 
-The problem is not merely financial. A missile fired today cannot be fired tomorrow. Production lines require time to replenish stocks, and wartime consumption can outpace manufacturing capacity. As a result, commanders increasingly view interceptor inventories as strategic assets rather than expendable supplies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.csis.org/analysis/depleting-missile-defense-interceptor-inventory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-title">depleting missile defense interceptor inventory</span><span class="citation-popover-snippet">The Depleting Missile Defense Interceptor InventoryDec 5, 2025 — Similarly, the Navy has learned a great deal from its engagements in...</span></span></span>
+The problem is not merely financial. A missile fired today cannot be fired tomorrow. Production lines require time to replenish stocks, and wartime consumption can outpace manufacturing capacity. As a result, commanders increasingly view interceptor inventories as strategic assets rather than expendable supplies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.csis.org/analysis/depleting-missile-defense-interceptor-inventory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-title">depleting missile defense interceptor inventory</span><span class="citation-popover-snippet">The Depleting Missile Defense Interceptor InventoryDec 5, 2025 — Similarly, the Navy has learned a great deal from its engagements in...</span></span></span>
 
-Russia's long-running Shahed campaign against Ukraine illustrates the point. The campaign has evolved toward persistent, large-scale drone raids intended to saturate defensive networks. According to CSIS, Russia significantly increased the volume of Shahed attacks, using inexpensive drones to pressure Ukrainian air defences and create a continuing demand for interception resources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.csis.org/analysis/drone-saturation-russias-shahed-campaign" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-title">drone saturation russias shahed campaign</span><span class="citation-popover-snippet">Drone Saturation: Russia&#x27;s Shahed Campaign13 May 2025 — Russia&#x27;s drone campaign utilizes inexpensive Shahed drones to saturate Ukrain...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Russia's long-running Shahed campaign against Ukraine illustrates the point. The campaign has evolved toward persistent, large-scale drone raids intended to saturate defensive networks. According to CSIS, Russia significantly increased the volume of Shahed attacks, using inexpensive drones to pressure Ukrainian air defences and create a continuing demand for interception resources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.csis.org/analysis/drone-saturation-russias-shahed-campaign" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-title">drone saturation russias shahed campaign</span><span class="citation-popover-snippet">Drone Saturation: Russia&#x27;s Shahed Campaign13 May 2025 — Russia&#x27;s drone campaign utilizes inexpensive Shahed drones to saturate Ukrain...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
-The scale of these attacks has continued to grow. Independent analysis of Ukrainian Air Force data found that Russia launched more than 8,000 Shahed-type drones in May 2026 alone, with average daily launch rates exceeding 250 UAVs. Such numbers matter because even highly capable air-defence systems face strain when forced to engage threats night after night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://isis-online.org/isis-reports/monthly-analysis-of-russian-shahed-136-deployment-against-ukraine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isis-online.org">[ISIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isis-online.org</span><span class="citation-popover-title">monthly analysis of russian shahed 136 deployment against ukraine</span><span class="citation-popover-snippet">ISISMonthly Analysis of Russian Shahed 136 Deployment...2 Jun 2026 — Russia launched a total of 8,161 Shahed-type UAVs an estimated 5,18...</span></span></span>
+The scale of these attacks has continued to grow. Independent analysis of Ukrainian Air Force data found that Russia launched more than 8,000 Shahed-type drones in May 2026 alone, with average daily launch rates exceeding 250 UAVs. Such numbers matter because even highly capable air-defence systems face strain when forced to engage threats night after night.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://isis-online.org/isis-reports/monthly-analysis-of-russian-shahed-136-deployment-against-ukraine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isis-online.org">[ISIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isis-online.org</span><span class="citation-popover-title">monthly analysis of russian shahed 136 deployment against ukraine</span><span class="citation-popover-snippet">ISISMonthly Analysis of Russian Shahed 136 Deployment...2 Jun 2026 — Russia launched a total of 8,161 Shahed-type UAVs an estimated 5,18...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5w_E9YByjI8" title="Operations in the Red Sea: Lessons for Surface Warfare" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5w_E9YByjI8" target="_blank" rel="noopener noreferrer">Operations in the Red Sea: Lessons for Surface Warfare</a></p><p class="youtube-embed-meta">Channel: Center for Strategic &amp; International Studies</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5w_E9YByjI8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5w_E9YByjI8">Open on YouTube</a></p></div></div></div>
@@ -304,9 +304,9 @@ Saturation attacks exploit that limitation. The attacker does not necessarily ne
 
 This dynamic is sometimes called salvo competition. Offensive systems compete against defensive magazines. The side that can sustain operations longer gains an advantage.
 
-Red Sea operations demonstrated how quickly this pressure can emerge. Defending forces repeatedly used sophisticated interceptors against incoming drones and missiles, leading analysts to examine whether existing stockpiles and production rates could support prolonged campaigns. CSIS and other defence analysts have highlighted growing concern over interceptor consumption and the need for larger inventories or cheaper defensive layers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.csis.org/analysis/cost-and-value-air-and-missile-defense-intercepts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[CSIS+2CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-snippet">Cost and Value in Air and Missile Defense Intercepts13 Feb 2024 — Multiple media outlets have, for instance, highlighted the U.S...</span></span></span>
+Red Sea operations demonstrated how quickly this pressure can emerge. Defending forces repeatedly used sophisticated interceptors against incoming drones and missiles, leading analysts to examine whether existing stockpiles and production rates could support prolonged campaigns. CSIS and other defence analysts have highlighted growing concern over interceptor consumption and the need for larger inventories or cheaper defensive layers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.csis.org/analysis/cost-and-value-air-and-missile-defense-intercepts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[CSIS+2CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-snippet">Cost and Value in Air and Missile Defense Intercepts13 Feb 2024 — Multiple media outlets have, for instance, highlighted the U.S...</span></span></span>
 
-Importantly, the issue is not simply that a missile may cost more than a drone. Defence analysts frequently caution that the [value protected]({{ 'value-protected/' | relative_url }}) by an interceptor—a ship, city, airbase, or critical infrastructure facility—can justify expensive engagements. The real challenge is that every successful interception still consumes a finite round from a limited magazine. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.csis.org/analysis/cost-and-value-air-and-missile-defense-intercepts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[CSIS+2JAPCC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-snippet">Cost and Value in Air and Missile Defense Intercepts13 Feb 2024 — Multiple media outlets have, for instance, highlighted the U.S...</span></span></span>
+Importantly, the issue is not simply that a missile may cost more than a drone. Defence analysts frequently caution that the [value protected]({{ 'value-protected/' | relative_url }}) by an interceptor—a ship, city, airbase, or critical infrastructure facility—can justify expensive engagements. The real challenge is that every successful interception still consumes a finite round from a limited magazine.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.csis.org/analysis/cost-and-value-air-and-missile-defense-intercepts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[CSIS+2JAPCC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-snippet">Cost and Value in Air and Missile Defense Intercepts13 Feb 2024 — Multiple media outlets have, for instance, highlighted the U.S...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_laser_layered_1c45d0_drone_saturat_bcc120-Illustration-2-dark.svg" | relative_url }}" alt="Saturation illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_laser_layered_1c45d0_drone_saturat_bcc120-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_laser_layered_1c45d0_drone_saturat_bcc120-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -316,9 +316,9 @@ The most worrying saturation scenarios involve mixed attack packages rather than
 
 In a layered strike, drones may arrive first to trigger radar activity, consume interceptor stocks, reveal defensive positions, and occupy command-and-control systems. More capable weapons can then follow. Even if the drones themselves cause limited damage, they may help create conditions for later attacks.
 
-This is why missile preservation has become a central planning concern. Air-defence commanders want confidence that high-end interceptors remain available when cruise missiles, ballistic missiles, or other difficult targets appear. If large drone raids repeatedly consume those interceptors, the defender's ability to respond to subsequent threats declines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.csis.org/analysis/drone-saturation-russias-shahed-campaign" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[CSIS+2CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-title">drone saturation russias shahed campaign</span><span class="citation-popover-snippet">Drone Saturation: Russia&#x27;s Shahed Campaign13 May 2025 — Russia&#x27;s drone campaign utilizes inexpensive Shahed drones to saturate Ukrain...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+This is why missile preservation has become a central planning concern. Air-defence commanders want confidence that high-end interceptors remain available when cruise missiles, ballistic missiles, or other difficult targets appear. If large drone raids repeatedly consume those interceptors, the defender's ability to respond to subsequent threats declines.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.csis.org/analysis/drone-saturation-russias-shahed-campaign" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[CSIS+2CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-title">drone saturation russias shahed campaign</span><span class="citation-popover-snippet">Drone Saturation: Russia&#x27;s Shahed Campaign13 May 2025 — Russia&#x27;s drone campaign utilizes inexpensive Shahed drones to saturate Ukrain...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
-The issue becomes especially acute during long campaigns. Gulf states responding to missile and drone attacks in 2026 reportedly consumed substantial numbers of long-range interceptors in a relatively short period, illustrating how sustained operations can pressure inventories even among well-equipped defenders. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iiss.org/online-analysis/online-analysis/2026/03/defending-the-skies-of-the-arab-gulf-states/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iiss.org">[IISS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iiss.org</span><span class="citation-popover-title">defending the skies of the arab gulf states</span><span class="citation-popover-snippet">Defending the skies of the Arab Gulf statesMar 18, 2026 — Since the beginning of the current war in Iran on 28 February, the Arab Gul...</span></span></span>
+The issue becomes especially acute during long campaigns. Gulf states responding to missile and drone attacks in 2026 reportedly consumed substantial numbers of long-range interceptors in a relatively short period, illustrating how sustained operations can pressure inventories even among well-equipped defenders.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iiss.org/online-analysis/online-analysis/2026/03/defending-the-skies-of-the-arab-gulf-states/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iiss.org">[IISS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iiss.org</span><span class="citation-popover-title">defending the skies of the arab gulf states</span><span class="citation-popover-snippet">Defending the skies of the Arab Gulf statesMar 18, 2026 — Since the beginning of the current war in Iran on 28 February, the Arab Gul...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQo9GG-n2BI" title="“Drone Saturation: Russia’s Shahed Campaign”: Audio Brief with Yasir Atalan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQo9GG-n2BI" target="_blank" rel="noopener noreferrer">“Drone Saturation: Russia’s Shahed Campaign”: Audio Brief with Yasir Atalan</a></p><p class="youtube-embed-meta">Channel: Center for Strategic &amp; International Studies</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQo9GG-n2BI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQo9GG-n2BI">Open on YouTube</a></p></div></div></div>
@@ -327,11 +327,11 @@ The issue becomes especially acute during long campaigns. Gulf states responding
 
 Directed-energy weapons are attractive in this context because they alter magazine economics.
 
-A laser does not eliminate every air-defence problem. Weather, atmospheric conditions, [line-of-sight]({{ 'dwell-time/' | relative_url }}) limitations, target manoeuvres, and power [generation]({{ 'generation-ii/' | relative_url }}) constraints all affect performance. Yet against suitable drone targets, a laser engagement does not require launching a physical interceptor. As long as sufficient electrical power and thermal management are available, the system can continue engaging targets without drawing down missile stocks. National Defense Magazine+2The Times of India <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationaldefensemagazine.org/articles/2025/8/11/government-perspective-directed-energy-in-air-base-defense-can-save-the-arsenal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationaldefensemagazine.org">[nationaldefensemagazine.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationaldefensemagazine.org</span><span class="citation-popover-title">government perspective directed energy in air base defense can save the arsenal</span><span class="citation-popover-snippet">National Defense MagazineDirected Energy in Air Base Defense Can Save the Arsenal11 Aug 2025 — Directed energy weapons, including high-en...</span></span></span>
+A laser does not eliminate every air-defence problem. Weather, atmospheric conditions, [line-of-sight]({{ 'dwell-time/' | relative_url }}) limitations, target manoeuvres, and power [generation]({{ 'generation-ii/' | relative_url }}) constraints all affect performance. Yet against suitable drone targets, a laser engagement does not require launching a physical interceptor. As long as sufficient electrical power and thermal management are available, the system can continue engaging targets without drawing down missile stocks. National Defense Magazine+2The Times of India<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationaldefensemagazine.org/articles/2025/8/11/government-perspective-directed-energy-in-air-base-defense-can-save-the-arsenal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationaldefensemagazine.org">[nationaldefensemagazine.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationaldefensemagazine.org</span><span class="citation-popover-title">government perspective directed energy in air base defense can save the arsenal</span><span class="citation-popover-snippet">National Defense MagazineDirected Energy in Air Base Defense Can Save the Arsenal11 Aug 2025 — Directed energy weapons, including high-en...</span></span></span>
 
 From a saturation perspective, this changes the defensive calculation. Instead of asking whether a low-cost drone deserves an expensive missile, defenders gain another option. Small drones can be assigned to a laser layer while missile batteries remain focused on threats that require kinetic interception.
 
-The effect is cumulative rather than dramatic. A laser that destroys even a fraction of incoming drones reduces pressure on missile magazines. Across repeated raids, preserving dozens or hundreds of interceptor rounds may matter more than any single engagement. This inventory-preservation function explains why many military discussions of directed-energy weapons focus on counter-drone missions rather than on replacing traditional missile defences outright. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationaldefensemagazine.org/articles/2025/8/11/government-perspective-directed-energy-in-air-base-defense-can-save-the-arsenal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationaldefensemagazine.org">[National Defense Magazine+2National Defense Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationaldefensemagazine.org</span><span class="citation-popover-title">government perspective directed energy in air base defense can save the arsenal</span><span class="citation-popover-snippet">National Defense MagazineDirected Energy in Air Base Defense Can Save the Arsenal11 Aug 2025 — Directed energy weapons, including high-en...</span></span></span>
+The effect is cumulative rather than dramatic. A laser that destroys even a fraction of incoming drones reduces pressure on missile magazines. Across repeated raids, preserving dozens or hundreds of interceptor rounds may matter more than any single engagement. This inventory-preservation function explains why many military discussions of directed-energy weapons focus on counter-drone missions rather than on replacing traditional missile defences outright.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationaldefensemagazine.org/articles/2025/8/11/government-perspective-directed-energy-in-air-base-defense-can-save-the-arsenal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationaldefensemagazine.org">[National Defense Magazine+2National Defense Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationaldefensemagazine.org</span><span class="citation-popover-title">government perspective directed energy in air base defense can save the arsenal</span><span class="citation-popover-snippet">National Defense MagazineDirected Energy in Air Base Defense Can Save the Arsenal11 Aug 2025 — Directed energy weapons, including high-en...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_laser_layered_1c45d0_drone_saturat_bcc120-Illustration-3-dark.svg" | relative_url }}" alt="Saturation illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_laser_layered_1c45d0_drone_saturat_bcc120-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_laser_layered_1c45d0_drone_saturat_bcc120-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -339,201 +339,201 @@ The effect is cumulative rather than dramatic. A laser that destroys even a frac
 
 The long-term significance of drone saturation attacks lies in what they reveal about modern air warfare. Attackers increasingly exploit quantity, persistence, and affordability to pressure defensive systems. Defenders, meanwhile, must manage not only immediate threats but also the endurance of their missile inventories.
 
-In that contest, the central question is often not whether a drone can be shot down. It is whether the defender can continue shooting down drones after weeks or months of sustained attacks. Saturation campaigns seek to turn air defence into a stockpile problem. Directed-energy weapons are being pursued because they offer a way to reduce that pressure, allowing missiles to remain in reserve for the threats that truly demand them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.csis.org/analysis/drone-saturation-russias-shahed-campaign" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[National Defense Magazine+3CSIS+3CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-title">drone saturation russias shahed campaign</span><span class="citation-popover-snippet">Drone Saturation: Russia&#x27;s Shahed Campaign13 May 2025 — Russia&#x27;s drone campaign utilizes inexpensive Shahed drones to saturate Ukrain...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+In that contest, the central question is often not whether a drone can be shot down. It is whether the defender can continue shooting down drones after weeks or months of sustained attacks. Saturation campaigns seek to turn air defence into a stockpile problem. Directed-energy weapons are being pursued because they offer a way to reduce that pressure, allowing missiles to remain in reserve for the threats that truly demand them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.csis.org/analysis/drone-saturation-russias-shahed-campaign" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[National Defense Magazine+3CSIS+3CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-title">drone saturation russias shahed campaign</span><span class="citation-popover-snippet">Drone Saturation: Russia&#x27;s Shahed Campaign13 May 2025 — Russia&#x27;s drone campaign utilizes inexpensive Shahed drones to saturate Ukrain...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H7de-qh0C-0" title="“Cost and Value in Air and Missile Defense Intercepts”: Audio Brief with Wes Rumbaugh" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H7de-qh0C-0" target="_blank" rel="noopener noreferrer">“Cost and Value in Air and Missile Defense Intercepts”: Audio Brief with Wes Rumbaugh</a></p><p class="youtube-embed-meta">Channel: Center for Strategic &amp; International Studies</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H7de-qh0C-0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H7de-qh0C-0">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Drone Raids Drain Missile Defenses. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Drone Raids Drain Missile Defenses. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warfare on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e2vnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warfare" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warfare">Drone Warfare</a>
-        </h4>
-        <p class="fr-book-author">By Medea Benjamin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warfare on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e2vnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warfare" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warfare">Drone Warfare</a>
+</h4>
+<p class="fr-book-author">By Medea Benjamin</p>
         
-        <p class="fr-book-desc">Provides accessible context on the rise of drones as a major military challenge.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides accessible context on the rise of drones as a major military challenge.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
-        </h4>
-        <p class="fr-book-author">By Paul Scharre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
+</h4>
+<p class="fr-book-author">By Paul Scharre</p>
         
-        <p class="fr-book-desc">Covers autonomy, swarming systems, and changing cost dynamics in modern conflict.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers autonomy, swarming systems, and changing cost dynamics in modern conflict.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Discusses missile inventories, networked warfare, and adapting to large-scale precision threats.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses missile inventories, networked warfare, and adapting to large-scale precision threats.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
-        </h4>
-        <p class="fr-book-author">By Bahman Zohuri</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
+</h4>
+<p class="fr-book-author">By Bahman Zohuri</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Warfare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Warfare</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Warfare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Warfare</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D Printed 1/72 Russian S-500 air defense missile system Unpainted Kit Model NEW"><img src="{{ '/assets/images/marketplace-covers/bee8c194f3ded8ff99bd.jpg' | relative_url }}" alt="Listing image for 3D Printed 1/72 Russian S-500 air defense missile system Unpainted Kit Model NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer">3D Printed 1/72 Russian S-500 air defense missile system Unpainted Kit Model NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense missile model">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense missile model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D Printed 1/72 Russian S-500 air defense missile system Unpainted Kit Model NEW"><img src="{{ '/assets/images/marketplace-covers/bee8c194f3ded8ff99bd.jpg' | relative_url }}" alt="Listing image for 3D Printed 1/72 Russian S-500 air defense missile system Unpainted Kit Model NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer">3D Printed 1/72 Russian S-500 air defense missile system Unpainted Kit Model NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense missile model">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense missile model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for S-300 Plastic Russian Air Defense Missile Radar Vehicle Model Simulation DIY;"><img src="{{ '/assets/images/marketplace-covers/7fca1129be5e6c369815.jpg' | relative_url }}" alt="Listing image for S-300 Plastic Russian Air Defense Missile Radar Vehicle Model Simulation DIY;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer">S-300 Plastic Russian Air Defense Missile Radar Vehicle Model Simulation DIY;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense missile model">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense missile model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for S-300 Plastic Russian Air Defense Missile Radar Vehicle Model Simulation DIY;"><img src="{{ '/assets/images/marketplace-covers/7fca1129be5e6c369815.jpg' | relative_url }}" alt="Listing image for S-300 Plastic Russian Air Defense Missile Radar Vehicle Model Simulation DIY;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer">S-300 Plastic Russian Air Defense Missile Radar Vehicle Model Simulation DIY;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense missile model">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense missile model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D Printed 1/144 British Rapier Air Defense Missile Unpainted Model Kit"><img src="{{ '/assets/images/marketplace-covers/6c2b838466dcb9a70d6b.jpg' | relative_url }}" alt="Listing image for 3D Printed 1/144 British Rapier Air Defense Missile Unpainted Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer">3D Printed 1/144 British Rapier Air Defense Missile Unpainted Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense missile model">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense missile model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D Printed 1/144 British Rapier Air Defense Missile Unpainted Model Kit"><img src="{{ '/assets/images/marketplace-covers/6c2b838466dcb9a70d6b.jpg' | relative_url }}" alt="Listing image for 3D Printed 1/144 British Rapier Air Defense Missile Unpainted Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer">3D Printed 1/144 British Rapier Air Defense Missile Unpainted Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense missile model">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense missile model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for S-300 Russian Air Defense Missile Radar Vehicle 1:72 Unassembled Model Ornaments"><img src="{{ '/assets/images/marketplace-covers/e4ca5c7186951d62800c.jpg' | relative_url }}" alt="Listing image for S-300 Russian Air Defense Missile Radar Vehicle 1:72 Unassembled Model Ornaments" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer">S-300 Russian Air Defense Missile Radar Vehicle 1:72 Unassembled Model Ornaments</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense missile model">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense missile model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for S-300 Russian Air Defense Missile Radar Vehicle 1:72 Unassembled Model Ornaments"><img src="{{ '/assets/images/marketplace-covers/e4ca5c7186951d62800c.jpg' | relative_url }}" alt="Listing image for S-300 Russian Air Defense Missile Radar Vehicle 1:72 Unassembled Model Ornaments" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer">S-300 Russian Air Defense Missile Radar Vehicle 1:72 Unassembled Model Ornaments</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense missile model">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense missile model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="saturation-how-drone-raids-drain-missile-defenses-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -549,7 +549,7 @@ In that contest, the central question is often not whether a drone can be shot d
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -569,7 +569,7 @@ In that contest, the central question is often not whether a drone can be shot d
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -601,7 +601,7 @@ In that contest, the central question is often not whether a drone can be shot d
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -653,7 +653,7 @@ In that contest, the central question is often not whether a drone can be shot d
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -698,7 +698,7 @@ In that contest, the central question is often not whether a drone can be shot d
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -739,124 +739,124 @@ In that contest, the central question is often not whether a drone can be shot d
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: csis.org  
    Title: drone saturation russias shahed campaign  
-   Link: <a href="https://www.csis.org/analysis/drone-saturation-russias-shahed-campaign" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/analysis/drone-saturation-russias-shahed-campaign</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Saturation: Russia&#x27;s Shahed Campaign13 May 2025 — Russia&#x27;s drone campaign utilizes inexpensive Shahed drones to saturate Ukrain...</p></details>
+   Link:<a href="https://www.csis.org/analysis/drone-saturation-russias-shahed-campaign" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/analysis/drone-saturation-russias-shahed-campaign</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Saturation: Russia&#x27;s Shahed Campaign13 May 2025 — Russia&#x27;s drone campaign utilizes inexpensive Shahed drones to saturate Ukrain...</p></details>
    Published: May 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: csis.org  
    Title: depleting missile defense interceptor inventory  
-   Link: <a href="https://www.csis.org/analysis/depleting-missile-defense-interceptor-inventory" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/analysis/depleting-missile-defense-interceptor-inventory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Depleting Missile Defense Interceptor InventoryDec 5, 2025 — Similarly, the Navy has learned a great deal from its engagements in...</p></details>
+   Link:<a href="https://www.csis.org/analysis/depleting-missile-defense-interceptor-inventory" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/analysis/depleting-missile-defense-interceptor-inventory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Depleting Missile Defense Interceptor InventoryDec 5, 2025 — Similarly, the Navy has learned a great deal from its engagements in...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: isis-online.org  
    Title: monthly analysis of russian shahed 136 [deployment](&#123;&#123; 'deployment/' | relative_url &#125;&#125;) against ukraine  
-   Link: <a href="https://isis-online.org/isis-reports/monthly-analysis-of-russian-shahed-136-deployment-against-ukraine" target="_blank" rel="noopener noreferrer nofollow">https://isis-online.org/isis-reports/monthly-analysis-of-russian-shahed-136-deployment-against-ukraine</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ISISMonthly Analysis of Russian Shahed 136 Deployment...2 Jun 2026 — Russia launched a total of 8,161 Shahed-type UAVs an estimated 5,18...</p></details>
+   Link:<a href="https://isis-online.org/isis-reports/monthly-analysis-of-russian-shahed-136-deployment-against-ukraine" target="_blank" rel="noopener noreferrer nofollow">https://isis-online.org/isis-reports/monthly-analysis-of-russian-shahed-136-deployment-against-ukraine</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ISISMonthly Analysis of Russian Shahed 136 Deployment...2 Jun 2026 — Russia launched a total of 8,161 Shahed-type UAVs an estimated 5,18...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: csis.org  
-   Link: <a href="https://www.csis.org/analysis/cost-and-value-air-and-missile-defense-intercepts" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/analysis/cost-and-value-air-and-missile-defense-intercepts</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cost and Value in Air and Missile Defense Intercepts13 Feb 2024 — Multiple media outlets have, for instance, highlighted the U.S...</p></details>
+   Link:<a href="https://www.csis.org/analysis/cost-and-value-air-and-missile-defense-intercepts" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/analysis/cost-and-value-air-and-missile-defense-intercepts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cost and Value in Air and Missile Defense Intercepts13 Feb 2024 — Multiple media outlets have, for instance, highlighted the U.S...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: japcc.org  
    Title: calculating the true value of air defence  
-   Link: <a href="https://www.japcc.org/online-feature/calculating-the-true-value-of-air-defence/" target="_blank" rel="noopener noreferrer nofollow">https://www.japcc.org/online-feature/calculating-the-true-value-of-air-defence/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Dec 2024 — It&#x27;s not about the cost of a missile against a drone, but the value of the ships that survive and keeping sea-lanes open...</p></details>
+   Link:<a href="https://www.japcc.org/online-feature/calculating-the-true-value-of-air-defence/" target="_blank" rel="noopener noreferrer nofollow">https://www.japcc.org/online-feature/calculating-the-true-value-of-air-defence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>13 Dec 2024 — It&#x27;s not about the cost of a missile against a drone, but the value of the ships that survive and keeping sea-lanes open...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: defense.info  
    Title: From Red Sea Defense to Epic Fury: How the U.S  
-   Link: <a href="https://defense.info/re-shaping-defense-security/2026/03/from-red-sea-defense-to-epic-fury-how-the-u-s-flipped-the-drone-cost-equation/" target="_blank" rel="noopener noreferrer nofollow">https://defense.info/re-shaping-defense-security/2026/03/from-red-sea-defense-to-epic-fury-how-the-u-s-flipped-the-drone-cost-equation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flipped...9 Mar 2026 — The problems were interlocking. Interceptors costing in the low-to-mid millions per shot were routinely being use...</p></details>
+   Link:<a href="https://defense.info/re-shaping-defense-security/2026/03/from-red-sea-defense-to-epic-fury-how-the-u-s-flipped-the-drone-cost-equation/" target="_blank" rel="noopener noreferrer nofollow">https://defense.info/re-shaping-defense-security/2026/03/from-red-sea-defense-to-epic-fury-how-the-u-s-flipped-the-drone-cost-equation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flipped...9 Mar 2026 — The problems were interlocking. Interceptors costing in the low-to-mid millions per shot were routinely being use...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: iiss.org  
    Title: defending the skies of the arab gulf states  
-   Link: <a href="https://www.iiss.org/online-analysis/online-analysis/2026/03/defending-the-skies-of-the-arab-gulf-states/" target="_blank" rel="noopener noreferrer nofollow">https://www.iiss.org/online-analysis/online-analysis/2026/03/defending-the-skies-of-the-arab-gulf-states/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Defending the skies of the Arab Gulf statesMar 18, 2026 — Since the beginning of the current war in Iran on 28 February, the Arab Gul...</p></details>
+   Link:<a href="https://www.iiss.org/online-analysis/online-analysis/2026/03/defending-the-skies-of-the-arab-gulf-states/" target="_blank" rel="noopener noreferrer nofollow">https://www.iiss.org/online-analysis/online-analysis/2026/03/defending-the-skies-of-the-arab-gulf-states/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defending the skies of the Arab Gulf statesMar 18, 2026 — Since the beginning of the current war in Iran on 28 February, the Arab Gul...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: csis.org  
    Title: unpacking irans drone campaign gulf early lessons future drone warfare  
-   Link: <a href="https://www.csis.org/analysis/unpacking-irans-drone-campaign-gulf-early-lessons-future-drone-warfare" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/analysis/unpacking-irans-drone-campaign-gulf-early-lessons-future-drone-warfare</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unpacking Iran&#x27;s Drone Campaign in the Gulf10 Mar 2026 — Ukraine&#x27;s success stems from integrating interceptor drones into a layered defen...</p></details>
+   Link:<a href="https://www.csis.org/analysis/unpacking-irans-drone-campaign-gulf-early-lessons-future-drone-warfare" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/analysis/unpacking-irans-drone-campaign-gulf-early-lessons-future-drone-warfare</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unpacking Iran&#x27;s Drone Campaign in the Gulf10 Mar 2026 — Ukraine&#x27;s success stems from integrating interceptor drones into a layered defen...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: csis.org  
-   Link: <a href="https://www.csis.org/analysis/37-billion-estimated-cost-epic-furys-first-100-hours" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/analysis/37-billion-estimated-cost-epic-furys-first-100-hours</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>$3.7 Billion: Estimated Cost of Epic Fury&#x27;s First 100 HoursMar 5, 2026 — The first 100 hours (H) of the operation are estimated to cost $...</p></details>
+   Link:<a href="https://www.csis.org/analysis/37-billion-estimated-cost-epic-furys-first-100-hours" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/analysis/37-billion-estimated-cost-epic-furys-first-100-hours</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>$3.7 Billion: Estimated Cost of Epic Fury&#x27;s First 100 HoursMar 5, 2026 — The first 100 hours (H) of the operation are estimated to cost $...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nationaldefensemagazine.org  
    Title: government perspective directed energy in air base defense can save the arsenal  
-   Link: <a href="https://www.nationaldefensemagazine.org/articles/2025/8/11/government-perspective-directed-energy-in-air-base-defense-can-save-the-arsenal" target="_blank" rel="noopener noreferrer nofollow">https://www.nationaldefensemagazine.org/articles/2025/8/11/government-perspective-directed-energy-in-air-base-defense-can-save-the-arsenal</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Defense MagazineDirected Energy in Air Base Defense Can Save the Arsenal11 Aug 2025 — Directed energy weapons, including high-en...</p></details>
+   Link:<a href="https://www.nationaldefensemagazine.org/articles/2025/8/11/government-perspective-directed-energy-in-air-base-defense-can-save-the-arsenal" target="_blank" rel="noopener noreferrer nofollow">https://www.nationaldefensemagazine.org/articles/2025/8/11/government-perspective-directed-energy-in-air-base-defense-can-save-the-arsenal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Defense MagazineDirected Energy in Air Base Defense Can Save the Arsenal11 Aug 2025 — Directed energy weapons, including high-en...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: timesofindia.indiatimes.com  
-   Link: <a href="https://timesofindia.indiatimes.com/defence/news/silent-cheap-deadly-why-[lasers" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/defence/news/silent-cheap-deadly-why-[lasers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These directed-energy weapons (DEWs) are capable of neutralizing threats such as drones, missiles, and aircraft with high precision and n...</p></details>
+   Link:<a href="https://timesofindia.indiatimes.com/defence/news/silent-cheap-deadly-why-[lasers" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/defence/news/silent-cheap-deadly-why-[lasers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These directed-energy weapons (DEWs) are capable of neutralizing threats such as drones, missiles, and aircraft with high precision and n...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationaldefensemagazine.org  
    Title: counterdrone mission seen as killer app for directed energy  
-   Link: <a href="https://www.nationaldefensemagazine.org/articles/2026/1/20/counterdrone-mission-seen-as-killer-app-for-directed-energy" target="_blank" rel="noopener noreferrer nofollow">https://www.nationaldefensemagazine.org/articles/2026/1/20/counterdrone-mission-seen-as-killer-app-for-directed-energy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Counter-UAS Mission Seen as Killer App for Directed EnergyJan 20, 2026 — High-powered microwaves can blast more energy at a drone or dron...</p></details>
+   Link:<a href="https://www.nationaldefensemagazine.org/articles/2026/1/20/counterdrone-mission-seen-as-killer-app-for-directed-energy" target="_blank" rel="noopener noreferrer nofollow">https://www.nationaldefensemagazine.org/articles/2026/1/20/counterdrone-mission-seen-as-killer-app-for-directed-energy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Counter-UAS Mission Seen as Killer App for Directed EnergyJan 20, 2026 — High-powered microwaves can blast more energy at a drone or dron...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: csis-website-prod.s3.amazonaws.com  
-   Link: <a href="https://csis-website-prod.s3.amazonaws.com/s3fs-public/2025-05/250513_Jensen_Drone_Saturations.pdf?VersionId=QsQBXrKcuEpHw4yK0EoTr7ZIraS5yTMW" target="_blank" rel="noopener noreferrer nofollow">https://csis-website-prod.s3.amazonaws.com/s3fs-public/2025-05/250513_Jensen_Drone_Saturations.pdf?VersionId=QsQBXrKcuEpHw4yK0EoTr7ZIraS5yTMW</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone SaturationEven if the low-cost attack drones are easy to intercept, they force the defender to spend limited defense resources to i...</p></details>
+   Link:<a href="https://csis-website-prod.s3.amazonaws.com/s3fs-public/2025-05/250513_Jensen_Drone_Saturations.pdf?VersionId=QsQBXrKcuEpHw4yK0EoTr7ZIraS5yTMW" target="_blank" rel="noopener noreferrer nofollow">https://csis-website-prod.s3.amazonaws.com/s3fs-public/2025-05/250513_Jensen_Drone_Saturations.pdf?VersionId=QsQBXrKcuEpHw4yK0EoTr7ZIraS5yTMW</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone SaturationEven if the low-cost attack drones are easy to intercept, they force the defender to spend limited defense resources to i...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: missiledefenseadvocacy.org  
-   Link: <a href="https://www.missiledefenseadvocacy.org/missile-defense-systems/missile-interceptors-by-cost/" target="_blank" rel="noopener noreferrer nofollow">https://www.missiledefenseadvocacy.org/missile-defense-systems/missile-interceptors-by-cost/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missile Interceptors by CostThis list compares the cost of different missile defense system interceptors per missile intercept. Next Gene...</p></details>
+   Link:<a href="https://www.missiledefenseadvocacy.org/missile-defense-systems/missile-interceptors-by-cost/" target="_blank" rel="noopener noreferrer nofollow">https://www.missiledefenseadvocacy.org/missile-defense-systems/missile-interceptors-by-cost/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missile Interceptors by CostThis list compares the cost of different missile defense system interceptors per missile intercept. Next Gene...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: rand.org  
-   Link: <a href="https://www.rand.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAND Provides Objective Research Services and Public...RAND is a research organization that develops solutions to public policy challeng...</p></details>
+   Link:<a href="https://www.rand.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAND Provides Objective Research Services and Public...RAND is a research organization that develops solutions to public policy challeng...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: rand.edu  
-   Link: <a href="https://www.rand.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.edu/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAND School of Public Policy: Public Policy Graduate...Embedded in a renowned research institution, RAND School graduate programs includ...</p></details>
+   Link:<a href="https://www.rand.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.edu/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAND School of Public Policy: Public Policy Graduate...Embedded in a renowned research institution, RAND School graduate programs includ...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: rand.com  
-   Link: <a href="https://www.rand.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rand Worldwide: [Engineering](&amp;#123;&amp;#123; &#x27;engineering/&#x27; | relative_url &amp;#125;&amp;#125;) Technology and ServicesRand Worldwide is a leading provider of technology solutions and professional services...</p></details>
+   Link:<a href="https://www.rand.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rand Worldwide: [Engineering](&amp;#123;&amp;#123; &#x27;engineering/&#x27; | relative_url &amp;#125;&amp;#125;) Technology and ServicesRand Worldwide is a leading provider of technology solutions and professional services...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/6375919.pdf?abstractid=6375919&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6375919.pdf?abstractid=6375919&amp;mirid=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>quantitative analysis of low-cost drone warfareThis dissertation investigates the economics of asymmetric attrition through a quantitativ...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/6375919.pdf?abstractid=6375919&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6375919.pdf?abstractid=6375919&amp;mirid=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>quantitative analysis of low-cost drone warfareThis dissertation investigates the economics of asymmetric attrition through a quantitativ...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: en.cppreference.com  
-   Link: <a href="https://en.cppreference.com/c/numeric/random/rand" target="_blank" rel="noopener noreferrer nofollow">https://en.cppreference.com/c/numeric/random/rand</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a pseudo-random integer value between 0 and RAND_MAX (0 and RAND_MAX included). srand seeds the pseudo-random number generator used by...</p></details>
+   Link:<a href="https://en.cppreference.com/c/numeric/random/rand" target="_blank" rel="noopener noreferrer nofollow">https://en.cppreference.com/c/numeric/random/rand</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a pseudo-random integer value between 0 and RAND_MAX (0 and RAND_MAX included). srand seeds the pseudo-random number generator used by...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/keith-king-03a172128_directed-energy-weapons-are-moving-from-prototype-activity-7459943070164242432-4KLW" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/keith-king-03a172128_directed-energy-weapons-are-moving-from-prototype-activity-7459943070164242432-4KLW</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed-Energy Weapons Transition to Mass Deployment12 May 2026 — It won&#x27;t take long for others to figure out to give their drones and m...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/keith-king-03a172128_directed-energy-weapons-are-moving-from-prototype-activity-7459943070164242432-4KLW" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/keith-king-03a172128_directed-energy-weapons-are-moving-from-prototype-activity-7459943070164242432-4KLW</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed-Energy Weapons Transition to Mass Deployment12 May 2026 — It won&#x27;t take long for others to figure out to give their drones and m...</p></details>
    Published: May 2026  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: x.com  
-   Link: <a href="https://x.com/CSIS/status/1923007986244411501" target="_blank" rel="noopener noreferrer nofollow">https://x.com/CSIS/status/1923007986244411501</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)Drone Saturation: Russia&#x27;s Shahed Campaign | CSISRussia significantly ramped up its use of Shahed drones, increasing...</p></details>
+   Link:<a href="https://x.com/CSIS/status/1923007986244411501" target="_blank" rel="noopener noreferrer nofollow">https://x.com/CSIS/status/1923007986244411501</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)Drone Saturation: Russia&#x27;s Shahed Campaign | CSISRussia significantly ramped up its use of Shahed drones, increasing...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: missiledefenseadvocacy.org  
-   Link: <a href="https://www.missiledefenseadvocacy.org/tag/costs/" target="_blank" rel="noopener noreferrer nofollow">https://www.missiledefenseadvocacy.org/tag/costs/</a>  
+   Link:<a href="https://www.missiledefenseadvocacy.org/tag/costs/" target="_blank" rel="noopener noreferrer nofollow">https://www.missiledefenseadvocacy.org/tag/costs/</a>  

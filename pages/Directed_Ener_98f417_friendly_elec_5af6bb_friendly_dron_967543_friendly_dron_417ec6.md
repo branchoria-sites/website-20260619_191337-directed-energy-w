@@ -269,7 +269,7 @@ image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_friendly_dron_96
 
 ## Introduction
 
-High-power microwave (HPM) weapons can disable multiple drones at once, but they do not neatly discriminate between hostile and friendly unmanned aircraft inside the affected volume. As a result, commanders rarely treat a microwave shot as a simple weapons-release decision. Instead, they must decide whether friendly drones should leave the engagement area first, whether there is enough time to wait, and whether the operational value of those drones outweighs the threat posed by the incoming targets. Government assessments and counter-UAS studies repeatedly note that some directed-energy systems can affect assets within a broad area rather than a single precisely selected target, making airspace coordination a central command responsibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2Mobility Engineering Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — For example, they can temporarily degrade electronics on a drone or phy...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+High-power microwave (HPM) weapons can disable multiple drones at once, but they do not neatly discriminate between hostile and friendly unmanned aircraft inside the affected volume. As a result, commanders rarely treat a microwave shot as a simple weapons-release decision. Instead, they must decide whether friendly drones should leave the engagement area first, whether there is enough time to wait, and whether the operational value of those drones outweighs the threat posed by the incoming targets. Government assessments and counter-UAS studies repeatedly note that some directed-energy systems can affect assets within a broad area rather than a single precisely selected target, making airspace coordination a central command responsibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2Mobility Engineering Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — For example, they can temporarily degrade electronics on a drone or phy...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_friendly_dron_967543_friendly_dron_417ec6-Illustration-1-dark.svg" | relative_url }}" alt="Clearance Calls illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_friendly_dron_967543_friendly_dron_417ec6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_friendly_dron_967543_friendly_dron_417ec6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -277,9 +277,9 @@ The key question is not merely whether a hostile drone is present. It is whether
 
 ## Why Mixed Drone Airspace Slows Firing Decisions
 
-The more friendly drones a force operates, the harder microwave employment becomes. Modern formations may have reconnaissance drones, communications relays, targeting sensors, logistics aircraft, loitering munitions, and [counter-drone]({{ 'missile-savings/' | relative_url }}) interceptors sharing the same airspace. Commanders therefore face a governance problem as much as a technical one: they must know which aircraft are present, who controls them, and whether they can be moved in time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.businessinsider.com/marines-working-figure-out-how-sort-friendly-and-enemy-drones-2025-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider+2JAPCC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">This challenge, described as haunting by Col. Sean Hoewing, stems from the increasing reliance on drones and the complexities of distingu...</span></span></span>
+The more friendly drones a force operates, the harder microwave employment becomes. Modern formations may have reconnaissance drones, communications relays, targeting sensors, logistics aircraft, loitering munitions, and [counter-drone]({{ 'missile-savings/' | relative_url }}) interceptors sharing the same airspace. Commanders therefore face a governance problem as much as a technical one: they must know which aircraft are present, who controls them, and whether they can be moved in time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.businessinsider.com/marines-working-figure-out-how-sort-friendly-and-enemy-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider+2JAPCC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">This challenge, described as haunting by Col. Sean Hoewing, stems from the increasing reliance on drones and the complexities of distingu...</span></span></span>
 
-Unlike a narrowly focused interceptor, an HPM system is designed to create electromagnetic effects across a larger engagement volume. The operational advantage is the ability to counter multiple threats simultaneously. The disadvantage is that friendly drones may be exposed to the same energy intended for hostile systems. Office of Naval Research+2National Defense Magazine <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">Office of Naval Research Directed Energy Weapons: High Power Microwaves HPM weapons create beams of electromagnetic energy over a broad s</span><span class="citation-popover-snippet">Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spe...</span></span></span>
+Unlike a narrowly focused interceptor, an HPM system is designed to create electromagnetic effects across a larger engagement volume. The operational advantage is the ability to counter multiple threats simultaneously. The disadvantage is that friendly drones may be exposed to the same energy intended for hostile systems. Office of Naval Research+2National Defense Magazine<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">Office of Naval Research Directed Energy Weapons: High Power Microwaves HPM weapons create beams of electromagnetic energy over a broad s</span><span class="citation-popover-snippet">Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spe...</span></span></span>
 
 As a result, commanders typically ask several questions before authorising a shot:
 
@@ -294,7 +294,7 @@ As a result, commanders typically ask several questions before authorising a sho
 
 </div>
 
-These questions resemble traditional fire-support coordination, where commanders must ensure friendly aircraft and ground forces are clear before employing powerful weapons. Military discussions of drone warfare increasingly describe unmanned-aircraft management as an airspace deconfliction challenge rather than merely a targeting challenge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.businessinsider.com/marines-working-figure-out-how-sort-friendly-and-enemy-drones-2025-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">This challenge, described as haunting by Col. Sean Hoewing, stems from the increasing reliance on drones and the complexities of distingu...</span></span></span>
+These questions resemble traditional fire-support coordination, where commanders must ensure friendly aircraft and ground forces are clear before employing powerful weapons. Military discussions of drone warfare increasingly describe unmanned-aircraft management as an airspace deconfliction challenge rather than merely a targeting challenge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.businessinsider.com/marines-working-figure-out-how-sort-friendly-and-enemy-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">This challenge, described as haunting by Col. Sean Hoewing, stems from the increasing reliance on drones and the complexities of distingu...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JGzL3fZgPZY" title="Laser and Microwave Weapons - Directed-Energy Weapon Programs, Potential, and Issues" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JGzL3fZgPZY" target="_blank" rel="noopener noreferrer">Laser and Microwave Weapons - Directed-Energy Weapon Programs, Potential, and Issues</a></p><p class="youtube-embed-meta">Channel: Perun</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JGzL3fZgPZY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JGzL3fZgPZY">Open on YouTube</a></p></div></div></div>
@@ -319,9 +319,9 @@ A typical sequence may involve:
 
 </div>
 
-The approach works because many drone missions are intermittent. A reconnaissance drone can sometimes pause observation for a short period, while a relay drone may be replaced by another asset. The goal is to create a short interval in which the microwave system can operate without risking unnecessary friendly losses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.armyupress.army.mil/Journals/Military-Review/Online-Exclusive/2026-OLE/Air-Defense-in-MDO/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armyupress.army.mil">[Army University Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armyupress.army.mil</span><span class="citation-popover-snippet">This is true for both kinetic and nonkinetic active defense systems.Read more...</span></span></span>
+The approach works because many drone missions are intermittent. A reconnaissance drone can sometimes pause observation for a short period, while a relay drone may be replaced by another asset. The goal is to create a short interval in which the microwave system can operate without risking unnecessary friendly losses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.armyupress.army.mil/Journals/Military-Review/Online-Exclusive/2026-OLE/Air-Defense-in-MDO/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armyupress.army.mil">[Army University Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armyupress.army.mil</span><span class="citation-popover-snippet">This is true for both kinetic and nonkinetic active defense systems.Read more...</span></span></span>
 
-Increasingly, military planners think in terms of engagement areas and operational volumes rather than simple flight paths. The concept is that a drone occupies a defined three-dimensional space over a specific period of time. By managing these time-based volumes, commanders can create predictable windows in which directed-energy systems can operate safely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.armyupress.army.mil/Journals/Military-Review/Online-Exclusive/2026-OLE/Air-Defense-in-MDO/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armyupress.army.mil">[Army University Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armyupress.army.mil</span><span class="citation-popover-snippet">This is true for both kinetic and nonkinetic active defense systems.Read more...</span></span></span>
+Increasingly, military planners think in terms of engagement areas and operational volumes rather than simple flight paths. The concept is that a drone occupies a defined three-dimensional space over a specific period of time. By managing these time-based volumes, commanders can create predictable windows in which directed-energy systems can operate safely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.armyupress.army.mil/Journals/Military-Review/Online-Exclusive/2026-OLE/Air-Defense-in-MDO/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armyupress.army.mil">[Army University Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armyupress.army.mil</span><span class="citation-popover-snippet">This is true for both kinetic and nonkinetic active defense systems.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_friendly_dron_967543_friendly_dron_417ec6-Illustration-2-dark.svg" | relative_url }}" alt="Clearance Calls illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_friendly_dron_967543_friendly_dron_417ec6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_friendly_dron_967543_friendly_dron_417ec6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -331,7 +331,7 @@ The deciding factor is usually threat urgency.
 
 If hostile drones are still distant, commanders may accept a delay while friendly drones clear the area. The cost of waiting is low, and preserving valuable reconnaissance or communications assets may be worthwhile.
 
-If hostile drones are approaching a defended headquarters, ammunition site, airfield, or troop concentration, the calculation changes. The value of immediate defence may exceed the value of preserving every friendly drone in the area. Counter-drone specialists increasingly emphasise that swarm attacks compress decision timelines and reduce opportunities for lengthy coordination. Amazon Web Services, Inc.+2Defence Finance Monitor <span class="citation-link-wrap"><a class="citation-inline-link" href="https://s3.us-east-1.amazonaws.com/files.cnas.org/documents/Report_CUAS_Defense_Sep-2025_final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s3.us-east-1.amazonaws.com">[s3.us-east-1.amazonaws.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s3.us-east-1.amazonaws.com</span><span class="citation-popover-title">Report CUAS Defense Sep 2025 final</span><span class="citation-popover-snippet">Amazon Web Services, Inc.COUNTERING THE SWARMSeptember 10, 2025 — Typically, fighter aircraft and guided missile destroyers are armed wit...</span><span class="citation-popover-meta">Published: September 10, 2025</span></span></span>
+If hostile drones are approaching a defended headquarters, ammunition site, airfield, or troop concentration, the calculation changes. The value of immediate defence may exceed the value of preserving every friendly drone in the area. Counter-drone specialists increasingly emphasise that swarm attacks compress decision timelines and reduce opportunities for lengthy coordination. Amazon Web Services, Inc.+2Defence Finance Monitor<span class="citation-link-wrap"><a class="citation-inline-link" href="https://s3.us-east-1.amazonaws.com/files.cnas.org/documents/Report_CUAS_Defense_Sep-2025_final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s3.us-east-1.amazonaws.com">[s3.us-east-1.amazonaws.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s3.us-east-1.amazonaws.com</span><span class="citation-popover-title">Report CUAS Defense Sep 2025 final</span><span class="citation-popover-snippet">Amazon Web Services, Inc.COUNTERING THE SWARMSeptember 10, 2025 — Typically, fighter aircraft and guided missile destroyers are armed wit...</span><span class="citation-popover-meta">Published: September 10, 2025</span></span></span>
 
 Several factors influence the decision:
 
@@ -354,7 +354,7 @@ The result is not a fixed rule but a balancing process in which commanders compa
 
 There are circumstances in which commanders knowingly accept the possibility of friendly drone losses inside the microwave zone.
 
-The clearest case is defence against an imminent swarm attack. High-power microwave systems are attractive precisely because they can engage many drones simultaneously. Demonstrations and operational reporting around systems such as Epirus's Leonidas have highlighted their ability to affect large numbers of small drones in a single engagement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationaldefensemagazine.org/articles/2026/1/20/counterdrone-mission-seen-as-killer-app-for-directed-energy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationaldefensemagazine.org">[National Defense Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationaldefensemagazine.org</span><span class="citation-popover-title">counterdrone mission seen as killer app for directed energy</span><span class="citation-popover-snippet">National Defense MagazineCounter-UAS Mission Seen as Killer App for Directed EnergyJan 20, 2026 — High-powered microwaves can blast more...</span></span></span>
+The clearest case is defence against an imminent swarm attack. High-power microwave systems are attractive precisely because they can engage many drones simultaneously. Demonstrations and operational reporting around systems such as Epirus's Leonidas have highlighted their ability to affect large numbers of small drones in a single engagement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationaldefensemagazine.org/articles/2026/1/20/counterdrone-mission-seen-as-killer-app-for-directed-energy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationaldefensemagazine.org">[National Defense Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationaldefensemagazine.org</span><span class="citation-popover-title">counterdrone mission seen as killer app for directed energy</span><span class="citation-popover-snippet">National Defense MagazineCounter-UAS Mission Seen as Killer App for Directed EnergyJan 20, 2026 — High-powered microwaves can blast more...</span></span></span>
 
 In such scenarios, the decision may resemble traditional military risk acceptance:
 
@@ -367,7 +367,7 @@ In such scenarios, the decision may resemble traditional military risk acceptanc
 
 </div>
 
-Military organisations continue to debate how expendable friendly drones should be considered. Lessons from recent conflicts have shown that some forces treat drones almost as consumable battlefield resources, while others remain reluctant to accept high unmanned-system losses because of cost, training, logistics, and accountability concerns. Those differing philosophies directly affect microwave-zone clearance decisions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.businessinsider.com/marines-working-figure-out-how-sort-friendly-and-enemy-drones-2025-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">This challenge, described as haunting by Col. Sean Hoewing, stems from the increasing reliance on drones and the complexities of distingu...</span></span></span>
+Military organisations continue to debate how expendable friendly drones should be considered. Lessons from recent conflicts have shown that some forces treat drones almost as consumable battlefield resources, while others remain reluctant to accept high unmanned-system losses because of cost, training, logistics, and accountability concerns. Those differing philosophies directly affect microwave-zone clearance decisions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.businessinsider.com/marines-working-figure-out-how-sort-friendly-and-enemy-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">This challenge, described as haunting by Col. Sean Hoewing, stems from the increasing reliance on drones and the complexities of distingu...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_friendly_dron_967543_friendly_dron_417ec6-Illustration-3-dark.svg" | relative_url }}" alt="Clearance Calls illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_friendly_dron_967543_friendly_dron_417ec6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_friendly_dron_967543_friendly_dron_417ec6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -375,7 +375,7 @@ Military organisations continue to debate how expendable friendly drones should 
 
 The most important lesson is that microwave-zone clearance is fundamentally a command-and-control problem. The technology may disable drones, but commanders determine when it can be used safely.
 
-Effective governance depends on accurate drone tracking, shared situational awareness, clear reporting procedures, and established authority for declaring engagement zones. Studies of counter-UAS systems repeatedly warn that poor information sharing can lead to misidentification and inappropriate counter-drone actions. Integrating airspace management, drone tracking, and counter-drone operations therefore becomes essential when friendly and hostile drones operate together. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2111.07291" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2Sentrycs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Integrating Counter-UAS Systems into the UTM System for Reliable Decision MakingNovember 14, 2021...</span><span class="citation-popover-meta">Published: November 14, 2021</span></span></span>
+Effective governance depends on accurate drone tracking, shared situational awareness, clear reporting procedures, and established authority for declaring engagement zones. Studies of counter-UAS systems repeatedly warn that poor information sharing can lead to misidentification and inappropriate counter-drone actions. Integrating airspace management, drone tracking, and counter-drone operations therefore becomes essential when friendly and hostile drones operate together.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2111.07291" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2Sentrycs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Integrating Counter-UAS Systems into the UTM System for Reliable Decision MakingNovember 14, 2021...</span><span class="citation-popover-meta">Published: November 14, 2021</span></span></span>
 
 For microwave weapons, the ideal outcome is neither constant restraint nor unrestricted firing. It is the creation of predictable clearance procedures that allow commanders to open short, safe engagement windows whenever possible, while retaining the authority to accept friendly drone losses when the threat makes delay unacceptable.
 
@@ -384,194 +384,194 @@ For microwave weapons, the ideal outcome is neither constant restraint nor unres
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Should Friendly Drones Get Out?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Should Friendly Drones Get Out?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
-        </h4>
-        <p class="fr-book-author">By Paul Scharre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
+</h4>
+<p class="fr-book-author">By Paul Scharre</p>
         
-        <p class="fr-book-desc">Explores decision-making, autonomy, command responsibility, and engagement considerations relevant to mixed drone airspace.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores decision-making, autonomy, command responsibility, and engagement considerations relevant to mixed drone airspace.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Covers modern sensor networks, unmanned systems, and engagement-speed challenges that influence firing decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers modern sensor networks, unmanned systems, and engagement-speed challenges that influence firing decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Army+of+None%3A+Autonomous+Weapons+and+the+Future+of+War+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None: Autonomous Weapons and the Future of War on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Army+of+None%3A+Autonomous+Weapons+and+the+Future+of+War+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None: Autonomous Weapons and the Future of War">Army of None: Autonomous Weapons and the Future of War</a>
-        </h4>
-        <p class="fr-book-author">By Paul Scharre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Army+of+None%3A+Autonomous+Weapons+and+the+Future+of+War+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None: Autonomous Weapons and the Future of War on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Army+of+None%3A+Autonomous+Weapons+and+the+Future+of+War+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None: Autonomous Weapons and the Future of War">Army of None: Autonomous Weapons and the Future of War</a>
+</h4>
+<p class="fr-book-author">By Paul Scharre</p>
         
-        <p class="fr-book-desc">Explores decision-making, autonomy, command responsibility, and engagement considerations relevant to mixed drone airspace.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Army+of+None%3A+Autonomous+Weapons+and+the+Future+of+War+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores decision-making, autonomy, command responsibility, and engagement considerations relevant to mixed drone airspace.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Army+of+None%3A+Autonomous+Weapons+and+the+Future+of+War+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Drone+Warfare+Peter+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warfare on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drone+Warfare+Peter+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warfare">Drone Warfare</a>
-        </h4>
-        <p class="fr-book-author">By Peter W. Singer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Drone+Warfare+Peter+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warfare on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drone+Warfare+Peter+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warfare">Drone Warfare</a>
+</h4>
+<p class="fr-book-author">By Peter W. Singer</p>
         
-        <p class="fr-book-desc">Provides broad operational context for drone employment, command decisions, and battlefield tradeoffs involving unmanned systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drone+Warfare+Peter+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broad operational context for drone employment, command decisions, and battlefield tradeoffs involving unmanned systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drone+Warfare+Peter+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None%3A+Autonomous+Weapons+and+the+Future+of+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None: Autonomous Weapons and the Future of War</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None%3A+Autonomous+Weapons+and+the+Future+of+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None: Autonomous Weapons and the Future of War</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academy US Army Drone RQ-7B UAV 1/35 Scale Military Aircraft Model Kit 12117"><img src="{{ '/assets/images/marketplace-covers/54f43ced846c284ab9ae.jpg' | relative_url }}" alt="Listing image for Academy US Army Drone RQ-7B UAV 1/35 Scale Military Aircraft Model Kit 12117" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">Academy US Army Drone RQ-7B UAV 1/35 Scale Military Aircraft Model Kit 12117</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academy US Army Drone RQ-7B UAV 1/35 Scale Military Aircraft Model Kit 12117"><img src="{{ '/assets/images/marketplace-covers/54f43ced846c284ab9ae.jpg' | relative_url }}" alt="Listing image for Academy US Army Drone RQ-7B UAV 1/35 Scale Military Aircraft Model Kit 12117" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">Academy US Army Drone RQ-7B UAV 1/35 Scale Military Aircraft Model Kit 12117</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kinetic 1/72 MQ-9 Reaper UAV Drone Unmanned Aerial Vehicle USAF RAF Model Kit"><img src="{{ '/assets/images/marketplace-covers/7ae8927cdce392277bf9.jpg' | relative_url }}" alt="Listing image for Kinetic 1/72 MQ-9 Reaper UAV Drone Unmanned Aerial Vehicle USAF RAF Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">Kinetic 1/72 MQ-9 Reaper UAV Drone Unmanned Aerial Vehicle USAF RAF Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kinetic 1/72 MQ-9 Reaper UAV Drone Unmanned Aerial Vehicle USAF RAF Model Kit"><img src="{{ '/assets/images/marketplace-covers/7ae8927cdce392277bf9.jpg' | relative_url }}" alt="Listing image for Kinetic 1/72 MQ-9 Reaper UAV Drone Unmanned Aerial Vehicle USAF RAF Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">Kinetic 1/72 MQ-9 Reaper UAV Drone Unmanned Aerial Vehicle USAF RAF Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/72C 8Pcs classic fighter bomber helicopter drone Model Military Assembly Model"><img src="{{ '/assets/images/marketplace-covers/6bbac5d334a4a0667cf5.jpg' | relative_url }}" alt="Listing image for 1/72C 8Pcs classic fighter bomber helicopter drone Model Military Assembly Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">1/72C 8Pcs classic fighter bomber helicopter drone Model Military Assembly Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/72C 8Pcs classic fighter bomber helicopter drone Model Military Assembly Model"><img src="{{ '/assets/images/marketplace-covers/6bbac5d334a4a0667cf5.jpg' | relative_url }}" alt="Listing image for 1/72C 8Pcs classic fighter bomber helicopter drone Model Military Assembly Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">1/72C 8Pcs classic fighter bomber helicopter drone Model Military Assembly Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 MQ-1 Predator Drone Reconnaissance UAV Alloy Aircraft Model Airplane Craft"><img src="{{ '/assets/images/marketplace-covers/0f530137158c75597cc2.jpg' | relative_url }}" alt="Listing image for 1:72 MQ-1 Predator Drone Reconnaissance UAV Alloy Aircraft Model Airplane Craft" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">1:72 MQ-1 Predator Drone Reconnaissance UAV Alloy Aircraft Model Airplane Craft</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 MQ-1 Predator Drone Reconnaissance UAV Alloy Aircraft Model Airplane Craft"><img src="{{ '/assets/images/marketplace-covers/0f530137158c75597cc2.jpg' | relative_url }}" alt="Listing image for 1:72 MQ-1 Predator Drone Reconnaissance UAV Alloy Aircraft Model Airplane Craft" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">1:72 MQ-1 Predator Drone Reconnaissance UAV Alloy Aircraft Model Airplane Craft</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone model" data-ebay-reference="clearance-calls-when-should-friendly-drones-get-out-directed-ener-military-drone-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -587,7 +587,7 @@ For microwave weapons, the ideal outcome is neither constant restraint nor unres
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -607,7 +607,7 @@ For microwave weapons, the ideal outcome is neither constant restraint nor unres
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -639,7 +639,7 @@ For microwave weapons, the ideal outcome is neither constant restraint nor unres
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -691,7 +691,7 @@ For microwave weapons, the ideal outcome is neither constant restraint nor unres
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -736,7 +736,7 @@ For microwave weapons, the ideal outcome is neither constant restraint nor unres
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -777,133 +777,133 @@ For microwave weapons, the ideal outcome is neither constant restraint nor unres
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gao.gov  
    Title: gao 23 106717  
-   Link: <a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — For example, they can temporarily degrade electronics on a drone or phy...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — For example, they can temporarily degrade electronics on a drone or phy...</p></details>
    Published: May 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: japcc.org  
-   Link: <a href="https://www.japcc.org/wp-content/uploads/A-Comprehensive-Approach-to-Countering-Unmanned-Aircraft-Systems.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.japcc.org/wp-content/uploads/A-Comprehensive-Approach-to-Countering-Unmanned-Aircraft-Systems.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NATO Training Doctrine, Tactics, Techniques, and Procedures. Countering UAS and drones is...Read more...</p></details>
+   Link:<a href="https://www.japcc.org/wp-content/uploads/A-Comprehensive-Approach-to-Countering-Unmanned-Aircraft-Systems.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.japcc.org/wp-content/uploads/A-Comprehensive-Approach-to-Countering-Unmanned-Aircraft-Systems.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NATO Training Doctrine, Tactics, Techniques, and Procedures. Countering UAS and drones is...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sentrycs.com  
-   Link: <a href="https://sentrycs.com/glossary/directed-energy-weapons-dew/" target="_blank" rel="noopener noreferrer nofollow">https://sentrycs.com/glossary/directed-energy-weapons-dew/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ork in C-UAS operations and their limitations...</p></details>
+   Link:<a href="https://sentrycs.com/glossary/directed-energy-weapons-dew/" target="_blank" rel="noopener noreferrer nofollow">https://sentrycs.com/glossary/directed-energy-weapons-dew/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ork in C-UAS operations and their limitations...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: armyupress.army.mil  
-   Link: <a href="https://www.armyupress.army.mil/Journals/Military-Review/Online-Exclusive/2026-OLE/Air-Defense-in-MDO/" target="_blank" rel="noopener noreferrer nofollow">https://www.armyupress.army.mil/Journals/Military-Review/Online-Exclusive/2026-OLE/Air-Defense-in-MDO/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This is true for both kinetic and nonkinetic active defense systems.Read more...</p></details>
+   Link:<a href="https://www.armyupress.army.mil/Journals/Military-Review/Online-Exclusive/2026-OLE/Air-Defense-in-MDO/" target="_blank" rel="noopener noreferrer nofollow">https://www.armyupress.army.mil/Journals/Military-Review/Online-Exclusive/2026-OLE/Air-Defense-in-MDO/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This is true for both kinetic and nonkinetic active defense systems.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2301.12961" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2301.12961</a>  
+   Link:<a href="https://arxiv.org/abs/2301.12961" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2301.12961</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2111.07291" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2111.07291</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Integrating Counter-UAS Systems into the UTM System for Reliable Decision MakingNovember 14, 2021...</p></details>
+   Link:<a href="https://arxiv.org/abs/2111.07291" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2111.07291</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Integrating Counter-UAS Systems into the UTM System for Reliable Decision MakingNovember 14, 2021...</p></details>
    Published: November 14, 2021  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: mobilityengineeringtech.com  
    Title: Unlike other  
-   Link: <a href="https://www.mobilityengineeringtech.com/component/content/article/45802-afit-0006" target="_blank" rel="noopener noreferrer nofollow">https://www.mobilityengineeringtech.com/component/content/article/45802-afit-0006</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mobility [Engineering](&amp;#123;&amp;#123; &#x27;engineering/&#x27; | relative_url &amp;#125;&amp;#125;) TechnologyHardening Unmanned Aerial Systems Against High-Power...14 May 2022 — High power microwave weapons use int...</p></details>
+   Link:<a href="https://www.mobilityengineeringtech.com/component/content/article/45802-afit-0006" target="_blank" rel="noopener noreferrer nofollow">https://www.mobilityengineeringtech.com/component/content/article/45802-afit-0006</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mobility [Engineering](&amp;#123;&amp;#123; &#x27;engineering/&#x27; | relative_url &amp;#125;&amp;#125;) TechnologyHardening Unmanned Aerial Systems Against High-Power...14 May 2022 — High power microwave weapons use int...</p></details>
    Published: May 2022  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: onr.navy.mil  
-   Link: <a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-[microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-[microwaves</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spe...</p></details>
+   Link:<a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-[microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-[microwaves</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spe...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: businessinsider.com  
-   Link: <a href="https://www.businessinsider.com/marines-working-figure-out-how-sort-friendly-and-enemy-drones-2025-5" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/marines-working-figure-out-how-sort-friendly-and-enemy-drones-2025-5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This challenge, described as haunting by Col. Sean Hoewing, stems from the increasing reliance on drones and the complexities of distingu...</p></details>
+   Link:<a href="https://www.businessinsider.com/marines-working-figure-out-how-sort-friendly-and-enemy-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/marines-working-figure-out-how-sort-friendly-and-enemy-drones</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This challenge, described as haunting by Col. Sean Hoewing, stems from the increasing reliance on drones and the complexities of distingu...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nationaldefensemagazine.org  
    Title: counterdrone mission seen as killer app for directed energy  
-   Link: <a href="https://www.nationaldefensemagazine.org/articles/2026/1/20/counterdrone-mission-seen-as-killer-app-for-directed-energy" target="_blank" rel="noopener noreferrer nofollow">https://www.nationaldefensemagazine.org/articles/2026/1/20/counterdrone-mission-seen-as-killer-app-for-directed-energy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Defense MagazineCounter-UAS Mission Seen as Killer App for Directed EnergyJan 20, 2026 — High-powered microwaves can blast more...</p></details>
+   Link:<a href="https://www.nationaldefensemagazine.org/articles/2026/1/20/counterdrone-mission-seen-as-killer-app-for-directed-energy" target="_blank" rel="noopener noreferrer nofollow">https://www.nationaldefensemagazine.org/articles/2026/1/20/counterdrone-mission-seen-as-killer-app-for-directed-energy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Defense MagazineCounter-UAS Mission Seen as Killer App for Directed EnergyJan 20, 2026 — High-powered microwaves can blast more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: s3.us-east-1.amazonaws.com  
    Title: Report CUAS Defense Sep 2025 final  
-   Link: <a href="https://s3.us-east-1.amazonaws.com/files.cnas.org/documents/Report_CUAS_Defense_Sep-2025_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3.us-east-1.amazonaws.com/files.cnas.org/documents/Report_CUAS_Defense_Sep-2025_final.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon Web Services, Inc.COUNTERING THE SWARMSeptember 10, 2025 — Typically, fighter aircraft and guided missile destroyers are armed wit...</p></details>
+   Link:<a href="https://s3.us-east-1.amazonaws.com/files.cnas.org/documents/Report_CUAS_Defense_Sep-2025_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3.us-east-1.amazonaws.com/files.cnas.org/documents/Report_CUAS_Defense_Sep-2025_final.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon Web Services, Inc.COUNTERING THE SWARMSeptember 10, 2025 — Typically, fighter aircraft and guided missile destroyers are armed wit...</p></details>
    Published: September 10, 2025  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: defencefinancemonitor.com  
    Title: non kinetic counter uas with high  
-   Link: <a href="https://www.defencefinancemonitor.com/p/non-kinetic-counter-uas-with-high" target="_blank" rel="noopener noreferrer nofollow">https://www.defencefinancemonitor.com/p/non-kinetic-counter-uas-with-high</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defence Finance MonitorNon-Kinetic Counter-UAS with High Power MicrowaveDec 8, 2025 — HPM systems work by emitting powerful pulses of rad...</p></details>
+   Link:<a href="https://www.defencefinancemonitor.com/p/non-kinetic-counter-uas-with-high" target="_blank" rel="noopener noreferrer nofollow">https://www.defencefinancemonitor.com/p/non-kinetic-counter-uas-with-high</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defence Finance MonitorNon-Kinetic Counter-UAS with High Power MicrowaveDec 8, 2025 — HPM systems work by emitting powerful pulses of rad...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: defencefinancemonitor.com  
    Title: directed energy weapons in 20252035  
-   Link: <a href="https://www.defencefinancemonitor.com/p/directed-energy-weapons-in-20252035" target="_blank" rel="noopener noreferrer nofollow">https://www.defencefinancemonitor.com/p/directed-energy-weapons-in-20252035</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons in 2025–2035: Development...23 May 2025 — It surveys the current capabilities of confirmed high-energy laser and...</p></details>
+   Link:<a href="https://www.defencefinancemonitor.com/p/directed-energy-weapons-in-20252035" target="_blank" rel="noopener noreferrer nofollow">https://www.defencefinancemonitor.com/p/directed-energy-weapons-in-20252035</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons in 2025–2035: Development...23 May 2025 — It surveys the current capabilities of confirmed high-energy laser and...</p></details>
    Published: May 2025  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/top-content/technology/drone-defense-solutions/counter-drone-microwave-interception-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/top-content/technology/drone-defense-solutions/counter-drone-microwave-interception-strategies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Counter-Drone Microwave Interception StrategiesCounter-drone microwave interception strategies use bursts of powerful electromagnetic ene...</p></details>
+   Link:<a href="https://www.linkedin.com/top-content/technology/drone-defense-solutions/counter-drone-microwave-interception-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/top-content/technology/drone-defense-solutions/counter-drone-microwave-interception-strategies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Counter-Drone Microwave Interception StrategiesCounter-drone microwave interception strategies use bursts of powerful electromagnetic ene...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/indiandefencetime/posts/drdo-has-unveiled-a-new-high-power-microwave-directed-energy-weapon-under-develo/859092383688899/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/indiandefencetime/posts/drdo-has-unveiled-a-new-high-power-microwave-directed-energy-weapon-under-develo/859092383688899/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DRDO has unveiled a new high-power microwave directed...DRDO has unveiled a new high-power microwave directed-energy weapon under develo...</p></details>
+   Link:<a href="https://www.facebook.com/indiandefencetime/posts/drdo-has-unveiled-a-new-high-power-microwave-directed-energy-weapon-under-develo/859092383688899/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/indiandefencetime/posts/drdo-has-unveiled-a-new-high-power-microwave-directed-energy-weapon-under-develo/859092383688899/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DRDO has unveiled a new high-power microwave directed...DRDO has unveiled a new high-power microwave directed-energy weapon under develo...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: droneshield.com  
-   Link: <a href="https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Counter to Drone Swarms: High-Power Microwave...Military forces must prioritise a counter to drone swarming tactics with which inexpen...</p></details>
+   Link:<a href="https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Counter to Drone Swarms: High-Power Microwave...Military forces must prioritise a counter to drone swarming tactics with which inexpen...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: unmannedairspace.info  
-   Link: <a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-gao-report-directed-energy-weapon-technical-maturity-levels-still-lagging/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-gao-report-directed-energy-weapon-technical-maturity-levels-still-lagging/</a>  
+   Link:<a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-gao-report-directed-energy-weapon-technical-maturity-levels-still-lagging/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-gao-report-directed-energy-weapon-technical-maturity-levels-still-lagging/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=aSM6q_TKcTs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aSM6q_TKcTs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DRDO&#x27;S New Microwave Weapon ExplainedDRDO&#x27;S New Microwave Weapon Explained The DRDO High Power Microwave (HPM) Directed Energy Weapon sys...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aSM6q_TKcTs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aSM6q_TKcTs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DRDO&#x27;S New Microwave Weapon ExplainedDRDO&#x27;S New Microwave Weapon Explained The DRDO High Power Microwave (HPM) Directed Energy Weapon sys...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X1toVupe_R8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Directed Energy Weapons SystemsThe Government Accountability Office explains what are Directed Energy Weapons and takes a look at ho...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X1toVupe_R8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Directed Energy Weapons SystemsThe Government Accountability Office explains what are Directed Energy Weapons and takes a look at ho...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: war.gov  
    Title: Site Selections Announced for Directed-Energy Counter  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/4479463/site-selections-announced-for-directed-energy-counter-drone-program/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/4479463/site-selections-announced-for-directed-energy-counter-drone-program/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 6, 2026 — These capabilities, including high-energy lasers and high-powered microwave systems, are among many counter-UAS tools avail...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/4479463/site-selections-announced-for-directed-energy-counter-drone-program/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/4479463/site-selections-announced-for-directed-energy-counter-drone-program/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 6, 2026 — These capabilities, including high-energy lasers and high-powered microwave systems, are among many counter-UAS tools avail...</p></details>
    Published: May 6, 2026  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: armyrecognition.com  
    Title: u s demonstrates microwave weapon defeating [fiber optic](&#123;&#123; 'fiber-drones/' | relative_url &#125;&#125;) fpv drones  
-   Link: <a href="https://armyrecognition.com/news/army-news/2026/u-s-demonstrates-microwave-weapon-defeating-fiber-optic-fpv-drones" target="_blank" rel="noopener noreferrer nofollow">https://armyrecognition.com/news/army-news/2026/u-s-demonstrates-microwave-weapon-defeating-fiber-optic-fpv-drones</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Demonstrates Microwave Weapon Defeating Fiber...2 Feb 2026 — US counter-drone specialist Epirus has publicly demonstrated that high-powe...</p></details>
+   Link:<a href="https://armyrecognition.com/news/army-news/2026/u-s-demonstrates-microwave-weapon-defeating-fiber-optic-fpv-drones" target="_blank" rel="noopener noreferrer nofollow">https://armyrecognition.com/news/army-news/2026/u-s-demonstrates-microwave-weapon-defeating-fiber-optic-fpv-drones</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Demonstrates Microwave Weapon Defeating Fiber...2 Feb 2026 — US counter-drone specialist Epirus has publicly demonstrated that high-powe...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: phr.org  
    Title: health impacts of crowd control weapons directed energy devices  
-   Link: <a href="https://phr.org/our-work/resources/health-impacts-of-crowd-control-weapons-directed-energy-devices/" target="_blank" rel="noopener noreferrer nofollow">https://phr.org/our-work/resources/health-impacts-of-crowd-control-weapons-directed-energy-devices/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Health Impacts of Crowd-Control Weapons: Directed...Oct 28, 2020 — This technology delivers very high-frequency millimeter-wavelength el...</p></details>
+   Link:<a href="https://phr.org/our-work/resources/health-impacts-of-crowd-control-weapons-directed-energy-devices/" target="_blank" rel="noopener noreferrer nofollow">https://phr.org/our-work/resources/health-impacts-of-crowd-control-weapons-directed-energy-devices/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Health Impacts of Crowd-Control Weapons: Directed...Oct 28, 2020 — This technology delivers very high-frequency millimeter-wavelength el...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: afrl.af.mil  
    Title: army partners with air forces thor for base defense  
-   Link: <a href="https://www.afrl.af.mil/News/Article/2512426/army-partners-with-air-forces-thor-for-base-defense/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Article/2512426/army-partners-with-air-forces-thor-for-base-defense/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>partners with Air Force&#x27;s THOR for base defense23 Feb 2021 — THOR is a prototype directed energy weapon used to disable the electronics i...</p></details>
+   Link:<a href="https://www.afrl.af.mil/News/Article/2512426/army-partners-with-air-forces-thor-for-base-defense/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Article/2512426/army-partners-with-air-forces-thor-for-base-defense/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>partners with Air Force&#x27;s THOR for base defense23 Feb 2021 — THOR is a prototype directed energy weapon used to disable the electronics i...</p></details>

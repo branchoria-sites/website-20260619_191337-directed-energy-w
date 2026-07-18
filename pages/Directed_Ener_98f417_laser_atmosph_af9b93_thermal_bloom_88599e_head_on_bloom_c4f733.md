@@ -269,19 +269,19 @@ image: /assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_thermal_bloom_88
 
 ## Introduction
 
-A high-energy laser is most effective when it can keep a tightly focused spot on a target for long enough to deposit damaging heat. Counterintuitively, an incoming target moving directly towards the laser can make that task harder. In a head-on engagement, the beam tends to keep passing through nearly the same column of [atmosphere]({{ 'atmosphere/' | relative_url }}) while it dwells on the target. The air along that path absorbs a small fraction of the laser energy, heats up, changes density, and develops refractive-index gradients that act like a defocusing lens. As the engagement continues, the laser increasingly propagates through air that it has already disturbed, causing thermal [blooming]({{ 'blooming/' | relative_url }}) to grow precisely during the period when sustained energy delivery is required. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rp-photonics.com/thermal_blooming.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rp-photonics.com">[RP Photonics+2RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rp-photonics.com</span><span class="citation-popover-title">air) or a liquid</span><span class="citation-popover-snippet">RP PhotonicsThermal BloomingNovember 17, 2025 — by R Paschotta · 2023 — Thermal blooming is a physical phenomenon associated with the pro...</span><span class="citation-popover-meta">Published: November 17, 2025</span></span></span>
+A high-energy laser is most effective when it can keep a tightly focused spot on a target for long enough to deposit damaging heat. Counterintuitively, an incoming target moving directly towards the laser can make that task harder. In a head-on engagement, the beam tends to keep passing through nearly the same column of [atmosphere]({{ 'atmosphere/' | relative_url }}) while it dwells on the target. The air along that path absorbs a small fraction of the laser energy, heats up, changes density, and develops refractive-index gradients that act like a defocusing lens. As the engagement continues, the laser increasingly propagates through air that it has already disturbed, causing thermal [blooming]({{ 'blooming/' | relative_url }}) to grow precisely during the period when sustained energy delivery is required.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rp-photonics.com/thermal_blooming.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rp-photonics.com">[RP Photonics+2RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rp-photonics.com</span><span class="citation-popover-title">air) or a liquid</span><span class="citation-popover-snippet">RP PhotonicsThermal BloomingNovember 17, 2025 — by R Paschotta · 2023 — Thermal blooming is a physical phenomenon associated with the pro...</span><span class="citation-popover-meta">Published: November 17, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_thermal_bloom_88599e_head_on_bloom_c4f733-Illustration-1-dark.svg" | relative_url }}" alt="Head On Shots illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_thermal_bloom_88599e_head_on_bloom_c4f733-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_thermal_bloom_88599e_head_on_bloom_c4f733-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This geometric effect is one reason why laser-weapon analysts have long treated “down-the-throat” shots against incoming missiles and drones as a special case. The challenge is not simply [laser power]({{ 'power-costs/' | relative_url }}); it is the interaction between beam dwell time, atmospheric heating, and target motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/laser-wars-us-military-laser-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2ETH Zurich Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Welcome to the Laser Wars</span><span class="citation-popover-snippet">Arriving overseas in 2022 and actively engaging enemy drones, this marks a significant milestone in laser weapon technology for air defen...</span></span></span>
+This geometric effect is one reason why laser-weapon analysts have long treated “down-the-throat” shots against incoming missiles and drones as a special case. The challenge is not simply [laser power]({{ 'power-costs/' | relative_url }}); it is the interaction between beam dwell time, atmospheric heating, and target motion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/laser-wars-us-military-laser-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2ETH Zurich Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Welcome to the Laser Wars</span><span class="citation-popover-snippet">Arriving overseas in 2022 and actively engaging enemy drones, this marks a significant milestone in laser weapon technology for air defen...</span></span></span>
 
 ## How a Beam Reheats Its Own Air Channel
 
-Thermal blooming begins when atmospheric absorption removes a small amount of energy from the beam. The absorbed energy heats the air along the propagation path. As the air warms, it expands, its density falls, and its refractive index changes. The resulting refractive-index pattern behaves like a weak negative lens that spreads and distorts the beam. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rp-photonics.com/thermal_blooming.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rp-photonics.com">[RP Photonics+2RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rp-photonics.com</span><span class="citation-popover-title">air) or a liquid</span><span class="citation-popover-snippet">RP PhotonicsThermal BloomingNovember 17, 2025 — by R Paschotta · 2023 — Thermal blooming is a physical phenomenon associated with the pro...</span><span class="citation-popover-meta">Published: November 17, 2025</span></span></span>
+Thermal blooming begins when atmospheric absorption removes a small amount of energy from the beam. The absorbed energy heats the air along the propagation path. As the air warms, it expands, its density falls, and its refractive index changes. The resulting refractive-index pattern behaves like a weak negative lens that spreads and distorts the beam.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rp-photonics.com/thermal_blooming.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rp-photonics.com">[RP Photonics+2RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rp-photonics.com</span><span class="citation-popover-title">air) or a liquid</span><span class="citation-popover-snippet">RP PhotonicsThermal BloomingNovember 17, 2025 — by R Paschotta · 2023 — Thermal blooming is a physical phenomenon associated with the pro...</span><span class="citation-popover-meta">Published: November 17, 2025</span></span></span>
 
-In many engagement geometries, winds, platform motion, or changing lines of sight help move the heated air away from the optical path. [Crosswinds]({{ 'crosswinds/' | relative_url }}) are particularly helpful because they sweep the warmed air out of the beam's route before additional energy is deposited there. Historical analyses of airborne laser concepts repeatedly identified crosswinds as an important factor in reducing thermal-blooming penalties. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.files.ethz.ch/isn/31415/forden.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ethz.ch">[ETH Zurich Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ethz.ch</span><span class="citation-popover-snippet">ETH Zurich FilesThe Airborne Laser12 Nov 1996 — This is an example of thermal blooming, one of the difficulties intense laser beams face...</span></span></span>
+In many engagement geometries, winds, platform motion, or changing lines of sight help move the heated air away from the optical path. [Crosswinds]({{ 'crosswinds/' | relative_url }}) are particularly helpful because they sweep the warmed air out of the beam's route before additional energy is deposited there. Historical analyses of airborne laser concepts repeatedly identified crosswinds as an important factor in reducing thermal-blooming penalties.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.files.ethz.ch/isn/31415/forden.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ethz.ch">[ETH Zurich Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ethz.ch</span><span class="citation-popover-snippet">ETH Zurich FilesThe Airborne Laser12 Nov 1996 — This is an example of thermal blooming, one of the difficulties intense laser beams face...</span></span></span>
 
-A head-on engagement reduces that advantage. The laser continuously points along nearly the same atmospheric corridor as the target closes range. Instead of encountering fresh air, the beam repeatedly traverses air that has already been heated during previous fractions of a second. The beam is therefore not merely creating a thermal lens; it is repeatedly strengthening one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.files.ethz.ch/isn/31415/forden.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ethz.ch">[ETH Zurich Files+2RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ethz.ch</span><span class="citation-popover-snippet">ETH Zurich FilesThe Airborne Laser12 Nov 1996 — This is an example of thermal blooming, one of the difficulties intense laser beams face...</span></span></span>
+A head-on engagement reduces that advantage. The laser continuously points along nearly the same atmospheric corridor as the target closes range. Instead of encountering fresh air, the beam repeatedly traverses air that has already been heated during previous fractions of a second. The beam is therefore not merely creating a thermal lens; it is repeatedly strengthening one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.files.ethz.ch/isn/31415/forden.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ethz.ch">[ETH Zurich Files+2RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ethz.ch</span><span class="citation-popover-snippet">ETH Zurich FilesThe Airborne Laser12 Nov 1996 — This is an example of thermal blooming, one of the difficulties intense laser beams face...</span></span></span>
 
 The effect is best understood as a feedback loop:
 
@@ -299,20 +299,20 @@ The effect is best understood as a feedback loop:
 
 </div>
 
-As this cycle continues, atmospheric distortion can grow faster than in geometries where the heated air is continually replaced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/reports/R1726.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation+2AFIT Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationMethod for Estimating the Thermal Blooming EffectDescribes a simple method without the use of codes which has been develo...</span></span></span>
+As this cycle continues, atmospheric distortion can grow faster than in geometries where the heated air is continually replaced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/reports/R1726.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation+2AFIT Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationMethod for Estimating the Thermal Blooming EffectDescribes a simple method without the use of codes which has been develo...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7J2NJLBVER8" title="Iron Beam In Fog: Can Laser Weapons Work Without Visibility? | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7J2NJLBVER8" target="_blank" rel="noopener noreferrer">Iron Beam In Fog: Can Laser Weapons Work Without Visibility? | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7J2NJLBVER8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7J2NJLBVER8">Open on YouTube</a></p></div></div></div>
 
 ## Why Dwell Time Makes the Distortion Grow
 
-Directed-energy weapons generally damage targets through accumulated heating rather than instantaneous impact. The laser must remain on a vulnerable point long enough for material temperatures to rise to failure levels. Defence and laser-propagation studies therefore emphasise maintaining focus on an aim point for a sufficient dwell period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyState of the Art and Evolution of High-Energy Laser Weapons31 Mar 2010 — The purpose of an HEL weapon system i...</span></span></span>
+Directed-energy weapons generally damage targets through accumulated heating rather than instantaneous impact. The laser must remain on a vulnerable point long enough for material temperatures to rise to failure levels. Defence and laser-propagation studies therefore emphasise maintaining focus on an aim point for a sufficient dwell period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyState of the Art and Evolution of High-Energy Laser Weapons31 Mar 2010 — The purpose of an HEL weapon system i...</span></span></span>
 
-That requirement interacts directly with thermal blooming. The longer a continuous-wave beam remains on target, the longer the atmosphere has to respond thermally. Unlike a short pulse that ends before significant atmospheric heating develops, a sustained beam continually feeds energy into the same air volume. Thermal gradients strengthen, and the resulting optical distortion becomes increasingly significant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rp-photonics.com/thermal_blooming.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rp-photonics.com">[RP Photonics+2RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rp-photonics.com</span><span class="citation-popover-title">air) or a liquid</span><span class="citation-popover-snippet">RP PhotonicsThermal BloomingNovember 17, 2025 — by R Paschotta · 2023 — Thermal blooming is a physical phenomenon associated with the pro...</span><span class="citation-popover-meta">Published: November 17, 2025</span></span></span>
+That requirement interacts directly with thermal blooming. The longer a continuous-wave beam remains on target, the longer the atmosphere has to respond thermally. Unlike a short pulse that ends before significant atmospheric heating develops, a sustained beam continually feeds energy into the same air volume. Thermal gradients strengthen, and the resulting optical distortion becomes increasingly significant.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rp-photonics.com/thermal_blooming.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rp-photonics.com">[RP Photonics+2RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rp-photonics.com</span><span class="citation-popover-title">air) or a liquid</span><span class="citation-popover-snippet">RP PhotonicsThermal BloomingNovember 17, 2025 — by R Paschotta · 2023 — Thermal blooming is a physical phenomenon associated with the pro...</span><span class="citation-popover-meta">Published: November 17, 2025</span></span></span>
 
-Laboratory and modelling studies of thermal blooming consistently show that increasing deposited energy increases temperature fluctuations and refractive-index distortions. The resulting beam broadening, deflection, and asymmetry grow with power and exposure time because the optical field and the heated flow field influence one another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://api.creol.ucf.edu/Publications/18163.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.creol.ucf.edu">[Creol API+2KQDLXXB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.creol.ucf.edu</span><span class="citation-popover-snippet">Creol APIAsymmetric Steady Thermal BloomingThe temperature fluctuations surrounding the beam increase with increasing beam power, “Therma...</span></span></span>
+Laboratory and modelling studies of thermal blooming consistently show that increasing deposited energy increases temperature fluctuations and refractive-index distortions. The resulting beam broadening, deflection, and asymmetry grow with power and exposure time because the optical field and the heated flow field influence one another.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://api.creol.ucf.edu/Publications/18163.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.creol.ucf.edu">[Creol API+2KQDLXXB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.creol.ucf.edu</span><span class="citation-popover-snippet">Creol APIAsymmetric Steady Thermal BloomingThe temperature fluctuations surrounding the beam increase with increasing beam power, “Therma...</span></span></span>
 
-For an approaching target, this timing is particularly unfavourable. The weapon often wants maximum irradiance at exactly the moment the thermal lens is becoming strongest. The atmosphere is effectively changing from a passive transmission medium into an active source of beam degradation during the engagement itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/reports/R1726.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationMethod for Estimating the Thermal Blooming EffectDescribes a simple method without the use of codes which has been develo...</span></span></span>
+For an approaching target, this timing is particularly unfavourable. The weapon often wants maximum irradiance at exactly the moment the thermal lens is becoming strongest. The atmosphere is effectively changing from a passive transmission medium into an active source of beam degradation during the engagement itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/reports/R1726.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationMethod for Estimating the Thermal Blooming EffectDescribes a simple method without the use of codes which has been develo...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_thermal_bloom_88599e_head_on_bloom_c4f733-Illustration-2-dark.svg" | relative_url }}" alt="Head On Shots illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_thermal_bloom_88599e_head_on_bloom_c4f733-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_thermal_bloom_88599e_head_on_bloom_c4f733-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -333,206 +333,206 @@ For a head-on target:
 
 * The line of sight changes comparatively little.
 * The beam repeatedly occupies nearly the same atmospheric corridor.
-* Thermal disturbances remain more closely aligned with the optical path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.files.ethz.ch/isn/31415/forden.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ethz.ch">[ETH Zurich Files+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ethz.ch</span><span class="citation-popover-snippet">ETH Zurich FilesThe Airborne Laser12 Nov 1996 — This is an example of thermal blooming, one of the difficulties intense laser beams face...</span></span></span>
+* Thermal disturbances remain more closely aligned with the optical path.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.files.ethz.ch/isn/31415/forden.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ethz.ch">[ETH Zurich Files+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ethz.ch</span><span class="citation-popover-snippet">ETH Zurich FilesThe Airborne Laser12 Nov 1996 — This is an example of thermal blooming, one of the difficulties intense laser beams face...</span></span></span>
 
 </div>
 
-This distinction has been recognised in military assessments of laser weapons. Contemporary reporting on US military directed-energy programmes has noted that thermal blooming can make head-on engagements against incoming threats less effective than many non-specialists expect. Analysts have specifically highlighted “down-the-throat” shots as a case where atmospheric self-distortion becomes more severe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/laser-wars-us-military-laser-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Welcome to the Laser Wars</span><span class="citation-popover-snippet">Arriving overseas in 2022 and actively engaging enemy drones, this marks a significant milestone in laser weapon technology for air defen...</span></span></span>
+This distinction has been recognised in military assessments of laser weapons. Contemporary reporting on US military directed-energy programmes has noted that thermal blooming can make head-on engagements against incoming threats less effective than many non-specialists expect. Analysts have specifically highlighted “down-the-throat” shots as a case where atmospheric self-distortion becomes more severe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/laser-wars-us-military-laser-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Welcome to the Laser Wars</span><span class="citation-popover-snippet">Arriving overseas in 2022 and actively engaging enemy drones, this marks a significant milestone in laser weapon technology for air defen...</span></span></span>
 
-The problem does not necessarily make interception impossible. Rather, it can increase the power, beam quality, adaptive-optics performance, or engagement time required to achieve the desired effect. A laser that works well against one trajectory may perform less effectively against another because the atmosphere is being heated differently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-Directed-Ener.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: com.pl">[Defence Science Review+2RP Photonics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">com.pl</span><span class="citation-popover-title">pdf 216776 135052</span><span class="citation-popover-snippet">Defence Science ReviewDEFENCE SCIENCE REVIEWby A Karkadakattil · 2026 · Cited by 1 — Thermal blooming, produced by localized air heating...</span></span></span>
+The problem does not necessarily make interception impossible. Rather, it can increase the power, beam quality, adaptive-optics performance, or engagement time required to achieve the desired effect. A laser that works well against one trajectory may perform less effectively against another because the atmosphere is being heated differently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-Directed-Ener.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: com.pl">[Defence Science Review+2RP Photonics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">com.pl</span><span class="citation-popover-title">pdf 216776 135052</span><span class="citation-popover-snippet">Defence Science ReviewDEFENCE SCIENCE REVIEWby A Karkadakattil · 2026 · Cited by 1 — Thermal blooming, produced by localized air heating...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/k7aPN1ihoWo" title="Why Nobody Can Stop Drone Swarms." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=k7aPN1ihoWo" target="_blank" rel="noopener noreferrer">Why Nobody Can Stop Drone Swarms.</a></p><p class="youtube-embed-meta">Channel: Second Order Science</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=k7aPN1ihoWo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=k7aPN1ihoWo">Open on YouTube</a></p></div></div></div>
 
 ## What This Means for Incoming Drones and Missiles
 
-The practical consequence is that an approaching threat can be harder to damage than a simple range calculation suggests. If blooming enlarges the spot on the target, the delivered power density falls. The laser may still be delivering the same total power, but that energy is spread over a larger area, slowing the heating process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.files.ethz.ch/isn/31415/forden.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ethz.ch">[ETH Zurich Files+2RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ethz.ch</span><span class="citation-popover-snippet">ETH Zurich FilesThe Airborne Laser12 Nov 1996 — This is an example of thermal blooming, one of the difficulties intense laser beams face...</span></span></span>
+The practical consequence is that an approaching threat can be harder to damage than a simple range calculation suggests. If blooming enlarges the spot on the target, the delivered power density falls. The laser may still be delivering the same total power, but that energy is spread over a larger area, slowing the heating process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.files.ethz.ch/isn/31415/forden.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ethz.ch">[ETH Zurich Files+2RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ethz.ch</span><span class="citation-popover-snippet">ETH Zurich FilesThe Airborne Laser12 Nov 1996 — This is an example of thermal blooming, one of the difficulties intense laser beams face...</span></span></span>
 
 This creates several operational implications:
 
 * **Engagement windows may shrink.** More time is needed to achieve damage, but the target is simultaneously closing distance.
 * **Beam-control systems become more important.** Adaptive optics and beam-compensation techniques must counter not only atmospheric turbulence but also laser-induced distortions.
 * **Shot geometry matters.** Operators may prefer engagement angles that avoid repeatedly heating the same air channel when tactical circumstances permit.
-* **Higher power alone is not a complete solution.** Additional power can increase target heating, but it can also increase atmospheric heating and therefore strengthen blooming. ETH Zurich Files+3Defence Science Review+3RP Photonics <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-Directed-Ener.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: com.pl">[com.pl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">com.pl</span><span class="citation-popover-title">pdf 216776 135052</span><span class="citation-popover-snippet">Defence Science ReviewDEFENCE SCIENCE REVIEWby A Karkadakattil · 2026 · Cited by 1 — Thermal blooming, produced by localized air heating...</span></span></span>
+* **Higher power alone is not a complete solution.** Additional power can increase target heating, but it can also increase atmospheric heating and therefore strengthen blooming. ETH Zurich Files+3Defence Science Review+3RP Photonics<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-Directed-Ener.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: com.pl">[com.pl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">com.pl</span><span class="citation-popover-title">pdf 216776 135052</span><span class="citation-popover-snippet">Defence Science ReviewDEFENCE SCIENCE REVIEWby A Karkadakattil · 2026 · Cited by 1 — Thermal blooming, produced by localized air heating...</span></span></span>
 
-For this reason, thermal blooming is often discussed not merely as an atmospheric propagation problem but as a tactical one. The effectiveness of a high-energy laser depends on how the target moves relative to the beam, how long the beam must dwell, and how rapidly the atmosphere can carry away the heat deposited along the propagation path. In head-on engagements, those factors combine in a way that tends to reinforce self-defocusing rather than relieve it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.files.ethz.ch/isn/31415/forden.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ethz.ch">[ETH Zurich Files+2RP Photonics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ethz.ch</span><span class="citation-popover-snippet">ETH Zurich FilesThe Airborne Laser12 Nov 1996 — This is an example of thermal blooming, one of the difficulties intense laser beams face...</span></span></span>
+For this reason, thermal blooming is often discussed not merely as an atmospheric propagation problem but as a tactical one. The effectiveness of a high-energy laser depends on how the target moves relative to the beam, how long the beam must dwell, and how rapidly the atmosphere can carry away the heat deposited along the propagation path. In head-on engagements, those factors combine in a way that tends to reinforce self-defocusing rather than relieve it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.files.ethz.ch/isn/31415/forden.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ethz.ch">[ETH Zurich Files+2RP Photonics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ethz.ch</span><span class="citation-popover-snippet">ETH Zurich FilesThe Airborne Laser12 Nov 1996 — This is an example of thermal blooming, one of the difficulties intense laser beams face...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_thermal_bloom_88599e_head_on_bloom_c4f733-Illustration-3-dark.svg" | relative_url }}" alt="Head On Shots illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_thermal_bloom_88599e_head_on_bloom_c4f733-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_thermal_bloom_88599e_head_on_bloom_c4f733-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Head On Targets Can Make Lasers Bloom. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Head On Targets Can Make Lasers Bloom. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Principles+of+Lasers+Orazio+Svelto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Principles of Lasers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8709531-M.jpg" alt="Cover for Principles of Lasers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Principles+of+Lasers+Orazio+Svelto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Principles of Lasers">Principles of Lasers</a>
-        </h4>
-        <p class="fr-book-author">By Orazio Svelto</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Principles+of+Lasers+Orazio+Svelto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Principles of Lasers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8709531-M.jpg" alt="Cover for Principles of Lasers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Principles+of+Lasers+Orazio+Svelto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Principles of Lasers">Principles of Lasers</a>
+</h4>
+<p class="fr-book-author">By Orazio Svelto</p>
         
-        <p class="fr-book-desc">First published 1970. Subjects: Lasers, Quantum theory, Physics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Principles+of+Lasers+Orazio+Svelto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1970. Subjects: Lasers, Quantum theory, Physics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Principles+of+Lasers+Orazio+Svelto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Laser+Fundamentals+William+T.+Silfvast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Laser Fundamentals on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/358354-M.jpg" alt="Cover for Laser Fundamentals" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Laser+Fundamentals+William+T.+Silfvast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser Fundamentals">Laser Fundamentals</a>
-        </h4>
-        <p class="fr-book-author">By William T. Silfvast</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Laser+Fundamentals+William+T.+Silfvast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Laser Fundamentals on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/358354-M.jpg" alt="Cover for Laser Fundamentals" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Laser+Fundamentals+William+T.+Silfvast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser Fundamentals">Laser Fundamentals</a>
+</h4>
+<p class="fr-book-author">By William T. Silfvast</p>
         
-        <p class="fr-book-desc">First published 2004. Subjects: Lasers, Ta1675 .s52 2004, 621.36/6.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Laser+Fundamentals+William+T.+Silfvast&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2004. Subjects: Lasers, Ta1675 .s52 2004, 621.36/6.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Laser+Fundamentals+William+T.+Silfvast&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Photonics, 2 Volume Set on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13839810-M.jpg" alt="Cover for Fundamentals of Photonics, 2 Volume Set" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Photonics, 2 Volume Set">Fundamentals of Photonics, 2 Volume Set</a>
-        </h4>
-        <p class="fr-book-author">By Bahaa E. A. Saleh, Malvin Carl Teich</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Photonics, 2 Volume Set on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13839810-M.jpg" alt="Cover for Fundamentals of Photonics, 2 Volume Set" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Photonics, 2 Volume Set">Fundamentals of Photonics, 2 Volume Set</a>
+</h4>
+<p class="fr-book-author">By Bahaa E. A. Saleh, Malvin Carl Teich</p>
         
-        <p class="fr-book-desc">First published 2019. Subjects: Photonics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019. Subjects: Photonics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media+Larry+C.+Andrews+and+Ronald+L.+Phillips&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Laser Beam Propagation through Random Media on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media+Larry+C.+Andrews+and+Ronald+L.+Phillips&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser Beam Propagation through Random Media">Laser Beam Propagation through Random Media</a>
-        </h4>
-        <p class="fr-book-author">By Larry C. Andrews and Ronald L. Phillips</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media+Larry+C.+Andrews+and+Ronald+L.+Phillips&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Laser Beam Propagation through Random Media on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media+Larry+C.+Andrews+and+Ronald+L.+Phillips&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser Beam Propagation through Random Media">Laser Beam Propagation through Random Media</a>
+</h4>
+<p class="fr-book-author">By Larry C. Andrews and Ronald L. Phillips</p>
         
-        <p class="fr-book-desc">Directly covers atmospheric propagation effects, turbulence, beam spreading, and related phenomena underlying thermal blooming.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media+Larry+C.+Andrews+and+Ronald+L.+Phillips&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers atmospheric propagation effects, turbulence, beam spreading, and related phenomena underlying thermal blooming.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media+Larry+C.+Andrews+and+Ronald+L.+Phillips&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Principles+of+Lasers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Principles of Lasers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Laser+Fundamentals&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Laser Fundamentals</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of Photonics, 2 Volume Set</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Principles+of+Lasers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Principles of Lasers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Laser+Fundamentals&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Laser Fundamentals</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of Photonics, 2 Volume Set</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1PCS 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Plastic Model With Stand"><img src="{{ '/assets/images/marketplace-covers/2dfd96291cf29af9defa.jpg' | relative_url }}" alt="Listing image for 1PCS 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Plastic Model With Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer">1PCS 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Plastic Model With Stand</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser weapon model">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser weapon model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1PCS 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Plastic Model With Stand"><img src="{{ '/assets/images/marketplace-covers/2dfd96291cf29af9defa.jpg' | relative_url }}" alt="Listing image for 1PCS 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Plastic Model With Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer">1PCS 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Plastic Model With Stand</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser weapon model">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser weapon model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Professional 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Model With Stand"><img src="{{ '/assets/images/marketplace-covers/056ef0ac7dadf352feda.jpg' | relative_url }}" alt="Listing image for Professional 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Model With Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer">Professional 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Model With Stand</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser weapon model">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser weapon model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Professional 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Model With Stand"><img src="{{ '/assets/images/marketplace-covers/056ef0ac7dadf352feda.jpg' | relative_url }}" alt="Listing image for Professional 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Model With Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer">Professional 11cm China LY-1 Shipborne Laser Weapon 1/16 Scale Model With Stand</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser weapon model">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser weapon model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D Printed 1/72 Ly1 Laser Weapon Model Unpainted Kit"><img src="{{ '/assets/images/marketplace-covers/b02cbf6ea96fa696e631.jpg' | relative_url }}" alt="Listing image for 3D Printed 1/72 Ly1 Laser Weapon Model Unpainted Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer">3D Printed 1/72 Ly1 Laser Weapon Model Unpainted Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser weapon model">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser weapon model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D Printed 1/72 Ly1 Laser Weapon Model Unpainted Kit"><img src="{{ '/assets/images/marketplace-covers/b02cbf6ea96fa696e631.jpg' | relative_url }}" alt="Listing image for 3D Printed 1/72 Ly1 Laser Weapon Model Unpainted Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer">3D Printed 1/72 Ly1 Laser Weapon Model Unpainted Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser weapon model">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser weapon model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+weapon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser weapon model" data-ebay-reference="head-on-shots-why-head-on-targets-can-make-lasers-bloom-directed-ener-laser-weapon-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -548,7 +548,7 @@ For this reason, thermal blooming is often discussed not merely as an atmospheri
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -568,7 +568,7 @@ For this reason, thermal blooming is often discussed not merely as an atmospheri
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -600,7 +600,7 @@ For this reason, thermal blooming is often discussed not merely as an atmospheri
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -652,7 +652,7 @@ For this reason, thermal blooming is often discussed not merely as an atmospheri
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -697,7 +697,7 @@ For this reason, thermal blooming is often discussed not merely as an atmospheri
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,131 +738,131 @@ For this reason, thermal blooming is often discussed not merely as an atmospheri
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: rp-photonics.com  
    Title: air) or a liquid  
-   Link: <a href="https://www.rp-photonics.com/thermal_blooming.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rp-photonics.com/thermal_blooming.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RP PhotonicsThermal BloomingNovember 17, 2025 — by R Paschotta · 2023 — Thermal blooming is a physical phenomenon associated with the pro...</p></details>
+   Link:<a href="https://www.rp-photonics.com/thermal_blooming.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rp-photonics.com/thermal_blooming.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RP PhotonicsThermal BloomingNovember 17, 2025 — by R Paschotta · 2023 — Thermal blooming is a physical phenomenon associated with the pro...</p></details>
    Published: November 17, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: rand.org  
-   Link: <a href="https://www.rand.org/pubs/reports/R1726.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/reports/R1726.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RAND CorporationMethod for Estimating the Thermal Blooming EffectDescribes a simple method without the use of codes which has been develo...</p></details>
+   Link:<a href="https://www.rand.org/pubs/reports/R1726.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/reports/R1726.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAND CorporationMethod for Estimating the Thermal Blooming EffectDescribes a simple method without the use of codes which has been develo...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wired.com  
    Title: Welcome to the Laser Wars  
-   Link: <a href="https://www.wired.com/story/laser-wars-us-military-laser-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/laser-wars-us-military-laser-weapons</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Arriving overseas in 2022 and actively engaging enemy drones, this marks a significant milestone in laser weapon technology for air defen...</p></details>
+   Link:<a href="https://www.wired.com/story/laser-wars-us-military-laser-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/laser-wars-us-military-laser-weapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Arriving overseas in 2022 and actively engaging enemy drones, this marks a significant milestone in laser weapon technology for air defen...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: scholar.afit.edu  
    Title: Thermal blooming is a well documented phenomenon [15],  
-   Link: <a href="https://scholar.afit.edu/cgi/viewcontent.cgi?article=1774&amp;context=facpub%2F1000" target="_blank" rel="noopener noreferrer nofollow">https://scholar.afit.edu/cgi/viewcontent.cgi?article=1774&amp;context=facpub%2F1000</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AFIT ScholarAtmospheric Propagation of High Energy [Lasers](&amp;#123;&amp;#123; &#x27;lasers/&#x27; | relative_url &amp;#125;&amp;#125;): Thermal...The resulting change in refractive index feeds back upon the beam...</p></details>
+   Link:<a href="https://scholar.afit.edu/cgi/viewcontent.cgi?article=1774&amp;context=facpub%2F1000" target="_blank" rel="noopener noreferrer nofollow">https://scholar.afit.edu/cgi/viewcontent.cgi?article=1774&amp;context=facpub%2F1000</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFIT ScholarAtmospheric Propagation of High Energy [Lasers](&amp;#123;&amp;#123; &#x27;lasers/&#x27; | relative_url &amp;#125;&amp;#125;): Thermal...The resulting change in refractive index feeds back upon the beam...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: api.creol.ucf.edu  
-   Link: <a href="https://api.creol.ucf.edu/Publications/18163.pdf" target="_blank" rel="noopener noreferrer nofollow">https://api.creol.ucf.edu/Publications/18163.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Creol APIAsymmetric Steady Thermal BloomingThe temperature fluctuations surrounding the beam increase with increasing beam power, “Therma...</p></details>
+   Link:<a href="https://api.creol.ucf.edu/Publications/18163.pdf" target="_blank" rel="noopener noreferrer nofollow">https://api.creol.ucf.edu/Publications/18163.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Creol APIAsymmetric Steady Thermal BloomingThe temperature fluctuations surrounding the beam increase with increasing beam power, “Therma...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: kqdlxxb.xml-journal.net  
-   Link: <a href="https://kqdlxxb.xml-journal.net/en/article/doi/10.7638/kqdlxxb-2024.0156" target="_blank" rel="noopener noreferrer nofollow">https://kqdlxxb.xml-journal.net/en/article/doi/10.7638/kqdlxxb-2024.0156</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Numerical simulation of aero-optical thermal blooming...by WEI Zexuan · 2025 — In this study, thermal blooming effect was calcula...</p></details>
+   Link:<a href="https://kqdlxxb.xml-journal.net/en/article/doi/10.7638/kqdlxxb-2024.0156" target="_blank" rel="noopener noreferrer nofollow">https://kqdlxxb.xml-journal.net/en/article/doi/10.7638/kqdlxxb-2024.0156</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Numerical simulation of aero-optical thermal blooming...by WEI Zexuan · 2025 — In this study, thermal blooming effect was calcula...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: scholar.afit.edu  
-   Link: <a href="https://scholar.afit.edu/cgi/viewcontent.cgi?article=3653&amp;context=etd" target="_blank" rel="noopener noreferrer nofollow">https://scholar.afit.edu/cgi/viewcontent.cgi?article=3653&amp;context=etd</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects and Benefits of Beam Defocus on...by SN Long · 2008 · Cited by 3 — The thermal blooming effect is a distortion due to the laser...</p></details>
+   Link:<a href="https://scholar.afit.edu/cgi/viewcontent.cgi?article=3653&amp;context=etd" target="_blank" rel="noopener noreferrer nofollow">https://scholar.afit.edu/cgi/viewcontent.cgi?article=3653&amp;context=etd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects and Benefits of Beam Defocus on...by SN Long · 2008 · Cited by 3 — The thermal blooming effect is a distortion due to the laser...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: rand.org  
-   Link: <a href="https://www.rand.org/content/dam/rand/pubs/reports/2007/R1726.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/reports/2007/R1726.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Method for Estimating the Thermal Blooming EffectIn the present study, a simple method has been developed to estimate the thermal bloomin...</p></details>
+   Link:<a href="https://www.rand.org/content/dam/rand/pubs/reports/2007/R1726.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/reports/2007/R1726.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Method for Estimating the Thermal Blooming EffectIn the present study, a simple method has been developed to estimate the thermal bloomin...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: files.ethz.ch  
-   Link: <a href="https://www.files.ethz.ch/isn/31415/forden.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.files.ethz.ch/isn/31415/forden.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ETH Zurich FilesThe Airborne Laser12 Nov 1996 — This is an example of thermal blooming, one of the difficulties intense laser beams face...</p></details>
+   Link:<a href="https://www.files.ethz.ch/isn/31415/forden.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.files.ethz.ch/isn/31415/forden.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ETH Zurich FilesThe Airborne Laser12 Nov 1996 — This is an example of thermal blooming, one of the difficulties intense laser beams face...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyState of the Art and Evolution of High-Energy Laser Weapons31 Mar 2010 — The purpose of an HEL weapon system i...</p></details>
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyState of the Art and Evolution of High-Energy Laser Weapons31 Mar 2010 — The purpose of an HEL weapon system i...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: defencesciencereview.com.pl  
    Title: pdf 216776 135052  
-   Link: <a href="https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-[Directed-Ener" target="_blank" rel="noopener noreferrer nofollow">https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-[Directed-Ener</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defence Science ReviewDEFENCE SCIENCE REVIEWby A Karkadakattil · 2026 · Cited by 1 — Thermal blooming, produced by localized air heating...</p></details>
+   Link:<a href="https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-[Directed-Ener" target="_blank" rel="noopener noreferrer nofollow">https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-[Directed-Ener</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defence Science ReviewDEFENCE SCIENCE REVIEWby A Karkadakattil · 2026 · Cited by 1 — Thermal blooming, produced by localized air heating...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciopen.com  
    Title: kqdlxxb 2024.0156  
-   Link: <a href="https://www.sciopen.com/article/10.7638/kqdlxxb-2024.0156" target="_blank" rel="noopener noreferrer nofollow">https://www.sciopen.com/article/10.7638/kqdlxxb-2024.0156</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Numerical simulation of aero-optical thermal blooming...by Z WEI · 2025 — In this study, thermal blooming effect was calculated and anal...</p></details>
+   Link:<a href="https://www.sciopen.com/article/10.7638/kqdlxxb-2024.0156" target="_blank" rel="noopener noreferrer nofollow">https://www.sciopen.com/article/10.7638/kqdlxxb-2024.0156</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Numerical simulation of aero-optical thermal blooming...by Z WEI · 2025 — In this study, thermal blooming effect was calculated and anal...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: spie.org  
-   Link: <a href="https://spie.org/Publications/Proceedings/Volume/0410" target="_blank" rel="noopener noreferrer nofollow">https://spie.org/Publications/Proceedings/Volume/0410</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Beam Propagation in the Atmosphere | (1983)The concept employs small discrete subapertures in place of a large single aperture to r...</p></details>
+   Link:<a href="https://spie.org/Publications/Proceedings/Volume/0410" target="_blank" rel="noopener noreferrer nofollow">https://spie.org/Publications/Proceedings/Volume/0410</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Beam Propagation in the Atmosphere | (1983)The concept employs small discrete subapertures in place of a large single aperture to r...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/259306195_Two-dimensional-simulation_of_thermal_blooming_effects_in_ring_pattern_laser_beams" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259306195_Two-dimensional-simulation_of_thermal_blooming_effects_in_ring_pattern_laser_beams</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Two-dimensional-simulation of thermal blooming...20 Jun 2017 — Thermal blooming is a major effect in high power laser beams transm...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/259306195_Two-dimensional-simulation_of_thermal_blooming_effects_in_ring_pattern_laser_beams" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259306195_Two-dimensional-simulation_of_thermal_blooming_effects_in_ring_pattern_laser_beams</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Two-dimensional-simulation of thermal blooming...20 Jun 2017 — Thermal blooming is a major effect in high power laser beams transm...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/high-energy-laser-propagation-in-various-atmospheric-3h3lb87qng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/high-energy-laser-propagation-in-various-atmospheric-3h3lb87qng.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>which ambient air surrounding the propagating laser beam is heated by the beam...</p></details>
+   Link:<a href="https://scispace.com/pdf/high-energy-laser-propagation-in-various-atmospheric-3h3lb87qng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/high-energy-laser-propagation-in-various-atmospheric-3h3lb87qng.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>which ambient air surrounding the propagating laser beam is heated by the beam...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Can Israel's Iron Beam Stop Hypersonic Missiles? Explained | WION Podcast  
-   Link: <a href="https://www.youtube.com/watch?v=ob6bkHtjwwY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ob6bkHtjwwY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Iron Beam In Fog: Can Laser Weapons Work Without Visibility? | WION Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ob6bkHtjwwY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ob6bkHtjwwY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Iron Beam In Fog: Can Laser Weapons Work Without Visibility? | WION Podcast...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/20111524/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/20111524/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The intensity profiles, light rays, and fluid density changes...Rea...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/20111524/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/20111524/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The intensity profiles, light rays, and fluid density changes...Rea...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: deps.org  
    Title: JV2N1P5 Sprangle  
-   Link: <a href="https://www.deps.org/DEPSpages/JDE/JV2N1P5-Sprangle.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.deps.org/DEPSpages/JDE/JV2N1P5-Sprangle.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>95 - Optimum [Wavelength](&amp;#123;&amp;#123; &#x27;wavelengths/&#x27; | relative_url &amp;#125;&amp;#125;) and Power for Efficient Laser...by P Sprangle · 2006 · Cited by 81 — Hcated aerosols conductively heat the surro...</p></details>
+   Link:<a href="https://www.deps.org/DEPSpages/JDE/JV2N1P5-Sprangle.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.deps.org/DEPSpages/JDE/JV2N1P5-Sprangle.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>95 - Optimum [Wavelength](&amp;#123;&amp;#123; &#x27;wavelengths/&#x27; | relative_url &amp;#125;&amp;#125;) and Power for Efficient Laser...by P Sprangle · 2006 · Cited by 81 — Hcated aerosols conductively heat the surro...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: preprints.opticaopen.org  
-   Link: <a href="https://preprints.opticaopen.org/articles/preprint/High_energy_laser_propagation_through_natural_convection_of_air_A_benchmark_for_validation_of_numerical_simulation/25148663/1/files/44412482.pdf" target="_blank" rel="noopener noreferrer nofollow">https://preprints.opticaopen.org/articles/preprint/High_energy_laser_propagation_through_natural_convection_of_air_A_benchmark_for_validation_of_numerical_simulation/25148663/1/files/44412482.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>energy laser propagation through natural convection...by J Fiordilino · 2024 · Cited by 2 — Through a sequence of experiments, they isol...</p></details>
+   Link:<a href="https://preprints.opticaopen.org/articles/preprint/High_energy_laser_propagation_through_natural_convection_of_air_A_benchmark_for_validation_of_numerical_simulation/25148663/1/files/44412482.pdf" target="_blank" rel="noopener noreferrer nofollow">https://preprints.opticaopen.org/articles/preprint/High_energy_laser_propagation_through_natural_convection_of_air_A_benchmark_for_validation_of_numerical_simulation/25148663/1/files/44412482.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>energy laser propagation through natural convection...by J Fiordilino · 2024 · Cited by 2 — Through a sequence of experiments, they isol...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/2013SPIE.9046E..17W/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2013SPIE.9046E..17W/abstract</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the damage process of dynamic target by high-...by J Wang · 2013 · Cited by 3 — We analyze the propagation properties which are suscepti...</p></details>
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/2013SPIE.9046E..17W/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2013SPIE.9046E..17W/abstract</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the damage process of dynamic target by high-...by J Wang · 2013 · Cited by 3 — We analyze the propagation properties which are suscepti...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Why Nobody Can Stop Drone Swarms  
-   Link: <a href="https://www.youtube.com/watch?v=k7aPN1ihoWo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k7aPN1ihoWo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can Israel&#x27;s Iron Beam Stop Hypersonic Missiles? Explained | WION Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=k7aPN1ihoWo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k7aPN1ihoWo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can Israel&#x27;s Iron Beam Stop Hypersonic Missiles? Explained | WION Podcast...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: U.S. Directed Energy Weapons Systems  
-   Link: <a href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X1toVupe_R8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Finally! Watch The US Navy&#x27;s NEW Laser Weapon in Action...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X1toVupe_R8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Finally! Watch The US Navy&#x27;s NEW Laser Weapon in Action...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Iron Beam In Fog: Can Laser Weapons Work Without Visibility? | WION Podcast  
-   Link: <a href="https://www.youtube.com/watch?v=7J2NJLBVER8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7J2NJLBVER8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Directed Energy Weapons Systems...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7J2NJLBVER8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7J2NJLBVER8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Directed Energy Weapons Systems...</p></details>

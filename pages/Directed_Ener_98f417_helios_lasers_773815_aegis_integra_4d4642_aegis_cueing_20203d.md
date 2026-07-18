@@ -269,7 +269,7 @@ image: /assets/images/Directed_Ener_98f417_helios_lasers_773815_aegis_integra_4d
 
 ## Introduction
 
-The key advantage of HELIOS against drones is not that its laser beam travels at the speed of light. The real advantage is that the laser does not have to spend valuable time searching for the target. On an Aegis-equipped destroyer, the ship’s combat system can already be tracking a drone long before HELIOS is assigned to engage it. By handing a high-quality target track directly to the laser weapon, Aegis shortens the sensor-to-shooter chain and allows HELIOS to begin aiming, tracking and firing sooner. This matters because small drones are often easier to damage than they are to find, classify and keep tracked in a cluttered maritime environment. HELIOS was designed specifically to integrate into the Aegis combat architecture rather than operate as a stand-alone laser mount, making cueing and target handoff central to its military value. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lockheedmartin.com/en-us/news/features/2021/more-than-a-laser-helios-is-an-integrated-weapon-system.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lockheedmartin.com">[Lockheed Martin+2Seapower]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lockheedmartin.com</span><span class="citation-popover-title">more than a laser helios is an integrated weapon system</span><span class="citation-popover-snippet">Lockheed MartinMore Than a Laser, HELIOS is an Integrated Weapon System9 Jan 2021 — The High Energy Laser with Integrated Optical-dazzler...</span></span></span>
+The key advantage of HELIOS against drones is not that its laser beam travels at the speed of light. The real advantage is that the laser does not have to spend valuable time searching for the target. On an Aegis-equipped destroyer, the ship’s combat system can already be tracking a drone long before HELIOS is assigned to engage it. By handing a high-quality target track directly to the laser weapon, Aegis shortens the sensor-to-shooter chain and allows HELIOS to begin aiming, tracking and firing sooner. This matters because small drones are often easier to damage than they are to find, classify and keep tracked in a cluttered maritime environment. HELIOS was designed specifically to integrate into the Aegis combat architecture rather than operate as a stand-alone laser mount, making cueing and target handoff central to its military value.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lockheedmartin.com/en-us/news/features/2021/more-than-a-laser-helios-is-an-integrated-weapon-system.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lockheedmartin.com">[Lockheed Martin+2Seapower]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lockheedmartin.com</span><span class="citation-popover-title">more than a laser helios is an integrated weapon system</span><span class="citation-popover-snippet">Lockheed MartinMore Than a Laser, HELIOS is an Integrated Weapon System9 Jan 2021 — The High Energy Laser with Integrated Optical-dazzler...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_aegis_integra_4d4642_aegis_cueing_20203d-Illustration-1-dark.svg" | relative_url }}" alt="Aegis Cueing illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_aegis_integra_4d4642_aegis_cueing_20203d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_aegis_integra_4d4642_aegis_cueing_20203d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -277,9 +277,9 @@ The key advantage of HELIOS against drones is not that its laser beam travels at
 
 A laser engagement starts with detection, not firing. Before HELIOS can concentrate energy onto a drone, the ship must know where the target is, how fast it is moving and whether it is a threat worth engaging.
 
-Aegis was built around exactly this problem. Its radar and command-and-control architecture continuously search, detect, track and prioritise large numbers of air and surface contacts. The system's phased-array radar can perform search and tracking functions simultaneously while maintaining extensive track files for many targets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navy.mil/DesktopModules/ArticleCS/Print.aspx?Article=2166739&amp;ModuleId=724&amp;PortalId=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[Navy+2Missile Threat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">AEGIS Weapon System</span><span class="citation-popover-snippet">NavyAEGIS Weapon System - Navy.mil20 Sept 2021 — This high-powered radar is able to perform search, track and missile guidance functions...</span></span></span>
+Aegis was built around exactly this problem. Its radar and command-and-control architecture continuously search, detect, track and prioritise large numbers of air and surface contacts. The system's phased-array radar can perform search and tracking functions simultaneously while maintaining extensive track files for many targets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navy.mil/DesktopModules/ArticleCS/Print.aspx?Article=2166739&amp;ModuleId=724&amp;PortalId=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[Navy+2Missile Threat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">AEGIS Weapon System</span><span class="citation-popover-snippet">NavyAEGIS Weapon System - Navy.mil20 Sept 2021 — This high-powered radar is able to perform search, track and missile guidance functions...</span></span></span>
 
-Without combat-system integration, a laser weapon would need to generate much of its own targeting solution. That creates delays and increases the risk of losing a small, manoeuvring target. With HELIOS integrated into Aegis, the destroyer can treat the laser as another effector within an existing [kill chain]({{ 'kill-chain/' | relative_url }}). Instead of building a track from scratch, HELIOS can receive a cue that a target already exists, where it is located and where it is expected to move next. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lockheedmartin.com/en-us/news/features/2021/more-than-a-laser-helios-is-an-integrated-weapon-system.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lockheedmartin.com">[Lockheed Martin+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lockheedmartin.com</span><span class="citation-popover-title">more than a laser helios is an integrated weapon system</span><span class="citation-popover-snippet">Lockheed MartinMore Than a Laser, HELIOS is an Integrated Weapon System9 Jan 2021 — The High Energy Laser with Integrated Optical-dazzler...</span></span></span>
+Without combat-system integration, a laser weapon would need to generate much of its own targeting solution. That creates delays and increases the risk of losing a small, manoeuvring target. With HELIOS integrated into Aegis, the destroyer can treat the laser as another effector within an existing [kill chain]({{ 'kill-chain/' | relative_url }}). Instead of building a track from scratch, HELIOS can receive a cue that a target already exists, where it is located and where it is expected to move next.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lockheedmartin.com/en-us/news/features/2021/more-than-a-laser-helios-is-an-integrated-weapon-system.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lockheedmartin.com">[Lockheed Martin+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lockheedmartin.com</span><span class="citation-popover-title">more than a laser helios is an integrated weapon system</span><span class="citation-popover-snippet">Lockheed MartinMore Than a Laser, HELIOS is an Integrated Weapon System9 Jan 2021 — The High Energy Laser with Integrated Optical-dazzler...</span></span></span>
 
 In practical terms, cueing reduces the amount of time the laser spends searching and increases the amount of time it spends engaging.
 
@@ -296,7 +296,7 @@ In practical terms, cueing reduces the amount of time the laser spends searching
 
 ## How Aegis Builds the Target Picture
 
-Aegis combines radar data, command-and-control functions and weapons management into a single combat system. Its purpose is to turn sensor information into engagement decisions under severe time pressure. The AN/SPY radar family, the core sensor associated with Aegis, provides continuous detection and tracking data that can be used by multiple weapons simultaneously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navy.mil/DesktopModules/ArticleCS/Print.aspx?Article=2166739&amp;ModuleId=724&amp;PortalId=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[Navy+2Missile Defense Advocacy Alliance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">AEGIS Weapon System</span><span class="citation-popover-snippet">NavyAEGIS Weapon System - Navy.mil20 Sept 2021 — This high-powered radar is able to perform search, track and missile guidance functions...</span></span></span>
+Aegis combines radar data, command-and-control functions and weapons management into a single combat system. Its purpose is to turn sensor information into engagement decisions under severe time pressure. The AN/SPY radar family, the core sensor associated with Aegis, provides continuous detection and tracking data that can be used by multiple weapons simultaneously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navy.mil/DesktopModules/ArticleCS/Print.aspx?Article=2166739&amp;ModuleId=724&amp;PortalId=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navy.mil">[Navy+2Missile Defense Advocacy Alliance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navy.mil</span><span class="citation-popover-title">AEGIS Weapon System</span><span class="citation-popover-snippet">NavyAEGIS Weapon System - Navy.mil20 Sept 2021 — This high-powered radar is able to perform search, track and missile guidance functions...</span></span></span>
 
 For a drone engagement, the process generally follows three stages:
 
@@ -344,194 +344,194 @@ The most important contribution of Aegis cueing is that it compresses the time b
 That is why the integration of HELIOS into the Aegis combat system is more significant than its headline power rating. A destroyer equipped with a laser but lacking reliable cueing would still struggle against small, difficult-to-detect drones. A destroyer that can hand an existing target track directly to HELIOS removes much of the delay between finding a threat and applying force against it. The result is a faster, more efficient counter-drone engagement cycle in which the laser operates as part of the ship's wider combat network rather than as an independent weapon. [Lockheed Martin+2Wikipedia](https://www.lockheedmartin.com/en-us/news/features/2021/more-than-a-laser-helios-is-an-integrated-weapon-system.html)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Target Cueing Matters More Than Beam Power. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Target Cueing Matters More Than Beam Power. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Radar Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eQhTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Radar Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Radar Systems">Introduction to Radar Systems</a>
-        </h4>
-        <p class="fr-book-author">By Merrill Ivan Skolnik</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Radar Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eQhTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Radar Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Radar Systems">Introduction to Radar Systems</a>
+</h4>
+<p class="fr-book-author">By Merrill Ivan Skolnik</p>
         
-        <p class="fr-book-desc">Essential for understanding cueing, tracking and target data quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Essential for understanding cueing, tracking and target data quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Naval+Institute+guide+to+world+naval+weapons+systems+Norman+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Naval Institute guide to world naval weapons systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4085664-M.jpg" alt="Cover for The Naval Institute guide to world naval weapons systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Naval+Institute+guide+to+world+naval+weapons+systems+Norman+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Naval Institute guide to world naval weapons systems">The Naval Institute guide to world naval weapons systems</a>
-        </h4>
-        <p class="fr-book-author">By Norman Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Naval+Institute+guide+to+world+naval+weapons+systems+Norman+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Naval Institute guide to world naval weapons systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4085664-M.jpg" alt="Cover for The Naval Institute guide to world naval weapons systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Naval+Institute+guide+to+world+naval+weapons+systems+Norman+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Naval Institute guide to world naval weapons systems">The Naval Institute guide to world naval weapons systems</a>
+</h4>
+<p class="fr-book-author">By Norman Friedman</p>
         
-        <p class="fr-book-desc">First published 1989. Subjects: Handbooks, manuals, Weapons systems, Naval Ordnance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Naval+Institute+guide+to+world+naval+weapons+systems+Norman+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1989. Subjects: Handbooks, manuals, Weapons systems, Naval Ordnance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Naval+Institute+guide+to+world+naval+weapons+systems+Norman+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fleet Tactics And Naval Operations, Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8833607-M.jpg" alt="Cover for Fleet Tactics And Naval Operations, Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fleet Tactics And Naval Operations, Third Edition">Fleet Tactics And Naval Operations, Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Wayne Hughes, Robert Girrier</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fleet Tactics And Naval Operations, Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8833607-M.jpg" alt="Cover for Fleet Tactics And Naval Operations, Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fleet Tactics And Naval Operations, Third Edition">Fleet Tactics And Naval Operations, Third Edition</a>
+</h4>
+<p class="fr-book-author">By Wayne Hughes, Robert Girrier</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Naval tactics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Naval tactics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
-        </h4>
-        <p class="fr-book-author">By Bahman Zohuri</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
+</h4>
+<p class="fr-book-author">By Bahman Zohuri</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Radar+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Radar Systems books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Naval+Institute+to+world+naval+weapons+systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Naval Institute to world naval weapons systems books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fleet Tactics And Naval Operations, Third Edition</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Radar+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Radar Systems books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Naval+Institute+to+world+naval+weapons+systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Naval Institute to world naval weapons systems books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fleet Tactics And Naval Operations, Third Edition</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment"><img src="{{ '/assets/images/marketplace-covers/0405b1cb09b5dd20d5de.jpg' | relative_url }}" alt="Listing image for Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment"><img src="{{ '/assets/images/marketplace-covers/0405b1cb09b5dd20d5de.jpg' | relative_url }}" alt="Listing image for Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Press Photograph Research Laboratory Equipment and Laser Technology"><img src="{{ '/assets/images/marketplace-covers/e237132357180c5d278f.jpg' | relative_url }}" alt="Listing image for Vintage Press Photograph Research Laboratory Equipment and Laser Technology" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Vintage Press Photograph Research Laboratory Equipment and Laser Technology</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Press Photograph Research Laboratory Equipment and Laser Technology"><img src="{{ '/assets/images/marketplace-covers/e237132357180c5d278f.jpg' | relative_url }}" alt="Listing image for Vintage Press Photograph Research Laboratory Equipment and Laser Technology" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Vintage Press Photograph Research Laboratory Equipment and Laser Technology</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin"><img src="{{ '/assets/images/marketplace-covers/7e59f5248ccdd6fc90fc.jpg' | relative_url }}" alt="Listing image for Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin"><img src="{{ '/assets/images/marketplace-covers/7e59f5248ccdd6fc90fc.jpg' | relative_url }}" alt="Listing image for Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment"><img src="{{ '/assets/images/marketplace-covers/7b762fb9a777d61458bf.jpg' | relative_url }}" alt="Listing image for Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment"><img src="{{ '/assets/images/marketplace-covers/7b762fb9a777d61458bf.jpg' | relative_url }}" alt="Listing image for Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="aegis-cueing-why-target-cueing-matters-more-than-beam-power-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -547,7 +547,7 @@ That is why the integration of HELIOS into the Aegis combat system is more signi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -567,7 +567,7 @@ That is why the integration of HELIOS into the Aegis combat system is more signi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -599,7 +599,7 @@ That is why the integration of HELIOS into the Aegis combat system is more signi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -651,7 +651,7 @@ That is why the integration of HELIOS into the Aegis combat system is more signi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -696,7 +696,7 @@ That is why the integration of HELIOS into the Aegis combat system is more signi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -737,140 +737,140 @@ That is why the integration of HELIOS into the Aegis combat system is more signi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/HELIOS" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/HELIOS</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HELIOSHELIOS [1] is a Lockheed Martin-developed 60 kilowatt high-energy laser weapon designed to intercept combat drones, fast-attack...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/HELIOS" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/HELIOS</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HELIOSHELIOS [1] is a Lockheed Martin-developed 60 kilowatt high-energy laser weapon designed to intercept combat drones, fast-attack...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/AN/SPY-1" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/AN/SPY-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AN/SPY-1The AN/SPY-1 is a United States Navy passive electronically scanned array (PESA) 3D radar system manufactured by Lockheed Martin...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/AN/SPY-1" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/AN/SPY-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AN/SPY-1The AN/SPY-1 is a United States Navy passive electronically scanned array (PESA) 3D radar system manufactured by Lockheed Martin...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2307.10326" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2307.10326</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to Drone Detection Radar with Emphasis on Automatic Target Recognition (ATR) technologyJuly 19, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2307.10326" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2307.10326</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to Drone Detection Radar with Emphasis on Automatic Target Recognition (ATR) technologyJuly 19, 2023...</p></details>
    Published: July 19, 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: thedefensewatch.com  
    Title: us navy helios laser destroys drones in at sea test  
-   Link: <a href="https://thedefensewatch.com/naval-maritime/us-navy-helios-laser-destroys-drones-in-at-sea-test/" target="_blank" rel="noopener noreferrer nofollow">https://thedefensewatch.com/naval-maritime/us-navy-helios-laser-destroys-drones-in-at-sea-test/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>US Navy Destroyer Shoots Down Drones with HELIOS...3 Feb 2026 — [USS Preble](&amp;#123;&amp;#123; &#x27;preble-test-2ed0d5/&#x27; | relative_url &amp;#125;&amp;#125;) successfully used the HELIOS laser weapon to destroy multiple...</p></details>
+   Link:<a href="https://thedefensewatch.com/naval-maritime/us-navy-helios-laser-destroys-drones-in-at-sea-test/" target="_blank" rel="noopener noreferrer nofollow">https://thedefensewatch.com/naval-maritime/us-navy-helios-laser-destroys-drones-in-at-sea-test/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Navy Destroyer Shoots Down Drones with HELIOS...3 Feb 2026 — [USS Preble](&amp;#123;&amp;#123; &#x27;preble-test-2ed0d5/&#x27; | relative_url &amp;#125;&amp;#125;) successfully used the HELIOS laser weapon to destroy multiple...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: High Energy Laser with Integrated Optical dazzler and Surveillance  
-   Link: <a href="https://en.wikipedia.org/wiki/High_Energy_Laser_with_Integrated_Optical-dazzler_and_Surveillance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/High_Energy_Laser_with_Integrated_Optical-dazzler_and_Surveillance</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>High Energy Laser with Integrated Optical-dazzler and...The High Energy Laser with Integrated Optical-dazzler and Surveillance (HELIO...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/High_Energy_Laser_with_Integrated_Optical-dazzler_and_Surveillance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/High_Energy_Laser_with_Integrated_Optical-dazzler_and_Surveillance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High Energy Laser with Integrated Optical-dazzler and...The High Energy Laser with Integrated Optical-dazzler and Surveillance (HELIO...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: lockheedmartin.com  
    Title: more than a laser helios is an integrated weapon system  
-   Link: <a href="https://www.lockheedmartin.com/en-us/news/features/2021/more-than-a-laser-helios-is-an-integrated-weapon-system.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lockheedmartin.com/en-us/news/features/2021/more-than-a-laser-helios-is-an-integrated-weapon-system.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lockheed MartinMore Than a Laser, HELIOS is an Integrated Weapon System9 Jan 2021 — The High Energy Laser with Integrated Optical-dazzler...</p></details>
+   Link:<a href="https://www.lockheedmartin.com/en-us/news/features/2021/more-than-a-laser-helios-is-an-integrated-weapon-system.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lockheedmartin.com/en-us/news/features/2021/more-than-a-laser-helios-is-an-integrated-weapon-system.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lockheed MartinMore Than a Laser, HELIOS is an Integrated Weapon System9 Jan 2021 — The High Energy Laser with Integrated Optical-dazzler...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: seapowermagazine.org  
    Title: lockheed martin delivers helios laser weapon system to navy for testing  
-   Link: <a href="https://seapowermagazine.org/lockheed-martin-delivers-helios-laser-weapon-system-to-navy-for-testing/" target="_blank" rel="noopener noreferrer nofollow">https://seapowermagazine.org/lockheed-martin-delivers-helios-laser-weapon-system-to-navy-for-testing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The initial system features a laser of around 60 kilowatts to counter...Read more...</p></details>
+   Link:<a href="https://seapowermagazine.org/lockheed-martin-delivers-helios-laser-weapon-system-to-navy-for-testing/" target="_blank" rel="noopener noreferrer nofollow">https://seapowermagazine.org/lockheed-martin-delivers-helios-laser-weapon-system-to-navy-for-testing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The initial system features a laser of around 60 kilowatts to counter...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: missilethreat.csis.org  
    Title: Missile Threat AN/SPY-1 Radar  
-   Link: <a href="https://missilethreat.csis.org/defsys/an-spy-1-radar/" target="_blank" rel="noopener noreferrer nofollow">https://missilethreat.csis.org/defsys/an-spy-1-radar/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Missile ThreatAN/SPY-1 Radar - Missile Threat - CSIS23 Jun 2021 — The AN/SPY-1 is an air search radar that provides search, detection, tr...</p></details>
+   Link:<a href="https://missilethreat.csis.org/defsys/an-spy-1-radar/" target="_blank" rel="noopener noreferrer nofollow">https://missilethreat.csis.org/defsys/an-spy-1-radar/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missile ThreatAN/SPY-1 Radar - Missile Threat - CSIS23 Jun 2021 — The AN/SPY-1 is an air search radar that provides search, detection, tr...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: spacewar.com  
-   Link: <a href="https://www.spacewar.com/reports/Lockheed_Martin_Delivers_HELIOS_Laser_Weapon_System_To_U_S__Navy_For_Ship_Testing_And_Integration_999.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spacewar.com/reports/Lockheed_Martin_Delivers_HELIOS_Laser_Weapon_System_To_U_S__Navy_For_Ship_Testing_And_Integration_999.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lockheed Martin delivers HELIOS Laser to US Navy...Jan 12, 2021 — The scalable laser design architecture spectrally combines multiple ki...</p></details>
+   Link:<a href="https://www.spacewar.com/reports/Lockheed_Martin_Delivers_HELIOS_Laser_Weapon_System_To_U_S__Navy_For_Ship_Testing_And_Integration_999.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spacewar.com/reports/Lockheed_Martin_Delivers_HELIOS_Laser_Weapon_System_To_U_S__Navy_For_Ship_Testing_And_Integration_999.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lockheed Martin delivers HELIOS Laser to US Navy...Jan 12, 2021 — The scalable laser design architecture spectrally combines multiple ki...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: missiledefenseadvocacy.org  
-   Link: <a href="https://www.missiledefenseadvocacy.org/defense-systems/anspy-1-radar/" target="_blank" rel="noopener noreferrer nofollow">https://www.missiledefenseadvocacy.org/defense-systems/anspy-1-radar/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missile Defense Advocacy AllianceAN/SPY-1 RadarRegional Defense—Engagement Capability Aegis BMD systems are capable of detecting, trackin...</p></details>
+   Link:<a href="https://www.missiledefenseadvocacy.org/defense-systems/anspy-1-radar/" target="_blank" rel="noopener noreferrer nofollow">https://www.missiledefenseadvocacy.org/defense-systems/anspy-1-radar/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missile Defense Advocacy AllianceAN/SPY-1 RadarRegional Defense—Engagement Capability Aegis BMD systems are capable of detecting, trackin...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: twz.com  
    Title: uss preble used helios laser to zap four drones in expanding testing  
-   Link: <a href="https://www.twz.com/sea/uss-preble-used-helios-laser-to-zap-four-drones-in-expanding-testing" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/sea/uss-preble-used-helios-laser-to-zap-four-drones-in-expanding-testing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneUSS Preble Used HELIOS Laser To Zap Four Drones In...2 Feb 2026 — “Speaking of amazing technology, we successfully used a sh...</p></details>
+   Link:<a href="https://www.twz.com/sea/uss-preble-used-helios-laser-to-zap-four-drones-in-expanding-testing" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/sea/uss-preble-used-helios-laser-to-zap-four-drones-in-expanding-testing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneUSS Preble Used HELIOS Laser To Zap Four Drones In...2 Feb 2026 — “Speaking of amazing technology, we successfully used a sh...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: news.lockheedmartin.com  
-   Link: <a href="https://news.lockheedmartin.com/2026-03-22-Lockheed-Martin-Completes-Live-Target-Tracking-Exercise-for-the-Aegis-System-Equipped-Vessel-System" target="_blank" rel="noopener noreferrer nofollow">https://news.lockheedmartin.com/2026-03-22-Lockheed-Martin-Completes-Live-Target-Tracking-Exercise-for-the-Aegis-System-Equipped-Vessel-System</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Martin Completes Live Target Tracking ExerciseMar 22, 2026 — ”Successful completion of the first live target tracking exercise of the ASE...</p></details>
+   Link:<a href="https://news.lockheedmartin.com/2026-03-22-Lockheed-Martin-Completes-Live-Target-Tracking-Exercise-for-the-Aegis-System-Equipped-Vessel-System" target="_blank" rel="noopener noreferrer nofollow">https://news.lockheedmartin.com/2026-03-22-Lockheed-Martin-Completes-Live-Target-Tracking-Exercise-for-the-Aegis-System-Equipped-Vessel-System</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Martin Completes Live Target Tracking ExerciseMar 22, 2026 — ”Successful completion of the first live target tracking exercise of the ASE...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: investors.lockheedmartin.com  
    Title: lockheed martins spy 1f radar achieves live track  
-   Link: <a href="https://investors.lockheedmartin.com/news-releases/news-release-details/lockheed-martins-spy-1f-radar-achieves-live-track" target="_blank" rel="noopener noreferrer nofollow">https://investors.lockheedmartin.com/news-releases/news-release-details/lockheed-martins-spy-1f-radar-achieves-live-track</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Martin&#x27;s SPY-1F Radar Achieves Live TrackLockheed Martin successfully demonstrated the first live track with the first production SPY- 1F...</p></details>
+   Link:<a href="https://investors.lockheedmartin.com/news-releases/news-release-details/lockheed-martins-spy-1f-radar-achieves-live-track" target="_blank" rel="noopener noreferrer nofollow">https://investors.lockheedmartin.com/news-releases/news-release-details/lockheed-martins-spy-1f-radar-achieves-live-track</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Martin&#x27;s SPY-1F Radar Achieves Live TrackLockheed Martin successfully demonstrated the first live track with the first production SPY- 1F...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: lockheedmartin.com  
-   Link: <a href="https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/directed-energy/HELIOS_Infographic_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/directed-energy/HELIOS_Infographic_FINAL.pdf</a>  
+   Link:<a href="https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/directed-energy/HELIOS_Infographic_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/directed-energy/HELIOS_Infographic_FINAL.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: twz.com  
-   Link: <a href="https://www.twz.com/news-features/containerized-variant-of-navys-drone-swatting-helios-laser-being-pushed-by-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/news-features/containerized-variant-of-navys-drone-swatting-helios-laser-being-pushed-by-congress</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Containerized Variant Of Navy&#x27;s Drone-Swatting HELIOS...29 May 2026 — HELIOS is the only laser able to down drones installed on an activ...</p></details>
+   Link:<a href="https://www.twz.com/news-features/containerized-variant-of-navys-drone-swatting-helios-laser-being-pushed-by-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/news-features/containerized-variant-of-navys-drone-swatting-helios-laser-being-pushed-by-congress</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Containerized Variant Of Navy&#x27;s Drone-Swatting HELIOS...29 May 2026 — HELIOS is the only laser able to down drones installed on an activ...</p></details>
    Published: May 2026  
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: deagel.com  
-   Link: <a href="https://www.deagel.com/components/anspy-1/a001523" target="_blank" rel="noopener noreferrer nofollow">https://www.deagel.com/components/anspy-1/a001523</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AN/SPY-1The AN/SPY-1 radar system is the primary air and surface radar for the AEGIS weapon system. It is a multifunction phased-array ra...</p></details>
+   Link:<a href="https://www.deagel.com/components/anspy-1/a001523" target="_blank" rel="noopener noreferrer nofollow">https://www.deagel.com/components/anspy-1/a001523</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AN/SPY-1The AN/SPY-1 radar system is the primary air and surface radar for the AEGIS weapon system. It is a multifunction phased-array ra...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=cvQV7Mt02q4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cvQV7Mt02q4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=cvQV7Mt02q4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cvQV7Mt02q4</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
    Title: what is the uss helios weapon range features and capabilities explained  
-   Link: <a href="https://www.facebook.com/WIONews/posts/what-is-the-uss-helios-weapon-range-features-and-capabilities-explained/1226985992873906/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/what-is-the-uss-helios-weapon-range-features-and-capabilities-explained/1226985992873906/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is the US&#x27;s HELIOS weapon? Range, features, and...HELIOS is a powerful 60 kW Lockheed-built laser, fully integrated with the Aegis...</p></details>
+   Link:<a href="https://www.facebook.com/WIONews/posts/what-is-the-uss-helios-weapon-range-features-and-capabilities-explained/1226985992873906/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/what-is-the-uss-helios-weapon-range-features-and-capabilities-explained/1226985992873906/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is the US&#x27;s HELIOS weapon? Range, features, and...HELIOS is a powerful 60 kW Lockheed-built laser, fully integrated with the Aegis...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: militaeraktuell.at  
    Title: lockheed successful target tracking test for aegis ship system  
-   Link: <a href="https://militaeraktuell.at/en/lockheed-successful-target-tracking-test-for-aegis-ship-system/" target="_blank" rel="noopener noreferrer nofollow">https://militaeraktuell.at/en/lockheed-successful-target-tracking-test-for-aegis-ship-system/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lockheed: Target tracking test for Aegis ship systemMar 31, 2026 — Lockheed Martin has successfully conducted the first real-world target...</p></details>
+   Link:<a href="https://militaeraktuell.at/en/lockheed-successful-target-tracking-test-for-aegis-ship-system/" target="_blank" rel="noopener noreferrer nofollow">https://militaeraktuell.at/en/lockheed-successful-target-tracking-test-for-aegis-ship-system/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lockheed: Target tracking test for Aegis ship systemMar 31, 2026 — Lockheed Martin has successfully conducted the first real-world target...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nationalinterest.org  
    Title: a navy destroyer has been armed with the helios laser  
-   Link: <a href="https://nationalinterest.org/blog/buzz/a-navy-destroyer-has-been-armed-with-the-helios-laser" target="_blank" rel="noopener noreferrer nofollow">https://nationalinterest.org/blog/buzz/a-navy-destroyer-has-been-armed-with-the-helios-laser</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Mar 2025 — HELIOS successfully took out an aerial target drone in fiscal year 2024, zzler and Surveillance system against an unmanned a...</p></details>
+   Link:<a href="https://nationalinterest.org/blog/buzz/a-navy-destroyer-has-been-armed-with-the-helios-laser" target="_blank" rel="noopener noreferrer nofollow">https://nationalinterest.org/blog/buzz/a-navy-destroyer-has-been-armed-with-the-helios-laser</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6 Mar 2025 — HELIOS successfully took out an aerial target drone in fiscal year 2024, zzler and Surveillance system against an unmanned a...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: laserwars.net  
    Title: navy helios laser weapon drones testing questions  
-   Link: <a href="https://www.laserwars.net/p/navy-helios-laser-weapon-drones-testing-questions" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/navy-helios-laser-weapon-drones-testing-questions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser WarsThe Lingering Questions About the Navy&#x27;s Chief...9 Feb 2026 — The US Navy&#x27;s High Energy Laser with Integrated Optical Dazzler...</p></details>
+   Link:<a href="https://www.laserwars.net/p/navy-helios-laser-weapon-drones-testing-questions" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/navy-helios-laser-weapon-drones-testing-questions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser WarsThe Lingering Questions About the Navy&#x27;s Chief...9 Feb 2026 — The US Navy&#x27;s High Energy Laser with Integrated Optical Dazzler...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/engineeringexploration/posts/the-us-navy-has-tested-a-high-energy-laser-system-designed-to-counter-modern-thr/968418302398418/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/engineeringexploration/posts/the-us-navy-has-tested-a-high-energy-laser-system-designed-to-counter-modern-thr/968418302398418/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>power to target drones and small aerial systems, and it...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/engineeringexploration/posts/the-us-navy-has-tested-a-high-energy-laser-system-designed-to-counter-modern-thr/968418302398418/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/engineeringexploration/posts/the-us-navy-has-tested-a-high-energy-laser-system-designed-to-counter-modern-thr/968418302398418/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>power to target drones and small aerial systems, and it...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/euronews/posts/the-high-energy-laser-with-integrated-optical-dazzler-and-surveillance-deployed-/1306875301487797/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/euronews/posts/the-high-energy-laser-with-integrated-optical-dazzler-and-surveillance-deployed-/1306875301487797/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>able of destroying multiple hostile drones during a live maritime...</p></details>
+   Link:<a href="https://www.facebook.com/euronews/posts/the-high-energy-laser-with-integrated-optical-dazzler-and-surveillance-deployed-/1306875301487797/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/euronews/posts/the-high-energy-laser-with-integrated-optical-dazzler-and-surveillance-deployed-/1306875301487797/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>able of destroying multiple hostile drones during a live maritime...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DNoJFv1OS86/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DNoJFv1OS86/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>raft, and disrupt enemy sensors with a built-in dazzler...</p></details>
+   Link:<a href="https://www.instagram.com/p/DNoJFv1OS86/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DNoJFv1OS86/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>raft, and disrupt enemy sensors with a built-in dazzler...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DNoJFv1OS86/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DNoJFv1OS86/?hl=en-gb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The United States Navy&#x27;s HELIOS (High Energy Laser with...Integrated into the Aegis Combat System, it first went operational on the USS...</p></details>
+   Link:<a href="https://www.instagram.com/p/DNoJFv1OS86/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DNoJFv1OS86/?hl=en-gb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The United States Navy&#x27;s HELIOS (High Energy Laser with...Integrated into the Aegis Combat System, it first went operational on the USS...</p></details>

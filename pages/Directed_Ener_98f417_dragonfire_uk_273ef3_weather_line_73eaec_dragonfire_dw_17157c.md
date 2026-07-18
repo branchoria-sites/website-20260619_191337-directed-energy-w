@@ -269,19 +269,19 @@ image: /assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_weather_line_73e
 
 ## Introduction
 
-A DragonFire engagement is decided not only by [laser power]({{ 'power-costs/' | relative_url }}), but by time. High-energy [lasers]({{ 'lasers/' | relative_url }}) destroy targets primarily by heating them until a critical component fails. That means the beam must remain concentrated on a vulnerable area for long enough to deposit sufficient energy. In laser-weapon terminology, this interval is known as **dwell time**: the period during which the beam stays accurately focused on the same point on the target. If that focus is interrupted too often, the target can cool, spread the heat, or simply survive the attack. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://inss.ndu.edu/news/Article/4412653/laser-focusing-defense-capabilities/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inss.ndu.edu">[inss.ndu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inss.ndu.edu</span><span class="citation-popover-snippet">Laser-focusing Defense CapabilitiesHigh-power lasers can defeat UAS by rapidly heating and structurally compromising control surfaces, pr...</span></span></span>
+A DragonFire engagement is decided not only by [laser power]({{ 'power-costs/' | relative_url }}), but by time. High-energy [lasers]({{ 'lasers/' | relative_url }}) destroy targets primarily by heating them until a critical component fails. That means the beam must remain concentrated on a vulnerable area for long enough to deposit sufficient energy. In laser-weapon terminology, this interval is known as **dwell time**: the period during which the beam stays accurately focused on the same point on the target. If that focus is interrupted too often, the target can cool, spread the heat, or simply survive the attack.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://inss.ndu.edu/news/Article/4412653/laser-focusing-defense-capabilities/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inss.ndu.edu">[inss.ndu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inss.ndu.edu</span><span class="citation-popover-snippet">Laser-focusing Defense CapabilitiesHigh-power lasers can defeat UAS by rapidly heating and structurally compromising control surfaces, pr...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_weather_line_73eaec_dragonfire_dw_17157c-Illustration-1-dark.svg" | relative_url }}" alt="Dwell Time illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_weather_line_73eaec_dragonfire_dw_17157c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_weather_line_73eaec_dragonfire_dw_17157c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This requirement explains why DragonFire places so much emphasis on tracking accuracy, beam control and stabilisation. The challenge is not merely seeing a target and firing. The challenge is keeping a tiny, intensely energetic spot fixed on a moving object while the target manoeuvres, the firing platform moves, and the [atmosphere]({{ 'atmosphere/' | relative_url }}) distorts the beam path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.leonardo.com/en/news-and-stories-detail/-/detail/dragonfire-laser-weapon-trial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonardo.com">[Leonardo+2Think Defence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonardo.com</span><span class="citation-popover-title">dragonfire laser weapon trial</span><span class="citation-popover-snippet">LeonardoLeonardo demonstrates ultra-precise tracking technology in ...8 Nov 2022 — Leonardo has proven the tracking capability of its new...</span></span></span>
+This requirement explains why DragonFire places so much emphasis on tracking accuracy, beam control and stabilisation. The challenge is not merely seeing a target and firing. The challenge is keeping a tiny, intensely energetic spot fixed on a moving object while the target manoeuvres, the firing platform moves, and the [atmosphere]({{ 'atmosphere/' | relative_url }}) distorts the beam path.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.leonardo.com/en/news-and-stories-detail/-/detail/dragonfire-laser-weapon-trial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonardo.com">[Leonardo+2Think Defence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonardo.com</span><span class="citation-popover-title">dragonfire laser weapon trial</span><span class="citation-popover-snippet">LeonardoLeonardo demonstrates ultra-precise tracking technology in ...8 Nov 2022 — Leonardo has proven the tracking capability of its new...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_weather_line_73eaec_dragonfire_dw_17157c-Illustration-3-dark.svg" | relative_url }}" alt="Dwell Time illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_weather_line_73eaec_dragonfire_dw_17157c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_weather_line_73eaec_dragonfire_dw_17157c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Laser Damage Depends on Sustained Heating
 
-Unlike a missile warhead, a high-energy laser does not normally deliver a single instantaneous destructive impulse. Instead, it concentrates energy onto a small area and raises the temperature of that area until something important fails. Depending on the target, that may mean burning through a structural element, damaging a control surface, degrading electronics, igniting material, or causing thermal stress severe enough to produce structural failure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://inss.ndu.edu/news/Article/4412653/laser-focusing-defense-capabilities/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inss.ndu.edu">[inss.ndu.edu+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inss.ndu.edu</span><span class="citation-popover-snippet">Laser-focusing Defense CapabilitiesHigh-power lasers can defeat UAS by rapidly heating and structurally compromising control surfaces, pr...</span></span></span>
+Unlike a missile warhead, a high-energy laser does not normally deliver a single instantaneous destructive impulse. Instead, it concentrates energy onto a small area and raises the temperature of that area until something important fails. Depending on the target, that may mean burning through a structural element, damaging a control surface, degrading electronics, igniting material, or causing thermal stress severe enough to produce structural failure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://inss.ndu.edu/news/Article/4412653/laser-focusing-defense-capabilities/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inss.ndu.edu">[inss.ndu.edu+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inss.ndu.edu</span><span class="citation-popover-snippet">Laser-focusing Defense CapabilitiesHigh-power lasers can defeat UAS by rapidly heating and structurally compromising control surfaces, pr...</span></span></span>
 
-The key point is that heating is cumulative. A target struck for a fraction of a second may suffer little damage. A target struck for several uninterrupted seconds may reach a threshold where failure accelerates rapidly. Once material begins melting, burning, deforming or losing strength, the engagement can shift from minor heating to catastrophic damage in a short period. This is why dwell time is often as important as raw laser power when assessing real-world effectiveness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://inss.ndu.edu/news/Article/4412653/laser-focusing-defense-capabilities/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inss.ndu.edu">[inss.ndu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inss.ndu.edu</span><span class="citation-popover-snippet">Laser-focusing Defense CapabilitiesHigh-power lasers can defeat UAS by rapidly heating and structurally compromising control surfaces, pr...</span></span></span>
+The key point is that heating is cumulative. A target struck for a fraction of a second may suffer little damage. A target struck for several uninterrupted seconds may reach a threshold where failure accelerates rapidly. Once material begins melting, burning, deforming or losing strength, the engagement can shift from minor heating to catastrophic damage in a short period. This is why dwell time is often as important as raw laser power when assessing real-world effectiveness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://inss.ndu.edu/news/Article/4412653/laser-focusing-defense-capabilities/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inss.ndu.edu">[inss.ndu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inss.ndu.edu</span><span class="citation-popover-snippet">Laser-focusing Defense CapabilitiesHigh-power lasers can defeat UAS by rapidly heating and structurally compromising control surfaces, pr...</span></span></span>
 
 For DragonFire, the practical question is therefore not simply whether the beam reaches the target. It is whether enough energy remains concentrated on the same vulnerable location for long enough to matter.
 
@@ -292,7 +292,7 @@ For DragonFire, the practical question is therefore not simply whether the beam 
 
 A moving target actively works against dwell time.
 
-If the beam remains fixed on one spot, heat accumulates. If the spot moves across the surface, the energy becomes distributed over a larger area. Instead of one location reaching destructive temperatures, several locations receive smaller amounts of heating. The result can be a significant reduction in damage effectiveness even when total laser energy remains unchanged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://patents.google.com/patent/WO2021071559A1/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patents.google.com">[Google Patents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patents.google.com</span><span class="citation-popover-snippet">Google PatentsAtmospheric jitter correction and target tracking using...Target dynamics, such as changes in direction or velocity of the...</span></span></span>
+If the beam remains fixed on one spot, heat accumulates. If the spot moves across the surface, the energy becomes distributed over a larger area. Instead of one location reaching destructive temperatures, several locations receive smaller amounts of heating. The result can be a significant reduction in damage effectiveness even when total laser energy remains unchanged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://patents.google.com/patent/WO2021071559A1/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patents.google.com">[Google Patents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patents.google.com</span><span class="citation-popover-snippet">Google PatentsAtmospheric jitter correction and target tracking using...Target dynamics, such as changes in direction or velocity of the...</span></span></span>
 
 Several forms of movement can disrupt a laser engagement:
 
@@ -300,15 +300,15 @@ Several forms of movement can disrupt a laser engagement:
 * **Target rotation:** Drones and missiles may roll, yaw or pitch, causing the vulnerable point to move relative to the beam.
 * **Platform motion:** A warship experiences vibration, sea motion and structural movement.
 * **Atmospheric distortion:** Turbulence can shift the apparent position of the target and distort the beam path.
-* **[Beam jitter]({{ 'beam-jitter/' | relative_url }}):** Tiny pointing errors can move the laser spot away from the desired aim point. clf.stfc.ac.uk+3Google Patents+3ResearchGate <span class="citation-link-wrap"><a class="citation-inline-link" href="https://patents.google.com/patent/WO2021071559A1/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patents.google.com">[patents.google.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patents.google.com</span><span class="citation-popover-snippet">Google PatentsAtmospheric jitter correction and target tracking using...Target dynamics, such as changes in direction or velocity of the...</span></span></span>
+* **[Beam jitter]({{ 'beam-jitter/' | relative_url }}):** Tiny pointing errors can move the laser spot away from the desired aim point. clf.stfc.ac.uk+3Google Patents+3ResearchGate<span class="citation-link-wrap"><a class="citation-inline-link" href="https://patents.google.com/patent/WO2021071559A1/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patents.google.com">[patents.google.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patents.google.com</span><span class="citation-popover-snippet">Google PatentsAtmospheric jitter correction and target tracking using...Target dynamics, such as changes in direction or velocity of the...</span></span></span>
 
-Even small deviations matter. A laser capable of focusing energy onto a very small area gains its destructive power from that concentration. If the spot wanders, the energy density falls and dwell time effectively resets or becomes less effective because heat is no longer accumulating in the intended location. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/330488869_Analysis_of_Beam_Wander_and_Pointing_Error_on_Laser_Beam_Propagation_through_Atmosphere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Analysis of Beam Wander and Pointing Error on Laser...30 Jan 2019 — The random deviation occurring in the laser beam pointin...</span></span></span>
+Even small deviations matter. A laser capable of focusing energy onto a very small area gains its destructive power from that concentration. If the spot wanders, the energy density falls and dwell time effectively resets or becomes less effective because heat is no longer accumulating in the intended location.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/330488869_Analysis_of_Beam_Wander_and_Pointing_Error_on_Laser_Beam_Propagation_through_Atmosphere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Analysis of Beam Wander and Pointing Error on Laser...30 Jan 2019 — The random deviation occurring in the laser beam pointin...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_weather_line_73eaec_dragonfire_dw_17157c-Illustration-2-dark.svg" | relative_url }}" alt="Dwell Time illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_weather_line_73eaec_dragonfire_dw_17157c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_weather_line_73eaec_dragonfire_dw_17157c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Tracking and Stabilisation Matter More Than Raw Power
 
-DragonFire's public demonstrations have consistently highlighted precision rather than simply laser output. Leonardo describes the system's beam director as providing ultra-precise tracking, while programme trials have focused heavily on proving the ability to track and hit air and surface targets with exceptional accuracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.leonardo.com/en/news-and-stories-detail/-/detail/dragonfire-laser-weapon-trial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonardo.com">[Leonardo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonardo.com</span><span class="citation-popover-title">dragonfire laser weapon trial</span><span class="citation-popover-snippet">LeonardoLeonardo demonstrates ultra-precise tracking technology in ...8 Nov 2022 — Leonardo has proven the tracking capability of its new...</span></span></span>
+DragonFire's public demonstrations have consistently highlighted precision rather than simply laser output. Leonardo describes the system's beam director as providing ultra-precise tracking, while programme trials have focused heavily on proving the ability to track and hit air and surface targets with exceptional accuracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.leonardo.com/en/news-and-stories-detail/-/detail/dragonfire-laser-weapon-trial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonardo.com">[Leonardo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonardo.com</span><span class="citation-popover-title">dragonfire laser weapon trial</span><span class="citation-popover-snippet">LeonardoLeonardo demonstrates ultra-precise tracking technology in ...8 Nov 2022 — Leonardo has proven the tracking capability of its new...</span></span></span>
 
 This focus reflects a fundamental reality of laser combat. A more powerful laser cannot fully compensate for poor tracking. If the beam repeatedly slips off the aim point, the target receives less useful heating regardless of available power.
 
@@ -363,194 +363,194 @@ Dwell time is the bridge between laser power and actual target destruction. Drag
 That is why DragonFire's beam director, tracking sensors and stabilisation systems are not supporting features; they are central to the weapon's effectiveness. The decisive moment in a laser engagement is often not the instant the beam reaches the target, but the seconds that follow, when the system must hold that beam precisely enough, and long enough, for heat to become damage. [Leonardo+2mbda-systems.com](https://uk.leonardo.com/en/news-and-stories-detail/-/detail/dragonfire-laser-weapon-trial)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Seconds That Decide a Laser Kill. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Seconds That Decide a Laser Kill. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Modern+Ew+Systems+Andrea+De+Martino&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Modern Ew Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9217588-M.jpg" alt="Cover for Introduction to Modern Ew Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Modern+Ew+Systems+Andrea+De+Martino&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Modern Ew Systems">Introduction to Modern Ew Systems</a>
-        </h4>
-        <p class="fr-book-author">By Andrea De Martino</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Modern+Ew+Systems+Andrea+De+Martino&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Modern Ew Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9217588-M.jpg" alt="Cover for Introduction to Modern Ew Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Modern+Ew+Systems+Andrea+De+Martino&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Modern Ew Systems">Introduction to Modern Ew Systems</a>
+</h4>
+<p class="fr-book-author">By Andrea De Martino</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Electronics in military engineering, Electronic countermeasures, Contre-mesures électroniques, TECHNOLOGY...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Modern+Ew+Systems+Andrea+De+Martino&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Electronics in military engineering, Electronic countermeasures, Contre-mesures électroniques, TECHNOLOGY...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Modern+Ew+Systems+Andrea+De+Martino&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Principles+of+Lasers+Orazio+Svelto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Principles of Lasers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8709531-M.jpg" alt="Cover for Principles of Lasers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Principles+of+Lasers+Orazio+Svelto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Principles of Lasers">Principles of Lasers</a>
-        </h4>
-        <p class="fr-book-author">By Orazio Svelto</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Principles+of+Lasers+Orazio+Svelto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Principles of Lasers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8709531-M.jpg" alt="Cover for Principles of Lasers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Principles+of+Lasers+Orazio+Svelto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Principles of Lasers">Principles of Lasers</a>
+</h4>
+<p class="fr-book-author">By Orazio Svelto</p>
         
-        <p class="fr-book-desc">First published 1970. Subjects: Lasers, Quantum theory, Physics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Principles+of+Lasers+Orazio+Svelto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1970. Subjects: Lasers, Quantum theory, Physics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Principles+of+Lasers+Orazio+Svelto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fleet Tactics And Naval Operations, Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8833607-M.jpg" alt="Cover for Fleet Tactics And Naval Operations, Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fleet Tactics And Naval Operations, Third Edition">Fleet Tactics And Naval Operations, Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Wayne Hughes, Robert Girrier</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fleet Tactics And Naval Operations, Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8833607-M.jpg" alt="Cover for Fleet Tactics And Naval Operations, Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fleet Tactics And Naval Operations, Third Edition">Fleet Tactics And Naval Operations, Third Edition</a>
+</h4>
+<p class="fr-book-author">By Wayne Hughes, Robert Girrier</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Naval tactics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Naval tactics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Lasers%2C+Death+Rays%2C+and+the+Long%2C+Strange+Quest+for+the+Ultimate+Weapon+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lasers, Death Rays, and the Long, Strange Quest for the Ultimate Weapon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lasers%2C+Death+Rays%2C+and+the+Long%2C+Strange+Quest+for+the+Ultimate+Weapon+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lasers, Death Rays, and the Long, Strange Quest for the Ultimate Weapon">Lasers, Death Rays, and the Long, Strange Quest for the Ultim...</a>
-        </h4>
-        <p class="fr-book-author">By Jeff Hecht</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Lasers%2C+Death+Rays%2C+and+the+Long%2C+Strange+Quest+for+the+Ultimate+Weapon+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lasers, Death Rays, and the Long, Strange Quest for the Ultimate Weapon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lasers%2C+Death+Rays%2C+and+the+Long%2C+Strange+Quest+for+the+Ultimate+Weapon+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lasers, Death Rays, and the Long, Strange Quest for the Ultimate Weapon">Lasers, Death Rays, and the Long, Strange Quest for the Ultim...</a>
+</h4>
+<p class="fr-book-author">By Jeff Hecht</p>
         
-        <p class="fr-book-desc">First published 2019. Subjects: Military weapons, Laser weapons, History, Design and construction, Military.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lasers%2C+Death+Rays%2C+and+the+Long%2C+Strange+Quest+for+the+Ultimate+Weapon+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019. Subjects: Military weapons, Laser weapons, History, Design and construction, Military.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lasers%2C+Death+Rays%2C+and+the+Long%2C+Strange+Quest+for+the+Ultimate+Weapon+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Modern+Ew+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Modern Ew Systems books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Principles+of+Lasers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Principles of Lasers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fleet Tactics And Naval Operations, Third Edition</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Modern+Ew+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Modern Ew Systems books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Principles+of+Lasers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Principles of Lasers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fleet Tactics And Naval Operations, Third Edition</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment"><img src="{{ '/assets/images/marketplace-covers/0405b1cb09b5dd20d5de.jpg' | relative_url }}" alt="Listing image for Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment"><img src="{{ '/assets/images/marketplace-covers/0405b1cb09b5dd20d5de.jpg' | relative_url }}" alt="Listing image for Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Press Photograph Research Laboratory Equipment and Laser Technology"><img src="{{ '/assets/images/marketplace-covers/e237132357180c5d278f.jpg' | relative_url }}" alt="Listing image for Vintage Press Photograph Research Laboratory Equipment and Laser Technology" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Vintage Press Photograph Research Laboratory Equipment and Laser Technology</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Press Photograph Research Laboratory Equipment and Laser Technology"><img src="{{ '/assets/images/marketplace-covers/e237132357180c5d278f.jpg' | relative_url }}" alt="Listing image for Vintage Press Photograph Research Laboratory Equipment and Laser Technology" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Vintage Press Photograph Research Laboratory Equipment and Laser Technology</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin"><img src="{{ '/assets/images/marketplace-covers/7e59f5248ccdd6fc90fc.jpg' | relative_url }}" alt="Listing image for Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin"><img src="{{ '/assets/images/marketplace-covers/7e59f5248ccdd6fc90fc.jpg' | relative_url }}" alt="Listing image for Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment"><img src="{{ '/assets/images/marketplace-covers/7b762fb9a777d61458bf.jpg' | relative_url }}" alt="Listing image for Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment"><img src="{{ '/assets/images/marketplace-covers/7b762fb9a777d61458bf.jpg' | relative_url }}" alt="Listing image for Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="dwell-time-eb4cb1-the-seconds-that-decide-a-laser-kill-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -566,7 +566,7 @@ That is why DragonFire's beam director, tracking sensors and stabilisation syste
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -586,7 +586,7 @@ That is why DragonFire's beam director, tracking sensors and stabilisation syste
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -618,7 +618,7 @@ That is why DragonFire's beam director, tracking sensors and stabilisation syste
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -670,7 +670,7 @@ That is why DragonFire's beam director, tracking sensors and stabilisation syste
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -715,7 +715,7 @@ That is why DragonFire's beam director, tracking sensors and stabilisation syste
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -756,151 +756,151 @@ That is why DragonFire's beam director, tracking sensors and stabilisation syste
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: inss.ndu.edu  
-   Link: <a href="https://inss.ndu.edu/news/Article/4412653/laser-focusing-defense-capabilities/" target="_blank" rel="noopener noreferrer nofollow">https://inss.ndu.edu/news/Article/4412653/laser-focusing-defense-capabilities/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser-focusing Defense CapabilitiesHigh-power lasers can defeat UAS by rapidly heating and structurally compromising control surfaces, pr...</p></details>
+   Link:<a href="https://inss.ndu.edu/news/Article/4412653/laser-focusing-defense-capabilities/" target="_blank" rel="noopener noreferrer nofollow">https://inss.ndu.edu/news/Article/4412653/laser-focusing-defense-capabilities/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser-focusing Defense CapabilitiesHigh-power lasers can defeat UAS by rapidly heating and structurally compromising control surfaces, pr...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: patents.google.com  
-   Link: <a href="https://patents.google.com/patent/WO2021071559A1/en" target="_blank" rel="noopener noreferrer nofollow">https://patents.google.com/patent/WO2021071559A1/en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google PatentsAtmospheric jitter correction and target tracking using...Target dynamics, such as changes in direction or velocity of the...</p></details>
+   Link:<a href="https://patents.google.com/patent/WO2021071559A1/en" target="_blank" rel="noopener noreferrer nofollow">https://patents.google.com/patent/WO2021071559A1/en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google PatentsAtmospheric jitter correction and target tracking using...Target dynamics, such as changes in direction or velocity of the...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Laser weapon  
-   Link: <a href="https://en.wikipedia.org/wiki/Laser_weapon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Laser_weapon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser weaponA laser weapon is a type of directed-energy weapon (DEW) that uses lasers to inflict damage. Laser weapons are of two type...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Laser_weapon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Laser_weapon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser weaponA laser weapon is a type of directed-energy weapon (DEW) that uses lasers to inflict damage. Laser weapons are of two type...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/330488869_Analysis_of_Beam_Wander_and_Pointing_Error_on_Laser_Beam_Propagation_through_Atmosphere" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/330488869_Analysis_of_Beam_Wander_and_Pointing_Error_on_Laser_Beam_Propagation_through_Atmosphere</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Beam Wander and Pointing Error on Laser...30 Jan 2019 — The random deviation occurring in the laser beam pointin...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/330488869_Analysis_of_Beam_Wander_and_Pointing_Error_on_Laser_Beam_Propagation_through_Atmosphere" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/330488869_Analysis_of_Beam_Wander_and_Pointing_Error_on_Laser_Beam_Propagation_through_Atmosphere</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Beam Wander and Pointing Error on Laser...30 Jan 2019 — The random deviation occurring in the laser beam pointin...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: clf.stfc.ac.uk  
-   Link: <a href="https://www.clf.stfc.ac.uk/Gallery/29%20-%20Dann.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.clf.stfc.ac.uk/Gallery/29%20-%20Dann.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Beam Pointing Stabilisation on the Gemini Laser System - CLFThese can manifest as random jitter affecting each laser pulse independently...</p></details>
+   Link:<a href="https://www.clf.stfc.ac.uk/Gallery/29%20-%20Dann.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.clf.stfc.ac.uk/Gallery/29%20-%20Dann.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beam Pointing Stabilisation on the Gemini Laser System - CLFThese can manifest as random jitter affecting each laser pulse independently...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: mbda-systems.com  
    Title: latest dragonfire laser trials deliver uk first  
-   Link: <a href="https://www.mbda-systems.com/latest-dragonfire-laser-trials-deliver-uk-first" target="_blank" rel="noopener noreferrer nofollow">https://www.mbda-systems.com/latest-dragonfire-laser-trials-deliver-uk-first</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest DragonFire laser trials deliver a UK firstThe first trials, announced in July 2022, proved DragonFire can successfully track, and...</p></details>
+   Link:<a href="https://www.mbda-systems.com/latest-dragonfire-laser-trials-deliver-uk-first" target="_blank" rel="noopener noreferrer nofollow">https://www.mbda-systems.com/latest-dragonfire-laser-trials-deliver-uk-first</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Latest DragonFire laser trials deliver a UK firstThe first trials, announced in July 2022, proved DragonFire can successfully track, and...</p></details>
    Published: July 2022  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: atap.lbl.gov  
    Title: machine learning helps ease the jitters of high power lasers  
-   Link: <a href="https://atap.lbl.gov/news/machine-learning-helps-ease-the-jitters-of-high-power-lasers/" target="_blank" rel="noopener noreferrer nofollow">https://atap.lbl.gov/news/machine-learning-helps-ease-the-jitters-of-high-power-lasers/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Machine Learning Helps Ease The Jitters Of High-Power Lasers11 Jun 2025 — The method can make real-time adjustments to minimize jitter by...</p></details>
+   Link:<a href="https://atap.lbl.gov/news/machine-learning-helps-ease-the-jitters-of-high-power-lasers/" target="_blank" rel="noopener noreferrer nofollow">https://atap.lbl.gov/news/machine-learning-helps-ease-the-jitters-of-high-power-lasers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Machine Learning Helps Ease The Jitters Of High-Power Lasers11 Jun 2025 — The method can make real-time adjustments to minimize jitter by...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: deps.org  
-   Link: <a href="https://www.deps.org/DEPSpages/DEsympPresenter.html" target="_blank" rel="noopener noreferrer nofollow">https://www.deps.org/DEPSpages/DEsympPresenter.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual DE S&amp;T Symposium PresentingReducing high frequency jitter and beam path. Jitter control to include active stabilization and IRUs b...</p></details>
+   Link:<a href="https://www.deps.org/DEPSpages/DEsympPresenter.html" target="_blank" rel="noopener noreferrer nofollow">https://www.deps.org/DEPSpages/DEsympPresenter.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Annual DE S&amp;T Symposium PresentingReducing high frequency jitter and beam path. Jitter control to include active stabilization and IRUs b...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: des.mod.uk  
    Title: boost for armed forces as new laser weapon takes down high speed drones  
-   Link: <a href="https://des.mod.uk/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones/" target="_blank" rel="noopener noreferrer nofollow">https://des.mod.uk/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boost for Armed Forces as new laser weapon takes down...20 Nov 2025 — Britain&#x27;s ground-breaking DragonFire laser has shot down high-spee...</p></details>
+   Link:<a href="https://des.mod.uk/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones/" target="_blank" rel="noopener noreferrer nofollow">https://des.mod.uk/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boost for Armed Forces as new laser weapon takes down...20 Nov 2025 — Britain&#x27;s ground-breaking DragonFire laser has shot down high-spee...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: GOV.UK  
    Title: advanced future military laser achieves uk first  
-   Link: <a href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: uk.leonardo.com  
-   Link: <a href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow">https://uk.leonardo.com/en/innovation/dragonfire</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Directed Energy Weapon - Leonardo UKThe DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power...</p></details>
+   Link:<a href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow">https://uk.leonardo.com/en/innovation/dragonfire</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Directed Energy Weapon - Leonardo UKThe DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: mbda-systems.com  
    Title: dragonfire laser achieves another uk first  
-   Link: <a href="https://www.mbda-systems.com/dragonfire-laser-achieves-another-uk-first" target="_blank" rel="noopener noreferrer nofollow">https://www.mbda-systems.com/dragonfire-laser-achieves-another-uk-first</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system has achieved the UK&#x27;s first high-power firing of a laser weapon a...</p></details>
+   Link:<a href="https://www.mbda-systems.com/dragonfire-laser-achieves-another-uk-first" target="_blank" rel="noopener noreferrer nofollow">https://www.mbda-systems.com/dragonfire-laser-achieves-another-uk-first</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system has achieved the UK&#x27;s first high-power firing of a laser weapon a...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Dragon Fire (weapon)  
-   Link: <a href="https://en.wikipedia.org/wiki/DragonFire_%28weapon%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/DragonFire_%28weapon%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire (weapon)DragonFire is a British laser directed-energy weapon (LDEW) in development for the Royal Navy. It was first unveile...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/DragonFire_%28weapon%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/DragonFire_%28weapon%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire (weapon)DragonFire is a British laser directed-energy weapon (LDEW) in development for the Royal Navy. It was first unveile...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thinkdefence.co.uk  
    Title: dragonfire laser weapon  
-   Link: <a href="https://www.thinkdefence.co.uk/docs/dragonfire-laser-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkdefence.co.uk/docs/dragonfire-laser-weapon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Feb 2026 — A second set of trials, in November 2022, proved the tracking capability of the Dragonfire laser beam director. DragonFire...</p></details>
+   Link:<a href="https://www.thinkdefence.co.uk/docs/dragonfire-laser-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkdefence.co.uk/docs/dragonfire-laser-weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23 Feb 2026 — A second set of trials, in November 2022, proved the tracking capability of the Dragonfire laser beam director. DragonFire...</p></details>
    Published: November 2022  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: tomshardware.com  
    Title: uk confirms dragonfire laser weapon for royal navy destroyers by 2027  
-   Link: <a href="https://www.tomshardware.com/tech-industry/uk-confirms-dragonfire-laser-weapon-for-royal-navy-destroyers-by-2027" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/uk-confirms-dragonfire-laser-weapon-for-royal-navy-destroyers-by-2027</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This follows a £316 million ($414 million) contract awarded to MBDA UK for the first two production units. DragonFire, a 50 kW-class lase...</p></details>
+   Link:<a href="https://www.tomshardware.com/tech-industry/uk-confirms-dragonfire-laser-weapon-for-royal-navy-destroyers-by-2027" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/uk-confirms-dragonfire-laser-weapon-for-royal-navy-destroyers-by-2027</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This follows a £316 million ($414 million) contract awarded to MBDA UK for the first two production units. DragonFire, a 50 kW-class lase...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: tomshardware.com  
-   Link: <a href="https://www.tomshardware.com/tech-industry/uk-dragonfire-laser-downs-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/uk-dragonfire-laser-downs-high-speed-drones</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A $413 million (£316 million) contract has been awarded to MBDA UK to deploy DragonFire on the Royal Navy’s Type 45 destroyers starting i...</p></details>
+   Link:<a href="https://www.tomshardware.com/tech-industry/uk-dragonfire-laser-downs-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/uk-dragonfire-laser-downs-high-speed-drones</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A $413 million (£316 million) contract has been awarded to MBDA UK to deploy DragonFire on the Royal Navy’s Type 45 destroyers starting i...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aerospaceglobalnews.com  
-   Link: <a href="https://aerospaceglobalnews.com/news/leonardo-demonstrates-ultra-precise-tracking-technology-in-uk-dragonfire-trial/?modal=yes" target="_blank" rel="noopener noreferrer nofollow">https://aerospaceglobalnews.com/news/leonardo-demonstrates-ultra-precise-tracking-technology-in-uk-dragonfire-trial/?modal=yes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>part of the ongoing UK DragonFire Laser Directed Energy Weapon (LDEW) trials.Read more...</p></details>
+   Link:<a href="https://aerospaceglobalnews.com/news/leonardo-demonstrates-ultra-precise-tracking-technology-in-uk-dragonfire-trial/?modal=yes" target="_blank" rel="noopener noreferrer nofollow">https://aerospaceglobalnews.com/news/leonardo-demonstrates-ultra-precise-tracking-technology-in-uk-dragonfire-trial/?modal=yes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>part of the ongoing UK DragonFire Laser Directed Energy Weapon (LDEW) trials.Read more...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/1quxvvi/til_the_united_kingdom_has_successfully_created_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/1quxvvi/til_the_united_kingdom_has_successfully_created_a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TIL The United Kingdom has successfully created a laser...UK confirms drone-killing DragonFire laser weapon for Royal Navy destroyers by...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/1quxvvi/til_the_united_kingdom_has_successfully_created_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/1quxvvi/til_the_united_kingdom_has_successfully_created_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TIL The United Kingdom has successfully created a laser...UK confirms drone-killing DragonFire laser weapon for Royal Navy destroyers by...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DRUtM8hDKZS/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRUtM8hDKZS/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Government Scotland on Instagram: &quot;Introducing...The UK has officially tested DragonFire, a futuristic laser weapon designed to destr...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DRUtM8hDKZS/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRUtM8hDKZS/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Government Scotland on Instagram: &quot;Introducing...The UK has officially tested DragonFire, a futuristic laser weapon designed to destr...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: onr.navy.mil  
-   Link: <a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers</a>  
+   Link:<a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4su_1J2_w1o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4su_1J2_w1o</a>  
+   Link:<a href="https://www.youtube.com/watch?v=4su_1J2_w1o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4su_1J2_w1o</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: l3harris.com  
    Title: directed energy beam directors key component critical asset  
-   Link: <a href="https://www.l3harris.com/newsroom/editorial/2023/06/l3harris-directed-energy-beam-directors-key-component-critical-asset" target="_blank" rel="noopener noreferrer nofollow">https://www.l3harris.com/newsroom/editorial/2023/06/l3harris-directed-energy-beam-directors-key-component-critical-asset</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>L3Harris Directed Energy Beam Directors – A Key...22 Jun 2023 — Directed energy and high-energy laser weapon systems have the power to d...</p></details>
+   Link:<a href="https://www.l3harris.com/newsroom/editorial/2023/06/l3harris-directed-energy-beam-directors-key-component-critical-asset" target="_blank" rel="noopener noreferrer nofollow">https://www.l3harris.com/newsroom/editorial/2023/06/l3harris-directed-energy-beam-directors-key-component-critical-asset</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>L3Harris Directed Energy Beam Directors – A Key...22 Jun 2023 — Directed energy and high-energy laser weapon systems have the power to d...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: navylookout.com  
    Title: contract to deliver first laser weapons for the royal navy agreed  
-   Link: <a href="https://www.navylookout.com/contract-to-deliver-first-laser-weapons-for-the-royal-navy-agreed/" target="_blank" rel="noopener noreferrer nofollow">https://www.navylookout.com/contract-to-deliver-first-laser-weapons-for-the-royal-navy-agreed/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Contract to deliver first laser weapons for the Royal...20 Nov 2025 — DragonFire has already achieved several milestones in controlled t...</p></details>
+   Link:<a href="https://www.navylookout.com/contract-to-deliver-first-laser-weapons-for-the-royal-navy-agreed/" target="_blank" rel="noopener noreferrer nofollow">https://www.navylookout.com/contract-to-deliver-first-laser-weapons-for-the-royal-navy-agreed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Contract to deliver first laser weapons for the Royal...20 Nov 2025 — DragonFire has already achieved several milestones in controlled t...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: qinetiq.com  
    Title: dragonfire laser achieves another uk first  
-   Link: <a href="https://www.qinetiq.com/en/news/dragonfire-laser-achieves-another-uk-first" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/news/dragonfire-laser-achieves-another-uk-first</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system has achieved the UK&#x27;s first high-power firing of a laser weapon a...</p></details>
+   Link:<a href="https://www.qinetiq.com/en/news/dragonfire-laser-achieves-another-uk-first" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/news/dragonfire-laser-achieves-another-uk-first</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system has achieved the UK&#x27;s first high-power firing of a laser weapon a...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ijmer.com  
-   Link: <a href="https://www.ijmer.com/papers/Vol4_Issue2/Version-1/N04201123127.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ijmer.com/papers/Vol4_Issue2/Version-1/N04201123127.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>dynamically varying in-homogeneities in the lasing medium...</p></details>
+   Link:<a href="https://www.ijmer.com/papers/Vol4_Issue2/Version-1/N04201123127.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ijmer.com/papers/Vol4_Issue2/Version-1/N04201123127.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>dynamically varying in-homogeneities in the lasing medium...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: link.aps.org  
-   Link: <a href="https://link.aps.org/doi/10.1103/PhysRevSTAB.17.032803" target="_blank" rel="noopener noreferrer nofollow">https://link.aps.org/doi/10.1103/PhysRevSTAB.17.032803</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>time resolution beam-based measurement of the rf-to...by Z Zhang · 2014 · Cited by 11 — A new method based on the rf compression effect...</p></details>
+   Link:<a href="https://link.aps.org/doi/10.1103/PhysRevSTAB.17.032803" target="_blank" rel="noopener noreferrer nofollow">https://link.aps.org/doi/10.1103/PhysRevSTAB.17.032803</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>time resolution beam-based measurement of the rf-to...by Z Zhang · 2014 · Cited by 11 — A new method based on the rf compression effect...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: ukdefencejournal.org.uk  
-   Link: <a href="https://ukdefencejournal.org.uk/dragonfire-a-guide-to-britains-new-laser-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://ukdefencejournal.org.uk/dragonfire-a-guide-to-britains-new-laser-weapon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire – A guide to Britain&#x27;s new laser weapon21 Nov 2025 — DragonFire is the UK&#x27;s new high-power laser weapon system, intended for R...</p></details>
+   Link:<a href="https://ukdefencejournal.org.uk/dragonfire-a-guide-to-britains-new-laser-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://ukdefencejournal.org.uk/dragonfire-a-guide-to-britains-new-laser-weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire – A guide to Britain&#x27;s new laser weapon21 Nov 2025 — DragonFire is the UK&#x27;s new high-power laser weapon system, intended for R...</p></details>

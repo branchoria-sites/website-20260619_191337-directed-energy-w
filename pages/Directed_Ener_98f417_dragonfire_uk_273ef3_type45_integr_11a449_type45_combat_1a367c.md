@@ -269,11 +269,11 @@ image: /assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_type45_integr_11
 
 ## Introduction
 
-A Type 45 destroyer equipped with DragonFire would not replace its existing missile defences. Instead, it would change how commanders decide which weapon to use against which threat. Modern naval air defence is increasingly shaped by the need to defeat large numbers of inexpensive drones without exhausting limited stocks of expensive missiles. DragonFire gives a Type 45 a new option between simply tracking a target and firing a missile: a highly precise laser engagement costing roughly £10 per shot. That changes the economics and tactics of defence, particularly against drones and other lower-end aerial threats. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://des.mod.uk/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: des.mod.uk">[Defence Equipment &amp; Support+2Royal Navy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">des.mod.uk</span><span class="citation-popover-title">boost for armed forces as new laser weapon takes down high speed drones</span><span class="citation-popover-snippet">It is a more cost-effective method in...</span></span></span>
+A Type 45 destroyer equipped with DragonFire would not replace its existing missile defences. Instead, it would change how commanders decide which weapon to use against which threat. Modern naval air defence is increasingly shaped by the need to defeat large numbers of inexpensive drones without exhausting limited stocks of expensive missiles. DragonFire gives a Type 45 a new option between simply tracking a target and firing a missile: a highly precise laser engagement costing roughly £10 per shot. That changes the economics and tactics of defence, particularly against drones and other lower-end aerial threats.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://des.mod.uk/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: des.mod.uk">[Defence Equipment &amp; Support+2Royal Navy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">des.mod.uk</span><span class="citation-popover-title">boost for armed forces as new laser weapon takes down high speed drones</span><span class="citation-popover-snippet">It is a more cost-effective method in...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_type45_integr_11a449_type45_combat_1a367c-Illustration-1-dark.svg" | relative_url }}" alt="Combat Choices illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_type45_integr_11a449_type45_combat_1a367c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_type45_integr_11a449_type45_combat_1a367c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For a ship already centred on the Sea Viper air-defence system, the key effect is not that [lasers]({{ 'lasers/' | relative_url }}) replace missiles, but that commanders gain greater flexibility in preserving missile inventory for the threats that genuinely require it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mbda-systems.com/uk-defence-minister-visits-mbda-dragonfire-laser-weapon-contract-announcement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbda-systems.com">[MBDA Systems+2Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbda-systems.com</span><span class="citation-popover-title">uk defence minister visits mbda dragonfire laser weapon contract announcement</span><span class="citation-popover-snippet">MBDA SystemsUK Defence Minister visits MBDA for DRAGONFIRE laser...15 Dec 2025 — Laser weapons are most effective in a layered Air Defen...</span></span></span>
+For a ship already centred on the Sea Viper air-defence system, the key effect is not that [lasers]({{ 'lasers/' | relative_url }}) replace missiles, but that commanders gain greater flexibility in preserving missile inventory for the threats that genuinely require it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mbda-systems.com/uk-defence-minister-visits-mbda-dragonfire-laser-weapon-contract-announcement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbda-systems.com">[MBDA Systems+2Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbda-systems.com</span><span class="citation-popover-title">uk defence minister visits mbda dragonfire laser weapon contract announcement</span><span class="citation-popover-snippet">MBDA SystemsUK Defence Minister visits MBDA for DRAGONFIRE laser...15 Dec 2025 — Laser weapons are most effective in a layered Air Defen...</span></span></span>
 
 ## Choosing Lasers or Missiles
 
@@ -292,9 +292,9 @@ In broad terms, the decision logic changes as follows:
 
 </div>
 
-This matters because missile stocks are finite. A destroyer can reload only in port, whereas a laser primarily depends on electrical power [generation]({{ 'generation-ii/' | relative_url }}) and thermal management. In a prolonged operation, preserving missiles may be as important as destroying individual targets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Oboronka]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">DragonFire is led by the Defence Science and Technology Laboratory (Dstl)...Read more...</span></span></span>
+This matters because missile stocks are finite. A destroyer can reload only in port, whereas a laser primarily depends on electrical power [generation]({{ 'generation-ii/' | relative_url }}) and thermal management. In a prolonged operation, preserving missiles may be as important as destroying individual targets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Oboronka]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">DragonFire is led by the Defence Science and Technology Laboratory (Dstl)...Read more...</span></span></span>
 
-Recent Royal Navy operations in the Red Sea highlighted the value of missile-based air defence against serious threats. DragonFire potentially reduces the need to expend those same missiles against every drone detected on radar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.royalnavy.mod.uk/news/2024/april/12/240412-powerful-laser-to-be-installed-on-royal-navy-warship-by-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalnavy.mod.uk">[Royal Navy+2Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalnavy.mod.uk</span><span class="citation-popover-title">240412 powerful laser to be installed on royal navy warship by 2027</span><span class="citation-popover-snippet">Royal NavyPowerful laser to be installed on Royal Navy warship by 202712 Apr 2024 — The cutting-edge DragonFire laser will be installed o...</span></span></span>
+Recent Royal Navy operations in the Red Sea highlighted the value of missile-based air defence against serious threats. DragonFire potentially reduces the need to expend those same missiles against every drone detected on radar.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.royalnavy.mod.uk/news/2024/april/12/240412-powerful-laser-to-be-installed-on-royal-navy-warship-by-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalnavy.mod.uk">[Royal Navy+2Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalnavy.mod.uk</span><span class="citation-popover-title">240412 powerful laser to be installed on royal navy warship by 2027</span><span class="citation-popover-snippet">Royal NavyPowerful laser to be installed on Royal Navy warship by 202712 Apr 2024 — The cutting-edge DragonFire laser will be installed o...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B_TSOSaa-rQ" title="Dragonfire Laser Weapon Explained: Inside the British Royal Navy’s Type 45 Warship Integration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B_TSOSaa-rQ" target="_blank" rel="noopener noreferrer">Dragonfire Laser Weapon Explained: Inside the British Royal Navy’s Type 45 Warship Integration</a></p><p class="youtube-embed-meta">Channel: DefenseWebTV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B_TSOSaa-rQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B_TSOSaa-rQ">Open on YouTube</a></p></div></div></div>
@@ -303,7 +303,7 @@ Recent Royal Navy operations in the Red Sea highlighted the value of missile-bas
 
 The clearest change in combat decisions comes during drone attacks.
 
-Many modern drones are far cheaper than the missiles used to destroy them. This creates an unfavourable exchange ratio for defenders. An attacker can launch multiple low-cost systems while forcing a defender to spend large sums on interceptors. DragonFire was developed specifically to help address this problem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/uk/uk-beefs-up-royal-navy-counter-drone-tech-with-413-mln-laser-contract-2025-11-20/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2Defense News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">UK beefs up Royal Navy counter-drone tech with $413 million laser contract</span><span class="citation-popover-snippet">This initiative is part of Britain&#x27;s efforts to enhance its naval defenses, particularly against drone threats. The DragonFire system is...</span></span></span>
+Many modern drones are far cheaper than the missiles used to destroy them. This creates an unfavourable exchange ratio for defenders. An attacker can launch multiple low-cost systems while forcing a defender to spend large sums on interceptors. DragonFire was developed specifically to help address this problem.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/uk/uk-beefs-up-royal-navy-counter-drone-tech-with-413-mln-laser-contract-2025-11-20/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2Defense News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">UK beefs up Royal Navy counter-drone tech with $413 million laser contract</span><span class="citation-popover-snippet">This initiative is part of Britain&#x27;s efforts to enhance its naval defenses, particularly against drone threats. The DragonFire system is...</span></span></span>
 
 For a Type 45 commander, the arrival of a small drone inside the laser's effective engagement envelope creates a different decision tree:
 
@@ -317,9 +317,9 @@ For a Type 45 commander, the arrival of a small drone inside the laser's effecti
 
 </div>
 
-This approach is especially valuable during [saturation]({{ 'saturation/' | relative_url }}) attacks. A commander facing multiple drones may decide that laser engagements provide a more sustainable defensive response while retaining missile capacity for any accompanying anti-ship missiles or aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://interestingengineering.com/military/uk-dragonfire-laser-2027-deployment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interestingengineering.com">[Interesting Engineering+2MBDA Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interestingengineering.com</span><span class="citation-popover-title">uk dragonfire laser 2027 deployment</span><span class="citation-popover-snippet">Interesting EngineeringUK sets DragonFire laser for 2027 with near-zero cost per...3 days ago — DragonFire&#x27;s near-zero cost per shot cou...</span></span></span>
+This approach is especially valuable during [saturation]({{ 'saturation/' | relative_url }}) attacks. A commander facing multiple drones may decide that laser engagements provide a more sustainable defensive response while retaining missile capacity for any accompanying anti-ship missiles or aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://interestingengineering.com/military/uk-dragonfire-laser-2027-deployment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interestingengineering.com">[Interesting Engineering+2MBDA Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interestingengineering.com</span><span class="citation-popover-title">uk dragonfire laser 2027 deployment</span><span class="citation-popover-snippet">Interesting EngineeringUK sets DragonFire laser for 2027 with near-zero cost per...3 days ago — DragonFire&#x27;s near-zero cost per shot cou...</span></span></span>
 
-Trials have demonstrated DragonFire's ability to destroy aerial drones, including [high-speed]({{ '650-km-h/' | relative_url }}) targets. Those results are significant because they show that the weapon is intended not merely as a demonstration system but as a practical [counter-drone]({{ 'missile-savings/' | relative_url }}) tool integrated into naval air defence planning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.royalnavy.mod.uk/news/2024/january/19/20240119-laser-downs-drones-in-successful-trial-of-possible-future-naval-weapon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalnavy.mod.uk">[Royal Navy+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalnavy.mod.uk</span><span class="citation-popover-snippet">Royal NavyLaser downs drones in successful trial of possible future...19 Jan 2024 — A burst of a high-intensity beam from Dragonfire cos...</span></span></span>
+Trials have demonstrated DragonFire's ability to destroy aerial drones, including [high-speed]({{ '650-km-h/' | relative_url }}) targets. Those results are significant because they show that the weapon is intended not merely as a demonstration system but as a practical [counter-drone]({{ 'missile-savings/' | relative_url }}) tool integrated into naval air defence planning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.royalnavy.mod.uk/news/2024/january/19/20240119-laser-downs-drones-in-successful-trial-of-possible-future-naval-weapon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalnavy.mod.uk">[Royal Navy+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalnavy.mod.uk</span><span class="citation-popover-snippet">Royal NavyLaser downs drones in successful trial of possible future...19 Jan 2024 — A burst of a high-intensity beam from Dragonfire cos...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_type45_integr_11a449_type45_combat_1a367c-Illustration-2-dark.svg" | relative_url }}" alt="Combat Choices illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_type45_integr_11a449_type45_combat_1a367c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_type45_integr_11a449_type45_combat_1a367c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -341,9 +341,9 @@ For example, a ship might simultaneously detect:
 
 </div>
 
-In such a scenario, DragonFire allows lower-priority threats to be handled without automatically consuming missile inventory. The result is a more nuanced allocation of defensive resources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mbda-systems.com/uk-defence-minister-visits-mbda-dragonfire-laser-weapon-contract-announcement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbda-systems.com">[MBDA Systems+2Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbda-systems.com</span><span class="citation-popover-title">uk defence minister visits mbda dragonfire laser weapon contract announcement</span><span class="citation-popover-snippet">MBDA SystemsUK Defence Minister visits MBDA for DRAGONFIRE laser...15 Dec 2025 — Laser weapons are most effective in a layered Air Defen...</span></span></span>
+In such a scenario, DragonFire allows lower-priority threats to be handled without automatically consuming missile inventory. The result is a more nuanced allocation of defensive resources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mbda-systems.com/uk-defence-minister-visits-mbda-dragonfire-laser-weapon-contract-announcement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbda-systems.com">[MBDA Systems+2Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbda-systems.com</span><span class="citation-popover-title">uk defence minister visits mbda dragonfire laser weapon contract announcement</span><span class="citation-popover-snippet">MBDA SystemsUK Defence Minister visits MBDA for DRAGONFIRE laser...15 Dec 2025 — Laser weapons are most effective in a layered Air Defen...</span></span></span>
 
-This is particularly relevant because Type 45 destroyers are often deployed as escorts for carrier groups, amphibious forces or merchant shipping. Their role is not simply self-defence but protecting other vessels. Preserving high-end interceptors for the most dangerous threats strengthens that wider mission. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.royalnavy.mod.uk/news/2024/april/12/240412-powerful-laser-to-be-installed-on-royal-navy-warship-by-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalnavy.mod.uk">[Royal Navy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalnavy.mod.uk</span><span class="citation-popover-title">240412 powerful laser to be installed on royal navy warship by 2027</span><span class="citation-popover-snippet">Royal NavyPowerful laser to be installed on Royal Navy warship by 202712 Apr 2024 — The cutting-edge DragonFire laser will be installed o...</span></span></span>
+This is particularly relevant because Type 45 destroyers are often deployed as escorts for carrier groups, amphibious forces or merchant shipping. Their role is not simply self-defence but protecting other vessels. Preserving high-end interceptors for the most dangerous threats strengthens that wider mission.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.royalnavy.mod.uk/news/2024/april/12/240412-powerful-laser-to-be-installed-on-royal-navy-warship-by-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalnavy.mod.uk">[Royal Navy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalnavy.mod.uk</span><span class="citation-popover-title">240412 powerful laser to be installed on royal navy warship by 2027</span><span class="citation-popover-snippet">Royal NavyPowerful laser to be installed on Royal Navy warship by 202712 Apr 2024 — The cutting-edge DragonFire laser will be installed o...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/So2m-Pidcuo" title="Royal Navy to fit deadly DragonFire £10-a-shot laser precision weapon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=So2m-Pidcuo" target="_blank" rel="noopener noreferrer">Royal Navy to fit deadly DragonFire £10-a-shot laser precision weapon</a></p><p class="youtube-embed-meta">Channel: BFBS Forces News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=So2m-Pidcuo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=So2m-Pidcuo">Open on YouTube</a></p></div></div></div>
@@ -352,9 +352,9 @@ This is particularly relevant because Type 45 destroyers are often deployed as e
 
 DragonFire does not eliminate the need for Sea Viper or other defensive systems.
 
-Laser weapons depend on [line of sight]({{ 'dwell-time/' | relative_url }}) and sustained beam contact with a target. They also remain affected by operational factors such as weather, atmospheric conditions and engagement geometry. As a result, commanders cannot assume that every target can be dealt with by a laser alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tomshardware.com/tech-industry/uk-dragonfire-laser-downs-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomshardware.com">[Tom&#x27;s Hardware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomshardware.com</span><span class="citation-popover-snippet">A $413 million (£316 million) contract has been awarded to MBDA UK to deploy DragonFire on the Royal Navy’s Type 45 destroyers starting i...</span></span></span>
+Laser weapons depend on [line of sight]({{ 'dwell-time/' | relative_url }}) and sustained beam contact with a target. They also remain affected by operational factors such as weather, atmospheric conditions and engagement geometry. As a result, commanders cannot assume that every target can be dealt with by a laser alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tomshardware.com/tech-industry/uk-dragonfire-laser-downs-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomshardware.com">[Tom&#x27;s Hardware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomshardware.com</span><span class="citation-popover-snippet">A $413 million (£316 million) contract has been awarded to MBDA UK to deploy DragonFire on the Royal Navy’s Type 45 destroyers starting i...</span></span></span>
 
-For that reason, DragonFire is generally described as part of a layered defence architecture rather than a replacement for kinetic weapons. The laser adds another engagement option, but missiles remain essential for longer-range interceptions, difficult manoeuvring targets and situations where a rapid kill probability is required at greater distance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mbda-systems.com/uk-defence-minister-visits-mbda-dragonfire-laser-weapon-contract-announcement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbda-systems.com">[MBDA Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbda-systems.com</span><span class="citation-popover-title">uk defence minister visits mbda dragonfire laser weapon contract announcement</span><span class="citation-popover-snippet">MBDA SystemsUK Defence Minister visits MBDA for DRAGONFIRE laser...15 Dec 2025 — Laser weapons are most effective in a layered Air Defen...</span></span></span>
+For that reason, DragonFire is generally described as part of a layered defence architecture rather than a replacement for kinetic weapons. The laser adds another engagement option, but missiles remain essential for longer-range interceptions, difficult manoeuvring targets and situations where a rapid kill probability is required at greater distance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mbda-systems.com/uk-defence-minister-visits-mbda-dragonfire-laser-weapon-contract-announcement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbda-systems.com">[MBDA Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbda-systems.com</span><span class="citation-popover-title">uk defence minister visits mbda dragonfire laser weapon contract announcement</span><span class="citation-popover-snippet">MBDA SystemsUK Defence Minister visits MBDA for DRAGONFIRE laser...15 Dec 2025 — Laser weapons are most effective in a layered Air Defen...</span></span></span>
 
 The practical outcome is that a future Type 45 commander will likely think in terms of defensive layers:
 
@@ -373,203 +373,203 @@ The practical outcome is that a future Type 45 commander will likely think in te
 
 The most significant effect of DragonFire is not technological but operational. It changes the cost-benefit calculation behind every engagement decision.
 
-A commander no longer faces a simple choice between firing an expensive missile or accepting risk. Instead, DragonFire introduces a low-cost, rapidly reusable defensive option that can absorb part of the counter-drone burden. That makes missile inventories last longer, improves resilience during extended deployments and strengthens the Type 45's ability to protect task groups during sustained periods of aerial threat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Royal Navy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">boost for armed forces as new laser weapon takes down high speed drones</span><span class="citation-popover-snippet">DragonFire will be fitted to a Royal Navy Type 45 destroyer by 2027 – five...Read more...</span></span></span>
+A commander no longer faces a simple choice between firing an expensive missile or accepting risk. Instead, DragonFire introduces a low-cost, rapidly reusable defensive option that can absorb part of the counter-drone burden. That makes missile inventories last longer, improves resilience during extended deployments and strengthens the Type 45's ability to protect task groups during sustained periods of aerial threat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Royal Navy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">boost for armed forces as new laser weapon takes down high speed drones</span><span class="citation-popover-snippet">DragonFire will be fitted to a Royal Navy Type 45 destroyer by 2027 – five...Read more...</span></span></span>
 
-In practical terms, a Type 45 fitted with DragonFire remains a missile destroyer. The difference is that it gains a new way to decide when a missile is truly necessary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mbda-systems.com/uk-defence-minister-visits-mbda-dragonfire-laser-weapon-contract-announcement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbda-systems.com">[MBDA Systems+2Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbda-systems.com</span><span class="citation-popover-title">uk defence minister visits mbda dragonfire laser weapon contract announcement</span><span class="citation-popover-snippet">MBDA SystemsUK Defence Minister visits MBDA for DRAGONFIRE laser...15 Dec 2025 — Laser weapons are most effective in a layered Air Defen...</span></span></span>
+In practical terms, a Type 45 fitted with DragonFire remains a missile destroyer. The difference is that it gains a new way to decide when a missile is truly necessary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mbda-systems.com/uk-defence-minister-visits-mbda-dragonfire-laser-weapon-contract-announcement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbda-systems.com">[MBDA Systems+2Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbda-systems.com</span><span class="citation-popover-title">uk defence minister visits mbda dragonfire laser weapon contract announcement</span><span class="citation-popover-snippet">MBDA SystemsUK Defence Minister visits MBDA for DRAGONFIRE laser...15 Dec 2025 — Laser weapons are most effective in a layered Air Defen...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P3wjzIz67ds" title="DragonFire Arrives: The Royal Navy’s Laser Revolution" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P3wjzIz67ds" target="_blank" rel="noopener noreferrer">DragonFire Arrives: The Royal Navy’s Laser Revolution</a></p><p class="youtube-embed-meta">Channel: Warships &amp; Warriors</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P3wjzIz67ds" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P3wjzIz67ds">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Would a Type 45 Fire Dragon Fire. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Would a Type 45 Fire Dragon Fire. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Explains how emerging technologies are changing military operations and defense planning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how emerging technologies are changing military operations and defense planning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
-        </h4>
-        <p class="fr-book-author">By Paul Scharre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
+</h4>
+<p class="fr-book-author">By Paul Scharre</p>
         
-        <p class="fr-book-desc">Provides context on autonomous systems and future battlefield technologies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on autonomous systems and future battlefield technologies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Introduction+to+Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Directed Energy Weapons">Introduction to Directed Energy Weapons</a>
-        </h4>
-        <p class="fr-book-author">By Bahman Zohuri</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Introduction+to+Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Directed Energy Weapons">Introduction to Directed Energy Weapons</a>
+</h4>
+<p class="fr-book-author">By Bahman Zohuri</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Fleet+Tactics+and+Naval+Operations+Wayne+P.+Hughes+Jr.+and+Robert+P.+Girrier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fleet Tactics and Naval Operations on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fleet+Tactics+and+Naval+Operations+Wayne+P.+Hughes+Jr.+and+Robert+P.+Girrier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fleet Tactics and Naval Operations">Fleet Tactics and Naval Operations</a>
-        </h4>
-        <p class="fr-book-author">By Wayne P. Hughes Jr. and Robert P. Girrier</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Fleet+Tactics+and+Naval+Operations+Wayne+P.+Hughes+Jr.+and+Robert+P.+Girrier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fleet Tactics and Naval Operations on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fleet+Tactics+and+Naval+Operations+Wayne+P.+Hughes+Jr.+and+Robert+P.+Girrier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fleet Tactics and Naval Operations">Fleet Tactics and Naval Operations</a>
+</h4>
+<p class="fr-book-author">By Wayne P. Hughes Jr. and Robert P. Girrier</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fleet+Tactics+and+Naval+Operations+Wayne+P.+Hughes+Jr.+and+Robert+P.+Girrier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fleet+Tactics+and+Naval+Operations+Wayne+P.+Hughes+Jr.+and+Robert+P.+Girrier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Directed+Energy+Weapons+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Directed Energy Weapons books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Directed+Energy+Weapons+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Directed Energy Weapons books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vulcan bomber aviation wall art canvas print mounted framed ready to hang"><img src="{{ '/assets/images/marketplace-covers/df93f96186ab197a5b3a.jpg' | relative_url }}" alt="Listing image for Vulcan bomber aviation wall art canvas print mounted framed ready to hang" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vulcan bomber aviation wall art canvas print mounted framed ready to hang</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vulcan bomber aviation wall art canvas print mounted framed ready to hang"><img src="{{ '/assets/images/marketplace-covers/df93f96186ab197a5b3a.jpg' | relative_url }}" alt="Listing image for Vulcan bomber aviation wall art canvas print mounted framed ready to hang" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vulcan bomber aviation wall art canvas print mounted framed ready to hang</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/79d7c1c2f8b6a13b52b4.jpg' | relative_url }}" alt="Listing image for White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/79d7c1c2f8b6a13b52b4.jpg' | relative_url }}" alt="Listing image for White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/172b1b875ec6ecdb1d02.jpg' | relative_url }}" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/172b1b875ec6ecdb1d02.jpg' | relative_url }}" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/ad50048f5e8927ed1a97.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/ad50048f5e8927ed1a97.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="combat-choices-when-would-a-type-45-fire-dragon-fire-directed-ener-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -585,7 +585,7 @@ In practical terms, a Type 45 fitted with DragonFire remains a missile destroyer
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -605,7 +605,7 @@ In practical terms, a Type 45 fitted with DragonFire remains a missile destroyer
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -637,7 +637,7 @@ In practical terms, a Type 45 fitted with DragonFire remains a missile destroyer
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -689,7 +689,7 @@ In practical terms, a Type 45 fitted with DragonFire remains a missile destroyer
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -734,7 +734,7 @@ In practical terms, a Type 45 fitted with DragonFire remains a missile destroyer
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -775,168 +775,168 @@ In practical terms, a Type 45 fitted with DragonFire remains a missile destroyer
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: advanced future military laser achieves uk first  
-   Link: <a href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire is led by the Defence Science and Technology Laboratory (Dstl)...Read more...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire is led by the Defence Science and Technology Laboratory (Dstl)...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: mbda-systems.com  
    Title: uk defence minister visits mbda dragonfire laser weapon contract announcement  
-   Link: <a href="https://www.mbda-systems.com/uk-defence-minister-visits-mbda-dragonfire-laser-weapon-contract-announcement" target="_blank" rel="noopener noreferrer nofollow">https://www.mbda-systems.com/uk-defence-minister-visits-mbda-dragonfire-laser-weapon-contract-announcement</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MBDA SystemsUK Defence Minister visits MBDA for DRAGONFIRE laser...15 Dec 2025 — Laser weapons are most effective in a layered Air Defen...</p></details>
+   Link:<a href="https://www.mbda-systems.com/uk-defence-minister-visits-mbda-dragonfire-laser-weapon-contract-announcement" target="_blank" rel="noopener noreferrer nofollow">https://www.mbda-systems.com/uk-defence-minister-visits-mbda-dragonfire-laser-weapon-contract-announcement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MBDA SystemsUK Defence Minister visits MBDA for DRAGONFIRE laser...15 Dec 2025 — Laser weapons are most effective in a layered Air Defen...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reuters.com  
    Title: britain equip ships with lasers take down drones 2027 2024 04 11  
-   Link: <a href="https://www.reuters.com/world/uk/britain-equip-ships-with-lasers-take-down-drones-2027-2024-04-11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/uk/britain-equip-ships-with-lasers-take-down-drones-2027-2024-04-11/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These lasers can accurately target objects in the air for around 10 pounds ($12.52) per shot, marking a significant advancement in milita...</p></details>
+   Link:<a href="https://www.reuters.com/world/uk/britain-equip-ships-with-lasers-take-down-drones-2027-2024-04-11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/uk/britain-equip-ships-with-lasers-take-down-drones-2027-2024-04-11/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These lasers can accurately target objects in the air for around 10 pounds ($12.52) per shot, marking a significant advancement in milita...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reuters.com  
    Title: UK beefs up Royal Navy counter-drone tech with $413 million laser contract  
-   Link: <a href="https://www.reuters.com/world/uk/uk-beefs-up-royal-navy-counter-drone-tech-with-413-mln-laser-contract-2025-11-20/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/uk/uk-beefs-up-royal-navy-counter-drone-tech-with-413-mln-laser-contract-2025-11-20/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This initiative is part of Britain&#x27;s efforts to enhance its naval defenses, particularly against drone threats. The DragonFire system is...</p></details>
+   Link:<a href="https://www.reuters.com/world/uk/uk-beefs-up-royal-navy-counter-drone-tech-with-413-mln-laser-contract-2025-11-20/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/uk/uk-beefs-up-royal-navy-counter-drone-tech-with-413-mln-laser-contract-2025-11-20/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This initiative is part of Britain&#x27;s efforts to enhance its naval defenses, particularly against drone threats. The DragonFire system is...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: GOV.UK  
    Title: boost for armed forces as new laser weapon takes down high speed drones  
-   Link: <a href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire will be fitted to a Royal Navy Type 45 destroyer by 2027 – five...Read more...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire will be fitted to a Royal Navy Type 45 destroyer by 2027 – five...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=B_TSOSaa-rQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B_TSOSaa-rQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Navy to fit deadly DragonFire £10-a-shot laser precision weapon...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=B_TSOSaa-rQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B_TSOSaa-rQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Navy to fit deadly DragonFire £10-a-shot laser precision weapon...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Royal Navy to fit deadly Dragon Fire £10-a-shot laser precision weapon  
-   Link: <a href="https://www.youtube.com/watch?v=So2m-Pidcuo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=So2m-Pidcuo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The weapons a Type 45 destroyer has in her arsenal to fend off attacks...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=So2m-Pidcuo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=So2m-Pidcuo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The weapons a Type 45 destroyer has in her arsenal to fend off attacks...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: des.mod.uk  
    Title: boost for armed forces as new laser weapon takes down high speed drones  
-   Link: <a href="https://des.mod.uk/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones/" target="_blank" rel="noopener noreferrer nofollow">https://des.mod.uk/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It is a more cost-effective method in...</p></details>
+   Link:<a href="https://des.mod.uk/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones/" target="_blank" rel="noopener noreferrer nofollow">https://des.mod.uk/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is a more cost-effective method in...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: royalnavy.mod.uk  
    Title: 240412 powerful laser to be installed on royal navy warship by 2027  
-   Link: <a href="https://www.royalnavy.mod.uk/news/2024/april/12/240412-powerful-laser-to-be-installed-on-royal-navy-warship-by-2027" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/news/2024/april/12/240412-powerful-laser-to-be-installed-on-royal-navy-warship-by-2027</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal NavyPowerful laser to be installed on Royal Navy warship by 202712 Apr 2024 — The cutting-edge DragonFire laser will be installed o...</p></details>
+   Link:<a href="https://www.royalnavy.mod.uk/news/2024/april/12/240412-powerful-laser-to-be-installed-on-royal-navy-warship-by-2027" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/news/2024/april/12/240412-powerful-laser-to-be-installed-on-royal-navy-warship-by-2027</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal NavyPowerful laser to be installed on Royal Navy warship by 202712 Apr 2024 — The cutting-edge DragonFire laser will be installed o...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: royalnavy.mod.uk  
    Title: 20251120 dragonfire trials  
-   Link: <a href="https://www.royalnavy.mod.uk/news/2025/november/20/20251120-dragonfire-trials" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/news/2025/november/20/20251120-dragonfire-trials</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Navy£316m deal for Royal Navy&#x27;s first laser weapon after...20 Nov 2025 — DragonFire offers a cheaper (£10 per shot compared with...</p></details>
+   Link:<a href="https://www.royalnavy.mod.uk/news/2025/november/20/20251120-dragonfire-trials" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/news/2025/november/20/20251120-dragonfire-trials</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Navy£316m deal for Royal Navy&#x27;s first laser weapon after...20 Nov 2025 — DragonFire offers a cheaper (£10 per shot compared with...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: oboronka.mezha.ua  
    Title: britaniya zakupit lazer dragonfire 302507  
-   Link: <a href="https://oboronka.mezha.ua/en/britaniya-zakupit-lazer-dragonfire-302507/" target="_blank" rel="noopener noreferrer nofollow">https://oboronka.mezha.ua/en/britaniya-zakupit-lazer-dragonfire-302507/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Britain to purchase DragonFire laser weapons7 Jun 2025 — The main advantage of such a laser weapon is the low cost of a shot, est...</p></details>
+   Link:<a href="https://oboronka.mezha.ua/en/britaniya-zakupit-lazer-dragonfire-302507/" target="_blank" rel="noopener noreferrer nofollow">https://oboronka.mezha.ua/en/britaniya-zakupit-lazer-dragonfire-302507/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Britain to purchase DragonFire laser weapons7 Jun 2025 — The main advantage of such a laser weapon is the low cost of a shot, est...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: businessinsider.com  
-   Link: <a href="https://www.businessinsider.com/royal-navy-warship-shot-down-supersonic-missile-innovation-defense-2025-5" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/royal-navy-warship-shot-down-supersonic-missile-innovation-defense-2025-5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The missile was destroyed using a modified Sea Viper missile system designed to counter high-speed, evasive targets, showcasing the Royal...</p></details>
+   Link:<a href="https://www.businessinsider.com/royal-navy-warship-shot-down-supersonic-missile-innovation-defense" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/royal-navy-warship-shot-down-supersonic-missile-innovation-defense</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The missile was destroyed using a modified Sea Viper missile system designed to counter high-speed, evasive targets, showcasing the Royal...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: defensenews.com  
    Title: uk royal navy to equip mbdas drone frying lasers by 2027  
-   Link: <a href="https://www.defensenews.com/global/europe/2025/11/20/uk-royal-navy-to-equip-mbdas-drone-frying-lasers-by-2027/" target="_blank" rel="noopener noreferrer nofollow">https://www.defensenews.com/global/europe/2025/11/20/uk-royal-navy-to-equip-mbdas-drone-frying-lasers-by-2027/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense NewsUK Royal Navy to equip MBDA&#x27;s drone-frying lasers by 202720 Nov 2025 — The DragonFire laser system costs £10 a shot, compared...</p></details>
+   Link:<a href="https://www.defensenews.com/global/europe/2025/11/20/uk-royal-navy-to-equip-mbdas-drone-frying-lasers-by-2027/" target="_blank" rel="noopener noreferrer nofollow">https://www.defensenews.com/global/europe/2025/11/20/uk-royal-navy-to-equip-mbdas-drone-frying-lasers-by-2027/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense NewsUK Royal Navy to equip MBDA&#x27;s drone-frying lasers by 202720 Nov 2025 — The DragonFire laser system costs £10 a shot, compared...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: interestingengineering.com  
    Title: uk dragonfire laser 2027 [deployment](&#123;&#123; 'deployment/' | relative_url &#125;&#125;)  
-   Link: <a href="https://interestingengineering.com/military/uk-dragonfire-laser-2027-deployment" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.com/military/uk-dragonfire-laser-2027-deployment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interesting EngineeringUK sets DragonFire laser for 2027 with near-zero cost per...3 days ago — DragonFire&#x27;s near-zero cost per shot cou...</p></details>
+   Link:<a href="https://interestingengineering.com/military/uk-dragonfire-laser-2027-deployment" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.com/military/uk-dragonfire-laser-2027-deployment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interesting EngineeringUK sets DragonFire laser for 2027 with near-zero cost per...3 days ago — DragonFire&#x27;s near-zero cost per shot cou...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: royalnavy.mod.uk  
-   Link: <a href="https://www.royalnavy.mod.uk/news/2024/january/19/20240119-laser-downs-drones-in-successful-trial-of-possible-future-naval-weapon" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/news/2024/january/19/20240119-laser-downs-drones-in-successful-trial-of-possible-future-naval-weapon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal NavyLaser downs drones in successful trial of possible future...19 Jan 2024 — A burst of a high-intensity beam from Dragonfire cos...</p></details>
+   Link:<a href="https://www.royalnavy.mod.uk/news/2024/january/19/20240119-laser-downs-drones-in-successful-trial-of-possible-future-naval-weapon" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/news/2024/january/19/20240119-laser-downs-drones-in-successful-trial-of-possible-future-naval-weapon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal NavyLaser downs drones in successful trial of possible future...19 Jan 2024 — A burst of a high-intensity beam from Dragonfire cos...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: tomshardware.com  
-   Link: <a href="https://www.tomshardware.com/tech-industry/uk-dragonfire-laser-downs-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/uk-dragonfire-laser-downs-high-speed-drones</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A $413 million (£316 million) contract has been awarded to MBDA UK to deploy DragonFire on the Royal Navy’s Type 45 destroyers starting i...</p></details>
+   Link:<a href="https://www.tomshardware.com/tech-industry/uk-dragonfire-laser-downs-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/uk-dragonfire-laser-downs-high-speed-drones</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A $413 million (£316 million) contract has been awarded to MBDA UK to deploy DragonFire on the Royal Navy’s Type 45 destroyers starting i...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: tomshardware.com  
-   Link: <a href="https://www.tomshardware.com/tech-industry/uk-confirms-dragonfire-laser-weapon-for-royal-navy-destroyers-by-2027" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/uk-confirms-dragonfire-laser-weapon-for-royal-navy-destroyers-by-2027</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK confirms drone-killing DragonFire laser weapon for...6 hours ago — UK confirms drone-killing DragonFire laser weapon for Royal Navy d...</p></details>
+   Link:<a href="https://www.tomshardware.com/tech-industry/uk-confirms-dragonfire-laser-weapon-for-royal-navy-destroyers-by-2027" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/uk-confirms-dragonfire-laser-weapon-for-royal-navy-destroyers-by-2027</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK confirms drone-killing DragonFire laser weapon for...6 hours ago — UK confirms drone-killing DragonFire laser weapon for Royal Navy d...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: uk.leonardo.com  
-   Link: <a href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow">https://uk.leonardo.com/en/innovation/dragonfire</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Directed Energy Weapon - Leonardo UKThe DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power...</p></details>
+   Link:<a href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow">https://uk.leonardo.com/en/innovation/dragonfire</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Directed Energy Weapon - Leonardo UKThe DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theregister.com  
    Title: royal navy to get drone zapping lasers from 2027  
-   Link: <a href="https://www.theregister.com/on-prem/2025/11/24/royal-navy-to-get-drone-zapping-lasers-from-2027/2201336" target="_blank" rel="noopener noreferrer nofollow">https://www.theregister.com/on-prem/2025/11/24/royal-navy-to-get-drone-zapping-lasers-from-2027/2201336</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Costs a tenner a shot instead of £1M per anti-aircraft...Read more...</p></details>
+   Link:<a href="https://www.theregister.com/on-prem/2025/11/24/royal-navy-to-get-drone-zapping-lasers-from-2027/2201336" target="_blank" rel="noopener noreferrer nofollow">https://www.theregister.com/on-prem/2025/11/24/royal-navy-to-get-drone-zapping-lasers-from-2027/2201336</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Costs a tenner a shot instead of £1M per anti-aircraft...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: navyleaders.com  
    Title: royal navy destroyer to be fitted with dragonfire laser  
-   Link: <a href="https://navyleaders.com/news/royal-navy-destroyer-to-be-fitted-with-dragonfire-laser/" target="_blank" rel="noopener noreferrer nofollow">https://navyleaders.com/news/royal-navy-destroyer-to-be-fitted-with-dragonfire-laser/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Jun 2025 — A Type 45 destroyer will become the first Royal Navy vessel to be fitted with the DragonFire directed energy weapon (DEW) in...</p></details>
+   Link:<a href="https://navyleaders.com/news/royal-navy-destroyer-to-be-fitted-with-dragonfire-laser/" target="_blank" rel="noopener noreferrer nofollow">https://navyleaders.com/news/royal-navy-destroyer-to-be-fitted-with-dragonfire-laser/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Jun 2025 — A Type 45 destroyer will become the first Royal Navy vessel to be fitted with the DragonFire directed energy weapon (DEW) in...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: armyrecognition.com  
-   Link: <a href="https://armyrecognition.com/news/navy-news/2026/uk-confirms-dragonfire-laser-weapon-deployment-on-type-45-air-defense-destroyers-by-2027" target="_blank" rel="noopener noreferrer nofollow">https://armyrecognition.com/news/navy-news/2026/uk-confirms-dragonfire-laser-weapon-deployment-on-type-45-air-defense-destroyers-by-2027</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK confirms DragonFire laser weapon deployment on...2 days ago — UK advances DragonFire laser weapon deployment to 2027 on Type 45 destr...</p></details>
+   Link:<a href="https://armyrecognition.com/news/navy-news/2026/uk-confirms-dragonfire-laser-weapon-deployment-on-type-45-air-defense-destroyers-by-2027" target="_blank" rel="noopener noreferrer nofollow">https://armyrecognition.com/news/navy-news/2026/uk-confirms-dragonfire-laser-weapon-deployment-on-type-45-air-defense-destroyers-by-2027</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK confirms DragonFire laser weapon deployment on...2 days ago — UK advances DragonFire laser weapon deployment to 2027 on Type 45 destr...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Mcognizance/videos/%EF%B8%8F%EF%B8%8F/2359327817833262/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Mcognizance/videos/%EF%B8%8F%EF%B8%8F/2359327817833262/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking News: UK Awards £316M Contract for DragonFire...UK a £316 million contract to deliver two operational DragonFire high-power la...</p></details>
+   Link:<a href="https://www.facebook.com/Mcognizance/videos/%EF%B8%8F%EF%B8%8F/2359327817833262/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Mcognizance/videos/%EF%B8%8F%EF%B8%8F/2359327817833262/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking News: UK Awards £316M Contract for DragonFire...UK a £316 million contract to deliver two operational DragonFire high-power la...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: militarnyi.com  
-   Link: <a href="https://militarnyi.com/en/news/dragonfire-laser-successfully-shoots-down-drone-at-650-km-h-britain-orders-systems-for-destroyers/" target="_blank" rel="noopener noreferrer nofollow">https://militarnyi.com/en/news/dragonfire-laser-successfully-shoots-down-drone-at-650-km-h-britain-orders-systems-for-destroyers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire Laser Successfully Shoots Down Drone at 650...The cost of a single shot from the laser system is estimated at around £10, sig...</p></details>
+   Link:<a href="https://militarnyi.com/en/news/dragonfire-laser-successfully-shoots-down-drone-at-650-km-h-britain-orders-systems-for-destroyers/" target="_blank" rel="noopener noreferrer nofollow">https://militarnyi.com/en/news/dragonfire-laser-successfully-shoots-down-drone-at-650-km-h-britain-orders-systems-for-destroyers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire Laser Successfully Shoots Down Drone at 650...The cost of a single shot from the laser system is estimated at around £10, sig...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: borntoengineer.com  
-   Link: <a href="https://www.borntoengineer.com/dragonfire-laser-weapon" target="_blank" rel="noopener noreferrer nofollow">https://www.borntoengineer.com/dragonfire-laser-weapon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire Laser Weapon: How The UK Built A £10-Per-...3 hours ago — The UK&#x27;s DragonFire laser weapon will deploy on Royal Navy destroye...</p></details>
+   Link:<a href="https://www.borntoengineer.com/dragonfire-laser-weapon" target="_blank" rel="noopener noreferrer nofollow">https://www.borntoengineer.com/dragonfire-laser-weapon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire Laser Weapon: How The UK Built A £10-Per-...3 hours ago — The UK&#x27;s DragonFire laser weapon will deploy on Royal Navy destroye...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/qinetiq_2_dragonfire-laserdirectedenergyweapon-ukmod-activity-7397282876435615744-0Crn" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/qinetiq_2_dragonfire-laserdirectedenergyweapon-ukmod-activity-7397282876435615744-0Crn</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MBDA wins £316m contract for laser weapon tech with UK...MBDA wins £316m contract for laser weapon tech with UK provide laser directed e...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/qinetiq_2_dragonfire-laserdirectedenergyweapon-ukmod-activity-7397282876435615744-0Crn" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/qinetiq_2_dragonfire-laserdirectedenergyweapon-ukmod-activity-7397282876435615744-0Crn</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MBDA wins £316m contract for laser weapon tech with UK...MBDA wins £316m contract for laser weapon tech with UK provide laser directed e...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nationalinterest.org  
-   Link: <a href="https://nationalinterest.org/blog/buzz/royal-navy-could-have-dragonfire-lasers-in-service-by-next-year-ps-040726" target="_blank" rel="noopener noreferrer nofollow">https://nationalinterest.org/blog/buzz/royal-navy-could-have-dragonfire-lasers-in-service-by-next-year-ps-040726</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Royal Navy Could Have “DragonFire” Lasers in...23 minutes ago — The DragonFire laser systems are expected to be installed on two Typ...</p></details>
+   Link:<a href="https://nationalinterest.org/blog/buzz/royal-navy-could-have-dragonfire-lasers-in-service-by-next-year-ps-040726" target="_blank" rel="noopener noreferrer nofollow">https://nationalinterest.org/blog/buzz/royal-navy-could-have-dragonfire-lasers-in-service-by-next-year-ps-040726</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Royal Navy Could Have “DragonFire” Lasers in...23 minutes ago — The DragonFire laser systems are expected to be installed on two Typ...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DUipqb9AeNb/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUipqb9AeNb/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The United Kingdom has developed the DragonFire high...The UK Ministry of Defence has confirmed that the DragonFire high-energy laser we...</p></details>
+   Link:<a href="https://www.instagram.com/p/DUipqb9AeNb/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUipqb9AeNb/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The United Kingdom has developed the DragonFire high...The UK Ministry of Defence has confirmed that the DragonFire high-energy laser we...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: joannejastatt.com  
-   Link: <a href="https://joannejastatt.com/uk-dragonfire-type45-2027/" target="_blank" rel="noopener noreferrer nofollow">https://joannejastatt.com/uk-dragonfire-type45-2027/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Accelerates DragonFire Laser Weapon Deployment on...3 days ago — The Type 45 destroyers, renowned for their advanced air defense syst...</p></details>
+   Link:<a href="https://joannejastatt.com/uk-dragonfire-type45-2027/" target="_blank" rel="noopener noreferrer nofollow">https://joannejastatt.com/uk-dragonfire-type45-2027/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Accelerates DragonFire Laser Weapon Deployment on...3 days ago — The Type 45 destroyers, renowned for their advanced air defense syst...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: qinetiq.com  
-   Link: <a href="https://www.qinetiq.com/en/news/qinetiq-delivering-laser-weapons-to-royal-navy-[platforms" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/news/qinetiq-delivering-laser-weapons-to-royal-navy-[platforms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Delivering laser weapons to Royal Navy platformsQinetiQ has been awarded a £67 million contract to ensure the delivery of the UK&#x27;s first...</p></details>
+   Link:<a href="https://www.qinetiq.com/en/news/qinetiq-delivering-laser-weapons-to-royal-navy-[platforms" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/news/qinetiq-delivering-laser-weapons-to-royal-navy-[platforms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Delivering laser weapons to Royal Navy platformsQinetiQ has been awarded a £67 million contract to ensure the delivery of the UK&#x27;s first...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: en.defence-ua.com  
-   Link: <a href="https://en.defence-ua.com/news/uk_was_ready_to_send_unfinished_dragonfire_laser_prototypes_to_ukraine_for_combat_testing_but_never_delivered-18033.html" target="_blank" rel="noopener noreferrer nofollow">https://en.defence-ua.com/news/uk_was_ready_to_send_unfinished_dragonfire_laser_prototypes_to_ukraine_for_combat_testing_but_never_delivered-18033.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Was Ready to Send Unfinished DragonFire Laser...5 days ago — To conduct testing of its newest DragonFire laser weapon, the British were...</p></details>
+   Link:<a href="https://en.defence-ua.com/news/uk_was_ready_to_send_unfinished_dragonfire_laser_prototypes_to_ukraine_for_combat_testing_but_never_delivered-18033.html" target="_blank" rel="noopener noreferrer nofollow">https://en.defence-ua.com/news/uk_was_ready_to_send_unfinished_dragonfire_laser_prototypes_to_ukraine_for_combat_testing_but_never_delivered-18033.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Was Ready to Send Unfinished DragonFire Laser...5 days ago — To conduct testing of its newest DragonFire laser weapon, the British were...</p></details>

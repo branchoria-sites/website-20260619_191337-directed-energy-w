@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /directed-ener-98f417-laser-precisi/
 description: Focused pages that expand on Lasers.
-date: '2026-06-19'
+date: '2026'
 layout: default
 parent_basename: Directed_Ener_98f417_laser_precisi_07f65f
 parent_title: Lasers
@@ -16,7 +16,7 @@ parent_permalink: /lasers/
 
 # Explore Topics in Lasers
 
-The following pages expand on the main **[Lasers]({{ '/lasers/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Lasers]({{ '/lasers/' | relative_url }})** page and cover its key branches in.
 
 - [Aim Point]({{ '/aim-point-d329b8/' | relative_url }})
 - [Dazzle Damage]({{ '/dazzle-damage/' | relative_url }})

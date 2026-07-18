@@ -269,19 +269,19 @@ image: /assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_dragonfire_co_a6
 
 ## Introduction
 
-DragonFire is often presented as a weapon that can defeat a target for less than £10 worth of electricity. That figure is important, but for the Royal Navy the harder problem is not firing the laser—it is installing, powering, [cooling]({{ 'cooling/' | relative_url }}), connecting and sustaining it aboard a warship. The hidden cost of DragonFire lies in ship integration. A laser weapon becomes operational only when it can draw power from the ship, exchange data with sensors and combat-management systems, survive the maritime environment and be maintained by trained crews over many years. As the Royal Navy accelerates DragonFire [deployment]({{ 'deployment/' | relative_url }}) onto frontline warships from 2027, integration work is becoming one of the programme’s most significant cost drivers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.royalnavy.mod.uk/news/2024/april/12/240412-powerful-laser-to-be-installed-on-royal-navy-warship-by-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalnavy.mod.uk">[Royal Navy+2UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalnavy.mod.uk</span><span class="citation-popover-title">240412 powerful laser to be installed on royal navy warship by 2027</span><span class="citation-popover-snippet">Royal NavyPowerful laser to be installed on Royal Navy warship by 202712 Apr 2024 — The cutting-edge DragonFire laser will be installed o...</span></span></span>
+DragonFire is often presented as a weapon that can defeat a target for less than £10 worth of electricity. That figure is important, but for the Royal Navy the harder problem is not firing the laser—it is installing, powering, [cooling]({{ 'cooling/' | relative_url }}), connecting and sustaining it aboard a warship. The hidden cost of DragonFire lies in ship integration. A laser weapon becomes operational only when it can draw power from the ship, exchange data with sensors and combat-management systems, survive the maritime environment and be maintained by trained crews over many years. As the Royal Navy accelerates DragonFire [deployment]({{ 'deployment/' | relative_url }}) onto frontline warships from 2027, integration work is becoming one of the programme’s most significant cost drivers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.royalnavy.mod.uk/news/2024/april/12/240412-powerful-laser-to-be-installed-on-royal-navy-warship-by-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalnavy.mod.uk">[Royal Navy+2UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalnavy.mod.uk</span><span class="citation-popover-title">240412 powerful laser to be installed on royal navy warship by 2027</span><span class="citation-popover-snippet">Royal NavyPowerful laser to be installed on Royal Navy warship by 202712 Apr 2024 — The cutting-edge DragonFire laser will be installed o...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_dragonfire_co_a66926_dragonfire_sh_203c7a-Illustration-1-dark.svg" | relative_url }}" alt="Ship Integration illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_dragonfire_co_a66926_dragonfire_sh_203c7a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_dragonfire_co_a66926_dragonfire_sh_203c7a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Power and Heat Demands Aboard Ships
 
-The popular image of a laser weapon is a turret mounted on deck. In practice, the visible turret is only part of the system. DragonFire also requires below-deck equipment, power-conditioning hardware, electronics and thermal-management systems. Naval analysts note that a shipboard installation needs significant internal space for laser sources, electronics racks and energy-storage equipment, in addition to the beam director mounted above deck. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navylookout.com/dragonfire-pathway-to-a-laser-directed-energy-weapon-for-royal-navy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navylookout.com">[Navy Lookout]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navylookout.com</span><span class="citation-popover-title">dragonfire pathway to a laser directed energy weapon for royal navy</span><span class="citation-popover-snippet">Navy LookoutDragonFire – pathway to a Laser Directed Energy Weapon...11 Mar 2024 — The electrical power requirement is often somewhat ov...</span></span></span>
+The popular image of a laser weapon is a turret mounted on deck. In practice, the visible turret is only part of the system. DragonFire also requires below-deck equipment, power-conditioning hardware, electronics and thermal-management systems. Naval analysts note that a shipboard installation needs significant internal space for laser sources, electronics racks and energy-storage equipment, in addition to the beam director mounted above deck.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navylookout.com/dragonfire-pathway-to-a-laser-directed-energy-weapon-for-royal-navy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navylookout.com">[Navy Lookout]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navylookout.com</span><span class="citation-popover-title">dragonfire pathway to a laser directed energy weapon for royal navy</span><span class="citation-popover-snippet">Navy LookoutDragonFire – pathway to a Laser Directed Energy Weapon...11 Mar 2024 — The electrical power requirement is often somewhat ov...</span></span></span>
 
-Although DragonFire is generally described as a roughly 50-kilowatt-class weapon, the challenge is not simply supplying average electrical power. Laser weapons create short periods of high demand that can require batteries, capacitors or other energy-buffering systems to smooth peak loads. This means integration engineers must examine whether existing ship generators, switchboards and distribution networks can support the weapon without affecting other mission-critical systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navylookout.com/dragonfire-pathway-to-a-laser-directed-energy-weapon-for-royal-navy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navylookout.com">[Navy Lookout]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navylookout.com</span><span class="citation-popover-title">dragonfire pathway to a laser directed energy weapon for royal navy</span><span class="citation-popover-snippet">Navy LookoutDragonFire – pathway to a Laser Directed Energy Weapon...11 Mar 2024 — The electrical power requirement is often somewhat ov...</span></span></span>
+Although DragonFire is generally described as a roughly 50-kilowatt-class weapon, the challenge is not simply supplying average electrical power. Laser weapons create short periods of high demand that can require batteries, capacitors or other energy-buffering systems to smooth peak loads. This means integration engineers must examine whether existing ship generators, switchboards and distribution networks can support the weapon without affecting other mission-critical systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navylookout.com/dragonfire-pathway-to-a-laser-directed-energy-weapon-for-royal-navy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navylookout.com">[Navy Lookout]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navylookout.com</span><span class="citation-popover-title">dragonfire pathway to a laser directed energy weapon for royal navy</span><span class="citation-popover-snippet">Navy LookoutDragonFire – pathway to a Laser Directed Energy Weapon...11 Mar 2024 — The electrical power requirement is often somewhat ov...</span></span></span>
 
 Heat is the second major issue. Every laser system produces waste heat that must be removed to maintain performance and protect sensitive components. A warship already has finite cooling capacity shared among radars, combat systems, propulsion support equipment and accommodation services. Adding DragonFire therefore involves more than plugging in another weapon; it may require modifications to cooling loops, pumps, heat exchangers and monitoring systems. These changes are rarely reflected in discussions of the laser's low firing cost but can represent a substantial portion of integration expenditure.
 
-The Royal Navy appears to be targeting ships with sufficient electrical margins. Analysts have highlighted upgraded Type 45 destroyers and future Type 26 frigates as likely candidates because they possess comparatively strong power-[generation]({{ 'generation-ii/' | relative_url }}) capacity and growth margins for future systems. That design flexibility reduces integration risk but does not eliminate it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navylookout.com/dragonfire-directed-energy-weapon-to-be-fitted-to-four-royal-navy-warships-by-2027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navylookout.com">[Navy Lookout]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navylookout.com</span><span class="citation-popover-snippet">Navy LookoutDragonFire directed energy weapon to be fitted to four...The MoD had previously announced a DragonFire mount would go to sea...</span></span></span>
+The Royal Navy appears to be targeting ships with sufficient electrical margins. Analysts have highlighted upgraded Type 45 destroyers and future Type 26 frigates as likely candidates because they possess comparatively strong power-[generation]({{ 'generation-ii/' | relative_url }}) capacity and growth margins for future systems. That design flexibility reduces integration risk but does not eliminate it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navylookout.com/dragonfire-directed-energy-weapon-to-be-fitted-to-four-royal-navy-warships-by-2027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navylookout.com">[Navy Lookout]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navylookout.com</span><span class="citation-popover-snippet">Navy LookoutDragonFire directed energy weapon to be fitted to four...The MoD had previously announced a DragonFire mount would go to sea...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jiVIKSaLMjI" title="DragonFire: Another significant milestone for innovative laser weapon system" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jiVIKSaLMjI" target="_blank" rel="noopener noreferrer">DragonFire: Another significant milestone for innovative laser weapon system</a></p><p class="youtube-embed-meta">Channel: MBDA</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jiVIKSaLMjI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jiVIKSaLMjI">Open on YouTube</a></p></div></div></div>
@@ -290,7 +290,7 @@ The Royal Navy appears to be targeting ships with sufficient electrical margins.
 
 A laser weapon cannot engage what it cannot track. DragonFire therefore depends on integration with a ship's wider combat system rather than operating as a standalone turret.
 
-The laser must receive information from the ship's surveillance and targeting architecture. Radars detect and classify potential threats, combat-management software prioritises engagements, and tracking sensors provide precise targeting information. DragonFire then needs to maintain a stable beam on a moving target despite ship motion, atmospheric distortion and target manoeuvres. This demands extensive software integration and testing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navylookout.com/dragonfire-pathway-to-a-laser-directed-energy-weapon-for-royal-navy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navylookout.com">[Navy Lookout+2Leonardo UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navylookout.com</span><span class="citation-popover-title">dragonfire pathway to a laser directed energy weapon for royal navy</span><span class="citation-popover-snippet">Navy LookoutDragonFire – pathway to a Laser Directed Energy Weapon...11 Mar 2024 — The electrical power requirement is often somewhat ov...</span></span></span>
+The laser must receive information from the ship's surveillance and targeting architecture. Radars detect and classify potential threats, combat-management software prioritises engagements, and tracking sensors provide precise targeting information. DragonFire then needs to maintain a stable beam on a moving target despite ship motion, atmospheric distortion and target manoeuvres. This demands extensive software integration and testing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navylookout.com/dragonfire-pathway-to-a-laser-directed-energy-weapon-for-royal-navy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navylookout.com">[Navy Lookout+2Leonardo UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navylookout.com</span><span class="citation-popover-title">dragonfire pathway to a laser directed energy weapon for royal navy</span><span class="citation-popover-snippet">Navy LookoutDragonFire – pathway to a Laser Directed Energy Weapon...11 Mar 2024 — The electrical power requirement is often somewhat ov...</span></span></span>
 
 The Ministry of Defence has explicitly described accelerated deployment as an opportunity to learn about integration and software development in operational service. That acknowledgement is significant because software adaptation often becomes one of the most expensive and time-consuming parts of introducing a new weapon. Unlike installing a conventional gun, integrating a directed-energy weapon requires changes across multiple systems:
 
@@ -305,15 +305,15 @@ The Ministry of Defence has explicitly described accelerated deployment as an op
 
 </div>
 
-Each modification must be tested against realistic operational scenarios before the weapon can be trusted in service. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2025-03-26/41491" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-title">UK Parliament Warships: Lasers</span><span class="citation-popover-snippet">1 April 2025. The Ministry of Defence has committed to accelerating DragonFire Laser Directed Energy Weapons (DEW) into operational...Re...</span><span class="citation-popover-meta">Published: April 2025</span></span></span>
+Each modification must be tested against realistic operational scenarios before the weapon can be trusted in service.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2025-03-26/41491" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-title">UK Parliament Warships: Lasers</span><span class="citation-popover-snippet">1 April 2025. The Ministry of Defence has committed to accelerating DragonFire Laser Directed Energy Weapons (DEW) into operational...Re...</span><span class="citation-popover-meta">Published: April 2025</span></span></span>
 
-This systems-[engineering]({{ 'engineering/' | relative_url }}) challenge helps explain why DragonFire procurement is measured in hundreds of millions of pounds despite the low marginal cost of individual engagements. The Royal Navy is purchasing an integrated capability rather than merely acquiring laser hardware. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">boost for armed forces as new laser weapon takes down high speed drones</span><span class="citation-popover-snippet">Boost for Armed Forces as new laser weapon takes down...20 Nov 2025 — MBDA awarded £316 million contract to deliver new DragonFire syste...</span></span></span>
+This systems-[engineering]({{ 'engineering/' | relative_url }}) challenge helps explain why DragonFire procurement is measured in hundreds of millions of pounds despite the low marginal cost of individual engagements. The Royal Navy is purchasing an integrated capability rather than merely acquiring laser hardware.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">boost for armed forces as new laser weapon takes down high speed drones</span><span class="citation-popover-snippet">Boost for Armed Forces as new laser weapon takes down...20 Nov 2025 — MBDA awarded £316 million contract to deliver new DragonFire syste...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_dragonfire_co_a66926_dragonfire_sh_203c7a-Illustration-2-dark.svg" | relative_url }}" alt="Ship Integration illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_dragonfire_co_a66926_dragonfire_sh_203c7a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_dragonfire_co_a66926_dragonfire_sh_203c7a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Sea Trials Matter More Than Laboratory Success
 
-DragonFire has already demonstrated impressive performance during trials against aerial targets and [high-speed]({{ '650-km-h/' | relative_url }}) drones. However, successful range testing does not automatically translate into reliable naval service. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qinetiq.com/en/news/dragonfire-laser-achieves-another-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qinetiq.com">[QinetiQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qinetiq.com</span><span class="citation-popover-title">dragonfire laser achieves another uk first</span><span class="citation-popover-snippet">DragonFire laser achieves another UK firstJan 19, 2024 — The DragonFire laser directed energy weapon (LDEW) system has achieved th...</span></span></span>
+DragonFire has already demonstrated impressive performance during trials against aerial targets and [high-speed]({{ '650-km-h/' | relative_url }}) drones. However, successful range testing does not automatically translate into reliable naval service.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qinetiq.com/en/news/dragonfire-laser-achieves-another-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qinetiq.com">[QinetiQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qinetiq.com</span><span class="citation-popover-title">dragonfire laser achieves another uk first</span><span class="citation-popover-snippet">DragonFire laser achieves another UK firstJan 19, 2024 — The DragonFire laser directed energy weapon (LDEW) system has achieved th...</span></span></span>
 
 A ship introduces unique complications:
 
@@ -328,7 +328,7 @@ A ship introduces unique complications:
 
 </div>
 
-A laser that performs well on a controlled range must prove that it can maintain precision tracking and beam quality while a destroyer manoeuvres through rough seas. The first operational installations are therefore as much integration experiments as they are weapon deployments. Reports on the programme repeatedly emphasise that early operational use will help refine software, lethality and overall system integration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2025-03-26/41491" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-title">UK Parliament Warships: Lasers</span><span class="citation-popover-snippet">1 April 2025. The Ministry of Defence has committed to accelerating DragonFire Laser Directed Energy Weapons (DEW) into operational...Re...</span><span class="citation-popover-meta">Published: April 2025</span></span></span>
+A laser that performs well on a controlled range must prove that it can maintain precision tracking and beam quality while a destroyer manoeuvres through rough seas. The first operational installations are therefore as much integration experiments as they are weapon deployments. Reports on the programme repeatedly emphasise that early operational use will help refine software, lethality and overall system integration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2025-03-26/41491" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-title">UK Parliament Warships: Lasers</span><span class="citation-popover-snippet">1 April 2025. The Ministry of Defence has committed to accelerating DragonFire Laser Directed Energy Weapons (DEW) into operational...Re...</span><span class="citation-popover-meta">Published: April 2025</span></span></span>
 
 This is one reason why naval laser programmes often cost more and take longer than outsiders expect. The engineering effort is not focused solely on generating a powerful beam; it is focused on ensuring that beam works reliably inside a complex combat ecosystem.
 
@@ -339,7 +339,7 @@ This is one reason why naval laser programmes often cost more and take longer th
 
 Even after installation, costs continue to accumulate through personnel training and sustainment.
 
-DragonFire combines technologies from MBDA, Leonardo, QinetiQ and the Defence Science and Technology Laboratory. Maintaining such a system requires specialist knowledge of optics, beam control, sensors, software and power electronics. Sailors and technicians must learn not only how to operate the weapon but also how to diagnose faults, manage safety procedures and coordinate the system with the ship's combat team. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mbda-systems.com/products/force-protection/dragonfire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbda-systems.com">[mbda-systems.com+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbda-systems.com</span><span class="citation-popover-snippet">DRAGONFIRE1 day ago — At the forefront of this innovation is DRAGONFIRE, a Laser Directed Energy Weapon (LDEW) system... UK&#x27;s Royal Navy...</span></span></span>
+DragonFire combines technologies from MBDA, Leonardo, QinetiQ and the Defence Science and Technology Laboratory. Maintaining such a system requires specialist knowledge of optics, beam control, sensors, software and power electronics. Sailors and technicians must learn not only how to operate the weapon but also how to diagnose faults, manage safety procedures and coordinate the system with the ship's combat team.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mbda-systems.com/products/force-protection/dragonfire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbda-systems.com">[mbda-systems.com+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbda-systems.com</span><span class="citation-popover-snippet">DRAGONFIRE1 day ago — At the forefront of this innovation is DRAGONFIRE, a Laser Directed Energy Weapon (LDEW) system... UK&#x27;s Royal Navy...</span></span></span>
 
 Long-term support requirements include:
 
@@ -354,193 +354,193 @@ Long-term support requirements include:
 
 </div>
 
-Recent contracts associated with DragonFire illustrate this broader support burden. Alongside the headline £316 million procurement programme, QinetiQ received a separate £67 million role supporting delivery of laser capability to Royal Navy platforms, including development and production responsibilities linked to the laser source and testing infrastructure. These costs reflect the reality that sustaining a naval laser capability involves far more than supplying electricity for each shot. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qinetiq.com/en/news/qinetiq-delivering-laser-weapons-to-royal-navy-platforms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qinetiq.com">[QinetiQ+2UK Defence Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qinetiq.com</span><span class="citation-popover-snippet">Delivering laser weapons to Royal Navy platformsQinetiQ has been awarded a £67 million contract to ensure the delivery of the UK&#x27;s...</span></span></span>
+Recent contracts associated with DragonFire illustrate this broader support burden. Alongside the headline £316 million procurement programme, QinetiQ received a separate £67 million role supporting delivery of laser capability to Royal Navy platforms, including development and production responsibilities linked to the laser source and testing infrastructure. These costs reflect the reality that sustaining a naval laser capability involves far more than supplying electricity for each shot.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.qinetiq.com/en/news/qinetiq-delivering-laser-weapons-to-royal-navy-platforms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: qinetiq.com">[QinetiQ+2UK Defence Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">qinetiq.com</span><span class="citation-popover-snippet">Delivering laser weapons to Royal Navy platformsQinetiQ has been awarded a £67 million contract to ensure the delivery of the UK&#x27;s...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_dragonfire_co_a66926_dragonfire_sh_203c7a-Illustration-3-dark.svg" | relative_url }}" alt="Ship Integration illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_dragonfire_co_a66926_dragonfire_sh_203c7a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_dragonfire_co_a66926_dragonfire_sh_203c7a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Real Cost Equation
 
-DragonFire's advertised firing cost is genuine but incomplete. The electricity consumed during an engagement may cost less than a takeaway meal, yet achieving that capability at sea requires investments in power architecture, cooling capacity, software integration, testing, crew training and long-term support. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.royalnavy.mod.uk/news/2024/april/12/240412-powerful-laser-to-be-installed-on-royal-navy-warship-by-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalnavy.mod.uk">[Royal Navy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalnavy.mod.uk</span><span class="citation-popover-title">240412 powerful laser to be installed on royal navy warship by 2027</span><span class="citation-popover-snippet">Royal NavyPowerful laser to be installed on Royal Navy warship by 202712 Apr 2024 — The cutting-edge DragonFire laser will be installed o...</span></span></span>
+DragonFire's advertised firing cost is genuine but incomplete. The electricity consumed during an engagement may cost less than a takeaway meal, yet achieving that capability at sea requires investments in power architecture, cooling capacity, software integration, testing, crew training and long-term support.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.royalnavy.mod.uk/news/2024/april/12/240412-powerful-laser-to-be-installed-on-royal-navy-warship-by-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalnavy.mod.uk">[Royal Navy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalnavy.mod.uk</span><span class="citation-popover-title">240412 powerful laser to be installed on royal navy warship by 2027</span><span class="citation-popover-snippet">Royal NavyPowerful laser to be installed on Royal Navy warship by 202712 Apr 2024 — The cutting-edge DragonFire laser will be installed o...</span></span></span>
 
-For the Royal Navy, the central economic question is therefore not whether DragonFire is cheaper to fire than a missile. It almost certainly is. The harder question is whether the savings from low-cost engagements justify the substantial expense of integrating and sustaining a new directed-energy weapon aboard frontline warships. The answer will depend less on the price of each shot than on how successfully DragonFire becomes part of the ship itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navylookout.com/dragonfire-directed-energy-weapon-to-be-fitted-to-four-royal-navy-warships-by-2027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navylookout.com">[Navy Lookout+2UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navylookout.com</span><span class="citation-popover-snippet">Navy LookoutDragonFire directed energy weapon to be fitted to four...The MoD had previously announced a DragonFire mount would go to sea...</span></span></span>
+For the Royal Navy, the central economic question is therefore not whether DragonFire is cheaper to fire than a missile. It almost certainly is. The harder question is whether the savings from low-cost engagements justify the substantial expense of integrating and sustaining a new directed-energy weapon aboard frontline warships. The answer will depend less on the price of each shot than on how successfully DragonFire becomes part of the ship itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navylookout.com/dragonfire-directed-energy-weapon-to-be-fitted-to-four-royal-navy-warships-by-2027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navylookout.com">[Navy Lookout+2UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navylookout.com</span><span class="citation-popover-snippet">Navy LookoutDragonFire directed energy weapon to be fitted to four...The MoD had previously announced a DragonFire mount would go to sea...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h7WOO_Rk-DY" title="DragonFire, Royal Navy, Ukraine and the other directed-energy weapon!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h7WOO_Rk-DY" target="_blank" rel="noopener noreferrer">DragonFire, Royal Navy, Ukraine and the other directed-energy weapon!</a></p><p class="youtube-embed-meta">Channel: OFF TRACK PLACES - Military Aircraft</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h7WOO_Rk-DY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h7WOO_Rk-DY">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Installing Dragon Fire Costs More Than Firing It. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Installing Dragon Fire Costs More Than Firing It. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Explains how emerging technologies and lower-cost methods can reshape the economics of modern warfare and air defense.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how emerging technologies and lower-cost methods can reshape the economics of modern warfare and air defense.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
-        </h4>
-        <p class="fr-book-author">By Paul Scharre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
+</h4>
+<p class="fr-book-author">By Paul Scharre</p>
         
-        <p class="fr-book-desc">Provides context for drone threats and the technologies being developed to counter them, including advanced weapon systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for drone threats and the technologies being developed to counter them, including advanced weapon systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Shows how advanced military technologies are funded, developed and transitioned into operational capabilities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how advanced military technologies are funded, developed and transitioned into operational capabilities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warfare+by+John+Kaag&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warfare on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=I8oOBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warfare" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drone+Warfare+by+John+Kaag&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warfare">Drone Warfare</a>
-        </h4>
-        <p class="fr-book-author">By John Kaag, Sarah Kreps</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warfare+by+John+Kaag&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warfare on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=I8oOBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warfare" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drone+Warfare+by+John+Kaag&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warfare">Drone Warfare</a>
+</h4>
+<p class="fr-book-author">By John Kaag, Sarah Kreps</p>
         
-        <p class="fr-book-desc">Provides important context on drone operations, proliferation and the strategic problem that laser air-defence systems seek to solve.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drone+Warfare+by+John+Kaag&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides important context on drone operations, proliferation and the strategic problem that laser air-defence systems seek to solve.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drone+Warfare+by+John+Kaag&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Billing Boats 1/75 Scale Esmeralda Naval Training Ship Model Kit"><img src="{{ '/assets/images/marketplace-covers/011745edfa012e074583.jpg' | relative_url }}" alt="Listing image for Billing Boats 1/75 Scale Esmeralda Naval Training Ship Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer">Billing Boats 1/75 Scale Esmeralda Naval Training Ship Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for naval ship model">Search <span data-ebay-domain-label>eBay.co.uk</span>: naval ship model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Billing Boats 1/75 Scale Esmeralda Naval Training Ship Model Kit"><img src="{{ '/assets/images/marketplace-covers/011745edfa012e074583.jpg' | relative_url }}" alt="Listing image for Billing Boats 1/75 Scale Esmeralda Naval Training Ship Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer">Billing Boats 1/75 Scale Esmeralda Naval Training Ship Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for naval ship model">Search<span data-ebay-domain-label>eBay.co.uk</span>: naval ship model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Trumpeter HMS Dreadnought 1918 Model Kit 1/700 Scale Naval Ship"><img src="{{ '/assets/images/marketplace-covers/8d60bfb075fb28fb2073.jpg' | relative_url }}" alt="Listing image for Trumpeter HMS Dreadnought 1918 Model Kit 1/700 Scale Naval Ship" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer">Trumpeter HMS Dreadnought 1918 Model Kit 1/700 Scale Naval Ship</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for naval ship model">Search <span data-ebay-domain-label>eBay.co.uk</span>: naval ship model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Trumpeter HMS Dreadnought 1918 Model Kit 1/700 Scale Naval Ship"><img src="{{ '/assets/images/marketplace-covers/8d60bfb075fb28fb2073.jpg' | relative_url }}" alt="Listing image for Trumpeter HMS Dreadnought 1918 Model Kit 1/700 Scale Naval Ship" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer">Trumpeter HMS Dreadnought 1918 Model Kit 1/700 Scale Naval Ship</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for naval ship model">Search<span data-ebay-domain-label>eBay.co.uk</span>: naval ship model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Revell Battleship HMS Duke of York Royal Naval Ship Model Set Kit 65182"><img src="{{ '/assets/images/marketplace-covers/f5f28f933a524ca3a422.jpg' | relative_url }}" alt="Listing image for Revell Battleship HMS Duke of York Royal Naval Ship Model Set Kit 65182" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer">Revell Battleship HMS Duke of York Royal Naval Ship Model Set Kit 65182</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for naval ship model">Search <span data-ebay-domain-label>eBay.co.uk</span>: naval ship model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Revell Battleship HMS Duke of York Royal Naval Ship Model Set Kit 65182"><img src="{{ '/assets/images/marketplace-covers/f5f28f933a524ca3a422.jpg' | relative_url }}" alt="Listing image for Revell Battleship HMS Duke of York Royal Naval Ship Model Set Kit 65182" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer">Revell Battleship HMS Duke of York Royal Naval Ship Model Set Kit 65182</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for naval ship model">Search<span data-ebay-domain-label>eBay.co.uk</span>: naval ship model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=naval+ship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="naval ship model" data-ebay-reference="ship-integration-why-installing-dragon-fire-costs-more-than-firing-it-directed-ener-naval-ship-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -556,7 +556,7 @@ For the Royal Navy, the central economic question is therefore not whether Drago
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -576,7 +576,7 @@ For the Royal Navy, the central economic question is therefore not whether Drago
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -608,7 +608,7 @@ For the Royal Navy, the central economic question is therefore not whether Drago
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -660,7 +660,7 @@ For the Royal Navy, the central economic question is therefore not whether Drago
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -705,7 +705,7 @@ For the Royal Navy, the central economic question is therefore not whether Drago
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -746,200 +746,200 @@ For the Royal Navy, the central economic question is therefore not whether Drago
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: questions-statements.parliament.uk  
    Title: UK Parliament Warships: Lasers  
-   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2025-03-26/41491" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2025-03-26/41491</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1 April 2025. The Ministry of Defence has committed to accelerating DragonFire Laser Directed Energy Weapons (DEW) into operational...Re...</p></details>
+   Link:<a href="https://questions-statements.parliament.uk/written-questions/detail/2025-03-26/41491" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2025-03-26/41491</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 April 2025. The Ministry of Defence has committed to accelerating DragonFire Laser Directed Energy Weapons (DEW) into operational...Re...</p></details>
    Published: April 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: boost for armed forces as new laser weapon takes down high speed drones  
-   Link: <a href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Boost for Armed Forces as new laser weapon takes down...20 Nov 2025 — MBDA awarded £316 million contract to deliver new DragonFire syste...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boost for Armed Forces as new laser weapon takes down...20 Nov 2025 — MBDA awarded £316 million contract to deliver new DragonFire syste...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: uk.leonardo.com  
    Title: UKDragon Fire – Laser Directed Energy Weapon  
-   Link: <a href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow">https://uk.leonardo.com/en/innovation/dragonfire</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Directed Energy Weapon - Leonardo UKThe DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power...</p></details>
+   Link:<a href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow">https://uk.leonardo.com/en/innovation/dragonfire</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Directed Energy Weapon - Leonardo UKThe DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: qinetiq.com  
    Title: dragonfire laser achieves another uk first  
-   Link: <a href="https://www.qinetiq.com/en/news/dragonfire-laser-achieves-another-uk-first" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/news/dragonfire-laser-achieves-another-uk-first</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire laser achieves another UK firstJan 19, 2024 — The DragonFire laser directed energy weapon (LDEW) system has achieved th...</p></details>
+   Link:<a href="https://www.qinetiq.com/en/news/dragonfire-laser-achieves-another-uk-first" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/news/dragonfire-laser-achieves-another-uk-first</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire laser achieves another UK firstJan 19, 2024 — The DragonFire laser directed energy weapon (LDEW) system has achieved th...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: mbda-systems.com  
-   Link: <a href="https://www.mbda-systems.com/products/force-protection/dragonfire" target="_blank" rel="noopener noreferrer nofollow">https://www.mbda-systems.com/products/force-protection/dragonfire</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DRAGONFIRE1 day ago — At the forefront of this innovation is DRAGONFIRE, a Laser Directed Energy Weapon (LDEW) system... UK&#x27;s Royal Navy...</p></details>
+   Link:<a href="https://www.mbda-systems.com/products/force-protection/dragonfire" target="_blank" rel="noopener noreferrer nofollow">https://www.mbda-systems.com/products/force-protection/dragonfire</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DRAGONFIRE1 day ago — At the forefront of this innovation is DRAGONFIRE, a Laser Directed Energy Weapon (LDEW) system... UK&#x27;s Royal Navy...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/DragonFire_%28weapon%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/DragonFire_%28weapon%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire (weapon)DragonFire is a British laser directed-energy weapon (LDEW) in development for the Royal Navy. expected to enter se...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/DragonFire_%28weapon%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/DragonFire_%28weapon%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire (weapon)DragonFire is a British laser directed-energy weapon (LDEW) in development for the Royal Navy. expected to enter se...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: qinetiq.com  
-   Link: <a href="https://www.qinetiq.com/en/news/qinetiq-delivering-laser-weapons-to-royal-navy-platforms" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/news/qinetiq-delivering-laser-weapons-to-royal-navy-platforms</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Delivering laser weapons to Royal Navy platformsQinetiQ has been awarded a £67 million contract to ensure the delivery of the UK&#x27;s...</p></details>
+   Link:<a href="https://www.qinetiq.com/en/news/qinetiq-delivering-laser-weapons-to-royal-navy-platforms" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/news/qinetiq-delivering-laser-weapons-to-royal-navy-platforms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Delivering laser weapons to Royal Navy platformsQinetiQ has been awarded a £67 million contract to ensure the delivery of the UK&#x27;s...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: United Kingdom  
-   Link: <a href="https://en.wikipedia.org/wiki/United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/United_Kingdom</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>United KingdomIt comprises England, Scotland, Wales and Northern Ireland, with a population of over 69 million in 2024. The UK include...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/United_Kingdom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United KingdomIt comprises England, Scotland, Wales and Northern Ireland, with a population of over 69 million in 2024. The UK include...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: mbda-systems.com  
    Title: uk defence minister visits mbda dragonfire laser weapon contract announcement  
-   Link: <a href="https://www.mbda-systems.com/uk-defence-minister-visits-mbda-dragonfire-laser-weapon-contract-announcement" target="_blank" rel="noopener noreferrer nofollow">https://www.mbda-systems.com/uk-defence-minister-visits-mbda-dragonfire-laser-weapon-contract-announcement</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>contract to deliver new DRAGONFIRE laser weapon systems to the Royal Navy from 2027. Chris Allam, UK Managing Director at MBDA, welcomed...</p></details>
+   Link:<a href="https://www.mbda-systems.com/uk-defence-minister-visits-mbda-dragonfire-laser-weapon-contract-announcement" target="_blank" rel="noopener noreferrer nofollow">https://www.mbda-systems.com/uk-defence-minister-visits-mbda-dragonfire-laser-weapon-contract-announcement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>contract to deliver new DRAGONFIRE laser weapon systems to the Royal Navy from 2027. Chris Allam, UK Managing Director at MBDA, welcomed...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: royalnavy.mod.uk  
    Title: 240412 powerful laser to be installed on royal navy warship by 2027  
-   Link: <a href="https://www.royalnavy.mod.uk/news/2024/april/12/240412-powerful-laser-to-be-installed-on-royal-navy-warship-by-2027" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/news/2024/april/12/240412-powerful-laser-to-be-installed-on-royal-navy-warship-by-2027</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal NavyPowerful laser to be installed on Royal Navy warship by 202712 Apr 2024 — The cutting-edge DragonFire laser will be installed o...</p></details>
+   Link:<a href="https://www.royalnavy.mod.uk/news/2024/april/12/240412-powerful-laser-to-be-installed-on-royal-navy-warship-by-2027" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/news/2024/april/12/240412-powerful-laser-to-be-installed-on-royal-navy-warship-by-2027</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal NavyPowerful laser to be installed on Royal Navy warship by 202712 Apr 2024 — The cutting-edge DragonFire laser will be installed o...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: navylookout.com  
    Title: dragonfire pathway to a laser directed energy weapon for royal navy  
-   Link: <a href="https://www.navylookout.com/dragonfire-pathway-to-a-laser-directed-energy-weapon-for-royal-navy/" target="_blank" rel="noopener noreferrer nofollow">https://www.navylookout.com/dragonfire-pathway-to-a-laser-directed-energy-weapon-for-royal-navy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy LookoutDragonFire – pathway to a Laser Directed Energy Weapon...11 Mar 2024 — The electrical power requirement is often somewhat ov...</p></details>
+   Link:<a href="https://www.navylookout.com/dragonfire-pathway-to-a-laser-directed-energy-weapon-for-royal-navy/" target="_blank" rel="noopener noreferrer nofollow">https://www.navylookout.com/dragonfire-pathway-to-a-laser-directed-energy-weapon-for-royal-navy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy LookoutDragonFire – pathway to a Laser Directed Energy Weapon...11 Mar 2024 — The electrical power requirement is often somewhat ov...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: navylookout.com  
-   Link: <a href="https://www.navylookout.com/dragonfire-directed-energy-weapon-to-be-fitted-to-four-royal-navy-warships-by-2027/" target="_blank" rel="noopener noreferrer nofollow">https://www.navylookout.com/dragonfire-directed-energy-weapon-to-be-fitted-to-four-royal-navy-warships-by-2027/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy LookoutDragonFire directed energy weapon to be fitted to four...The MoD had previously announced a DragonFire mount would go to sea...</p></details>
+   Link:<a href="https://www.navylookout.com/dragonfire-directed-energy-weapon-to-be-fitted-to-four-royal-navy-warships-by-2027/" target="_blank" rel="noopener noreferrer nofollow">https://www.navylookout.com/dragonfire-directed-energy-weapon-to-be-fitted-to-four-royal-navy-warships-by-2027/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy LookoutDragonFire directed energy weapon to be fitted to four...The MoD had previously announced a DragonFire mount would go to sea...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ukdefencejournal.org.uk  
    Title: qinetiq secures 67m role in royal [navy laser](&#123;&#123; 'laser-lineage/' | relative_url &#125;&#125;) weapon effort  
-   Link: <a href="https://ukdefencejournal.org.uk/qinetiq-secures-67m-role-in-royal-navy-laser-weapon-effort/" target="_blank" rel="noopener noreferrer nofollow">https://ukdefencejournal.org.uk/qinetiq-secures-67m-role-in-royal-navy-laser-weapon-effort/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>QinetiQ secures £67m role in Royal Navy laser weapon effort7 Jan 2026 — QinetiQ has been awarded a £67 million contract to support the de...</p></details>
+   Link:<a href="https://ukdefencejournal.org.uk/qinetiq-secures-67m-role-in-royal-navy-laser-weapon-effort/" target="_blank" rel="noopener noreferrer nofollow">https://ukdefencejournal.org.uk/qinetiq-secures-67m-role-in-royal-navy-laser-weapon-effort/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>QinetiQ secures £67m role in Royal Navy laser weapon effort7 Jan 2026 — QinetiQ has been awarded a £67 million contract to support the de...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: unmannedairspace.info  
-   Link: <a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/qinetiqs-share-of-royal-navy-dragonfire-laser-weapon-contract-will-be-ukp67-million/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/qinetiqs-share-of-royal-navy-dragonfire-laser-weapon-contract-will-be-ukp67-million/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>QinetiQ&#x27;s share of Royal Navy DragonFire laser weapon...QinetiQ reports it has been awarded a UKP67 million contract to ensure the deliv...</p></details>
+   Link:<a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/qinetiqs-share-of-royal-navy-dragonfire-laser-weapon-contract-will-be-ukp67-million/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/qinetiqs-share-of-royal-navy-dragonfire-laser-weapon-contract-will-be-ukp67-million/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>QinetiQ&#x27;s share of Royal Navy DragonFire laser weapon...QinetiQ reports it has been awarded a UKP67 million contract to ensure the deliv...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ukdefencejournal.org.uk  
    Title: dragonfire a guide to britains new laser weapon  
-   Link: <a href="https://ukdefencejournal.org.uk/dragonfire-a-guide-to-britains-new-laser-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://ukdefencejournal.org.uk/dragonfire-a-guide-to-britains-new-laser-weapon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire sits in the 50-kilowatt class. Each shot is around ten pounds, Because it uses electrical...</p></details>
+   Link:<a href="https://ukdefencejournal.org.uk/dragonfire-a-guide-to-britains-new-laser-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://ukdefencejournal.org.uk/dragonfire-a-guide-to-britains-new-laser-weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire sits in the 50-kilowatt class. Each shot is around ten pounds, Because it uses electrical...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ukdefencejournal.org.uk  
    Title: laser gun confirmed for british warship next year  
-   Link: <a href="https://ukdefencejournal.org.uk/laser-gun-confirmed-for-british-warship-next-year/" target="_blank" rel="noopener noreferrer nofollow">https://ukdefencejournal.org.uk/laser-gun-confirmed-for-british-warship-next-year/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>31 Mar 2026 — The UK DragonFire laser weapon remains on course for Royal Navy deployment by 2027, with ministers reiterating existing pla...</p></details>
+   Link:<a href="https://ukdefencejournal.org.uk/laser-gun-confirmed-for-british-warship-next-year/" target="_blank" rel="noopener noreferrer nofollow">https://ukdefencejournal.org.uk/laser-gun-confirmed-for-british-warship-next-year/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>31 Mar 2026 — The UK DragonFire laser weapon remains on course for Royal Navy deployment by 2027, with ministers reiterating existing pla...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/qinetiq_2_laserweapons-royalnavy-dragonfire-activity-7414224823192801280-C48r" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/qinetiq_2_laserweapons-royalnavy-dragonfire-activity-7414224823192801280-C48r</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>QinetiQ Secures £67m Contract for Royal Navy Laser...We&#x27;re proud to have secured a £67 million contract as part of the UK&#x27;s DragonFire p...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/qinetiq_2_laserweapons-royalnavy-dragonfire-activity-7414224823192801280-C48r" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/qinetiq_2_laserweapons-royalnavy-dragonfire-activity-7414224823192801280-C48r</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>QinetiQ Secures £67m Contract for Royal Navy Laser...We&#x27;re proud to have secured a £67 million contract as part of the UK&#x27;s DragonFire p...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/grahamplaster_uk-navy-sets-dragonfire-laser-for-2027-with-activity-7446199961165320192-DxcW" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/grahamplaster_uk-navy-sets-dragonfire-laser-for-2027-with-activity-7446199961165320192-DxcW</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Navy Deploys Laser Weapons on Warships by 2027Naval officials confirm the laser provides a sustainable defense layer against low-co...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/grahamplaster_uk-navy-sets-dragonfire-laser-for-2027-with-activity-7446199961165320192-DxcW" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/grahamplaster_uk-navy-sets-dragonfire-laser-for-2027-with-activity-7446199961165320192-DxcW</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Navy Deploys Laser Weapons on Warships by 2027Naval officials confirm the laser provides a sustainable defense layer against low-co...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: navyleaders.com  
-   Link: <a href="https://navyleaders.com/news/qinetiq-awarded-67m-dragonfire-laser-contract/" target="_blank" rel="noopener noreferrer nofollow">https://navyleaders.com/news/qinetiq-awarded-67m-dragonfire-laser-contract/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>QinetiQ Awarded £67m Dragonfire Laser ContractThe programme is still on schedule to install the first Dragonfire system onto a Royal Navy...</p></details>
+   Link:<a href="https://navyleaders.com/news/qinetiq-awarded-67m-dragonfire-laser-contract/" target="_blank" rel="noopener noreferrer nofollow">https://navyleaders.com/news/qinetiq-awarded-67m-dragonfire-laser-contract/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>QinetiQ Awarded £67m Dragonfire Laser ContractThe programme is still on schedule to install the first Dragonfire system onto a Royal Navy...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: navyleaders.com  
    Title: royal navy destroyer to be fitted with dragonfire laser  
-   Link: <a href="https://navyleaders.com/news/royal-navy-destroyer-to-be-fitted-with-dragonfire-laser/" target="_blank" rel="noopener noreferrer nofollow">https://navyleaders.com/news/royal-navy-destroyer-to-be-fitted-with-dragonfire-laser/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Jun 2025 — A Type 45 destroyer will become the first Royal Navy vessel to be fitted with the DragonFire directed energy weapon (DEW) in...</p></details>
+   Link:<a href="https://navyleaders.com/news/royal-navy-destroyer-to-be-fitted-with-dragonfire-laser/" target="_blank" rel="noopener noreferrer nofollow">https://navyleaders.com/news/royal-navy-destroyer-to-be-fitted-with-dragonfire-laser/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Jun 2025 — A Type 45 destroyer will become the first Royal Navy vessel to be fitted with the DragonFire directed energy weapon (DEW) in...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: royalnavy.mod.uk  
    Title: 20251120 dragonfire trials  
-   Link: <a href="https://www.royalnavy.mod.uk/news/2025/november/20/20251120-dragonfire-trials" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/news/2025/november/20/20251120-dragonfire-trials</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mod.uk£316m deal for Royal Navy&#x27;s first laser weapon after...20 Nov 2025 — More than £300m is being invested in the Royal Navy&#x27;s first e...</p></details>
+   Link:<a href="https://www.royalnavy.mod.uk/news/2025/november/20/20251120-dragonfire-trials" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/news/2025/november/20/20251120-dragonfire-trials</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mod.uk£316m deal for Royal Navy&#x27;s first laser weapon after...20 Nov 2025 — More than £300m is being invested in the Royal Navy&#x27;s first e...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: des.mod.uk  
    Title: boost for armed forces as new laser weapon takes down high speed drones  
-   Link: <a href="https://des.mod.uk/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones/" target="_blank" rel="noopener noreferrer nofollow">https://des.mod.uk/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The cutting-edge DragonFire...</p></details>
+   Link:<a href="https://des.mod.uk/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones/" target="_blank" rel="noopener noreferrer nofollow">https://des.mod.uk/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The cutting-edge DragonFire...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: gosporthospitalradio.co.uk  
    Title: powerful laser to be installed on royal navy warship by 2027  
-   Link: <a href="https://gosporthospitalradio.co.uk/powerful-laser-to-be-installed-on-royal-navy-warship-by-2027/" target="_blank" rel="noopener noreferrer nofollow">https://gosporthospitalradio.co.uk/powerful-laser-to-be-installed-on-royal-navy-warship-by-2027/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A burst of the high-intensity beam from DragonFire costs no more than £10 – yet can engage targets – drones, missiles, aircraft – at the...</p></details>
+   Link:<a href="https://gosporthospitalradio.co.uk/powerful-laser-to-be-installed-on-royal-navy-warship-by-2027/" target="_blank" rel="noopener noreferrer nofollow">https://gosporthospitalradio.co.uk/powerful-laser-to-be-installed-on-royal-navy-warship-by-2027/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A burst of the high-intensity beam from DragonFire costs no more than £10 – yet can engage targets – drones, missiles, aircraft – at the...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
    Title: royal navy to be given the power of dragonfire defence minister luke pollard exp  
-   Link: <a href="https://www.facebook.com/ForcesTV/posts/royal-navy-to-be-given-the-power-of-dragonfire-defence-minister-luke-pollard-exp/882211504464865/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ForcesTV/posts/royal-navy-to-be-given-the-power-of-dragonfire-defence-minister-luke-pollard-exp/882211504464865/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Navy to be given the power of DragonFire...By 2027, the UK intends to equip its Type 45 destroyers with the DragonFire high-energy...</p></details>
+   Link:<a href="https://www.facebook.com/ForcesTV/posts/royal-navy-to-be-given-the-power-of-dragonfire-defence-minister-luke-pollard-exp/882211504464865/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ForcesTV/posts/royal-navy-to-be-given-the-power-of-dragonfire-defence-minister-luke-pollard-exp/882211504464865/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Navy to be given the power of DragonFire...By 2027, the UK intends to equip its Type 45 destroyers with the DragonFire high-energy...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: navylookout.com  
    Title: contract to deliver first laser weapons for the royal navy agreed  
-   Link: <a href="https://www.navylookout.com/contract-to-deliver-first-laser-weapons-for-the-royal-navy-agreed/" target="_blank" rel="noopener noreferrer nofollow">https://www.navylookout.com/contract-to-deliver-first-laser-weapons-for-the-royal-navy-agreed/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MOD has signed a £316 million contract with MBDA UK to provide the Laser Directed Energy Weapon (LDEW) for the RN. DragonFire is scheduled...</p></details>
+   Link:<a href="https://www.navylookout.com/contract-to-deliver-first-laser-weapons-for-the-royal-navy-agreed/" target="_blank" rel="noopener noreferrer nofollow">https://www.navylookout.com/contract-to-deliver-first-laser-weapons-for-the-royal-navy-agreed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MOD has signed a £316 million contract with MBDA UK to provide the Laser Directed Energy Weapon (LDEW) for the RN. DragonFire is scheduled...</p></details>
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/leoneluca_contract-to-deliver-first-laser-weapons-for-activity-7397604843282145280-mApa" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/leoneluca_contract-to-deliver-first-laser-weapons-for-activity-7397604843282145280-mApa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MBDA UK wins £316m contract for Royal Navy&#x27;s first laser...The MOD has awarded MBDA UK a £316 million contract to deliver DragonFire, th...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/leoneluca_contract-to-deliver-first-laser-weapons-for-activity-7397604843282145280-mApa" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/leoneluca_contract-to-deliver-first-laser-weapons-for-activity-7397604843282145280-mApa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MBDA UK wins £316m contract for Royal Navy&#x27;s first laser...The MOD has awarded MBDA UK a £316 million contract to deliver DragonFire, th...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/qinetiq_2_dragonfire-laserdirectedenergyweapon-ukmod-activity-7397282876435615744-0Crn" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/qinetiq_2_dragonfire-laserdirectedenergyweapon-ukmod-activity-7397282876435615744-0Crn</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MBDA wins £316m contract for laser weapon tech with UK...This is great news and we&#x27;re really pleased that the UK Ministry of Defence awa...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/qinetiq_2_dragonfire-laserdirectedenergyweapon-ukmod-activity-7397282876435615744-0Crn" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/qinetiq_2_dragonfire-laserdirectedenergyweapon-ukmod-activity-7397282876435615744-0Crn</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MBDA wins £316m contract for laser weapon tech with UK...This is great news and we&#x27;re really pleased that the UK Ministry of Defence awa...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: tomshardware.com  
-   Link: <a href="https://www.tomshardware.com/tech-industry/uk-dragonfire-laser-downs-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/uk-dragonfire-laser-downs-high-speed-drones</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A $413 million (£316 million) contract has been awarded to MBDA UK to deploy DragonFire on the Royal Navy’s Type 45 destroyers starting i...</p></details>
+   Link:<a href="https://www.tomshardware.com/tech-industry/uk-dragonfire-laser-downs-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/uk-dragonfire-laser-downs-high-speed-drones</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A $413 million (£316 million) contract has been awarded to MBDA UK to deploy DragonFire on the Royal Navy’s Type 45 destroyers starting i...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/danielchorley_science-fact-a-new-316m-contract-has-been-activity-7397324008083386368-6SXU" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/danielchorley_science-fact-a-new-316m-contract-has-been-activity-7397324008083386368-6SXU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Navy to get Laser Directed Energy Weapon DragonFire...Science FACT: a new £316m contract has been awarded for the Laser [Directed Ener](&amp;#123;&amp;#123; &#x27;directed-ener/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/danielchorley_science-fact-a-new-316m-contract-has-been-activity-7397324008083386368-6SXU" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/danielchorley_science-fact-a-new-316m-contract-has-been-activity-7397324008083386368-6SXU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Navy to get Laser Directed Energy Weapon DragonFire...Science FACT: a new £316m contract has been awarded for the Laser [Directed Ener](&amp;#123;&amp;#123; &#x27;directed-ener/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: navalnews.com  
-   Link: <a href="https://www.navalnews.com/naval-news/2025/11/uk-contracts-for-dragonfire-naval-laser-capability-to-help-build-cost-effective-ship-based-defence/" target="_blank" rel="noopener noreferrer nofollow">https://www.navalnews.com/naval-news/2025/11/uk-contracts-for-dragonfire-naval-laser-capability-to-help-build-cost-effective-ship-based-defence/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Contracts for DragonFire Naval Laser Capability to...21 Nov 2025 — Under the contract, two DragonFire fits are planned for two RN Typ...</p></details>
+   Link:<a href="https://www.navalnews.com/naval-news/2025/11/uk-contracts-for-dragonfire-naval-laser-capability-to-help-build-cost-effective-ship-based-defence/" target="_blank" rel="noopener noreferrer nofollow">https://www.navalnews.com/naval-news/2025/11/uk-contracts-for-dragonfire-naval-laser-capability-to-help-build-cost-effective-ship-based-defence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Contracts for DragonFire Naval Laser Capability to...21 Nov 2025 — Under the contract, two DragonFire fits are planned for two RN Typ...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: nationalinterest.org  
-   Link: <a href="https://nationalinterest.org/blog/buzz/royal-navy-could-have-dragonfire-lasers-in-service-by-next-year-ps-040726" target="_blank" rel="noopener noreferrer nofollow">https://nationalinterest.org/blog/buzz/royal-navy-could-have-dragonfire-lasers-in-service-by-next-year-ps-040726</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National InterestThe Royal Navy Could Have “DragonFire” Lasers in...4 days ago — The DragonFire was designed to use shipboard power...</p></details>
+   Link:<a href="https://nationalinterest.org/blog/buzz/royal-navy-could-have-dragonfire-lasers-in-service-by-next-year-ps-040726" target="_blank" rel="noopener noreferrer nofollow">https://nationalinterest.org/blog/buzz/royal-navy-could-have-dragonfire-lasers-in-service-by-next-year-ps-040726</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National InterestThe Royal Navy Could Have “DragonFire” Lasers in...4 days ago — The DragonFire was designed to use shipboard power...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Futurology/comments/1phe3tx/uk_considering_wider_roll_out_of_naval_laser/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/1phe3tx/uk_considering_wider_roll_out_of_naval_laser/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK considering wider roll out of naval laser weaponsDefence Minister Luke Pollard replied that “the Ministry of Defence plans to install...</p></details>
+   Link:<a href="https://www.reddit.com/r/Futurology/comments/1phe3tx/uk_considering_wider_roll_out_of_naval_laser/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/1phe3tx/uk_considering_wider_roll_out_of_naval_laser/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK considering wider roll out of naval laser weaponsDefence Minister Luke Pollard replied that “the Ministry of Defence plans to install...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/uk/uk-beefs-up-royal-navy-counter-drone-tech-with-413-mln-laser-contract-2025-11-20/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/uk/uk-beefs-up-royal-navy-counter-drone-tech-with-413-mln-laser-contract-2025-11-20/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This initiative is part of Britain&#x27;s efforts to enhance its naval defenses, particularly against drone threats. The DragonFire system is...</p></details>
+   Link:<a href="https://www.reuters.com/world/uk/uk-beefs-up-royal-navy-counter-drone-tech-with-413-mln-laser-contract-2025-11-20/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/uk/uk-beefs-up-royal-navy-counter-drone-tech-with-413-mln-laser-contract-2025-11-20/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This initiative is part of Britain&#x27;s efforts to enhance its naval defenses, particularly against drone threats. The DragonFire system is...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
    Title: the uk dragonfire laser weapon remains on course for royal navy deployment by 20  
-   Link: <a href="https://www.facebook.com/ukdefencejournal/posts/the-uk-dragonfire-laser-weapon-remains-on-course-for-royal-navy-deployment-by-20/1358195559687037/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ukdefencejournal/posts/the-uk-dragonfire-laser-weapon-remains-on-course-for-royal-navy-deployment-by-20/1358195559687037/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK DragonFire laser weapon remains on course...By 2027, four Royal Navy Type- 45 destroyers will be fitted with DragonFire systems...</p></details>
+   Link:<a href="https://www.facebook.com/ukdefencejournal/posts/the-uk-dragonfire-laser-weapon-remains-on-course-for-royal-navy-deployment-by-20/1358195559687037/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ukdefencejournal/posts/the-uk-dragonfire-laser-weapon-remains-on-course-for-royal-navy-deployment-by-20/1358195559687037/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UK DragonFire laser weapon remains on course...By 2027, four Royal Navy Type- 45 destroyers will be fitted with DragonFire systems...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: imeche.org  
    Title: navy s new dragonfire laser weapon get energy boost from formula one flywheel  
-   Link: <a href="https://www.imeche.org/news/news-article/navy-s-new-dragonfire-laser-weapon-get-energy-boost-from-formula-one-flywheel" target="_blank" rel="noopener noreferrer nofollow">https://www.imeche.org/news/news-article/navy-s-new-dragonfire-laser-weapon-get-energy-boost-from-formula-one-flywheel</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Institution of Mechanical EngineersNavy&#x27;s new Dragonfire laser weapon gets energy boost...1 May 2019 — Officially known as the Dragonfir...</p></details>
+   Link:<a href="https://www.imeche.org/news/news-article/navy-s-new-dragonfire-laser-weapon-get-energy-boost-from-formula-one-flywheel" target="_blank" rel="noopener noreferrer nofollow">https://www.imeche.org/news/news-article/navy-s-new-dragonfire-laser-weapon-get-energy-boost-from-formula-one-flywheel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Institution of Mechanical EngineersNavy&#x27;s new Dragonfire laser weapon gets energy boost...1 May 2019 — Officially known as the Dragonfir...</p></details>
    Published: May 2019  

@@ -269,7 +269,7 @@ image: /assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_laser_layered_1c
 
 ## Introduction
 
-A laser should fire before a missile only when the target is both suitable for laser engagement and unlikely to justify consuming a scarce interceptor. In a layered air-defence system, the purpose of a laser is not simply to destroy threats cheaply. Its deeper value is queue management: removing low-cost drones and similar targets from the engagement sequence so that missile batteries remain available for [cruise missiles]({{ 'cruise-missiles/' | relative_url }}), aircraft, ballistic threats, or any target that a laser may struggle to defeat. Recent defence planning and operational analysis increasingly frame high-energy [lasers]({{ 'lasers/' | relative_url }}) as a means of preserving missile inventories during drone-heavy attacks rather than replacing conventional air defence altogether. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/commentary/2024/01/directed-energy-the-focus-on-laser-weapons-intensifies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">This limits the range of many DEWs and means</span><span class="citation-popover-snippet">RAND CorporationDirected Energy: The Focus on Laser Weapons IntensifiesJanuary 25, 2024 — 25 Jan 2024 — Physical limitations include the...</span><span class="citation-popover-meta">Published: January 25, 2024</span></span></span>
+A laser should fire before a missile only when the target is both suitable for laser engagement and unlikely to justify consuming a scarce interceptor. In a layered air-defence system, the purpose of a laser is not simply to destroy threats cheaply. Its deeper value is queue management: removing low-cost drones and similar targets from the engagement sequence so that missile batteries remain available for [cruise missiles]({{ 'cruise-missiles/' | relative_url }}), aircraft, ballistic threats, or any target that a laser may struggle to defeat. Recent defence planning and operational analysis increasingly frame high-energy [lasers]({{ 'lasers/' | relative_url }}) as a means of preserving missile inventories during drone-heavy attacks rather than replacing conventional air defence altogether.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/commentary/2024/01/directed-energy-the-focus-on-laser-weapons-intensifies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">This limits the range of many DEWs and means</span><span class="citation-popover-snippet">RAND CorporationDirected Energy: The Focus on Laser Weapons IntensifiesJanuary 25, 2024 — 25 Jan 2024 — Physical limitations include the...</span><span class="citation-popover-meta">Published: January 25, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_laser_layered_1c45d0_laser_fire_be_df40ab-Illustration-1-dark.svg" | relative_url }}" alt="A Laser Should Fire Before A Missile Only When The Target illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_laser_layered_1c45d0_laser_fire_be_df40ab-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_laser_layered_1c45d0_laser_fire_be_df40ab-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -277,7 +277,7 @@ The key question is therefore not whether a laser can hit a target. It is whethe
 
 ## What Makes a Drone a Suitable Laser Target?
 
-The strongest candidates for laser-first engagement are relatively slow, exposed aerial targets that can be tracked continuously long enough for the beam to cause damage. Most current military laser concepts are aimed primarily at small and medium unmanned aerial systems rather than the most demanding missile threats. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bluehalo.com/c-uas-autonomous-systems/c-uas-directed-energy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluehalo.com">[AeroVironment, Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluehalo.com</span><span class="citation-popover-title">Aero Vironment, Inc.C-UAS Directed Energy &#124; Aero Vironment, Inc</span><span class="citation-popover-snippet">LOCUST® X3 is a third-generation 20–35+ kW Directed Energy Laser Weapon System designed to defeat current and emerging aerial thr...</span></span></span>
+The strongest candidates for laser-first engagement are relatively slow, exposed aerial targets that can be tracked continuously long enough for the beam to cause damage. Most current military laser concepts are aimed primarily at small and medium unmanned aerial systems rather than the most demanding missile threats.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bluehalo.com/c-uas-autonomous-systems/c-uas-directed-energy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluehalo.com">[AeroVironment, Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluehalo.com</span><span class="citation-popover-title">Aero Vironment, Inc.C-UAS Directed Energy &#124; Aero Vironment, Inc</span><span class="citation-popover-snippet">LOCUST® X3 is a third-generation 20–35+ kW Directed Energy Laser Weapon System designed to defeat current and emerging aerial thr...</span></span></span>
 
 Several conditions tend to favour laser engagement:
 
@@ -286,13 +286,13 @@ Several conditions tend to favour laser engagement:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Atmospheric conditions are favourable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationaldefensemagazine.org/articles/2025/8/11/government-perspective-directed-energy-in-air-base-defense-can-save-the-arsenal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationaldefensemagazine.org">[nationaldefensemagazine.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationaldefensemagazine.org</span><span class="citation-popover-title">government perspective directed energy in air base defense can save the arsenal</span><span class="citation-popover-snippet">companies are leading the way, from Raytheon&#x27;s high-energy laser weapon systems to Lockheed Martin&#x27;s high-energy laser with integrated...</span></span></span>
+* Atmospheric conditions are favourable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationaldefensemagazine.org/articles/2025/8/11/government-perspective-directed-energy-in-air-base-defense-can-save-the-arsenal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationaldefensemagazine.org">[nationaldefensemagazine.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationaldefensemagazine.org</span><span class="citation-popover-title">government perspective directed energy in air base defense can save the arsenal</span><span class="citation-popover-snippet">companies are leading the way, from Raytheon&#x27;s high-energy laser weapon systems to Lockheed Martin&#x27;s high-energy laser with integrated...</span></span></span>
 * The target can be tracked steadily for the required dwell time.
 * The drone is not carrying such a critical payload that commanders prefer an immediate missile kill.
 
 </div>
 
-This matters because lasers do not work like missiles. A missile attempts to achieve destruction through a rapid intercept. A laser must generally hold energy on a target long enough to damage critical components, sensors, flight controls, batteries, fuel systems, or airframes. Various technical discussions of high-energy laser systems note that effective engagements require sustained beam focus rather than instantaneous destruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.electronicsforu.com/technology-trends/directed-energy-weapons-laser-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: electronicsforu.com">[Electronics For You]</a><span class="citation-popover" role="note"><span class="citation-popover-source">electronicsforu.com</span><span class="citation-popover-title">directed energy weapons laser weapons</span><span class="citation-popover-snippet">Electronics For YouDirected Energy Weapons: High-Energy Laser Weapons25 Jan 2017 — Unlike projectile weapons that instantly destroy the t...</span></span></span>
+This matters because lasers do not work like missiles. A missile attempts to achieve destruction through a rapid intercept. A laser must generally hold energy on a target long enough to damage critical components, sensors, flight controls, batteries, fuel systems, or airframes. Various technical discussions of high-energy laser systems note that effective engagements require sustained beam focus rather than instantaneous destruction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.electronicsforu.com/technology-trends/directed-energy-weapons-laser-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: electronicsforu.com">[Electronics For You]</a><span class="citation-popover" role="note"><span class="citation-popover-source">electronicsforu.com</span><span class="citation-popover-title">directed energy weapons laser weapons</span><span class="citation-popover-snippet">Electronics For YouDirected Energy Weapons: High-Energy Laser Weapons25 Jan 2017 — Unlike projectile weapons that instantly destroy the t...</span></span></span>
 
 The result is a practical sorting rule: if a drone can be safely tracked, illuminated and defeated within the laser's engagement envelope, it becomes a strong candidate for laser-first treatment. If it cannot, it moves up the queue toward kinetic interceptors.
 
@@ -305,7 +305,7 @@ The most important function of a laser layer is to influence what happens later 
 
 Imagine an air-[defence network]({{ 'defence-network/' | relative_url }}) detecting twenty incoming objects. Fifteen are low-cost attack drones, while five are cruise missiles. If missiles are used against every contact, interceptor inventories may be depleted before the most dangerous threats arrive. If lasers remove the drones first, missile batteries remain available for targets that demand them.
 
-This logic has become increasingly important as drone [saturation]({{ 'saturation/' | relative_url }}) attacks have emerged as a central challenge for air defence. Analysts examining large-scale drone campaigns have argued that attackers often seek to overload defensive systems and force disproportionate expenditure of interceptors. A layered defence that includes directed-energy weapons can reduce this pressure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.csis.org/analysis/drone-saturation-russias-shahed-campaign" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-title">drone saturation russias shahed campaign</span><span class="citation-popover-snippet">Drone Saturation: Russia&#x27;s Shahed Campaign13 May 2025 — Ukraine urgently requires layered, cost-effective air defenses, including hig...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+This logic has become increasingly important as drone [saturation]({{ 'saturation/' | relative_url }}) attacks have emerged as a central challenge for air defence. Analysts examining large-scale drone campaigns have argued that attackers often seek to overload defensive systems and force disproportionate expenditure of interceptors. A layered defence that includes directed-energy weapons can reduce this pressure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.csis.org/analysis/drone-saturation-russias-shahed-campaign" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-title">drone saturation russias shahed campaign</span><span class="citation-popover-snippet">Drone Saturation: Russia&#x27;s Shahed Campaign13 May 2025 — Ukraine urgently requires layered, cost-effective air defenses, including hig...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 The fire-first decision therefore depends on more than the target itself. Commanders must also consider:
 
@@ -328,7 +328,7 @@ In this framework, a drone may be assigned to a laser not because it is easy to 
 
 The laser-first concept is fundamentally a resource-allocation mechanism.
 
-Missiles possess capabilities that many lasers currently lack. They can engage at longer ranges, function in adverse weather, attack manoeuvring targets beyond line of sight, and provide rapid interception against high-speed threats. Lasers, by contrast, offer low marginal cost and deep engagement capacity when environmental conditions permit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/commentary/2024/01/directed-energy-the-focus-on-laser-weapons-intensifies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation+2National Defense Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">This limits the range of many DEWs and means</span><span class="citation-popover-snippet">RAND CorporationDirected Energy: The Focus on Laser Weapons IntensifiesJanuary 25, 2024 — 25 Jan 2024 — Physical limitations include the...</span><span class="citation-popover-meta">Published: January 25, 2024</span></span></span>
+Missiles possess capabilities that many lasers currently lack. They can engage at longer ranges, function in adverse weather, attack manoeuvring targets beyond line of sight, and provide rapid interception against high-speed threats. Lasers, by contrast, offer low marginal cost and deep engagement capacity when environmental conditions permit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/commentary/2024/01/directed-energy-the-focus-on-laser-weapons-intensifies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation+2National Defense Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">This limits the range of many DEWs and means</span><span class="citation-popover-snippet">RAND CorporationDirected Energy: The Focus on Laser Weapons IntensifiesJanuary 25, 2024 — 25 Jan 2024 — Physical limitations include the...</span><span class="citation-popover-meta">Published: January 25, 2024</span></span></span>
 
 Because of these differences, the ideal engagement queue often follows a hierarchy:
 
@@ -342,7 +342,7 @@ Because of these differences, the ideal engagement queue often follows a hierarc
 
 </div>
 
-This approach is increasingly visible in discussions of future integrated air and missile defence architectures. Military planners regularly describe lasers as a means of handling drone attacks while preserving more expensive kinetic systems for demanding engagements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.csis.org/analysis/drone-saturation-russias-shahed-campaign" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[CSIS+2Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-title">drone saturation russias shahed campaign</span><span class="citation-popover-snippet">Drone Saturation: Russia&#x27;s Shahed Campaign13 May 2025 — Ukraine urgently requires layered, cost-effective air defenses, including hig...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+This approach is increasingly visible in discussions of future integrated air and missile defence architectures. Military planners regularly describe lasers as a means of handling drone attacks while preserving more expensive kinetic systems for demanding engagements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.csis.org/analysis/drone-saturation-russias-shahed-campaign" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[CSIS+2Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-title">drone saturation russias shahed campaign</span><span class="citation-popover-snippet">Drone Saturation: Russia&#x27;s Shahed Campaign13 May 2025 — Ukraine urgently requires layered, cost-effective air defenses, including hig...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 The value emerges over many engagements rather than a single engagement. One drone destroyed by a laser is useful. Hundreds of drones removed from the missile queue over weeks or months can materially change the sustainability of an air-defence campaign.
 
@@ -355,17 +355,17 @@ The decision to let the laser engage first is not automatic. Several conditions 
 
 ### Poor Weather or Obscured Targets
 
-High-energy lasers remain sensitive to atmospheric conditions. Rain, fog, smoke, dust and turbulence can reduce beam effectiveness and shorten practical engagement ranges. In such circumstances, a commander may decide that waiting for a laser shot introduces unnecessary risk and may immediately assign a missile instead. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/commentary/2024/01/directed-energy-the-focus-on-laser-weapons-intensifies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation+2CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">This limits the range of many DEWs and means</span><span class="citation-popover-snippet">RAND CorporationDirected Energy: The Focus on Laser Weapons IntensifiesJanuary 25, 2024 — 25 Jan 2024 — Physical limitations include the...</span><span class="citation-popover-meta">Published: January 25, 2024</span></span></span>
+High-energy lasers remain sensitive to atmospheric conditions. Rain, fog, smoke, dust and turbulence can reduce beam effectiveness and shorten practical engagement ranges. In such circumstances, a commander may decide that waiting for a laser shot introduces unnecessary risk and may immediately assign a missile instead.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/commentary/2024/01/directed-energy-the-focus-on-laser-weapons-intensifies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation+2CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">This limits the range of many DEWs and means</span><span class="citation-popover-snippet">RAND CorporationDirected Energy: The Focus on Laser Weapons IntensifiesJanuary 25, 2024 — 25 Jan 2024 — Physical limitations include the...</span><span class="citation-popover-meta">Published: January 25, 2024</span></span></span>
 
 ### Insufficient Time to Achieve Effects
 
-A laser needs time on target. If a threat is approaching rapidly or only briefly exposed, there may not be enough dwell time to guarantee a kill. In that case, a missile may offer a higher probability of interception. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.electronicsforu.com/technology-trends/directed-energy-weapons-laser-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: electronicsforu.com">[Electronics For You]</a><span class="citation-popover" role="note"><span class="citation-popover-source">electronicsforu.com</span><span class="citation-popover-title">directed energy weapons laser weapons</span><span class="citation-popover-snippet">Electronics For YouDirected Energy Weapons: High-Energy Laser Weapons25 Jan 2017 — Unlike projectile weapons that instantly destroy the t...</span></span></span>
+A laser needs time on target. If a threat is approaching rapidly or only briefly exposed, there may not be enough dwell time to guarantee a kill. In that case, a missile may offer a higher probability of interception.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.electronicsforu.com/technology-trends/directed-energy-weapons-laser-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: electronicsforu.com">[Electronics For You]</a><span class="citation-popover" role="note"><span class="citation-popover-source">electronicsforu.com</span><span class="citation-popover-title">directed energy weapons laser weapons</span><span class="citation-popover-snippet">Electronics For YouDirected Energy Weapons: High-Energy Laser Weapons25 Jan 2017 — Unlike projectile weapons that instantly destroy the t...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_laser_layered_1c45d0_laser_fire_be_df40ab-Illustration-3-dark.svg" | relative_url }}" alt="A Laser Should Fire Before A Missile Only When The Target illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_laser_layered_1c45d0_laser_fire_be_df40ab-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_laser_layered_1c45d0_laser_fire_be_df40ab-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Saturation Beyond Laser Capacity
 
-Although lasers avoid ammunition depletion in the traditional sense, they are not unlimited. They can engage only a finite number of targets within a given period because each engagement requires tracking, energy delivery and beam control. Large [swarms]({{ 'swarms/' | relative_url }}) may exceed what a single laser can process quickly enough. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.laserwars.net/p/laser-weapon-infinite-magazine-myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laserwars.net">[Laser Wars]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laserwars.net</span><span class="citation-popover-title">laser weapon infinite magazine myth</span><span class="citation-popover-snippet">Laser WarsLaser Weapons and.the Myth of the &#x27;Infinite Magazine&#x27;23 Feb 2026 — High-energy laser weapon advocates claim that such systems p...</span></span></span>
+Although lasers avoid ammunition depletion in the traditional sense, they are not unlimited. They can engage only a finite number of targets within a given period because each engagement requires tracking, energy delivery and beam control. Large [swarms]({{ 'swarms/' | relative_url }}) may exceed what a single laser can process quickly enough.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.laserwars.net/p/laser-weapon-infinite-magazine-myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laserwars.net">[Laser Wars]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laserwars.net</span><span class="citation-popover-title">laser weapon infinite magazine myth</span><span class="citation-popover-snippet">Laser WarsLaser Weapons and.the Myth of the &#x27;Infinite Magazine&#x27;23 Feb 2026 — High-energy laser weapon advocates claim that such systems p...</span></span></span>
 
 ### Misidentifying the Threat
 
@@ -373,201 +373,201 @@ A target initially classified as a routine drone may actually be a more dangerou
 
 ## The Practical Rule
 
-The laser should fire first when a target falls inside the laser's effective envelope, conditions support a reliable engagement, and destroying that target with a beam preserves missile inventory for threats that truly require kinetic interception. The decision is less about proving that lasers can replace missiles and more about ensuring that missiles remain available when the defence network needs them most. In a layered air-defence architecture, the laser's greatest contribution may be its ability to remove the right targets from the queue before scarce interceptors ever have to launch. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/commentary/2024/01/directed-energy-the-focus-on-laser-weapons-intensifies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation+2CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">This limits the range of many DEWs and means</span><span class="citation-popover-snippet">RAND CorporationDirected Energy: The Focus on Laser Weapons IntensifiesJanuary 25, 2024 — 25 Jan 2024 — Physical limitations include the...</span><span class="citation-popover-meta">Published: January 25, 2024</span></span></span>
+The laser should fire first when a target falls inside the laser's effective envelope, conditions support a reliable engagement, and destroying that target with a beam preserves missile inventory for threats that truly require kinetic interception. The decision is less about proving that lasers can replace missiles and more about ensuring that missiles remain available when the defence network needs them most. In a layered air-defence architecture, the laser's greatest contribution may be its ability to remove the right targets from the queue before scarce interceptors ever have to launch.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/commentary/2024/01/directed-energy-the-focus-on-laser-weapons-intensifies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation+2CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">This limits the range of many DEWs and means</span><span class="citation-popover-snippet">RAND CorporationDirected Energy: The Focus on Laser Weapons IntensifiesJanuary 25, 2024 — 25 Jan 2024 — Physical limitations include the...</span><span class="citation-popover-meta">Published: January 25, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/icgoq2adGOE" title="The Navy&#x27;s Laser Weapon Just DESTROYED 4 Drones – The Future of Naval Warfare is HERE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=icgoq2adGOE" target="_blank" rel="noopener noreferrer">The Navy&#x27;s Laser Weapon Just DESTROYED 4 Drones – The Future of Naval Warfare is HERE</a></p><p class="youtube-embed-meta">Channel: Navy Media</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=icgoq2adGOE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=icgoq2adGOE">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Should a Laser Fire First?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Should a Laser Fire First?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides context on advanced aerospace and defense technology development that underpins modern air-defense and laser-weapon programs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on advanced aerospace and defense technology development that underpins modern air-defense and laser-weapon programs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Examines how advanced sensors, networks, and engagement decisions shape modern defensive warfare, including resource allocation across th...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how advanced sensors, networks, and engagement decisions shape modern defensive warfare, including resource allocation across th...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
-        </h4>
-        <p class="fr-book-author">By Bahman Zohuri</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
+</h4>
+<p class="fr-book-author">By Bahman Zohuri</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Physics+of+High+Energy+Lasers+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons: Physics of High Energy Lasers on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Physics+of+High+Energy+Lasers+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons: Physics of High Energy Lasers">Directed Energy Weapons: Physics of High Energy Lasers</a>
-        </h4>
-        <p class="fr-book-author">By Bahman Zohuri</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Physics+of+High+Energy+Lasers+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons: Physics of High Energy Lasers on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Physics+of+High+Energy+Lasers+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons: Physics of High Energy Lasers">Directed Energy Weapons: Physics of High Energy Lasers</a>
+</h4>
+<p class="fr-book-author">By Bahman Zohuri</p>
         
-        <p class="fr-book-desc">Explains the physics, capabilities, and constraints of high-energy laser weapons central to laser-first engagement decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Physics+of+High+Energy+Lasers+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the physics, capabilities, and constraints of high-energy laser weapons central to laser-first engagement decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Physics+of+High+Energy+Lasers+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed Energy Weapons</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed Energy Weapons</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/d9531a5d69a4b2b40398.jpg' | relative_url }}" alt="Listing image for Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/d9531a5d69a4b2b40398.jpg' | relative_url }}" alt="Listing image for Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for drone UAVs vehicle aircraft asphalt military MQ 9 Reaper American 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/a9a06161a51d15e6d893.jpg' | relative_url }}" alt="Listing image for drone UAVs vehicle aircraft asphalt military MQ 9 Reaper American 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">drone UAVs vehicle aircraft asphalt military MQ 9 Reaper American 11x17 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for drone UAVs vehicle aircraft asphalt military MQ 9 Reaper American 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/a9a06161a51d15e6d893.jpg' | relative_url }}" alt="Listing image for drone UAVs vehicle aircraft asphalt military MQ 9 Reaper American 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">drone UAVs vehicle aircraft asphalt military MQ 9 Reaper American 11x17 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for drone UAVs vehicle military aircraft American text MQ 9 Reaper top 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/d6f151bc20330af852ca.jpg' | relative_url }}" alt="Listing image for drone UAVs vehicle military aircraft American text MQ 9 Reaper top 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">drone UAVs vehicle military aircraft American text MQ 9 Reaper top 11x17 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for drone UAVs vehicle military aircraft American text MQ 9 Reaper top 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/d6f151bc20330af852ca.jpg' | relative_url }}" alt="Listing image for drone UAVs vehicle military aircraft American text MQ 9 Reaper top 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">drone UAVs vehicle military aircraft American text MQ 9 Reaper top 11x17 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DoD UAV Integrated Roadmap Poster 2009 2034 Military Drone Chart Foldout"><img src="{{ '/assets/images/marketplace-covers/194b1edade76d37a0741.jpg' | relative_url }}" alt="Listing image for DoD UAV Integrated Roadmap Poster 2009 2034 Military Drone Chart Foldout" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">DoD UAV Integrated Roadmap Poster 2009 2034 Military Drone Chart Foldout</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DoD UAV Integrated Roadmap Poster 2009 2034 Military Drone Chart Foldout"><img src="{{ '/assets/images/marketplace-covers/194b1edade76d37a0741.jpg' | relative_url }}" alt="Listing image for DoD UAV Integrated Roadmap Poster 2009 2034 Military Drone Chart Foldout" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">DoD UAV Integrated Roadmap Poster 2009 2034 Military Drone Chart Foldout</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="a-laser-should-fire-before-a-missile-when-should-a-laser-fire-first-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -583,7 +583,7 @@ The laser should fire first when a target falls inside the laser's effective env
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -603,7 +603,7 @@ The laser should fire first when a target falls inside the laser's effective env
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -635,7 +635,7 @@ The laser should fire first when a target falls inside the laser's effective env
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -687,7 +687,7 @@ The laser should fire first when a target falls inside the laser's effective env
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -732,7 +732,7 @@ The laser should fire first when a target falls inside the laser's effective env
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -773,157 +773,157 @@ The laser should fire first when a target falls inside the laser's effective env
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: rand.org  
    Title: This limits the range of many DEWs and means  
-   Link: <a href="https://www.rand.org/pubs/commentary/2024/01/directed-energy-the-focus-on-laser-weapons-intensifies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/commentary/2024/01/directed-energy-the-focus-on-laser-weapons-intensifies.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RAND CorporationDirected Energy: The Focus on Laser Weapons IntensifiesJanuary 25, 2024 — 25 Jan 2024 — Physical limitations include the...</p></details>
+   Link:<a href="https://www.rand.org/pubs/commentary/2024/01/directed-energy-the-focus-on-laser-weapons-intensifies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/commentary/2024/01/directed-energy-the-focus-on-laser-weapons-intensifies.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAND CorporationDirected Energy: The Focus on Laser Weapons IntensifiesJanuary 25, 2024 — 25 Jan 2024 — Physical limitations include the...</p></details>
    Published: January 25, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: csis.org  
    Title: drone saturation russias shahed campaign  
-   Link: <a href="https://www.csis.org/analysis/drone-saturation-russias-shahed-campaign" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/analysis/drone-saturation-russias-shahed-campaign</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Saturation: Russia&#x27;s Shahed Campaign13 May 2025 — Ukraine urgently requires layered, cost-effective air defenses, including hig...</p></details>
+   Link:<a href="https://www.csis.org/analysis/drone-saturation-russias-shahed-campaign" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/analysis/drone-saturation-russias-shahed-campaign</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Saturation: Russia&#x27;s Shahed Campaign13 May 2025 — Ukraine urgently requires layered, cost-effective air defenses, including hig...</p></details>
    Published: May 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: csis.org  
-   Link: <a href="https://www.csis.org/analysis/weather-research-and-missile-defense-save-rainy-day" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/analysis/weather-research-and-missile-defense-save-rainy-day</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather Research and Missile Defense: Save for a Rainy...Jun 23, 2025 — Obscure work on atmospheric turbulence feeds advancements in...</p></details>
+   Link:<a href="https://www.csis.org/analysis/weather-research-and-missile-defense-save-rainy-day" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/analysis/weather-research-and-missile-defense-save-rainy-day</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weather Research and Missile Defense: Save for a Rainy...Jun 23, 2025 — Obscure work on atmospheric turbulence feeds advancements in...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/engineeringexploration/posts/the-us-army-has-officially-moved-its-directed-energy-warfare-capabilities-from-t/918595470714035/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/engineeringexploration/posts/the-us-army-has-officially-moved-its-directed-energy-warfare-capabilities-from-t/918595470714035/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>warms, leaving expensive missiles for high-speed jets and...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/engineeringexploration/posts/the-us-army-has-officially-moved-its-directed-energy-warfare-capabilities-from-t/918595470714035/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/engineeringexploration/posts/the-us-army-has-officially-moved-its-directed-energy-warfare-capabilities-from-t/918595470714035/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>warms, leaving expensive missiles for high-speed jets and...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: csis.org  
    Title: Army's space and air and missile defense plans  
-   Link: <a href="https://www.csis.org/analysis/role-integrated-air-and-missile-defense-strategic-deterrence" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/analysis/role-integrated-air-and-missile-defense-strategic-deterrence</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Integrated Air and Missile Defense for Strategic...May 21, 2021 — Please join the CSIS Missile Defense Project on Friday, Ma...</p></details>
+   Link:<a href="https://www.csis.org/analysis/role-integrated-air-and-missile-defense-strategic-deterrence" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/analysis/role-integrated-air-and-missile-defense-strategic-deterrence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Integrated Air and Missile Defense for Strategic...May 21, 2021 — Please join the CSIS Missile Defense Project on Friday, Ma...</p></details>
    Published: May 21, 2021  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: csis.org  
    Title: extending horizon elevated sensors targeting and missile defense  
-   Link: <a href="https://www.csis.org/analysis/extending-horizon-elevated-sensors-targeting-and-missile-defense" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/analysis/extending-horizon-elevated-sensors-targeting-and-missile-defense</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Extending the Horizon: Elevated Sensors for Targeting and...Sep 27, 2021 — Extending the horizon is particularly critical for cruise mis...</p></details>
+   Link:<a href="https://www.csis.org/analysis/extending-horizon-elevated-sensors-targeting-and-missile-defense" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/analysis/extending-horizon-elevated-sensors-targeting-and-missile-defense</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extending the Horizon: Elevated Sensors for Targeting and...Sep 27, 2021 — Extending the horizon is particularly critical for cruise mis...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: csis.org  
    Title: complex air defense countering hypersonic missile threat 0  
-   Link: <a href="https://www.csis.org/analysis/complex-air-defense-countering-hypersonic-missile-threat-0" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/analysis/complex-air-defense-countering-hypersonic-missile-threat-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>line of sight detection capabilities of ground-based radars. It&#x27;s also challenging to detect them using our existing space-based sensor...</p></details>
+   Link:<a href="https://www.csis.org/analysis/complex-air-defense-countering-hypersonic-missile-threat-0" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/analysis/complex-air-defense-countering-hypersonic-missile-threat-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>line of sight detection capabilities of ground-based radars. It&#x27;s also challenging to detect them using our existing space-based sensor...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuclearnetwork.csis.org  
    Title: drones lasers missile defense  
-   Link: <a href="https://nuclearnetwork.csis.org/drones-lasers-missile-defense/" target="_blank" rel="noopener noreferrer nofollow">https://nuclearnetwork.csis.org/drones-lasers-missile-defense/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>with Lasers for Missile Defense - Nuclear NetworkMay 1, 2018 — Previous airborne lasers were challenged by the weight and range of the sy...</p></details>
+   Link:<a href="https://nuclearnetwork.csis.org/drones-lasers-missile-defense/" target="_blank" rel="noopener noreferrer nofollow">https://nuclearnetwork.csis.org/drones-lasers-missile-defense/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>with Lasers for Missile Defense - Nuclear NetworkMay 1, 2018 — Previous airborne lasers were challenged by the weight and range of the sy...</p></details>
    Published: May 1, 2018  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: directed.com  
    Title: DIRECTE D  
-   Link: <a href="https://www.directed.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.directed.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Car Alarms | Remote Starters | SMARTSTART...DIRECTED is the largest designer and marketer of consumer-branded car alarms and...</p></details>
+   Link:<a href="https://www.directed.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.directed.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Car Alarms | Remote Starters | SMARTSTART...DIRECTED is the largest designer and marketer of consumer-branded car alarms and...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/unboxfactory/videos/china-has-revealed-a-mobile-laser-based-defense-system-designed-to-destroy-drone/1478691536506899/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unboxfactory/videos/china-has-revealed-a-mobile-laser-based-defense-system-designed-to-destroy-drone/1478691536506899/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>based defense could redefine modern [battlefield](&amp;#123;&amp;#123; &#x27;battle-limits/&#x27; | relative_url &amp;#125;&amp;#125;) technology...</p></details>
+   Link:<a href="https://www.facebook.com/unboxfactory/videos/china-has-revealed-a-mobile-laser-based-defense-system-designed-to-destroy-drone/1478691536506899/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unboxfactory/videos/china-has-revealed-a-mobile-laser-based-defense-system-designed-to-destroy-drone/1478691536506899/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>based defense could redefine modern [battlefield](&amp;#123;&amp;#123; &#x27;battle-limits/&#x27; | relative_url &amp;#125;&amp;#125;) technology...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: rand.org  
-   Link: <a href="https://www.rand.org/pubs/commentary/2024/02/directed-energy-dilemmas-industrial-implications-of.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/commentary/2024/02/directed-energy-dilemmas-industrial-implications-of.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Dilemmas: Industrial Implications of...20 Feb 2024 — Directed energy weapons (DEW) are part of a layered approach to int...</p></details>
+   Link:<a href="https://www.rand.org/pubs/commentary/2024/02/directed-energy-dilemmas-industrial-implications-of.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/commentary/2024/02/directed-energy-dilemmas-industrial-implications-of.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Dilemmas: Industrial Implications of...20 Feb 2024 — Directed energy weapons (DEW) are part of a layered approach to int...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: bluehalo.com  
    Title: Aero Vironment, Inc.C-UAS Directed Energy | Aero Vironment, Inc  
-   Link: <a href="https://bluehalo.com/c-uas-autonomous-systems/c-uas-directed-energy/" target="_blank" rel="noopener noreferrer nofollow">https://bluehalo.com/c-uas-autonomous-systems/c-uas-directed-energy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LOCUST® X3 is a third-generation 20–35+ kW Directed Energy Laser Weapon System designed to defeat current and emerging aerial thr...</p></details>
+   Link:<a href="https://bluehalo.com/c-uas-autonomous-systems/c-uas-directed-energy/" target="_blank" rel="noopener noreferrer nofollow">https://bluehalo.com/c-uas-autonomous-systems/c-uas-directed-energy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LOCUST® X3 is a third-generation 20–35+ kW Directed Energy Laser Weapon System designed to defeat current and emerging aerial thr...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: electronicsforu.com  
    Title: directed energy weapons laser weapons  
-   Link: <a href="https://www.electronicsforu.com/technology-trends/directed-energy-weapons-laser-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.electronicsforu.com/technology-trends/directed-energy-weapons-laser-weapons</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Electronics For YouDirected Energy Weapons: High-Energy Laser Weapons25 Jan 2017 — Unlike projectile weapons that instantly destroy the t...</p></details>
+   Link:<a href="https://www.electronicsforu.com/technology-trends/directed-energy-weapons-laser-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.electronicsforu.com/technology-trends/directed-energy-weapons-laser-weapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Electronics For YouDirected Energy Weapons: High-Energy Laser Weapons25 Jan 2017 — Unlike projectile weapons that instantly destroy the t...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nationaldefensemagazine.org  
    Title: government perspective directed energy in air base defense can save the arsenal  
-   Link: <a href="https://www.nationaldefensemagazine.org/articles/2025/8/11/government-perspective-directed-energy-in-air-base-defense-can-save-the-arsenal" target="_blank" rel="noopener noreferrer nofollow">https://www.nationaldefensemagazine.org/articles/2025/8/11/government-perspective-directed-energy-in-air-base-defense-can-save-the-arsenal</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>companies are leading the way, from Raytheon&#x27;s high-energy laser weapon systems to Lockheed Martin&#x27;s high-energy laser with integrated...</p></details>
+   Link:<a href="https://www.nationaldefensemagazine.org/articles/2025/8/11/government-perspective-directed-energy-in-air-base-defense-can-save-the-arsenal" target="_blank" rel="noopener noreferrer nofollow">https://www.nationaldefensemagazine.org/articles/2025/8/11/government-perspective-directed-energy-in-air-base-defense-can-save-the-arsenal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>companies are leading the way, from Raytheon&#x27;s high-energy laser weapon systems to Lockheed Martin&#x27;s high-energy laser with integrated...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: laserwars.net  
    Title: laser weapon infinite magazine myth  
-   Link: <a href="https://www.laserwars.net/p/laser-weapon-infinite-magazine-myth" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/laser-weapon-infinite-magazine-myth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser WarsLaser Weapons and.the Myth of the &#x27;Infinite Magazine&#x27;23 Feb 2026 — High-energy laser weapon advocates claim that such systems p...</p></details>
+   Link:<a href="https://www.laserwars.net/p/laser-weapon-infinite-magazine-myth" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/laser-weapon-infinite-magazine-myth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser WarsLaser Weapons and.the Myth of the &#x27;Infinite Magazine&#x27;23 Feb 2026 — High-energy laser weapon advocates claim that such systems p...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: rtx.com  
-   Link: <a href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers</a>  
+   Link:<a href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: laserwars.net  
    Title: missile defense agency directed energy laser weapons  
-   Link: <a href="https://www.laserwars.net/p/missile-defense-agency-directed-energy-laser-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/missile-defense-agency-directed-energy-laser-weapons</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The US Military Wants Laser-Armed Drones for Domestic...20 Apr 2026 — Directed energy weapons offer an alluring alternative to tradition...</p></details>
+   Link:<a href="https://www.laserwars.net/p/missile-defense-agency-directed-energy-laser-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/missile-defense-agency-directed-energy-laser-weapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The US Military Wants Laser-Armed Drones for Domestic...20 Apr 2026 — Directed energy weapons offer an alluring alternative to tradition...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/401707891_Cost-Effectiveness_Analysis_of_Counter-Unmanned_Aircraft_Systems_Technologies_A_Comparative_Study_of_Kinetic_Electronic_Warfare_and_Directed_Energy_Countermeasures_2022-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401707891_Cost-Effectiveness_Analysis_of_Counter-Unmanned_Aircraft_Systems_Technologies_A_Comparative_Study_of_Kinetic_Electronic_Warfare_and_Directed_Energy_Countermeasures_2022-2026</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cost-Effectiveness Analysis of Counter-Unmanned Aircraft...9 Mar 2026 — This quantitative study conducted a comprehensive cost-effective...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/401707891_Cost-Effectiveness_Analysis_of_Counter-Unmanned_Aircraft_Systems_Technologies_A_Comparative_Study_of_Kinetic_Electronic_Warfare_and_Directed_Energy_Countermeasures" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401707891_Cost-Effectiveness_Analysis_of_Counter-Unmanned_Aircraft_Systems_Technologies_A_Comparative_Study_of_Kinetic_Electronic_Warfare_and_Directed_Energy_Countermeasures</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cost-Effectiveness Analysis of Counter-Unmanned Aircraft...9 Mar 2026 — This quantitative study conducted a comprehensive cost-effective...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: csis-website-prod.s3.amazonaws.com  
-   Link: <a href="https://csis-website-prod.s3.amazonaws.com/s3fs-public/2023-11/231114_Shaikh_Countering_sUAS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://csis-website-prod.s3.amazonaws.com/s3fs-public/2023-11/231114_Shaikh_Countering_sUAS.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CSIS WebsiteCountering Small Uncrewed Aerial SystemsThis table is illustrative and not comprehensive, intended to show the range of C-sUA...</p></details>
+   Link:<a href="https://csis-website-prod.s3.amazonaws.com/s3fs-public/2023-11/231114_Shaikh_Countering_sUAS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://csis-website-prod.s3.amazonaws.com/s3fs-public/2023-11/231114_Shaikh_Countering_sUAS.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CSIS WebsiteCountering Small Uncrewed Aerial SystemsThis table is illustrative and not comprehensive, intended to show the range of C-sUA...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: lockheedmartin.com  
-   Link: <a href="https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy | Lockheed MartinExperience the potential of our laser weapons and directed energy weapon technologies, providing afforda...</p></details>
+   Link:<a href="https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy | Lockheed MartinExperience the potential of our laser weapons and directed energy weapon technologies, providing afforda...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: aeromorning.com  
-   Link: <a href="https://aeromorning.com/en/directed-energy-[counter-drone" target="_blank" rel="noopener noreferrer nofollow">https://aeromorning.com/en/directed-energy-[counter-drone</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed-Energy Counter-Drone: RF vs Laser...8 days ago — Comparison of counter-drone directed-energy systems: RF RapidDestroyer vs MBDA...</p></details>
+   Link:<a href="https://aeromorning.com/en/directed-energy-[counter-drone" target="_blank" rel="noopener noreferrer nofollow">https://aeromorning.com/en/directed-energy-[counter-drone</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed-Energy Counter-Drone: RF vs Laser...8 days ago — Comparison of counter-drone directed-energy systems: RF RapidDestroyer vs MBDA...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: norskluftvern.com  
-   Link: <a href="https://norskluftvern.com/2025/07/04/how-modern-air-defense-systems-stop-90-of-missile-attacks-the-complete-2025-guide/" target="_blank" rel="noopener noreferrer nofollow">https://norskluftvern.com/2025/07/04/how-modern-air-defense-systems-stop-90-of-missile-attacks-the-complete-2025-guide/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Modern Air Defense Systems Stop 90% of Missile Attacks4 Jul 2025 — High-energy laser systems provide near-instantaneous engagement at...</p></details>
+   Link:<a href="https://norskluftvern.com/2025/07/04/how-modern-air-defense-systems-stop-90-of-missile-attacks-the-complete-2025-guide/" target="_blank" rel="noopener noreferrer nofollow">https://norskluftvern.com/2025/07/04/how-modern-air-defense-systems-stop-90-of-missile-attacks-the-complete-2025-guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Modern Air Defense Systems Stop 90% of Missile Attacks4 Jul 2025 — High-energy laser systems provide near-instantaneous engagement at...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ZDioNFLaKCU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZDioNFLaKCU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=ZDioNFLaKCU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZDioNFLaKCU</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/389805965_Nation%27s_Defense_A_Comprehensive_Review_of_Anti-Drone_Systems_and_Strategies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389805965_Nation%27s_Defense_A_Comprehensive_Review_of_Anti-Drone_Systems_and_Strategies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Requires an unobstructed, clear line of sight. Performance degrades. signiﬁcantly in adverse weather...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/389805965_Nation%27s_Defense_A_Comprehensive_Review_of_Anti-Drone_Systems_and_Strategies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389805965_Nation%27s_Defense_A_Comprehensive_Review_of_Anti-Drone_Systems_and_Strategies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Requires an unobstructed, clear line of sight. Performance degrades. signiﬁcantly in adverse weather...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: abc.net.au  
    Title: defence to trial drone killing lasers which use directed energy  
-   Link: <a href="https://www.abc.net.au/news/2024-03-25/defence-to-trial-drone-killing-lasers-which-use-directed-energy/103631182" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-03-25/defence-to-trial-drone-killing-lasers-which-use-directed-energy/103631182</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defence to trial drone-killing lasers that use advanced &#x27;...25 Mar 2024 — Defence will soon begin trials of an Australian-made high-powe...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2024-03-25/defence-to-trial-drone-killing-lasers-which-use-directed-energy/103631182" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2024-03-25/defence-to-trial-drone-killing-lasers-which-use-directed-energy/103631182</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defence to trial drone-killing lasers that use advanced &#x27;...25 Mar 2024 — Defence will soon begin trials of an Australian-made high-powe...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: coherentmarketinsights.com  
    Title: directed energy weapons in counter drone missile defense 3576  
-   Link: <a href="https://www.coherentmarketinsights.com/blog/aerospace-and-defense/directed-energy-weapons-in-counter-drone-missile-defense-3576" target="_blank" rel="noopener noreferrer nofollow">https://www.coherentmarketinsights.com/blog/aerospace-and-defense/directed-energy-weapons-in-counter-drone-missile-defense-3576</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons in CounterDrone Missile Defense4 May 2026 — Ans: Weather conditions, power supply, and range restrictions affect...</p></details>
+   Link:<a href="https://www.coherentmarketinsights.com/blog/aerospace-and-defense/directed-energy-weapons-in-counter-drone-missile-defense-3576" target="_blank" rel="noopener noreferrer nofollow">https://www.coherentmarketinsights.com/blog/aerospace-and-defense/directed-energy-weapons-in-counter-drone-missile-defense-3576</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons in CounterDrone Missile Defense4 May 2026 — Ans: Weather conditions, power supply, and range restrictions affect...</p></details>
    Published: May 2026  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: defence-industries.com  
    Title: how directed energy weapons are revolutionizing counter uav  
-   Link: <a href="https://www.defence-industries.com/articles/how-directed-energy-weapons-are-revolutionizing-counter-uav" target="_blank" rel="noopener noreferrer nofollow">https://www.defence-industries.com/articles/how-directed-energy-weapons-are-revolutionizing-counter-uav</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy in the start of 2025, a laser-based system successfully intercepted and destroyed five drones in ninety seconds.Read more...</p></details>
+   Link:<a href="https://www.defence-industries.com/articles/how-directed-energy-weapons-are-revolutionizing-counter-uav" target="_blank" rel="noopener noreferrer nofollow">https://www.defence-industries.com/articles/how-directed-energy-weapons-are-revolutionizing-counter-uav</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy in the start of 2025, a laser-based system successfully intercepted and destroyed five drones in ninety seconds.Read more...</p></details>

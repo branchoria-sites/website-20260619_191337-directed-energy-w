@@ -275,17 +275,17 @@ image: /assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_cheap_drone_m_89
 
 ## Introduction
 
-Ukraine’s defence against Shahed-type attack drones has become one of the clearest examples of how a military adapts when low-cost threats arrive in large numbers. Rather than relying solely on scarce and expensive surface-to-air missiles, Ukraine has built a layered system that combines anti-aircraft guns, mobile firing teams, electronic warfare (EW), and increasingly, interceptor drones. The goal is not to eliminate high-end missile systems, but to reserve them for the most dangerous targets while using cheaper tools against drones that may appear night after night in large waves. This approach has become increasingly important as Russia has expanded the scale of Shahed attacks against Ukrainian cities and infrastructure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sahasec.org/policy-briefs/ukrainian-pillar-for-a-modern-air-defence-architecture/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sahasec.org">[Sahaidachnyi Security Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sahasec.org</span><span class="citation-popover-title">ukrainian pillar for a modern air defence architecture</span><span class="citation-popover-snippet">Sahaidachnyi Security CenterUkrainian Pillar for a Modern Air Defence Architecture9 Apr 2025 — UAVs deployed monthly in 2024, 3,907 drone...</span></span></span>
+Ukraine’s defence against Shahed-type attack drones has become one of the clearest examples of how a military adapts when low-cost threats arrive in large numbers. Rather than relying solely on scarce and expensive surface-to-air missiles, Ukraine has built a layered system that combines anti-aircraft guns, mobile firing teams, electronic warfare (EW), and increasingly, interceptor drones. The goal is not to eliminate high-end missile systems, but to reserve them for the most dangerous targets while using cheaper tools against drones that may appear night after night in large waves. This approach has become increasingly important as Russia has expanded the scale of Shahed attacks against Ukrainian cities and infrastructure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sahasec.org/policy-briefs/ukrainian-pillar-for-a-modern-air-defence-architecture/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sahasec.org">[Sahaidachnyi Security Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sahasec.org</span><span class="citation-popover-title">ukrainian pillar for a modern air defence architecture</span><span class="citation-popover-snippet">Sahaidachnyi Security CenterUkrainian Pillar for a Modern Air Defence Architecture9 Apr 2025 — UAVs deployed monthly in 2024, 3,907 drone...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_cheap_drone_m_89c328_ukraine_shahe_28761a-Illustration-1-dark.svg" | relative_url }}" alt="Ukraine Layers illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_cheap_drone_m_89c328_ukraine_shahe_28761a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_cheap_drone_m_89c328_ukraine_shahe_28761a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Shahed attacks create ammunition pressure
 
-Shahed drones are not especially sophisticated compared with [cruise missiles]({{ 'cruise-missiles/' | relative_url }}) or ballistic missiles, but they create a difficult economic and operational problem. They are relatively cheap, can be launched in large numbers, and often force defenders to remain on alert for hours. Even when most are intercepted, each attack can consume ammunition, personnel time, radar capacity, and interceptor stocks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sahasec.org/policy-briefs/ukrainian-pillar-for-a-modern-air-defence-architecture/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sahasec.org">[Sahaidachnyi Security Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sahasec.org</span><span class="citation-popover-title">ukrainian pillar for a modern air defence architecture</span><span class="citation-popover-snippet">Sahaidachnyi Security CenterUkrainian Pillar for a Modern Air Defence Architecture9 Apr 2025 — UAVs deployed monthly in 2024, 3,907 drone...</span></span></span>
+Shahed drones are not especially sophisticated compared with [cruise missiles]({{ 'cruise-missiles/' | relative_url }}) or ballistic missiles, but they create a difficult economic and operational problem. They are relatively cheap, can be launched in large numbers, and often force defenders to remain on alert for hours. Even when most are intercepted, each attack can consume ammunition, personnel time, radar capacity, and interceptor stocks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sahasec.org/policy-briefs/ukrainian-pillar-for-a-modern-air-defence-architecture/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sahasec.org">[Sahaidachnyi Security Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sahasec.org</span><span class="citation-popover-title">ukrainian pillar for a modern air defence architecture</span><span class="citation-popover-snippet">Sahaidachnyi Security CenterUkrainian Pillar for a Modern Air Defence Architecture9 Apr 2025 — UAVs deployed monthly in 2024, 3,907 drone...</span></span></span>
 
-The challenge becomes more acute when attacks involve dozens or even hundreds of drones. Ukraine's air force routinely reports using a mix of aviation, anti-aircraft missiles, electronic warfare systems, mobile fire groups, and drones to defeat incoming waves. This reflects a deliberate effort to avoid using top-tier missile interceptors against every target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://english.nv.ua/nation/ukrainian-air-defenses-shoot-down-180-russian-uavs-amid-overnight-attack-on-may-19-50609113.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.nv.ua">[The New Voice of Ukraine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.nv.ua</span><span class="citation-popover-snippet">The New Voice of UkraineRussian forces launch 200+ drones on Ukraine, 15 locations hitMay 19, 2026 — Ukrainian defense forces neutralized...</span><span class="citation-popover-meta">Published: May 19, 2026</span></span></span>
+The challenge becomes more acute when attacks involve dozens or even hundreds of drones. Ukraine's air force routinely reports using a mix of aviation, anti-aircraft missiles, electronic warfare systems, mobile fire groups, and drones to defeat incoming waves. This reflects a deliberate effort to avoid using top-tier missile interceptors against every target.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://english.nv.ua/nation/ukrainian-air-defenses-shoot-down-180-russian-uavs-amid-overnight-attack-on-may-19-50609113.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.nv.ua">[The New Voice of Ukraine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.nv.ua</span><span class="citation-popover-snippet">The New Voice of UkraineRussian forces launch 200+ drones on Ukraine, 15 locations hitMay 19, 2026 — Ukrainian defense forces neutralized...</span><span class="citation-popover-meta">Published: May 19, 2026</span></span></span>
 
-For high-value threats such as ballistic missiles, advanced air-defence missiles remain essential. But if every Shahed required a premium interceptor, the defence would become difficult to sustain over long periods. Ukraine's response has therefore focused on creating multiple lower-cost layers that can absorb much of the drone threat before expensive systems are needed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rnbo.gov.ua/en/Diialnist/7375.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rnbo.gov.ua">[rnbo.gov.ua]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rnbo.gov.ua</span><span class="citation-popover-snippet">That is why interceptor drones have...Read more...</span></span></span>
+For high-value threats such as ballistic missiles, advanced air-defence missiles remain essential. But if every Shahed required a premium interceptor, the defence would become difficult to sustain over long periods. Ukraine's response has therefore focused on creating multiple lower-cost layers that can absorb much of the drone threat before expensive systems are needed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rnbo.gov.ua/en/Diialnist/7375.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rnbo.gov.ua">[rnbo.gov.ua]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rnbo.gov.ua</span><span class="citation-popover-snippet">That is why interceptor drones have...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4LHK3Xo0Ozw" title="How have drones changed warfare in 2025? | REUTERS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4LHK3Xo0Ozw" target="_blank" rel="noopener noreferrer">How have drones changed warfare in 2025? | REUTERS</a></p><p class="youtube-embed-meta">Channel: Reuters</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4LHK3Xo0Ozw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4LHK3Xo0Ozw">Open on YouTube</a></p></div></div></div>
@@ -294,32 +294,32 @@ For high-value threats such as ballistic missiles, advanced air-defence missiles
 
 ### Mobile gun teams as the first economical layer
 
-One of Ukraine's earliest adaptations was the widespread use of mobile fire groups. These teams typically combine vehicles, searchlights, thermal imaging equipment, and heavy machine guns or automatic cannon. Because Shaheds often fly predictable routes and relatively slowly compared with missiles, guns can be an economical way to destroy them once detected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/ukraine-air-defence-downs-9-out-13-russian-drones-over-four-regions-2024-06-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Ukraine air defence downs 9 out of 13 Russian drones</span><span class="citation-popover-snippet">Ukraine air defence downs 9 out of 13 Russian drones...June 8, 2024 — Ukrainian air defence and mobile drone hunters groups shot...</span><span class="citation-popover-meta">Published: June 8, 2024</span></span></span>
+One of Ukraine's earliest adaptations was the widespread use of mobile fire groups. These teams typically combine vehicles, searchlights, thermal imaging equipment, and heavy machine guns or automatic cannon. Because Shaheds often fly predictable routes and relatively slowly compared with missiles, guns can be an economical way to destroy them once detected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/ukraine-air-defence-downs-9-out-13-russian-drones-over-four-regions-2024-06-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Ukraine air defence downs 9 out of 13 Russian drones</span><span class="citation-popover-snippet">Ukraine air defence downs 9 out of 13 Russian drones...June 8, 2024 — Ukrainian air defence and mobile drone hunters groups shot...</span><span class="citation-popover-meta">Published: June 8, 2024</span></span></span>
 
-The advantage is simple: ammunition for machine guns and cannon is far cheaper and easier to replenish than sophisticated missile interceptors. Mobile teams can also be repositioned quickly to cover likely approach corridors, creating a distributed defensive network rather than concentrating all protection around major missile batteries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/ukraine-air-defence-downs-9-out-13-russian-drones-over-four-regions-2024-06-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Ukraine air defence downs 9 out of 13 Russian drones</span><span class="citation-popover-snippet">Ukraine air defence downs 9 out of 13 Russian drones...June 8, 2024 — Ukrainian air defence and mobile drone hunters groups shot...</span><span class="citation-popover-meta">Published: June 8, 2024</span></span></span>
+The advantage is simple: ammunition for machine guns and cannon is far cheaper and easier to replenish than sophisticated missile interceptors. Mobile teams can also be repositioned quickly to cover likely approach corridors, creating a distributed defensive network rather than concentrating all protection around major missile batteries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/ukraine-air-defence-downs-9-out-13-russian-drones-over-four-regions-2024-06-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Ukraine air defence downs 9 out of 13 Russian drones</span><span class="citation-popover-snippet">Ukraine air defence downs 9 out of 13 Russian drones...June 8, 2024 — Ukrainian air defence and mobile drone hunters groups shot...</span><span class="citation-popover-meta">Published: June 8, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zViz_78w_lc" title="Why The US Wants Ukraine’s Shahed-Killer Drones" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zViz_78w_lc" target="_blank" rel="noopener noreferrer">Why The US Wants Ukraine’s Shahed-Killer Drones</a></p><p class="youtube-embed-meta">Channel: Task &amp; Purpose</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zViz_78w_lc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zViz_78w_lc">Open on YouTube</a></p></div></div></div>
 
 ### Electronic warfare attacks the drone rather than the airframe
 
-Electronic warfare has become another critical layer. Instead of physically destroying a drone, EW systems attempt to disrupt navigation, communications, or guidance functions. In some cases, drones are diverted, disoriented, or prevented from reaching their intended targets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://english.nv.ua/nation/ukrainian-air-defenses-shoot-down-180-russian-uavs-amid-overnight-attack-on-may-19-50609113.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.nv.ua">[The New Voice of Ukraine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.nv.ua</span><span class="citation-popover-snippet">The New Voice of UkraineRussian forces launch 200+ drones on Ukraine, 15 locations hitMay 19, 2026 — Ukrainian defense forces neutralized...</span><span class="citation-popover-meta">Published: May 19, 2026</span></span></span>
+Electronic warfare has become another critical layer. Instead of physically destroying a drone, EW systems attempt to disrupt navigation, communications, or guidance functions. In some cases, drones are diverted, disoriented, or prevented from reaching their intended targets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://english.nv.ua/nation/ukrainian-air-defenses-shoot-down-180-russian-uavs-amid-overnight-attack-on-may-19-50609113.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.nv.ua">[The New Voice of Ukraine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.nv.ua</span><span class="citation-popover-snippet">The New Voice of UkraineRussian forces launch 200+ drones on Ukraine, 15 locations hitMay 19, 2026 — Ukrainian defense forces neutralized...</span><span class="citation-popover-meta">Published: May 19, 2026</span></span></span>
 
-This approach is attractive because a successful jamming effort can defeat a drone without expending any missile at all. However, electronic warfare is not a permanent solution. Both sides continually adapt their systems, creating an ongoing contest between drone designers and EW operators. Ukrainian specialists frequently describe the need for constant modification and adaptation as electronic countermeasures evolve. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.techradar.com/pro/ukrainian-uav-expert-warns-us-off-the-shelf-drones-will-fail-to-survive-ew-and-every-unit-should-have-their-own-drone-laboratory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">Speaking from the First Corps Azov, the officer emphasized that standard unmanned aerial vehicles (UAVs) need frequent modifications to r...</span></span></span>
+This approach is attractive because a successful jamming effort can defeat a drone without expending any missile at all. However, electronic warfare is not a permanent solution. Both sides continually adapt their systems, creating an ongoing contest between drone designers and EW operators. Ukrainian specialists frequently describe the need for constant modification and adaptation as electronic countermeasures evolve.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.techradar.com/pro/ukrainian-uav-expert-warns-us-off-the-shelf-drones-will-fail-to-survive-ew-and-every-unit-should-have-their-own-drone-laboratory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">Speaking from the First Corps Azov, the officer emphasized that standard unmanned aerial vehicles (UAVs) need frequent modifications to r...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_cheap_drone_m_89c328_ukraine_shahe_28761a-Illustration-2-dark.svg" | relative_url }}" alt="Ukraine Layers illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_cheap_drone_m_89c328_ukraine_shahe_28761a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_cheap_drone_m_89c328_ukraine_shahe_28761a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Interceptor drones create a new low-cost layer
 
-The most significant recent development has been the rise of interceptor drones specifically designed to hunt Shaheds. These systems represent an attempt to match [cheap drones]({{ 'missile-mismatch/' | relative_url }}) with other relatively cheap drones rather than with expensive missile systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twz.com/news-features/inside-ukraines-interceptor-drone-innovations-swatting-down-thousands-of-shahed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">The War ZoneInside Ukraine&#x27;s Interceptor Drone Innovations Swatting...4 days ago — Brave1 CEO Andrii Hrytseniuk gives us exclusive insig...</span></span></span>
+The most significant recent development has been the rise of interceptor drones specifically designed to hunt Shaheds. These systems represent an attempt to match [cheap drones]({{ 'missile-mismatch/' | relative_url }}) with other relatively cheap drones rather than with expensive missile systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twz.com/news-features/inside-ukraines-interceptor-drone-innovations-swatting-down-thousands-of-shahed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">The War ZoneInside Ukraine&#x27;s Interceptor Drone Innovations Swatting...4 days ago — Brave1 CEO Andrii Hrytseniuk gives us exclusive insig...</span></span></span>
 
-Ukraine's drone industry has produced several interceptor concepts, including systems capable of pursuing and colliding with incoming Shaheds. According to Ukrainian officials and defence organisations, destroying a Shahed with an interceptor drone can cost dramatically less than using a conventional air-defence missile. Ukrainian security officials have stated that interceptor-drone engagements can cost more than twenty-five times less than missile interceptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rnbo.gov.ua/en/Diialnist/7375.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rnbo.gov.ua">[rnbo.gov.ua]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rnbo.gov.ua</span><span class="citation-popover-snippet">That is why interceptor drones have...Read more...</span></span></span>
+Ukraine's drone industry has produced several interceptor concepts, including systems capable of pursuing and colliding with incoming Shaheds. According to Ukrainian officials and defence organisations, destroying a Shahed with an interceptor drone can cost dramatically less than using a conventional air-defence missile. Ukrainian security officials have stated that interceptor-drone engagements can cost more than twenty-five times less than missile interceptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rnbo.gov.ua/en/Diialnist/7375.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rnbo.gov.ua">[rnbo.gov.ua]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rnbo.gov.ua</span><span class="citation-popover-snippet">That is why interceptor drones have...Read more...</span></span></span>
 
-Reporting from Ukrainian defence technology organisations and independent analysts indicates that interceptor drones have become increasingly effective. During some major attacks in 2026, Ukrainian observers reported that interceptor drones accounted for more than 40% of destroyed Shahed-type targets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://isis-online.org/isis-reports/monthly-analysis-of-russian-shahed-136-deployment-against-ukraine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isis-online.org">[ISIS Science Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isis-online.org</span><span class="citation-popover-title">ISIS Science Institute Monthly Analysis of Russian Shahed 136 Deployment ...5 days ago — Ukrainian military observers reported that inter</span><span class="citation-popover-snippet">ISIS Science InstituteMonthly Analysis of Russian Shahed 136 Deployment ...5 days ago — Ukrainian military observers reported that interc...</span></span></span>
+Reporting from Ukrainian defence technology organisations and independent analysts indicates that interceptor drones have become increasingly effective. During some major attacks in 2026, Ukrainian observers reported that interceptor drones accounted for more than 40% of destroyed Shahed-type targets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://isis-online.org/isis-reports/monthly-analysis-of-russian-shahed-136-deployment-against-ukraine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isis-online.org">[ISIS Science Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isis-online.org</span><span class="citation-popover-title">ISIS Science Institute Monthly Analysis of Russian Shahed 136 Deployment ...5 days ago — Ukrainian military observers reported that inter</span><span class="citation-popover-snippet">ISIS Science InstituteMonthly Analysis of Russian Shahed 136 Deployment ...5 days ago — Ukrainian military observers reported that interc...</span></span></span>
 
-Cost is a major reason for the growing interest. Some Ukrainian interceptor drones are reported to cost only a few thousand dollars, while a single engagement may require one or two such drones. Even then, the overall expense remains far below the cost of many conventional missile interceptors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://theins.press/en/politics/293341" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theins.press">[The Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theins.press</span><span class="citation-popover-title">simple pattern. A signals, an aim-hold system</span><span class="citation-popover-snippet">The InsiderTurning the tide on a budget: How Ukrainian interceptor...3 days ago — Intercepting a single Shahed requires up to two interc...</span></span></span>
+Cost is a major reason for the growing interest. Some Ukrainian interceptor drones are reported to cost only a few thousand dollars, while a single engagement may require one or two such drones. Even then, the overall expense remains far below the cost of many conventional missile interceptors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://theins.press/en/politics/293341" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theins.press">[The Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theins.press</span><span class="citation-popover-title">simple pattern. A signals, an aim-hold system</span><span class="citation-popover-snippet">The InsiderTurning the tide on a budget: How Ukrainian interceptor...3 days ago — Intercepting a single Shahed requires up to two interc...</span></span></span>
 
-The concept has evolved rapidly. Early interceptor designs became less effective after Russia increased Shahed speeds, forcing Ukrainian developers to create faster systems. New generations have improved endurance, speed, sensors, and control systems, illustrating how quickly the contest is evolving. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/inside-ukraines-drive-defeat-dreaded-shahed-drone-2026-04-29/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">inside ukraines drive defeat dreaded shahed drone 2026 04 29</span><span class="citation-popover-snippet">Inside Ukraine&#x27;s drive to defeat the dreaded Shahed drone3 May 2026 — The first interceptor to destroy a ​Shahed in early 2025, fo...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+The concept has evolved rapidly. Early interceptor designs became less effective after Russia increased Shahed speeds, forcing Ukrainian developers to create faster systems. New generations have improved endurance, speed, sensors, and control systems, illustrating how quickly the contest is evolving.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/inside-ukraines-drive-defeat-dreaded-shahed-drone-2026-04-29/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">inside ukraines drive defeat dreaded shahed drone</span><span class="citation-popover-snippet">Inside Ukraine&#x27;s drive to defeat the dreaded Shahed drone3 May 2026 — The first interceptor to destroy a ​Shahed in early 2025, fo...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_cheap_drone_m_89c328_ukraine_shahe_28761a-Illustration-3-dark.svg" | relative_url }}" alt="Ukraine Layers illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_cheap_drone_m_89c328_ukraine_shahe_28761a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_cheap_drone_m_89c328_ukraine_shahe_28761a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -327,205 +327,205 @@ The concept has evolved rapidly. Early interceptor designs became less effective
 
 The success of cheaper layers does not mean missiles are becoming obsolete. Layered defence works precisely because different tools are used against different threats.
 
-Some drones evade lower layers by flying at difficult altitudes, approaching through unexpected routes, or arriving as part of larger mixed attacks. Electronic warfare may not always work. Guns require favourable engagement conditions. Interceptor drones depend on detection, weather, operator skill, and sufficient time to engage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/inside-ukraines-drive-defeat-dreaded-shahed-drone-2026-04-29/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">inside ukraines drive defeat dreaded shahed drone 2026 04 29</span><span class="citation-popover-snippet">Inside Ukraine&#x27;s drive to defeat the dreaded Shahed drone3 May 2026 — The first interceptor to destroy a ​Shahed in early 2025, fo...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+Some drones evade lower layers by flying at difficult altitudes, approaching through unexpected routes, or arriving as part of larger mixed attacks. Electronic warfare may not always work. Guns require favourable engagement conditions. Interceptor drones depend on detection, weather, operator skill, and sufficient time to engage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/inside-ukraines-drive-defeat-dreaded-shahed-drone-2026-04-29/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">inside ukraines drive defeat dreaded shahed drone</span><span class="citation-popover-snippet">Inside Ukraine&#x27;s drive to defeat the dreaded Shahed drone3 May 2026 — The first interceptor to destroy a ​Shahed in early 2025, fo...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
-High-end missile systems therefore remain essential for defending critical infrastructure and urban areas against the most dangerous threats. They also provide a final protective layer when other methods fail. Ukraine's reported use of aviation, missiles, EW systems, UAVs, and mobile fire groups in the same engagements illustrates this layered philosophy rather than a replacement strategy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://english.nv.ua/nation/ukrainian-air-defenses-shoot-down-180-russian-uavs-amid-overnight-attack-on-may-19-50609113.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.nv.ua">[The New Voice of Ukraine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.nv.ua</span><span class="citation-popover-snippet">The New Voice of UkraineRussian forces launch 200+ drones on Ukraine, 15 locations hitMay 19, 2026 — Ukrainian defense forces neutralized...</span><span class="citation-popover-meta">Published: May 19, 2026</span></span></span>
+High-end missile systems therefore remain essential for defending critical infrastructure and urban areas against the most dangerous threats. They also provide a final protective layer when other methods fail. Ukraine's reported use of aviation, missiles, EW systems, UAVs, and mobile fire groups in the same engagements illustrates this layered philosophy rather than a replacement strategy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://english.nv.ua/nation/ukrainian-air-defenses-shoot-down-180-russian-uavs-amid-overnight-attack-on-may-19-50609113.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.nv.ua">[The New Voice of Ukraine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.nv.ua</span><span class="citation-popover-snippet">The New Voice of UkraineRussian forces launch 200+ drones on Ukraine, 15 locations hitMay 19, 2026 — Ukrainian defense forces neutralized...</span><span class="citation-popover-meta">Published: May 19, 2026</span></span></span>
 
-The broader lesson is that defending against mass drone attacks increasingly depends on matching threat costs with defensive costs. Ukraine's experience suggests that the most sustainable approach combines multiple inexpensive layers with a smaller number of premium interceptors held in reserve for threats that truly require them. This logic is one reason why military planners examining future directed-energy weapons are paying close attention to Ukraine's efforts: the central challenge is not merely destroying drones, but doing so at a cost and scale that can be sustained over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rnbo.gov.ua/en/Diialnist/7375.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rnbo.gov.ua">[rnbo.gov.ua+2Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rnbo.gov.ua</span><span class="citation-popover-snippet">That is why interceptor drones have...Read more...</span></span></span>
+The broader lesson is that defending against mass drone attacks increasingly depends on matching threat costs with defensive costs. Ukraine's experience suggests that the most sustainable approach combines multiple inexpensive layers with a smaller number of premium interceptors held in reserve for threats that truly require them. This logic is one reason why military planners examining future directed-energy weapons are paying close attention to Ukraine's efforts: the central challenge is not merely destroying drones, but doing so at a cost and scale that can be sustained over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rnbo.gov.ua/en/Diialnist/7375.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rnbo.gov.ua">[rnbo.gov.ua+2Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rnbo.gov.ua</span><span class="citation-popover-snippet">That is why interceptor drones have...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/okQlmZJkbBk" title="Ukraine’s drone killers head to the Middle East to hunt Iranian Shaheds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=okQlmZJkbBk" target="_blank" rel="noopener noreferrer">Ukraine’s drone killers head to the Middle East to hunt Iranian Shaheds</a></p><p class="youtube-embed-meta">Channel: BFBS Forces News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=okQlmZJkbBk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=okQlmZJkbBk">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Ukraine&#x27;s cheaper answers to Shahed drones. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Ukraine&#x27;s cheaper answers to Shahed drones. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wired+for+war&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wired for war on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7256042-M.jpg" alt="Cover for Wired for war" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wired+for+war&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wired for war">Wired for war</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Wired+for+war&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wired for war on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7256042-M.jpg" alt="Cover for Wired for war" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Wired+for+war&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wired for war">Wired for war</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Provides the broader context for drones, robotics, and the changing economics of modern warfare that underpin Ukraine&#x27;s response to Shahe...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wired+for+war&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the broader context for drones, robotics, and the changing economics of modern warfare that underpin Ukraine&#x27;s response to Shahe...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Wired+for+war&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Covers missile warfare, emerging threats, attrition, and the challenge of affordable mass against expensive legacy systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers missile warfare, emerging threats, attrition, and the challenge of affordable mass against expensive legacy systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warfare+by+John+Kaag&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warfare on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=I8oOBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warfare" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drone+Warfare+by+John+Kaag&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warfare">Drone Warfare</a>
-        </h4>
-        <p class="fr-book-author">By John Kaag, Sarah Kreps</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warfare+by+John+Kaag&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warfare on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=I8oOBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warfare" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drone+Warfare+by+John+Kaag&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warfare">Drone Warfare</a>
+</h4>
+<p class="fr-book-author">By John Kaag, Sarah Kreps</p>
         
-        <p class="fr-book-desc">Covers drone proliferation, military use, and operational challenges closely related to defending against mass drone attacks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drone+Warfare+by+John+Kaag&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers drone proliferation, military use, and operational challenges closely related to defending against mass drone attacks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drone+Warfare+by+John+Kaag&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Unit+X+by+Raj+M.+Shah&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Unit X on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nwcOEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Unit X" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Unit+X+by+Raj+M.+Shah&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unit X">Unit X</a>
-        </h4>
-        <p class="fr-book-author">By Raj M. Shah, Christopher Kirchhoff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Unit+X+by+Raj+M.+Shah&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Unit X on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nwcOEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Unit X" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Unit+X+by+Raj+M.+Shah&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unit X">Unit X</a>
+</h4>
+<p class="fr-book-author">By Raj M. Shah, Christopher Kirchhoff</p>
         
-        <p class="fr-book-desc">Explores rapid military adaptation, autonomous systems, AI, and cost-effective defense innovation relevant to counter-drone strategies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Unit+X+by+Raj+M.+Shah&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores rapid military adaptation, autonomous systems, AI, and cost-effective defense innovation relevant to counter-drone strategies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Unit+X+by+Raj+M.+Shah&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wired+for+war&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wired for war</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Warfare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Warfare</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Wired+for+war&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wired for war</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Warfare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Warfare</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for S-300 Russian Air Defense Missile Radar Vehicle 1:72 Unassembled Model Ornaments"><img src="{{ '/assets/images/marketplace-covers/e4ca5c7186951d62800c.jpg' | relative_url }}" alt="Listing image for S-300 Russian Air Defense Missile Radar Vehicle 1:72 Unassembled Model Ornaments" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer">S-300 Russian Air Defense Missile Radar Vehicle 1:72 Unassembled Model Ornaments</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense missile model">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense missile model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for S-300 Russian Air Defense Missile Radar Vehicle 1:72 Unassembled Model Ornaments"><img src="{{ '/assets/images/marketplace-covers/e4ca5c7186951d62800c.jpg' | relative_url }}" alt="Listing image for S-300 Russian Air Defense Missile Radar Vehicle 1:72 Unassembled Model Ornaments" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer">S-300 Russian Air Defense Missile Radar Vehicle 1:72 Unassembled Model Ornaments</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense missile model">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense missile model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for S-300 Plastic Russian Air Defense Missile Radar Vehicle Model Simulation DIY;"><img src="{{ '/assets/images/marketplace-covers/7fca1129be5e6c369815.jpg' | relative_url }}" alt="Listing image for S-300 Plastic Russian Air Defense Missile Radar Vehicle Model Simulation DIY;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer">S-300 Plastic Russian Air Defense Missile Radar Vehicle Model Simulation DIY;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense missile model">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense missile model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for S-300 Plastic Russian Air Defense Missile Radar Vehicle Model Simulation DIY;"><img src="{{ '/assets/images/marketplace-covers/7fca1129be5e6c369815.jpg' | relative_url }}" alt="Listing image for S-300 Plastic Russian Air Defense Missile Radar Vehicle Model Simulation DIY;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer">S-300 Plastic Russian Air Defense Missile Radar Vehicle Model Simulation DIY;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense missile model">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense missile model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D Printed 1/72 Russian S-500 air defense missile system Unpainted Kit Model NEW"><img src="{{ '/assets/images/marketplace-covers/bee8c194f3ded8ff99bd.jpg' | relative_url }}" alt="Listing image for 3D Printed 1/72 Russian S-500 air defense missile system Unpainted Kit Model NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer">3D Printed 1/72 Russian S-500 air defense missile system Unpainted Kit Model NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense missile model">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense missile model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D Printed 1/72 Russian S-500 air defense missile system Unpainted Kit Model NEW"><img src="{{ '/assets/images/marketplace-covers/bee8c194f3ded8ff99bd.jpg' | relative_url }}" alt="Listing image for 3D Printed 1/72 Russian S-500 air defense missile system Unpainted Kit Model NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer">3D Printed 1/72 Russian S-500 air defense missile system Unpainted Kit Model NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense missile model">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense missile model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/72 Sam-6 Air Defense Missile Model Czech Republic"><img src="{{ '/assets/images/marketplace-covers/4f1f2149b369ed2f4c79.jpg' | relative_url }}" alt="Listing image for 1/72 Sam-6 Air Defense Missile Model Czech Republic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer">1/72 Sam-6 Air Defense Missile Model Czech Republic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense missile model">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense missile model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/72 Sam-6 Air Defense Missile Model Czech Republic"><img src="{{ '/assets/images/marketplace-covers/4f1f2149b369ed2f4c79.jpg' | relative_url }}" alt="Listing image for 1/72 Sam-6 Air Defense Missile Model Czech Republic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer">1/72 Sam-6 Air Defense Missile Model Czech Republic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense missile model">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense missile model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense missile model" data-ebay-reference="ukraine-layers-ukraine-s-cheaper-answers-to-shahed-drones-directed-ener-air-defense-missile-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -541,7 +541,7 @@ The broader lesson is that defending against mass drone attacks increasingly dep
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -561,7 +561,7 @@ The broader lesson is that defending against mass drone attacks increasingly dep
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -593,7 +593,7 @@ The broader lesson is that defending against mass drone attacks increasingly dep
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -645,7 +645,7 @@ The broader lesson is that defending against mass drone attacks increasingly dep
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -690,7 +690,7 @@ The broader lesson is that defending against mass drone attacks increasingly dep
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -731,202 +731,202 @@ The broader lesson is that defending against mass drone attacks increasingly dep
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reuters.com  
    Title: inside ukraines drive defeat dreaded shahed drone 2026 04 29  
-   Link: <a href="https://www.reuters.com/business/aerospace-defense/inside-ukraines-drive-defeat-dreaded-shahed-drone-2026-04-29/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/inside-ukraines-drive-defeat-dreaded-shahed-drone-2026-04-29/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Ukraine&#x27;s drive to defeat the dreaded Shahed drone3 May 2026 — The first interceptor to destroy a ​Shahed in early 2025, fo...</p></details>
+   Link:<a href="https://www.reuters.com/business/aerospace-defense/inside-ukraines-drive-defeat-dreaded-shahed-drone-2026-04-29/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/inside-ukraines-drive-defeat-dreaded-shahed-drone-2026-04-29/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Ukraine&#x27;s drive to defeat the dreaded Shahed drone3 May 2026 — The first interceptor to destroy a ​Shahed in early 2025, fo...</p></details>
    Published: May 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: rnbo.gov.ua  
-   Link: <a href="https://www.rnbo.gov.ua/en/Diialnist/7375.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rnbo.gov.ua/en/Diialnist/7375.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>That is why interceptor drones have...Read more...</p></details>
+   Link:<a href="https://www.rnbo.gov.ua/en/Diialnist/7375.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rnbo.gov.ua/en/Diialnist/7375.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>That is why interceptor drones have...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reuters.com  
    Title: Ukraine air defence downs 9 out of 13 Russian drones  
-   Link: <a href="https://www.reuters.com/world/europe/ukraine-air-defence-downs-9-out-13-russian-drones-over-four-regions-2024-06-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/ukraine-air-defence-downs-9-out-13-russian-drones-over-four-regions-2024-06-08/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ukraine air defence downs 9 out of 13 Russian drones...June 8, 2024 — Ukrainian air defence and mobile drone hunters groups shot...</p></details>
+   Link:<a href="https://www.reuters.com/world/europe/ukraine-air-defence-downs-9-out-13-russian-drones-over-four-regions-2024-06-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/ukraine-air-defence-downs-9-out-13-russian-drones-over-four-regions-2024-06-08/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ukraine air defence downs 9 out of 13 Russian drones...June 8, 2024 — Ukrainian air defence and mobile drone hunters groups shot...</p></details>
    Published: June 8, 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: techradar.com  
-   Link: <a href="https://www.techradar.com/pro/ukrainian-uav-expert-warns-us-off-the-shelf-drones-will-fail-to-survive-ew-and-every-unit-should-have-their-own-drone-laboratory" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/ukrainian-uav-expert-warns-us-off-the-shelf-drones-will-fail-to-survive-ew-and-every-unit-should-have-their-own-drone-laboratory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Speaking from the First Corps Azov, the officer emphasized that standard unmanned aerial vehicles (UAVs) need frequent modifications to r...</p></details>
+   Link:<a href="https://www.techradar.com/pro/ukrainian-uav-expert-warns-us-off-the-shelf-drones-will-fail-to-survive-ew-and-every-unit-should-have-their-own-drone-laboratory" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/ukrainian-uav-expert-warns-us-off-the-shelf-drones-will-fail-to-survive-ew-and-every-unit-should-have-their-own-drone-laboratory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speaking from the First Corps Azov, the officer emphasized that standard unmanned aerial vehicles (UAVs) need frequent modifications to r...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: forbes.com  
-   Link: <a href="https://www.forbes.com/sites/davidkirichenko/2026/05/03/japans-terra-drone-bets-on-ukraines-cheap-way-to-stop-shaheds/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/davidkirichenko/2026/05/03/japans-terra-drone-bets-on-ukraines-cheap-way-to-stop-shaheds/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Japan&#x27;s Terra Drone Bets On Ukraine&#x27;s Cheap Way To...13 hours ago — At around $2,500 per unit, it sits far below both the targets...</p></details>
+   Link:<a href="https://www.forbes.com/sites/davidkirichenko/2026/05/03/japans-terra-drone-bets-on-ukraines-cheap-way-to-stop-shaheds/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/davidkirichenko/2026/05/03/japans-terra-drone-bets-on-ukraines-cheap-way-to-stop-shaheds/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Japan&#x27;s Terra Drone Bets On Ukraine&#x27;s Cheap Way To...13 hours ago — At around $2,500 per unit, it sits far below both the targets...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: forbes.com  
    Title: ukraine offers drone intercept expertise to gulf states for a price  
-   Link: <a href="https://www.forbes.com/sites/davidkirichenko/2026/03/03/ukraine-offers-drone-intercept-expertise-to-gulf-states--for-a-price/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/davidkirichenko/2026/03/03/ukraine-offers-drone-intercept-expertise-to-gulf-states--for-a-price/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ukraine Offers Drone Intercept Expertise To Gulf States3 Mar 2026 — As Iran scales its drone campaign against U.S. and Gulf targets, Ukra...</p></details>
+   Link:<a href="https://www.forbes.com/sites/davidkirichenko/2026/03/03/ukraine-offers-drone-intercept-expertise-to-gulf-states--for-a-price/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/davidkirichenko/2026/03/03/ukraine-offers-drone-intercept-expertise-to-gulf-states--for-a-price/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ukraine Offers Drone Intercept Expertise To Gulf States3 Mar 2026 — As Iran scales its drone campaign against U.S. and Gulf targets, Ukra...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: forbes.com  
    Title: ukraine turns to autonomous drone interceptors as shahed attacks surge  
-   Link: <a href="https://www.forbes.com/sites/davidkirichenko/2026/03/08/ukraine-turns-to-autonomous-drone-interceptors-as-shahed-attacks-surge/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/davidkirichenko/2026/03/08/ukraine-turns-to-autonomous-drone-interceptors-as-shahed-attacks-surge/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ukraine Turns To Autonomous Drone Interceptors As...8 Mar 2026 — Low-cost, one-way attack drones costing tens of thousands of dollars ar...</p></details>
+   Link:<a href="https://www.forbes.com/sites/davidkirichenko/2026/03/08/ukraine-turns-to-autonomous-drone-interceptors-as-shahed-attacks-surge/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/davidkirichenko/2026/03/08/ukraine-turns-to-autonomous-drone-interceptors-as-shahed-attacks-surge/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ukraine Turns To Autonomous Drone Interceptors As...8 Mar 2026 — Low-cost, one-way attack drones costing tens of thousands of dollars ar...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/business/aerospace-defense/startups-shore-up-ukraines-defences-with-sea-drone-[swarms" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/startups-shore-up-ukraines-defences-with-sea-drone-[swarms</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Startups shore up Ukraine&#x27;s defences with sea drone...Jun 1, 2026 — Startups develop autonomous naval, land drones ・ s of autonomous nav...</p></details>
+   Link:<a href="https://www.reuters.com/business/aerospace-defense/startups-shore-up-ukraines-defences-with-sea-drone-[swarms" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/startups-shore-up-ukraines-defences-with-sea-drone-[swarms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Startups shore up Ukraine&#x27;s defences with sea drone...Jun 1, 2026 — Startups develop autonomous naval, land drones ・ s of autonomous nav...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reuters.com  
    Title: ukraines attack drone fleet faces mini jet engine supply crunch 2026 04 07  
-   Link: <a href="https://www.reuters.com/business/aerospace-defense/ukraines-attack-drone-fleet-faces-mini-jet-engine-supply-crunch-2026-04-07/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/ukraines-attack-drone-fleet-faces-mini-jet-engine-supply-crunch-2026-04-07/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ukraine&#x27;s attack drone fleet faces a mini jet engine supply...Apr 6, 2026 — Mini ​turbojet drones are faster than propeller-driven model...</p></details>
+   Link:<a href="https://www.reuters.com/business/aerospace-defense/ukraines-attack-drone-fleet-faces-mini-jet-engine-supply-crunch-2026-04-07/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/ukraines-attack-drone-fleet-faces-mini-jet-engine-supply-crunch-2026-04-07/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ukraine&#x27;s attack drone fleet faces a mini jet engine supply...Apr 6, 2026 — Mini ​turbojet drones are faster than propeller-driven model...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reuters.com  
    Title: private air defence takes off ukraine 2026 04 29  
-   Link: <a href="https://www.reuters.com/business/aerospace-defense/private-air-defence-takes-off-ukraine-2026-04-29/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/private-air-defence-takes-off-ukraine-2026-04-29/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Private air defence takes off in Ukraine30 Apr 2026 — Ukraine ​is rolling out a new line of defence to protect businesses and critical in...</p></details>
+   Link:<a href="https://www.reuters.com/business/aerospace-defense/private-air-defence-takes-off-ukraine-2026-04-29/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/private-air-defence-takes-off-ukraine-2026-04-29/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Private air defence takes off in Ukraine30 Apr 2026 — Ukraine ​is rolling out a new line of defence to protect businesses and critical in...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reuters.com  
    Title: ukraines drone masters eye iran war kickstart export ambitions 2026 03 30  
-   Link: <a href="https://www.reuters.com/business/aerospace-defense/ukraines-drone-masters-eye-iran-war-kickstart-export-ambitions-2026-03-30/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/ukraines-drone-masters-eye-iran-war-kickstart-export-ambitions-2026-03-30/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ukraine&#x27;s drone masters eye Iran war to kickstart export...Mar 30, 2026 — Ukraine has developed its technology and expertise over years...</p></details>
+   Link:<a href="https://www.reuters.com/business/aerospace-defense/ukraines-drone-masters-eye-iran-war-kickstart-export-ambitions-2026-03-30/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/ukraines-drone-masters-eye-iran-war-kickstart-export-ambitions-2026-03-30/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ukraine&#x27;s drone masters eye Iran war to kickstart export...Mar 30, 2026 — Ukraine has developed its technology and expertise over years...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reuters.com  
    Title: russian drones swarm smaller ukrainian power stations data shows 2026 05 08  
-   Link: <a href="https://www.reuters.com/business/aerospace-defense/russian-drones-swarm-smaller-ukrainian-power-stations-data-shows-2026-05-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/russian-drones-swarm-smaller-ukrainian-power-stations-data-shows-2026-05-08/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Russian drones swarm smaller Ukrainian power stations...8 May 2026 — Between November 2025 and March 2026 Russia launched more than 1,0...</p></details>
+   Link:<a href="https://www.reuters.com/business/aerospace-defense/russian-drones-swarm-smaller-ukrainian-power-stations-data-shows-2026-05-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/russian-drones-swarm-smaller-ukrainian-power-stations-data-shows-2026-05-08/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Russian drones swarm smaller Ukrainian power stations...8 May 2026 — Between November 2025 and March 2026 Russia launched more than 1,0...</p></details>
    Published: May 2026  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/europe/russia-has-fired-7400-missiles-3700-shahed-drones-war-so-far-kyiv-says-2023-12-21/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/russia-has-fired-7400-missiles-3700-shahed-drones-war-so-far-kyiv-says-2023-12-21/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Russia has fired 7400 missiles, 3700 Shahed drones in...Dec 21, 2023 — Ukraine now uses vehicles with mounted machine guns to shoot down...</p></details>
+   Link:<a href="https://www.reuters.com/world/europe/russia-has-fired-7400-missiles-3700-shahed-drones-war-so-far-kyiv-says-2023-12-21/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/russia-has-fired-7400-missiles-3700-shahed-drones-war-so-far-kyiv-says-2023-12-21/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Russia has fired 7400 missiles, 3700 Shahed drones in...Dec 21, 2023 — Ukraine now uses vehicles with mounted machine guns to shoot down...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sahasec.org  
    Title: ukrainian pillar for a modern air defence architecture  
-   Link: <a href="https://sahasec.org/policy-briefs/ukrainian-pillar-for-a-modern-air-defence-architecture/" target="_blank" rel="noopener noreferrer nofollow">https://sahasec.org/policy-briefs/ukrainian-pillar-for-a-modern-air-defence-architecture/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sahaidachnyi Security CenterUkrainian Pillar for a Modern Air Defence Architecture9 Apr 2025 — UAVs deployed monthly in 2024, 3,907 drone...</p></details>
+   Link:<a href="https://sahasec.org/policy-briefs/ukrainian-pillar-for-a-modern-air-defence-architecture/" target="_blank" rel="noopener noreferrer nofollow">https://sahasec.org/policy-briefs/ukrainian-pillar-for-a-modern-air-defence-architecture/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sahaidachnyi Security CenterUkrainian Pillar for a Modern Air Defence Architecture9 Apr 2025 — UAVs deployed monthly in 2024, 3,907 drone...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: english.nv.ua  
-   Link: <a href="https://english.nv.ua/nation/ukrainian-air-defenses-shoot-down-180-russian-uavs-amid-overnight-attack-on-may-19-50609113.html" target="_blank" rel="noopener noreferrer nofollow">https://english.nv.ua/nation/ukrainian-air-defenses-shoot-down-180-russian-uavs-amid-overnight-attack-on-may-19-50609113.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The New Voice of UkraineRussian forces launch 200+ drones on Ukraine, 15 locations hitMay 19, 2026 — Ukrainian defense forces neutralized...</p></details>
+   Link:<a href="https://english.nv.ua/nation/ukrainian-air-defenses-shoot-down-180-russian-uavs-amid-overnight-attack-on-may-19-50609113.html" target="_blank" rel="noopener noreferrer nofollow">https://english.nv.ua/nation/ukrainian-air-defenses-shoot-down-180-russian-uavs-amid-overnight-attack-on-may-19-50609113.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The New Voice of UkraineRussian forces launch 200+ drones on Ukraine, 15 locations hitMay 19, 2026 — Ukrainian defense forces neutralized...</p></details>
    Published: May 19, 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: twz.com  
-   Link: <a href="https://www.twz.com/news-features/inside-ukraines-interceptor-drone-innovations-swatting-down-thousands-of-shahed-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/news-features/inside-ukraines-interceptor-drone-innovations-swatting-down-thousands-of-shahed-drones</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneInside Ukraine&#x27;s Interceptor Drone Innovations Swatting...4 days ago — Brave1 CEO Andrii Hrytseniuk gives us exclusive insig...</p></details>
+   Link:<a href="https://www.twz.com/news-features/inside-ukraines-interceptor-drone-innovations-swatting-down-thousands-of-shahed-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/news-features/inside-ukraines-interceptor-drone-innovations-swatting-down-thousands-of-shahed-drones</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneInside Ukraine&#x27;s Interceptor Drone Innovations Swatting...4 days ago — Brave1 CEO Andrii Hrytseniuk gives us exclusive insig...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: isis-online.org  
-   Link: <a href="https://isis-online.org/isis-reports/monthly-analysis-of-russian-shahed-136-[deployment" target="_blank" rel="noopener noreferrer nofollow">https://isis-online.org/isis-reports/monthly-analysis-of-russian-shahed-136-[deployment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ISIS Science InstituteMonthly Analysis of Russian Shahed 136 Deployment...5 days ago — Ukrainian military observers reported that interc...</p></details>
+   Link:<a href="https://isis-online.org/isis-reports/monthly-analysis-of-russian-shahed-136-[deployment" target="_blank" rel="noopener noreferrer nofollow">https://isis-online.org/isis-reports/monthly-analysis-of-russian-shahed-136-[deployment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ISIS Science InstituteMonthly Analysis of Russian Shahed 136 Deployment...5 days ago — Ukrainian military observers reported that interc...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theins.press  
    Title: simple pattern. A signals, an aim-hold system  
-   Link: <a href="https://theins.press/en/politics/293341" target="_blank" rel="noopener noreferrer nofollow">https://theins.press/en/politics/293341</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The InsiderTurning the tide on a budget: How Ukrainian interceptor...3 days ago — Intercepting a single Shahed requires up to two interc...</p></details>
+   Link:<a href="https://theins.press/en/politics/293341" target="_blank" rel="noopener noreferrer nofollow">https://theins.press/en/politics/293341</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The InsiderTurning the tide on a budget: How Ukrainian interceptor...3 days ago — Intercepting a single Shahed requires up to two interc...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Ukraine" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ukraine</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UkraineUkraine [a] is a country in Eastern Europe. It is the second-largest country in Europe after Russia, which borders it to the ea...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Ukraine" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ukraine</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UkraineUkraine [a] is a country in Eastern Europe. It is the second-largest country in Europe after Russia, which borders it to the ea...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Reuters/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Reuters/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10432043 likes · 878070 talking about this. Welcome to Reuters news on Facebook. We share news from around the world...</p></details>
+   Link:<a href="https://www.facebook.com/Reuters/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Reuters/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10432043 likes · 878070 talking about this. Welcome to Reuters news on Facebook. We share news from around the world...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/ukraine" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/ukraine</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>6 hours ago — 9 June 2026 · Today in Focus · Russia-Ukraine war at a glance · The Guardian view on Ukraine and the prospects of peace: ti...</p></details>
+   Link:<a href="https://www.theguardian.com/world/ukraine" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/ukraine</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6 hours ago — 9 June 2026 · Today in Focus · Russia-Ukraine war at a glance · The Guardian view on Ukraine and the prospects of peace: ti...</p></details>
    Published: June 2026  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: twz.com  
    Title: Read more  
-   Link: <a href="https://www.twz.com/land/cheap-interceptor-drones-proven-in-ukraine-protected-u-s-troops-against-iranian-shaheds" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/land/cheap-interceptor-drones-proven-in-ukraine-protected-u-s-troops-against-iranian-shaheds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cheap Interceptor Drones Proven In Ukraine Protected...16 Apr 2026 — Bottom line: Merops interceptor drones have proven to be a cost-eff...</p></details>
+   Link:<a href="https://www.twz.com/land/cheap-interceptor-drones-proven-in-ukraine-protected-u-s-troops-against-iranian-shaheds" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/land/cheap-interceptor-drones-proven-in-ukraine-protected-u-s-troops-against-iranian-shaheds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cheap Interceptor Drones Proven In Ukraine Protected...16 Apr 2026 — Bottom line: Merops interceptor drones have proven to be a cost-eff...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reutersconnect.com  
-   Link: <a href="https://www.reutersconnect.com/item/ukraine-shot-down-17-of-21-iranian-made-shahed-drones-launched-by-russia/dGFnOnJldXRlcnMuY29tLDIwMjM6bmV3c21sX01UMUxUQU5BMDAwN05YR1BC?position=2&amp;previouslyViewed=dGFnOnJldXRlcnMuY29tLDIwMjM6bmV3c21sX01UMUxUQU5BMDAwVDEzOVIy" target="_blank" rel="noopener noreferrer nofollow">https://www.reutersconnect.com/item/ukraine-shot-down-17-of-21-iranian-made-shahed-drones-launched-by-russia/dGFnOnJldXRlcnMuY29tLDIwMjM6bmV3c21sX01UMUxUQU5BMDAwN05YR1BC?position=2&amp;previouslyViewed=dGFnOnJldXRlcnMuY29tLDIwMjM6bmV3c21sX01UMUxUQU5BMDAwVDEzOVIy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ian-made Shahed-136/131 drones, of which 17 were shot down by Ukrainian air...Read more...</p></details>
+   Link:<a href="https://www.reutersconnect.com/item/ukraine-shot-down-17-of-21-iranian-made-shahed-drones-launched-by-russia/dGFnOnJldXRlcnMuY29tLDIwMjM6bmV3c21sX01UMUxUQU5BMDAwN05YR1BC?position=2&amp;previouslyViewed=dGFnOnJldXRlcnMuY29tLDIwMjM6bmV3c21sX01UMUxUQU5BMDAwVDEzOVIy" target="_blank" rel="noopener noreferrer nofollow">https://www.reutersconnect.com/item/ukraine-shot-down-17-of-21-iranian-made-shahed-drones-launched-by-russia/dGFnOnJldXRlcnMuY29tLDIwMjM6bmV3c21sX01UMUxUQU5BMDAwN05YR1BC?position=2&amp;previouslyViewed=dGFnOnJldXRlcnMuY29tLDIwMjM6bmV3c21sX01UMUxUQU5BMDAwVDEzOVIy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ian-made Shahed-136/131 drones, of which 17 were shot down by Ukrainian air...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reutersconnect.com  
    Title: d GFn On Jld XRlcn Mu Y29t LDIw Mj U6bm V3c21s X1JDMl ZORk E2T01KOA  
-   Link: <a href="https://www.reutersconnect.com/item/ukrainian-servicemen-from-anti-drone-mobile-air-defence-unit-operate-in-kharkiv-region/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMlZORkE2T01KOA" target="_blank" rel="noopener noreferrer nofollow">https://www.reutersconnect.com/item/ukrainian-servicemen-from-anti-drone-mobile-air-defence-unit-operate-in-kharkiv-region/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMlZORkE2T01KOA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ukrainian servicemen from anti-drone mobile air defence...17 Jul 2025 — Servicemen from the mobile air defence unit of the 115th Separat...</p></details>
+   Link:<a href="https://www.reutersconnect.com/item/ukrainian-servicemen-from-anti-drone-mobile-air-defence-unit-operate-in-kharkiv-region/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMlZORkE2T01KOA" target="_blank" rel="noopener noreferrer nofollow">https://www.reutersconnect.com/item/ukrainian-servicemen-from-anti-drone-mobile-air-defence-unit-operate-in-kharkiv-region/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMlZORkE2T01KOA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ukrainian servicemen from anti-drone mobile air defence...17 Jul 2025 — Servicemen from the mobile air defence unit of the 115th Separat...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: english.nv.ua  
-   Link: <a href="https://english.nv.ua/nation/how-territorial-defense-units-protect-kyiv-from-enemy-drones-first-hand-account-50397322.html" target="_blank" rel="noopener noreferrer nofollow">https://english.nv.ua/nation/how-territorial-defense-units-protect-kyiv-from-enemy-drones-first-hand-account-50397322.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>territorial defense units protect Kyiv from enemy dronesFeb 29, 2024 — According to Zhyhun, his battalion is armed with different types o...</p></details>
+   Link:<a href="https://english.nv.ua/nation/how-territorial-defense-units-protect-kyiv-from-enemy-drones-first-hand-account-50397322.html" target="_blank" rel="noopener noreferrer nofollow">https://english.nv.ua/nation/how-territorial-defense-units-protect-kyiv-from-enemy-drones-first-hand-account-50397322.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>territorial defense units protect Kyiv from enemy dronesFeb 29, 2024 — According to Zhyhun, his battalion is armed with different types o...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: hisutton.com  
    Title: Ukrainian Interceptor Drones  
-   Link: <a href="https://www.hisutton.com/Ukrainian-Interceptor-Drones.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hisutton.com/Ukrainian-Interceptor-Drones.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guide To Ukrainian Interceptor Drones23 Nov 2025 — Crucially, they offer a far more cost-effective option: easier to produce, cheaper to...</p></details>
+   Link:<a href="https://www.hisutton.com/Ukrainian-Interceptor-Drones.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hisutton.com/Ukrainian-Interceptor-Drones.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guide To Ukrainian Interceptor Drones23 Nov 2025 — Crucially, they offer a far more cost-effective option: easier to produce, cheaper to...</p></details>
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: businessinsider.com  
-   Link: <a href="https://www.businessinsider.com/top-ukrainian-interceptor-drone-maker-learned-faster-not-always-better-2026-6" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/top-ukrainian-interceptor-drone-maker-learned-faster-not-always-better-2026-6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Initially designed for maximum speed—over 200 mph—engineers later reduced its velocity to improve endurance, reliability, and mission rea...</p></details>
+   Link:<a href="https://www.businessinsider.com/top-ukrainian-interceptor-drone-maker-learned-faster-not-always-better" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/top-ukrainian-interceptor-drone-maker-learned-faster-not-always-better</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Initially designed for maximum speed—over 200 mph—engineers later reduced its velocity to improve endurance, reliability, and mission rea...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: defensenews.com  
-   Link: <a href="https://www.defensenews.com/global/europe/2026/05/05/nato-nations-size-up-an-interceptor-drone-bazaar-where-low-price-is-everything/" target="_blank" rel="noopener noreferrer nofollow">https://www.defensenews.com/global/europe/2026/05/05/nato-nations-size-up-an-interceptor-drone-bazaar-where-low-price-is-everything/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NATO nations size up an interceptor-drone bazaar where...2 days ago — Merops&#x27;s closest peers are Ukrainian drones – which are cheaper, h...</p></details>
+   Link:<a href="https://www.defensenews.com/global/europe/2026/05/05/nato-nations-size-up-an-interceptor-drone-bazaar-where-low-price-is-everything/" target="_blank" rel="noopener noreferrer nofollow">https://www.defensenews.com/global/europe/2026/05/05/nato-nations-size-up-an-interceptor-drone-bazaar-where-low-price-is-everything/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NATO nations size up an interceptor-drone bazaar where...2 days ago — Merops&#x27;s closest peers are Ukrainian drones – which are cheaper, h...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: osmp.ngo  
-   Link: <a href="https://osmp.ngo/collection/shahed-131-136-uavs-a-visual-guide/" target="_blank" rel="noopener noreferrer nofollow">https://osmp.ngo/collection/shahed-131-136-uavs-a-visual-guide/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shahed-131 &amp; -136 UAVs: a visual guideThis interactive displays models of the Shahed-131 and Shahed-136, allowing you to compare key visu...</p></details>
+   Link:<a href="https://osmp.ngo/collection/shahed-131-136-uavs-a-visual-guide/" target="_blank" rel="noopener noreferrer nofollow">https://osmp.ngo/collection/shahed-131-136-uavs-a-visual-guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shahed-131 &amp; -136 UAVs: a visual guideThis interactive displays models of the Shahed-131 and Shahed-136, allowing you to compare key visu...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: drone-warfare.com  
-   Link: <a href="https://drone-warfare.com/research/shahed-136/" target="_blank" rel="noopener noreferrer nofollow">https://drone-warfare.com/research/shahed-136/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shahed-136: Cost, Production Rate, RCS &amp; CountermeasuresThe attacker can currently scale volume faster and cheaper than the defender can...</p></details>
+   Link:<a href="https://drone-warfare.com/research/shahed-136/" target="_blank" rel="noopener noreferrer nofollow">https://drone-warfare.com/research/shahed-136/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shahed-136: Cost, Production Rate, RCS &amp; CountermeasuresThe attacker can currently scale volume faster and cheaper than the defender can...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TELEGRAPH.CO.UK/posts/-ukraines-interceptors-and-electronic-warfare-were-used-to-shoot-down-iranian-sh/1391074929733802/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TELEGRAPH.CO.UK/posts/-ukraines-interceptors-and-electronic-warfare-were-used-to-shoot-down-iranian-sh/1391074929733802/</a>  
+   Link:<a href="https://www.facebook.com/TELEGRAPH.CO.UK/posts/-ukraines-interceptors-and-electronic-warfare-were-used-to-shoot-down-iranian-sh/1391074929733802/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TELEGRAPH.CO.UK/posts/-ukraines-interceptors-and-electronic-warfare-were-used-to-shoot-down-iranian-sh/1391074929733802/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: rsdi.ae  
-   Link: <a href="https://rsdi.ae/en/publications/[counter-drone" target="_blank" rel="noopener noreferrer nofollow">https://rsdi.ae/en/publications/[counter-drone</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Counter-Drone Measures and Gulf Security10 Apr 2026 — This escalating threat has compelled Ukraine to develop low-cost and multi-purpose...</p></details>
+   Link:<a href="https://rsdi.ae/en/publications/[counter-drone" target="_blank" rel="noopener noreferrer nofollow">https://rsdi.ae/en/publications/[counter-drone</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Counter-Drone Measures and Gulf Security10 Apr 2026 — This escalating threat has compelled Ukraine to develop low-cost and multi-purpose...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: gwaramedia.com  
-   Link: <a href="https://gwaramedia.com/en/ukraine-develops-low-cost-interceptor-missiles-to-down-russian-jet-powered-shahed-drone-defense-minister-says/" target="_blank" rel="noopener noreferrer nofollow">https://gwaramedia.com/en/ukraine-develops-low-cost-interceptor-missiles-to-down-russian-jet-powered-shahed-drone-defense-minister-says/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ukraine develops low-cost interceptor missiles to down...May 21, 2026 — Ukraine has actively used interceptor drones to counter Shaheds...</p></details>
+   Link:<a href="https://gwaramedia.com/en/ukraine-develops-low-cost-interceptor-missiles-to-down-russian-jet-powered-shahed-drone-defense-minister-says/" target="_blank" rel="noopener noreferrer nofollow">https://gwaramedia.com/en/ukraine-develops-low-cost-interceptor-missiles-to-down-russian-jet-powered-shahed-drone-defense-minister-says/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ukraine develops low-cost interceptor missiles to down...May 21, 2026 — Ukraine has actively used interceptor drones to counter Shaheds...</p></details>
    Published: May 21, 2026  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: united24media.com  
-   Link: <a href="https://united24media.com/latest-news/ukraine-is-now-deploying-1500-anti-shahed-drones-a-day-and-its-changing-the-air-war-14823" target="_blank" rel="noopener noreferrer nofollow">https://united24media.com/latest-news/ukraine-is-now-deploying-1500-anti-shahed-drones-a-day-and-its-changing-the-air-war-14823</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ukraine Is Now Deploying 1500 Anti-Shahed Drones a...7 Jan 2026 — Ukrainian forces are receiving over 1500 anti-Shahed drones daily, enh...</p></details>
+   Link:<a href="https://united24media.com/latest-news/ukraine-is-now-deploying-1500-anti-shahed-drones-a-day-and-its-changing-the-air-war-14823" target="_blank" rel="noopener noreferrer nofollow">https://united24media.com/latest-news/ukraine-is-now-deploying-1500-anti-shahed-drones-a-day-and-its-changing-the-air-war-14823</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ukraine Is Now Deploying 1500 Anti-Shahed Drones a...7 Jan 2026 — Ukrainian forces are receiving over 1500 anti-Shahed drones daily, enh...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: breakingdefense.com  
-   Link: <a href="https://breakingdefense.com/2026/04/in-a-first-ukraines-drone-force-launches-interceptor-drone-from-usv-to-destroy-shahed/" target="_blank" rel="noopener noreferrer nofollow">https://breakingdefense.com/2026/04/in-a-first-ukraines-drone-force-launches-interceptor-drone-from-usv-to-destroy-shahed/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In a first, Ukraine&#x27;s drone force launches interceptor...21 Apr 2026 — MILAN — Ukraine has said that its elite drone force has destroyed...</p></details>
+   Link:<a href="https://breakingdefense.com/2026/04/in-a-first-ukraines-drone-force-launches-interceptor-drone-from-usv-to-destroy-shahed/" target="_blank" rel="noopener noreferrer nofollow">https://breakingdefense.com/2026/04/in-a-first-ukraines-drone-force-launches-interceptor-drone-from-usv-to-destroy-shahed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In a first, Ukraine&#x27;s drone force launches interceptor...21 Apr 2026 — MILAN — Ukraine has said that its elite drone force has destroyed...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: euromaidanpress.com  
-   Link: <a href="https://euromaidanpress.com/2026/04/28/ukraine-doubled-all-of-2025s-interceptor-drones-in-just-four-months-minister-says/" target="_blank" rel="noopener noreferrer nofollow">https://euromaidanpress.com/2026/04/28/ukraine-doubled-all-of-2025s-interceptor-drones-in-just-four-months-minister-says/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ukraine doubled all of 2025&#x27;s interceptor drones in just four...6 days ago — They cost hundreds of times less than missile systems and d...</p></details>
+   Link:<a href="https://euromaidanpress.com/2026/04/28/ukraine-doubled-all-of-2025s-interceptor-drones-in-just-four-months-minister-says/" target="_blank" rel="noopener noreferrer nofollow">https://euromaidanpress.com/2026/04/28/ukraine-doubled-all-of-2025s-interceptor-drones-in-just-four-months-minister-says/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ukraine doubled all of 2025&#x27;s interceptor drones in just four...6 days ago — They cost hundreds of times less than missile systems and d...</p></details>

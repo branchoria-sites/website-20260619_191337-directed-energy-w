@@ -269,32 +269,32 @@ image: /assets/images/Directed_Ener_98f417_power_cooling_afc91e_laser_host_pl_9b
 
 ## Introduction
 
-Airborne laser weapons have long promised a powerful advantage: an aircraft can rapidly reposition, gain favourable lines of sight, and engage targets far from [fixed bases]({{ 'base-defence/' | relative_url }}). Yet the history of airborne laser programmes shows that proving a laser can destroy a target is not the same as fielding a practical weapon system. The central challenge has rarely been the beam alone. Aircraft must also carry the power source, cooling equipment, optics, tracking systems, operators and fuel needed to make the laser useful in combat. When those supporting requirements are added, weight, volume and endurance margins disappear quickly. The result is that several airborne laser programmes achieved remarkable technical successes while simultaneously exposing why aircraft are often harder [laser hosts]({{ 'host-platforms/' | relative_url }}) than ships. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Boeing_YAL-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2AFTC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Boeing YAL 1</span><span class="citation-popover-snippet">Boeing YAL-1March 2, 2026 — Funding for the program was cut in 2010 and the program was canceled in December 2011. It made its final flig...</span><span class="citation-popover-meta">Published: March 2, 2026</span></span></span>
+Airborne laser weapons have long promised a powerful advantage: an aircraft can rapidly reposition, gain favourable lines of sight, and engage targets far from [fixed bases]({{ 'base-defence/' | relative_url }}). Yet the history of airborne laser programmes shows that proving a laser can destroy a target is not the same as fielding a practical weapon system. The central challenge has rarely been the beam alone. Aircraft must also carry the power source, cooling equipment, optics, tracking systems, operators and fuel needed to make the laser useful in combat. When those supporting requirements are added, weight, volume and endurance margins disappear quickly. The result is that several airborne laser programmes achieved remarkable technical successes while simultaneously exposing why aircraft are often harder [laser hosts]({{ 'host-platforms/' | relative_url }}) than ships.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Boeing_YAL-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2AFTC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Boeing YAL 1</span><span class="citation-popover-snippet">Boeing YAL-1March 2, 2026 — Funding for the program was cut in 2010 and the program was canceled in December 2011. It made its final flig...</span><span class="citation-popover-meta">Published: March 2, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_power_cooling_afc91e_laser_host_pl_9b81d1_airborne_lase_c4101f-Illustration-1-dark.svg" | relative_url }}" alt="Airborne Limits illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_power_cooling_afc91e_laser_host_pl_9b81d1_airborne_lase_c4101f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_power_cooling_afc91e_laser_host_pl_9b81d1_airborne_lase_c4101f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Aircraft Add Beyond the Laser Itself
 
-A high-energy laser is only one component of an airborne directed-energy system. The aircraft must also support target detection, beam control, [adaptive optics]({{ 'adaptive-optics/' | relative_url }}), power conditioning, thermal management and mission systems. These supporting elements can occupy far more space and mass than the laser emitter itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Boeing_YAL-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Boeing YAL 1</span><span class="citation-popover-snippet">Boeing YAL-1March 2, 2026 — Funding for the program was cut in 2010 and the program was canceled in December 2011. It made its final flig...</span><span class="citation-popover-meta">Published: March 2, 2026</span></span></span>
+A high-energy laser is only one component of an airborne directed-energy system. The aircraft must also support target detection, beam control, [adaptive optics]({{ 'adaptive-optics/' | relative_url }}), power conditioning, thermal management and mission systems. These supporting elements can occupy far more space and mass than the laser emitter itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Boeing_YAL-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Boeing YAL 1</span><span class="citation-popover-snippet">Boeing YAL-1March 2, 2026 — Funding for the program was cut in 2010 and the program was canceled in December 2011. It made its final flig...</span><span class="citation-popover-meta">Published: March 2, 2026</span></span></span>
 
-The best-known example was the Boeing YAL-1 Airborne Laser Testbed. Rather than fitting a laser into a fighter-sized aircraft, engineers modified a Boeing 747 freighter because only a very large airframe could accommodate the required equipment. The aircraft carried a megawatt-class Chemical Oxygen Iodine Laser (COIL), extensive beam-control hardware and a large nose-mounted turret. The laser itself consisted of six major modules, each roughly the size of a sport utility vehicle and weighing several tonnes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Boeing_YAL-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Boeing YAL 1</span><span class="citation-popover-snippet">Boeing YAL-1March 2, 2026 — Funding for the program was cut in 2010 and the program was canceled in December 2011. It made its final flig...</span><span class="citation-popover-meta">Published: March 2, 2026</span></span></span>
+The best-known example was the Boeing YAL-1 Airborne Laser Testbed. Rather than fitting a laser into a fighter-sized aircraft, engineers modified a Boeing 747 freighter because only a very large airframe could accommodate the required equipment. The aircraft carried a megawatt-class Chemical Oxygen Iodine Laser (COIL), extensive beam-control hardware and a large nose-mounted turret. The laser itself consisted of six major modules, each roughly the size of a sport utility vehicle and weighing several tonnes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Boeing_YAL-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Boeing YAL 1</span><span class="citation-popover-snippet">Boeing YAL-1March 2, 2026 — Funding for the program was cut in 2010 and the program was canceled in December 2011. It made its final flig...</span><span class="citation-popover-meta">Published: March 2, 2026</span></span></span>
 
-Importantly, the programme demonstrated that airborne laser engagement was physically possible. In 2010, the YAL-1 successfully destroyed ballistic missile targets during their boost phase, marking a historic directed-energy achievement. The technical accomplishment was genuine; the challenge was turning that demonstration into an operational capability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aftc.af.mil/News/On-This-Day-in-Test-History/Article-Display-Test-History/Article/2462050/february-3-2010-testing-of-yal-1-airborne-laser-test-bed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aftc.af.mil">[AFTC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aftc.af.mil</span><span class="citation-popover-title">february 3 2010 testing of yal 1 airborne laser test bed</span><span class="citation-popover-snippet">February 3, 2010: Testing of YAL-1 Airborne Laser Test Bed3 Feb 2021 — The Boeing YAL-1 Airborne Laser Testbed (formerly Airborne Las...</span><span class="citation-popover-meta">Published: February 3, 2010</span></span></span>
+Importantly, the programme demonstrated that airborne laser engagement was physically possible. In 2010, the YAL-1 successfully destroyed ballistic missile targets during their boost phase, marking a historic directed-energy achievement. The technical accomplishment was genuine; the challenge was turning that demonstration into an operational capability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aftc.af.mil/News/On-This-Day-in-Test-History/Article-Display-Test-History/Article/2462050/february-3-2010-testing-of-yal-1-airborne-laser-test-bed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aftc.af.mil">[AFTC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aftc.af.mil</span><span class="citation-popover-title">february 3 2010 testing of yal 1 airborne laser test bed</span><span class="citation-popover-snippet">February 3, 2010: Testing of YAL-1 Airborne Laser Test Bed3 Feb 2021 — The Boeing YAL-1 Airborne Laser Testbed (formerly Airborne Las...</span><span class="citation-popover-meta">Published: February 3, 2010</span></span></span>
 
-Earlier efforts reached similar conclusions. The Airborne Laser Laboratory mounted on a modified KC-135 tanker in the late Cold War successfully engaged missile targets and advanced technologies such as adaptive optics. However, it remained a test platform rather than a deployable weapon system, illustrating how laboratory success and operational practicality are separate hurdles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Airborne_Laser" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Airborne Laser</span><span class="citation-popover-snippet">Airborne Laser</span></span></span>
+Earlier efforts reached similar conclusions. The Airborne Laser Laboratory mounted on a modified KC-135 tanker in the late Cold War successfully engaged missile targets and advanced technologies such as adaptive optics. However, it remained a test platform rather than a deployable weapon system, illustrating how laboratory success and operational practicality are separate hurdles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Airborne_Laser" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Airborne Laser</span><span class="citation-popover-snippet">Airborne Laser</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MmkYcEcSLvA" title="New Airborne Laser TestBed Footage, Missile Shot Down 2/11/2010 First Successful Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MmkYcEcSLvA" target="_blank" rel="noopener noreferrer">New Airborne Laser TestBed Footage, Missile Shot Down 2/11/2010 First Successful Test</a></p><p class="youtube-embed-meta">Channel: AVweb</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MmkYcEcSLvA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MmkYcEcSLvA">Open on YouTube</a></p></div></div></div>
 
 ## How Payload and Endurance Trade-offs Appear
 
-Aircraft operate under unforgiving payload constraints. Every kilogram devoted to laser hardware reduces the mass available for fuel, weapons, sensors or defensive systems. Unlike a ship, which can often absorb large new subsystems without fundamentally changing its mission profile, an aircraft's performance can be altered dramatically by added weight and volume. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Boeing_YAL-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Boeing YAL 1</span><span class="citation-popover-snippet">Boeing YAL-1March 2, 2026 — Funding for the program was cut in 2010 and the program was canceled in December 2011. It made its final flig...</span><span class="citation-popover-meta">Published: March 2, 2026</span></span></span>
+Aircraft operate under unforgiving payload constraints. Every kilogram devoted to laser hardware reduces the mass available for fuel, weapons, sensors or defensive systems. Unlike a ship, which can often absorb large new subsystems without fundamentally changing its mission profile, an aircraft's performance can be altered dramatically by added weight and volume.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Boeing_YAL-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Boeing YAL 1</span><span class="citation-popover-snippet">Boeing YAL-1March 2, 2026 — Funding for the program was cut in 2010 and the program was canceled in December 2011. It made its final flig...</span><span class="citation-popover-meta">Published: March 2, 2026</span></span></span>
 
-The YAL-1 illustrates this problem clearly. The aircraft was not merely carrying a laser; it was carrying the chemicals required to generate laser energy, the optical train needed to direct the beam, and the systems needed to stabilise and control it. As a result, the weapon occupied a substantial portion of a large commercial airframe. The platform could prove a concept, but scaling the idea into an affordable operational fleet became increasingly difficult. Programme estimates eventually suggested that multiple specialised aircraft would be required for meaningful coverage, driving costs and logistical demands upward. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Boeing_YAL-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Boeing YAL-1</span><span class="citation-popover-snippet">Boeing YAL-1</span></span></span>
+The YAL-1 illustrates this problem clearly. The aircraft was not merely carrying a laser; it was carrying the chemicals required to generate laser energy, the optical train needed to direct the beam, and the systems needed to stabilise and control it. As a result, the weapon occupied a substantial portion of a large commercial airframe. The platform could prove a concept, but scaling the idea into an affordable operational fleet became increasingly difficult. Programme estimates eventually suggested that multiple specialised aircraft would be required for meaningful coverage, driving costs and logistical demands upward.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Boeing_YAL-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Boeing YAL-1</span><span class="citation-popover-snippet">Boeing YAL-1</span></span></span>
 
-Thermal management creates another penalty. High-energy lasers generate significant waste heat. On an aircraft, every cooling system adds weight and consumes valuable internal volume. Heat must be managed while airborne, with far less room for pumps, heat exchangers and [thermal storage]({{ 'thermal-storage/' | relative_url }}) than a warship can accommodate. Even when a laser can fire successfully, sustaining repeated engagements without degrading aircraft performance remains a major [engineering]({{ 'engineering/' | relative_url }}) challenge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/the-dock-on-the-bay/usaf-cancels-trials-of-laser-defences-for-fighter-aircraft-04338d8a7f4f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">USAF Cancels Trials of Laser Defences for Fighter AircraftThe USAF SHiELD program has terminated but what has been learned about th...</span></span></span>
+Thermal management creates another penalty. High-energy lasers generate significant waste heat. On an aircraft, every cooling system adds weight and consumes valuable internal volume. Heat must be managed while airborne, with far less room for pumps, heat exchangers and [thermal storage]({{ 'thermal-storage/' | relative_url }}) than a warship can accommodate. Even when a laser can fire successfully, sustaining repeated engagements without degrading aircraft performance remains a major [engineering]({{ 'engineering/' | relative_url }}) challenge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/the-dock-on-the-bay/usaf-cancels-trials-of-laser-defences-for-fighter-aircraft-04338d8a7f4f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">USAF Cancels Trials of Laser Defences for Fighter AircraftThe USAF SHiELD program has terminated but what has been learned about th...</span></span></span>
 
-Endurance is also affected by mission geometry. Aircraft carrying large laser systems may need to loiter for extended periods while retaining enough fuel to reach and engage targets. Fuel consumed supporting a laser mission is fuel unavailable for range or time on station. In practice, airborne laser concepts often face a three-way competition between energy [generation]({{ 'generation-ii/' | relative_url }}), [cooling]({{ 'cooling/' | relative_url }}) capacity and flight endurance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://migflug.com/jetflights/yal-1-airborne-laser-boeing-747-megawatt-coil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: migflug.com">[MiGFlug]</a><span class="citation-popover" role="note"><span class="citation-popover-source">migflug.com</span><span class="citation-popover-title">The engineering, the geometry,</span><span class="citation-popover-snippet">YAL-1: The 747 With a Megawatt Laser Strapped InsideMay 30, 2026 — 30 May 2026 — Boeing&#x27;s YAL-1 Airborne Laser shot down two balli...</span><span class="citation-popover-meta">Published: May 30, 2026</span></span></span>
+Endurance is also affected by mission geometry. Aircraft carrying large laser systems may need to loiter for extended periods while retaining enough fuel to reach and engage targets. Fuel consumed supporting a laser mission is fuel unavailable for range or time on station. In practice, airborne laser concepts often face a three-way competition between energy [generation]({{ 'generation-ii/' | relative_url }}), [cooling]({{ 'cooling/' | relative_url }}) capacity and flight endurance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://migflug.com/jetflights/yal-1-airborne-laser-boeing-747-megawatt-coil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: migflug.com">[MiGFlug]</a><span class="citation-popover" role="note"><span class="citation-popover-source">migflug.com</span><span class="citation-popover-title">The engineering, the geometry,</span><span class="citation-popover-snippet">YAL-1: The 747 With a Megawatt Laser Strapped InsideMay 30, 2026 — 30 May 2026 — Boeing&#x27;s YAL-1 Airborne Laser shot down two balli...</span><span class="citation-popover-meta">Published: May 30, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_power_cooling_afc91e_laser_host_pl_9b81d1_airborne_lase_c4101f-Illustration-2-dark.svg" | relative_url }}" alt="Airborne Limits illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_power_cooling_afc91e_laser_host_pl_9b81d1_airborne_lase_c4101f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_power_cooling_afc91e_laser_host_pl_9b81d1_airborne_lase_c4101f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -302,11 +302,11 @@ Endurance is also affected by mission geometry. Aircraft carrying large laser sy
 
 One of the most revealing lessons from airborne laser programmes is that successful target destruction did not automatically produce a useful military system.
 
-The YAL-1 was designed primarily for boost-phase ballistic missile defence. That mission required the aircraft to be relatively close to missile launch sites because boost phases last only a few minutes. Analysts and programme critics argued that this geometry could force aircraft into dangerous airspace or require persistent patrols near hostile territory. As a result, the operational concept became increasingly difficult to justify even after successful missile intercept demonstrations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://migflug.com/jetflights/yal-1-airborne-laser-boeing-747-megawatt-coil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: migflug.com">[MiGFlug+2Arms Control Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">migflug.com</span><span class="citation-popover-title">The engineering, the geometry,</span><span class="citation-popover-snippet">YAL-1: The 747 With a Megawatt Laser Strapped InsideMay 30, 2026 — 30 May 2026 — Boeing&#x27;s YAL-1 Airborne Laser shot down two balli...</span><span class="citation-popover-meta">Published: May 30, 2026</span></span></span>
+The YAL-1 was designed primarily for boost-phase ballistic missile defence. That mission required the aircraft to be relatively close to missile launch sites because boost phases last only a few minutes. Analysts and programme critics argued that this geometry could force aircraft into dangerous airspace or require persistent patrols near hostile territory. As a result, the operational concept became increasingly difficult to justify even after successful missile intercept demonstrations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://migflug.com/jetflights/yal-1-airborne-laser-boeing-747-megawatt-coil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: migflug.com">[MiGFlug+2Arms Control Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">migflug.com</span><span class="citation-popover-title">The engineering, the geometry,</span><span class="citation-popover-snippet">YAL-1: The 747 With a Megawatt Laser Strapped InsideMay 30, 2026 — 30 May 2026 — Boeing&#x27;s YAL-1 Airborne Laser shot down two balli...</span><span class="citation-popover-meta">Published: May 30, 2026</span></span></span>
 
-This distinction matters. The programme did not fail because lasers could not damage missiles. It succeeded in demonstrating that capability. Instead, it exposed how aircraft hosting requirements, mission positioning constraints, survivability concerns and sustainment costs can overwhelm a technically successful weapon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aftc.af.mil/News/On-This-Day-in-Test-History/Article-Display-Test-History/Article/2462050/february-3-2010-testing-of-yal-1-airborne-laser-test-bed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aftc.af.mil">[AFTC+2MediaRoom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aftc.af.mil</span><span class="citation-popover-title">february 3 2010 testing of yal 1 airborne laser test bed</span><span class="citation-popover-snippet">February 3, 2010: Testing of YAL-1 Airborne Laser Test Bed3 Feb 2021 — The Boeing YAL-1 Airborne Laser Testbed (formerly Airborne Las...</span><span class="citation-popover-meta">Published: February 3, 2010</span></span></span>
+This distinction matters. The programme did not fail because lasers could not damage missiles. It succeeded in demonstrating that capability. Instead, it exposed how aircraft hosting requirements, mission positioning constraints, survivability concerns and sustainment costs can overwhelm a technically successful weapon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aftc.af.mil/News/On-This-Day-in-Test-History/Article-Display-Test-History/Article/2462050/february-3-2010-testing-of-yal-1-airborne-laser-test-bed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aftc.af.mil">[AFTC+2MediaRoom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aftc.af.mil</span><span class="citation-popover-title">february 3 2010 testing of yal 1 airborne laser test bed</span><span class="citation-popover-snippet">February 3, 2010: Testing of YAL-1 Airborne Laser Test Bed3 Feb 2021 — The Boeing YAL-1 Airborne Laser Testbed (formerly Airborne Las...</span><span class="citation-popover-meta">Published: February 3, 2010</span></span></span>
 
-The same pattern has appeared in later airborne laser efforts. Programmes aimed at fitting defensive lasers onto tactical aircraft pursued lower-power systems intended to defeat incoming missiles rather than destroy ballistic missiles at long range. These concepts reduced the required power levels but still encountered difficult integration challenges involving size, weight, power generation and thermal management. Recent programme adjustments and cancellations have reflected the continuing difficulty of fitting useful laser capability into aircraft-sized power and cooling budgets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/the-dock-on-the-bay/usaf-cancels-trials-of-laser-defences-for-fighter-aircraft-04338d8a7f4f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">USAF Cancels Trials of Laser Defences for Fighter AircraftThe USAF SHiELD program has terminated but what has been learned about th...</span></span></span>
+The same pattern has appeared in later airborne laser efforts. Programmes aimed at fitting defensive lasers onto tactical aircraft pursued lower-power systems intended to defeat incoming missiles rather than destroy ballistic missiles at long range. These concepts reduced the required power levels but still encountered difficult integration challenges involving size, weight, power generation and thermal management. Recent programme adjustments and cancellations have reflected the continuing difficulty of fitting useful laser capability into aircraft-sized power and cooling budgets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/the-dock-on-the-bay/usaf-cancels-trials-of-laser-defences-for-fighter-aircraft-04338d8a7f4f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">USAF Cancels Trials of Laser Defences for Fighter AircraftThe USAF SHiELD program has terminated but what has been learned about th...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rLav0zMHut8" title="Tactical Airborne Laser Weapon System (TALWS)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rLav0zMHut8" target="_blank" rel="noopener noreferrer">Tactical Airborne Laser Weapon System (TALWS)</a></p><p class="youtube-embed-meta">Channel: Lockheed Martin</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rLav0zMHut8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rLav0zMHut8">Open on YouTube</a></p></div></div></div>
@@ -318,204 +318,204 @@ The same pattern has appeared in later airborne laser efforts. Programmes aimed 
 
 The contrast with naval laser programmes helps explain why operational [deployment]({{ 'deployment/' | relative_url }}) arrived at sea sooner than in the air.
 
-Ships offer larger electrical generation capacity, greater internal volume and access to extensive cooling systems. A destroyer or other warship can distribute laser support equipment across multiple compartments and continuously generate power while underway. Aircraft must carry everything required for the mission within strict flight-performance limits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Boeing_YAL-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Boeing YAL 1</span><span class="citation-popover-snippet">Boeing YAL-1March 2, 2026 — Funding for the program was cut in 2010 and the program was canceled in December 2011. It made its final flig...</span><span class="citation-popover-meta">Published: March 2, 2026</span></span></span>
+Ships offer larger electrical generation capacity, greater internal volume and access to extensive cooling systems. A destroyer or other warship can distribute laser support equipment across multiple compartments and continuously generate power while underway. Aircraft must carry everything required for the mission within strict flight-performance limits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Boeing_YAL-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Boeing YAL 1</span><span class="citation-popover-snippet">Boeing YAL-1March 2, 2026 — Funding for the program was cut in 2010 and the program was canceled in December 2011. It made its final flig...</span><span class="citation-popover-meta">Published: March 2, 2026</span></span></span>
 
-Airborne laser history therefore reinforces a broader lesson in directed-energy development: platform integration can be more decisive than laser performance. The YAL-1 and related programmes demonstrated impressive beam control, target tracking and interception capabilities. However, they also revealed how quickly power demands, cooling requirements, payload penalties and operational constraints accumulate once a laser leaves the laboratory and becomes part of an aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Boeing_YAL-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2AFTC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Boeing YAL 1</span><span class="citation-popover-snippet">Boeing YAL-1March 2, 2026 — Funding for the program was cut in 2010 and the program was canceled in December 2011. It made its final flig...</span><span class="citation-popover-meta">Published: March 2, 2026</span></span></span>
+Airborne laser history therefore reinforces a broader lesson in directed-energy development: platform integration can be more decisive than laser performance. The YAL-1 and related programmes demonstrated impressive beam control, target tracking and interception capabilities. However, they also revealed how quickly power demands, cooling requirements, payload penalties and operational constraints accumulate once a laser leaves the laboratory and becomes part of an aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Boeing_YAL-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2AFTC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Boeing YAL 1</span><span class="citation-popover-snippet">Boeing YAL-1March 2, 2026 — Funding for the program was cut in 2010 and the program was canceled in December 2011. It made its final flig...</span><span class="citation-popover-meta">Published: March 2, 2026</span></span></span>
 
-For that reason, airborne laser programmes remain some of the most valuable case studies in directed-energy weapons. They proved that high-energy lasers could work in flight, but they also showed why fitting an effective laser onto an aircraft is often a far harder engineering problem than the laser itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Boeing_YAL-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2AFTC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Boeing YAL 1</span><span class="citation-popover-snippet">Boeing YAL-1March 2, 2026 — Funding for the program was cut in 2010 and the program was canceled in December 2011. It made its final flig...</span><span class="citation-popover-meta">Published: March 2, 2026</span></span></span>
+For that reason, airborne laser programmes remain some of the most valuable case studies in directed-energy weapons. They proved that high-energy lasers could work in flight, but they also showed why fitting an effective laser onto an aircraft is often a far harder engineering problem than the laser itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Boeing_YAL-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2AFTC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Boeing YAL 1</span><span class="citation-popover-snippet">Boeing YAL-1March 2, 2026 — Funding for the program was cut in 2010 and the program was canceled in December 2011. It made its final flig...</span><span class="citation-popover-meta">Published: March 2, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_power_cooling_afc91e_laser_host_pl_9b81d1_airborne_lase_c4101f-Illustration-3-dark.svg" | relative_url }}" alt="Airborne Limits illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_power_cooling_afc91e_laser_host_pl_9b81d1_airborne_lase_c4101f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_power_cooling_afc91e_laser_host_pl_9b81d1_airborne_lase_c4101f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Aircraft Lasers Are Harder Than They Look. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Aircraft Lasers Are Harder Than They Look. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12408854-M.jpg" alt="Cover for Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pentagon&#x27;s Brain">Pentagon&#x27;s Brain</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12408854-M.jpg" alt="Cover for Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pentagon&#x27;s Brain">Pentagon&#x27;s Brain</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Places ambitious military technology efforts, including advanced weapon concepts, into historical context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places ambitious military technology efforts, including advanced weapon concepts, into historical context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides insight into the systems-engineering, aerospace integration, and tradeoff problems similar to those faced by advanced airborne l...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides insight into the systems-engineering, aerospace integration, and tradeoff problems similar to those faced by advanced airborne l...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Places ambitious military technology efforts, including advanced weapon concepts, into historical context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places ambitious military technology efforts, including advanced weapon concepts, into historical context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Modern+Ew+Systems+Andrea+De+Martino&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Modern Ew Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9217588-M.jpg" alt="Cover for Introduction to Modern Ew Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Modern+Ew+Systems+Andrea+De+Martino&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Modern Ew Systems">Introduction to Modern Ew Systems</a>
-        </h4>
-        <p class="fr-book-author">By Andrea De Martino</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Modern+Ew+Systems+Andrea+De+Martino&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Modern Ew Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9217588-M.jpg" alt="Cover for Introduction to Modern Ew Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Modern+Ew+Systems+Andrea+De+Martino&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Modern Ew Systems">Introduction to Modern Ew Systems</a>
+</h4>
+<p class="fr-book-author">By Andrea De Martino</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Electronics in military engineering, Electronic countermeasures, Contre-mesures électroniques, TECHNOLOGY...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Modern+Ew+Systems+Andrea+De+Martino&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Electronics in military engineering, Electronic countermeasures, Contre-mesures électroniques, TECHNOLOGY...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Modern+Ew+Systems+Andrea+De+Martino&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Pentagon&#x27;s Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Pentagon&#x27;s Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver"><img src="{{ '/assets/images/marketplace-covers/82e58d339e7f0c9303f6.jpg' | relative_url }}" alt="Listing image for Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver"><img src="{{ '/assets/images/marketplace-covers/82e58d339e7f0c9303f6.jpg' | relative_url }}" alt="Listing image for Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bristol Blenheim IV Military Aircraft Model on Display Stand - Military Theme"><img src="{{ '/assets/images/marketplace-covers/63955ad7bd8eef29faf0.jpg' | relative_url }}" alt="Listing image for Bristol Blenheim IV Military Aircraft Model on Display Stand - Military Theme" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Bristol Blenheim IV Military Aircraft Model on Display Stand - Military Theme</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bristol Blenheim IV Military Aircraft Model on Display Stand - Military Theme"><img src="{{ '/assets/images/marketplace-covers/63955ad7bd8eef29faf0.jpg' | relative_url }}" alt="Listing image for Bristol Blenheim IV Military Aircraft Model on Display Stand - Military Theme" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Bristol Blenheim IV Military Aircraft Model on Display Stand - Military Theme</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit"><img src="{{ '/assets/images/marketplace-covers/27432518884c3690bbc0.jpg' | relative_url }}" alt="Listing image for 1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit"><img src="{{ '/assets/images/marketplace-covers/27432518884c3690bbc0.jpg' | relative_url }}" alt="Listing image for 1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atlas Jet Age Military Aircraft Vickers Valiant 1:144 Model Anti-Flash Paint"><img src="{{ '/assets/images/marketplace-covers/51336538ae02baeb5eee.jpg' | relative_url }}" alt="Listing image for Atlas Jet Age Military Aircraft Vickers Valiant 1:144 Model Anti-Flash Paint" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Atlas Jet Age Military Aircraft Vickers Valiant 1:144 Model Anti-Flash Paint</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atlas Jet Age Military Aircraft Vickers Valiant 1:144 Model Anti-Flash Paint"><img src="{{ '/assets/images/marketplace-covers/51336538ae02baeb5eee.jpg' | relative_url }}" alt="Listing image for Atlas Jet Age Military Aircraft Vickers Valiant 1:144 Model Anti-Flash Paint" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Atlas Jet Age Military Aircraft Vickers Valiant 1:144 Model Anti-Flash Paint</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="airborne-limits-why-aircraft-lasers-are-harder-than-they-look-directed-ener-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -531,7 +531,7 @@ For that reason, airborne laser programmes remain some of the most valuable case
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -551,7 +551,7 @@ For that reason, airborne laser programmes remain some of the most valuable case
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -583,7 +583,7 @@ For that reason, airborne laser programmes remain some of the most valuable case
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -635,7 +635,7 @@ For that reason, airborne laser programmes remain some of the most valuable case
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -680,7 +680,7 @@ For that reason, airborne laser programmes remain some of the most valuable case
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -721,110 +721,110 @@ For that reason, airborne laser programmes remain some of the most valuable case
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Boeing YAL 1  
-   Link: <a href="https://en.wikipedia.org/wiki/Boeing_YAL-1" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Boeing_YAL-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Boeing YAL-1March 2, 2026 — Funding for the program was cut in 2010 and the program was canceled in December 2011. It made its final flig...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Boeing_YAL-1" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Boeing_YAL-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boeing YAL-1March 2, 2026 — Funding for the program was cut in 2010 and the program was canceled in December 2011. It made its final flig...</p></details>
    Published: March 2, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aftc.af.mil  
    Title: february 3 2010 testing of yal 1 airborne laser test bed  
-   Link: <a href="https://www.aftc.af.mil/News/On-This-Day-in-Test-History/Article-Display-Test-History/Article/2462050/february-3-2010-testing-of-yal-1-airborne-laser-test-bed/" target="_blank" rel="noopener noreferrer nofollow">https://www.aftc.af.mil/News/On-This-Day-in-Test-History/Article-Display-Test-History/Article/2462050/february-3-2010-testing-of-yal-1-airborne-laser-test-bed/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 3, 2010: Testing of YAL-1 Airborne Laser Test Bed3 Feb 2021 — The Boeing YAL-1 Airborne Laser Testbed (formerly Airborne Las...</p></details>
+   Link:<a href="https://www.aftc.af.mil/News/On-This-Day-in-Test-History/Article-Display-Test-History/Article/2462050/february-3-2010-testing-of-yal-1-airborne-laser-test-bed/" target="_blank" rel="noopener noreferrer nofollow">https://www.aftc.af.mil/News/On-This-Day-in-Test-History/Article-Display-Test-History/Article/2462050/february-3-2010-testing-of-yal-1-airborne-laser-test-bed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 3, 2010: Testing of YAL-1 Airborne Laser Test Bed3 Feb 2021 — The Boeing YAL-1 Airborne Laser Testbed (formerly Airborne Las...</p></details>
    Published: February 3, 2010  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: boeing.mediaroom.com  
-   Link: <a href="https://boeing.mediaroom.com/2010-02-12-Boeing-Airborne-Laser-Testbed-Team-Destroys-Boosting-Ballistic-Missile" target="_blank" rel="noopener noreferrer nofollow">https://boeing.mediaroom.com/2010-02-12-Boeing-Airborne-Laser-Testbed-Team-Destroys-Boosting-Ballistic-Missile</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Airborne Laser Testbed Team Destroys Boosting...12 Feb 2010 — &quot;With this successful experiment, the Airborne Laser Testbed has blazed a...</p></details>
+   Link:<a href="https://boeing.mediaroom.com/2010-02-12-Boeing-Airborne-Laser-Testbed-Team-Destroys-Boosting-Ballistic-Missile" target="_blank" rel="noopener noreferrer nofollow">https://boeing.mediaroom.com/2010-02-12-Boeing-Airborne-Laser-Testbed-Team-Destroys-Boosting-Ballistic-Missile</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Airborne Laser Testbed Team Destroys Boosting...12 Feb 2010 — &quot;With this successful experiment, the Airborne Laser Testbed has blazed a...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Airborne Laser  
-   Link: <a href="https://en.wikipedia.org/wiki/Airborne_Laser" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Airborne_Laser</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Airborne_Laser" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Airborne_Laser</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Boeing YAL-1  
-   Link: <a href="https://es.wikipedia.org/wiki/Boeing_YAL-1" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Boeing_YAL-1</a>  
+   Link:<a href="https://es.wikipedia.org/wiki/Boeing_YAL-1" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Boeing_YAL-1</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-dock-on-the-bay/usaf-cancels-trials-of-laser-defences-for-fighter-aircraft-04338d8a7f4f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-dock-on-the-bay/usaf-cancels-trials-of-laser-defences-for-fighter-aircraft-04338d8a7f4f</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USAF Cancels Trials of Laser Defences for Fighter AircraftThe USAF SHiELD program has terminated but what has been learned about th...</p></details>
+   Link:<a href="https://medium.com/the-dock-on-the-bay/usaf-cancels-trials-of-laser-defences-for-fighter-aircraft-04338d8a7f4f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-dock-on-the-bay/usaf-cancels-trials-of-laser-defences-for-fighter-aircraft-04338d8a7f4f</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USAF Cancels Trials of Laser Defences for Fighter AircraftThe USAF SHiELD program has terminated but what has been learned about th...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: migflug.com  
    Title: The engineering, the geometry,  
-   Link: <a href="https://migflug.com/jetflights/yal-1-airborne-laser-boeing-747-megawatt-coil/" target="_blank" rel="noopener noreferrer nofollow">https://migflug.com/jetflights/yal-1-airborne-laser-boeing-747-megawatt-coil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>YAL-1: The 747 With a Megawatt Laser Strapped InsideMay 30, 2026 — 30 May 2026 — Boeing&#x27;s YAL-1 Airborne Laser shot down two balli...</p></details>
+   Link:<a href="https://migflug.com/jetflights/yal-1-airborne-laser-boeing-747-megawatt-coil/" target="_blank" rel="noopener noreferrer nofollow">https://migflug.com/jetflights/yal-1-airborne-laser-boeing-747-megawatt-coil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>YAL-1: The 747 With a Megawatt Laser Strapped InsideMay 30, 2026 — 30 May 2026 — Boeing&#x27;s YAL-1 Airborne Laser shot down two balli...</p></details>
    Published: May 30, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: armscontrol.org  
-   Link: <a href="https://www.armscontrol.org/act/2012-03/airborne-laser-mothballed" target="_blank" rel="noopener noreferrer nofollow">https://www.armscontrol.org/act/2012-03/airborne-laser-mothballed</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Arms Control AssociationAirborne Laser MothballedAfter 16 years and $5 billion, the Airborne Laser, once touted as “America&#x27;s first light...</p></details>
+   Link:<a href="https://www.armscontrol.org/act/2012-03/airborne-laser-mothballed" target="_blank" rel="noopener noreferrer nofollow">https://www.armscontrol.org/act/2012-03/airborne-laser-mothballed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Arms Control AssociationAirborne Laser MothballedAfter 16 years and $5 billion, the Airborne Laser, once touted as “America&#x27;s first light...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aftc.af.mil  
    Title: july 13 2007 airborne laser testing  
-   Link: <a href="https://www.aftc.af.mil/News/On-This-Day-in-Test-History/Article-Display-Test-History/Article/2224842/july-13-2007-airborne-laser-testing/" target="_blank" rel="noopener noreferrer nofollow">https://www.aftc.af.mil/News/On-This-Day-in-Test-History/Article-Display-Test-History/Article/2224842/july-13-2007-airborne-laser-testing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>13, 2007: Airborne Laser Testing13 Jul 2020 — The YAL-1 with a low-power laser was test-fired in flight at an airborne target in 2007. A...</p></details>
+   Link:<a href="https://www.aftc.af.mil/News/On-This-Day-in-Test-History/Article-Display-Test-History/Article/2224842/july-13-2007-airborne-laser-testing/" target="_blank" rel="noopener noreferrer nofollow">https://www.aftc.af.mil/News/On-This-Day-in-Test-History/Article-Display-Test-History/Article/2224842/july-13-2007-airborne-laser-testing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>13, 2007: Airborne Laser Testing13 Jul 2020 — The YAL-1 with a low-power laser was test-fired in flight at an airborne target in 2007. A...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/WeirdWings/comments/tkbo2e/boeing_yal1_airborne_laser/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WeirdWings/comments/tkbo2e/boeing_yal1_airborne_laser/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boeing YAL-1 Airborne Laser: r/WeirdWingsIts effectiveness was limited for a few reasons, one of which was limited range to target and o...</p></details>
+   Link:<a href="https://www.reddit.com/r/WeirdWings/comments/tkbo2e/boeing_yal1_airborne_laser/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WeirdWings/comments/tkbo2e/boeing_yal1_airborne_laser/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boeing YAL-1 Airborne Laser: r/WeirdWingsIts effectiveness was limited for a few reasons, one of which was limited range to target and o...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: forecastinternational.com  
-   Link: <a href="https://www.forecastinternational.com/archive/disp_pdf.cfm?DACH_RECNO=913" target="_blank" rel="noopener noreferrer nofollow">https://www.forecastinternational.com/archive/disp_pdf.cfm?DACH_RECNO=913</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ARCHIVED REPORT Airborne Laser (YAL-1A)The Airborne Laser (ABL) program funded the development of an airborne chemical oxygen-iodine lase...</p></details>
+   Link:<a href="https://www.forecastinternational.com/archive/disp_pdf.cfm?DACH_RECNO=913" target="_blank" rel="noopener noreferrer nofollow">https://www.forecastinternational.com/archive/disp_pdf.cfm?DACH_RECNO=913</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ARCHIVED REPORT Airborne Laser (YAL-1A)The Airborne Laser (ABL) program funded the development of an airborne chemical oxygen-iodine lase...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AviationReviewMaterials/posts/yal-1-airborne-747-laser-testbed-and-nkc-135-big-crowthe-yal-1-was-a-modified-bo/923304150230032/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AviationReviewMaterials/posts/yal-1-airborne-747-laser-testbed-and-nkc-135-big-crowthe-yal-1-was-a-modified-bo/923304150230032/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>YAL-1 Airborne 747 Laser Testbed and NKC-135 &quot;Big...I understand why the program was canceled. What I DO NOT understand is why the entir...</p></details>
+   Link:<a href="https://www.facebook.com/AviationReviewMaterials/posts/yal-1-airborne-747-laser-testbed-and-nkc-135-big-crowthe-yal-1-was-a-modified-bo/923304150230032/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AviationReviewMaterials/posts/yal-1-airborne-747-laser-testbed-and-nkc-135-big-crowthe-yal-1-was-a-modified-bo/923304150230032/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>YAL-1 Airborne 747 Laser Testbed and NKC-135 &quot;Big...I understand why the program was canceled. What I DO NOT understand is why the entir...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=MmkYcEcSLvA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MmkYcEcSLvA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Airborne Laser TestBed Footage, Missile Shot Down 2...Watching a short-range ballistic missile Target being destroyed by a high ener...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MmkYcEcSLvA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MmkYcEcSLvA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Airborne Laser TestBed Footage, Missile Shot Down 2...Watching a short-range ballistic missile Target being destroyed by a high ener...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: minutemanmissile.com  
    Title: Minuteman Missile National Historic Site Airborne Laser  
-   Link: <a href="https://minutemanmissile.com/abl.html" target="_blank" rel="noopener noreferrer nofollow">https://minutemanmissile.com/abl.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Minuteman Missile National Historic SiteAirborne Laser - Minuteman MissileThe Airborne Laser, ABL, uses a high energy Chemical Oxygen Iod...</p></details>
+   Link:<a href="https://minutemanmissile.com/abl.html" target="_blank" rel="noopener noreferrer nofollow">https://minutemanmissile.com/abl.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Minuteman Missile National Historic SiteAirborne Laser - Minuteman MissileThe Airborne Laser, ABL, uses a high energy Chemical Oxygen Iod...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RealAirPower/posts/on-this-day-12-years-ago-a-boeing-yal-1-airborne-laser-testbed-formerly-airborne/2128077080663481/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealAirPower/posts/on-this-day-12-years-ago-a-boeing-yal-1-airborne-laser-testbed-formerly-airborne/2128077080663481/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tracked and destroyed a ballistic missile off the coast of California.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/RealAirPower/posts/on-this-day-12-years-ago-a-boeing-yal-1-airborne-laser-testbed-formerly-airborne/2128077080663481/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RealAirPower/posts/on-this-day-12-years-ago-a-boeing-yal-1-airborne-laser-testbed-formerly-airborne/2128077080663481/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tracked and destroyed a ballistic missile off the coast of California.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: laserwars.net  
    Title: air force airborne laser weapon programs cancelled  
-   Link: <a href="https://www.laserwars.net/p/air-force-airborne-laser-weapon-programs-cancelled" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/air-force-airborne-laser-weapon-programs-cancelled</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Air Force Is Giving Up on Airborne Laser Weapons...21 Jul 2025 — High-energy laser weapons need vast amounts of electricity and adva...</p></details>
+   Link:<a href="https://www.laserwars.net/p/air-force-airborne-laser-weapon-programs-cancelled" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/air-force-airborne-laser-weapon-programs-cancelled</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Air Force Is Giving Up on Airborne Laser Weapons...21 Jul 2025 — High-energy laser weapons need vast amounts of electricity and adva...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: foxnews.com  
-   Link: <a href="https://www.foxnews.com/tech/boeings-airborne-laser-defense-fails-the-test" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/tech/boeings-airborne-laser-defense-fails-the-test</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boeing&#x27;s Airborne Laser Defense Fails the TestOct 22, 2010 — But it ended early when corrupted beam control software steered the high-ene...</p></details>
+   Link:<a href="https://www.foxnews.com/tech/boeings-airborne-laser-defense-fails-the-test" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/tech/boeings-airborne-laser-defense-fails-the-test</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boeing&#x27;s Airborne Laser Defense Fails the TestOct 22, 2010 — But it ended early when corrupted beam control software steered the high-ene...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theaviationgeekclub.com  
-   Link: <a href="https://theaviationgeekclub.com/what-happened-to-the-boeing-747-yal-1-airborne-laser-airplane/" target="_blank" rel="noopener noreferrer nofollow">https://theaviationgeekclub.com/what-happened-to-the-boeing-747-yal-1-airborne-laser-airplane/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In January 2013, the Defense Advanced...Read more...</p></details>
+   Link:<a href="https://theaviationgeekclub.com/what-happened-to-the-boeing-747-yal-1-airborne-laser-airplane/" target="_blank" rel="noopener noreferrer nofollow">https://theaviationgeekclub.com/what-happened-to-the-boeing-747-yal-1-airborne-laser-airplane/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In January 2013, the Defense Advanced...Read more...</p></details>
    Published: January 2013  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Why Laser Weapons are About to Change Everything  
-   Link: <a href="http://www.youtube.com/watch?v=ZDioNFLaKCU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ZDioNFLaKCU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boeing YAL-1 Airborne Laser Directed Energy Weapon Boeing YAL - 1 America&#x27;s airborne laser jet Global War Chronicles...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=ZDioNFLaKCU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ZDioNFLaKCU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boeing YAL-1 Airborne Laser Directed Energy Weapon Boeing YAL - 1 America&#x27;s airborne laser jet Global War Chronicles...</p></details>

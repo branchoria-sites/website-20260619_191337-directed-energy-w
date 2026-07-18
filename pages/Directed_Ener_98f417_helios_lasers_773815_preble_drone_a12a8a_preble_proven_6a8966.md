@@ -269,24 +269,24 @@ image: /assets/images/Directed_Ener_98f417_helios_lasers_773815_preble_drone_a12
 
 ## Introduction
 
-The USS *Preble* HELIOS engagement became a landmark moment for naval directed-energy weapons because it provided the first publicly acknowledged evidence that the U.S. Navy had successfully used the HELIOS shipboard laser against an aerial drone target from an operational destroyer. What it proved, however, was narrower than many headlines implied. The public record supports the conclusion that HELIOS could detect, track and successfully engage an unmanned aerial vehicle in a real maritime environment while installed aboard a front-line warship. It did not prove that naval [lasers]({{ 'lasers/' | relative_url }}) are ready to replace missiles, that they can reliably defeat all drone threats, or that they are effective against more demanding targets such as [cruise missiles]({{ 'cruise-missiles/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spacewar.com/reports/US_Navy_intercepted_test_drone_with_HELIOS_directed-energy_weapon_999.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacewar.com">[spacewar.com+2Navy Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacewar.com</span><span class="citation-popover-title">US Navy intercepted test drone with HELIOS directed energy weapon 999</span><span class="citation-popover-snippet">Navy intercepted test drone with HELIOS directed-...5 Feb 2025 —... 2024 Operational Test &amp; Evaluation report says on page 388. The U.S...</span></span></span>
+The USS *Preble* HELIOS engagement became a landmark moment for naval directed-energy weapons because it provided the first publicly acknowledged evidence that the U.S. Navy had successfully used the HELIOS shipboard laser against an aerial drone target from an operational destroyer. What it proved, however, was narrower than many headlines implied. The public record supports the conclusion that HELIOS could detect, track and successfully engage an unmanned aerial vehicle in a real maritime environment while installed aboard a front-line warship. It did not prove that naval [lasers]({{ 'lasers/' | relative_url }}) are ready to replace missiles, that they can reliably defeat all drone threats, or that they are effective against more demanding targets such as [cruise missiles]({{ 'cruise-missiles/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spacewar.com/reports/US_Navy_intercepted_test_drone_with_HELIOS_directed-energy_weapon_999.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacewar.com">[spacewar.com+2Navy Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacewar.com</span><span class="citation-popover-title">US Navy intercepted test drone with HELIOS directed energy weapon 999</span><span class="citation-popover-snippet">Navy intercepted test drone with HELIOS directed-...5 Feb 2025 —... 2024 Operational Test &amp; Evaluation report says on page 388. The U.S...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_preble_drone_a12a8a_preble_proven_6a8966-Illustration-1-dark.svg" | relative_url }}" alt="Proven Result illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_preble_drone_a12a8a_preble_proven_6a8966-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_preble_drone_a12a8a_preble_proven_6a8966-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Understanding exactly what was demonstrated—and what was not—is important because the *Preble* test is often cited as evidence that directed-energy weapons have moved from experimental technology to operational capability. The test does support that claim in a limited sense, but the evidence remains bounded by the information the Navy has actually released. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dote.osd.mil/Annual-Reports/2024-Annual-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dote.osd.mil">[Dote+2Naval News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dote.osd.mil</span><span class="citation-popover-title">2024 Annual Report</span><span class="citation-popover-snippet">DOT&amp;E FY 2024 Annual ReportWelcome to the FY 2024 Annual Report for the Office of the Director, Operational Test &amp; Evaluation · Click...</span></span></span>
+Understanding exactly what was demonstrated—and what was not—is important because the *Preble* test is often cited as evidence that directed-energy weapons have moved from experimental technology to operational capability. The test does support that claim in a limited sense, but the evidence remains bounded by the information the Navy has actually released.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dote.osd.mil/Annual-Reports/2024-Annual-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dote.osd.mil">[Dote+2Naval News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dote.osd.mil</span><span class="citation-popover-title">2024 Annual Report</span><span class="citation-popover-snippet">DOT&amp;E FY 2024 Annual ReportWelcome to the FY 2024 Annual Report for the Office of the Director, Operational Test &amp; Evaluation · Click...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hVnIiE2W2a0" title="Why HELIOS is set to be a key defensive asset for US Navy warships?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hVnIiE2W2a0" target="_blank" rel="noopener noreferrer">Why HELIOS is set to be a key defensive asset for US Navy warships?</a></p><p class="youtube-embed-meta">Channel: Defense Updates</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hVnIiE2W2a0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hVnIiE2W2a0">Open on YouTube</a></p></div></div></div>
 
 ## Confirmed Facts From the Public Test Record
 
-The strongest evidence comes from the U.S. Department of Defense's Fiscal Year 2024 operational testing documentation. According to that record, the Navy conducted a demonstration aboard USS *Preble* to “verify and validate” the functionality, performance and capability of the High Energy Laser with Integrated Optical Dazzler and Surveillance (HELIOS) system against an unmanned aerial vehicle target. The U.S. Center for Countermeasures supported the event and collected imagery for performance assessment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spacewar.com/reports/US_Navy_intercepted_test_drone_with_HELIOS_directed-energy_weapon_999.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacewar.com">[spacewar.com+2Dote]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacewar.com</span><span class="citation-popover-title">US Navy intercepted test drone with HELIOS directed energy weapon 999</span><span class="citation-popover-snippet">Navy intercepted test drone with HELIOS directed-...5 Feb 2025 —... 2024 Operational Test &amp; Evaluation report says on page 388. The U.S...</span></span></span>
+The strongest evidence comes from the U.S. Department of Defense's Fiscal Year 2024 operational testing documentation. According to that record, the Navy conducted a demonstration aboard USS *Preble* to “verify and validate” the functionality, performance and capability of the High Energy Laser with Integrated Optical Dazzler and Surveillance (HELIOS) system against an unmanned aerial vehicle target. The U.S. Center for Countermeasures supported the event and collected imagery for performance assessment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spacewar.com/reports/US_Navy_intercepted_test_drone_with_HELIOS_directed-energy_weapon_999.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacewar.com">[spacewar.com+2Dote]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacewar.com</span><span class="citation-popover-title">US Navy intercepted test drone with HELIOS directed energy weapon 999</span><span class="citation-popover-snippet">Navy intercepted test drone with HELIOS directed-...5 Feb 2025 —... 2024 Operational Test &amp; Evaluation report says on page 388. The U.S...</span></span></span>
 
 From that disclosure, three conclusions can be stated with confidence:
 
-* **The laser successfully engaged an aerial drone target.** Multiple reports based on the operational testing record describe the event as a successful engagement, and later reporting identified it as the first publicly acknowledged HELIOS drone shoot-down. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navytimes.com/news/your-navy/2025/02/04/us-navy-hits-drone-with-helios-laser-in-successful-test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navytimes.com">[Navy Times+2Design News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navytimes.com</span><span class="citation-popover-title">us navy hits drone with helios laser in successful test</span><span class="citation-popover-snippet">Navy TimesUS Navy hits drone with HELIOS laser in successful test4 Feb 2025 — The US Navy successfully tested its High-Energy Laser with...</span></span></span>
-* **The engagement occurred from an operational destroyer rather than a dedicated test platform.** HELIOS was mounted aboard USS *Preble*, an active Arleigh Burke-class guided-missile destroyer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://maritime-executive.com/article/uss-preble-tests-high-powered-laser-weapon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maritime-executive.com">[Maritime Executive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maritime-executive.com</span><span class="citation-popover-title">uss preble tests high powered laser weapon</span><span class="citation-popover-snippet">Maritime ExecutiveUSS Preble Tests High-Powered Laser Weapon4 Feb 2025 — The Pentagon&#x27;s Director of Operational Testing &amp; Evaluation has...</span></span></span>
-* **The event was part of formal military evaluation rather than a contractor demonstration.** Inclusion in the Director, Operational Test and Evaluation reporting process indicates that the test was treated as an operationally relevant assessment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dote.osd.mil/Annual-Reports/2024-Annual-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dote.osd.mil">[Dote]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dote.osd.mil</span><span class="citation-popover-title">2024 Annual Report</span><span class="citation-popover-snippet">DOT&amp;E FY 2024 Annual ReportWelcome to the FY 2024 Annual Report for the Office of the Director, Operational Test &amp; Evaluation · Click...</span></span></span>
+* **The laser successfully engaged an aerial drone target.** Multiple reports based on the operational testing record describe the event as a successful engagement, and later reporting identified it as the first publicly acknowledged HELIOS drone shoot-down.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navytimes.com/news/your-navy/2025/02/04/us-navy-hits-drone-with-helios-laser-in-successful-test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navytimes.com">[Navy Times+2Design News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navytimes.com</span><span class="citation-popover-title">us navy hits drone with helios laser in successful test</span><span class="citation-popover-snippet">Navy TimesUS Navy hits drone with HELIOS laser in successful test4 Feb 2025 — The US Navy successfully tested its High-Energy Laser with...</span></span></span>
+* **The engagement occurred from an operational destroyer rather than a dedicated test platform.** HELIOS was mounted aboard USS *Preble*, an active Arleigh Burke-class guided-missile destroyer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://maritime-executive.com/article/uss-preble-tests-high-powered-laser-weapon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maritime-executive.com">[Maritime Executive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maritime-executive.com</span><span class="citation-popover-title">uss preble tests high powered laser weapon</span><span class="citation-popover-snippet">Maritime ExecutiveUSS Preble Tests High-Powered Laser Weapon4 Feb 2025 — The Pentagon&#x27;s Director of Operational Testing &amp; Evaluation has...</span></span></span>
+* **The event was part of formal military evaluation rather than a contractor demonstration.** Inclusion in the Director, Operational Test and Evaluation reporting process indicates that the test was treated as an operationally relevant assessment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dote.osd.mil/Annual-Reports/2024-Annual-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dote.osd.mil">[Dote]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dote.osd.mil</span><span class="citation-popover-title">2024 Annual Report</span><span class="citation-popover-snippet">DOT&amp;E FY 2024 Annual ReportWelcome to the FY 2024 Annual Report for the Office of the Director, Operational Test &amp; Evaluation · Click...</span></span></span>
 
 Those facts alone represent a meaningful advance beyond earlier demonstrations that primarily showed lasers operating from experimental installations or under highly controlled conditions.
 
@@ -297,11 +297,11 @@ Those facts alone represent a meaningful advance beyond earlier demonstrations t
 
 The most important achievement was arguably not the destruction of a drone itself but the successful operation of a high-energy laser within the combat architecture of a modern warship.
 
-HELIOS is integrated with the Navy's Aegis combat system rather than functioning as a standalone science project. That means the laser can participate in the same broader detection, tracking and engagement ecosystem that supports the ship's conventional weapons. The *Preble* event therefore demonstrated that a destroyer could carry, power, cool, aim and employ a combat laser while operating as a fleet unit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://maritime-executive.com/article/uss-preble-tests-high-powered-laser-weapon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maritime-executive.com">[Maritime Executive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maritime-executive.com</span><span class="citation-popover-title">uss preble tests high powered laser weapon</span><span class="citation-popover-snippet">Maritime ExecutiveUSS Preble Tests High-Powered Laser Weapon4 Feb 2025 — The Pentagon&#x27;s Director of Operational Testing &amp; Evaluation has...</span></span></span>
+HELIOS is integrated with the Navy's Aegis combat system rather than functioning as a standalone science project. That means the laser can participate in the same broader detection, tracking and engagement ecosystem that supports the ship's conventional weapons. The *Preble* event therefore demonstrated that a destroyer could carry, power, cool, aim and employ a combat laser while operating as a fleet unit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://maritime-executive.com/article/uss-preble-tests-high-powered-laser-weapon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maritime-executive.com">[Maritime Executive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maritime-executive.com</span><span class="citation-popover-title">uss preble tests high powered laser weapon</span><span class="citation-popover-snippet">Maritime ExecutiveUSS Preble Tests High-Powered Laser Weapon4 Feb 2025 — The Pentagon&#x27;s Director of Operational Testing &amp; Evaluation has...</span></span></span>
 
-This distinction matters because many of the hardest problems in naval directed-energy weapons are not the laser beam itself. Engineers must also solve power [generation]({{ 'generation-ii/' | relative_url }}), thermal management, sensor integration, targeting accuracy, vibration control and combat-system integration. The *Preble* test showed that these elements had progressed far enough to permit a successful live engagement at sea. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://maritime-executive.com/article/uss-preble-tests-high-powered-laser-weapon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maritime-executive.com">[Maritime Executive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maritime-executive.com</span><span class="citation-popover-title">uss preble tests high powered laser weapon</span><span class="citation-popover-snippet">Maritime ExecutiveUSS Preble Tests High-Powered Laser Weapon4 Feb 2025 — The Pentagon&#x27;s Director of Operational Testing &amp; Evaluation has...</span></span></span>
+This distinction matters because many of the hardest problems in naval directed-energy weapons are not the laser beam itself. Engineers must also solve power [generation]({{ 'generation-ii/' | relative_url }}), thermal management, sensor integration, targeting accuracy, vibration control and combat-system integration. The *Preble* test showed that these elements had progressed far enough to permit a successful live engagement at sea.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://maritime-executive.com/article/uss-preble-tests-high-powered-laser-weapon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maritime-executive.com">[Maritime Executive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maritime-executive.com</span><span class="citation-popover-title">uss preble tests high powered laser weapon</span><span class="citation-popover-snippet">Maritime ExecutiveUSS Preble Tests High-Powered Laser Weapon4 Feb 2025 — The Pentagon&#x27;s Director of Operational Testing &amp; Evaluation has...</span></span></span>
 
-The event also provided evidence for the Navy's long-standing concept of using lasers as a lower-cost defensive layer against inexpensive drones. If a laser can neutralise a small aerial threat using shipboard electrical power rather than a costly missile interceptor, it can help preserve limited missile inventories for more demanding targets. The test supports that operational concept, even though it does not yet prove how effective it would be in sustained combat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spacewar.com/reports/US_Navy_intercepted_test_drone_with_HELIOS_directed-energy_weapon_999.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacewar.com">[spacewar.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacewar.com</span><span class="citation-popover-title">US Navy intercepted test drone with HELIOS directed energy weapon 999</span><span class="citation-popover-snippet">Navy intercepted test drone with HELIOS directed-...5 Feb 2025 —... 2024 Operational Test &amp; Evaluation report says on page 388. The U.S...</span></span></span>
+The event also provided evidence for the Navy's long-standing concept of using lasers as a lower-cost defensive layer against inexpensive drones. If a laser can neutralise a small aerial threat using shipboard electrical power rather than a costly missile interceptor, it can help preserve limited missile inventories for more demanding targets. The test supports that operational concept, even though it does not yet prove how effective it would be in sustained combat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spacewar.com/reports/US_Navy_intercepted_test_drone_with_HELIOS_directed-energy_weapon_999.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacewar.com">[spacewar.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacewar.com</span><span class="citation-popover-title">US Navy intercepted test drone with HELIOS directed energy weapon 999</span><span class="citation-popover-snippet">Navy intercepted test drone with HELIOS directed-...5 Feb 2025 —... 2024 Operational Test &amp; Evaluation report says on page 388. The U.S...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_preble_drone_a12a8a_preble_proven_6a8966-Illustration-2-dark.svg" | relative_url }}" alt="Proven Result illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_preble_drone_a12a8a_preble_proven_6a8966-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_preble_drone_a12a8a_preble_proven_6a8966-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -309,14 +309,14 @@ The event also provided evidence for the Navy's long-standing concept of using l
 
 The most important limitation is the lack of released performance data.
 
-The Navy did not disclose the target's exact characteristics, speed, altitude, manoeuvring profile, engagement range, weather conditions, dwell time, or the specific mechanism by which the drone was defeated. The location and timing of the event were also withheld. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navytimes.com/news/your-navy/2025/02/04/us-navy-hits-drone-with-helios-laser-in-successful-test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navytimes.com">[Navy Times+2The Defense Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navytimes.com</span><span class="citation-popover-title">us navy hits drone with helios laser in successful test</span><span class="citation-popover-snippet">Navy TimesUS Navy hits drone with HELIOS laser in successful test4 Feb 2025 — The US Navy successfully tested its High-Energy Laser with...</span></span></span>
+The Navy did not disclose the target's exact characteristics, speed, altitude, manoeuvring profile, engagement range, weather conditions, dwell time, or the specific mechanism by which the drone was defeated. The location and timing of the event were also withheld.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navytimes.com/news/your-navy/2025/02/04/us-navy-hits-drone-with-helios-laser-in-successful-test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navytimes.com">[Navy Times+2The Defense Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navytimes.com</span><span class="citation-popover-title">us navy hits drone with helios laser in successful test</span><span class="citation-popover-snippet">Navy TimesUS Navy hits drone with HELIOS laser in successful test4 Feb 2025 — The US Navy successfully tested its High-Energy Laser with...</span></span></span>
 
 Because of those omissions, the test cannot support several common claims:
 
-* **It did not prove effectiveness against cruise missiles.** The target was an unmanned aerial vehicle, not a [high-speed]({{ '650-km-h/' | relative_url }}) anti-ship missile. The Navy has separately discussed future testing against more challenging threats, which implies that such capability remained unverified by this event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navalnews.com/naval-news/2025/02/u-s-navy-helios-laser-test-underscores-greater-advancements-in-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navalnews.com">[Naval News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navalnews.com</span><span class="citation-popover-title">Naval News U.S</span><span class="citation-popover-snippet">Navy HELIOS laser test underscores greater...4 Feb 2025 — The US Navy&#x27;s High Energy Laser and Integrated Optical Dazzler and Surveillanc...</span></span></span>
-* **It did not prove all-weather capability.** Atmospheric conditions strongly affect laser performance, and the public record does not reveal the environmental conditions during the engagement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navytimes.com/news/your-navy/2025/02/04/us-navy-hits-drone-with-helios-laser-in-successful-test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navytimes.com">[Navy Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navytimes.com</span><span class="citation-popover-title">us navy hits drone with helios laser in successful test</span><span class="citation-popover-snippet">Navy TimesUS Navy hits drone with HELIOS laser in successful test4 Feb 2025 — The US Navy successfully tested its High-Energy Laser with...</span></span></span>
-* **It did not prove mass-[drone defence]({{ 'drone-defence/' | relative_url }}).** One successful engagement does not establish how the system performs against large numbers of simultaneous threats. Later disclosures about multiple-drone tests suggest the Navy is still expanding that evidence base. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twz.com/sea/uss-preble-used-helios-laser-to-zap-four-drones-in-expanding-testing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">uss preble used helios laser to zap four drones in expanding testing</span><span class="citation-popover-snippet">That milestone was disclosed in an annual report from...Read more...</span></span></span>
-* **It did not prove that lasers can replace missiles.** HELIOS remains a supplementary defensive layer. Conventional interceptors still provide advantages in range, weather tolerance and engagement flexibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.19fortyfive.com/2026/02/the-u-s-navys-uss-preble-fired-helios-laser-to-strike-4-drones-in-new-test-but-theres-a-catch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 19fortyfive.com">[FortyFive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">19fortyfive.com</span><span class="citation-popover-title">19Forty Five The U.S</span><span class="citation-popover-snippet">Navy&#x27;s USS Preble Fired HELIOS Laser To Strike...Feb 3, 2026 — USS Preble used the HELIOS laser to neutralize four drones at sea, hintin...</span></span></span>
+* **It did not prove effectiveness against cruise missiles.** The target was an unmanned aerial vehicle, not a [high-speed]({{ '650-km-h/' | relative_url }}) anti-ship missile. The Navy has separately discussed future testing against more challenging threats, which implies that such capability remained unverified by this event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navalnews.com/naval-news/2025/02/u-s-navy-helios-laser-test-underscores-greater-advancements-in-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navalnews.com">[Naval News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navalnews.com</span><span class="citation-popover-title">Naval News U.S</span><span class="citation-popover-snippet">Navy HELIOS laser test underscores greater...4 Feb 2025 — The US Navy&#x27;s High Energy Laser and Integrated Optical Dazzler and Surveillanc...</span></span></span>
+* **It did not prove all-weather capability.** Atmospheric conditions strongly affect laser performance, and the public record does not reveal the environmental conditions during the engagement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navytimes.com/news/your-navy/2025/02/04/us-navy-hits-drone-with-helios-laser-in-successful-test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navytimes.com">[Navy Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navytimes.com</span><span class="citation-popover-title">us navy hits drone with helios laser in successful test</span><span class="citation-popover-snippet">Navy TimesUS Navy hits drone with HELIOS laser in successful test4 Feb 2025 — The US Navy successfully tested its High-Energy Laser with...</span></span></span>
+* **It did not prove mass-[drone defence]({{ 'drone-defence/' | relative_url }}).** One successful engagement does not establish how the system performs against large numbers of simultaneous threats. Later disclosures about multiple-drone tests suggest the Navy is still expanding that evidence base.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twz.com/sea/uss-preble-used-helios-laser-to-zap-four-drones-in-expanding-testing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">uss preble used helios laser to zap four drones in expanding testing</span><span class="citation-popover-snippet">That milestone was disclosed in an annual report from...Read more...</span></span></span>
+* **It did not prove that lasers can replace missiles.** HELIOS remains a supplementary defensive layer. Conventional interceptors still provide advantages in range, weather tolerance and engagement flexibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.19fortyfive.com/2026/02/the-u-s-navys-uss-preble-fired-helios-laser-to-strike-4-drones-in-new-test-but-theres-a-catch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 19fortyfive.com">[FortyFive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">19fortyfive.com</span><span class="citation-popover-title">19Forty Five The U.S</span><span class="citation-popover-snippet">Navy&#x27;s USS Preble Fired HELIOS Laser To Strike...Feb 3, 2026 — USS Preble used the HELIOS laser to neutralize four drones at sea, hintin...</span></span></span>
 
 In short, the event demonstrated a capability, not a complete operational solution.
 
@@ -325,186 +325,186 @@ In short, the event demonstrated a capability, not a complete operational soluti
 
 ## The Most Defensible Takeaway
 
-The strongest evidence-based interpretation is straightforward: the USS *Preble* test proved that a destroyer-mounted HELIOS laser could successfully engage and defeat a drone target during a real naval demonstration and do so as part of an integrated warship combat system. That is a significant milestone for directed-energy weapons because it confirms that shipboard laser defence is no longer confined to laboratory experiments or isolated technology demonstrations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spacewar.com/reports/US_Navy_intercepted_test_drone_with_HELIOS_directed-energy_weapon_999.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacewar.com">[spacewar.com+2Navy Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacewar.com</span><span class="citation-popover-title">US Navy intercepted test drone with HELIOS directed energy weapon 999</span><span class="citation-popover-snippet">Navy intercepted test drone with HELIOS directed-...5 Feb 2025 —... 2024 Operational Test &amp; Evaluation report says on page 388. The U.S...</span></span></span>
+The strongest evidence-based interpretation is straightforward: the USS *Preble* test proved that a destroyer-mounted HELIOS laser could successfully engage and defeat a drone target during a real naval demonstration and do so as part of an integrated warship combat system. That is a significant milestone for directed-energy weapons because it confirms that shipboard laser defence is no longer confined to laboratory experiments or isolated technology demonstrations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spacewar.com/reports/US_Navy_intercepted_test_drone_with_HELIOS_directed-energy_weapon_999.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacewar.com">[spacewar.com+2Navy Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacewar.com</span><span class="citation-popover-title">US Navy intercepted test drone with HELIOS directed energy weapon 999</span><span class="citation-popover-snippet">Navy intercepted test drone with HELIOS directed-...5 Feb 2025 —... 2024 Operational Test &amp; Evaluation report says on page 388. The U.S...</span></span></span>
 
-At the same time, the publicly available evidence remains too limited to justify broader claims about laser dominance, missile replacement, or comprehensive protection against advanced aerial threats. The *Preble* engagement established that the technology works in at least one operationally relevant scenario. It did not establish the full extent of what the technology can ultimately do. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navalnews.com/naval-news/2025/02/u-s-navy-helios-laser-test-underscores-greater-advancements-in-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navalnews.com">[Naval News+2The Defense Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navalnews.com</span><span class="citation-popover-title">Naval News U.S</span><span class="citation-popover-snippet">Navy HELIOS laser test underscores greater...4 Feb 2025 — The US Navy&#x27;s High Energy Laser and Integrated Optical Dazzler and Surveillanc...</span></span></span>
+At the same time, the publicly available evidence remains too limited to justify broader claims about laser dominance, missile replacement, or comprehensive protection against advanced aerial threats. The *Preble* engagement established that the technology works in at least one operationally relevant scenario. It did not establish the full extent of what the technology can ultimately do.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navalnews.com/naval-news/2025/02/u-s-navy-helios-laser-test-underscores-greater-advancements-in-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navalnews.com">[Naval News+2The Defense Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navalnews.com</span><span class="citation-popover-title">Naval News U.S</span><span class="citation-popover-snippet">Navy HELIOS laser test underscores greater...4 Feb 2025 — The US Navy&#x27;s High Energy Laser and Integrated Optical Dazzler and Surveillanc...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_preble_drone_a12a8a_preble_proven_6a8966-Illustration-3-dark.svg" | relative_url }}" alt="Proven Result illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_preble_drone_a12a8a_preble_proven_6a8966-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_preble_drone_a12a8a_preble_proven_6a8966-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did the Preble Laser Test Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did the Preble Laser Test Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Focuses on what operational demonstrations do and do not prove.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on what operational demonstrations do and do not prove.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Illustrates the path from prototype validation to operational deployment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates the path from prototype validation to operational deployment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+Fleet+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost Fleet on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7Pu7DQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost Fleet" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+Fleet+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Fleet">Ghost Fleet</a>
-        </h4>
-        <p class="fr-book-author">By P.W. Singer, August Cole</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+Fleet+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost Fleet on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7Pu7DQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost Fleet" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+Fleet+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Fleet">Ghost Fleet</a>
+</h4>
+<p class="fr-book-author">By P.W. Singer, August Cole</p>
         
-        <p class="fr-book-desc">Provides a future-war lens for understanding emerging naval systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+Fleet+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a future-war lens for understanding emerging naval systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+Fleet+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fleet Tactics And Naval Operations, Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8833607-M.jpg" alt="Cover for Fleet Tactics And Naval Operations, Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fleet Tactics And Naval Operations, Third Edition">Fleet Tactics And Naval Operations, Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Wayne Hughes, Robert Girrier</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fleet Tactics And Naval Operations, Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8833607-M.jpg" alt="Cover for Fleet Tactics And Naval Operations, Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fleet Tactics And Naval Operations, Third Edition">Fleet Tactics And Naval Operations, Third Edition</a>
+</h4>
+<p class="fr-book-author">By Wayne Hughes, Robert Girrier</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Naval tactics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Naval tactics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+Fleet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost Fleet</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+Fleet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost Fleet</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY AIRBORNE LASER MINE DETECTION SYSTEM AN/AES-1 Staff Polo Shirt Medium"><img src="{{ '/assets/images/marketplace-covers/cb65298d2d953b6fd381.jpg' | relative_url }}" alt="Listing image for US NAVY AIRBORNE LASER MINE DETECTION SYSTEM AN/AES-1 Staff Polo Shirt Medium" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer">US NAVY AIRBORNE LASER MINE DETECTION SYSTEM AN/AES-1 Staff Polo Shirt Medium</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser system patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military laser system patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY AIRBORNE LASER MINE DETECTION SYSTEM AN/AES-1 Staff Polo Shirt Medium"><img src="{{ '/assets/images/marketplace-covers/cb65298d2d953b6fd381.jpg' | relative_url }}" alt="Listing image for US NAVY AIRBORNE LASER MINE DETECTION SYSTEM AN/AES-1 Staff Polo Shirt Medium" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer">US NAVY AIRBORNE LASER MINE DETECTION SYSTEM AN/AES-1 Staff Polo Shirt Medium</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser system patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: military laser system patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tactical Backpack 15L Multicam Laser Cut MOLLE Ukraine Military army Cordura"><img src="{{ '/assets/images/marketplace-covers/179b534c30a079c11d6a.jpg' | relative_url }}" alt="Listing image for Tactical Backpack 15L Multicam Laser Cut MOLLE Ukraine Military army Cordura" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer">Tactical Backpack 15L Multicam Laser Cut MOLLE Ukraine Military army Cordura</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser system patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military laser system patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tactical Backpack 15L Multicam Laser Cut MOLLE Ukraine Military army Cordura"><img src="{{ '/assets/images/marketplace-covers/179b534c30a079c11d6a.jpg' | relative_url }}" alt="Listing image for Tactical Backpack 15L Multicam Laser Cut MOLLE Ukraine Military army Cordura" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer">Tactical Backpack 15L Multicam Laser Cut MOLLE Ukraine Military army Cordura</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser system patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: military laser system patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF BOEING YAL-1 ABL AIRBORNE LASER TESTBED WEAPONS SYSTEM PROGRAM PATCH"><img src="{{ '/assets/images/marketplace-covers/1726e259d1034fdadf64.jpg' | relative_url }}" alt="Listing image for USAF BOEING YAL-1 ABL AIRBORNE LASER TESTBED WEAPONS SYSTEM PROGRAM PATCH" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer">USAF BOEING YAL-1 ABL AIRBORNE LASER TESTBED WEAPONS SYSTEM PROGRAM PATCH</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser system patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military laser system patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF BOEING YAL-1 ABL AIRBORNE LASER TESTBED WEAPONS SYSTEM PROGRAM PATCH"><img src="{{ '/assets/images/marketplace-covers/1726e259d1034fdadf64.jpg' | relative_url }}" alt="Listing image for USAF BOEING YAL-1 ABL AIRBORNE LASER TESTBED WEAPONS SYSTEM PROGRAM PATCH" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer">USAF BOEING YAL-1 ABL AIRBORNE LASER TESTBED WEAPONS SYSTEM PROGRAM PATCH</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser system patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: military laser system patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="proven-result-what-did-the-preble-laser-test-prove-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -520,7 +520,7 @@ At the same time, the publicly available evidence remains too limited to justify
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -540,7 +540,7 @@ At the same time, the publicly available evidence remains too limited to justify
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -572,7 +572,7 @@ At the same time, the publicly available evidence remains too limited to justify
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -624,7 +624,7 @@ At the same time, the publicly available evidence remains too limited to justify
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -669,7 +669,7 @@ At the same time, the publicly available evidence remains too limited to justify
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -710,121 +710,121 @@ At the same time, the publicly available evidence remains too limited to justify
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: spacewar.com  
    Title: US Navy intercepted test drone with HELIOS directed energy weapon 999  
-   Link: <a href="https://www.spacewar.com/reports/US_Navy_intercepted_test_drone_with_HELIOS_directed-energy_weapon_999.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spacewar.com/reports/US_Navy_intercepted_test_drone_with_HELIOS_directed-energy_weapon_999.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy intercepted test drone with HELIOS directed-...5 Feb 2025 —... 2024 Operational Test &amp; Evaluation report says on page 388. The U.S...</p></details>
+   Link:<a href="https://www.spacewar.com/reports/US_Navy_intercepted_test_drone_with_HELIOS_directed-energy_weapon_999.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spacewar.com/reports/US_Navy_intercepted_test_drone_with_HELIOS_directed-energy_weapon_999.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy intercepted test drone with HELIOS directed-...5 Feb 2025 —... 2024 Operational Test &amp; Evaluation report says on page 388. The U.S...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: maritime-executive.com  
    Title: [uss preble](&#123;&#123; 'preble-test-2ed0d5/' | relative_url &#125;&#125;) tests high powered laser weapon  
-   Link: <a href="https://maritime-executive.com/article/uss-preble-tests-high-powered-laser-weapon" target="_blank" rel="noopener noreferrer nofollow">https://maritime-executive.com/article/uss-preble-tests-high-powered-laser-weapon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Maritime ExecutiveUSS Preble Tests High-Powered Laser Weapon4 Feb 2025 — The Pentagon&#x27;s Director of Operational Testing &amp; Evaluation has...</p></details>
+   Link:<a href="https://maritime-executive.com/article/uss-preble-tests-high-powered-laser-weapon" target="_blank" rel="noopener noreferrer nofollow">https://maritime-executive.com/article/uss-preble-tests-high-powered-laser-weapon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Maritime ExecutiveUSS Preble Tests High-Powered Laser Weapon4 Feb 2025 — The Pentagon&#x27;s Director of Operational Testing &amp; Evaluation has...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: 19fortyfive.com  
    Title: 19Forty Five The U.S  
-   Link: <a href="https://www.19fortyfive.com/2026/02/the-u-s-navys-uss-preble-fired-helios-laser-to-strike-4-drones-in-new-test-but-theres-a-catch/" target="_blank" rel="noopener noreferrer nofollow">https://www.19fortyfive.com/2026/02/the-u-s-navys-uss-preble-fired-helios-laser-to-strike-4-drones-in-new-test-but-theres-a-catch/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy&#x27;s USS Preble Fired HELIOS Laser To Strike...Feb 3, 2026 — USS Preble used the HELIOS laser to neutralize four drones at sea, hintin...</p></details>
+   Link:<a href="https://www.19fortyfive.com/2026/02/the-u-s-navys-uss-preble-fired-helios-laser-to-strike-4-drones-in-new-test-but-theres-a-catch/" target="_blank" rel="noopener noreferrer nofollow">https://www.19fortyfive.com/2026/02/the-u-s-navys-uss-preble-fired-helios-laser-to-strike-4-drones-in-new-test-but-theres-a-catch/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy&#x27;s USS Preble Fired HELIOS Laser To Strike...Feb 3, 2026 — USS Preble used the HELIOS laser to neutralize four drones at sea, hintin...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: navytimes.com  
    Title: us navy hits drone with helios laser in successful test  
-   Link: <a href="https://www.navytimes.com/news/your-navy/2025/02/04/us-navy-hits-drone-with-helios-laser-in-successful-test/" target="_blank" rel="noopener noreferrer nofollow">https://www.navytimes.com/news/your-navy/2025/02/04/us-navy-hits-drone-with-helios-laser-in-successful-test/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy TimesUS Navy hits drone with HELIOS laser in successful test4 Feb 2025 — The US Navy successfully tested its High-Energy Laser with...</p></details>
+   Link:<a href="https://www.navytimes.com/news/your-navy/2025/02/04/us-navy-hits-drone-with-helios-laser-in-successful-test/" target="_blank" rel="noopener noreferrer nofollow">https://www.navytimes.com/news/your-navy/2025/02/04/us-navy-hits-drone-with-helios-laser-in-successful-test/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy TimesUS Navy hits drone with HELIOS laser in successful test4 Feb 2025 — The US Navy successfully tested its High-Energy Laser with...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dote.osd.mil  
    Title: 2024 Annual Report  
-   Link: <a href="https://www.dote.osd.mil/Annual-Reports/2024-Annual-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.dote.osd.mil/Annual-Reports/2024-Annual-Report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DOT&amp;E FY 2024 Annual ReportWelcome to the FY 2024 Annual Report for the Office of the Director, Operational Test &amp; Evaluation · Click...</p></details>
+   Link:<a href="https://www.dote.osd.mil/Annual-Reports/2024-Annual-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.dote.osd.mil/Annual-Reports/2024-Annual-Report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOT&amp;E FY 2024 Annual ReportWelcome to the FY 2024 Annual Report for the Office of the Director, Operational Test &amp; Evaluation · Click...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: navalnews.com  
    Title: Naval News U.S  
-   Link: <a href="https://www.navalnews.com/naval-news/2025/02/u-s-navy-helios-laser-test-underscores-greater-advancements-in-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow">https://www.navalnews.com/naval-news/2025/02/u-s-navy-helios-laser-test-underscores-greater-advancements-in-directed-energy-weapons/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy HELIOS laser test underscores greater...4 Feb 2025 — The US Navy&#x27;s High Energy Laser and Integrated Optical Dazzler and Surveillanc...</p></details>
+   Link:<a href="https://www.navalnews.com/naval-news/2025/02/u-s-navy-helios-laser-test-underscores-greater-advancements-in-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow">https://www.navalnews.com/naval-news/2025/02/u-s-navy-helios-laser-test-underscores-greater-advancements-in-directed-energy-weapons/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy HELIOS laser test underscores greater...4 Feb 2025 — The US Navy&#x27;s High Energy Laser and Integrated Optical Dazzler and Surveillanc...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: designnews.com  
    Title: uss preble downs aerial target in helios laser test  
-   Link: <a href="https://www.designnews.com/industry/uss-preble-downs-aerial-target-in-helios-laser-test" target="_blank" rel="noopener noreferrer nofollow">https://www.designnews.com/industry/uss-preble-downs-aerial-target-in-helios-laser-test</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Northrop Grumman-supplied 60-kilowatt laser weapon system is...Read more...</p></details>
+   Link:<a href="https://www.designnews.com/industry/uss-preble-downs-aerial-target-in-helios-laser-test" target="_blank" rel="noopener noreferrer nofollow">https://www.designnews.com/industry/uss-preble-downs-aerial-target-in-helios-laser-test</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Northrop Grumman-supplied 60-kilowatt laser weapon system is...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: twz.com  
    Title: uss preble used helios laser to zap four drones in expanding testing  
-   Link: <a href="https://www.twz.com/sea/uss-preble-used-helios-laser-to-zap-four-drones-in-expanding-testing" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/sea/uss-preble-used-helios-laser-to-zap-four-drones-in-expanding-testing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>That milestone was disclosed in an annual report from...Read more...</p></details>
+   Link:<a href="https://www.twz.com/sea/uss-preble-used-helios-laser-to-zap-four-drones-in-expanding-testing" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/sea/uss-preble-used-helios-laser-to-zap-four-drones-in-expanding-testing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>That milestone was disclosed in an annual report from...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: thedefensepost.com  
-   Link: <a href="https://thedefensepost.com/2025/02/04/us-navy-helios-laser/" target="_blank" rel="noopener noreferrer nofollow">https://thedefensepost.com/2025/02/04/us-navy-helios-laser/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Defense PostUS Navy&#x27;s Burke-Class Destroyer Unleashes HELIOS...4 Feb 2025 — While the location and exact date remain classified, the...</p></details>
+   Link:<a href="https://thedefensepost.com/2025/02/04/us-navy-helios-laser/" target="_blank" rel="noopener noreferrer nofollow">https://thedefensepost.com/2025/02/04/us-navy-helios-laser/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Defense PostUS Navy&#x27;s Burke-Class Destroyer Unleashes HELIOS...4 Feb 2025 — While the location and exact date remain classified, the...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Helios" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Helios</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HeliosHelios is often depicted in art with a radiant crown and driving a horse-drawn chariot through the sky. He was a guardian of oat...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Helios" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Helios</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HeliosHelios is often depicted in art with a radiant crown and driving a horse-drawn chariot through the sky. He was a guardian of oat...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/Helios-Greek-god" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Helios-Greek-god</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Helios | Myths, History, &amp; FactsHelios, in Greek religion, the sun god, sometimes called a Titan. He drove a chariot daily from east to w...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Helios-Greek-god" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Helios-Greek-god</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Helios | Myths, History, &amp; FactsHelios, in Greek religion, the sun god, sometimes called a Titan. He drove a chariot daily from east to w...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/WarshipPorn/comments/1qutb5v/uss_preble_ddg88_used_her_helios_laser_to_shoot/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WarshipPorn/comments/1qutb5v/uss_preble_ddg88_used_her_helios_laser_to_shoot/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Preble (DDG-88) used her HELIOS laser to shoot...“The HELIOS weapon system successfully neutralized four drone threats in a U.S. Nav...</p></details>
+   Link:<a href="https://www.reddit.com/r/WarshipPorn/comments/1qutb5v/uss_preble_ddg88_used_her_helios_laser_to_shoot/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WarshipPorn/comments/1qutb5v/uss_preble_ddg88_used_her_helios_laser_to_shoot/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Preble (DDG-88) used her HELIOS laser to shoot...“The HELIOS weapon system successfully neutralized four drone threats in a U.S. Nav...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1216058135233165/posts/2892245810947714/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1216058135233165/posts/2892245810947714/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Preble equipped with Helios laser weapon systemUSS PREBLE DDG 88🇺🇸 The Ship has HELIOS (High Energy Laser with Integrated Optical Daz...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1216058135233165/posts/2892245810947714/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1216058135233165/posts/2892245810947714/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Preble equipped with Helios laser weapon systemUSS PREBLE DDG 88🇺🇸 The Ship has HELIOS (High Energy Laser with Integrated Optical Daz...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: netflix.com  
-   Link: <a href="https://www.netflix.com/title/80106306" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/title/80106306</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch HeliosWhen master criminal Helios steals a mobile WMD, rival agents from Hong Kong, South Korea and China must join forces to recov...</p></details>
+   Link:<a href="https://www.netflix.com/title/80106306" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/title/80106306</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch HeliosWhen master criminal Helios steals a mobile WMD, rival agents from Hong Kong, South Korea and China must join forces to recov...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DIKHLZwSxvm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DIKHLZwSxvm/</a>  
+   Link:<a href="https://www.instagram.com/reel/DIKHLZwSxvm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DIKHLZwSxvm/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: star-navi.net  
    Title: uss prebles helios laser how ai surveillance defeats military drone threats  
-   Link: <a href="https://star-navi.net/BlogsGernator/blogs/uss-prebles-helios-laser-how-ai-surveillance-defeats-military-drone-threats.php" target="_blank" rel="noopener noreferrer nofollow">https://star-navi.net/BlogsGernator/blogs/uss-prebles-helios-laser-how-ai-surveillance-defeats-military-drone-threats.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Preble&#x27;s HELIOS Laser: How AI Surveillance Defeats...This critical event, documented in the Fiscal Year 2024 Annual Report released...</p></details>
+   Link:<a href="https://star-navi.net/BlogsGernator/blogs/uss-prebles-helios-laser-how-ai-surveillance-defeats-military-drone-threats.php" target="_blank" rel="noopener noreferrer nofollow">https://star-navi.net/BlogsGernator/blogs/uss-prebles-helios-laser-how-ai-surveillance-defeats-military-drone-threats.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Preble&#x27;s HELIOS Laser: How AI Surveillance Defeats...This critical event, documented in the Fiscal Year 2024 Annual Report released...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: euronews.com  
    Title: what is helios the us laser destroying cheap iranian drones for cents  
-   Link: <a href="https://www.euronews.com/2026/03/16/what-is-helios-the-us-laser-destroying-cheap-iranian-drones-for-cents" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/2026/03/16/what-is-helios-the-us-laser-destroying-cheap-iranian-drones-for-cents</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is HELIOS, the US laser destroying cheap Iranian...16 Mar 2026 — Last week, it was reported that a US Navy ship, the USS Preble, an...</p></details>
+   Link:<a href="https://www.euronews.com/2026/03/16/what-is-helios-the-us-laser-destroying-cheap-iranian-drones-for-cents" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/2026/03/16/what-is-helios-the-us-laser-destroying-cheap-iranian-drones-for-cents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is HELIOS, the US laser destroying cheap Iranian...16 Mar 2026 — Last week, it was reported that a US Navy ship, the USS Preble, an...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: defenceconnect.com.au  
    Title: 15469 us military trials ship mounted laser against uav targets  
-   Link: <a href="https://www.defenceconnect.com.au/naval/15469-us-military-trials-ship-mounted-laser-against-uav-targets" target="_blank" rel="noopener noreferrer nofollow">https://www.defenceconnect.com.au/naval/15469-us-military-trials-ship-mounted-laser-against-uav-targets</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US military trials ship-mounted laser against UAV targets4 Feb 2025 — The HELIOS LWS, manufactured by Lockheed Martin, was trialled aboar...</p></details>
+   Link:<a href="https://www.defenceconnect.com.au/naval/15469-us-military-trials-ship-mounted-laser-against-uav-targets" target="_blank" rel="noopener noreferrer nofollow">https://www.defenceconnect.com.au/naval/15469-us-military-trials-ship-mounted-laser-against-uav-targets</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US military trials ship-mounted laser against UAV targets4 Feb 2025 — The HELIOS LWS, manufactured by Lockheed Martin, was trialled aboar...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: laserwars.net  
    Title: us [navy laser](&#123;&#123; 'laser-lineage/' | relative_url &#125;&#125;) weapon iran operation epic fury  
-   Link: <a href="https://www.laserwars.net/p/us-navy-laser-weapon-iran-operation-epic-fury" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/us-navy-laser-weapon-iran-operation-epic-fury</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Laser Weapon Quietly Watching Over the US Strikes...5 Mar 2026 — It&#x27;s worth noting that media reports claiming the Navy employed HEL...</p></details>
+   Link:<a href="https://www.laserwars.net/p/us-navy-laser-weapon-iran-operation-epic-fury" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/us-navy-laser-weapon-iran-operation-epic-fury</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Laser Weapon Quietly Watching Over the US Strikes...5 Mar 2026 — It&#x27;s worth noting that media reports claiming the Navy employed HEL...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ourmidland.com  
    Title: uss preble laser weapon test 20146384  
-   Link: <a href="https://www.ourmidland.com/news/article/uss-preble-laser-weapon-test-20146384.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ourmidland.com/news/article/uss-preble-laser-weapon-test-20146384.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy tests HELIOS laser with USS Preble for drone...4 Feb 2025 — The USS Preble, a U.S. Navy destroyer, successfully tested its HELIOS l...</p></details>
+   Link:<a href="https://www.ourmidland.com/news/article/uss-preble-laser-weapon-test-20146384.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ourmidland.com/news/article/uss-preble-laser-weapon-test-20146384.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy tests HELIOS laser with USS Preble for drone...4 Feb 2025 — The USS Preble, a U.S. Navy destroyer, successfully tested its HELIOS l...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/americasnavy/posts/introducing-helios-%EF%B8%8F-the-navys-new-high-energy-laser-aboard-the-uss-preble-this-/1101530785341984/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/americasnavy/posts/introducing-helios-%EF%B8%8F-the-navys-new-high-energy-laser-aboard-the-uss-preble-this-/1101530785341984/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of four drones using the HELIOS (High Energy Laser with...</p></details>
+   Link:<a href="https://www.facebook.com/americasnavy/posts/introducing-helios-%EF%B8%8F-the-navys-new-high-energy-laser-aboard-the-uss-preble-this-/1101530785341984/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/americasnavy/posts/introducing-helios-%EF%B8%8F-the-navys-new-high-energy-laser-aboard-the-uss-preble-this-/1101530785341984/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of four drones using the HELIOS (High Energy Laser with...</p></details>

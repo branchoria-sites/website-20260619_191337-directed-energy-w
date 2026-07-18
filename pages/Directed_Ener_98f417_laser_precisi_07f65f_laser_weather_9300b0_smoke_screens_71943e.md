@@ -258,7 +258,7 @@ image: /assets/images/Directed_Ener_98f417_laser_precisi_07f65f_laser_weather_93
 
 ## Introduction
 
-Can smoke screens defeat [battlefield]({{ 'battle-limits/' | relative_url }}) lasers? The short answer is: sometimes, but not absolutely. Smoke, dust, aerosol clouds, and other obscurants can significantly reduce the effectiveness of laser weapons by scattering, absorbing, and distorting the beam before it reaches its target. In some circumstances they can reduce a laser's effective range, increase the time required to damage a target, or prevent a successful engagement altogether. However, modern laser systems are not helpless against smoke. Designers can select [wavelengths]({{ 'wavelengths/' | relative_url }}) that penetrate certain obscurants more effectively, increase beam power, and use advanced beam-control techniques to compensate for some atmospheric interference. The result is not a simple victory for either side, but an ongoing contest between concealment and beam propagation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.globalsecurity.org/military/library/policy/army/fm/3-50/Appg.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalsecurity.org">[GlobalSecurity+2ADS Abstracts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalsecurity.org</span><span class="citation-popover-title">Global Security FM 3-50: Smoke Operations</span><span class="citation-popover-snippet">FM 3-50: Smoke Operations - Appendix GObscurants and How They Work. Obscurants are particles suspended in the air that bloc...</span></span></span>
+Can smoke screens defeat [battlefield]({{ 'battle-limits/' | relative_url }}) lasers? The short answer is: sometimes, but not absolutely. Smoke, dust, aerosol clouds, and other obscurants can significantly reduce the effectiveness of laser weapons by scattering, absorbing, and distorting the beam before it reaches its target. In some circumstances they can reduce a laser's effective range, increase the time required to damage a target, or prevent a successful engagement altogether. However, modern laser systems are not helpless against smoke. Designers can select [wavelengths]({{ 'wavelengths/' | relative_url }}) that penetrate certain obscurants more effectively, increase beam power, and use advanced beam-control techniques to compensate for some atmospheric interference. The result is not a simple victory for either side, but an ongoing contest between concealment and beam propagation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.globalsecurity.org/military/library/policy/army/fm/3-50/Appg.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalsecurity.org">[GlobalSecurity+2ADS Abstracts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalsecurity.org</span><span class="citation-popover-title">Global Security FM 3-50: Smoke Operations</span><span class="citation-popover-snippet">FM 3-50: Smoke Operations - Appendix GObscurants and How They Work. Obscurants are particles suspended in the air that bloc...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_laser_weather_9300b0_smoke_screens_71943e-Illustration-1-dark.svg" | relative_url }}" alt="Smoke Screens illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_laser_weather_9300b0_smoke_screens_71943e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_laser_weather_9300b0_smoke_screens_71943e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -267,11 +267,11 @@ Can smoke screens defeat [battlefield]({{ 'battle-limits/' | relative_url }}) la
 Laser weapons depend on delivering concentrated energy onto a very small spot. Anything that spreads that energy over a larger area reduces the weapon's effectiveness. Smoke and dust interfere through two primary mechanisms:
 
 * **Scattering:** Particles redirect portions of the beam away from its intended path.
-* **Absorption:** Particles absorb some of the laser energy and convert it into heat rather than allowing it to reach the target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publicationsdrdo.in/index.php/dsj/article/download/4166/2427/11993" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publicationsdrdo.in">[Publications DRDO+2GlobalSecurity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publicationsdrdo.in</span><span class="citation-popover-snippet">Publications DRDORole of Smokes in WarfareWhen smoke comes in between the sensor and the target on the path of the laser energy, the smok...</span></span></span>
+* **Absorption:** Particles absorb some of the laser energy and convert it into heat rather than allowing it to reach the target.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publicationsdrdo.in/index.php/dsj/article/download/4166/2427/11993" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publicationsdrdo.in">[Publications DRDO+2GlobalSecurity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publicationsdrdo.in</span><span class="citation-popover-snippet">Publications DRDORole of Smokes in WarfareWhen smoke comes in between the sensor and the target on the path of the laser energy, the smok...</span></span></span>
 
-The effect is similar to shining a torch through dense fog. Some light still passes through, but much of it is dispersed in different directions. For a battlefield laser, even modest losses can matter because the weapon often needs to keep a high-energy spot focused on the same location for several seconds to achieve a kill. If the beam arrives weakened or enlarged, the target may survive long enough to escape or complete its mission. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/laser-wars-us-military-laser-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Arriving overseas in 2022 and actively engaging enemy drones, this marks a significant milestone in laser weapon technology for air defen...</span></span></span>
+The effect is similar to shining a torch through dense fog. Some light still passes through, but much of it is dispersed in different directions. For a battlefield laser, even modest losses can matter because the weapon often needs to keep a high-energy spot focused on the same location for several seconds to achieve a kill. If the beam arrives weakened or enlarged, the target may survive long enough to escape or complete its mission.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/laser-wars-us-military-laser-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Arriving overseas in 2022 and actively engaging enemy drones, this marks a significant milestone in laser weapon technology for air defen...</span></span></span>
 
-Dust clouds created by vehicle movement, artillery fire, collapsing buildings, and explosions can have similar effects. Unlike laboratory demonstrations conducted in clear air, combat environments are often filled with suspended particles that degrade optical propagation. Military analysts routinely identify smoke, dust, and aerosols as among the practical environmental limitations on high-energy laser systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/laser-wars-us-military-laser-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2Defense News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Arriving overseas in 2022 and actively engaging enemy drones, this marks a significant milestone in laser weapon technology for air defen...</span></span></span>
+Dust clouds created by vehicle movement, artillery fire, collapsing buildings, and explosions can have similar effects. Unlike laboratory demonstrations conducted in clear air, combat environments are often filled with suspended particles that degrade optical propagation. Military analysts routinely identify smoke, dust, and aerosols as among the practical environmental limitations on high-energy laser systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/laser-wars-us-military-laser-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2Defense News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Arriving overseas in 2022 and actively engaging enemy drones, this marks a significant milestone in laser weapon technology for air defen...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VRAM_QVw9g8" title="LOCUST® X3 Modular Directed Energy Laser Weapon System" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VRAM_QVw9g8" target="_blank" rel="noopener noreferrer">LOCUST® X3 Modular Directed Energy Laser Weapon System</a></p><p class="youtube-embed-meta">Channel: AV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VRAM_QVw9g8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VRAM_QVw9g8">Open on YouTube</a></p></div></div></div>
@@ -280,21 +280,21 @@ Dust clouds created by vehicle movement, artillery fire, collapsing buildings, a
 
 The effectiveness of a smoke screen depends heavily on its composition and the wavelength of the laser it is trying to block.
 
-Traditional battlefield smoke was primarily designed to block visible observation. Modern military obscurants are often engineered to interfere across multiple parts of the electromagnetic spectrum, including infrared and laser wavelengths used by sensors and targeting systems. Research on screening smoke has shown substantial differences in attenuation performance depending on particle chemistry, size distribution, and concentration. Some formulations are specifically designed to maximise laser absorption and scattering. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.science.gov/topicpages/l/laser%2Bweapon%2Bsystem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gov">[Science.gov+2VJOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gov</span><span class="citation-popover-snippet">obscurant performance, but hardly any...Read more...</span></span></span>
+Traditional battlefield smoke was primarily designed to block visible observation. Modern military obscurants are often engineered to interfere across multiple parts of the electromagnetic spectrum, including infrared and laser wavelengths used by sensors and targeting systems. Research on screening smoke has shown substantial differences in attenuation performance depending on particle chemistry, size distribution, and concentration. Some formulations are specifically designed to maximise laser absorption and scattering.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.science.gov/topicpages/l/laser%2Bweapon%2Bsystem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gov">[Science.gov+2VJOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gov</span><span class="citation-popover-snippet">obscurant performance, but hardly any...Read more...</span></span></span>
 
-This means that a smoke cloud effective against one laser wavelength may be less effective against another. The interaction is highly dependent on the match between the laser's operating frequency and the physical properties of the obscurant particles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/391310527_THE_LASER_ATTENUATION_AND_OBSCURANT_EFFICIENCY_OF_SCREENING_SMOKE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">391310527 THE LASER ATTENUATION AND OBSCURANT EFFICIENCY OF SCREENING SMOKE</span><span class="citation-popover-snippet">THE LASER ATTENUATION AND OBSCURANT...27 May 2026 — The findings indicate that red phosphorus-based smoke compositions exhib...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+This means that a smoke cloud effective against one laser wavelength may be less effective against another. The interaction is highly dependent on the match between the laser's operating frequency and the physical properties of the obscurant particles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/391310527_THE_LASER_ATTENUATION_AND_OBSCURANT_EFFICIENCY_OF_SCREENING_SMOKE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">391310527 THE LASER ATTENUATION AND OBSCURANT EFFICIENCY OF SCREENING SMOKE</span><span class="citation-popover-snippet">THE LASER ATTENUATION AND OBSCURANT...27 May 2026 — The findings indicate that red phosphorus-based smoke compositions exhib...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 ## Why Obscurants Are Active Countermeasures
 
 Smoke is often thought of as camouflage, but against laser systems it can function as a direct countermeasure.
 
-Military obscuration doctrine treats smoke as a way to interfere with sensors and guided weapons by degrading the transmission of electromagnetic energy through the [atmosphere]({{ 'atmosphere/' | relative_url }}). Historical military studies and doctrine documents describe obscurants as materials deliberately designed to attenuate portions of the electromagnetic spectrum rather than merely conceal visual movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.globalsecurity.org/military/library/policy/army/fm/3-50/Appg.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalsecurity.org">[GlobalSecurity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalsecurity.org</span><span class="citation-popover-title">Global Security FM 3-50: Smoke Operations</span><span class="citation-popover-snippet">FM 3-50: Smoke Operations - Appendix GObscurants and How They Work. Obscurants are particles suspended in the air that bloc...</span></span></span>
+Military obscuration doctrine treats smoke as a way to interfere with sensors and guided weapons by degrading the transmission of electromagnetic energy through the [atmosphere]({{ 'atmosphere/' | relative_url }}). Historical military studies and doctrine documents describe obscurants as materials deliberately designed to attenuate portions of the electromagnetic spectrum rather than merely conceal visual movement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.globalsecurity.org/military/library/policy/army/fm/3-50/Appg.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalsecurity.org">[GlobalSecurity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalsecurity.org</span><span class="citation-popover-title">Global Security FM 3-50: Smoke Operations</span><span class="citation-popover-snippet">FM 3-50: Smoke Operations - Appendix GObscurants and How They Work. Obscurants are particles suspended in the air that bloc...</span></span></span>
 
-The concept has long been applied against laser-guided weapons. Numerous studies examining laser-guided munitions conclude that smoke can reduce the energy reaching laser seekers and interfere with guidance by disrupting the optical path between designator and target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researching.cn/articles/OJ6cc2b3b41825c619" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researching.cn">[Semantic Scholar+3Researching+3SITP Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researching.cn</span><span class="citation-popover-snippet">Simulation study of smoke screen jamming laser terminal...18 May 2022 — Smoke screen scatters and absorbs energy from the inc...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
+The concept has long been applied against laser-guided weapons. Numerous studies examining laser-guided munitions conclude that smoke can reduce the energy reaching laser seekers and interfere with guidance by disrupting the optical path between designator and target.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researching.cn/articles/OJ6cc2b3b41825c619" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researching.cn">[Semantic Scholar+3Researching+3SITP Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researching.cn</span><span class="citation-popover-snippet">Simulation study of smoke screen jamming laser terminal...18 May 2022 — Smoke screen scatters and absorbs energy from the inc...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
 
-The same underlying physics applies to high-energy laser weapons. If a smoke cloud can substantially reduce the power delivered to a target, the laser may need longer exposure times or may fail to achieve the desired effect before the target moves away. In air-defence scenarios involving drones, rockets, or loitering munitions, even a short delay can be operationally significant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ui.adsabs.harvard.edu/abs/2021SPIE11867E..04S/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ui.adsabs.harvard.edu">[ADS Abstracts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ui.adsabs.harvard.edu</span><span class="citation-popover-snippet">Potential success of the smoke does not depend only the...Read more...</span></span></span>
+The same underlying physics applies to high-energy laser weapons. If a smoke cloud can substantially reduce the power delivered to a target, the laser may need longer exposure times or may fail to achieve the desired effect before the target moves away. In air-defence scenarios involving drones, rockets, or loitering munitions, even a short delay can be operationally significant.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ui.adsabs.harvard.edu/abs/2021SPIE11867E..04S/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ui.adsabs.harvard.edu">[ADS Abstracts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ui.adsabs.harvard.edu</span><span class="citation-popover-snippet">Potential success of the smoke does not depend only the...Read more...</span></span></span>
 
-A key advantage of obscurants is that they can be deployed rapidly and at relatively low cost. Unlike armour or electronic warfare systems, smoke can alter the engagement environment itself, attacking the laser's [line of sight]({{ 'dwell-time/' | relative_url }}) rather than the weapon platform. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fpri.org/article/2016/08/russia-blowing-smoke-literally-military-uses-artificial-fog/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fpri.org">[Foreign Policy Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fpri.org</span><span class="citation-popover-title">Foreign Policy Research Institute Why Is Russia Blowing Smoke (Literally)?</span><span class="citation-popover-snippet">The Military...19 Aug 2016 — The artificial fog—called “smoke” (dyma) in some reports—is said to be an aerosol that Russian armed forces...</span></span></span>
+A key advantage of obscurants is that they can be deployed rapidly and at relatively low cost. Unlike armour or electronic warfare systems, smoke can alter the engagement environment itself, attacking the laser's [line of sight]({{ 'dwell-time/' | relative_url }}) rather than the weapon platform.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fpri.org/article/2016/08/russia-blowing-smoke-literally-military-uses-artificial-fog/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fpri.org">[Foreign Policy Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fpri.org</span><span class="citation-popover-title">Foreign Policy Research Institute Why Is Russia Blowing Smoke (Literally)?</span><span class="citation-popover-snippet">The Military...19 Aug 2016 — The artificial fog—called “smoke” (dyma) in some reports—is said to be an aerosol that Russian armed forces...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_laser_weather_9300b0_smoke_screens_71943e-Illustration-2-dark.svg" | relative_url }}" alt="Smoke Screens illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_laser_weather_9300b0_smoke_screens_71943e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_laser_weather_9300b0_smoke_screens_71943e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -302,16 +302,16 @@ A key advantage of obscurants is that they can be deployed rapidly and at relati
 
 Smoke does not automatically make a target invulnerable. Modern laser programmes devote substantial effort to overcoming atmospheric interference.
 
-Beam-control technologies, [adaptive optics]({{ 'adaptive-optics/' | relative_url }}), wavelength selection, and increased laser power can partially compensate for scattering and absorption. Some atmospheric effects can be reduced by choosing portions of the electromagnetic spectrum that experience lower attenuation under expected operating conditions. Naval and land-based laser programmes have invested heavily in understanding these propagation challenges. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/laser-wars-us-military-laser-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Arriving overseas in 2022 and actively engaging enemy drones, this marks a significant milestone in laser weapon technology for air defen...</span></span></span>
+Beam-control technologies, [adaptive optics]({{ 'adaptive-optics/' | relative_url }}), wavelength selection, and increased laser power can partially compensate for scattering and absorption. Some atmospheric effects can be reduced by choosing portions of the electromagnetic spectrum that experience lower attenuation under expected operating conditions. Naval and land-based laser programmes have invested heavily in understanding these propagation challenges.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/laser-wars-us-military-laser-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Arriving overseas in 2022 and actively engaging enemy drones, this marks a significant milestone in laser weapon technology for air defen...</span></span></span>
 
 The practical outcome is often a competition between two variables:
 
 * How effectively the obscurant reduces beam quality.
 * How much excess power and beam correction capability the laser system possesses.
 
-If the smoke cloud is dense, persistent, and optimised for the relevant wavelengths, it may significantly reduce engagement effectiveness. If the laser is sufficiently powerful and the obscuration is thin or short-lived, the beam may still deliver enough energy to damage the target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ui.adsabs.harvard.edu/abs/2021SPIE11867E..04S/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ui.adsabs.harvard.edu">[ADS Abstracts+2VJOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ui.adsabs.harvard.edu</span><span class="citation-popover-snippet">Potential success of the smoke does not depend only the...Read more...</span></span></span>
+If the smoke cloud is dense, persistent, and optimised for the relevant wavelengths, it may significantly reduce engagement effectiveness. If the laser is sufficiently powerful and the obscuration is thin or short-lived, the beam may still deliver enough energy to damage the target.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ui.adsabs.harvard.edu/abs/2021SPIE11867E..04S/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ui.adsabs.harvard.edu">[ADS Abstracts+2VJOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ui.adsabs.harvard.edu</span><span class="citation-popover-snippet">Potential success of the smoke does not depend only the...Read more...</span></span></span>
 
-Researchers have even explored techniques for improving laser transmission through atmospheric interference. Experimental work on laser propagation in aerosol-rich environments illustrates that engineers continually seek ways to reduce the impact of scattering particles, highlighting that obscurants are recognised as a serious operational challenge rather than a trivial nuisance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2203.00196" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Atmospheric aerosol clearing by femtosecond filaments</span><span class="citation-popover-snippet">Atmospheric aerosol clearing by femtosecond filamentsMarch 1, 2022...</span><span class="citation-popover-meta">Published: March 1, 2022</span></span></span>
+Researchers have even explored techniques for improving laser transmission through atmospheric interference. Experimental work on laser propagation in aerosol-rich environments illustrates that engineers continually seek ways to reduce the impact of scattering particles, highlighting that obscurants are recognised as a serious operational challenge rather than a trivial nuisance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2203.00196" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Atmospheric aerosol clearing by femtosecond filaments</span><span class="citation-popover-snippet">Atmospheric aerosol clearing by femtosecond filamentsMarch 1, 2022...</span><span class="citation-popover-meta">Published: March 1, 2022</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JGzL3fZgPZY" title="Laser and Microwave Weapons - Directed-Energy Weapon Programs, Potential, and Issues" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JGzL3fZgPZY" target="_blank" rel="noopener noreferrer">Laser and Microwave Weapons - Directed-Energy Weapon Programs, Potential, and Issues</a></p><p class="youtube-embed-meta">Channel: Perun</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JGzL3fZgPZY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JGzL3fZgPZY">Open on YouTube</a></p></div></div></div>
@@ -320,195 +320,195 @@ Researchers have even explored techniques for improving laser transmission throu
 
 One of the most important realities is that battlefields naturally generate obscurants even when nobody deliberately deploys smoke.
 
-Burning vehicles, artillery impacts, collapsing structures, rotor wash, desert dust, and urban debris all create airborne particle clouds. Consequently, laser weapons are unlikely to operate in the pristine conditions often seen in demonstrations. Military reporting on operational laser development repeatedly highlights dust, smoke, aerosols, and other atmospheric contaminants as real-world factors that can degrade performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/laser-wars-us-military-laser-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Arriving overseas in 2022 and actively engaging enemy drones, this marks a significant milestone in laser weapon technology for air defen...</span></span></span>
+Burning vehicles, artillery impacts, collapsing structures, rotor wash, desert dust, and urban debris all create airborne particle clouds. Consequently, laser weapons are unlikely to operate in the pristine conditions often seen in demonstrations. Military reporting on operational laser development repeatedly highlights dust, smoke, aerosols, and other atmospheric contaminants as real-world factors that can degrade performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/laser-wars-us-military-laser-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Arriving overseas in 2022 and actively engaging enemy drones, this marks a significant milestone in laser weapon technology for air defen...</span></span></span>
 
-This does not mean [lasers]({{ 'lasers/' | relative_url }}) are ineffective. Rather, it reinforces the reason most militaries view them as one layer within a broader air-defence architecture. Missiles, guns, electronic warfare systems, and lasers each perform differently under varying environmental conditions. A smoke screen that reduces laser effectiveness may have little impact on other defensive systems, while a clear atmosphere may favour laser engagement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everycrsreport.com/files/2024-07-11_R46925_4c1e5a38ad3d6906a3ea03e0972e08d8979659f3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everycrsreport.com">[EveryCRSReport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everycrsreport.com</span><span class="citation-popover-title">Every CRSReport HTMLDepartment of Defense Directed Energy</span><span class="citation-popover-snippet">HTMLDepartment of Defense Directed Energy July 11, 2024. Weapons: Background and Issues for Congress Kelley M. Sayler, Dire...</span><span class="citation-popover-meta">Published: July 11, 2024</span></span></span>
+This does not mean [lasers]({{ 'lasers/' | relative_url }}) are ineffective. Rather, it reinforces the reason most militaries view them as one layer within a broader air-defence architecture. Missiles, guns, electronic warfare systems, and lasers each perform differently under varying environmental conditions. A smoke screen that reduces laser effectiveness may have little impact on other defensive systems, while a clear atmosphere may favour laser engagement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everycrsreport.com/files/2024-07-11_R46925_4c1e5a38ad3d6906a3ea03e0972e08d8979659f3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everycrsreport.com">[EveryCRSReport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everycrsreport.com</span><span class="citation-popover-title">Every CRSReport HTMLDepartment of Defense Directed Energy</span><span class="citation-popover-snippet">HTMLDepartment of Defense Directed Energy July 11, 2024. Weapons: Background and Issues for Congress Kelley M. Sayler, Dire...</span><span class="citation-popover-meta">Published: July 11, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X1toVupe_R8" title="U.S. Directed Energy Weapons Systems" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer">U.S. Directed Energy Weapons Systems</a></p><p class="youtube-embed-meta">Channel: U.S. Government Accountability Office (GAO)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X1toVupe_R8">Open on YouTube</a></p></div></div></div>
 
 ## Can Smoke Screens Blind Battlefield Lasers?
 
-Smoke screens can indeed act as a meaningful defence against battlefield lasers. By scattering and absorbing laser energy, they can shorten engagement ranges, increase required dwell times, degrade tracking performance, and in some situations prevent a successful kill. Purpose-built multispectral obscurants are especially relevant because they are designed specifically to interfere with optical and laser systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vjol.info.vn/index.php/lqdtu_lyhoa/article/download/112727/94431/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vjol.info.vn">[VJOL+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vjol.info.vn</span><span class="citation-popover-snippet">LASER ATTENUATION AND OBSCURANT...28 Apr 2025 — Smoke screens typically have high laser absorption and scattering capabilities and s...</span></span></span>
+Smoke screens can indeed act as a meaningful defence against battlefield lasers. By scattering and absorbing laser energy, they can shorten engagement ranges, increase required dwell times, degrade tracking performance, and in some situations prevent a successful kill. Purpose-built multispectral obscurants are especially relevant because they are designed specifically to interfere with optical and laser systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vjol.info.vn/index.php/lqdtu_lyhoa/article/download/112727/94431/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vjol.info.vn">[VJOL+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vjol.info.vn</span><span class="citation-popover-snippet">LASER ATTENUATION AND OBSCURANT...28 Apr 2025 — Smoke screens typically have high laser absorption and scattering capabilities and s...</span></span></span>
 
-However, smoke is not a universal shield. Its effectiveness depends on density, composition, persistence, environmental conditions, and the characteristics of the laser itself. As laser technology improves, so do efforts to penetrate or compensate for obscured environments. The result is an enduring tactical competition: concealment seeks to deny the beam a clear path, while beam-control technology seeks to restore it. In that sense, smoke does not permanently defeat battlefield lasers, but it remains one of the most practical and well-established methods of reducing their effectiveness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ui.adsabs.harvard.edu/abs/2021SPIE11867E..04S/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ui.adsabs.harvard.edu">[ADS Abstracts+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ui.adsabs.harvard.edu</span><span class="citation-popover-snippet">Potential success of the smoke does not depend only the...Read more...</span></span></span>
+However, smoke is not a universal shield. Its effectiveness depends on density, composition, persistence, environmental conditions, and the characteristics of the laser itself. As laser technology improves, so do efforts to penetrate or compensate for obscured environments. The result is an enduring tactical competition: concealment seeks to deny the beam a clear path, while beam-control technology seeks to restore it. In that sense, smoke does not permanently defeat battlefield lasers, but it remains one of the most practical and well-established methods of reducing their effectiveness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ui.adsabs.harvard.edu/abs/2021SPIE11867E..04S/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ui.adsabs.harvard.edu">[ADS Abstracts+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ui.adsabs.harvard.edu</span><span class="citation-popover-snippet">Potential success of the smoke does not depend only the...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_laser_weather_9300b0_smoke_screens_71943e-Illustration-3-dark.svg" | relative_url }}" alt="Smoke Screens illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_laser_weather_9300b0_smoke_screens_71943e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_laser_weather_9300b0_smoke_screens_71943e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Smoke Screens. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Smoke Screens. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Explains modern sensor networks, engagement geometry, and layered defenses that help address line-of-sight limitations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains modern sensor networks, engagement geometry, and layered defenses that help address line-of-sight limitations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NyU3EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Leo Janos, Ben R. Rich</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NyU3EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Leo Janos, Ben R. Rich</p>
         
-        <p class="fr-book-desc">Provides accessible insight into aerospace defense innovation and the operational realities behind advanced weapon systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides accessible insight into aerospace defense innovation and the operational realities behind advanced weapon systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Modern+Ew+Systems+Andrea+De+Martino&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Modern Ew Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9217588-M.jpg" alt="Cover for Introduction to Modern Ew Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Modern+Ew+Systems+Andrea+De+Martino&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Modern Ew Systems">Introduction to Modern Ew Systems</a>
-        </h4>
-        <p class="fr-book-author">By Andrea De Martino</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Modern+Ew+Systems+Andrea+De+Martino&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Modern Ew Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9217588-M.jpg" alt="Cover for Introduction to Modern Ew Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Modern+Ew+Systems+Andrea+De+Martino&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Modern Ew Systems">Introduction to Modern Ew Systems</a>
+</h4>
+<p class="fr-book-author">By Andrea De Martino</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Electronics in military engineering, Electronic countermeasures, Contre-mesures électroniques, TECHNOLOGY...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Modern+Ew+Systems+Andrea+De+Martino&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Electronics in military engineering, Electronic countermeasures, Contre-mesures électroniques, TECHNOLOGY...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Modern+Ew+Systems+Andrea+De+Martino&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media+Larry+C.+Andrews+and+Ronald+L.+Phillips&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Laser Beam Propagation through Random Media on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media+Larry+C.+Andrews+and+Ronald+L.+Phillips&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser Beam Propagation through Random Media">Laser Beam Propagation through Random Media</a>
-        </h4>
-        <p class="fr-book-author">By Larry C. Andrews and Ronald L. Phillips</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media+Larry+C.+Andrews+and+Ronald+L.+Phillips&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Laser Beam Propagation through Random Media on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media+Larry+C.+Andrews+and+Ronald+L.+Phillips&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser Beam Propagation through Random Media">Laser Beam Propagation through Random Media</a>
+</h4>
+<p class="fr-book-author">By Larry C. Andrews and Ronald L. Phillips</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media+Larry+C.+Andrews+and+Ronald+L.+Phillips&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media+Larry+C.+Andrews+and+Ronald+L.+Phillips&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Modern+Ew+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Modern Ew Systems books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Modern+Ew+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Modern Ew Systems books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoke-screens-directed-ener-air-defense-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense model" data-ebay-reference="smoke-screens-directed-ener-air-defense-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW 3D Printed 1/144 United States air defense truck Model Finished Product"><img src="{{ '/assets/images/marketplace-covers/c898693b010519981b42.jpg' | relative_url }}" alt="Listing image for NEW 3D Printed 1/144 United States air defense truck Model Finished Product" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoke-screens-directed-ener-air-defense-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense model" data-ebay-reference="smoke-screens-directed-ener-air-defense-model" target="_blank" rel="sponsored noopener noreferrer">NEW 3D Printed 1/144 United States air defense truck Model Finished Product</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoke-screens-directed-ener-air-defense-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense model" data-ebay-reference="smoke-screens-directed-ener-air-defense-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense model">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoke-screens-directed-ener-air-defense-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense model" data-ebay-reference="smoke-screens-directed-ener-air-defense-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoke-screens-directed-ener-air-defense-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense model" data-ebay-reference="smoke-screens-directed-ener-air-defense-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW 3D Printed 1/144 United States air defense truck Model Finished Product"><img src="{{ '/assets/images/marketplace-covers/c898693b010519981b42.jpg' | relative_url }}" alt="Listing image for NEW 3D Printed 1/144 United States air defense truck Model Finished Product" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoke-screens-directed-ener-air-defense-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense model" data-ebay-reference="smoke-screens-directed-ener-air-defense-model" target="_blank" rel="sponsored noopener noreferrer">NEW 3D Printed 1/144 United States air defense truck Model Finished Product</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoke-screens-directed-ener-air-defense-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense model" data-ebay-reference="smoke-screens-directed-ener-air-defense-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense model">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoke-screens-directed-ener-air-defense-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense model" data-ebay-reference="smoke-screens-directed-ener-air-defense-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoke-screens-directed-ener-air-defense-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense model" data-ebay-reference="smoke-screens-directed-ener-air-defense-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for S-300 Russian Air Defense Missile Radar Vehicle 1:72 Simulation Military Model O"><img src="{{ '/assets/images/marketplace-covers/fbaf0b02494f50e22453.jpg' | relative_url }}" alt="Listing image for S-300 Russian Air Defense Missile Radar Vehicle 1:72 Simulation Military Model O" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoke-screens-directed-ener-air-defense-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense model" data-ebay-reference="smoke-screens-directed-ener-air-defense-model" target="_blank" rel="sponsored noopener noreferrer">S-300 Russian Air Defense Missile Radar Vehicle 1:72 Simulation Military Model O</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoke-screens-directed-ener-air-defense-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense model" data-ebay-reference="smoke-screens-directed-ener-air-defense-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense model">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoke-screens-directed-ener-air-defense-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense model" data-ebay-reference="smoke-screens-directed-ener-air-defense-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoke-screens-directed-ener-air-defense-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense model" data-ebay-reference="smoke-screens-directed-ener-air-defense-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for S-300 Russian Air Defense Missile Radar Vehicle 1:72 Simulation Military Model O"><img src="{{ '/assets/images/marketplace-covers/fbaf0b02494f50e22453.jpg' | relative_url }}" alt="Listing image for S-300 Russian Air Defense Missile Radar Vehicle 1:72 Simulation Military Model O" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoke-screens-directed-ener-air-defense-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense model" data-ebay-reference="smoke-screens-directed-ener-air-defense-model" target="_blank" rel="sponsored noopener noreferrer">S-300 Russian Air Defense Missile Radar Vehicle 1:72 Simulation Military Model O</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoke-screens-directed-ener-air-defense-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense model" data-ebay-reference="smoke-screens-directed-ener-air-defense-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense model">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoke-screens-directed-ener-air-defense-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense model" data-ebay-reference="smoke-screens-directed-ener-air-defense-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoke-screens-directed-ener-air-defense-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense model" data-ebay-reference="smoke-screens-directed-ener-air-defense-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D Printed 1/144 British Rapier Air Defense Missile Unpainted Model Kit"><img src="{{ '/assets/images/marketplace-covers/6c2b838466dcb9a70d6b.jpg' | relative_url }}" alt="Listing image for 3D Printed 1/144 British Rapier Air Defense Missile Unpainted Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoke-screens-directed-ener-air-defense-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense model" data-ebay-reference="smoke-screens-directed-ener-air-defense-model" target="_blank" rel="sponsored noopener noreferrer">3D Printed 1/144 British Rapier Air Defense Missile Unpainted Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoke-screens-directed-ener-air-defense-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense model" data-ebay-reference="smoke-screens-directed-ener-air-defense-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense model">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoke-screens-directed-ener-air-defense-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense model" data-ebay-reference="smoke-screens-directed-ener-air-defense-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoke-screens-directed-ener-air-defense-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense model" data-ebay-reference="smoke-screens-directed-ener-air-defense-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoke-screens-directed-ener-air-defense-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense model" data-ebay-reference="smoke-screens-directed-ener-air-defense-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D Printed 1/144 British Rapier Air Defense Missile Unpainted Model Kit"><img src="{{ '/assets/images/marketplace-covers/6c2b838466dcb9a70d6b.jpg' | relative_url }}" alt="Listing image for 3D Printed 1/144 British Rapier Air Defense Missile Unpainted Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoke-screens-directed-ener-air-defense-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense model" data-ebay-reference="smoke-screens-directed-ener-air-defense-model" target="_blank" rel="sponsored noopener noreferrer">3D Printed 1/144 British Rapier Air Defense Missile Unpainted Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoke-screens-directed-ener-air-defense-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense model" data-ebay-reference="smoke-screens-directed-ener-air-defense-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense model">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoke-screens-directed-ener-air-defense-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense model" data-ebay-reference="smoke-screens-directed-ener-air-defense-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoke-screens-directed-ener-air-defense-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense model" data-ebay-reference="smoke-screens-directed-ener-air-defense-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -524,7 +524,7 @@ However, smoke is not a universal shield. Its effectiveness depends on density, 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -544,7 +544,7 @@ However, smoke is not a universal shield. Its effectiveness depends on density, 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -576,7 +576,7 @@ However, smoke is not a universal shield. Its effectiveness depends on density, 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -628,7 +628,7 @@ However, smoke is not a universal shield. Its effectiveness depends on density, 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -673,7 +673,7 @@ However, smoke is not a universal shield. Its effectiveness depends on density, 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -714,160 +714,160 @@ However, smoke is not a universal shield. Its effectiveness depends on density, 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: globalsecurity.org  
    Title: Global Security FM 3-50: Smoke Operations  
-   Link: <a href="https://www.globalsecurity.org/military/library/policy/army/fm/3-50/Appg.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/military/library/policy/army/fm/3-50/Appg.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FM 3-50: Smoke Operations - Appendix GObscurants and How They Work. Obscurants are particles suspended in the air that bloc...</p></details>
+   Link:<a href="https://www.globalsecurity.org/military/library/policy/army/fm/3-50/Appg.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/military/library/policy/army/fm/3-50/Appg.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FM 3-50: Smoke Operations - Appendix GObscurants and How They Work. Obscurants are particles suspended in the air that bloc...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/laser-wars-us-military-laser-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/laser-wars-us-military-laser-weapons</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Arriving overseas in 2022 and actively engaging enemy drones, this marks a significant milestone in laser weapon technology for air defen...</p></details>
+   Link:<a href="https://www.wired.com/story/laser-wars-us-military-laser-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/laser-wars-us-military-laser-weapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Arriving overseas in 2022 and actively engaging enemy drones, this marks a significant milestone in laser weapon technology for air defen...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: publicationsdrdo.in  
-   Link: <a href="https://publicationsdrdo.in/index.php/dsj/article/download/4166/2427/11993" target="_blank" rel="noopener noreferrer nofollow">https://publicationsdrdo.in/index.php/dsj/article/download/4166/2427/11993</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Publications DRDORole of Smokes in WarfareWhen smoke comes in between the sensor and the target on the path of the laser energy, the smok...</p></details>
+   Link:<a href="https://publicationsdrdo.in/index.php/dsj/article/download/4166/2427/11993" target="_blank" rel="noopener noreferrer nofollow">https://publicationsdrdo.in/index.php/dsj/article/download/4166/2427/11993</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Publications DRDORole of Smokes in WarfareWhen smoke comes in between the sensor and the target on the path of the laser energy, the smok...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researching.cn  
-   Link: <a href="https://www.researching.cn/articles/OJ6cc2b3b41825c619" target="_blank" rel="noopener noreferrer nofollow">https://www.researching.cn/articles/OJ6cc2b3b41825c619</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Simulation study of smoke screen jamming laser terminal...18 May 2022 — Smoke screen scatters and absorbs energy from the inc...</p></details>
+   Link:<a href="https://www.researching.cn/articles/OJ6cc2b3b41825c619" target="_blank" rel="noopener noreferrer nofollow">https://www.researching.cn/articles/OJ6cc2b3b41825c619</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Simulation study of smoke screen jamming laser terminal...18 May 2022 — Smoke screen scatters and absorbs energy from the inc...</p></details>
    Published: May 2022  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.gov  
-   Link: <a href="https://www.science.gov/topicpages/l/laser%2Bweapon%2Bsystem" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/l/laser%2Bweapon%2Bsystem</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>) obscurant performance, but hardly any...Read more...</p></details>
+   Link:<a href="https://www.science.gov/topicpages/l/laser%2Bweapon%2Bsystem" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/l/laser%2Bweapon%2Bsystem</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>) obscurant performance, but hardly any...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
    Title: 391310527 THE LASER ATTENUATION AND OBSCURANT [EFFICIENCY](&#123;&#123; 'efficiency/' | relative_url &#125;&#125;) OF SCREENING SMOKE  
-   Link: <a href="https://www.researchgate.net/publication/391310527_THE_LASER_ATTENUATION_AND_OBSCURANT_EFFICIENCY_OF_SCREENING_SMOKE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391310527_THE_LASER_ATTENUATION_AND_OBSCURANT_EFFICIENCY_OF_SCREENING_SMOKE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE LASER ATTENUATION AND OBSCURANT...27 May 2026 — The findings indicate that red phosphorus-based smoke compositions exhib...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/391310527_THE_LASER_ATTENUATION_AND_OBSCURANT_EFFICIENCY_OF_SCREENING_SMOKE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391310527_THE_LASER_ATTENUATION_AND_OBSCURANT_EFFICIENCY_OF_SCREENING_SMOKE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE LASER ATTENUATION AND OBSCURANT...27 May 2026 — The findings indicate that red phosphorus-based smoke compositions exhib...</p></details>
    Published: May 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
    Title: 294148205 Study on simulation of smoke screen counterworks laser guided weapon  
-   Link: <a href="https://www.researchgate.net/publication/294148205_Study_on_simulation_of_smoke_screen_counterworks_laser_guided_weapon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/294148205_Study_on_simulation_of_smoke_screen_counterworks_laser_guided_weapon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Study on simulation of smoke screen counterworks laser...In order to measure the jamming effect of smoke on laser guided wea...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/294148205_Study_on_simulation_of_smoke_screen_counterworks_laser_guided_weapon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/294148205_Study_on_simulation_of_smoke_screen_counterworks_laser_guided_weapon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Study on simulation of smoke screen counterworks laser...In order to measure the jamming effect of smoke on laser guided wea...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Laser-Based Directed Energy WeaponsThis review aims to evaluate the current capabilities of laser-based Directed Energy Weapons (DE...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Laser-Based Directed Energy WeaponsThis review aims to evaluate the current capabilities of laser-based Directed Energy Weapons (DE...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv Atmospheric aerosol clearing by femtosecond filaments  
-   Link: <a href="https://arxiv.org/abs/2203.00196" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2203.00196</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric aerosol clearing by femtosecond filamentsMarch 1, 2022...</p></details>
+   Link:<a href="https://arxiv.org/abs/2203.00196" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2203.00196</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric aerosol clearing by femtosecond filamentsMarch 1, 2022...</p></details>
    Published: March 1, 2022  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: everycrsreport.com  
    Title: Every CRSReport HTMLDepartment of Defense Directed Energy  
-   Link: <a href="https://www.everycrsreport.com/files/2024-07-11_R46925_4c1e5a38ad3d6906a3ea03e0972e08d8979659f3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.everycrsreport.com/files/2024-07-11_R46925_4c1e5a38ad3d6906a3ea03e0972e08d8979659f3.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HTMLDepartment of Defense Directed Energy July 11, 2024. Weapons: Background and Issues for Congress Kelley M. Sayler, Dire...</p></details>
+   Link:<a href="https://www.everycrsreport.com/files/2024-07-11_R46925_4c1e5a38ad3d6906a3ea03e0972e08d8979659f3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.everycrsreport.com/files/2024-07-11_R46925_4c1e5a38ad3d6906a3ea03e0972e08d8979659f3.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HTMLDepartment of Defense Directed Energy July 11, 2024. Weapons: Background and Issues for Congress Kelley M. Sayler, Dire...</p></details>
    Published: July 11, 2024  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/2021SPIE11867E..04S/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2021SPIE11867E..04S/abstract</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Potential success of the smoke does not depend only the...Read more...</p></details>
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/2021SPIE11867E..04S/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2021SPIE11867E..04S/abstract</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Potential success of the smoke does not depend only the...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: defensenews.com  
    Title: army readies to launch 2026 competition for [counter drone](&#123;&#123; 'missile-savings/' | relative_url &#125;&#125;) laser weapon  
-   Link: <a href="https://www.defensenews.com/land/2025/08/06/army-readies-to-launch-2026-competition-for-counter-drone-laser-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.defensenews.com/land/2025/08/06/army-readies-to-launch-2026-competition-for-counter-drone-laser-weapon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Army readies to launch 2026 competition for counter-drone...Aug 6, 2025 — The Army wants laser weapons that can defeat drone threats, bu...</p></details>
+   Link:<a href="https://www.defensenews.com/land/2025/08/06/army-readies-to-launch-2026-competition-for-counter-drone-laser-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.defensenews.com/land/2025/08/06/army-readies-to-launch-2026-competition-for-counter-drone-laser-weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Army readies to launch 2026 competition for counter-drone...Aug 6, 2025 — The Army wants laser weapons that can defeat drone threats, bu...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: vjol.info.vn  
-   Link: <a href="https://vjol.info.vn/index.php/lqdtu_lyhoa/article/download/112727/94431/" target="_blank" rel="noopener noreferrer nofollow">https://vjol.info.vn/index.php/lqdtu_lyhoa/article/download/112727/94431/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LASER ATTENUATION AND OBSCURANT...28 Apr 2025 — Smoke screens typically have high laser absorption and scattering capabilities and s...</p></details>
+   Link:<a href="https://vjol.info.vn/index.php/lqdtu_lyhoa/article/download/112727/94431/" target="_blank" rel="noopener noreferrer nofollow">https://vjol.info.vn/index.php/lqdtu_lyhoa/article/download/112727/94431/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LASER ATTENUATION AND OBSCURANT...28 Apr 2025 — Smoke screens typically have high laser absorption and scattering capabilities and s...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: journal.sitp.ac.cn  
-   Link: <a href="https://journal.sitp.ac.cn/hw/hwen/article/html/h23064" target="_blank" rel="noopener noreferrer nofollow">https://journal.sitp.ac.cn/hw/hwen/article/html/h23064</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>To simulate the antagonistic process of smoke jamming...</p></details>
+   Link:<a href="https://journal.sitp.ac.cn/hw/hwen/article/html/h23064" target="_blank" rel="noopener noreferrer nofollow">https://journal.sitp.ac.cn/hw/hwen/article/html/h23064</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To simulate the antagonistic process of smoke jamming...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pdfs.semanticscholar.org  
-   Link: <a href="https://pdfs.semanticscholar.org/a4c4/9dfc553413c3f6e8723875b5264c9d08aeff.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdfs.semanticscholar.org/a4c4/9dfc553413c3f6e8723875b5264c9d08aeff.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Smokes in WarfareWhen the target is not visible because of the obscurant smoke cloud, the gunner can no longer guide the projectile to...</p></details>
+   Link:<a href="https://pdfs.semanticscholar.org/a4c4/9dfc553413c3f6e8723875b5264c9d08aeff.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdfs.semanticscholar.org/a4c4/9dfc553413c3f6e8723875b5264c9d08aeff.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Smokes in WarfareWhen the target is not visible because of the obscurant smoke cloud, the gunner can no longer guide the projectile to...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: fpri.org  
    Title: Foreign Policy Research Institute Why Is Russia Blowing Smoke (Literally)?  
-   Link: <a href="https://www.fpri.org/article/2016/08/russia-blowing-smoke-literally-military-uses-artificial-fog/" target="_blank" rel="noopener noreferrer nofollow">https://www.fpri.org/article/2016/08/russia-blowing-smoke-literally-military-uses-artificial-fog/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Military...19 Aug 2016 — The artificial fog—called “smoke” (dyma) in some reports—is said to be an aerosol that Russian armed forces...</p></details>
+   Link:<a href="https://www.fpri.org/article/2016/08/russia-blowing-smoke-literally-military-uses-artificial-fog/" target="_blank" rel="noopener noreferrer nofollow">https://www.fpri.org/article/2016/08/russia-blowing-smoke-literally-military-uses-artificial-fog/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Military...19 Aug 2016 — The artificial fog—called “smoke” (dyma) in some reports—is said to be an aerosol that Russian armed forces...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: army.mil  
-   Link: <a href="https://www.army.mil/article/129701/researchers_improve_smokes_obscurants_technology" target="_blank" rel="noopener noreferrer nofollow">https://www.army.mil/article/129701/researchers_improve_smokes_obscurants_technology</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers improve smokes, obscurants technologyJul 11, 2014 — They plan to explore analysis of other spectral regions, such as ultravio...</p></details>
+   Link:<a href="https://www.army.mil/article/129701/researchers_improve_smokes_obscurants_technology" target="_blank" rel="noopener noreferrer nofollow">https://www.army.mil/article/129701/researchers_improve_smokes_obscurants_technology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers improve smokes, obscurants technologyJul 11, 2014 — They plan to explore analysis of other spectral regions, such as ultravio...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Smoke screen  
-   Link: <a href="https://en.wikipedia.org/wiki/Smoke_screen" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Smoke_screen</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smoke screenA smoke screen is smoke released to mask the movement or location of military units such as infantry, tanks, aircraft, or...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Smoke_screen" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Smoke_screen</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smoke screenA smoke screen is smoke released to mask the movement or location of military units such as infantry, tanks, aircraft, or...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: freepatentsonline.com  
-   Link: <a href="https://www.freepatentsonline.com/3992628.html" target="_blank" rel="noopener noreferrer nofollow">https://www.freepatentsonline.com/3992628.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Countermeasure system for laser radiationA system for significantly reducing the laser energy striking an illuminated target such that th...</p></details>
+   Link:<a href="https://www.freepatentsonline.com/3992628.html" target="_blank" rel="noopener noreferrer nofollow">https://www.freepatentsonline.com/3992628.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Countermeasure system for laser radiationA system for significantly reducing the laser energy striking an illuminated target such that th...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: publications.sto.nato.int  
-   Link: <a href="https://publications.sto.nato.int/publications/AGARD/AGARD-CP-542/CP-542-24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.sto.nato.int/publications/AGARD/AGARD-CP-542/CP-542-24.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ic Radiation Anthony Van de Wal Chief, Obscuration...smokes and obscurant8 on weapon system performance. The primary mechanism for colle...</p></details>
+   Link:<a href="https://publications.sto.nato.int/publications/AGARD/AGARD-CP-542/CP-542-24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.sto.nato.int/publications/AGARD/AGARD-CP-542/CP-542-24.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ic Radiation Anthony Van de Wal Chief, Obscuration...smokes and obscurant8 on weapon system performance. The primary mechanism for colle...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: onr.navy.mil  
-   Link: <a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons and High Energy LasersDirected energy weapons (DEWs) are defined as electromagnetic systems capable of converting...</p></details>
+   Link:<a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons and High Energy LasersDirected energy weapons (DEWs) are defined as electromagnetic systems capable of converting...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/high" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/high</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/high" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/high</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: csbaonline.org  
    Title: The Promise of Directed-Energy Weaponsby M GUNZINGER · Cited by 52 — The U.S  
-   Link: <a href="https://csbaonline.org/uploads/documents/CSBA_ChangingTheGame_ereader.pdf" target="_blank" rel="noopener noreferrer nofollow">https://csbaonline.org/uploads/documents/CSBA_ChangingTheGame_ereader.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Marine Corps should leverage Navy and Army high-energy laser and. SSL development programs to accelerate fielding of a Ground-Based Air D...</p></details>
+   Link:<a href="https://csbaonline.org/uploads/documents/CSBA_ChangingTheGame_ereader.pdf" target="_blank" rel="noopener noreferrer nofollow">https://csbaonline.org/uploads/documents/CSBA_ChangingTheGame_ereader.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marine Corps should leverage Navy and Army high-energy laser and. SSL development programs to accelerate fielding of a Ground-Based Air D...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: laserwars.net  
    Title: army indirect fire protection capability high energy laser ifpc hel program  
-   Link: <a href="https://www.laserwars.net/p/army-indirect-fire-protection-capability-high-energy-laser-ifpc-hel-program" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/army-indirect-fire-protection-capability-high-energy-laser-ifpc-hel-program</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Army Is Abandoning Its 300 Kilowatt Laser Weapon EffortMar 23, 2026 — The US Army&#x27;s 300 kilowatt Indirect Fire Protection Capability...</p></details>
+   Link:<a href="https://www.laserwars.net/p/army-indirect-fire-protection-capability-high-energy-laser-ifpc-hel-program" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/army-indirect-fire-protection-capability-high-energy-laser-ifpc-hel-program</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Army Is Abandoning Its 300 Kilowatt Laser Weapon EffortMar 23, 2026 — The US Army&#x27;s 300 kilowatt Indirect Fire Protection Capability...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: news.usni.org  
    Title: report to congress on defense department directed energy weapons 2  
-   Link: <a href="https://news.usni.org/2024/02/15/report-to-congress-on-defense-department-directed-energy-weapons-2" target="_blank" rel="noopener noreferrer nofollow">https://news.usni.org/2024/02/15/report-to-congress-on-defense-department-directed-energy-weapons-2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to Congress on Defense Department Directed Energy...15 Feb 2024 — This report provides background information and issues for Congress on...</p></details>
+   Link:<a href="https://news.usni.org/2024/02/15/report-to-congress-on-defense-department-directed-energy-weapons-2" target="_blank" rel="noopener noreferrer nofollow">https://news.usni.org/2024/02/15/report-to-congress-on-defense-department-directed-energy-weapons-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to Congress on Defense Department Directed Energy...15 Feb 2024 — This report provides background information and issues for Congress on...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/qualitative-description-of-obscuration-factors-in-central-1hi1aj8xtn.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/qualitative-description-of-obscuration-factors-in-central-1hi1aj8xtn.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In late 1977 the Army Vice Chief of Staff expressed concern about the use of realistic battlefield...</p></details>
+   Link:<a href="https://scispace.com/pdf/qualitative-description-of-obscuration-factors-in-central-1hi1aj8xtn.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/qualitative-description-of-obscuration-factors-in-central-1hi1aj8xtn.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In late 1977 the Army Vice Chief of Staff expressed concern about the use of realistic battlefield...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: sto.nato.int  
    Title: directed energy weapons concepts and employment report  
-   Link: <a href="https://www.sto.nato.int/document/directed-energy-weapons-concepts-and-employment-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.sto.nato.int/document/directed-energy-weapons-concepts-and-employment-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NATO STODirected Energy Weapons Concepts and EmploymentDirected Energy Weapons Concepts and Employment – Report; Year: 2024; Loaded: De...</p></details>
+   Link:<a href="https://www.sto.nato.int/document/directed-energy-weapons-concepts-and-employment-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.sto.nato.int/document/directed-energy-weapons-concepts-and-employment-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NATO STODirected Energy Weapons Concepts and EmploymentDirected Energy Weapons Concepts and Employment – Report; Year: 2024; Loaded: De...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy WeaponsMay 25, 2023 — Directed energy weapons (DEW) use concentrated electromagnetic energy to...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy WeaponsMay 25, 2023 — Directed energy weapons (DEW) use concentrated electromagnetic energy to...</p></details>
    Published: May 25, 2023  

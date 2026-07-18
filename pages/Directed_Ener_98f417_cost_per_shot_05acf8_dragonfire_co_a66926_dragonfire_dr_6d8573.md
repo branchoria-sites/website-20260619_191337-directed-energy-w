@@ -275,34 +275,34 @@ image: /assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_dragonfire_co_a6
 
 ## Introduction
 
-The strongest argument for DragonFire is not that it makes air defence cheap; it is that it may prevent air defence from becoming unaffordably expensive. When a warship faces dozens of relatively low-cost drones, firing large numbers of interceptor missiles can create a damaging cost imbalance in which the defender spends far more money than the attacker. DragonFire's advertised operating cost of less than £10 per shot appears to reverse that equation dramatically. However, the economic case depends on more than electricity costs. The real question is whether the system can destroy enough drones, often enough, to justify hundreds of millions of pounds in development, procurement and integration spending. The answer is potentially yes, but only under specific operational conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Royal Navy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Dragon Fire is led by the Defence Science and Technology Laboratory</span><span class="citation-popover-snippet">Advanced future military laser achieves UK firstJanuary 19, 2024 — 19 Jan 2024 — The cost of operating the laser is typically less than £...</span><span class="citation-popover-meta">Published: January 19, 2024</span></span></span>
+The strongest argument for DragonFire is not that it makes air defence cheap; it is that it may prevent air defence from becoming unaffordably expensive. When a warship faces dozens of relatively low-cost drones, firing large numbers of interceptor missiles can create a damaging cost imbalance in which the defender spends far more money than the attacker. DragonFire's advertised operating cost of less than £10 per shot appears to reverse that equation dramatically. However, the economic case depends on more than electricity costs. The real question is whether the system can destroy enough drones, often enough, to justify hundreds of millions of pounds in development, procurement and integration spending. The answer is potentially yes, but only under specific operational conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Royal Navy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Dragon Fire is led by the Defence Science and Technology Laboratory</span><span class="citation-popover-snippet">Advanced future military laser achieves UK firstJanuary 19, 2024 — 19 Jan 2024 — The cost of operating the laser is typically less than £...</span><span class="citation-popover-meta">Published: January 19, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_dragonfire_co_a66926_dragonfire_dr_6d8573-Illustration-1-dark.svg" | relative_url }}" alt="Drone Savings illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_dragonfire_co_a66926_dragonfire_dr_6d8573-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_dragonfire_co_a66926_dragonfire_dr_6d8573-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Missiles Versus Drone Economics
 
-The basic arithmetic behind DragonFire is easy to understand. Many military drones cost tens of thousands of pounds or dollars rather than millions. Yet naval air-defence missiles frequently cost hundreds of thousands or even millions per engagement. Recent defence debates have focused on exactly this problem: attackers can launch large numbers of inexpensive drones while defenders consume costly interceptors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/lasers-cost-effective-iran-drone-neutralization-60-minutes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News+2epc.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">military is using anti-missile interceptors that cost millions.Read more</span><span class="citation-popover-snippet">CBS NewsWhy lasers, at $3 per shot, may be the next frontier for...5 days ago — To shoot down the drones, which can cost as little as $2...</span></span></span>
+The basic arithmetic behind DragonFire is easy to understand. Many military drones cost tens of thousands of pounds or dollars rather than millions. Yet naval air-defence missiles frequently cost hundreds of thousands or even millions per engagement. Recent defence debates have focused on exactly this problem: attackers can launch large numbers of inexpensive drones while defenders consume costly interceptors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/lasers-cost-effective-iran-drone-neutralization-60-minutes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News+2epc.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">military is using anti-missile interceptors that cost millions.Read more</span><span class="citation-popover-snippet">CBS NewsWhy lasers, at $3 per shot, may be the next frontier for...5 days ago — To shoot down the drones, which can cost as little as $2...</span></span></span>
 
-DragonFire is designed to change the exchange ratio. The UK Ministry of Defence states that operating the laser typically costs less than £10 per shot. Royal Navy statements similarly emphasise that a laser burst can engage drones, missiles or aircraft at a fraction of the cost of conventional interceptors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Dragon Fire is led by the Defence Science and Technology Laboratory</span><span class="citation-popover-snippet">Advanced future military laser achieves UK firstJanuary 19, 2024 — 19 Jan 2024 — The cost of operating the laser is typically less than £...</span><span class="citation-popover-meta">Published: January 19, 2024</span></span></span>
+DragonFire is designed to change the exchange ratio. The UK Ministry of Defence states that operating the laser typically costs less than £10 per shot. Royal Navy statements similarly emphasise that a laser burst can engage drones, missiles or aircraft at a fraction of the cost of conventional interceptors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Dragon Fire is led by the Defence Science and Technology Laboratory</span><span class="citation-popover-snippet">Advanced future military laser achieves UK firstJanuary 19, 2024 — 19 Jan 2024 — The cost of operating the laser is typically less than £...</span><span class="citation-popover-meta">Published: January 19, 2024</span></span></span>
 
-Consider a simplified swarm scenario. If a warship had to use a missile costing hundreds of thousands of pounds against every incoming drone, defeating fifty drones could require spending tens of millions of pounds in munitions alone. A laser engagement, by contrast, consumes electrical power rather than a physical interceptor. Even allowing for [maintenance]({{ 'maintenance/' | relative_url }}) and support costs, the marginal cost per engagement remains far lower. This is why militaries increasingly describe directed-energy weapons as a solution to the "cost-exchange" problem created by mass drone attacks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/lasers-cost-effective-iran-drone-neutralization-60-minutes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News+2AeroVironment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">military is using anti-missile interceptors that cost millions.Read more</span><span class="citation-popover-snippet">CBS NewsWhy lasers, at $3 per shot, may be the next frontier for...5 days ago — To shoot down the drones, which can cost as little as $2...</span></span></span>
+Consider a simplified swarm scenario. If a warship had to use a missile costing hundreds of thousands of pounds against every incoming drone, defeating fifty drones could require spending tens of millions of pounds in munitions alone. A laser engagement, by contrast, consumes electrical power rather than a physical interceptor. Even allowing for [maintenance]({{ 'maintenance/' | relative_url }}) and support costs, the marginal cost per engagement remains far lower. This is why militaries increasingly describe directed-energy weapons as a solution to the "cost-exchange" problem created by mass drone attacks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/lasers-cost-effective-iran-drone-neutralization-60-minutes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News+2AeroVironment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">military is using anti-missile interceptors that cost millions.Read more</span><span class="citation-popover-snippet">CBS NewsWhy lasers, at $3 per shot, may be the next frontier for...5 days ago — To shoot down the drones, which can cost as little as $2...</span></span></span>
 
-Another economic advantage is magazine depth. A ship carries only a limited number of missiles. A laser can continue engaging targets as long as sufficient electrical power and [cooling]({{ 'cooling/' | relative_url }}) capacity are available. In a prolonged drone raid, avoiding missile depletion may be as valuable as the direct financial savings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aspistrategist.org.au">[The Strategist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aspistrategist.org.au</span><span class="citation-popover-title">war at the speed of light the emerging role of directed energy weapons</span><span class="citation-popover-snippet">The Strategistthe emerging role of directed-energy weapons15 Apr 2026 — Certainly, directed-energy weapons may be key to inexpensively co...</span></span></span>
+Another economic advantage is magazine depth. A ship carries only a limited number of missiles. A laser can continue engaging targets as long as sufficient electrical power and [cooling]({{ 'cooling/' | relative_url }}) capacity are available. In a prolonged drone raid, avoiding missile depletion may be as valuable as the direct financial savings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aspistrategist.org.au">[The Strategist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aspistrategist.org.au</span><span class="citation-popover-title">war at the speed of light the emerging role of directed energy weapons</span><span class="citation-popover-snippet">The Strategistthe emerging role of directed-energy weapons15 Apr 2026 — Certainly, directed-energy weapons may be key to inexpensively co...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RAtT__ZEyJU" title="Watch This UK Laser Destroy Drones Instantly!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RAtT__ZEyJU" target="_blank" rel="noopener noreferrer">Watch This UK Laser Destroy Drones Instantly!</a></p><p class="youtube-embed-meta">Channel: Wes O&#x27;Donnell</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RAtT__ZEyJU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RAtT__ZEyJU">Open on YouTube</a></p></div></div></div>
 
 ## How Fixed Costs Are Spread Over Engagements
 
-The challenge is that DragonFire itself is expensive. The Royal Navy's move toward operational [deployment]({{ 'deployment/' | relative_url }}) is backed by a £316 million contract, and that figure sits on top of years of earlier research and development work involving Dstl, MBDA, Leonardo and QinetiQ. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2mbda-systems.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">boost for armed forces as new laser weapon takes down high speed drones</span><span class="citation-popover-snippet">Boost for Armed Forces as new laser weapon takes down...Nov 20, 2025 — DA awarded £316 million contract to deliver new DragonFire system...</span></span></span>
+The challenge is that DragonFire itself is expensive. The Royal Navy's move toward operational [deployment]({{ 'deployment/' | relative_url }}) is backed by a £316 million contract, and that figure sits on top of years of earlier research and development work involving Dstl, MBDA, Leonardo and QinetiQ.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2mbda-systems.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">boost for armed forces as new laser weapon takes down high speed drones</span><span class="citation-popover-snippet">Boost for Armed Forces as new laser weapon takes down...Nov 20, 2025 — DA awarded £316 million contract to deliver new DragonFire system...</span></span></span>
 
 This means the famous "under £10" figure does not determine whether the programme saves money. The economic question is whether enough future engagements occur to spread those fixed costs across a large number of successful interceptions.
 
 A useful way to think about the issue is infrastructure economics. Building a bridge may be expensive, but the cost per crossing falls as more vehicles use it. DragonFire works similarly. If deployed warships rarely fire the laser, the effective cost per kill remains high because the procurement and integration bill dominates. If the system repeatedly defeats large numbers of drones over years of service, the upfront investment becomes easier to justify.
 
-The argument becomes stronger when drone attacks are frequent. Recent naval operations in regions such as the Red Sea have highlighted how quickly missile inventories can be consumed by relatively inexpensive unmanned threats. In such environments, even a partially successful laser capability could preserve expensive missile stocks for more dangerous targets while handling suitable drones at much lower marginal cost. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mordorintelligence.com/industry-reports/directed-energy-weapons-market" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mordorintelligence.com">[Mordor Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mordorintelligence.com</span><span class="citation-popover-title">directed energy weapons market</span><span class="citation-popover-snippet">The UK&#x27;s DragonFire laser costs roughly GBP 10 (USD 13) per engagement compared with more...Read more...</span></span></span>
+The argument becomes stronger when drone attacks are frequent. Recent naval operations in regions such as the Red Sea have highlighted how quickly missile inventories can be consumed by relatively inexpensive unmanned threats. In such environments, even a partially successful laser capability could preserve expensive missile stocks for more dangerous targets while handling suitable drones at much lower marginal cost.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mordorintelligence.com/industry-reports/directed-energy-weapons-market" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mordorintelligence.com">[Mordor Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mordorintelligence.com</span><span class="citation-popover-title">directed energy weapons market</span><span class="citation-popover-snippet">The UK&#x27;s DragonFire laser costs roughly GBP 10 (USD 13) per engagement compared with more...Read more...</span></span></span>
 
-The savings case also improves because a laser does not require replenishment of interceptors after every engagement. Missiles must be manufactured, transported, stored and replaced. Electricity is generally cheaper and easier to provide aboard a warship than a continuous supply of high-end interceptors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.avinc.com/resources/press-releases/view/the-math-problem-breaking-air-defense-and-why-lasers-change-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avinc.com">[AeroVironment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avinc.com</span><span class="citation-popover-title">the math problem breaking air defense and why lasers change it</span><span class="citation-popover-snippet">AeroVironmentThe Math Problem Breaking Air Defense, And Why Lasers...4 Mar 2026 — The marginal cost per engagement is measured in electr...</span></span></span>
+The savings case also improves because a laser does not require replenishment of interceptors after every engagement. Missiles must be manufactured, transported, stored and replaced. Electricity is generally cheaper and easier to provide aboard a warship than a continuous supply of high-end interceptors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.avinc.com/resources/press-releases/view/the-math-problem-breaking-air-defense-and-why-lasers-change-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avinc.com">[AeroVironment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avinc.com</span><span class="citation-popover-title">the math problem breaking air defense and why lasers change it</span><span class="citation-popover-snippet">AeroVironmentThe Math Problem Breaking Air Defense, And Why Lasers...4 Mar 2026 — The marginal cost per engagement is measured in electr...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_dragonfire_co_a66926_dragonfire_dr_6d8573-Illustration-2-dark.svg" | relative_url }}" alt="Drone Savings illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_dragonfire_co_a66926_dragonfire_dr_6d8573-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_dragonfire_co_a66926_dragonfire_dr_6d8573-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -310,11 +310,11 @@ The savings case also improves because a laser does not require replenishment of
 
 The economic promise is real, but it is not automatic.
 
-First, [lasers]({{ 'lasers/' | relative_url }}) are not guaranteed to replace missiles. Directed-energy weapons generally require [line-of-sight]({{ 'dwell-time/' | relative_url }}) access to the target and can be affected by weather, atmospheric conditions and other environmental factors. Missiles remain necessary for longer-range engagements and situations where a laser cannot maintain a damaging beam on the target. Every drone that still requires a missile reduces the projected savings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aspistrategist.org.au">[The Strategist+2Tom&#x27;s Hardware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aspistrategist.org.au</span><span class="citation-popover-title">war at the speed of light the emerging role of directed energy weapons</span><span class="citation-popover-snippet">The Strategistthe emerging role of directed-energy weapons15 Apr 2026 — Certainly, directed-energy weapons may be key to inexpensively co...</span></span></span>
+First, [lasers]({{ 'lasers/' | relative_url }}) are not guaranteed to replace missiles. Directed-energy weapons generally require [line-of-sight]({{ 'dwell-time/' | relative_url }}) access to the target and can be affected by weather, atmospheric conditions and other environmental factors. Missiles remain necessary for longer-range engagements and situations where a laser cannot maintain a damaging beam on the target. Every drone that still requires a missile reduces the projected savings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aspistrategist.org.au">[The Strategist+2Tom&#x27;s Hardware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aspistrategist.org.au</span><span class="citation-popover-title">war at the speed of light the emerging role of directed energy weapons</span><span class="citation-popover-snippet">The Strategistthe emerging role of directed-energy weapons15 Apr 2026 — Certainly, directed-energy weapons may be key to inexpensively co...</span></span></span>
 
-Second, swarm attacks create a timing problem. Unlike a missile that can be launched and then pursue a target independently, a laser often needs to dwell on a target long enough to inflict damage. If dozens of drones arrive simultaneously from multiple directions, the system's ability to service targets quickly enough becomes a critical factor. A laser that can defeat drones one after another may still struggle if the incoming raid exceeds its engagement capacity. In such cases, missiles and guns remain necessary, reducing the economic advantage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aspistrategist.org.au">[The Strategist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aspistrategist.org.au</span><span class="citation-popover-title">war at the speed of light the emerging role of directed energy weapons</span><span class="citation-popover-snippet">The Strategistthe emerging role of directed-energy weapons15 Apr 2026 — Certainly, directed-energy weapons may be key to inexpensively co...</span></span></span>
+Second, swarm attacks create a timing problem. Unlike a missile that can be launched and then pursue a target independently, a laser often needs to dwell on a target long enough to inflict damage. If dozens of drones arrive simultaneously from multiple directions, the system's ability to service targets quickly enough becomes a critical factor. A laser that can defeat drones one after another may still struggle if the incoming raid exceeds its engagement capacity. In such cases, missiles and guns remain necessary, reducing the economic advantage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aspistrategist.org.au">[The Strategist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aspistrategist.org.au</span><span class="citation-popover-title">war at the speed of light the emerging role of directed energy weapons</span><span class="citation-popover-snippet">The Strategistthe emerging role of directed-energy weapons15 Apr 2026 — Certainly, directed-energy weapons may be key to inexpensively co...</span></span></span>
 
-Third, support costs matter. High-energy lasers require sophisticated tracking systems, thermal management, maintenance and trained operators. Analysts routinely note that low cost per shot does not eliminate the substantial expenses associated with development, integration, cooling systems and long-term support. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cenjows.in/wp-content/uploads/2025/12/MR_PRAKHAR_GANGWAR_WA_SEP25.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cenjows.in">[Cenjows+2QinetiQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cenjows.in</span><span class="citation-popover-snippet">DIRECTED ENERGY WEAPONSA powerful cooling system is required for its use. ○ Cost: Though the cost per shot is very low, its produc...</span></span></span>
+Third, support costs matter. High-energy lasers require sophisticated tracking systems, thermal management, maintenance and trained operators. Analysts routinely note that low cost per shot does not eliminate the substantial expenses associated with development, integration, cooling systems and long-term support.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cenjows.in/wp-content/uploads/2025/12/MR_PRAKHAR_GANGWAR_WA_SEP25.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cenjows.in">[Cenjows+2QinetiQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cenjows.in</span><span class="citation-popover-snippet">DIRECTED ENERGY WEAPONSA powerful cooling system is required for its use. ○ Cost: Though the cost per shot is very low, its produc...</span></span></span>
 
 Finally, the savings calculation depends on the threat. DragonFire is easiest to justify when it is destroying targets that would otherwise require expensive interceptors. If the alternative defence method is already inexpensive, the economic benefit shrinks considerably.
 
@@ -326,204 +326,204 @@ Finally, the savings calculation depends on the threat. DragonFire is easiest to
 
 ## What the Royal Navy Actually Needs to Prove
 
-For DragonFire, the key financial milestone is not demonstrating a £[10 shot]({{ '10-shot/' | relative_url }}). That claim is already well established by official programme statements. The harder task is proving that operational warships can repeatedly use the system against realistic drone raids and thereby avoid large missile expenditures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Dragon Fire is led by the Defence Science and Technology Laboratory</span><span class="citation-popover-snippet">Advanced future military laser achieves UK firstJanuary 19, 2024 — 19 Jan 2024 — The cost of operating the laser is typically less than £...</span><span class="citation-popover-meta">Published: January 19, 2024</span></span></span>
+For DragonFire, the key financial milestone is not demonstrating a £[10 shot]({{ '10-shot/' | relative_url }}). That claim is already well established by official programme statements. The harder task is proving that operational warships can repeatedly use the system against realistic drone raids and thereby avoid large missile expenditures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Dragon Fire is led by the Defence Science and Technology Laboratory</span><span class="citation-popover-snippet">Advanced future military laser achieves UK firstJanuary 19, 2024 — 19 Jan 2024 — The cost of operating the laser is typically less than £...</span><span class="citation-popover-meta">Published: January 19, 2024</span></span></span>
 
-Recent trials have strengthened the case by showing successful interceptions of high-speed drones and helping justify accelerated Royal Navy deployment. Those results suggest the technology is moving beyond laboratory demonstrations toward practical use. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Tom&#x27;s Hardware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">boost for armed forces as new laser weapon takes down high speed drones</span><span class="citation-popover-snippet">Boost for Armed Forces as new laser weapon takes down...Nov 20, 2025 — DA awarded £316 million contract to deliver new DragonFire system...</span></span></span>
+Recent trials have strengthened the case by showing successful interceptions of high-speed drones and helping justify accelerated Royal Navy deployment. Those results suggest the technology is moving beyond laboratory demonstrations toward practical use.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Tom&#x27;s Hardware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">boost for armed forces as new laser weapon takes down high speed drones</span><span class="citation-popover-snippet">Boost for Armed Forces as new laser weapon takes down...Nov 20, 2025 — DA awarded £316 million contract to deliver new DragonFire system...</span></span></span>
 
-The most realistic assessment is therefore neither that DragonFire will revolutionise defence economics nor that the cost claims are meaningless. Its value lies in improving the defender's cost position during sustained drone attacks. If operational deployments show that it can reliably remove large numbers of suitable drone targets while preserving missile inventories, the system could save substantial sums over its service life. If environmental limitations, maintenance demands or swarm saturation reduce its real-world effectiveness, the impressive cost-per-shot figure will matter far less than supporters hope. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aspistrategist.org.au">[The Strategist+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aspistrategist.org.au</span><span class="citation-popover-title">war at the speed of light the emerging role of directed energy weapons</span><span class="citation-popover-snippet">The Strategistthe emerging role of directed-energy weapons15 Apr 2026 — Certainly, directed-energy weapons may be key to inexpensively co...</span></span></span>
+The most realistic assessment is therefore neither that DragonFire will revolutionise defence economics nor that the cost claims are meaningless. Its value lies in improving the defender's cost position during sustained drone attacks. If operational deployments show that it can reliably remove large numbers of suitable drone targets while preserving missile inventories, the system could save substantial sums over its service life. If environmental limitations, maintenance demands or swarm saturation reduce its real-world effectiveness, the impressive cost-per-shot figure will matter far less than supporters hope.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aspistrategist.org.au">[The Strategist+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aspistrategist.org.au</span><span class="citation-popover-title">war at the speed of light the emerging role of directed energy weapons</span><span class="citation-popover-snippet">The Strategistthe emerging role of directed-energy weapons15 Apr 2026 — Certainly, directed-energy weapons may be key to inexpensively co...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_dragonfire_co_a66926_dragonfire_dr_6d8573-Illustration-3-dark.svg" | relative_url }}" alt="Drone Savings illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_dragonfire_co_a66926_dragonfire_dr_6d8573-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_dragonfire_co_a66926_dragonfire_dr_6d8573-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Will Cheap Laser Shots Beat Drone Defence Costs?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Will Cheap Laser Shots Beat Drone Defence Costs?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
-        </h4>
-        <p class="fr-book-author">By Paul Scharre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
+</h4>
+<p class="fr-book-author">By Paul Scharre</p>
         
-        <p class="fr-book-desc">Explains how automation, autonomy and new weapon systems reshape military economics and force structures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how automation, autonomy and new weapon systems reshape military economics and force structures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Examines the affordability, scalability and effectiveness challenges of modern defence systems versus emerging threats such as drones and...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the affordability, scalability and effectiveness challenges of modern defence systems versus emerging threats such as drones and...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warfare+by+John+Kaag&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warfare on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=I8oOBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warfare" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drone+Warfare+by+John+Kaag&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warfare">Drone Warfare</a>
-        </h4>
-        <p class="fr-book-author">By John Kaag, Sarah Kreps</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warfare+by+John+Kaag&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warfare on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=I8oOBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warfare" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drone+Warfare+by+John+Kaag&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warfare">Drone Warfare</a>
+</h4>
+<p class="fr-book-author">By John Kaag, Sarah Kreps</p>
         
-        <p class="fr-book-desc">Provides important context on drone operations, proliferation and the strategic problem that laser air-defence systems seek to solve.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drone+Warfare+by+John+Kaag&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides important context on drone operations, proliferation and the strategic problem that laser air-defence systems seek to solve.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drone+Warfare+by+John+Kaag&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Swarm+Troopers+David+Hambling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Swarm Troopers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10248078-M.jpg" alt="Cover for Swarm Troopers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Swarm+Troopers+David+Hambling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Swarm Troopers">Swarm Troopers</a>
-        </h4>
-        <p class="fr-book-author">By David Hambling</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Swarm+Troopers+David+Hambling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Swarm Troopers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10248078-M.jpg" alt="Cover for Swarm Troopers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Swarm+Troopers+David+Hambling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Swarm Troopers">Swarm Troopers</a>
+</h4>
+<p class="fr-book-author">By David Hambling</p>
         
-        <p class="fr-book-desc">First published 2015.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Swarm+Troopers+David+Hambling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Swarm+Troopers+David+Hambling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Warfare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Warfare</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Warfare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Warfare</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drone Pilot Model Builder Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2710b7716c86724863e7.jpg' | relative_url }}" alt="Listing image for Drone Pilot Model Builder Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer">Drone Pilot Model Builder Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drone Pilot Model Builder Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2710b7716c86724863e7.jpg' | relative_url }}" alt="Listing image for Drone Pilot Model Builder Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer">Drone Pilot Model Builder Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Drone Pilot Vintage Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f1614915c1e1edb99e45.jpg' | relative_url }}" alt="Listing image for Retro Drone Pilot Vintage Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Drone Pilot Vintage Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Drone Pilot Vintage Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f1614915c1e1edb99e45.jpg' | relative_url }}" alt="Listing image for Retro Drone Pilot Vintage Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Drone Pilot Vintage Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Darwen Tower at Dawn erial Drone Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7c55c179c741733c41e5.jpg' | relative_url }}" alt="Listing image for Darwen Tower at Dawn erial Drone Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer">Darwen Tower at Dawn erial Drone Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Darwen Tower at Dawn erial Drone Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7c55c179c741733c41e5.jpg' | relative_url }}" alt="Listing image for Darwen Tower at Dawn erial Drone Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer">Darwen Tower at Dawn erial Drone Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for American Flag Drone Pilot Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b74d22984eb98ad9434f.jpg' | relative_url }}" alt="Listing image for American Flag Drone Pilot Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer">American Flag Drone Pilot Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: military drone poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for American Flag Drone Pilot Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b74d22984eb98ad9434f.jpg' | relative_url }}" alt="Listing image for American Flag Drone Pilot Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer">American Flag Drone Pilot Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military drone poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: military drone poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+drone+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military drone poster" data-ebay-reference="drone-savings-will-cheap-laser-shots-beat-drone-defence-costs-directed-ener-military-drone-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -539,7 +539,7 @@ The most realistic assessment is therefore neither that DragonFire will revoluti
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -559,7 +559,7 @@ The most realistic assessment is therefore neither that DragonFire will revoluti
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -591,7 +591,7 @@ The most realistic assessment is therefore neither that DragonFire will revoluti
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -643,7 +643,7 @@ The most realistic assessment is therefore neither that DragonFire will revoluti
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -688,7 +688,7 @@ The most realistic assessment is therefore neither that DragonFire will revoluti
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -729,149 +729,149 @@ The most realistic assessment is therefore neither that DragonFire will revoluti
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: Dragon Fire is led by the Defence Science and Technology Laboratory  
-   Link: <a href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced future military laser achieves UK firstJanuary 19, 2024 — 19 Jan 2024 — The cost of operating the laser is typically less than £...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced future military laser achieves UK firstJanuary 19, 2024 — 19 Jan 2024 — The cost of operating the laser is typically less than £...</p></details>
    Published: January 19, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: boost for armed forces as new laser weapon takes down high speed drones  
-   Link: <a href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Boost for Armed Forces as new laser weapon takes down...Nov 20, 2025 — DA awarded £316 million contract to deliver new DragonFire system...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boost for Armed Forces as new laser weapon takes down...Nov 20, 2025 — DA awarded £316 million contract to deliver new DragonFire system...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: epc.eu  
    Title: the new economics of warfare  
-   Link: <a href="https://www.epc.eu/publication/the-new-economics-of-warfare/" target="_blank" rel="noopener noreferrer nofollow">https://www.epc.eu/publication/the-new-economics-of-warfare/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Mar 2026 — Yet two were recently disabled by Iranian drones costing roughly $30,000 each – a cost-exchange ratio of more than 30,000 to...</p></details>
+   Link:<a href="https://www.epc.eu/publication/the-new-economics-of-warfare/" target="_blank" rel="noopener noreferrer nofollow">https://www.epc.eu/publication/the-new-economics-of-warfare/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9 Mar 2026 — Yet two were recently disabled by Iranian drones costing roughly $30,000 each – a cost-exchange ratio of more than 30,000 to...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: mbda-systems.com  
    Title: uk defence minister visits mbda dragonfire laser weapon contract announcement  
-   Link: <a href="https://www.mbda-systems.com/uk-defence-minister-visits-mbda-dragonfire-laser-weapon-contract-announcement" target="_blank" rel="noopener noreferrer nofollow">https://www.mbda-systems.com/uk-defence-minister-visits-mbda-dragonfire-laser-weapon-contract-announcement</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>November to announce company had been awarded a £316 million contract to deliver new DRAGONFIRE laser weapon systems to the Royal Navy fr...</p></details>
+   Link:<a href="https://www.mbda-systems.com/uk-defence-minister-visits-mbda-dragonfire-laser-weapon-contract-announcement" target="_blank" rel="noopener noreferrer nofollow">https://www.mbda-systems.com/uk-defence-minister-visits-mbda-dragonfire-laser-weapon-contract-announcement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November to announce company had been awarded a £316 million contract to deliver new DRAGONFIRE laser weapon systems to the Royal Navy fr...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cenjows.in  
-   Link: <a href="https://cenjows.in/wp-content/uploads/2025/12/MR_PRAKHAR_GANGWAR_WA_SEP25.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cenjows.in/wp-content/uploads/2025/12/MR_PRAKHAR_GANGWAR_WA_SEP25.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DIRECTED ENERGY WEAPONSA powerful cooling system is required for its use. ○ Cost: Though the cost per shot is very low, its produc...</p></details>
+   Link:<a href="https://cenjows.in/wp-content/uploads/2025/12/MR_PRAKHAR_GANGWAR_WA_SEP25.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cenjows.in/wp-content/uploads/2025/12/MR_PRAKHAR_GANGWAR_WA_SEP25.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DIRECTED ENERGY WEAPONSA powerful cooling system is required for its use. ○ Cost: Though the cost per shot is very low, its produc...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: qinetiq.com  
-   Link: <a href="https://www.qinetiq.com/en/news/qinetiq-delivering-laser-weapons-to-royal-navy-[platforms" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/news/qinetiq-delivering-laser-weapons-to-royal-navy-[platforms</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Delivering laser weapons to Royal Navy platformsQinetiQ has been awarded a £67 million contract to ensure the delivery of the UK&#x27;s first...</p></details>
+   Link:<a href="https://www.qinetiq.com/en/news/qinetiq-delivering-laser-weapons-to-royal-navy-[platforms" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/news/qinetiq-delivering-laser-weapons-to-royal-navy-[platforms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Delivering laser weapons to Royal Navy platformsQinetiQ has been awarded a £67 million contract to ensure the delivery of the UK&#x27;s first...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: uk.leonardo.com  
-   Link: <a href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow">https://uk.leonardo.com/en/innovation/dragonfire</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Directed Energy Weapon - Leonardo UKHow the £10-a-shot laser precision weapon DragonFire destroys targets. Watch the video...</p></details>
+   Link:<a href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow">https://uk.leonardo.com/en/innovation/dragonfire</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Directed Energy Weapon - Leonardo UKHow the £10-a-shot laser precision weapon DragonFire destroys targets. Watch the video...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: royalnavy.mod.uk  
    Title: 240412 powerful laser to be installed on royal navy warship by 2027  
-   Link: <a href="https://www.royalnavy.mod.uk/news/2024/april/12/240412-powerful-laser-to-be-installed-on-royal-navy-warship-by-2027" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/news/2024/april/12/240412-powerful-laser-to-be-installed-on-royal-navy-warship-by-2027</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal NavyPowerful laser to be installed on Royal Navy warship by 202712 Apr 2024 — A burst of the high-intensity beam from DragonFire co...</p></details>
+   Link:<a href="https://www.royalnavy.mod.uk/news/2024/april/12/240412-powerful-laser-to-be-installed-on-royal-navy-warship-by-2027" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/news/2024/april/12/240412-powerful-laser-to-be-installed-on-royal-navy-warship-by-2027</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal NavyPowerful laser to be installed on Royal Navy warship by 202712 Apr 2024 — A burst of the high-intensity beam from DragonFire co...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cbsnews.com  
    Title: military is using anti-missile interceptors that cost millions.Read more  
-   Link: <a href="https://www.cbsnews.com/news/lasers-cost-effective-iran-drone-neutralization-60-minutes/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/lasers-cost-effective-iran-drone-neutralization-60-minutes/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsWhy lasers, at $3 per shot, may be the next frontier for...5 days ago — To shoot down the drones, which can cost as little as $2...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/lasers-cost-effective-iran-drone-neutralization-60-minutes/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/lasers-cost-effective-iran-drone-neutralization-60-minutes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsWhy lasers, at $3 per shot, may be the next frontier for...5 days ago — To shoot down the drones, which can cost as little as $2...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: avinc.com  
    Title: the math problem breaking air defense and why lasers change it  
-   Link: <a href="https://www.avinc.com/resources/press-releases/view/the-math-problem-breaking-air-defense-and-why-lasers-change-it" target="_blank" rel="noopener noreferrer nofollow">https://www.avinc.com/resources/press-releases/view/the-math-problem-breaking-air-defense-and-why-lasers-change-it</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AeroVironmentThe Math Problem Breaking Air Defense, And Why Lasers...4 Mar 2026 — The marginal cost per engagement is measured in electr...</p></details>
+   Link:<a href="https://www.avinc.com/resources/press-releases/view/the-math-problem-breaking-air-defense-and-why-lasers-change-it" target="_blank" rel="noopener noreferrer nofollow">https://www.avinc.com/resources/press-releases/view/the-math-problem-breaking-air-defense-and-why-lasers-change-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AeroVironmentThe Math Problem Breaking Air Defense, And Why Lasers...4 Mar 2026 — The marginal cost per engagement is measured in electr...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aspistrategist.org.au  
    Title: war at the speed of light the emerging role of directed energy weapons  
-   Link: <a href="https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow">https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Strategistthe emerging role of directed-energy weapons15 Apr 2026 — Certainly, directed-energy weapons may be key to inexpensively co...</p></details>
+   Link:<a href="https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow">https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Strategistthe emerging role of directed-energy weapons15 Apr 2026 — Certainly, directed-energy weapons may be key to inexpensively co...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: tomshardware.com  
    Title: uk confirms dragonfire laser weapon for royal navy destroyers by 2027  
-   Link: <a href="https://www.tomshardware.com/tech-industry/uk-confirms-dragonfire-laser-weapon-for-royal-navy-destroyers-by-2027" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/uk-confirms-dragonfire-laser-weapon-for-royal-navy-destroyers-by-2027</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This follows a £316 million ($414 million) contract awarded to MBDA UK for the first two production units. DragonFire, a 50 kW-class lase...</p></details>
+   Link:<a href="https://www.tomshardware.com/tech-industry/uk-confirms-dragonfire-laser-weapon-for-royal-navy-destroyers-by-2027" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/uk-confirms-dragonfire-laser-weapon-for-royal-navy-destroyers-by-2027</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This follows a £316 million ($414 million) contract awarded to MBDA UK for the first two production units. DragonFire, a 50 kW-class lase...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: mordorintelligence.com  
    Title: directed energy weapons market  
-   Link: <a href="https://www.mordorintelligence.com/industry-reports/directed-energy-weapons-market" target="_blank" rel="noopener noreferrer nofollow">https://www.mordorintelligence.com/industry-reports/directed-energy-weapons-market</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK&#x27;s DragonFire laser costs roughly GBP 10 (USD 13) per engagement compared with more...Read more...</p></details>
+   Link:<a href="https://www.mordorintelligence.com/industry-reports/directed-energy-weapons-market" target="_blank" rel="noopener noreferrer nofollow">https://www.mordorintelligence.com/industry-reports/directed-energy-weapons-market</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UK&#x27;s DragonFire laser costs roughly GBP 10 (USD 13) per engagement compared with more...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: tomshardware.com  
-   Link: <a href="https://www.tomshardware.com/tech-industry/uk-dragonfire-laser-downs-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/uk-dragonfire-laser-downs-high-speed-drones</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A $413 million (£316 million) contract has been awarded to MBDA UK to deploy DragonFire on the Royal Navy’s Type 45 destroyers starting i...</p></details>
+   Link:<a href="https://www.tomshardware.com/tech-industry/uk-dragonfire-laser-downs-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/uk-dragonfire-laser-downs-high-speed-drones</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A $413 million (£316 million) contract has been awarded to MBDA UK to deploy DragonFire on the Royal Navy’s Type 45 destroyers starting i...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: royalnavy.mod.uk  
    Title: 20251120 dragonfire trials  
-   Link: <a href="https://www.royalnavy.mod.uk/news/2025/november/20/20251120-dragonfire-trials" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/news/2025/november/20/20251120-dragonfire-trials</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mod.uk£316m deal for Royal Navy&#x27;s first laser weapon after...20 Nov 2025 — More than £300m is being invested in the Royal Navy&#x27;s first e...</p></details>
+   Link:<a href="https://www.royalnavy.mod.uk/news/2025/november/20/20251120-dragonfire-trials" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/news/2025/november/20/20251120-dragonfire-trials</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mod.uk£316m deal for Royal Navy&#x27;s first laser weapon after...20 Nov 2025 — More than £300m is being invested in the Royal Navy&#x27;s first e...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: navyleaders.com  
    Title: royal navy destroyer to be fitted with dragonfire laser  
-   Link: <a href="https://navyleaders.com/news/royal-navy-destroyer-to-be-fitted-with-dragonfire-laser/" target="_blank" rel="noopener noreferrer nofollow">https://navyleaders.com/news/royal-navy-destroyer-to-be-fitted-with-dragonfire-laser/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jun 3, 2025 — A Type 45 destroyer will become the first Royal Navy vessel to be fitted with the DragonFire directed energy weapon (DEW) i...</p></details>
+   Link:<a href="https://navyleaders.com/news/royal-navy-destroyer-to-be-fitted-with-dragonfire-laser/" target="_blank" rel="noopener noreferrer nofollow">https://navyleaders.com/news/royal-navy-destroyer-to-be-fitted-with-dragonfire-laser/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jun 3, 2025 — A Type 45 destroyer will become the first Royal Navy vessel to be fitted with the DragonFire directed energy weapon (DEW) i...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Mcognizance/videos/%EF%B8%8F%EF%B8%8F/2359327817833262/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Mcognizance/videos/%EF%B8%8F%EF%B8%8F/2359327817833262/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking News: UK Awards £316M Contract for DragonFire...UK a £316 million contract to deliver two operational DragonFire high-power la...</p></details>
+   Link:<a href="https://www.facebook.com/Mcognizance/videos/%EF%B8%8F%EF%B8%8F/2359327817833262/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Mcognizance/videos/%EF%B8%8F%EF%B8%8F/2359327817833262/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking News: UK Awards £316M Contract for DragonFire...UK a £316 million contract to deliver two operational DragonFire high-power la...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/qinetiq_2_dragonfire-laserdirectedenergyweapon-ukmod-activity-7397282876435615744-0Crn" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/qinetiq_2_dragonfire-laserdirectedenergyweapon-ukmod-activity-7397282876435615744-0Crn</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MBDA wins £316m contract for laser weapon tech with UK...This is great news and we&#x27;re really pleased that the UK Ministry of Defence awa...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/qinetiq_2_dragonfire-laserdirectedenergyweapon-ukmod-activity-7397282876435615744-0Crn" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/qinetiq_2_dragonfire-laserdirectedenergyweapon-ukmod-activity-7397282876435615744-0Crn</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MBDA wins £316m contract for laser weapon tech with UK...This is great news and we&#x27;re really pleased that the UK Ministry of Defence awa...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/930540941927100/posts/1580928933554961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/930540941927100/posts/1580928933554961/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK&#x27;s Dragonfire laser weapon destroys drones at low costBritain says its DragonFire can drop a drone for less than £10 (€12).... The cos...</p></details>
+   Link:<a href="https://www.facebook.com/groups/930540941927100/posts/1580928933554961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/930540941927100/posts/1580928933554961/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK&#x27;s Dragonfire laser weapon destroys drones at low costBritain says its DragonFire can drop a drone for less than £10 (€12).... The cos...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: businessinsider.com  
-   Link: <a href="https://www.businessinsider.com/uk-plans-laser-weapons-dragonfire-warships-defence-drones-royal-navy-2025-3" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/uk-plans-laser-weapons-dragonfire-warships-defence-drones-royal-navy-2025-3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ministry of Defence (MOD) aims to invest in advanced technologies to equip the armed forces for modern warfare. The DragonFire laser...</p></details>
+   Link:<a href="https://www.businessinsider.com/uk-plans-laser-weapons-dragonfire-warships-defence-drones-royal-navy" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/uk-plans-laser-weapons-dragonfire-warships-defence-drones-royal-navy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ministry of Defence (MOD) aims to invest in advanced technologies to equip the armed forces for modern warfare. The DragonFire laser...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/europe/comments/1sezgb7/uk_confirms_dronekilling_dragonfire_laser_weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/europe/comments/1sezgb7/uk_confirms_dronekilling_dragonfire_laser_weapon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK confirms drone-killing DragonFire laser weapon...UK confirms drone-killing DragonFire laser weapon for Royal Navy destroyers by 2027...</p></details>
+   Link:<a href="https://www.reddit.com/r/europe/comments/1sezgb7/uk_confirms_dronekilling_dragonfire_laser_weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/europe/comments/1sezgb7/uk_confirms_dronekilling_dragonfire_laser_weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK confirms drone-killing DragonFire laser weapon...UK confirms drone-killing DragonFire laser weapon for Royal Navy destroyers by 2027...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/uk/uk-beefs-up-royal-navy-[counter-drone" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/uk/uk-beefs-up-royal-navy-[counter-drone</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This initiative is part of Britain&#x27;s efforts to enhance its naval defenses, particularly against drone threats. The DragonFire system is...</p></details>
+   Link:<a href="https://www.reuters.com/world/uk/uk-beefs-up-royal-navy-[counter-drone" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/uk/uk-beefs-up-royal-navy-[counter-drone</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This initiative is part of Britain&#x27;s efforts to enhance its naval defenses, particularly against drone threats. The DragonFire system is...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
    Title: drdo is developing a 300 kw class directed energy laser weapon as part of indias  
-   Link: <a href="https://www.facebook.com/indiandefencetime/posts/drdo-is-developing-a-300-kw-class-directed-energy-laser-weapon-as-part-of-indias/941876702077133/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/indiandefencetime/posts/drdo-is-developing-a-300-kw-class-directed-energy-laser-weapon-as-part-of-indias/941876702077133/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DRDO is developing a 300 kW class directed-energy laser...Unlike missiles, they are cost-efficient since each “shot” only requires elect...</p></details>
+   Link:<a href="https://www.facebook.com/indiandefencetime/posts/drdo-is-developing-a-300-kw-class-directed-energy-laser-weapon-as-part-of-indias/941876702077133/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/indiandefencetime/posts/drdo-is-developing-a-300-kw-class-directed-energy-laser-weapon-as-part-of-indias/941876702077133/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DRDO is developing a 300 kW class directed-energy laser...Unlike missiles, they are cost-efficient since each “shot” only requires elect...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: gulfnews.com  
    Title: laser defence race heats up can light beams stop drone swarms 1.500473226  
-   Link: <a href="https://gulfnews.com/world/mena/laser-defence-race-heats-up-can-light-beams-stop-drone-swarms-1.500473226" target="_blank" rel="noopener noreferrer nofollow">https://gulfnews.com/world/mena/laser-defence-race-heats-up-can-light-beams-stop-drone-swarms-1.500473226</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser defence race heats up: Can light beams stop drone...13 Mar 2026 — Once the system is installed, each shot requires only electricit...</p></details>
+   Link:<a href="https://gulfnews.com/world/mena/laser-defence-race-heats-up-can-light-beams-stop-drone-swarms-1.500473226" target="_blank" rel="noopener noreferrer nofollow">https://gulfnews.com/world/mena/laser-defence-race-heats-up-can-light-beams-stop-drone-swarms-1.500473226</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser defence race heats up: Can light beams stop drone...13 Mar 2026 — Once the system is installed, each shot requires only electricit...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=hDOSihhBTio" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hDOSihhBTio</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire: Royal Navy warships to be fitted with laser...The mod announced it&#x27;s accelerating its 100 million pound laser weapons progra...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hDOSihhBTio" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hDOSihhBTio</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire: Royal Navy warships to be fitted with laser...The mod announced it&#x27;s accelerating its 100 million pound laser weapons progra...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5raQHvXAY6s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5raQHvXAY6s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MBDA wins the £360 million contract to equip the Royal Navy...... 316 million contract (almost €360 million at the current exchange rate...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5raQHvXAY6s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5raQHvXAY6s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MBDA wins the £360 million contract to equip the Royal Navy...... 316 million contract (almost €360 million at the current exchange rate...</p></details>

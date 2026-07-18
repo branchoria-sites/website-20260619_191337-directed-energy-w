@@ -333,43 +333,43 @@ image: /assets/images/Directed_Ener_98f417_power_cooling_afc91e-overview-social.
 
 ## Introduction
 
-Directed-energy weapons are often described by the beam they put on target, but the harder engineering is everything that lets that beam exist, stay cool and remain accurately pointed. A high-energy laser is not just a “gun” with a light source. It needs a power supply able to deliver large amounts of electrical energy on demand, power-conditioning hardware to shape that energy, [cooling]({{ 'cooling/' | relative_url }}) systems to remove waste heat, optics that can survive high flux, and a fire-control chain that can track, stabilise and focus the beam on a chosen aim point. Those supporting systems determine whether a laser can fire once in a demonstration, fire repeatedly in [bad weather]({{ 'bad-weather/' | relative_url }}), or survive integration on a ship, vehicle or aircraft. Official and technical sources repeatedly identify power, cooling, beam directors, tracking and platform integration as core limits on turning directed-energy prototypes into fielded weapons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-105868" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 105868</span><span class="citation-popover-snippet">The Department of Defense (DOD) is currently developing directed energy weapons with the goal of defeating a range of threats...Read more...</span></span></span>
+Directed-energy weapons are often described by the beam they put on target, but the harder engineering is everything that lets that beam exist, stay cool and remain accurately pointed. A high-energy laser is not just a “gun” with a light source. It needs a power supply able to deliver large amounts of electrical energy on demand, power-conditioning hardware to shape that energy, [cooling]({{ 'cooling/' | relative_url }}) systems to remove waste heat, optics that can survive high flux, and a fire-control chain that can track, stabilise and focus the beam on a chosen aim point. Those supporting systems determine whether a laser can fire once in a demonstration, fire repeatedly in [bad weather]({{ 'bad-weather/' | relative_url }}), or survive integration on a ship, vehicle or aircraft. Official and technical sources repeatedly identify power, cooling, beam directors, tracking and platform integration as core limits on turning directed-energy prototypes into fielded weapons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-105868" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 105868</span><span class="citation-popover-snippet">The Department of Defense (DOD) is currently developing directed energy weapons with the goal of defeating a range of threats...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_power_cooling_afc91e-overview.webp" | relative_url }}" alt="Overview image for Engineering" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the Beam Is Only the Visible Part
 
-A laser weapon’s visible effect is simple to picture: concentrated light is directed at a target and heats, dazzles, damages or destroys it. The system behind that effect is much less simple. The Office of Naval Research defines directed-energy weapons as electromagnetic systems that convert chemical or electrical energy into radiated energy and focus it on a target to degrade, neutralise, defeat or destroy an adversary capability. That definition matters because it makes clear that a weapon-grade laser is a conversion-and-control system, not merely a bright optical device. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-uspl-and-atmospheric-characterization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onr.navy.mil">[onr.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onr.navy.mil</span><span class="citation-popover-title">The U.S</span><span class="citation-popover-snippet">Directed Energy Weapons: Ultra-Short Pulse Laser and...Navy DEWs include systems that use high-energy lasers (HEL) that emit photons and...</span></span></span>
+A laser weapon’s visible effect is simple to picture: concentrated light is directed at a target and heats, dazzles, damages or destroys it. The system behind that effect is much less simple. The Office of Naval Research defines directed-energy weapons as electromagnetic systems that convert chemical or electrical energy into radiated energy and focus it on a target to degrade, neutralise, defeat or destroy an adversary capability. That definition matters because it makes clear that a weapon-grade laser is a conversion-and-control system, not merely a bright optical device.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-uspl-and-atmospheric-characterization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onr.navy.mil">[onr.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onr.navy.mil</span><span class="citation-popover-title">The U.S</span><span class="citation-popover-snippet">Directed Energy Weapons: Ultra-Short Pulse Laser and...Navy DEWs include systems that use high-energy lasers (HEL) that emit photons and...</span></span></span>
 
-The conversion chain has penalties at every stage. Electrical power must be generated or stored, conditioned into the form needed by the laser source, converted into optical energy, routed through beam-combining and optical hardware, steered by a beam director, and finally delivered through the [atmosphere]({{ 'atmosphere/' | relative_url }}). The US Defense Intelligence Agency’s high-energy laser assessment describes beam-control performance in terms of maximising irradiance at the focused spot and maintaining it on the aim point while enough fluence accumulates; it also notes that the focused spot may contain only about half the laser output before additional losses in the optical train and atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencyState of the Art and Evolution of High-Energy Laser WeaponsMarch 4, 2022 — 31 Mar 2010 — The total power in th...</span><span class="citation-popover-meta">Published: March 4, 2022</span></span></span>
+The conversion chain has penalties at every stage. Electrical power must be generated or stored, conditioned into the form needed by the laser source, converted into optical energy, routed through beam-combining and optical hardware, steered by a beam director, and finally delivered through the [atmosphere]({{ 'atmosphere/' | relative_url }}). The US Defense Intelligence Agency’s high-energy laser assessment describes beam-control performance in terms of maximising irradiance at the focused spot and maintaining it on the aim point while enough fluence accumulates; it also notes that the focused spot may contain only about half the laser output before additional losses in the optical train and atmosphere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencyState of the Art and Evolution of High-Energy Laser WeaponsMarch 4, 2022 — 31 Mar 2010 — The total power in th...</span><span class="citation-popover-meta">Published: March 4, 2022</span></span></span>
 
 That is why engineering requirements are not secondary details. A system advertised as a 50 kW, 60 kW or 300 kW-class laser is not judged only by the rated optical output. It is judged by whether the host platform can supply the necessary electrical power, reject the waste heat, keep optics aligned, track real targets and recover quickly enough for repeated engagements.
 
 ## Power Supply and Electrical Demand
 
-The first hard requirement is power. Modern laser weapons are attractive partly because each shot may consume far cheaper energy than a missile, but “cheap per shot” does not mean “easy to power”. Current prototypes and projected future systems require increasing electrical power as they move from [counter-drone]({{ 'missile-savings/' | relative_url }}) and short-range targets towards harder, faster and more distant threats. A DSIAC overview of power generation and storage for directed-energy systems notes that power is needed not only for the laser energy itself but also for laser-diode cooling, power conditioning, illumination, pointing and tracking systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dsiac.dtic.mil/articles/power-generation-and-storage-for-directed-energy-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dsiac.dtic.mil">[DSIAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dsiac.dtic.mil</span><span class="citation-popover-snippet">Open source on dtic.mil.</span></span></span>
+The first hard requirement is power. Modern laser weapons are attractive partly because each shot may consume far cheaper energy than a missile, but “cheap per shot” does not mean “easy to power”. Current prototypes and projected future systems require increasing electrical power as they move from [counter-drone]({{ 'missile-savings/' | relative_url }}) and short-range targets towards harder, faster and more distant threats. A DSIAC overview of power generation and storage for directed-energy systems notes that power is needed not only for the laser energy itself but also for laser-diode cooling, power conditioning, illumination, pointing and tracking systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dsiac.dtic.mil/articles/power-generation-and-storage-for-directed-energy-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dsiac.dtic.mil">[DSIAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dsiac.dtic.mil</span><span class="citation-popover-snippet">Open source on dtic.mil.</span></span></span>
 
-This has a direct platform consequence. A warship has far more installed generating capacity and cooling volume than a small land vehicle, while an aircraft faces severe size, weight and power constraints. The same laser power that is plausible on a ship may become difficult on an armoured vehicle and much harder on an aircraft unless the system is lighter, more efficient and better integrated. Naval research therefore talks explicitly about reducing size, weight and power with cooling, often abbreviated as SWaP-C, to reduce the integration burden on ships. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onr.navy.mil">[onr.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onr.navy.mil</span><span class="citation-popover-snippet">Counter Directed Energy Weapons and High Energy LasersFor HEL, research leading to novel beam director fire control architectures, reduce...</span></span></span>
+This has a direct platform consequence. A warship has far more installed generating capacity and cooling volume than a small land vehicle, while an aircraft faces severe size, weight and power constraints. The same laser power that is plausible on a ship may become difficult on an armoured vehicle and much harder on an aircraft unless the system is lighter, more efficient and better integrated. Naval research therefore talks explicitly about reducing size, weight and power with cooling, often abbreviated as SWaP-C, to reduce the integration burden on ships.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onr.navy.mil">[onr.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onr.navy.mil</span><span class="citation-popover-snippet">Counter Directed Energy Weapons and High Energy LasersFor HEL, research leading to novel beam director fire control architectures, reduce...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_power_cooling_afc91e-Illustration-1-dark.svg" | relative_url }}" alt="Engineering illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_power_cooling_afc91e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_power_cooling_afc91e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Continuous Power Is Not the Same as Peak Power
 
-Different directed-energy systems draw power in different ways. A high-energy laser used for sustained heating may need continuous or near-continuous power during dwell time. High-power microwave systems often use pulsed-power architectures, where stored energy is released in intense bursts. In both cases, the platform must do more than provide a nominal power rating. It must deliver usable power at the right voltage, timing and stability without disrupting other mission systems. Industry and defence engineering sources describe directed-energy weapons as requiring continuous or pulsed-power systems, switching and power-conditioning technologies to maximise output while limiting the impact on the host platform. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.te.com/en/industries/defense-military/insights/powering-the-future-of-directed-energy-weapons.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: te.com">[TE Connectivity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">te.com</span><span class="citation-popover-snippet">Open source on te.com.</span></span></span>
+Different directed-energy systems draw power in different ways. A high-energy laser used for sustained heating may need continuous or near-continuous power during dwell time. High-power microwave systems often use pulsed-power architectures, where stored energy is released in intense bursts. In both cases, the platform must do more than provide a nominal power rating. It must deliver usable power at the right voltage, timing and stability without disrupting other mission systems. Industry and defence engineering sources describe directed-energy weapons as requiring continuous or pulsed-power systems, switching and power-conditioning technologies to maximise output while limiting the impact on the host platform.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.te.com/en/industries/defense-military/insights/powering-the-future-of-directed-energy-weapons.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: te.com">[TE Connectivity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">te.com</span><span class="citation-popover-snippet">Open source on te.com.</span></span></span>
 
-This is one reason shipboard systems are often discussed as early deployment candidates. Ships can devote space to generators, power converters, batteries or flywheels more readily than small mobile platforms. Even so, ship integration is not automatic. Congressional reporting on US Navy shipboard lasers describes the High Energy Laser Counter-ASCM Program, or HELCAP, as including a beam-control testbed, a 300 kW-plus laser source, a prototype control system, and auxiliary prime power and cooling. In other words, the power and cooling equipment are named as key elements of the prototype, not background utilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everycrsreport.com/files/2024-07-24_R44175_bd7aad12b8fb1d1589b9506a55c9ad6922b142a3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everycrsreport.com">[EveryCRSReport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everycrsreport.com</span><span class="citation-popover-snippet">Open source on everycrsreport.com.</span></span></span>
+This is one reason shipboard systems are often discussed as early deployment candidates. Ships can devote space to generators, power converters, batteries or flywheels more readily than small mobile platforms. Even so, ship integration is not automatic. Congressional reporting on US Navy shipboard lasers describes the High Energy Laser Counter-ASCM Program, or HELCAP, as including a beam-control testbed, a 300 kW-plus laser source, a prototype control system, and auxiliary prime power and cooling. In other words, the power and cooling equipment are named as key elements of the prototype, not background utilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everycrsreport.com/files/2024-07-24_R44175_bd7aad12b8fb1d1589b9506a55c9ad6922b142a3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everycrsreport.com">[EveryCRSReport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everycrsreport.com</span><span class="citation-popover-snippet">Open source on everycrsreport.com.</span></span></span>
 
 ### Efficiency Decides How Much Heat Must Be Removed
 
-Laser efficiency is a [battlefield]({{ 'battle-limits/' | relative_url }}) engineering issue because any electrical energy not converted into useful optical output becomes waste heat. Fibre lasers and solid-state lasers have improved greatly compared with older approaches, but they are still not perfect converters. Optica’s overview of high-energy lasers in defence noted that Lockheed Martin’s 30 kW electric fibre laser demonstration used substantially less electricity than more conventional solid-state designs, which reduced cooling needs and saved space. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.optica-opn.org/home/articles/volume_25/october_2014/features/high-energy_lasers_new_advances_in_defense_applica/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: optica-opn.org">[Optica OPN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">optica-opn.org</span><span class="citation-popover-title">Optica OPNHigh-Energy Lasers: New Advances in Defense Applications</span><span class="citation-popover-snippet">Optica OPNHigh-Energy Lasers: New Advances in Defense Applications</span></span></span>
+Laser efficiency is a [battlefield]({{ 'battle-limits/' | relative_url }}) engineering issue because any electrical energy not converted into useful optical output becomes waste heat. Fibre lasers and solid-state lasers have improved greatly compared with older approaches, but they are still not perfect converters. Optica’s overview of high-energy lasers in defence noted that Lockheed Martin’s 30 kW electric fibre laser demonstration used substantially less electricity than more conventional solid-state designs, which reduced cooling needs and saved space.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.optica-opn.org/home/articles/volume_25/october_2014/features/high-energy_lasers_new_advances_in_defense_applica/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: optica-opn.org">[Optica OPN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">optica-opn.org</span><span class="citation-popover-title">Optica OPNHigh-Energy Lasers: New Advances in Defense Applications</span><span class="citation-popover-snippet">Optica OPNHigh-Energy Lasers: New Advances in Defense Applications</span></span></span>
 
 That relationship is crucial. A less efficient weapon may need a larger generator for the same beam output and a larger cooling system to handle the waste heat. A more efficient system can be smaller, easier to mount and better suited to repeated firing. For operators, the question is therefore not just “how powerful is the beam?” but “how much total platform power and thermal capacity does this beam demand?”
 
 ## Cooling and Heat Management
 
-Cooling is one of the least glamorous but most decisive requirements. High-energy lasers create heat inside the laser source, power electronics, beam-combining hardware and optical components. If that heat is not removed, it can damage components, distort optics, change the output wavelength, degrade beam quality and reduce pointing accuracy. An Australian Air and Space Power Centre paper explains the basic problem clearly: only part of the electrical power becomes light, while the rest becomes heat; uncontrolled thermal build-up affects beam stability, beam width, wavelength stability and the accuracy of the mechanical pointing system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airpower.airforce.gov.au">[Air and Space Power Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airpower.airforce.gov.au</span><span class="citation-popover-title">Air and Space Power Centre Directed Energy Weapons</span><span class="citation-popover-snippet">Air and Space Power Centre Directed Energy Weapons</span></span></span>
+Cooling is one of the least glamorous but most decisive requirements. High-energy lasers create heat inside the laser source, power electronics, beam-combining hardware and optical components. If that heat is not removed, it can damage components, distort optics, change the output wavelength, degrade beam quality and reduce pointing accuracy. An Australian Air and Space Power Centre paper explains the basic problem clearly: only part of the electrical power becomes light, while the rest becomes heat; uncontrolled thermal build-up affects beam stability, beam width, wavelength stability and the accuracy of the mechanical pointing system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airpower.airforce.gov.au">[Air and Space Power Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airpower.airforce.gov.au</span><span class="citation-popover-title">Air and Space Power Centre Directed Energy Weapons</span><span class="citation-popover-snippet">Air and Space Power Centre Directed Energy Weapons</span></span></span>
 
-This makes cooling part of lethality. A laser that overheats cannot sustain engagement tempo. It may have to pause between shots, reduce output, accept lower beam quality or risk component damage. GAO’s technology spotlight lists cooling requirements among the technological limitations that can restrict directed-energy effectiveness, alongside range and atmospheric conditions such as fog and storms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — Challenges Technological limitations. DEWs are generally less effective...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+This makes cooling part of lethality. A laser that overheats cannot sustain engagement tempo. It may have to pause between shots, reduce output, accept lower beam quality or risk component damage. GAO’s technology spotlight lists cooling requirements among the technological limitations that can restrict directed-energy effectiveness, alongside range and atmospheric conditions such as fog and storms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — Challenges Technological limitations. DEWs are generally less effective...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4su_1J2_w1o" title="Tech 101: High Energy Lasers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4su_1J2_w1o" target="_blank" rel="noopener noreferrer">Tech 101: High Energy Lasers</a></p><p class="youtube-embed-meta">Channel: Emerging Technologies Institute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4su_1J2_w1o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4su_1J2_w1o">Open on YouTube</a></p></div></div></div>
@@ -378,13 +378,13 @@ This makes cooling part of lethality. A laser that overheats cannot sustain enga
 
 The popular phrase “deep magazine” can be misleading. A laser does not run out of missiles in the usual sense, but it can run into power and heat limits. If the platform can generate electricity and remove heat continuously, it can keep engaging. If not, the practical magazine is limited by thermal recovery time.
 
-Naval engineers therefore examine duty cycle: how long the weapon fires compared with how long it must cool or recharge. A paper on advanced cooling methods for naval laser directed-energy weapons notes that the size, weight and power costs of powering and cooling an unlimited-duty weapon determine whether such an approach is feasible, and uses a nominal duty cycle as a basis for comparing cooling approaches. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://library.imarest.org/record/7705/files/INEC_2020_Paper_100.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.imarest.org">[IMarEST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.imarest.org</span><span class="citation-popover-title">IMar ESTAdvanced Cooling Methods for Naval Laser Directed</span><span class="citation-popover-snippet">IMar ESTAdvanced Cooling Methods for Naval Laser Directed</span></span></span>
+Naval engineers therefore examine duty cycle: how long the weapon fires compared with how long it must cool or recharge. A paper on advanced cooling methods for naval laser directed-energy weapons notes that the size, weight and power costs of powering and cooling an unlimited-duty weapon determine whether such an approach is feasible, and uses a nominal duty cycle as a basis for comparing cooling approaches.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://library.imarest.org/record/7705/files/INEC_2020_Paper_100.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.imarest.org">[IMarEST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.imarest.org</span><span class="citation-popover-title">IMar ESTAdvanced Cooling Methods for Naval Laser Directed</span><span class="citation-popover-snippet">IMar ESTAdvanced Cooling Methods for Naval Laser Directed</span></span></span>
 
 This is especially important for counter-drone defence. One slow drone may be manageable; a raid of many drones can force repeated engagements. The engineering question becomes whether the weapon can maintain enough shots per minute under real thermal conditions, not merely whether it can defeat one target at a test range.
 
 ### Cooling Hardware Competes for Space
 
-Cooling equipment has mass and volume. It may include liquid loops, heat exchangers, chillers, pumps, thermal storage, phase-change materials or integration with a ship’s existing cooling systems. Mobility Engineering’s discussion of thermal management for directed-energy weapons highlights a particular difficulty: waste heat can be relatively low-temperature, making it harder to remove efficiently with conventional methods, even though the total heat load is large. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mobilityengineeringtech.com/component/content/article/37608-thermal-management-for-directed-energy-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mobilityengineeringtech.com">[mobilityengineeringtech.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mobilityengineeringtech.com</span><span class="citation-popover-title">Thermal Management for Directed Energy Weapons</span><span class="citation-popover-snippet">Thermal Management for Directed Energy Weapons</span></span></span>
+Cooling equipment has mass and volume. It may include liquid loops, heat exchangers, chillers, pumps, thermal storage, phase-change materials or integration with a ship’s existing cooling systems. Mobility Engineering’s discussion of thermal management for directed-energy weapons highlights a particular difficulty: waste heat can be relatively low-temperature, making it harder to remove efficiently with conventional methods, even though the total heat load is large.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mobilityengineeringtech.com/component/content/article/37608-thermal-management-for-directed-energy-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mobilityengineeringtech.com">[mobilityengineeringtech.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mobilityengineeringtech.com</span><span class="citation-popover-title">Thermal Management for Directed Energy Weapons</span><span class="citation-popover-snippet">Thermal Management for Directed Energy Weapons</span></span></span>
 
 This creates a platform trade-off. More cooling capacity supports longer firing and faster recovery, but it adds weight, consumes space and increases maintenance complexity. Less cooling capacity makes the system easier to install but can reduce operational tempo. The trade-off is most severe on vehicles and aircraft, where every kilogram assigned to cooling is a kilogram not available for armour, fuel, payload, sensors or crew protection.
 
@@ -394,15 +394,15 @@ This creates a platform trade-off. More cooling capacity supports longer firing 
 
 Power creates the beam, but beam control makes it useful. A high-energy laser must place energy on a small aim point and keep it there while damage accumulates. That requires optics, mirrors, sensors, gimbals, stabilisation, atmospheric compensation and fire-control software working together.
 
-The Defense Intelligence Agency’s assessment gives a useful measure of success: the beam-control system must maximise average irradiance in the focused spot on the aim point and hold it there long enough for fluence to accumulate. This is a stricter standard than simply pointing a beam in the target’s general direction. A small pointing error spreads energy over the wrong surface, reducing the heating that causes damage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencyState of the Art and Evolution of High-Energy Laser WeaponsMarch 4, 2022 — 31 Mar 2010 — The total power in th...</span><span class="citation-popover-meta">Published: March 4, 2022</span></span></span>
+The Defense Intelligence Agency’s assessment gives a useful measure of success: the beam-control system must maximise average irradiance in the focused spot on the aim point and hold it there long enough for fluence to accumulate. This is a stricter standard than simply pointing a beam in the target’s general direction. A small pointing error spreads energy over the wrong surface, reducing the heating that causes damage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencyState of the Art and Evolution of High-Energy Laser WeaponsMarch 4, 2022 — 31 Mar 2010 — The total power in th...</span><span class="citation-popover-meta">Published: March 4, 2022</span></span></span>
 
-Beam quality also matters. If the output beam is distorted, poorly combined or optically unstable, more power at the laser source may not translate into more useful energy at the target. This is why manufacturers and laboratories emphasise beam directors, [adaptive optics]({{ 'adaptive-optics/' | relative_url }}), beam-combining and precision tracking. Lockheed Martin describes beam control, adaptive optics, beam directors and thermal management as elements of mature directed-energy systems, while Northrop Grumman describes high power density, advanced beam control and precise targeting and tracking as requirements for extended-range missions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lockheedmartin.com">[Lockheed Martin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lockheedmartin.com</span><span class="citation-popover-snippet">Open source on lockheedmartin.com.</span></span></span>
+Beam quality also matters. If the output beam is distorted, poorly combined or optically unstable, more power at the laser source may not translate into more useful energy at the target. This is why manufacturers and laboratories emphasise beam directors, [adaptive optics]({{ 'adaptive-optics/' | relative_url }}), beam-combining and precision tracking. Lockheed Martin describes beam control, adaptive optics, beam directors and thermal management as elements of mature directed-energy systems, while Northrop Grumman describes high power density, advanced beam control and precise targeting and tracking as requirements for extended-range missions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lockheedmartin.com">[Lockheed Martin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lockheedmartin.com</span><span class="citation-popover-snippet">Open source on lockheedmartin.com.</span></span></span>
 
 ### Tracking Must Work While the Platform Moves
 
 Real platforms are not laboratory benches. A ship rolls and vibrates. A land vehicle may fire from uneven ground. An aircraft flexes and manoeuvres. The target may also be moving, jinking or vibrating. The beam director must compensate for all of this while maintaining the required aim point.
 
-That is why operational systems include sensors and fire control, not just a laser source. Raytheon says its high-energy laser systems support detection, tracking during manoeuvres and positive visual identification against threats including unmanned aerial systems, rockets, artillery and mortars. The UK’s DragonFire programme similarly emphasises accuracy and target engagement; the Ministry of Defence reported that DragonFire achieved the UK’s first high-power firing of a laser weapon against aerial targets at the Hebrides Range, and described the weapon as line-of-sight and precise enough to require coin-sized accuracy at kilometre scale. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rtx.com">[RTX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rtx.com</span><span class="citation-popover-snippet">Open source on rtx.com.</span></span></span>
+That is why operational systems include sensors and fire control, not just a laser source. Raytheon says its high-energy laser systems support detection, tracking during manoeuvres and positive visual identification against threats including unmanned aerial systems, rockets, artillery and mortars. The UK’s DragonFire programme similarly emphasises accuracy and target engagement; the Ministry of Defence reported that DragonFire achieved the UK’s first high-power firing of a laser weapon against aerial targets at the Hebrides Range, and described the weapon as line-of-sight and precise enough to require coin-sized accuracy at kilometre scale.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rtx.com">[RTX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rtx.com</span><span class="citation-popover-snippet">Open source on rtx.com.</span></span></span>
 
 The practical point is simple: a directed-energy weapon is a fire-control problem as much as a power problem. The beam must remain aligned through vibration, target motion and atmospheric disturbance, or the energy does not accumulate where it is needed.
 
@@ -413,17 +413,17 @@ The practical point is simple: a directed-energy weapon is a fire-control proble
 
 A beam director is the optical and mechanical assembly that points and shapes the beam. It may include mirrors, telescopes, apertures, sensors and stabilised mounts. It has to handle high optical power without damage, maintain alignment and move fast enough to follow the target.
 
-This is one of the reasons governments fund beam-director research as a separate technical area. The Office of Naval Research lists work on novel beam-director fire-control architectures and advanced power architectures as priorities for high-energy laser development, especially where reduced SWaP-C can reduce platform integration impact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onr.navy.mil">[onr.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onr.navy.mil</span><span class="citation-popover-snippet">Counter Directed Energy Weapons and High Energy LasersFor HEL, research leading to novel beam director fire control architectures, reduce...</span></span></span>
+This is one of the reasons governments fund beam-director research as a separate technical area. The Office of Naval Research lists work on novel beam-director fire-control architectures and advanced power architectures as priorities for high-energy laser development, especially where reduced SWaP-C can reduce platform integration impact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onr.navy.mil">[onr.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onr.navy.mil</span><span class="citation-popover-snippet">Counter Directed Energy Weapons and High Energy LasersFor HEL, research leading to novel beam director fire control architectures, reduce...</span></span></span>
 
-DragonFire is a useful public example because it is often described through its accuracy rather than its exact power. Leonardo UK says DragonFire achieved the UK’s first high-power firing against aerial targets in trials delivered with Dstl, MBDA and QinetiQ. In interviews and programme descriptions, its beam director is treated as a central subsystem because the weapon must search, identify, track and then put energy accurately on target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.leonardo.com">[uk.leonardo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.leonardo.com</span><span class="citation-popover-title">Dragon Fire – Laser Directed Energy Weapon</span><span class="citation-popover-snippet">Dragon Fire – Laser Directed Energy Weapon</span></span></span>
+DragonFire is a useful public example because it is often described through its accuracy rather than its exact power. Leonardo UK says DragonFire achieved the UK’s first high-power firing against aerial targets in trials delivered with Dstl, MBDA and QinetiQ. In interviews and programme descriptions, its beam director is treated as a central subsystem because the weapon must search, identify, track and then put energy accurately on target.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.leonardo.com">[uk.leonardo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.leonardo.com</span><span class="citation-popover-title">Dragon Fire – Laser Directed Energy Weapon</span><span class="citation-popover-snippet">Dragon Fire – Laser Directed Energy Weapon</span></span></span>
 
 ## Fire Control Connects Sensors to Heating
 
 The final requirement is integration: sensors, combat systems and the laser must act as one weapon. Detecting a drone on radar, identifying it with an electro-optical sensor, assigning the laser, selecting an aim point and holding the beam are separate steps. If they are slow or poorly connected, the target may move, the atmosphere may change or the engagement window may close.
 
-US Navy programmes show this trend clearly. The Navy’s HELIOS system is significant not only because it is a high-energy laser but because it is intended as an integrated weapon system rather than a standalone demonstrator. Congressional reporting and Navy-focused reporting describe shipboard laser efforts in terms of combat-system integration, beam control, power and cooling rather than just optical output. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everycrsreport.com/files/2024-07-24_R44175_bd7aad12b8fb1d1589b9506a55c9ad6922b142a3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everycrsreport.com">[EveryCRSReport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everycrsreport.com</span><span class="citation-popover-snippet">Open source on everycrsreport.com.</span></span></span>
+US Navy programmes show this trend clearly. The Navy’s HELIOS system is significant not only because it is a high-energy laser but because it is intended as an integrated weapon system rather than a standalone demonstrator. Congressional reporting and Navy-focused reporting describe shipboard laser efforts in terms of combat-system integration, beam control, power and cooling rather than just optical output.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everycrsreport.com/files/2024-07-24_R44175_bd7aad12b8fb1d1589b9506a55c9ad6922b142a3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everycrsreport.com">[EveryCRSReport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everycrsreport.com</span><span class="citation-popover-snippet">Open source on everycrsreport.com.</span></span></span>
 
-This matters because directed energy competes for decision time. A laser may be cheap per shot, but it still needs permission to fire, a clean line of sight, a stable track and enough dwell time. Fire-control software must decide whether the laser is the right effector or whether a missile, gun, jammer or high-power microwave system is better for that threat. GAO notes that battlefield use decisions can be challenging, especially because different directed-energy systems have different effects and risks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — Challenges Technological limitations. DEWs are generally less effective...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+This matters because directed energy competes for decision time. A laser may be cheap per shot, but it still needs permission to fire, a clean line of sight, a stable track and enough dwell time. Fire-control software must decide whether the laser is the right effector or whether a missile, gun, jammer or high-power microwave system is better for that threat. GAO notes that battlefield use decisions can be challenging, especially because different directed-energy systems have different effects and risks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — Challenges Technological limitations. DEWs are generally less effective...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_power_cooling_afc91e-Illustration-3-dark.svg" | relative_url }}" alt="Engineering illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_power_cooling_afc91e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_power_cooling_afc91e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -431,7 +431,7 @@ This matters because directed energy competes for decision time. A laser may be 
 
 The strongest directed-energy programmes are not just trying to make brighter [lasers]({{ 'lasers/' | relative_url }}). They are trying to fit usable weapons into real platforms without overwhelming power systems, cooling capacity, maintenance crews or combat-system architecture.
 
-This is why official assessments often sound cautious even when the technology has advanced. GAO reported that the US Department of Defense has made progress developing directed-energy capabilities but still faces challenges transitioning prototypes into acquisition programmes. Those transition problems are not only about whether a beam can damage a target in a test. They are about whether the whole system is mature, supportable and integrated enough for operational use. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-105868" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 105868</span><span class="citation-popover-snippet">The Department of Defense (DOD) is currently developing directed energy weapons with the goal of defeating a range of threats...Read more...</span></span></span>
+This is why official assessments often sound cautious even when the technology has advanced. GAO reported that the US Department of Defense has made progress developing directed-energy capabilities but still faces challenges transitioning prototypes into acquisition programmes. Those transition problems are not only about whether a beam can damage a target in a test. They are about whether the whole system is mature, supportable and integrated enough for operational use.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-105868" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 105868</span><span class="citation-popover-snippet">The Department of Defense (DOD) is currently developing directed energy weapons with the goal of defeating a range of threats...Read more...</span></span></span>
 
 The same pattern appears across land, naval and air concepts:
 
@@ -458,194 +458,194 @@ The most credible near-term directed-energy systems will therefore be judged by 
 Those questions are not peripheral. They are the difference between producing directed energy and delivering a military effect.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What the Beam Needs Behind the Scenes. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What the Beam Needs Behind the Scenes. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+heat+and+mass+transfer+Frank+P.+Incropera&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of heat and mass transfer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/304097-M.jpg" alt="Cover for Fundamentals of heat and mass transfer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+heat+and+mass+transfer+Frank+P.+Incropera&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of heat and mass transfer">Fundamentals of heat and mass transfer</a>
-        </h4>
-        <p class="fr-book-author">By Frank P. Incropera, David P. DeWitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+heat+and+mass+transfer+Frank+P.+Incropera&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of heat and mass transfer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/304097-M.jpg" alt="Cover for Fundamentals of heat and mass transfer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+heat+and+mass+transfer+Frank+P.+Incropera&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of heat and mass transfer">Fundamentals of heat and mass transfer</a>
+</h4>
+<p class="fr-book-author">By Frank P. Incropera, David P. DeWitt</p>
         
-        <p class="fr-book-desc">First published 1985. Subjects: Transmission, Heat, Mass transfer, Wärmeübertragung, Chaleur.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+heat+and+mass+transfer+Frank+P.+Incropera&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1985. Subjects: Transmission, Heat, Mass transfer, Wärmeübertragung, Chaleur.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+heat+and+mass+transfer+Frank+P.+Incropera&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
-        </h4>
-        <p class="fr-book-author">By Bahman Zohuri</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
+</h4>
+<p class="fr-book-author">By Bahman Zohuri</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Laser+Fundamentals+William+T.+Silfvast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Laser Fundamentals on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/358354-M.jpg" alt="Cover for Laser Fundamentals" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Laser+Fundamentals+William+T.+Silfvast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser Fundamentals">Laser Fundamentals</a>
-        </h4>
-        <p class="fr-book-author">By William T. Silfvast</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Laser+Fundamentals+William+T.+Silfvast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Laser Fundamentals on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/358354-M.jpg" alt="Cover for Laser Fundamentals" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Laser+Fundamentals+William+T.+Silfvast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser Fundamentals">Laser Fundamentals</a>
+</h4>
+<p class="fr-book-author">By William T. Silfvast</p>
         
-        <p class="fr-book-desc">First published 2004. Subjects: Lasers, Ta1675 .s52 2004, 621.36/6.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Laser+Fundamentals+William+T.+Silfvast&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2004. Subjects: Lasers, Ta1675 .s52 2004, 621.36/6.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Laser+Fundamentals+William+T.+Silfvast&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Power+electronics+Ned+Mohan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Power electronics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/302229-M.jpg" alt="Cover for Power electronics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Power+electronics+Ned+Mohan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Power electronics">Power electronics</a>
-        </h4>
-        <p class="fr-book-author">By Ned Mohan, William Robbins et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Power+electronics+Ned+Mohan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Power electronics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/302229-M.jpg" alt="Cover for Power electronics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Power+electronics+Ned+Mohan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Power electronics">Power electronics</a>
+</h4>
+<p class="fr-book-author">By Ned Mohan, William Robbins et al.</p>
         
-        <p class="fr-book-desc">First published 1989. Subjects: Power semiconductors, Electric current converters, Power electronics, Circuits &amp; components, Computer mod...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Power+electronics+Ned+Mohan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1989. Subjects: Power semiconductors, Electric current converters, Power electronics, Circuits &amp; components, Computer mod...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Power+electronics+Ned+Mohan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+heat+and+mass+transfer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of heat and mass transfer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed Energy Weapons</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Laser+Fundamentals&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Laser Fundamentals</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+heat+and+mass+transfer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of heat and mass transfer</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed Energy Weapons</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Laser+Fundamentals&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Laser Fundamentals</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 7th Air Defence Brigade British Army Trf Iron Sew On Military Embroidered Patch"><img src="{{ '/assets/images/marketplace-covers/1acbf17091b359be007f.jpg' | relative_url }}" alt="Listing image for 7th Air Defence Brigade British Army Trf Iron Sew On Military Embroidered Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer">7th Air Defence Brigade British Army Trf Iron Sew On Military Embroidered Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 7th Air Defence Brigade British Army Trf Iron Sew On Military Embroidered Patch"><img src="{{ '/assets/images/marketplace-covers/1acbf17091b359be007f.jpg' | relative_url }}" alt="Listing image for 7th Air Defence Brigade British Army Trf Iron Sew On Military Embroidered Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer">7th Air Defence Brigade British Army Trf Iron Sew On Military Embroidered Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 7th Air Defence Brigade British Army TRF military Embroidered Patch Sew On"><img src="{{ '/assets/images/marketplace-covers/64d3bbc4fa8ca27482f0.jpg' | relative_url }}" alt="Listing image for 7th Air Defence Brigade British Army TRF military Embroidered Patch Sew On" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer">7th Air Defence Brigade British Army TRF military Embroidered Patch Sew On</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 7th Air Defence Brigade British Army TRF military Embroidered Patch Sew On"><img src="{{ '/assets/images/marketplace-covers/64d3bbc4fa8ca27482f0.jpg' | relative_url }}" alt="Listing image for 7th Air Defence Brigade British Army TRF military Embroidered Patch Sew On" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer">7th Air Defence Brigade British Army TRF military Embroidered Patch Sew On</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original USAF Air Defense Command Qualified Patch 1950s Eagle Insignia"><img src="{{ '/assets/images/marketplace-covers/8037c521c163880fe876.jpg' | relative_url }}" alt="Listing image for Original USAF Air Defense Command Qualified Patch 1950s Eagle Insignia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer">Original USAF Air Defense Command Qualified Patch 1950s Eagle Insignia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original USAF Air Defense Command Qualified Patch 1950s Eagle Insignia"><img src="{{ '/assets/images/marketplace-covers/8037c521c163880fe876.jpg' | relative_url }}" alt="Listing image for Original USAF Air Defense Command Qualified Patch 1950s Eagle Insignia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer">Original USAF Air Defense Command Qualified Patch 1950s Eagle Insignia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF BASE PATCH, McCHORD AIR FORCE BASE, WASHINGTON, WESTERN AIR DEFENSE SECTOR"><img src="{{ '/assets/images/marketplace-covers/fedff61ac27a7440cbe8.jpg' | relative_url }}" alt="Listing image for USAF BASE PATCH, McCHORD AIR FORCE BASE, WASHINGTON, WESTERN AIR DEFENSE SECTOR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer">USAF BASE PATCH, McCHORD AIR FORCE BASE, WASHINGTON, WESTERN AIR DEFENSE SECTOR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF BASE PATCH, McCHORD AIR FORCE BASE, WASHINGTON, WESTERN AIR DEFENSE SECTOR"><img src="{{ '/assets/images/marketplace-covers/fedff61ac27a7440cbe8.jpg' | relative_url }}" alt="Listing image for USAF BASE PATCH, McCHORD AIR FORCE BASE, WASHINGTON, WESTERN AIR DEFENSE SECTOR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer">USAF BASE PATCH, McCHORD AIR FORCE BASE, WASHINGTON, WESTERN AIR DEFENSE SECTOR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense patch" data-ebay-reference="engineering-what-the-beam-needs-behind-the-scenes-directed-ener-air-defense-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -661,7 +661,7 @@ Those questions are not peripheral. They are the difference between producing di
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -681,7 +681,7 @@ Those questions are not peripheral. They are the difference between producing di
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -713,7 +713,7 @@ Those questions are not peripheral. They are the difference between producing di
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -765,7 +765,7 @@ Those questions are not peripheral. They are the difference between producing di
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -810,7 +810,7 @@ Those questions are not peripheral. They are the difference between producing di
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -851,168 +851,168 @@ Those questions are not peripheral. They are the difference between producing di
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gao.gov  
    Title: gao 23 105868  
-   Link: <a href="https://www.gao.gov/products/gao-23-105868" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-105868</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Department of Defense (DOD) is currently developing directed energy weapons with the goal of defeating a range of threats...Read more...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-23-105868" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-105868</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Department of Defense (DOD) is currently developing directed energy weapons with the goal of defeating a range of threats...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gao.gov  
    Title: gao 23 106717  
-   Link: <a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — Challenges Technological limitations. DEWs are generally less effective...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — Challenges Technological limitations. DEWs are generally less effective...</p></details>
    Published: May 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: onr.navy.mil  
-   Link: <a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Counter Directed Energy Weapons and High Energy LasersFor HEL, research leading to novel beam director fire control architectures, reduce...</p></details>
+   Link:<a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Counter Directed Energy Weapons and High Energy LasersFor HEL, research leading to novel beam director fire control architectures, reduce...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: onr.navy.mil  
    Title: The U.S  
-   Link: <a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-uspl-and-atmospheric-characterization" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-uspl-and-atmospheric-characterization</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons: Ultra-Short Pulse Laser and...Navy DEWs include systems that use high-energy lasers (HEL) that emit photons and...</p></details>
+   Link:<a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-uspl-and-atmospheric-characterization" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-uspl-and-atmospheric-characterization</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons: Ultra-Short Pulse Laser and...Navy DEWs include systems that use high-energy lasers (HEL) that emit photons and...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dsiac.dtic.mil  
-   Link: <a href="https://dsiac.dtic.mil/articles/power-generation-and-storage-for-directed-energy-systems/" target="_blank" rel="noopener noreferrer nofollow">https://dsiac.dtic.mil/articles/power-generation-and-storage-for-directed-energy-systems/</a>  
+   Link:<a href="https://dsiac.dtic.mil/articles/power-generation-and-storage-for-directed-energy-systems/" target="_blank" rel="noopener noreferrer nofollow">https://dsiac.dtic.mil/articles/power-generation-and-storage-for-directed-energy-systems/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: everycrsreport.com  
-   Link: <a href="https://www.everycrsreport.com/files/2024-07-24_R44175_bd7aad12b8fb1d1589b9506a55c9ad6922b142a3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.everycrsreport.com/files/2024-07-24_R44175_bd7aad12b8fb1d1589b9506a55c9ad6922b142a3.html</a>  
+   Link:<a href="https://www.everycrsreport.com/files/2024-07-24_R44175_bd7aad12b8fb1d1589b9506a55c9ad6922b142a3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.everycrsreport.com/files/2024-07-24_R44175_bd7aad12b8fb1d1589b9506a55c9ad6922b142a3.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: optica-opn.org  
    Title: Optica OPNHigh-Energy Lasers: New Advances in Defense Applications  
-   Link: <a href="https://www.optica-opn.org/home/articles/volume_25/october_2014/features/high-energy_lasers_new_advances_in_defense_applica/" target="_blank" rel="noopener noreferrer nofollow">https://www.optica-opn.org/home/articles/volume_25/october_2014/features/high-energy_lasers_new_advances_in_defense_applica/</a>  
+   Link:<a href="https://www.optica-opn.org/home/articles/volume_25/october_2014/features/high-energy_lasers_new_advances_in_defense_applica/" target="_blank" rel="noopener noreferrer nofollow">https://www.optica-opn.org/home/articles/volume_25/october_2014/features/high-energy_lasers_new_advances_in_defense_applica/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: library.imarest.org  
    Title: IMar ESTAdvanced Cooling Methods for Naval Laser Directed  
-   Link: <a href="https://library.imarest.org/record/7705/files/INEC_2020_Paper_100.pdf" target="_blank" rel="noopener noreferrer nofollow">https://library.imarest.org/record/7705/files/INEC_2020_Paper_100.pdf</a>  
+   Link:<a href="https://library.imarest.org/record/7705/files/INEC_2020_Paper_100.pdf" target="_blank" rel="noopener noreferrer nofollow">https://library.imarest.org/record/7705/files/INEC_2020_Paper_100.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: mobilityengineeringtech.com  
    Title: Thermal Management for Directed Energy Weapons  
-   Link: <a href="https://www.mobilityengineeringtech.com/component/content/article/37608-thermal-management-for-directed-energy-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.mobilityengineeringtech.com/component/content/article/37608-thermal-management-for-directed-energy-weapons</a>  
+   Link:<a href="https://www.mobilityengineeringtech.com/component/content/article/37608-thermal-management-for-directed-energy-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.mobilityengineeringtech.com/component/content/article/37608-thermal-management-for-directed-energy-weapons</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: rtx.com  
-   Link: <a href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers</a>  
+   Link:<a href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: uk.leonardo.com  
    Title: Dragon Fire – Laser Directed Energy Weapon  
-   Link: <a href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow">https://uk.leonardo.com/en/innovation/dragonfire</a>  
+   Link:<a href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow">https://uk.leonardo.com/en/innovation/dragonfire</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: everycrsreport.com  
-   Link: <a href="https://www.everycrsreport.com/reports/RL30540.html" target="_blank" rel="noopener noreferrer nofollow">https://www.everycrsreport.com/reports/RL30540.html</a>  
+   Link:<a href="https://www.everycrsreport.com/reports/RL30540.html" target="_blank" rel="noopener noreferrer nofollow">https://www.everycrsreport.com/reports/RL30540.html</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: mobilityengineeringtech.com  
    Title: 23128 compact thermal management solutions for mobile laser weapon systems  
-   Link: <a href="https://www.mobilityengineeringtech.com/component/content/article/23128-compact-thermal-management-solutions-for-mobile-laser-weapon-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.mobilityengineeringtech.com/component/content/article/23128-compact-thermal-management-solutions-for-mobile-laser-weapon-systems</a>  
+   Link:<a href="https://www.mobilityengineeringtech.com/component/content/article/23128-compact-thermal-management-solutions-for-mobile-laser-weapon-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.mobilityengineeringtech.com/component/content/article/23128-compact-thermal-management-solutions-for-mobile-laser-weapon-systems</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: mobilityengineeringtech.com  
    Title: 46052 researchers test cooling solutions for directed energy weapons  
-   Link: <a href="https://www.mobilityengineeringtech.com/component/content/article/46052-researchers-test-cooling-solutions-for-directed-energy-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.mobilityengineeringtech.com/component/content/article/46052-researchers-test-cooling-solutions-for-directed-energy-weapons</a>  
+   Link:<a href="https://www.mobilityengineeringtech.com/component/content/article/46052-researchers-test-cooling-solutions-for-directed-energy-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.mobilityengineeringtech.com/component/content/article/46052-researchers-test-cooling-solutions-for-directed-energy-weapons</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: qinetiq.com  
    Title: dragonfire laser achieves another uk first  
-   Link: <a href="https://www.qinetiq.com/en/news/dragonfire-laser-achieves-another-uk-first" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/news/dragonfire-laser-achieves-another-uk-first</a>  
+   Link:<a href="https://www.qinetiq.com/en/news/dragonfire-laser-achieves-another-uk-first" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/news/dragonfire-laser-achieves-another-uk-first</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: qinetiq.com  
    Title: Laser Technologies  
-   Link: <a href="https://www.qinetiq.com/en/what-we-do/research-and-development/directed-energy-systems/dragonfire" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/what-we-do/research-and-development/directed-energy-systems/dragonfire</a>  
+   Link:<a href="https://www.qinetiq.com/en/what-we-do/research-and-development/directed-energy-systems/dragonfire" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/what-we-do/research-and-development/directed-energy-systems/dragonfire</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning</a>  
+   Link:<a href="https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dia.mil  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170045/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170045/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyState of the Art and Evolution of High-Energy Laser WeaponsMarch 4, 2022 — 31 Mar 2010 — The total power in th...</p></details>
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170045/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170045/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyState of the Art and Evolution of High-Energy Laser WeaponsMarch 4, 2022 — 31 Mar 2010 — The total power in th...</p></details>
    Published: March 4, 2022  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: te.com  
-   Link: <a href="https://www.te.com/en/industries/defense-military/insights/powering-the-future-of-directed-energy-weapons.html" target="_blank" rel="noopener noreferrer nofollow">https://www.te.com/en/industries/defense-military/insights/powering-the-future-of-directed-energy-weapons.html</a>  
+   Link:<a href="https://www.te.com/en/industries/defense-military/insights/powering-the-future-of-directed-energy-weapons.html" target="_blank" rel="noopener noreferrer nofollow">https://www.te.com/en/industries/defense-military/insights/powering-the-future-of-directed-energy-weapons.html</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: airpower.airforce.gov.au  
    Title: Air and Space Power Centre Directed Energy Weapons  
-   Link: <a href="https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf" target="_blank" rel="noopener noreferrer nofollow">https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf</a>  
+   Link:<a href="https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf" target="_blank" rel="noopener noreferrer nofollow">https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: lockheedmartin.com  
-   Link: <a href="https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html</a>  
+   Link:<a href="https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: GOV.UK  
    Title: advanced future military laser achieves uk first  
-   Link: <a href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first</a>  
+   Link:<a href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Gao" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gao</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gao" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gao</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/HELIOS" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/HELIOS</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/HELIOS" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/HELIOS</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: calhoun.nps.edu  
-   Link: <a href="https://calhoun.nps.edu/server/api/core/bitstreams/5a81dcfa-356e-40c0-8b4c-021b96ed7860/content" target="_blank" rel="noopener noreferrer nofollow">https://calhoun.nps.edu/server/api/core/bitstreams/5a81dcfa-356e-40c0-8b4c-021b96ed7860/content</a>  
+   Link:<a href="https://calhoun.nps.edu/server/api/core/bitstreams/5a81dcfa-356e-40c0-8b4c-021b96ed7860/content" target="_blank" rel="noopener noreferrer nofollow">https://calhoun.nps.edu/server/api/core/bitstreams/5a81dcfa-356e-40c0-8b4c-021b96ed7860/content</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: prnewswire.com  
-   Link: <a href="https://www.prnewswire.com/news-releases/lockheed-martin-receives-150-million-contract-to-deliver-integrated-high-energy-laser-weapon-systems-to-us-navy-300606676.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/lockheed-martin-receives-150-million-contract-to-deliver-integrated-high-energy-laser-weapon-systems-to-us-navy-300606676.html</a>  
+   Link:<a href="https://www.prnewswire.com/news-releases/lockheed-martin-receives-150-million-contract-to-deliver-integrated-high-energy-laser-weapon-systems-to-us-navy-300606676.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/lockheed-martin-receives-150-million-contract-to-deliver-integrated-high-energy-laser-weapon-systems-to-us-navy-300606676.html</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/399863884_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399863884_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways</a>  
+   Link:<a href="https://www.researchgate.net/publication/399863884_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399863884_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: droneshield.com  
-   Link: <a href="https://www.droneshield.com/blog/a-counter-to-drone-[swarms" target="_blank" rel="noopener noreferrer nofollow">https://www.droneshield.com/blog/a-counter-to-drone-[swarms</a>  
+   Link:<a href="https://www.droneshield.com/blog/a-counter-to-drone-[swarms" target="_blank" rel="noopener noreferrer nofollow">https://www.droneshield.com/blog/a-counter-to-drone-[swarms</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/avweek/posts/as-the-us-air-force-comes-within-weeks-of-the-first-operational-laser-weapons-th/10157699975222200/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/avweek/posts/as-the-us-air-force-comes-within-weeks-of-the-first-operational-laser-weapons-th/10157699975222200/</a>  
+   Link:<a href="https://www.facebook.com/avweek/posts/as-the-us-air-force-comes-within-weeks-of-the-first-operational-laser-weapons-th/10157699975222200/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/avweek/posts/as-the-us-air-force-comes-within-weeks-of-the-first-operational-laser-weapons-th/10157699975222200/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/263342808_Assessment_of_Long_Range_Laser_Weapon_Engagements_The_Case_of_the_Airborne_Laser" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/263342808_Assessment_of_Long_Range_Laser_Weapon_Engagements_The_Case_of_the_Airborne_Laser</a>  
+   Link:<a href="https://www.researchgate.net/publication/263342808_Assessment_of_Long_Range_Laser_Weapon_Engagements_The_Case_of_the_Airborne_Laser" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/263342808_Assessment_of_Long_Range_Laser_Weapon_Engagements_The_Case_of_the_Airborne_Laser</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: exail.com  
-   Link: <a href="https://www.exail.com/fr/photonics/lasers/directed-energy-lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.exail.com/fr/photonics/lasers/directed-energy-lasers</a>  
+   Link:<a href="https://www.exail.com/fr/photonics/lasers/directed-energy-lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.exail.com/fr/photonics/lasers/directed-energy-lasers</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: market.us  
-   Link: <a href="https://market.us/report/directed-energy-weapons-market/" target="_blank" rel="noopener noreferrer nofollow">https://market.us/report/directed-energy-weapons-market/</a>  
+   Link:<a href="https://market.us/report/directed-energy-weapons-market/" target="_blank" rel="noopener noreferrer nofollow">https://market.us/report/directed-energy-weapons-market/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/theministryofdefence/videos/dragonfire-is-a-highly-advanced-laser-directed-energy-weapon-designed-and-built-/1172317644377460/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theministryofdefence/videos/dragonfire-is-a-highly-advanced-laser-directed-energy-weapon-designed-and-built-/1172317644377460/</a>  
+   Link:<a href="https://www.facebook.com/theministryofdefence/videos/dragonfire-is-a-highly-advanced-laser-directed-energy-weapon-designed-and-built-/1172317644377460/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theministryofdefence/videos/dragonfire-is-a-highly-advanced-laser-directed-energy-weapon-designed-and-built-/1172317644377460/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/europe/comments/19crko7/dragonfire_laser_uk_successfully_tests_weapon_as/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/europe/comments/19crko7/dragonfire_laser_uk_successfully_tests_weapon_as/</a>  
+   Link:<a href="https://www.reddit.com/r/europe/comments/19crko7/dragonfire_laser_uk_successfully_tests_weapon_as/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/europe/comments/19crko7/dragonfire_laser_uk_successfully_tests_weapon_as/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: gandh.com  
-   Link: <a href="https://gandh.com/laser-directed-energy-weapons" target="_blank" rel="noopener noreferrer nofollow">https://gandh.com/laser-directed-energy-weapons</a>  
+   Link:<a href="https://gandh.com/laser-directed-energy-weapons" target="_blank" rel="noopener noreferrer nofollow">https://gandh.com/laser-directed-energy-weapons</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/interestingasfuck/comments/1qwa3pv/helios_the_60_kilowatt_highenergy_laser_weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/1qwa3pv/helios_the_60_kilowatt_highenergy_laser_weapon/</a>  
+   Link:<a href="https://www.reddit.com/r/interestingasfuck/comments/1qwa3pv/helios_the_60_kilowatt_highenergy_laser_weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/1qwa3pv/helios_the_60_kilowatt_highenergy_laser_weapon/</a>  

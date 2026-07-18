@@ -269,7 +269,7 @@ image: /assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_microwav_63
 
 ## Introduction
 
-When footage shows a drone suddenly dropping from the sky after engagement by the Air Force Research Laboratory’s [THOR]({{ 'thor/' | relative_url }}) high-power microwave system, the video alone rarely reveals what actually happened inside the aircraft. That is a central challenge in assessing THOR’s effectiveness. A falling drone demonstrates that something disrupted flight, but it does not distinguish between a temporary software crash, a communications failure, a sensor malfunction, a flight-controller reboot, or permanent electronic damage. Public descriptions of THOR emphasise that it creates a “counter-electronic effect” and disables drone electronics, yet they do not disclose the specific failure pathways produced during tests. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afresearchlab.com">[Air Force Research Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afresearchlab.com</span><span class="citation-popover-snippet">Air Force Research LaboratoryTACTICAL HIGH POWER OPERATIONAL RESPONDER...Sep 16, 2019 — The system uses high power microwaves to cause a...</span></span></span>
+When footage shows a drone suddenly dropping from the sky after engagement by the Air Force Research Laboratory’s [THOR]({{ 'thor/' | relative_url }}) high-power microwave system, the video alone rarely reveals what actually happened inside the aircraft. That is a central challenge in assessing THOR’s effectiveness. A falling drone demonstrates that something disrupted flight, but it does not distinguish between a temporary software crash, a communications failure, a sensor malfunction, a flight-controller reboot, or permanent electronic damage. Public descriptions of THOR emphasise that it creates a “counter-electronic effect” and disables drone electronics, yet they do not disclose the specific failure pathways produced during tests.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afresearchlab.com">[Air Force Research Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afresearchlab.com</span><span class="citation-popover-snippet">Air Force Research LaboratoryTACTICAL HIGH POWER OPERATIONAL RESPONDER...Sep 16, 2019 — The system uses high power microwaves to cause a...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_microwav_636998_thor_visible_004d3f-Illustration-1-dark.svg" | relative_url }}" alt="Visible Effects illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_microwav_636998_thor_visible_004d3f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_microwav_636998_thor_visible_004d3f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -277,7 +277,7 @@ This gap matters because different failure mechanisms imply very different milit
 
 ## What Public Test Footage Can and Cannot Show
 
-Most publicly released THOR material focuses on observable outcomes: drones cease controlled flight, drift, descend, or crash. AFRL descriptions consistently state that THOR uses high-power [microwaves]({{ 'microwaves/' | relative_url }}) to disable drone electronics and can engage multiple targets simultaneously. They do not provide the telemetry, component-level diagnostics, or post-test forensic analysis needed to determine exactly what failed. Air Force Research Laboratory+2Air Force Research Laboratory <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article/2512426/army-partners-with-air-forces-thor-for-base-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[afrl.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">army partners with air forces thor for base defense</span><span class="citation-popover-snippet">Air Force Research LaboratoryArmy partners with Air Force&#x27;s THOR for base defenseFeb 23, 2021 — THOR is a prototype directed energy weapo...</span></span></span>
+Most publicly released THOR material focuses on observable outcomes: drones cease controlled flight, drift, descend, or crash. AFRL descriptions consistently state that THOR uses high-power [microwaves]({{ 'microwaves/' | relative_url }}) to disable drone electronics and can engage multiple targets simultaneously. They do not provide the telemetry, component-level diagnostics, or post-test forensic analysis needed to determine exactly what failed. Air Force Research Laboratory+2Air Force Research Laboratory<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article/2512426/army-partners-with-air-forces-thor-for-base-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[afrl.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">army partners with air forces thor for base defense</span><span class="citation-popover-snippet">Air Force Research LaboratoryArmy partners with Air Force&#x27;s THOR for base defenseFeb 23, 2021 — THOR is a prototype directed energy weapo...</span></span></span>
 
 A video camera records only the drone's external behaviour. It cannot directly show:
 
@@ -293,9 +293,9 @@ A video camera records only the drone's external behaviour. It cannot directly s
 
 </div>
 
-The limitation is not unique to THOR. Government and industry discussions of high-power microwave [counter-drone]({{ 'missile-savings/' | relative_url }}) systems frequently note that electromagnetic effects can range from temporary degradation to lasting hardware damage. The visible result may still be a drone falling from the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — These weapons include high energy lasers and other high power electroma...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+The limitation is not unique to THOR. Government and industry discussions of high-power microwave [counter-drone]({{ 'missile-savings/' | relative_url }}) systems frequently note that electromagnetic effects can range from temporary degradation to lasting hardware damage. The visible result may still be a drone falling from the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — These weapons include high energy lasers and other high power electroma...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
-This contrasts with many kinetic or laser engagements. A missile strike may leave fragmentation damage, while a laser can sometimes leave visible burn marks. Microwave effects occur inside electronic systems, often without obvious external signatures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — These weapons include high energy lasers and other high power electroma...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+This contrasts with many kinetic or laser engagements. A missile strike may leave fragmentation damage, while a laser can sometimes leave visible burn marks. Microwave effects occur inside electronic systems, often without obvious external signatures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — These weapons include high energy lasers and other high power electroma...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 ## Why Different Failure Modes Look the Same from Outside
 
@@ -305,7 +305,7 @@ A multicopter stays airborne because several electronic subsystems operate toget
 
 Many drones depend on a central flight computer that stabilises the aircraft hundreds of times per second. If electromagnetic energy causes the processor to reset, the drone can immediately lose stabilisation and fall.
 
-From external footage, this can look exactly like catastrophic destruction. Yet a rebooted controller may later function normally once power is restored. High-power microwave effects are known to include temporary electronic upset as well as more severe damage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defencefinancemonitor.com/p/non-kinetic-counter-uas-with-high" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defencefinancemonitor.com">[Defence Finance Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defencefinancemonitor.com</span><span class="citation-popover-snippet">Defence Finance MonitorNon-Kinetic Counter-UAS with High Power Microwave8 Dec 2025 — The effects of an HPM hit on a drone can range from...</span></span></span>
+From external footage, this can look exactly like catastrophic destruction. Yet a rebooted controller may later function normally once power is restored. High-power microwave effects are known to include temporary electronic upset as well as more severe damage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defencefinancemonitor.com/p/non-kinetic-counter-uas-with-high" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defencefinancemonitor.com">[Defence Finance Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defencefinancemonitor.com</span><span class="citation-popover-snippet">Defence Finance MonitorNon-Kinetic Counter-UAS with High Power Microwave8 Dec 2025 — The effects of an HPM hit on a drone can range from...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XRnbuSaBR1I" title="US Air Force Shuts Down Drone with Unbelievable New Technology! | Microwave Weapon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XRnbuSaBR1I" target="_blank" rel="noopener noreferrer">US Air Force Shuts Down Drone with Unbelievable New Technology! | Microwave Weapon</a></p><p class="youtube-embed-meta">Channel: Are Thinking</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XRnbuSaBR1I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XRnbuSaBR1I">Open on YouTube</a></p></div></div></div>
@@ -332,7 +332,7 @@ From a ground-based camera, both scenarios often produce the same observable seq
 
 One of the most important distinctions in high-power microwave effects is the difference between electronic upset and electronic burnout.
 
-An upset refers to temporary malfunction. Electronics may freeze, reset, generate incorrect outputs, or stop responding before later recovering. Burnout refers to permanent physical damage to components or circuits. Analysts of microwave counter-UAS systems frequently describe both outcomes as plausible results of electromagnetic attack. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defencefinancemonitor.com/p/non-kinetic-counter-uas-with-high" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defencefinancemonitor.com">[Defence Finance Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defencefinancemonitor.com</span><span class="citation-popover-snippet">Defence Finance MonitorNon-Kinetic Counter-UAS with High Power Microwave8 Dec 2025 — The effects of an HPM hit on a drone can range from...</span></span></span>
+An upset refers to temporary malfunction. Electronics may freeze, reset, generate incorrect outputs, or stop responding before later recovering. Burnout refers to permanent physical damage to components or circuits. Analysts of microwave counter-UAS systems frequently describe both outcomes as plausible results of electromagnetic attack.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defencefinancemonitor.com/p/non-kinetic-counter-uas-with-high" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defencefinancemonitor.com">[Defence Finance Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defencefinancemonitor.com</span><span class="citation-popover-snippet">Defence Finance MonitorNon-Kinetic Counter-UAS with High Power Microwave8 Dec 2025 — The effects of an HPM hit on a drone can range from...</span></span></span>
 
 The challenge is that both outcomes can generate the same visible evidence during a test. Consider two drones:
 
@@ -354,11 +354,11 @@ This is one reason public THOR demonstrations do not fully resolve debates about
 
 ## Swarm Tests Make Attribution Even Harder
 
-THOR's main attraction is its ability to affect multiple drones simultaneously rather than engaging one target at a time. AFRL repeatedly highlights this counter-swarm role. U.S. Air Force+2Air &amp; Space Forces Magazine <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/News/Article-Display/Article/2658386/afrls-thor-hammers-drones-in-new-video-animation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">rls thor hammers drones in new video animation</span><span class="citation-popover-snippet">Air ForceAFRL&#x27;s THOR hammers drones in new video animationJun 16, 2021 — High energy lasers kill one target at a time, and high powered m...</span></span></span>
+THOR's main attraction is its ability to affect multiple drones simultaneously rather than engaging one target at a time. AFRL repeatedly highlights this counter-swarm role. U.S. Air Force+2Air &amp; Space Forces Magazine<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/News/Article-Display/Article/2658386/afrls-thor-hammers-drones-in-new-video-animation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">rls thor hammers drones in new video animation</span><span class="citation-popover-snippet">Air ForceAFRL&#x27;s THOR hammers drones in new video animationJun 16, 2021 — High energy lasers kill one target at a time, and high powered m...</span></span></span>
 
 In swarm footage, multiple aircraft may begin descending within seconds of one another. That visual pattern confirms that the engagement had an effect across the group, but it complicates diagnosis.
 
-Different drones within the same swarm may experience different internal failures because electromagnetic coupling depends on numerous factors, including orientation, wiring layout, shielding, antenna placement, and component design. A drone facing the emitter may respond differently from another flying nearby. Research and technical analyses of high-power microwave effects consistently emphasise that coupling into electronics is highly dependent on target characteristics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2602.08477" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Multi-physics Simulation Framework for High-power Microwave Counter-unmanned Aerial System Design and Performance EvaluationFebrua...</span></span></span>
+Different drones within the same swarm may experience different internal failures because electromagnetic coupling depends on numerous factors, including orientation, wiring layout, shielding, antenna placement, and component design. A drone facing the emitter may respond differently from another flying nearby. Research and technical analyses of high-power microwave effects consistently emphasise that coupling into electronics is highly dependent on target characteristics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2602.08477" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Multi-physics Simulation Framework for High-power Microwave Counter-unmanned Aerial System Design and Performance EvaluationFebrua...</span></span></span>
 
 As a result, a swarm video may show a common outcome—multiple falling drones—even if the underlying causes vary from aircraft to aircraft.
 
@@ -378,7 +378,7 @@ Useful telemetry could include:
 * Processor reset records.
 * Sensor health reports.
 * Radio-link status information.
-* Power-system diagnostics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2602.08477" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Multi-physics Simulation Framework for High-power Microwave Counter-unmanned Aerial System Design and Performance EvaluationFebrua...</span></span></span>
+* Power-system diagnostics.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2602.08477" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Multi-physics Simulation Framework for High-power Microwave Counter-unmanned Aerial System Design and Performance EvaluationFebrua...</span></span></span>
 * GPS reception history.
 * Motor-controller fault messages.
 
@@ -393,7 +393,7 @@ Physical teardown analysis would add another layer of evidence. Engineers could 
 
 * Burned semiconductor devices.
 * Damaged power regulators.
-* Failed radio-frequency components. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/unitedkingdom/comments/1hled0c/radio_frequency_directed_energy_weapon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Radio Frequency Directed Energy Weapon successfully...RFDEWs are a type of directed energy weapon that neutralises threats by emitting h...</span></span></span>
+* Failed radio-frequency components.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/unitedkingdom/comments/1hled0c/radio_frequency_directed_energy_weapon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Radio Frequency Directed Energy Weapon successfully...RFDEWs are a type of directed energy weapon that neutralises threats by emitting h...</span></span></span>
 * Corrupted memory devices.
 * Intact systems that simply rebooted.
 
@@ -405,205 +405,205 @@ This type of forensic evidence is routinely more informative than crash footage 
 <img src="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_microwav_636998_thor_visible_004d3f-Illustration-3-dark.svg" | relative_url }}" alt="Visible Effects illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_microwav_636998_thor_visible_004d3f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_microwav_636998_thor_visible_004d3f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Visual Evidence Remains Ambiguous
 
-The core difficulty is that THOR is designed to affect electronics rather than produce visible structural damage. Public information confirms the intended counter-electronic nature of the weapon and demonstrates that drones can be disabled rapidly, including in swarm scenarios. Air Force Research Laboratory+2Air Force Research Laboratory <span class="citation-link-wrap"><a class="citation-inline-link" href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afresearchlab.com">[afresearchlab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afresearchlab.com</span><span class="citation-popover-snippet">Air Force Research LaboratoryTACTICAL HIGH POWER OPERATIONAL RESPONDER...Sep 16, 2019 — The system uses high power microwaves to cause a...</span></span></span>
+The core difficulty is that THOR is designed to affect electronics rather than produce visible structural damage. Public information confirms the intended counter-electronic nature of the weapon and demonstrates that drones can be disabled rapidly, including in swarm scenarios. Air Force Research Laboratory+2Air Force Research Laboratory<span class="citation-link-wrap"><a class="citation-inline-link" href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afresearchlab.com">[afresearchlab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afresearchlab.com</span><span class="citation-popover-snippet">Air Force Research LaboratoryTACTICAL HIGH POWER OPERATIONAL RESPONDER...Sep 16, 2019 — The system uses high power microwaves to cause a...</span></span></span>
 
 What public footage generally proves is that a drone lost effective flight capability after engagement. What it does not prove is whether THOR caused a reboot, radio failure, sensor upset, software crash, temporary electronic disruption, or permanent component damage.
 
-For that reason, a falling drone is compelling evidence that an engagement occurred, but it is not, by itself, evidence of a specific kill mechanism. The most important clues lie in telemetry, diagnostics, and post-flight forensic examination—information that is rarely released alongside public demonstration videos. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2Air Force Research Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — These weapons include high energy lasers and other high power electroma...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+For that reason, a falling drone is compelling evidence that an engagement occurred, but it is not, by itself, evidence of a specific kill mechanism. The most important clues lie in telemetry, diagnostics, and post-flight forensic examination—information that is rarely released alongside public demonstration videos.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2Air Force Research Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — These weapons include high energy lasers and other high power electroma...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aSM6q_TKcTs" title="DRDO&#x27;S New Microwave Weapon Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aSM6q_TKcTs" target="_blank" rel="noopener noreferrer">DRDO&#x27;S New Microwave Weapon Explained</a></p><p class="youtube-embed-meta">Channel: Republic World</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aSM6q_TKcTs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aSM6q_TKcTs">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why a Falling Drone Does Not Prove the Kill. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why a Falling Drone Does Not Prove the Kill. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Illustrates how defense programs often limit disclosure of technical details.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates how defense programs often limit disclosure of technical details.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Applied+Electromagnetics+6th+By+Fawwaz+T.+Ulaby+Fawwaz+T+Ulaby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Applied Electromagnetics 6th By Fawwaz T. Ulaby on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10858380-M.jpg" alt="Cover for Fundamentals of Applied Electromagnetics 6th By Fawwaz T. Ulaby" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Applied+Electromagnetics+6th+By+Fawwaz+T.+Ulaby+Fawwaz+T+Ulaby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Applied Electromagnetics 6th By Fawwaz T. Ulaby">Fundamentals of Applied Electromagnetics 6th By Fawwaz T. Ulaby</a>
-        </h4>
-        <p class="fr-book-author">By Fawwaz T Ulaby</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Applied+Electromagnetics+6th+By+Fawwaz+T.+Ulaby+Fawwaz+T+Ulaby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Applied Electromagnetics 6th By Fawwaz T. Ulaby on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10858380-M.jpg" alt="Cover for Fundamentals of Applied Electromagnetics 6th By Fawwaz T. Ulaby" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+Applied+Electromagnetics+6th+By+Fawwaz+T.+Ulaby+Fawwaz+T+Ulaby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Applied Electromagnetics 6th By Fawwaz T. Ulaby">Fundamentals of Applied Electromagnetics 6th By Fawwaz T. Ulaby</a>
+</h4>
+<p class="fr-book-author">By Fawwaz T Ulaby</p>
         
-        <p class="fr-book-desc">First published 2014.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Applied+Electromagnetics+6th+By+Fawwaz+T.+Ulaby+Fawwaz+T+Ulaby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+Applied+Electromagnetics+6th+By+Fawwaz+T.+Ulaby+Fawwaz+T+Ulaby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Microwave+engineering+David+M.+Pozar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Microwave engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/301568-M.jpg" alt="Cover for Microwave engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Microwave+engineering+David+M.+Pozar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Microwave engineering">Microwave engineering</a>
-        </h4>
-        <p class="fr-book-author">By David M. Pozar</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Microwave+engineering+David+M.+Pozar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Microwave engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/301568-M.jpg" alt="Cover for Microwave engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Microwave+engineering+David+M.+Pozar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Microwave engineering">Microwave engineering</a>
+</h4>
+<p class="fr-book-author">By David M. Pozar</p>
         
-        <p class="fr-book-desc">First published 1990. Subjects: Microwave devices, Microwaves, Microwave circuits, open_syllabus_project, Dispositif à micro-ondes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Microwave+engineering+David+M.+Pozar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1990. Subjects: Microwave devices, Microwaves, Microwave circuits, open_syllabus_project, Dispositif à micro-ondes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Microwave+engineering+David+M.+Pozar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
-        </h4>
-        <p class="fr-book-author">By Bahman Zohuri</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
+</h4>
+<p class="fr-book-author">By Bahman Zohuri</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+Applied+Electromagnetics+6th+By+Fawwaz+T.+Ulaby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of Applied Electromagnetics 6th By Fawwaz T. Ulaby</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Microwave+engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Microwave engineering</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+Applied+Electromagnetics+6th+By+Fawwaz+T.+Ulaby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of Applied Electromagnetics 6th By Fawwaz T. Ulaby</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Microwave+engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Microwave engineering</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for drone UAVs vehicle military aircraft American text MQ 9 Reaper top 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/d6f151bc20330af852ca.jpg' | relative_url }}" alt="Listing image for drone UAVs vehicle military aircraft American text MQ 9 Reaper top 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">drone UAVs vehicle military aircraft American text MQ 9 Reaper top 11x17 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for drone UAVs vehicle military aircraft American text MQ 9 Reaper top 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/d6f151bc20330af852ca.jpg' | relative_url }}" alt="Listing image for drone UAVs vehicle military aircraft American text MQ 9 Reaper top 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">drone UAVs vehicle military aircraft American text MQ 9 Reaper top 11x17 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Drone UAV&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049381)"><img src="{{ '/assets/images/marketplace-covers/e78a62d502e4d0830aa0.jpg' | relative_url }}" alt="Listing image for &#x27;Drone UAV&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049381)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Drone UAV&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049381)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Drone UAV&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049381)"><img src="{{ '/assets/images/marketplace-covers/e78a62d502e4d0830aa0.jpg' | relative_url }}" alt="Listing image for &#x27;Drone UAV&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049381)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Drone UAV&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049381)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/d9531a5d69a4b2b40398.jpg' | relative_url }}" alt="Listing image for Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/d9531a5d69a4b2b40398.jpg' | relative_url }}" alt="Listing image for Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DoD UAV Integrated Roadmap Poster 2009 2034 Military Drone Chart Foldout"><img src="{{ '/assets/images/marketplace-covers/194b1edade76d37a0741.jpg' | relative_url }}" alt="Listing image for DoD UAV Integrated Roadmap Poster 2009 2034 Military Drone Chart Foldout" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">DoD UAV Integrated Roadmap Poster 2009 2034 Military Drone Chart Foldout</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DoD UAV Integrated Roadmap Poster 2009 2034 Military Drone Chart Foldout"><img src="{{ '/assets/images/marketplace-covers/194b1edade76d37a0741.jpg' | relative_url }}" alt="Listing image for DoD UAV Integrated Roadmap Poster 2009 2034 Military Drone Chart Foldout" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">DoD UAV Integrated Roadmap Poster 2009 2034 Military Drone Chart Foldout</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="visible-effects-why-a-falling-drone-does-not-prove-the-kill-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -619,7 +619,7 @@ For that reason, a falling drone is compelling evidence that an engagement occur
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -639,7 +639,7 @@ For that reason, a falling drone is compelling evidence that an engagement occur
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -671,7 +671,7 @@ For that reason, a falling drone is compelling evidence that an engagement occur
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -723,7 +723,7 @@ For that reason, a falling drone is compelling evidence that an engagement occur
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -768,7 +768,7 @@ For that reason, a falling drone is compelling evidence that an engagement occur
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -809,150 +809,150 @@ For that reason, a falling drone is compelling evidence that an engagement occur
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gao.gov  
    Title: gao 23 106717  
-   Link: <a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — These weapons include high energy [lasers](&amp;#123;&amp;#123; &#x27;lasers/&#x27; | relative_url &amp;#125;&amp;#125;) and other high power electroma...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — These weapons include high energy [lasers](&amp;#123;&amp;#123; &#x27;lasers/&#x27; | relative_url &amp;#125;&amp;#125;) and other high power electroma...</p></details>
    Published: May 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/assets/830/825926.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/830/825926.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy WeaponsHigh power microwave weapons produce microwaves, which have longer [wavelengths](&amp;#123;&amp;#123; &#x27;wavelengths/&#x27; | relative_url &amp;#125;&amp;#125;) than high energy lasers and millime...</p></details>
+   Link:<a href="https://www.gao.gov/assets/830/825926.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/830/825926.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy WeaponsHigh power microwave weapons produce microwaves, which have longer [wavelengths](&amp;#123;&amp;#123; &#x27;wavelengths/&#x27; | relative_url &amp;#125;&amp;#125;) than high energy lasers and millime...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: af.mil  
    Title: rls thor hammers drones in new video animation  
-   Link: <a href="https://www.af.mil/News/Article-Display/Article/2658386/afrls-thor-hammers-drones-in-new-video-animation/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/News/Article-Display/Article/2658386/afrls-thor-hammers-drones-in-new-video-animation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceAFRL&#x27;s THOR hammers drones in new video animationJun 16, 2021 — High energy lasers kill one target at a time, and high powered m...</p></details>
+   Link:<a href="https://www.af.mil/News/Article-Display/Article/2658386/afrls-thor-hammers-drones-in-new-video-animation/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/News/Article-Display/Article/2658386/afrls-thor-hammers-drones-in-new-video-animation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceAFRL&#x27;s THOR hammers drones in new video animationJun 16, 2021 — High energy lasers kill one target at a time, and high powered m...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2602.08477" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.08477</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Multi-physics Simulation Framework for High-power Microwave Counter-unmanned Aerial System Design and Performance EvaluationFebrua...</p></details>
+   Link:<a href="https://arxiv.org/abs/2602.08477" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.08477</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Multi-physics Simulation Framework for High-power Microwave Counter-unmanned Aerial System Design and Performance EvaluationFebrua...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: gao.gov  
    Title: gao 23 105868  
-   Link: <a href="https://www.gao.gov/products/gao-23-105868" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-105868</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons: DOD Should Focus on...Apr 17, 2023 — The Department of Defense (DOD) is currently developing directed energy we...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-23-105868" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-105868</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons: DOD Should Focus on...Apr 17, 2023 — The Department of Defense (DOD) is currently developing directed energy we...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Epirus Leonidas: High-Power Microwave for Counter-Electronics  
-   Link: <a href="http://www.youtube.com/watch?v=vLA826fH4Vc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vLA826fH4Vc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>US Air Force Shuts Down Drone with Unbelievable New Technology! | Microwave Weapon...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=vLA826fH4Vc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vLA826fH4Vc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Air Force Shuts Down Drone with Unbelievable New Technology! | Microwave Weapon...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=XRnbuSaBR1I" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=XRnbuSaBR1I</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AFRL THOR [drone swarm](&amp;#123;&amp;#123; &#x27;swarm-limits/&#x27; | relative_url &amp;#125;&amp;#125;) demonstration footage THOR (Tactical High-power Operational Responder) Destroys [Swarms](&amp;#123;&amp;#123; &#x27;swarms/&#x27; | relative_url &amp;#125;&amp;#125;) of Enemy Drone...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=XRnbuSaBR1I" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=XRnbuSaBR1I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFRL THOR [drone swarm](&amp;#123;&amp;#123; &#x27;swarm-limits/&#x27; | relative_url &amp;#125;&amp;#125;) demonstration footage THOR (Tactical High-power Operational Responder) Destroys [Swarms](&amp;#123;&amp;#123; &#x27;swarms/&#x27; | relative_url &amp;#125;&amp;#125;) of Enemy Drone...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: afresearchlab.com  
-   Link: <a href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://afresearchlab.com/counter-swarm-high-power-weapon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Research LaboratoryTACTICAL HIGH POWER OPERATIONAL RESPONDER...Sep 16, 2019 — The system uses high power microwaves to cause a...</p></details>
+   Link:<a href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://afresearchlab.com/counter-swarm-high-power-weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Research LaboratoryTACTICAL HIGH POWER OPERATIONAL RESPONDER...Sep 16, 2019 — The system uses high power microwaves to cause a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: afrl.af.mil  
    Title: army partners with air forces thor for base defense  
-   Link: <a href="https://www.afrl.af.mil/News/Article/2512426/army-partners-with-air-forces-thor-for-base-defense/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Article/2512426/army-partners-with-air-forces-thor-for-base-defense/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Research LaboratoryArmy partners with Air Force&#x27;s THOR for base defenseFeb 23, 2021 — THOR is a prototype directed energy weapo...</p></details>
+   Link:<a href="https://www.afrl.af.mil/News/Article/2512426/army-partners-with-air-forces-thor-for-base-defense/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Article/2512426/army-partners-with-air-forces-thor-for-base-defense/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Research LaboratoryArmy partners with Air Force&#x27;s THOR for base defenseFeb 23, 2021 — THOR is a prototype directed energy weapo...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: afrl.af.mil  
    Title: Air Force Research Laboratory AFRL's THOR hammers drones in new video animation  
-   Link: <a href="https://www.afrl.af.mil/News/Article-Display/Article/2649787/afrls-thor-hammers-drones-in-new-video-animation/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Article-Display/Article/2649787/afrls-thor-hammers-drones-in-new-video-animation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Research LaboratoryAFRL&#x27;s THOR hammers drones in new video animation - USAFJun 8, 2021 — High energy lasers kill one target at...</p></details>
+   Link:<a href="https://www.afrl.af.mil/News/Article-Display/Article/2649787/afrls-thor-hammers-drones-in-new-video-animation/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Article-Display/Article/2649787/afrls-thor-hammers-drones-in-new-video-animation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Research LaboratoryAFRL&#x27;s THOR hammers drones in new video animation - USAFJun 8, 2021 — High energy lasers kill one target at...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: defencefinancemonitor.com  
-   Link: <a href="https://www.defencefinancemonitor.com/p/non-kinetic-counter-uas-with-high" target="_blank" rel="noopener noreferrer nofollow">https://www.defencefinancemonitor.com/p/non-kinetic-counter-uas-with-high</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defence Finance MonitorNon-Kinetic Counter-UAS with High Power Microwave8 Dec 2025 — The effects of an HPM hit on a drone can range from...</p></details>
+   Link:<a href="https://www.defencefinancemonitor.com/p/non-kinetic-counter-uas-with-high" target="_blank" rel="noopener noreferrer nofollow">https://www.defencefinancemonitor.com/p/non-kinetic-counter-uas-with-high</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defence Finance MonitorNon-Kinetic Counter-UAS with High Power Microwave8 Dec 2025 — The effects of an HPM hit on a drone can range from...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: airandspaceforces.com  
    Title: Air & Space Forces Magazine THOR Hammers Drone Swarm with High-Power Microwaves  
-   Link: <a href="https://www.airandspaceforces.com/air-forces-thor-drone-swarm-demo/" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/air-forces-thor-drone-swarm-demo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air &amp; Space Forces MagazineTHOR Hammers Drone Swarm with High-Power MicrowavesMay 19, 2023 — The Air Force Research Laboratory&#x27;s directed...</p></details>
+   Link:<a href="https://www.airandspaceforces.com/air-forces-thor-drone-swarm-demo/" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/air-forces-thor-drone-swarm-demo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air &amp; Space Forces MagazineTHOR Hammers Drone Swarm with High-Power MicrowavesMay 19, 2023 — The Air Force Research Laboratory&#x27;s directed...</p></details>
    Published: May 19, 2023  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: afrl.af.mil  
    Title: enemy drone operators may soon face the power of thor  
-   Link: <a href="https://www.afrl.af.mil/News/Article-Display/Article/2339175/enemy-drone-operators-may-soon-face-the-power-of-thor/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Article-Display/Article/2339175/enemy-drone-operators-may-soon-face-the-power-of-thor/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“THOR is essentially a high-powered electromagnetic source that we put together...Read more...</p></details>
+   Link:<a href="https://www.afrl.af.mil/News/Article-Display/Article/2339175/enemy-drone-operators-may-soon-face-the-power-of-thor/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Article-Display/Article/2339175/enemy-drone-operators-may-soon-face-the-power-of-thor/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“THOR is essentially a high-powered electromagnetic source that we put together...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: afresearchlab.com  
-   Link: <a href="https://afresearchlab.com/wp-content/uploads/2019/09/AFRL_THOR_FS_0122.pdf" target="_blank" rel="noopener noreferrer nofollow">https://afresearchlab.com/wp-content/uploads/2019/09/AFRL_THOR_FS_0122.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>COUNTER-SWARM HIGH POWER WEAPONThe system uses high power microwaves to cause a counter electronic effect. A target is identified, the si...</p></details>
+   Link:<a href="https://afresearchlab.com/wp-content/uploads/2019/09/AFRL_THOR_FS_0122.pdf" target="_blank" rel="noopener noreferrer nofollow">https://afresearchlab.com/wp-content/uploads/2019/09/AFRL_THOR_FS_0122.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>COUNTER-SWARM HIGH POWER WEAPONThe system uses high power microwaves to cause a counter electronic effect. A target is identified, the si...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: af.mil  
    Title: Empowered Airmen  
-   Link: <a href="https://www.af.mil/About-Us/Empowered-Airmen/?dvpTag=Thor&amp;dvpmoduleid=2683&amp;videoid=904340" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Empowered-Airmen/?dvpTag=Thor&amp;dvpmoduleid=2683&amp;videoid=904340</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Accelerate Change: Empowered AirmenNov 16, 2023 — Tactical, High-power, Operational, Responder, known as THOR, is a high power microwave...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Empowered-Airmen/?dvpTag=Thor&amp;dvpmoduleid=2683&amp;videoid=904340" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Empowered-Airmen/?dvpTag=Thor&amp;dvpmoduleid=2683&amp;videoid=904340</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accelerate Change: Empowered AirmenNov 16, 2023 — Tactical, High-power, Operational, Responder, known as THOR, is a high power microwave...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: afrl.af.mil  
-   Link: <a href="https://www.afrl.af.mil/News/Photos/igphoto/2003223867/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Photos/igphoto/2003223867/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>High-power Operational ResponderA high-powered microwave counter drone weapon, stands ready to demonstrate its effectiveness against a sw...</p></details>
+   Link:<a href="https://www.afrl.af.mil/News/Photos/igphoto/2003223867/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Photos/igphoto/2003223867/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High-power Operational ResponderA high-powered microwave counter drone weapon, stands ready to demonstrate its effectiveness against a sw...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: usfk.mil  
-   Link: <a href="https://www.usfk.mil/What-We-Do/Exercises/Freedom-Shield/?dvpTag=Thor&amp;videoid=904340" target="_blank" rel="noopener noreferrer nofollow">https://www.usfk.mil/What-We-Do/Exercises/Freedom-Shield/?dvpTag=Thor&amp;videoid=904340</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tactical High-power Operational ResponderTactical, High-power, Operational, Responder, known as THOR, is a high power microwave counter-d...</p></details>
+   Link:<a href="https://www.usfk.mil/What-We-Do/Exercises/Freedom-Shield/?dvpTag=Thor&amp;videoid=904340" target="_blank" rel="noopener noreferrer nofollow">https://www.usfk.mil/What-We-Do/Exercises/Freedom-Shield/?dvpTag=Thor&amp;videoid=904340</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tactical High-power Operational ResponderTactical, High-power, Operational, Responder, known as THOR, is a high power microwave counter-d...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/4229403_Research_on_high_power_microwave_weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/4229403_Research_on_high_power_microwave_weapons</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Research on high power microwave weaponsThis structured narrative review analyses how High-Power Microwave (HPM) Directed Energy We...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/4229403_Research_on_high_power_microwave_weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/4229403_Research_on_high_power_microwave_weapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Research on high power microwave weaponsThis structured narrative review analyses how High-Power Microwave (HPM) Directed Energy We...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/401596360_Shaping_Modern_Warfare_The_Strategic_Role_of_High-Power_Microwave_Directed_Energy_Weapons_in_Multi-Domain_Operations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401596360_Shaping_Modern_Warfare_The_Strategic_Role_of_High-Power_Microwave_Directed_Energy_Weapons_in_Multi-Domain_Operations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Strategic Role of High-Power Microwave Directed...8 Mar 2026 — The paper compares HPM DEWs with high-energy laser (HEL) systems alon...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/401596360_Shaping_Modern_Warfare_The_Strategic_Role_of_High-Power_Microwave_Directed_Energy_Weapons_in_Multi-Domain_Operations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401596360_Shaping_Modern_Warfare_The_Strategic_Role_of_High-Power_Microwave_Directed_Energy_Weapons_in_Multi-Domain_Operations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Strategic Role of High-Power Microwave Directed...8 Mar 2026 — The paper compares HPM DEWs with high-energy laser (HEL) systems alon...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/904353/afrls-thor-tracks-and-disables-drone-swarm" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/904353/afrls-thor-tracks-and-disables-drone-swarm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AFRL&#x27;s THOR Tracks and Disables Drone Swarm&quot;Numerous drones were flown to simulate a swarm attack, and using its wide beam, high peak pow...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/904353/afrls-thor-tracks-and-disables-drone-swarm" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/904353/afrls-thor-tracks-and-disables-drone-swarm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFRL&#x27;s THOR Tracks and Disables Drone Swarm&quot;Numerous drones were flown to simulate a swarm attack, and using its wide beam, high peak pow...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: securityanddefence.pl  
-   Link: <a href="https://securityanddefence.pl/Analysis-of-the-power-of-drones-and-limitations-of-the-anti-drone-solutions-on-the%2C208347%2C0%2C2.html" target="_blank" rel="noopener noreferrer nofollow">https://securityanddefence.pl/Analysis-of-the-power-of-drones-and-limitations-of-the-anti-drone-solutions-on-the%2C208347%2C0%2C2.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of the power of drones and limitations of the anti-...by MZ Chaari · 2025 · Cited by 10 — High-power microwave (HPM) anti-drone...</p></details>
+   Link:<a href="https://securityanddefence.pl/Analysis-of-the-power-of-drones-and-limitations-of-the-anti-drone-solutions-on-the%2C208347%2C0%2C2.html" target="_blank" rel="noopener noreferrer nofollow">https://securityanddefence.pl/Analysis-of-the-power-of-drones-and-limitations-of-the-anti-drone-solutions-on-the%2C208347%2C0%2C2.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of the power of drones and limitations of the anti-...by MZ Chaari · 2025 · Cited by 10 — High-power microwave (HPM) anti-drone...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: techbriefs.com  
-   Link: <a href="https://www.techbriefs.com/component/content/article/49907-meet-thor-afrls-counter-drone-that-tracks-and-disables-drone-swarm" target="_blank" rel="noopener noreferrer nofollow">https://www.techbriefs.com/component/content/article/49907-meet-thor-afrls-counter-drone-that-tracks-and-disables-drone-swarm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meet THOR: AFRL&#x27;s Counter-Drone that Tracks and...THOR is a high-power microwave counter-drone weapon that the Air Force Research Lab ha...</p></details>
+   Link:<a href="https://www.techbriefs.com/component/content/article/49907-meet-thor-afrls-counter-drone-that-tracks-and-disables-drone-swarm" target="_blank" rel="noopener noreferrer nofollow">https://www.techbriefs.com/component/content/article/49907-meet-thor-afrls-counter-drone-that-tracks-and-disables-drone-swarm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meet THOR: AFRL&#x27;s Counter-Drone that Tracks and...THOR is a high-power microwave counter-drone weapon that the Air Force Research Lab ha...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: rtx.com  
-   Link: <a href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/phaser-high-power-microwave" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/phaser-high-power-microwave</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phaser High-Power Microwave System | RaytheonDefending at the speed of light. The Phaser high-power microwave system uses directed energy...</p></details>
+   Link:<a href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/phaser-high-power-microwave" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/phaser-high-power-microwave</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phaser High-Power Microwave System | RaytheonDefending at the speed of light. The Phaser high-power microwave system uses directed energy...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/unitedkingdom/comments/1hled0c/radio_frequency_directed_energy_weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/unitedkingdom/comments/1hled0c/radio_frequency_directed_energy_weapon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radio Frequency Directed Energy Weapon successfully...RFDEWs are a type of directed energy weapon that neutralises threats by emitting h...</p></details>
+   Link:<a href="https://www.reddit.com/r/unitedkingdom/comments/1hled0c/radio_frequency_directed_energy_weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/unitedkingdom/comments/1hled0c/radio_frequency_directed_energy_weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Radio Frequency Directed Energy Weapon successfully...RFDEWs are a type of directed energy weapon that neutralises threats by emitting h...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ledrones.org  
-   Link: <a href="https://ledrones.org/thor-electromagnetic-counter-swarm-drone-weapon/?srsltid=AfmBOoquCHR1tatH6VfqndMGE5FDLUO5rNRtCIqLStbNzCLPHG7ZDlCS" target="_blank" rel="noopener noreferrer nofollow">https://ledrones.org/thor-electromagnetic-counter-swarm-drone-weapon/?srsltid=AfmBOoquCHR1tatH6VfqndMGE5FDLUO5rNRtCIqLStbNzCLPHG7ZDlCS</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THOR: AFRL Electromagnetic counter-swarm drone weaponTHOR is a portable counter-UAS system, capable of destroying swarms of drones at spe...</p></details>
+   Link:<a href="https://ledrones.org/thor-electromagnetic-counter-swarm-drone-weapon/?srsltid=AfmBOoquCHR1tatH6VfqndMGE5FDLUO5rNRtCIqLStbNzCLPHG7ZDlCS" target="_blank" rel="noopener noreferrer nofollow">https://ledrones.org/thor-electromagnetic-counter-swarm-drone-weapon/?srsltid=AfmBOoquCHR1tatH6VfqndMGE5FDLUO5rNRtCIqLStbNzCLPHG7ZDlCS</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THOR: AFRL Electromagnetic counter-swarm drone weaponTHOR is a portable counter-UAS system, capable of destroying swarms of drones at spe...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: epirusinc.com  
-   Link: <a href="https://www.epirusinc.com/press-releases/epirus-leonidas-demonstrates-successful-use-of-high-power-microwave-to-defeat-[fiber-optic" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/press-releases/epirus-leonidas-demonstrates-successful-use-of-high-power-microwave-to-defeat-[fiber-optic</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus&#x27; Leonidas Demonstrates Successful Use of High-...13 Jan 2026 — Leonidas is the first EW-based counter-UAS technology to demonstra...</p></details>
+   Link:<a href="https://www.epirusinc.com/press-releases/epirus-leonidas-demonstrates-successful-use-of-high-power-microwave-to-defeat-[fiber-optic" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/press-releases/epirus-leonidas-demonstrates-successful-use-of-high-power-microwave-to-defeat-[fiber-optic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus&#x27; Leonidas Demonstrates Successful Use of High-...13 Jan 2026 — Leonidas is the first EW-based counter-UAS technology to demonstra...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: publications.sto.nato.int  
-   Link: <a href="https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SET-315/MP-SET-315-24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SET-315/MP-SET-315-24.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disruption to Destruction Assessing theby K Karcz · Cited by 2 — High-Power Microwave (HPM) sources in remotely interacting with aerial v...</p></details>
+   Link:<a href="https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SET-315/MP-SET-315-24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SET-315/MP-SET-315-24.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disruption to Destruction Assessing theby K Karcz · Cited by 2 — High-Power Microwave (HPM) sources in remotely interacting with aerial v...</p></details>

@@ -269,19 +269,19 @@ image: /assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_hebrides_tria_50
 
 ## Introduction
 
-The [Hebrides trials]({{ 'hebrides-trials/' | relative_url }}) were not primarily a test of whether DragonFire could generate a powerful laser beam. They were a test of whether an entire engagement chain could function as a single weapon system. A high-energy laser only becomes militarily useful when sensors detect a target, software tracks it, optics point the beam with extreme precision, and the system holds energy on a vulnerable spot long enough to cause damage. The 2024 DragonFire aerial-target engagement demonstrated that these elements could work together in sequence against a real airborne target rather than as separate laboratory achievements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</span></span></span>
+The [Hebrides trials]({{ 'hebrides-trials/' | relative_url }}) were not primarily a test of whether DragonFire could generate a powerful laser beam. They were a test of whether an entire engagement chain could function as a single weapon system. A high-energy laser only becomes militarily useful when sensors detect a target, software tracks it, optics point the beam with extreme precision, and the system holds energy on a vulnerable spot long enough to cause damage. The 2024 DragonFire aerial-target engagement demonstrated that these elements could work together in sequence against a real airborne target rather than as separate laboratory achievements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_hebrides_tria_50ba62_dragonfire_en_faa50c-Illustration-1-dark.svg" | relative_url }}" alt="Engagement Chain illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_hebrides_tria_50ba62_dragonfire_en_faa50c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_hebrides_tria_50ba62_dragonfire_en_faa50c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because many directed-energy programmes can produce a powerful beam. Far fewer can keep that beam accurately focused on a moving target through the [atmosphere]({{ 'atmosphere/' | relative_url }}) while continuously updating tracking and pointing solutions. The Hebrides firing was therefore a test of integration, not simply of [laser power]({{ 'power-costs/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.leonardo.com/en/news-and-stories-detail/-/detail/dragonfire-laser-weapon-trial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.leonardo.com">[Leonardo UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.leonardo.com</span><span class="citation-popover-title">dragonfire laser weapon trial</span><span class="citation-popover-snippet">Leonardo UKLeonardo demonstrates ultra-precise tracking technology in...8 Nov 2022 — Leonardo has proven the tracking capability of its...</span></span></span>
+This distinction matters because many directed-energy programmes can produce a powerful beam. Far fewer can keep that beam accurately focused on a moving target through the [atmosphere]({{ 'atmosphere/' | relative_url }}) while continuously updating tracking and pointing solutions. The Hebrides firing was therefore a test of integration, not simply of [laser power]({{ 'power-costs/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.leonardo.com/en/news-and-stories-detail/-/detail/dragonfire-laser-weapon-trial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.leonardo.com">[Leonardo UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.leonardo.com</span><span class="citation-popover-title">dragonfire laser weapon trial</span><span class="citation-popover-snippet">Leonardo UKLeonardo demonstrates ultra-precise tracking technology in...8 Nov 2022 — Leonardo has proven the tracking capability of its...</span></span></span>
 
 ## From Detection to Target Acquisition
 
-A successful DragonFire engagement begins before the [laser fires]({{ 'a-laser-should-fire-before-a-missile/' | relative_url }}). The system first has to detect a target, establish a track and determine where the beam should be placed. This process depends on sensors, command-and-control software and target-tracking systems working together quickly enough to engage an aerial object before it leaves the engagement window. MBDA identifies command-and-control and target tracking as core elements of the DragonFire architecture, highlighting that the weapon is more than a laser source attached to a turret. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mbda-systems.com/dragonfire-laser-achieves-another-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbda-systems.com">[MBDA Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbda-systems.com</span><span class="citation-popover-title">dragonfire laser achieves another uk first</span><span class="citation-popover-snippet">MBDA SystemsDragonFire laser achieves another UK first19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system has achieve...</span></span></span>
+A successful DragonFire engagement begins before the [laser fires]({{ 'a-laser-should-fire-before-a-missile/' | relative_url }}). The system first has to detect a target, establish a track and determine where the beam should be placed. This process depends on sensors, command-and-control software and target-tracking systems working together quickly enough to engage an aerial object before it leaves the engagement window. MBDA identifies command-and-control and target tracking as core elements of the DragonFire architecture, highlighting that the weapon is more than a laser source attached to a turret.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mbda-systems.com/dragonfire-laser-achieves-another-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbda-systems.com">[MBDA Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbda-systems.com</span><span class="citation-popover-title">dragonfire laser achieves another uk first</span><span class="citation-popover-snippet">MBDA SystemsDragonFire laser achieves another UK first19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system has achieve...</span></span></span>
 
-The Hebrides trials built upon earlier demonstrations that had already shown DragonFire's ability to track moving air and sea targets with very high accuracy. Those earlier tests reduced uncertainty about whether the system could maintain awareness of a moving target. The aerial-target engagement then extended that capability into a complete weapon sequence in which tracking data had to support an actual destructive shot. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</span></span></span>
+The Hebrides trials built upon earlier demonstrations that had already shown DragonFire's ability to track moving air and sea targets with very high accuracy. Those earlier tests reduced uncertainty about whether the system could maintain awareness of a moving target. The aerial-target engagement then extended that capability into a complete weapon sequence in which tracking data had to support an actual destructive shot.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</span></span></span>
 
-The key question was not whether DragonFire could see the target once. It had to show that target information could be continuously updated and passed through the engagement chain without losing the precise aim point required for a laser weapon to work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mbda-systems.com/dragonfire-laser-achieves-another-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbda-systems.com">[MBDA Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbda-systems.com</span><span class="citation-popover-title">dragonfire laser achieves another uk first</span><span class="citation-popover-snippet">MBDA SystemsDragonFire laser achieves another UK first19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system has achieve...</span></span></span>
+The key question was not whether DragonFire could see the target once. It had to show that target information could be continuously updated and passed through the engagement chain without losing the precise aim point required for a laser weapon to work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mbda-systems.com/dragonfire-laser-achieves-another-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbda-systems.com">[MBDA Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbda-systems.com</span><span class="citation-popover-title">dragonfire laser achieves another uk first</span><span class="citation-popover-snippet">MBDA SystemsDragonFire laser achieves another UK first19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system has achieve...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6re0FNWHP74" title="Inside the British Navy Dragonfire Laser Weapon Test That Could Change Naval Warfare" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6re0FNWHP74" target="_blank" rel="noopener noreferrer">Inside the British Navy Dragonfire Laser Weapon Test That Could Change Naval Warfare</a></p><p class="youtube-embed-meta">Channel: DefenseWebTV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6re0FNWHP74" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6re0FNWHP74">Open on YouTube</a></p></div></div></div>
@@ -290,9 +290,9 @@ The key question was not whether DragonFire could see the target once. It had to
 
 The most demanding part of the engagement chain was maintaining beam placement on a moving target. Unlike a missile, which can continue toward a target after launch, a laser must continuously illuminate a specific point long enough to create damaging thermal effects.
 
-Leonardo's beam director sits at the centre of this challenge. The company describes its role as providing ultra-precise tracking, pointing accuracy and stability over long ranges. The system must maintain alignment while the target is moving and while atmospheric conditions distort the beam path. According to Leonardo, achieving this level of stability is a major [engineering]({{ 'engineering/' | relative_url }}) challenge in its own right. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.leonardo.com/en/news-and-stories-detail/-/detail/dragonfire-laser-weapon-trial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.leonardo.com">[Leonardo UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.leonardo.com</span><span class="citation-popover-title">dragonfire laser weapon trial</span><span class="citation-popover-snippet">Leonardo UKLeonardo demonstrates ultra-precise tracking technology in...8 Nov 2022 — Leonardo has proven the tracking capability of its...</span></span></span>
+Leonardo's beam director sits at the centre of this challenge. The company describes its role as providing ultra-precise tracking, pointing accuracy and stability over long ranges. The system must maintain alignment while the target is moving and while atmospheric conditions distort the beam path. According to Leonardo, achieving this level of stability is a major [engineering]({{ 'engineering/' | relative_url }}) challenge in its own right.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.leonardo.com/en/news-and-stories-detail/-/detail/dragonfire-laser-weapon-trial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.leonardo.com">[Leonardo UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.leonardo.com</span><span class="citation-popover-title">dragonfire laser weapon trial</span><span class="citation-popover-snippet">Leonardo UKLeonardo demonstrates ultra-precise tracking technology in...8 Nov 2022 — Leonardo has proven the tracking capability of its...</span></span></span>
 
-This is why official descriptions repeatedly emphasise DragonFire's accuracy. The widely quoted comparison—accuracy equivalent to hitting a £1 coin from a kilometre away—is not simply a publicity phrase. It illustrates the degree of pointing precision required if the laser is to keep depositing energy onto a small area of a moving target. Any significant drift spreads the energy and reduces the weapon's effectiveness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</span></span></span>
+This is why official descriptions repeatedly emphasise DragonFire's accuracy. The widely quoted comparison—accuracy equivalent to hitting a £1 coin from a kilometre away—is not simply a publicity phrase. It illustrates the degree of pointing precision required if the laser is to keep depositing energy onto a small area of a moving target. Any significant drift spreads the energy and reduces the weapon's effectiveness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</span></span></span>
 
 The engagement chain therefore had to demonstrate three things simultaneously:
 
@@ -300,12 +300,12 @@ The engagement chain therefore had to demonstrate three things simultaneously:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Continuous target tracking.
-* Precise beam pointing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uk.leonardo.com/en/news-and-stories-detail/-/detail/dragonfire-laser-weapon-trial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.leonardo.com">[uk.leonardo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.leonardo.com</span><span class="citation-popover-title">dragonfire laser weapon trial</span><span class="citation-popover-snippet">Leonardo UKLeonardo demonstrates ultra-precise tracking technology in...8 Nov 2022 — Leonardo has proven the tracking capability of its...</span></span></span>
+* Precise beam pointing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uk.leonardo.com/en/news-and-stories-detail/-/detail/dragonfire-laser-weapon-trial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.leonardo.com">[uk.leonardo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.leonardo.com</span><span class="citation-popover-title">dragonfire laser weapon trial</span><span class="citation-popover-snippet">Leonardo UKLeonardo demonstrates ultra-precise tracking technology in...8 Nov 2022 — Leonardo has proven the tracking capability of its...</span></span></span>
 * Stable beam placement for a sustained period.
 
 </div>
 
-Failure in any one of those areas would prevent the weapon from achieving its intended effect, regardless of laser output. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.leonardo.com/en/news-and-stories-detail/-/detail/dragonfire-laser-weapon-trial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.leonardo.com">[Leonardo UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.leonardo.com</span><span class="citation-popover-title">dragonfire laser weapon trial</span><span class="citation-popover-snippet">Leonardo UKLeonardo demonstrates ultra-precise tracking technology in...8 Nov 2022 — Leonardo has proven the tracking capability of its...</span></span></span>
+Failure in any one of those areas would prevent the weapon from achieving its intended effect, regardless of laser output.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.leonardo.com/en/news-and-stories-detail/-/detail/dragonfire-laser-weapon-trial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.leonardo.com">[Leonardo UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.leonardo.com</span><span class="citation-popover-title">dragonfire laser weapon trial</span><span class="citation-popover-snippet">Leonardo UKLeonardo demonstrates ultra-precise tracking technology in...8 Nov 2022 — Leonardo has proven the tracking capability of its...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_hebrides_tria_50ba62_dragonfire_en_faa50c-Illustration-2-dark.svg" | relative_url }}" alt="Engagement Chain illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_hebrides_tria_50ba62_dragonfire_en_faa50c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_hebrides_tria_50ba62_dragonfire_en_faa50c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -313,7 +313,7 @@ Failure in any one of those areas would prevent the weapon from achieving its in
 
 A laser weapon defeats a target by concentrating energy on a specific location until structural failure, sensor damage or another critical effect occurs. The laser source alone cannot guarantee that outcome.
 
-DragonFire combines several specialist technologies supplied by different partners. QinetiQ provides the precision laser source, Leonardo supplies the beam director and optics, and MBDA contributes command, control and tracking functions. The Hebrides trials effectively tested whether these components could operate as a coherent weapon rather than as separate subsystems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mbda-systems.com/dragonfire-laser-achieves-another-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbda-systems.com">[MBDA Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbda-systems.com</span><span class="citation-popover-title">dragonfire laser achieves another uk first</span><span class="citation-popover-snippet">MBDA SystemsDragonFire laser achieves another UK first19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system has achieve...</span></span></span>
+DragonFire combines several specialist technologies supplied by different partners. QinetiQ provides the precision laser source, Leonardo supplies the beam director and optics, and MBDA contributes command, control and tracking functions. The Hebrides trials effectively tested whether these components could operate as a coherent weapon rather than as separate subsystems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mbda-systems.com/dragonfire-laser-achieves-another-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbda-systems.com">[MBDA Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbda-systems.com</span><span class="citation-popover-title">dragonfire laser achieves another uk first</span><span class="citation-popover-snippet">MBDA SystemsDragonFire laser achieves another UK first19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system has achieve...</span></span></span>
 
 The engagement chain only succeeds when each stage supports the next:
 
@@ -327,217 +327,217 @@ The engagement chain only succeeds when each stage supports the next:
 5. Energy remains concentrated on the desired aim point.
 6. Thermal damage accumulates until the target is defeated.
 
-The final destructive effect is therefore the visible result of many hidden processes functioning correctly. A target kill demonstrates not only laser power but also the successful integration of sensing, computing, optics and beam control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.leonardo.com/en/news-and-stories-detail/-/detail/dragonfire-laser-weapon-trial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.leonardo.com">[Leonardo UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.leonardo.com</span><span class="citation-popover-title">dragonfire laser weapon trial</span><span class="citation-popover-snippet">Leonardo UKLeonardo demonstrates ultra-precise tracking technology in...8 Nov 2022 — Leonardo has proven the tracking capability of its...</span></span></span>
+The final destructive effect is therefore the visible result of many hidden processes functioning correctly. A target kill demonstrates not only laser power but also the successful integration of sensing, computing, optics and beam control.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.leonardo.com/en/news-and-stories-detail/-/detail/dragonfire-laser-weapon-trial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.leonardo.com">[Leonardo UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.leonardo.com</span><span class="citation-popover-title">dragonfire laser weapon trial</span><span class="citation-popover-snippet">Leonardo UKLeonardo demonstrates ultra-precise tracking technology in...8 Nov 2022 — Leonardo has proven the tracking capability of its...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_hebrides_tria_50ba62_dragonfire_en_faa50c-Illustration-3-dark.svg" | relative_url }}" alt="Engagement Chain illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_hebrides_tria_50ba62_dragonfire_en_faa50c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_hebrides_tria_50ba62_dragonfire_en_faa50c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Hebrides Engagement Actually Proved
 
-The significance of the Hebrides firing lies in what it validated about the complete weapon chain. Official statements describe the event as the UK's first high-power laser engagement against aerial targets and note that it followed earlier demonstrations of highly accurate tracking against moving targets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</span></span></span>
+The significance of the Hebrides firing lies in what it validated about the complete weapon chain. Official statements describe the event as the UK's first high-power laser engagement against aerial targets and note that it followed earlier demonstrations of highly accurate tracking against moving targets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</span></span></span>
 
-Within the scope of a single engagement, DragonFire demonstrated that it could: <span class="citation-chip-wrap"><a class="citation-chip" href="https://bisi.org.uk/reports/future-of-military-technologies-uks-dragonfire-laser" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bisi.org.uk">[bisi.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bisi.org.uk</span><span class="citation-popover-snippet">Future of Military Technologies: UK&#x27;s &#x27;Dragonfire&#x27; Laser29 Jan 2024 — The UK has developed its first laser weapon system (Dragonfire) to...</span></span></span>
+Within the scope of a single engagement, DragonFire demonstrated that it could:<span class="citation-chip-wrap"><a class="citation-chip" href="https://bisi.org.uk/reports/future-of-military-technologies-uks-dragonfire-laser" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bisi.org.uk">[bisi.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bisi.org.uk</span><span class="citation-popover-snippet">Future of Military Technologies: UK&#x27;s &#x27;Dragonfire&#x27; Laser29 Jan 2024 — The UK has developed its first laser weapon system (Dragonfire) to...</span></span></span>
 
 * Acquire and track an airborne target.
 * Maintain precision pointing throughout the engagement.
 * Control the beam accurately at operationally relevant ranges.
 * Keep sufficient energy on the target to achieve a damaging effect.
-* Integrate command, tracking, optics and laser [generation]({{ 'generation-ii/' | relative_url }}) into one functioning weapon system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2MBDA Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</span></span></span>
+* Integrate command, tracking, optics and laser [generation]({{ 'generation-ii/' | relative_url }}) into one functioning weapon system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2MBDA Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</span></span></span>
 
-That is why the engagement chain was the real achievement. The difficult part was not merely generating a powerful laser beam. The difficult part was proving that every component required to turn that beam into a practical weapon could operate together, continuously and accurately enough to defeat a moving aerial target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.leonardo.com/en/news-and-stories-detail/-/detail/dragonfire-laser-weapon-trial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.leonardo.com">[Leonardo UK+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.leonardo.com</span><span class="citation-popover-title">dragonfire laser weapon trial</span><span class="citation-popover-snippet">Leonardo UKLeonardo demonstrates ultra-precise tracking technology in...8 Nov 2022 — Leonardo has proven the tracking capability of its...</span></span></span>
+That is why the engagement chain was the real achievement. The difficult part was not merely generating a powerful laser beam. The difficult part was proving that every component required to turn that beam into a practical weapon could operate together, continuously and accurately enough to defeat a moving aerial target.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.leonardo.com/en/news-and-stories-detail/-/detail/dragonfire-laser-weapon-trial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.leonardo.com">[Leonardo UK+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.leonardo.com</span><span class="citation-popover-title">dragonfire laser weapon trial</span><span class="citation-popover-snippet">Leonardo UKLeonardo demonstrates ultra-precise tracking technology in...8 Nov 2022 — Leonardo has proven the tracking capability of its...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XP31LsTs6C8" title="The UK’s New LASER Weapon System" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XP31LsTs6C8" target="_blank" rel="noopener noreferrer">The UK’s New LASER Weapon System</a></p><p class="youtube-embed-meta">Channel: Armed Stories</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XP31LsTs6C8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XP31LsTs6C8">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Hard Part Was Not Just Firing the Laser. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Hard Part Was Not Just Firing the Laser. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Explains the importance of integrated sensing and targeting networks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the importance of integrated sensing and targeting networks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
-        </h4>
-        <p class="fr-book-author">By Paul Scharre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
+</h4>
+<p class="fr-book-author">By Paul Scharre</p>
         
-        <p class="fr-book-desc">Provides context for advanced military automation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for advanced military automation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies+and+Military+Applications+Mark+L.+Bundy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons: Technologies and Military Applications on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies+and+Military+Applications+Mark+L.+Bundy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons: Technologies and Military Applications">Directed Energy Weapons: Technologies and Military Applications</a>
-        </h4>
-        <p class="fr-book-author">By Mark L. Bundy</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies+and+Military+Applications+Mark+L.+Bundy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons: Technologies and Military Applications on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies+and+Military+Applications+Mark+L.+Bundy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons: Technologies and Military Applications">Directed Energy Weapons: Technologies and Military Applications</a>
+</h4>
+<p class="fr-book-author">By Mark L. Bundy</p>
         
-        <p class="fr-book-desc">Covers sensors, beam control, and military laser systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies+and+Military+Applications+Mark+L.+Bundy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers sensors, beam control, and military laser systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies+and+Military+Applications+Mark+L.+Bundy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=On+Killing+Remotely+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open On Killing Remotely on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=On+Killing+Remotely+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On Killing Remotely">On Killing Remotely</a>
-        </h4>
-        <p class="fr-book-author">By Paul Scharre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=On+Killing+Remotely+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open On Killing Remotely on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=On+Killing+Remotely+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On Killing Remotely">On Killing Remotely</a>
+</h4>
+<p class="fr-book-author">By Paul Scharre</p>
         
-        <p class="fr-book-desc">Explores technology-enabled engagement systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=On+Killing+Remotely+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores technology-enabled engagement systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=On+Killing+Remotely+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies+and+Military+Applications&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed Energy Weapons: Technologies and Military Applications</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies+and+Military+Applications&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed Energy Weapons: Technologies and Military Applications</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MQ-9 Predator B Reaper Hunter Killer Drone USAF UAV Wood Wooden Mahogany Model"><img src="{{ '/assets/images/marketplace-covers/36842923c06fd5ba855b.jpg' | relative_url }}" alt="Listing image for MQ-9 Predator B Reaper Hunter Killer Drone USAF UAV Wood Wooden Mahogany Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">MQ-9 Predator B Reaper Hunter Killer Drone USAF UAV Wood Wooden Mahogany Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MQ-9 Predator B Reaper Hunter Killer Drone USAF UAV Wood Wooden Mahogany Model"><img src="{{ '/assets/images/marketplace-covers/36842923c06fd5ba855b.jpg' | relative_url }}" alt="Listing image for MQ-9 Predator B Reaper Hunter Killer Drone USAF UAV Wood Wooden Mahogany Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">MQ-9 Predator B Reaper Hunter Killer Drone USAF UAV Wood Wooden Mahogany Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit"><img src="{{ '/assets/images/marketplace-covers/e39e7ba02c6fc339dd8d.jpg' | relative_url }}" alt="Listing image for Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit"><img src="{{ '/assets/images/marketplace-covers/e39e7ba02c6fc339dd8d.jpg' | relative_url }}" alt="Listing image for Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit"><img src="{{ '/assets/images/marketplace-covers/3327be5d6e43f1a2d594.jpg' | relative_url }}" alt="Listing image for Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit"><img src="{{ '/assets/images/marketplace-covers/3327be5d6e43f1a2d594.jpg' | relative_url }}" alt="Listing image for Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF Boeing YAL-1 Airborne Laser Edwards AFB Desk Jet Model 1/200 SC Airplane"><img src="{{ '/assets/images/marketplace-covers/74491e61e34b2636275b.jpg' | relative_url }}" alt="Listing image for USAF Boeing YAL-1 Airborne Laser Edwards AFB Desk Jet Model 1/200 SC Airplane" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">USAF Boeing YAL-1 Airborne Laser Edwards AFB Desk Jet Model 1/200 SC Airplane</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF Boeing YAL-1 Airborne Laser Edwards AFB Desk Jet Model 1/200 SC Airplane"><img src="{{ '/assets/images/marketplace-covers/74491e61e34b2636275b.jpg' | relative_url }}" alt="Listing image for USAF Boeing YAL-1 Airborne Laser Edwards AFB Desk Jet Model 1/200 SC Airplane" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">USAF Boeing YAL-1 Airborne Laser Edwards AFB Desk Jet Model 1/200 SC Airplane</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="engagement-chain-the-hard-part-was-not-just-firing-the-laser-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -553,7 +553,7 @@ That is why the engagement chain was the real achievement. The difficult part wa
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -573,7 +573,7 @@ That is why the engagement chain was the real achievement. The difficult part wa
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -605,7 +605,7 @@ That is why the engagement chain was the real achievement. The difficult part wa
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -657,7 +657,7 @@ That is why the engagement chain was the real achievement. The difficult part wa
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -702,7 +702,7 @@ That is why the engagement chain was the real achievement. The difficult part wa
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -743,99 +743,99 @@ That is why the engagement chain was the real achievement. The difficult part wa
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: advanced future military laser achieves uk first  
-   Link: <a href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: mbda-systems.com  
    Title: dragonfire laser achieves another uk first  
-   Link: <a href="https://www.mbda-systems.com/dragonfire-laser-achieves-another-uk-first" target="_blank" rel="noopener noreferrer nofollow">https://www.mbda-systems.com/dragonfire-laser-achieves-another-uk-first</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MBDA SystemsDragonFire laser achieves another UK first19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system has achieve...</p></details>
+   Link:<a href="https://www.mbda-systems.com/dragonfire-laser-achieves-another-uk-first" target="_blank" rel="noopener noreferrer nofollow">https://www.mbda-systems.com/dragonfire-laser-achieves-another-uk-first</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MBDA SystemsDragonFire laser achieves another UK first19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system has achieve...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: uk.leonardo.com  
    Title: dragonfire laser weapon trial  
-   Link: <a href="https://uk.leonardo.com/en/news-and-stories-detail/-/detail/dragonfire-laser-weapon-trial" target="_blank" rel="noopener noreferrer nofollow">https://uk.leonardo.com/en/news-and-stories-detail/-/detail/dragonfire-laser-weapon-trial</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Leonardo UKLeonardo demonstrates ultra-precise tracking technology in...8 Nov 2022 — Leonardo has proven the tracking capability of its...</p></details>
+   Link:<a href="https://uk.leonardo.com/en/news-and-stories-detail/-/detail/dragonfire-laser-weapon-trial" target="_blank" rel="noopener noreferrer nofollow">https://uk.leonardo.com/en/news-and-stories-detail/-/detail/dragonfire-laser-weapon-trial</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leonardo UKLeonardo demonstrates ultra-precise tracking technology in...8 Nov 2022 — Leonardo has proven the tracking capability of its...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: qinetiq.com  
    Title: dragonfire laser achieves another uk first  
-   Link: <a href="https://www.qinetiq.com/en/news/dragonfire-laser-achieves-another-uk-first" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/news/dragonfire-laser-achieves-another-uk-first</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system has achieved the UK&#x27;s first high-power firing of a laser weapon a...</p></details>
+   Link:<a href="https://www.qinetiq.com/en/news/dragonfire-laser-achieves-another-uk-first" target="_blank" rel="noopener noreferrer nofollow">https://www.qinetiq.com/en/news/dragonfire-laser-achieves-another-uk-first</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system has achieved the UK&#x27;s first high-power firing of a laser weapon a...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: uk.leonardo.com  
    Title: UKDragon Fire – Laser Directed Energy Weapon  
-   Link: <a href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow">https://uk.leonardo.com/en/innovation/dragonfire</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Directed Energy Weapon - Leonardo UKThe DragonFire demonstrator was fired at targets over several ranges, demanding pinpoint accu...</p></details>
+   Link:<a href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow">https://uk.leonardo.com/en/innovation/dragonfire</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Directed Energy Weapon - Leonardo UKThe DragonFire demonstrator was fired at targets over several ranges, demanding pinpoint accu...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: mbda-systems.com  
-   Link: <a href="https://www.mbda-systems.com/products/force-protection/dragonfire" target="_blank" rel="noopener noreferrer nofollow">https://www.mbda-systems.com/products/force-protection/dragonfire</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DRAGONFIREDRAGONFIRE, a Laser Directed Energy Weapon (LDEW) system developed through a trusted partnership led by MBDA. AGONFIRE operates...</p></details>
+   Link:<a href="https://www.mbda-systems.com/products/force-protection/dragonfire" target="_blank" rel="noopener noreferrer nofollow">https://www.mbda-systems.com/products/force-protection/dragonfire</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DRAGONFIREDRAGONFIRE, a Laser Directed Energy Weapon (LDEW) system developed through a trusted partnership led by MBDA. AGONFIRE operates...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: mbda-systems.com  
    Title: DRAGONFIRE is accurate enough to hit a £1 coin from a kilometre  
-   Link: <a href="https://www.mbda-systems.com/uk-defence-minister-visits-mbda-dragonfire-laser-weapon-contract-announcement" target="_blank" rel="noopener noreferrer nofollow">https://www.mbda-systems.com/uk-defence-minister-visits-mbda-dragonfire-laser-weapon-contract-announcement</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Defence Minister visits MBDA for DRAGONFIRE laser...15 Dec 2025 — Chris Allam, UK Managing Director at MBDA, DRAGONFIRE laser weapon...</p></details>
+   Link:<a href="https://www.mbda-systems.com/uk-defence-minister-visits-mbda-dragonfire-laser-weapon-contract-announcement" target="_blank" rel="noopener noreferrer nofollow">https://www.mbda-systems.com/uk-defence-minister-visits-mbda-dragonfire-laser-weapon-contract-announcement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Defence Minister visits MBDA for DRAGONFIRE laser...15 Dec 2025 — Chris Allam, UK Managing Director at MBDA, DRAGONFIRE laser weapon...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/930540941927100/posts/1580928933554961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/930540941927100/posts/1580928933554961/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK&#x27;s Dragonfire laser weapon destroys drones at low costAn example of a Radio Frequency Directed Energy Weapon (RFDEW), the versatile sys...</p></details>
+   Link:<a href="https://www.facebook.com/groups/930540941927100/posts/1580928933554961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/930540941927100/posts/1580928933554961/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK&#x27;s Dragonfire laser weapon destroys drones at low costAn example of a Radio Frequency Directed Energy Weapon (RFDEW), the versatile sys...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/modernwarshipsofficial/posts/2050972431934869/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/modernwarshipsofficial/posts/2050972431934869/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK&#x27;s Dragonfire laser weapon successfully trialsDragonFire is a &#x27;laser-directed energy weapon&#x27;. It can engage any visible target sensors...</p></details>
+   Link:<a href="https://www.facebook.com/groups/modernwarshipsofficial/posts/2050972431934869/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/modernwarshipsofficial/posts/2050972431934869/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK&#x27;s Dragonfire laser weapon successfully trialsDragonFire is a &#x27;laser-directed energy weapon&#x27;. It can engage any visible target sensors...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=6re0FNWHP74" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6re0FNWHP74</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the British Navy Dragonfire Laser Weapon Test That Could Change Naval WarfareThe UK has completed a new round of trials of its dra...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6re0FNWHP74" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6re0FNWHP74</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the British Navy Dragonfire Laser Weapon Test That Could Change Naval WarfareThe UK has completed a new round of trials of its dra...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Vg2IuPKqvt4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Vg2IuPKqvt4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Vg2IuPKqvt4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Vg2IuPKqvt4</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: des.mod.uk  
    Title: boost for armed forces as new laser weapon takes down [high speed](&#123;&#123; '650-km-h/' | relative_url &#125;&#125;) drones  
-   Link: <a href="https://des.mod.uk/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones/" target="_blank" rel="noopener noreferrer nofollow">https://des.mod.uk/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>for Armed Forces as new laser weapon takes down...20 Nov 2025 — Britain&#x27;s ground-breaking DragonFire laser has shot down high-speed dron...</p></details>
+   Link:<a href="https://des.mod.uk/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones/" target="_blank" rel="noopener noreferrer nofollow">https://des.mod.uk/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for Armed Forces as new laser weapon takes down...20 Nov 2025 — Britain&#x27;s ground-breaking DragonFire laser has shot down high-speed dron...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
    Title: uk laser weapon that can kill a coin kilometer  
-   Link: <a href="https://www.reddit.com/r/Futurology/comments/1bdr3pg/uk_laser_weapon_that_can_kill_a_coin_kilometer/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/1bdr3pg/uk_laser_weapon_that_can_kill_a_coin_kilometer/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>away, close...A 50-kW super-accurate high-energy laser system, the UK DragonFire LDEW can, it is claimed, shoot targets the size of a sm...</p></details>
+   Link:<a href="https://www.reddit.com/r/Futurology/comments/1bdr3pg/uk_laser_weapon_that_can_kill_a_coin_kilometer/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/1bdr3pg/uk_laser_weapon_that_can_kill_a_coin_kilometer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>away, close...A 50-kW super-accurate high-energy laser system, the UK DragonFire LDEW can, it is claimed, shoot targets the size of a sm...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: bisi.org.uk  
-   Link: <a href="https://bisi.org.uk/reports/future-of-military-technologies-uks-dragonfire-laser" target="_blank" rel="noopener noreferrer nofollow">https://bisi.org.uk/reports/future-of-military-technologies-uks-dragonfire-laser</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Future of Military Technologies: UK&#x27;s &#x27;Dragonfire&#x27; Laser29 Jan 2024 — The UK has developed its first laser weapon system (Dragonfire) to...</p></details>
+   Link:<a href="https://bisi.org.uk/reports/future-of-military-technologies-uks-dragonfire-laser" target="_blank" rel="noopener noreferrer nofollow">https://bisi.org.uk/reports/future-of-military-technologies-uks-dragonfire-laser</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Future of Military Technologies: UK&#x27;s &#x27;Dragonfire&#x27; Laser29 Jan 2024 — The UK has developed its first laser weapon system (Dragonfire) to...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: royalnavy.mod.uk  
    Title: 20251120 dragonfire trials  
-   Link: <a href="https://www.royalnavy.mod.uk/news/2025/november/20/20251120-dragonfire-trials" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/news/2025/november/20/20251120-dragonfire-trials</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mod.uk£316m deal for Royal Navy&#x27;s first laser weapon after...20 Nov 2025 — More than £300m is being invested in the Royal Navy&#x27;s first e...</p></details>
+   Link:<a href="https://www.royalnavy.mod.uk/news/2025/november/20/20251120-dragonfire-trials" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/news/2025/november/20/20251120-dragonfire-trials</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mod.uk£316m deal for Royal Navy&#x27;s first laser weapon after...20 Nov 2025 — More than £300m is being invested in the Royal Navy&#x27;s first e...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: jed-digital.com  
    Title: Mobile Paged Article.action  
-   Link: <a href="https://www.jed-digital.com/jedm/0324_march_2024/MobilePagedArticle.action?articleId=1958058" target="_blank" rel="noopener noreferrer nofollow">https://www.jed-digital.com/jedm/0324_march_2024/MobilePagedArticle.action?articleId=1958058</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Dragonfire Demonstrator Takes Aim1 Mar 2024 — Undertaken at the MoD&#x27;s Hebrides Range in late 2023, the tests saw the DragonFire LDEW t...</p></details>
+   Link:<a href="https://www.jed-digital.com/jedm/0324_march_2024/MobilePagedArticle.action?articleId=1958058" target="_blank" rel="noopener noreferrer nofollow">https://www.jed-digital.com/jedm/0324_march_2024/MobilePagedArticle.action?articleId=1958058</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Dragonfire Demonstrator Takes Aim1 Mar 2024 — Undertaken at the MoD&#x27;s Hebrides Range in late 2023, the tests saw the DragonFire LDEW t...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: thinkdefence.co.uk  
    Title: dragonfire laser weapon  
-   Link: <a href="https://www.thinkdefence.co.uk/docs/dragonfire-laser-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkdefence.co.uk/docs/dragonfire-laser-weapon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Feb 2026 — laser MBDA awarded £316 million contract. The laser system costs just £10 per shot and is accurate enough to hit a £1 coin...</p></details>
+   Link:<a href="https://www.thinkdefence.co.uk/docs/dragonfire-laser-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkdefence.co.uk/docs/dragonfire-laser-weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23 Feb 2026 — laser MBDA awarded £316 million contract. The laser system costs just £10 per shot and is accurate enough to hit a £1 coin...</p></details>

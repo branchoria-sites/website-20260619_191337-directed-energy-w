@@ -269,11 +269,11 @@ image: /assets/images/Directed_Ener_98f417_microwave_dro_730805_collateral_el_10
 
 ## Introduction
 
-Civilian infrastructure creates the most difficult [collateral]({{ 'collateral-risk/' | relative_url }})-risk problem for high-power microwave (HPM) [counter-drone]({{ 'missile-savings/' | relative_url }}) systems because modern cities concentrate thousands of interconnected electronic systems in a relatively small area. A microwave defence may be aimed at hostile drones, but the same electromagnetic energy can potentially couple into nearby communications equipment, sensors, control systems, medical devices, vehicles, and networked infrastructure. The challenge is not simply whether a nearby device will be affected. It is that operators often cannot predict with certainty how a dense web of interconnected electronics will respond in a real-world urban environment. HPM systems are designed to disrupt electronics, and the very systems that make cities function are increasingly electronic and interconnected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: droneshield.com">[DroneShield+2Inzpire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">droneshield.com</span><span class="citation-popover-snippet">A Counter to Drone Swarms: High-Power Microwave...HPM weapons work by emitting directed bursts of electromagnetic energy, dis...</span></span></span>
+Civilian infrastructure creates the most difficult [collateral]({{ 'collateral-risk/' | relative_url }})-risk problem for high-power microwave (HPM) [counter-drone]({{ 'missile-savings/' | relative_url }}) systems because modern cities concentrate thousands of interconnected electronic systems in a relatively small area. A microwave defence may be aimed at hostile drones, but the same electromagnetic energy can potentially couple into nearby communications equipment, sensors, control systems, medical devices, vehicles, and networked infrastructure. The challenge is not simply whether a nearby device will be affected. It is that operators often cannot predict with certainty how a dense web of interconnected electronics will respond in a real-world urban environment. HPM systems are designed to disrupt electronics, and the very systems that make cities function are increasingly electronic and interconnected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: droneshield.com">[DroneShield+2Inzpire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">droneshield.com</span><span class="citation-popover-snippet">A Counter to Drone Swarms: High-Power Microwave...HPM weapons work by emitting directed bursts of electromagnetic energy, dis...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_microwave_dro_730805_collateral_el_10237a_civilian_infr_88a0b8-Illustration-1-dark.svg" | relative_url }}" alt="Civilian Sites illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_microwave_dro_730805_collateral_el_10237a_civilian_infr_88a0b8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_microwave_dro_730805_collateral_el_10237a_civilian_infr_88a0b8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is why the civilian setting is fundamentally different from a remote military range. The question is no longer just whether a drone can be defeated. It becomes whether that engagement can occur without creating unacceptable uncertainty for public communications, transport, healthcare, and critical infrastructure systems operating nearby. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-fendsolutions.com/cuas-mitigation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-fendsolutions.com">[D-Fend Solutions+2robinradar.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-fendsolutions.com</span><span class="citation-popover-snippet">D-Fend Solutionscounter-drone mitigation technologies...EMP and HPM work indiscriminately and can cause heavy collateral damage, potenti...</span></span></span>
+This is why the civilian setting is fundamentally different from a remote military range. The question is no longer just whether a drone can be defeated. It becomes whether that engagement can occur without creating unacceptable uncertainty for public communications, transport, healthcare, and critical infrastructure systems operating nearby.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-fendsolutions.com/cuas-mitigation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-fendsolutions.com">[D-Fend Solutions+2robinradar.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-fendsolutions.com</span><span class="citation-popover-snippet">D-Fend Solutionscounter-drone mitigation technologies...EMP and HPM work indiscriminately and can cause heavy collateral damage, potenti...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Lg_aUOSLuRo" title="Defeating Microwave Weapons! - Part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Lg_aUOSLuRo" target="_blank" rel="noopener noreferrer">Defeating Microwave Weapons! - Part 1</a></p><p class="youtube-embed-meta">Channel: Tech Ingredients</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Lg_aUOSLuRo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Lg_aUOSLuRo">Open on YouTube</a></p></div></div></div>
@@ -293,11 +293,11 @@ Potentially exposed systems include:
 * Traffic-control systems and smart-city sensor networks.
 * Industrial control systems managing power, water, and utilities.
 * Security cameras, data networks, and public-safety communications.
-* Medical electronics in hospitals and emergency-response facilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.robinradar.com/resources/10-counter-drone-technologies-to-detect-and-stop-drones-today" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: robinradar.com">[robinradar.com+2Inzpire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">robinradar.com</span><span class="citation-popover-snippet">High Power Microwave (HPM) devices. High Power Microwave (HPM) devices generate an Electromagnetic Pulse (EMP) capable of disrupting elec...</span></span></span>
+* Medical electronics in hospitals and emergency-response facilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.robinradar.com/resources/10-counter-drone-technologies-to-detect-and-stop-drones-today" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: robinradar.com">[robinradar.com+2Inzpire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">robinradar.com</span><span class="citation-popover-snippet">High Power Microwave (HPM) devices. High Power Microwave (HPM) devices generate an Electromagnetic Pulse (EMP) capable of disrupting elec...</span></span></span>
 
 </div>
 
-The issue is not that every nearby device will necessarily fail. Electromagnetic effects occur across a spectrum ranging from negligible impact to temporary disruption, corrupted data, resets, degraded performance, or permanent damage. The outcome depends on factors such as shielding quality, wiring configuration, frequency, pulse characteristics, orientation, and distance from the source. Those variables are difficult to predict across a city filled with equipment from hundreds of manufacturers and decades of technological generations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.waru.edu/sites/default/files/Migrated/CopDocuments/MIL-STD-464.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waru.edu">[waru.edu+2s3vi.ndc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waru.edu</span><span class="citation-popover-snippet">Department of Defense Interface Standard MIL- STD-464D...The system shall comply with current DoD criteria for the protection of personn...</span></span></span>
+The issue is not that every nearby device will necessarily fail. Electromagnetic effects occur across a spectrum ranging from negligible impact to temporary disruption, corrupted data, resets, degraded performance, or permanent damage. The outcome depends on factors such as shielding quality, wiring configuration, frequency, pulse characteristics, orientation, and distance from the source. Those variables are difficult to predict across a city filled with equipment from hundreds of manufacturers and decades of technological generations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.waru.edu/sites/default/files/Migrated/CopDocuments/MIL-STD-464.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waru.edu">[waru.edu+2s3vi.ndc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waru.edu</span><span class="citation-popover-snippet">Department of Defense Interface Standard MIL- STD-464D...The system shall comply with current DoD criteria for the protection of personn...</span></span></span>
 
 Healthcare environments illustrate the challenge particularly well. Modern hospitals rely on dense concentrations of networked equipment, wireless communications, imaging systems, monitoring devices, and digital infrastructure. Even if individual devices are protected to varying degrees, operators must consider the possibility that supporting systems, network links, or ancillary electronics could react differently than expected. The consequence of disruption in such settings is measured not merely in equipment replacement costs but in operational continuity and public safety.
 
@@ -312,11 +312,11 @@ Many urban systems are linked through communications networks, fibre-connected c
 
 For example, transport systems increasingly depend on continuous communication between sensors, controllers, signalling equipment, and central management systems. Utility networks similarly rely on distributed monitoring and control architectures. In these environments, uncertainty about secondary effects can become more important than direct physical damage.
 
-Military electromagnetic-effects standards exist largely because complex systems frequently behave in unexpected ways when exposed to challenging electromagnetic environments. Modern military [platforms]({{ 'platforms/' | relative_url }}) undergo extensive electromagnetic compatibility testing specifically to ensure that numerous electronic subsystems can coexist safely and continue functioning when exposed to external electromagnetic influences. Tonex Training+3s3vi.ndc.nasa.gov+3waru.edu <span class="citation-link-wrap"><a class="citation-inline-link" href="https://s3vi.ndc.nasa.gov/ssri-kb/static/resources/MIL-STD-464C.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s3vi.ndc.nasa.gov">[s3vi.ndc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s3vi.ndc.nasa.gov</span><span class="citation-popover-title">MI L-STD-464C</span><span class="citation-popover-snippet">MIL-STD-464C - S3VI1 Oct 2010 — STANDARD ELECTROMAGNETIC ENVIRONMENTAL. This standard is approved for use by all Departments and Agencies...</span></span></span>
+Military electromagnetic-effects standards exist largely because complex systems frequently behave in unexpected ways when exposed to challenging electromagnetic environments. Modern military [platforms]({{ 'platforms/' | relative_url }}) undergo extensive electromagnetic compatibility testing specifically to ensure that numerous electronic subsystems can coexist safely and continue functioning when exposed to external electromagnetic influences. Tonex Training+3s3vi.ndc.nasa.gov+3waru.edu<span class="citation-link-wrap"><a class="citation-inline-link" href="https://s3vi.ndc.nasa.gov/ssri-kb/static/resources/MIL-STD-464C.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s3vi.ndc.nasa.gov">[s3vi.ndc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s3vi.ndc.nasa.gov</span><span class="citation-popover-title">MI L-STD-464C</span><span class="citation-popover-snippet">MIL-STD-464C - S3VI1 Oct 2010 — STANDARD ELECTROMAGNETIC ENVIRONMENTAL. This standard is approved for use by all Departments and Agencies...</span></span></span>
 
-Civilian infrastructure generally lacks a comparable level of integrated, platform-wide electromagnetic hardening. Instead, cities contain a patchwork of commercial products, legacy equipment, third-party networks, and infrastructure built under different standards and assumptions. That diversity increases uncertainty because operators cannot easily know the susceptibility of every nearby system before an engagement occurs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tonex.com/training-courses/overview-of-mil-std-464-electromagnetic-environmental-effects-requirements-for-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tonex.com">[Tonex Training+2Betalight-tactical]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tonex.com</span><span class="citation-popover-snippet">Tonex TrainingOverview of MIL-STD-464 &#124; Electromagnetic Environmental...MIL STD 464 requires that the system be electromagnetically comp...</span></span></span>
+Civilian infrastructure generally lacks a comparable level of integrated, platform-wide electromagnetic hardening. Instead, cities contain a patchwork of commercial products, legacy equipment, third-party networks, and infrastructure built under different standards and assumptions. That diversity increases uncertainty because operators cannot easily know the susceptibility of every nearby system before an engagement occurs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tonex.com/training-courses/overview-of-mil-std-464-electromagnetic-environmental-effects-requirements-for-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tonex.com">[Tonex Training+2Betalight-tactical]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tonex.com</span><span class="citation-popover-snippet">Tonex TrainingOverview of MIL-STD-464 &#124; Electromagnetic Environmental...MIL STD 464 requires that the system be electromagnetically comp...</span></span></span>
 
-A further complication is the growing dependence on commercial off-the-shelf electronics. These systems often provide cost and capability advantages but may not have been designed with exposure to intense electromagnetic environments as a primary requirement. Military standards explicitly recognise that mixed equipment environments increase electromagnetic compatibility challenges. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tonex.com/training-courses/overview-of-mil-std-464-electromagnetic-environmental-effects-requirements-for-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tonex.com">[Tonex Training]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tonex.com</span><span class="citation-popover-snippet">Tonex TrainingOverview of MIL-STD-464 &#124; Electromagnetic Environmental...MIL STD 464 requires that the system be electromagnetically comp...</span></span></span>
+A further complication is the growing dependence on commercial off-the-shelf electronics. These systems often provide cost and capability advantages but may not have been designed with exposure to intense electromagnetic environments as a primary requirement. Military standards explicitly recognise that mixed equipment environments increase electromagnetic compatibility challenges.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tonex.com/training-courses/overview-of-mil-std-464-electromagnetic-environmental-effects-requirements-for-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tonex.com">[Tonex Training]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tonex.com</span><span class="citation-popover-snippet">Tonex TrainingOverview of MIL-STD-464 &#124; Electromagnetic Environmental...MIL STD 464 requires that the system be electromagnetically comp...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_microwave_dro_730805_collateral_el_10237a_civilian_infr_88a0b8-Illustration-2-dark.svg" | relative_url }}" alt="Civilian Sites illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_microwave_dro_730805_collateral_el_10237a_civilian_infr_88a0b8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_microwave_dro_730805_collateral_el_10237a_civilian_infr_88a0b8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -326,7 +326,7 @@ The irony of counter-drone operations is that the locations most likely to need 
 
 Major cities, transport hubs, public events, government districts, airports, industrial facilities, and critical infrastructure sites are attractive drone targets precisely because they contain valuable assets and large populations. Yet those same locations also contain the densest concentration of electronics.
 
-This creates a difficult operational trade-off. A system designed to engage multiple drones simultaneously derives much of its value from affecting a broad target area. High-power microwave systems are often promoted for their ability to defeat [swarms]({{ 'swarms/' | relative_url }}) rather than single aircraft. However, broader electronic effects can increase concern about nearby infrastructure and non-target systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/phaser-high-power-microwave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rtx.com">[RTX+2The Strategist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rtx.com</span><span class="citation-popover-snippet">Phaser High-Power Microwave System &#124; RaytheonOne of the most effective counter-unmanned aerial system defenses is a high-power microwa...</span></span></span>
+This creates a difficult operational trade-off. A system designed to engage multiple drones simultaneously derives much of its value from affecting a broad target area. High-power microwave systems are often promoted for their ability to defeat [swarms]({{ 'swarms/' | relative_url }}) rather than single aircraft. However, broader electronic effects can increase concern about nearby infrastructure and non-target systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/phaser-high-power-microwave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rtx.com">[RTX+2The Strategist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rtx.com</span><span class="citation-popover-snippet">Phaser High-Power Microwave System &#124; RaytheonOne of the most effective counter-unmanned aerial system defenses is a high-power microwa...</span></span></span>
 
 As a result, the question facing planners is often less about whether the technology can disable drones and more about whether it can do so while maintaining confidence that surrounding civilian systems remain unaffected. The closer a defended location is to critical public infrastructure, the more demanding that assurance requirement becomes.
 
@@ -335,206 +335,206 @@ As a result, the question facing planners is often less about whether the techno
 
 ## Where Controlled Military Use Differs from Public Deployment
 
-Military use generally occurs under conditions that are easier to manage. Defence forces can establish exclusion zones, control access to operating areas, harden friendly systems, conduct electromagnetic compatibility testing, and coordinate among participating units before [deployment]({{ 'deployment/' | relative_url }}). They also possess detailed knowledge of many of the systems operating within the engagement environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://s3vi.ndc.nasa.gov/ssri-kb/static/resources/MIL-STD-464C.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s3vi.ndc.nasa.gov">[s3vi.ndc.nasa.gov+2waru.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s3vi.ndc.nasa.gov</span><span class="citation-popover-title">MI L-STD-464C</span><span class="citation-popover-snippet">MIL-STD-464C - S3VI1 Oct 2010 — STANDARD ELECTROMAGNETIC ENVIRONMENTAL. This standard is approved for use by all Departments and Agencies...</span></span></span>
+Military use generally occurs under conditions that are easier to manage. Defence forces can establish exclusion zones, control access to operating areas, harden friendly systems, conduct electromagnetic compatibility testing, and coordinate among participating units before [deployment]({{ 'deployment/' | relative_url }}). They also possess detailed knowledge of many of the systems operating within the engagement environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://s3vi.ndc.nasa.gov/ssri-kb/static/resources/MIL-STD-464C.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s3vi.ndc.nasa.gov">[s3vi.ndc.nasa.gov+2waru.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s3vi.ndc.nasa.gov</span><span class="citation-popover-title">MI L-STD-464C</span><span class="citation-popover-snippet">MIL-STD-464C - S3VI1 Oct 2010 — STANDARD ELECTROMAGNETIC ENVIRONMENTAL. This standard is approved for use by all Departments and Agencies...</span></span></span>
 
 Public deployment presents a very different challenge. Urban operators may have limited visibility into nearby commercial networks, privately owned communications equipment, industrial systems, or consumer electronics. They must consider not only technical performance but also regulatory obligations, public safety, liability concerns, and the continuity of essential services.
 
 This distinction explains why collateral-electronics risk is often viewed as a central deployment question rather than merely a technical detail. A military force may accept a level of electromagnetic uncertainty that would be unacceptable around hospitals, transport hubs, utility infrastructure, or densely populated urban districts.
 
-For that reason, discussions about microwave counter-drone systems increasingly focus on control, precision, electromagnetic compatibility, and risk management rather than simply on raw effectiveness. The technology's ability to defeat drones is only one part of the equation. In civilian environments, confidence that surrounding infrastructure will continue operating safely may be the more difficult requirement to satisfy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-fendsolutions.com/cuas-mitigation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-fendsolutions.com">[D-Fend Solutions+2unmannedairspace.info]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-fendsolutions.com</span><span class="citation-popover-snippet">D-Fend Solutionscounter-drone mitigation technologies...EMP and HPM work indiscriminately and can cause heavy collateral damage, potenti...</span></span></span>
+For that reason, discussions about microwave counter-drone systems increasingly focus on control, precision, electromagnetic compatibility, and risk management rather than simply on raw effectiveness. The technology's ability to defeat drones is only one part of the equation. In civilian environments, confidence that surrounding infrastructure will continue operating safely may be the more difficult requirement to satisfy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-fendsolutions.com/cuas-mitigation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-fendsolutions.com">[D-Fend Solutions+2unmannedairspace.info]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-fendsolutions.com</span><span class="citation-popover-snippet">D-Fend Solutionscounter-drone mitigation technologies...EMP and HPM work indiscriminately and can cause heavy collateral damage, potenti...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_microwave_dro_730805_collateral_el_10237a_civilian_infr_88a0b8-Illustration-3-dark.svg" | relative_url }}" alt="Civilian Sites illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_microwave_dro_730805_collateral_el_10237a_civilian_infr_88a0b8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_microwave_dro_730805_collateral_el_10237a_civilian_infr_88a0b8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why cities are the hardest microwave defense setting. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why cities are the hardest microwave defense setting. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Electromagnetic+Compatibility&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Electromagnetic Compatibility on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13204184-M.jpg" alt="Cover for Introduction to Electromagnetic Compatibility" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Electromagnetic+Compatibility&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Electromagnetic Compatibility">Introduction to Electromagnetic Compatibility</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Electromagnetic+Compatibility&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Electromagnetic Compatibility on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13204184-M.jpg" alt="Cover for Introduction to Electromagnetic Compatibility" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Electromagnetic+Compatibility&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Electromagnetic Compatibility">Introduction to Electromagnetic Compatibility</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explains electromagnetic interference, susceptibility, shielding, and system-level effects central to understanding collateral risks in d...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Electromagnetic+Compatibility&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains electromagnetic interference, susceptibility, shielding, and system-level effects central to understanding collateral risks in d...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Electromagnetic+Compatibility&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warfare on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e2vnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warfare" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warfare">Drone Warfare</a>
-        </h4>
-        <p class="fr-book-author">By Medea Benjamin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warfare on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e2vnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warfare" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warfare">Drone Warfare</a>
+</h4>
+<p class="fr-book-author">By Medea Benjamin</p>
         
-        <p class="fr-book-desc">Helps readers understand the operational environment that motivates counter-drone technologies and the policy questions surrounding their...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand the operational environment that motivates counter-drone technologies and the policy questions surrounding their...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Infrastructure+Protection+in+Homeland+Security+by+Ted+G.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Infrastructure Protection in Homeland Security on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xoICniGegE0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Infrastructure Protection in Homeland Security" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Critical+Infrastructure+Protection+in+Homeland+Security+by+Ted+G.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Infrastructure Protection in Homeland Security">Critical Infrastructure Protection in Homeland Security</a>
-        </h4>
-        <p class="fr-book-author">By Ted G. Lewis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Infrastructure+Protection+in+Homeland+Security+by+Ted+G.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Infrastructure Protection in Homeland Security on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xoICniGegE0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Infrastructure Protection in Homeland Security" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Critical+Infrastructure+Protection+in+Homeland+Security+by+Ted+G.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Infrastructure Protection in Homeland Security">Critical Infrastructure Protection in Homeland Security</a>
+</h4>
+<p class="fr-book-author">By Ted G. Lewis</p>
         
-        <p class="fr-book-desc">Provides context for interconnected urban infrastructure and the cascading consequences that can arise when critical electronic systems a...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Critical+Infrastructure+Protection+in+Homeland+Security+by+Ted+G.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for interconnected urban infrastructure and the cascading consequences that can arise when critical electronic systems a...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Critical+Infrastructure+Protection+in+Homeland+Security+by+Ted+G.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=High+Power+Microwaves%2C+Third+Edition+James+Benford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open High Power Microwaves, Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13827837-M.jpg" alt="Cover for High Power Microwaves, Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=High+Power+Microwaves%2C+Third+Edition+James+Benford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="High Power Microwaves, Third Edition">High Power Microwaves, Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By James Benford, John A. Swegle et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=High+Power+Microwaves%2C+Third+Edition+James+Benford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open High Power Microwaves, Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13827837-M.jpg" alt="Cover for High Power Microwaves, Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=High+Power+Microwaves%2C+Third+Edition+James+Benford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="High Power Microwaves, Third Edition">High Power Microwaves, Third Edition</a>
+</h4>
+<p class="fr-book-author">By James Benford, John A. Swegle et al.</p>
         
-        <p class="fr-book-desc">First published 2015. Subjects: Microwave devices, Microwaves, Dispositifs à micro-ondes, Micro-ondes, TECHNOLOGY &amp; ENGINEERING / Lasers...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=High+Power+Microwaves%2C+Third+Edition+James+Benford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015. Subjects: Microwave devices, Microwaves, Dispositifs à micro-ondes, Micro-ondes, TECHNOLOGY &amp; ENGINEERING / Lasers...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=High+Power+Microwaves%2C+Third+Edition+James+Benford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Electromagnetic+Compatibility+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Electromagnetic Compatibility books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Warfare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Warfare</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Infrastructure+Protection+in+Homeland+Security&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Infrastructure Protection in Homeland Security</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Electromagnetic+Compatibility+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Electromagnetic Compatibility books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Warfare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Warfare</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Infrastructure+Protection+in+Homeland+Security&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Infrastructure Protection in Homeland Security</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=defense+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="defense technology patch" data-ebay-reference="civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Defense Technology New England patch shipped from Australia"><img src="{{ '/assets/images/marketplace-covers/a9b80118dc270a87ce64.jpg' | relative_url }}" alt="Listing image for Defense Technology New England patch shipped from Australia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=defense+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="defense technology patch" data-ebay-reference="civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch" target="_blank" rel="sponsored noopener noreferrer">Defense Technology New England patch shipped from Australia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=defense+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="defense technology patch" data-ebay-reference="civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for defense technology patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: defense technology patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=defense+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="defense technology patch" data-ebay-reference="civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=defense+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="defense technology patch" data-ebay-reference="civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Defense Technology New England patch shipped from Australia"><img src="{{ '/assets/images/marketplace-covers/a9b80118dc270a87ce64.jpg' | relative_url }}" alt="Listing image for Defense Technology New England patch shipped from Australia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=defense+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="defense technology patch" data-ebay-reference="civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch" target="_blank" rel="sponsored noopener noreferrer">Defense Technology New England patch shipped from Australia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=defense+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="defense technology patch" data-ebay-reference="civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for defense technology patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: defense technology patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=defense+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="defense technology patch" data-ebay-reference="civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=defense+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="defense technology patch" data-ebay-reference="civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Defence Science and Technology Group Militaria Patch Patches"><img src="{{ '/assets/images/marketplace-covers/c8da419fb4efccc8dc3f.jpg' | relative_url }}" alt="Listing image for Defence Science and Technology Group Militaria Patch Patches" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=defense+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="defense technology patch" data-ebay-reference="civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch" target="_blank" rel="sponsored noopener noreferrer">Defence Science and Technology Group Militaria Patch Patches</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=defense+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="defense technology patch" data-ebay-reference="civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for defense technology patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: defense technology patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=defense+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="defense technology patch" data-ebay-reference="civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=defense+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="defense technology patch" data-ebay-reference="civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Defence Science and Technology Group Militaria Patch Patches"><img src="{{ '/assets/images/marketplace-covers/c8da419fb4efccc8dc3f.jpg' | relative_url }}" alt="Listing image for Defence Science and Technology Group Militaria Patch Patches" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=defense+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="defense technology patch" data-ebay-reference="civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch" target="_blank" rel="sponsored noopener noreferrer">Defence Science and Technology Group Militaria Patch Patches</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=defense+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="defense technology patch" data-ebay-reference="civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for defense technology patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: defense technology patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=defense+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="defense technology patch" data-ebay-reference="civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=defense+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="defense technology patch" data-ebay-reference="civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military/Army Chevron, 164th Air Defense Radio Engineering Brigade"><img src="{{ '/assets/images/marketplace-covers/c82b7e4e8ab64f057466.jpg' | relative_url }}" alt="Listing image for Military/Army Chevron, 164th Air Defense Radio Engineering Brigade" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=defense+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="defense technology patch" data-ebay-reference="civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch" target="_blank" rel="sponsored noopener noreferrer">Military/Army Chevron, 164th Air Defense Radio Engineering Brigade</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=defense+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="defense technology patch" data-ebay-reference="civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for defense technology patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: defense technology patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=defense+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="defense technology patch" data-ebay-reference="civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=defense+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="defense technology patch" data-ebay-reference="civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military/Army Chevron, 164th Air Defense Radio Engineering Brigade"><img src="{{ '/assets/images/marketplace-covers/c82b7e4e8ab64f057466.jpg' | relative_url }}" alt="Listing image for Military/Army Chevron, 164th Air Defense Radio Engineering Brigade" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=defense+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="defense technology patch" data-ebay-reference="civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch" target="_blank" rel="sponsored noopener noreferrer">Military/Army Chevron, 164th Air Defense Radio Engineering Brigade</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=defense+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="defense technology patch" data-ebay-reference="civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for defense technology patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: defense technology patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=defense+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="defense technology patch" data-ebay-reference="civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=defense+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="defense technology patch" data-ebay-reference="civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF 4713th Defense Systems Evaluation Squadron Roving Ravens Patch #6"><img src="{{ '/assets/images/marketplace-covers/2822e8ab53345d779a73.jpg' | relative_url }}" alt="Listing image for USAF 4713th Defense Systems Evaluation Squadron Roving Ravens Patch #6" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=defense+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="defense technology patch" data-ebay-reference="civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch" target="_blank" rel="sponsored noopener noreferrer">USAF 4713th Defense Systems Evaluation Squadron Roving Ravens Patch #6</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=defense+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="defense technology patch" data-ebay-reference="civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for defense technology patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: defense technology patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=defense+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="defense technology patch" data-ebay-reference="civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=defense+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="defense technology patch" data-ebay-reference="civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=defense+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="defense technology patch" data-ebay-reference="civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF 4713th Defense Systems Evaluation Squadron Roving Ravens Patch #6"><img src="{{ '/assets/images/marketplace-covers/2822e8ab53345d779a73.jpg' | relative_url }}" alt="Listing image for USAF 4713th Defense Systems Evaluation Squadron Roving Ravens Patch #6" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=defense+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="defense technology patch" data-ebay-reference="civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch" target="_blank" rel="sponsored noopener noreferrer">USAF 4713th Defense Systems Evaluation Squadron Roving Ravens Patch #6</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=defense+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="defense technology patch" data-ebay-reference="civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for defense technology patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: defense technology patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=defense+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="defense technology patch" data-ebay-reference="civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=defense+technology+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="defense technology patch" data-ebay-reference="civilian-sites-why-cities-are-the-hardest-microwave-defense-setting-directed-ener-defense-technology-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -550,7 +550,7 @@ For that reason, discussions about microwave counter-drone systems increasingly 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -570,7 +570,7 @@ For that reason, discussions about microwave counter-drone systems increasingly 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -602,7 +602,7 @@ For that reason, discussions about microwave counter-drone systems increasingly 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -654,7 +654,7 @@ For that reason, discussions about microwave counter-drone systems increasingly 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -699,7 +699,7 @@ For that reason, discussions about microwave counter-drone systems increasingly 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -740,116 +740,116 @@ For that reason, discussions about microwave counter-drone systems increasingly 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: droneshield.com  
-   Link: <a href="https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Counter to Drone Swarms: High-Power Microwave...HPM weapons work by emitting directed bursts of electromagnetic energy, dis...</p></details>
+   Link:<a href="https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.droneshield.com/blog/a-counter-to-drone-swarms-high-power-microwave-weapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Counter to Drone Swarms: High-Power Microwave...HPM weapons work by emitting directed bursts of electromagnetic energy, dis...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: inzpire.com  
    Title: high power [microwaves](&#123;&#123; 'microwaves/' | relative_url &#125;&#125;) more than just a hot lunch  
-   Link: <a href="https://www.inzpire.com/news/high-power-microwaves-more-than-just-a-hot-lunch" target="_blank" rel="noopener noreferrer nofollow">https://www.inzpire.com/news/high-power-microwaves-more-than-just-a-hot-lunch</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>High power microwaves – more than just a hot lunch!3 Mar 2025 — High-power microwaves are an emerging class of directed energy weapons th...</p></details>
+   Link:<a href="https://www.inzpire.com/news/high-power-microwaves-more-than-just-a-hot-lunch" target="_blank" rel="noopener noreferrer nofollow">https://www.inzpire.com/news/high-power-microwaves-more-than-just-a-hot-lunch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High power microwaves – more than just a hot lunch!3 Mar 2025 — High-power microwaves are an emerging class of directed energy weapons th...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: robinradar.com  
-   Link: <a href="https://www.robinradar.com/resources/10-counter-drone-technologies-to-detect-and-stop-drones-today" target="_blank" rel="noopener noreferrer nofollow">https://www.robinradar.com/resources/10-counter-drone-technologies-to-detect-and-stop-drones-today</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>High Power Microwave (HPM) devices. High Power Microwave (HPM) devices generate an Electromagnetic Pulse (EMP) capable of disrupting elec...</p></details>
+   Link:<a href="https://www.robinradar.com/resources/10-counter-drone-technologies-to-detect-and-stop-drones-today" target="_blank" rel="noopener noreferrer nofollow">https://www.robinradar.com/resources/10-counter-drone-technologies-to-detect-and-stop-drones-today</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High Power Microwave (HPM) devices. High Power Microwave (HPM) devices generate an Electromagnetic Pulse (EMP) capable of disrupting elec...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: tonex.com  
-   Link: <a href="https://www.tonex.com/training-courses/overview-of-mil-std-464-electromagnetic-environmental-effects-requirements-for-systems/" target="_blank" rel="noopener noreferrer nofollow">https://www.tonex.com/training-courses/overview-of-mil-std-464-electromagnetic-environmental-effects-requirements-for-systems/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tonex TrainingOverview of MIL-STD-464 | Electromagnetic Environmental...MIL STD 464 requires that the system be electromagnetically comp...</p></details>
+   Link:<a href="https://www.tonex.com/training-courses/overview-of-mil-std-464-electromagnetic-environmental-effects-requirements-for-systems/" target="_blank" rel="noopener noreferrer nofollow">https://www.tonex.com/training-courses/overview-of-mil-std-464-electromagnetic-environmental-effects-requirements-for-systems/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tonex TrainingOverview of MIL-STD-464 | Electromagnetic Environmental...MIL STD 464 requires that the system be electromagnetically comp...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: waru.edu  
-   Link: <a href="https://www.waru.edu/sites/default/files/Migrated/CopDocuments/MIL-STD-464.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.waru.edu/sites/default/files/Migrated/CopDocuments/MIL-STD-464.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense Interface Standard MIL- STD-464D...The system shall comply with current DoD criteria for the protection of personn...</p></details>
+   Link:<a href="https://www.waru.edu/sites/default/files/Migrated/CopDocuments/MIL-STD-464.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.waru.edu/sites/default/files/Migrated/CopDocuments/MIL-STD-464.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense Interface Standard MIL- STD-464D...The system shall comply with current DoD criteria for the protection of personn...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: s3vi.ndc.nasa.gov  
    Title: MI L-STD-464C  
-   Link: <a href="https://s3vi.ndc.nasa.gov/ssri-kb/static/resources/MIL-STD-464C.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3vi.ndc.nasa.gov/ssri-kb/static/resources/MIL-STD-464C.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIL-STD-464C - S3VI1 Oct 2010 — STANDARD ELECTROMAGNETIC ENVIRONMENTAL. This standard is approved for use by all Departments and Agencies...</p></details>
+   Link:<a href="https://s3vi.ndc.nasa.gov/ssri-kb/static/resources/MIL-STD-464C.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3vi.ndc.nasa.gov/ssri-kb/static/resources/MIL-STD-464C.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIL-STD-464C - S3VI1 Oct 2010 — STANDARD ELECTROMAGNETIC ENVIRONMENTAL. This standard is approved for use by all Departments and Agencies...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: betalight-tactical.com  
-   Link: <a href="https://betalight-tactical.com/knowledge-base/regulations/mil-std-464" target="_blank" rel="noopener noreferrer nofollow">https://betalight-tactical.com/knowledge-base/regulations/mil-std-464</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIL-STD-464 – Electromagnetic Compatibility for Military...MIL-STD-464 is a US military standard that defines electromagnetic environmen...</p></details>
+   Link:<a href="https://betalight-tactical.com/knowledge-base/regulations/mil-std-464" target="_blank" rel="noopener noreferrer nofollow">https://betalight-tactical.com/knowledge-base/regulations/mil-std-464</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIL-STD-464 – Electromagnetic Compatibility for Military...MIL-STD-464 is a US military standard that defines electromagnetic environmen...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: rtx.com  
-   Link: <a href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/phaser-high-power-microwave" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/phaser-high-power-microwave</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Phaser High-Power Microwave System | RaytheonOne of the most effective counter-unmanned aerial system defenses is a high-power microwa...</p></details>
+   Link:<a href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/phaser-high-power-microwave" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/phaser-high-power-microwave</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phaser High-Power Microwave System | RaytheonOne of the most effective counter-unmanned aerial system defenses is a high-power microwa...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: unmannedairspace.info  
    Title: building out an effective counter drone system  
-   Link: <a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/building-out-an-effective-counter-drone-system/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/building-out-an-effective-counter-drone-system/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Building out an effective counter-drone system9 Dec 2025 — Additional layered capabilities could include smart jamming as a mitigation ba...</p></details>
+   Link:<a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/building-out-an-effective-counter-drone-system/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/building-out-an-effective-counter-drone-system/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Building out an effective counter-drone system9 Dec 2025 — Additional layered capabilities could include smart jamming as a mitigation ba...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: d-fendsolutions.com  
-   Link: <a href="https://d-fendsolutions.com/cuas-mitigation/" target="_blank" rel="noopener noreferrer nofollow">https://d-fendsolutions.com/cuas-mitigation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>D-Fend Solutionscounter-drone mitigation technologies...EMP and HPM work indiscriminately and can cause heavy collateral damage, potenti...</p></details>
+   Link:<a href="https://d-fendsolutions.com/cuas-mitigation/" target="_blank" rel="noopener noreferrer nofollow">https://d-fendsolutions.com/cuas-mitigation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>D-Fend Solutionscounter-drone mitigation technologies...EMP and HPM work indiscriminately and can cause heavy collateral damage, potenti...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aspistrategist.org.au  
    Title: a counter to drone swarms high power microwave weapons  
-   Link: <a href="https://www.aspistrategist.org.au/a-counter-to-drone-swarms-high-power-microwave-weapons/" target="_blank" rel="noopener noreferrer nofollow">https://www.aspistrategist.org.au/a-counter-to-drone-swarms-high-power-microwave-weapons/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A counter to drone swarms: high-power microwave weapons12 May 2025 — HPM weapons work by emitting directed bursts of electromagnetic ener...</p></details>
+   Link:<a href="https://www.aspistrategist.org.au/a-counter-to-drone-swarms-high-power-microwave-weapons/" target="_blank" rel="noopener noreferrer nofollow">https://www.aspistrategist.org.au/a-counter-to-drone-swarms-high-power-microwave-weapons/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A counter to drone swarms: high-power microwave weapons12 May 2025 — HPM weapons work by emitting directed bursts of electromagnetic ener...</p></details>
    Published: May 2025  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/top-content/technology/drone-defense-solutions/counter-drone-microwave-interception-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/top-content/technology/drone-defense-solutions/counter-drone-microwave-interception-strategies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Counter-Drone Microwave Interception StrategiesCounter-drone microwave interception strategies use bursts of powerful electromagnetic ene...</p></details>
+   Link:<a href="https://www.linkedin.com/top-content/technology/drone-defense-solutions/counter-drone-microwave-interception-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/top-content/technology/drone-defense-solutions/counter-drone-microwave-interception-strategies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Counter-Drone Microwave Interception StrategiesCounter-drone microwave interception strategies use bursts of powerful electromagnetic ene...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: crystalrugged.com  
-   Link: <a href="https://www.crystalrugged.com/mil-std-464-electromagnetic-environmental-effects/" target="_blank" rel="noopener noreferrer nofollow">https://www.crystalrugged.com/mil-std-464-electromagnetic-environmental-effects/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIL-STD-464: Electromagnetic environmental effectsSpecifies minimal acceptable standards for the electromagnetic compatibility of ordnanc...</p></details>
+   Link:<a href="https://www.crystalrugged.com/mil-std-464-electromagnetic-environmental-effects/" target="_blank" rel="noopener noreferrer nofollow">https://www.crystalrugged.com/mil-std-464-electromagnetic-environmental-effects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIL-STD-464: Electromagnetic environmental effectsSpecifies minimal acceptable standards for the electromagnetic compatibility of ordnanc...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/ew-hpm-milstd461-milstd464-robi-sen-cltgc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ew-hpm-milstd461-milstd464-robi-sen-cltgc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EW, HPM, MIL‑STD‑461, and MIL‑STD‑464MIL-STD-464 addresses platform‐level electromagnetic compatibility and electromagnetic environmental...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/ew-hpm-milstd461-milstd464-robi-sen-cltgc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ew-hpm-milstd461-milstd464-robi-sen-cltgc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EW, HPM, MIL‑STD‑461, and MIL‑STD‑464MIL-STD-464 addresses platform‐level electromagnetic compatibility and electromagnetic environmental...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: absolute-emc.com  
-   Link: <a href="https://absolute-emc.com/standard/military-avionics/mil-std-464" target="_blank" rel="noopener noreferrer nofollow">https://absolute-emc.com/standard/military-avionics/mil-std-464</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIL-STD-464The standard governs how equipment and platforms must be designed, tested, and validated to mitigate the risks posed by electr...</p></details>
+   Link:<a href="https://absolute-emc.com/standard/military-avionics/mil-std-464" target="_blank" rel="noopener noreferrer nofollow">https://absolute-emc.com/standard/military-avionics/mil-std-464</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIL-STD-464The standard governs how equipment and platforms must be designed, tested, and validated to mitigate the risks posed by electr...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/358274981_C277_Recent_Trends_in_High_Power_Microwave_Counter_Measure_Against_Drone_Swarm_Attack" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358274981_C277_Recent_Trends_in_High_Power_Microwave_Counter_Measure_Against_Drone_Swarm_Attack</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) C277: Recent Trends in High Power Microwave...HPM can cause soft kill or hard kill depending on the output power, and generally th...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/358274981_C277_Recent_Trends_in_High_Power_Microwave_Counter_Measure_Against_Drone_Swarm_Attack" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358274981_C277_Recent_Trends_in_High_Power_Microwave_Counter_Measure_Against_Drone_Swarm_Attack</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) C277: Recent Trends in High Power Microwave...HPM can cause soft kill or hard kill depending on the output power, and generally th...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: publications.sto.nato.int  
-   Link: <a href="https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SET-315/MP-SET-315-24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SET-315/MP-SET-315-24.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>with aerial vehicles to induce disruption, lock-up, or even burnout of their digital systems...</p></details>
+   Link:<a href="https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SET-315/MP-SET-315-24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SET-315/MP-SET-315-24.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>with aerial vehicles to induce disruption, lock-up, or even burnout of their digital systems...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: demonstrating a powerful new approach to counter-drone  
-   Link: <a href="https://www.facebook.com/engineeringpost1/posts/military-researchers-in-the-united-states-are-developing-high-power-microwave-we/1554576976668583/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/engineeringpost1/posts/military-researchers-in-the-united-states-are-developing-high-power-microwave-we/1554576976668583/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>drone weapons, such as [lasers](&amp;#123;&amp;#123; &#x27;lasers/&#x27; | relative_url &amp;#125;&amp;#125;) and high- power microwave systems, can create dangerous or otherwise serious collateral effects. While that...</p></details>
+   Link:<a href="https://www.facebook.com/engineeringpost1/posts/military-researchers-in-the-united-states-are-developing-high-power-microwave-we/1554576976668583/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/engineeringpost1/posts/military-researchers-in-the-united-states-are-developing-high-power-microwave-we/1554576976668583/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>drone weapons, such as [lasers](&amp;#123;&amp;#123; &#x27;lasers/&#x27; | relative_url &amp;#125;&amp;#125;) and high- power microwave systems, can create dangerous or otherwise serious collateral effects. While that...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: fortunebusinessinsights.com  
    Title: high power microwave counter drone market 117042  
-   Link: <a href="https://www.fortunebusinessinsights.com/high-power-microwave-counter-drone-market-117042" target="_blank" rel="noopener noreferrer nofollow">https://www.fortunebusinessinsights.com/high-power-microwave-counter-drone-market-117042</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>High Power Microwave Counter Drone Market Size, Share...9 Jun 2026 — The global high power microwave counter-drone market size is projec...</p></details>
+   Link:<a href="https://www.fortunebusinessinsights.com/high-power-microwave-counter-drone-market-117042" target="_blank" rel="noopener noreferrer nofollow">https://www.fortunebusinessinsights.com/high-power-microwave-counter-drone-market-117042</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High Power Microwave Counter Drone Market Size, Share...9 Jun 2026 — The global high power microwave counter-drone market size is projec...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: epirusinc.com  
-   Link: <a href="https://www.epirusinc.com/electronic-warfare" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/electronic-warfare</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>N) semiconductors for unmatched counter-electronics effects.Read more...</p></details>
+   Link:<a href="https://www.epirusinc.com/electronic-warfare" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/electronic-warfare</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>N) semiconductors for unmatched counter-electronics effects.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/scmp/posts/china-has-lowered-the-operational-cost-of-an-anti-drone-high-power-microwave-sys/1322971063212276/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/scmp/posts/china-has-lowered-the-operational-cost-of-an-anti-drone-high-power-microwave-sys/1322971063212276/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>stems. This kind of energy can affect drones, missiles...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/scmp/posts/china-has-lowered-the-operational-cost-of-an-anti-drone-high-power-microwave-sys/1322971063212276/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/scmp/posts/china-has-lowered-the-operational-cost-of-an-anti-drone-high-power-microwave-sys/1322971063212276/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>stems. This kind of energy can affect drones, missiles...Read more...</p></details>

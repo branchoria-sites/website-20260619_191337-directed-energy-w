@@ -327,17 +327,17 @@ image: /assets/images/Directed_Ener_98f417_laser_atmosph_af9b93-overview-social.
 
 ## Introduction
 
-Bad weather matters for laser weapons because a laser has to deliver enough concentrated energy through real air, not through a laboratory vacuum. Fog, rain, sea spray, dust, smoke, humidity, turbulence and the laser’s own heating of the air can all reduce the energy that reaches the target, spread the beam, or force the weapon to dwell on the target for longer than the engagement allows. This does not make high-energy lasers useless: modern systems use wavelength selection, beam control and [adaptive optics]({{ 'adaptive-optics/' | relative_url }}) to improve performance in some degraded conditions. But it does mean they are not all-weather replacements for guns and missiles. The key military question is not whether the laser can fire, but whether enough useful energy reaches the right aim point, for long enough, under the air conditions at that moment. The US Government Accountability Office notes that weather such as fog and storms can make some directed-energy weapons less effective, while the Congressional Research Service warns that rain, fog and obscurants can limit laser range and [beam quality]({{ 'beam-quality/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">Science &amp; Tech Spotlight: Directed Energy Weapons</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy WeaponsMay 25, 2023 — They also generally have a shorter range than conventional weapons, an...</span><span class="citation-popover-meta">Published: May 25, 2023</span></span></span>
+Bad weather matters for laser weapons because a laser has to deliver enough concentrated energy through real air, not through a laboratory vacuum. Fog, rain, sea spray, dust, smoke, humidity, turbulence and the laser’s own heating of the air can all reduce the energy that reaches the target, spread the beam, or force the weapon to dwell on the target for longer than the engagement allows. This does not make high-energy lasers useless: modern systems use wavelength selection, beam control and [adaptive optics]({{ 'adaptive-optics/' | relative_url }}) to improve performance in some degraded conditions. But it does mean they are not all-weather replacements for guns and missiles. The key military question is not whether the laser can fire, but whether enough useful energy reaches the right aim point, for long enough, under the air conditions at that moment. The US Government Accountability Office notes that weather such as fog and storms can make some directed-energy weapons less effective, while the Congressional Research Service warns that rain, fog and obscurants can limit laser range and [beam quality]({{ 'beam-quality/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">Science &amp; Tech Spotlight: Directed Energy Weapons</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy WeaponsMay 25, 2023 — They also generally have a shorter range than conventional weapons, an...</span><span class="citation-popover-meta">Published: May 25, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93-overview.webp" | relative_url }}" alt="Overview image for Atmosphere" loading="eager" decoding="sync" fetchpriority="high">
 ## Fog, rain, aerosols and beam loss
 
-A high-energy laser weapon works by focusing light onto a vulnerable point on a target. Anything in the air that absorbs or scatters that light reduces the beam’s useful intensity before it arrives. Molecular absorption by gases such as water vapour and carbon dioxide can remove energy at particular [wavelengths]({{ 'wavelengths/' | relative_url }}). Aerosols such as sea salt, dust, soot, smoke, pollution and suspended droplets scatter light out of the intended beam path. A Naval Postgraduate School study on directed-energy weapons describes atmospheric absorption, scattering, turbulence and thermal [blooming]({{ 'blooming/' | relative_url }}) as core propagation problems because they reduce the strength and quality of the beam at the target, not merely its neatness as an optical line. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://calhoun.nps.edu/bitstream/handle/10945/3311/07Sep_Deveci.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calhoun.nps.edu">[calhoun.nps.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calhoun.nps.edu</span><span class="citation-popover-title">Direct-energy weapons: invisible and invincible?</span><span class="citation-popover-snippet">August 13, 2007 — by BM Deveci · 2007 · Cited by 15 —... Thermal Blooming. Thermal blooming is distortion of a propagating beam c...</span><span class="citation-popover-meta">Published: August 13, 2007</span></span></span>
+A high-energy laser weapon works by focusing light onto a vulnerable point on a target. Anything in the air that absorbs or scatters that light reduces the beam’s useful intensity before it arrives. Molecular absorption by gases such as water vapour and carbon dioxide can remove energy at particular [wavelengths]({{ 'wavelengths/' | relative_url }}). Aerosols such as sea salt, dust, soot, smoke, pollution and suspended droplets scatter light out of the intended beam path. A Naval Postgraduate School study on directed-energy weapons describes atmospheric absorption, scattering, turbulence and thermal [blooming]({{ 'blooming/' | relative_url }}) as core propagation problems because they reduce the strength and quality of the beam at the target, not merely its neatness as an optical line.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://calhoun.nps.edu/bitstream/handle/10945/3311/07Sep_Deveci.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calhoun.nps.edu">[calhoun.nps.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calhoun.nps.edu</span><span class="citation-popover-title">Direct-energy weapons: invisible and invincible?</span><span class="citation-popover-snippet">August 13, 2007 — by BM Deveci · 2007 · Cited by 15 —... Thermal Blooming. Thermal blooming is distortion of a propagating beam c...</span><span class="citation-popover-meta">Published: August 13, 2007</span></span></span>
 
-Fog is especially troublesome because it is made of many small water droplets suspended in air. Those droplets do not need to block the beam like a wall; scattering and absorption are enough to lower the irradiance that reaches the target. In dense fog, haze or cloud, the weapon may still emit a beam, but the beam arriving at the target can be too weak, too spread out or too unstable to heat the intended point quickly. This is why two common simplifications are both wrong: “[lasers]({{ 'lasers/' | relative_url }}) cannot work in fog or rain” is too absolute, but “lasers travel at light speed, so weather does not matter” ignores the physics of propagation. The real answer depends on wavelength, power, aperture, range, droplet size, aerosol density, target material and required dwell time. The US Army has argued publicly that high-energy lasers can be developed to penetrate some fog, rain and dust through beam control and adaptive optics, but that claim is best read as a rejection of an absolute myth rather than proof of all-weather lethality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.army.mil/article/195650/army_developing_lasers_that_pierce_fog_dust_to_destroy_targets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: army.mil">[Army]</a><span class="citation-popover" role="note"><span class="citation-popover-source">army.mil</span><span class="citation-popover-title">developing lasers that pierce fog dust to destroy targets</span><span class="citation-popover-snippet">Army developing lasers that pierce fog, dust to destroy targets23 Oct 2017 — A lot of people think that high-energy lasers, or HELs...</span></span></span>
+Fog is especially troublesome because it is made of many small water droplets suspended in air. Those droplets do not need to block the beam like a wall; scattering and absorption are enough to lower the irradiance that reaches the target. In dense fog, haze or cloud, the weapon may still emit a beam, but the beam arriving at the target can be too weak, too spread out or too unstable to heat the intended point quickly. This is why two common simplifications are both wrong: “[lasers]({{ 'lasers/' | relative_url }}) cannot work in fog or rain” is too absolute, but “lasers travel at light speed, so weather does not matter” ignores the physics of propagation. The real answer depends on wavelength, power, aperture, range, droplet size, aerosol density, target material and required dwell time. The US Army has argued publicly that high-energy lasers can be developed to penetrate some fog, rain and dust through beam control and adaptive optics, but that claim is best read as a rejection of an absolute myth rather than proof of all-weather lethality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.army.mil/article/195650/army_developing_lasers_that_pierce_fog_dust_to_destroy_targets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: army.mil">[Army]</a><span class="citation-popover" role="note"><span class="citation-popover-source">army.mil</span><span class="citation-popover-title">developing lasers that pierce fog dust to destroy targets</span><span class="citation-popover-snippet">Army developing lasers that pierce fog, dust to destroy targets23 Oct 2017 — A lot of people think that high-energy lasers, or HELs...</span></span></span>
 
-Rain is different from fog because the water is concentrated into larger drops with more space between them. A beam can pass between drops, but heavy rain still adds absorption, scattering and rapidly changing distortions. Sea spray creates a related maritime problem: droplets and salt particles are common close to the ocean surface, exactly where ship-defence lasers may need to engage small boats, drones or [low-flying]({{ 'low-flying/' | relative_url }}) threats. CRS notes that lasers may be affected by rain, fog and obscurants, and also highlights water vapour as an important issue for naval laser weapons; designers can reduce some losses by choosing wavelengths near atmospheric “windows”, but they cannot make the atmosphere disappear. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everycrsreport.com/files/2024-07-11_R46925_4c1e5a38ad3d6906a3ea03e0972e08d8979659f3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everycrsreport.com">[EveryCRSReport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everycrsreport.com</span><span class="citation-popover-snippet">HTML22. Congressional Research Service 17. Department of Defense Directed Energy Weapons... rain or fog, preventing lasers...</span></span></span>
+Rain is different from fog because the water is concentrated into larger drops with more space between them. A beam can pass between drops, but heavy rain still adds absorption, scattering and rapidly changing distortions. Sea spray creates a related maritime problem: droplets and salt particles are common close to the ocean surface, exactly where ship-defence lasers may need to engage small boats, drones or [low-flying]({{ 'low-flying/' | relative_url }}) threats. CRS notes that lasers may be affected by rain, fog and obscurants, and also highlights water vapour as an important issue for naval laser weapons; designers can reduce some losses by choosing wavelengths near atmospheric “windows”, but they cannot make the atmosphere disappear.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everycrsreport.com/files/2024-07-11_R46925_4c1e5a38ad3d6906a3ea03e0972e08d8979659f3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everycrsreport.com">[EveryCRSReport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everycrsreport.com</span><span class="citation-popover-snippet">HTML22. Congressional Research Service 17. Department of Defense Directed Energy Weapons... rain or fog, preventing lasers...</span></span></span>
 
 The practical consequence is that laser range is not a single clean number. A system that can engage a fragile drone at a useful distance in clear air may have a much shorter effective range in haze, smoke, dust or sea mist. The same system may perform well against one target type at short range but struggle against a harder, faster or more distant target under worse atmospheric extinction. This is why credible laser-weapon claims need an environmental envelope, not just an output-power figure or a video of a shoot-down.
 
@@ -345,24 +345,24 @@ The practical consequence is that laser range is not a single clean number. A sy
 <img src="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93-Illustration-1-dark.svg" | relative_url }}" alt="Atmosphere illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Thermal blooming in plain language
 
-Thermal blooming is what happens when the laser changes the air it is trying to pass through. Some of the beam’s energy is absorbed along the path, warming the air. Warmer air is less dense, and that density change alters the refractive index of the air. In plain terms, the beam can create a weak, shifting lens in front of itself. That lens can defocus the beam, increase the spot size at the target and reduce the concentrated power that makes a laser weapon effective. Lincoln Laboratory describes thermal blooming as beam spreading caused when some of the beam energy is absorbed by the medium through which it travels; if uncorrected, this spreading can significantly reduce the effectiveness of high-power lasers used as directed-energy weapons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.ll.mit.edu/publications/journal/journalarchives05-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.ll.mit.edu">[archive.ll.mit.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.ll.mit.edu</span><span class="citation-popover-snippet">Open source on mit.edu.</span></span></span>
+Thermal blooming is what happens when the laser changes the air it is trying to pass through. Some of the beam’s energy is absorbed along the path, warming the air. Warmer air is less dense, and that density change alters the refractive index of the air. In plain terms, the beam can create a weak, shifting lens in front of itself. That lens can defocus the beam, increase the spot size at the target and reduce the concentrated power that makes a laser weapon effective. Lincoln Laboratory describes thermal blooming as beam spreading caused when some of the beam energy is absorbed by the medium through which it travels; if uncorrected, this spreading can significantly reduce the effectiveness of high-power lasers used as directed-energy weapons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.ll.mit.edu/publications/journal/journalarchives05-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.ll.mit.edu">[archive.ll.mit.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.ll.mit.edu</span><span class="citation-popover-snippet">Open source on mit.edu.</span></span></span>
 
-This matters because many laser weapons rely on dwell time: they must keep enough energy on a small aim point long enough to damage a sensor, casing, control surface, motor, warhead section or drone structure. If thermal blooming spreads the beam, the target receives less intense heating at the point that matters. CRS describes the problem in operational terms: a laser firing in the same direction can heat the air, defocus the beam and reduce its ability to disable the target. This is particularly relevant when a target is flying almost directly towards the laser, because the beam keeps passing through much the same air path. A crossing target may be less punishing because the beam path changes as the target moves across the field of view. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everycrsreport.com/files/2024-07-11_R46925_4c1e5a38ad3d6906a3ea03e0972e08d8979659f3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everycrsreport.com">[EveryCRSReport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everycrsreport.com</span><span class="citation-popover-snippet">HTML22. Congressional Research Service 17. Department of Defense Directed Energy Weapons... rain or fog, preventing lasers...</span></span></span>
+This matters because many laser weapons rely on dwell time: they must keep enough energy on a small aim point long enough to damage a sensor, casing, control surface, motor, warhead section or drone structure. If thermal blooming spreads the beam, the target receives less intense heating at the point that matters. CRS describes the problem in operational terms: a laser firing in the same direction can heat the air, defocus the beam and reduce its ability to disable the target. This is particularly relevant when a target is flying almost directly towards the laser, because the beam keeps passing through much the same air path. A crossing target may be less punishing because the beam path changes as the target moves across the field of view.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everycrsreport.com/files/2024-07-11_R46925_4c1e5a38ad3d6906a3ea03e0972e08d8979659f3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everycrsreport.com">[EveryCRSReport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everycrsreport.com</span><span class="citation-popover-snippet">HTML22. Congressional Research Service 17. Department of Defense Directed Energy Weapons... rain or fog, preventing lasers...</span></span></span>
 
-Thermal blooming becomes more important as laser powers rise, but the relationship is not as simple as “more power always fixes the problem”. More power can increase energy on target, yet it can also deposit more heat into the air along the way. The weapon must manage the trade-off between output power, [beam diameter]({{ 'beam-size/' | relative_url }}), focus, atmospheric absorption, wind and the time needed to achieve the desired effect. Naval Postgraduate School research notes that wind can influence blooming by cooling or moving the heated air column, while modelling studies of high-energy laser propagation treat extinction, turbulence, platform jitter and blooming as linked factors that determine on-target irradiance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://calhoun.nps.edu/bitstreams/aab53d9d-9919-467e-8021-3111fccffdd3/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calhoun.nps.edu">[calhoun.nps.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calhoun.nps.edu</span><span class="citation-popover-snippet">Open source on nps.edu.</span></span></span>
+Thermal blooming becomes more important as laser powers rise, but the relationship is not as simple as “more power always fixes the problem”. More power can increase energy on target, yet it can also deposit more heat into the air along the way. The weapon must manage the trade-off between output power, [beam diameter]({{ 'beam-size/' | relative_url }}), focus, atmospheric absorption, wind and the time needed to achieve the desired effect. Naval Postgraduate School research notes that wind can influence blooming by cooling or moving the heated air column, while modelling studies of high-energy laser propagation treat extinction, turbulence, platform jitter and blooming as linked factors that determine on-target irradiance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://calhoun.nps.edu/bitstreams/aab53d9d-9919-467e-8021-3111fccffdd3/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calhoun.nps.edu">[calhoun.nps.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calhoun.nps.edu</span><span class="citation-popover-snippet">Open source on nps.edu.</span></span></span>
 
-Adaptive optics can help, but it is not magic. Adaptive optics uses deformable mirrors and wavefront sensing to correct distortions in the optical path. Lincoln Laboratory experiments on thermal blooming found that adaptive optics can compensate for strong blooming under some conditions, while also showing that realistic hardware, nonlinear effects and atmospheric conditions create limits. The useful lesson for laser weapons is balanced: beam-control technology can recover performance, but there are regimes where the atmosphere and the correction system still interact in ways that reduce delivered energy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.ll.mit.edu/publications/journal/pdf/vol05_no1/5.1.8.thermalblooming.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.ll.mit.edu">[archive.ll.mit.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.ll.mit.edu</span><span class="citation-popover-title">Thermal-Blooming Laboratory Experiments</span><span class="citation-popover-snippet">Thermal-Blooming Laboratory Experiments</span></span></span>
+Adaptive optics can help, but it is not magic. Adaptive optics uses deformable mirrors and wavefront sensing to correct distortions in the optical path. Lincoln Laboratory experiments on thermal blooming found that adaptive optics can compensate for strong blooming under some conditions, while also showing that realistic hardware, nonlinear effects and atmospheric conditions create limits. The useful lesson for laser weapons is balanced: beam-control technology can recover performance, but there are regimes where the atmosphere and the correction system still interact in ways that reduce delivered energy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.ll.mit.edu/publications/journal/pdf/vol05_no1/5.1.8.thermalblooming.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.ll.mit.edu">[archive.ll.mit.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.ll.mit.edu</span><span class="citation-popover-title">Thermal-Blooming Laboratory Experiments</span><span class="citation-popover-snippet">Thermal-Blooming Laboratory Experiments</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7J2NJLBVER8" title="Iron Beam In Fog: Can Laser Weapons Work Without Visibility? | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7J2NJLBVER8" target="_blank" rel="noopener noreferrer">Iron Beam In Fog: Can Laser Weapons Work Without Visibility? | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7J2NJLBVER8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7J2NJLBVER8">Open on YouTube</a></p></div></div></div>
 
 ## Why clear line of sight is not enough
 
-Laser weapons are line-of-sight systems, but “line of sight” does not mean “clean energy delivery”. The UK Ministry of Defence describes DragonFire as a line-of-sight weapon able to engage visible targets, and says the system has achieved high-power firing against aerial targets at the Hebrides Range. Leonardo, one of the DragonFire partners, also stresses the difficulty of maintaining precision while the target is moving, the platform is moving and atmospheric interference lies between them. These statements capture the central limitation: visibility is only the beginning of the engagement problem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Advanced future military laser achieves UK first</span><span class="citation-popover-snippet">Advanced future military laser achieves UK first</span></span></span>
+Laser weapons are line-of-sight systems, but “line of sight” does not mean “clean energy delivery”. The UK Ministry of Defence describes DragonFire as a line-of-sight weapon able to engage visible targets, and says the system has achieved high-power firing against aerial targets at the Hebrides Range. Leonardo, one of the DragonFire partners, also stresses the difficulty of maintaining precision while the target is moving, the platform is moving and atmospheric interference lies between them. These statements capture the central limitation: visibility is only the beginning of the engagement problem.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Advanced future military laser achieves UK first</span><span class="citation-popover-snippet">Advanced future military laser achieves UK first</span></span></span>
 
-Three requirements have to line up. First, the system must see, track and identify the target well enough to aim. Second, the beam must propagate through the atmosphere with enough focus and intensity. Third, the laser must dwell on a vulnerable point long enough to achieve the intended effect. Bad weather can interfere with all three at once: fog and rain can degrade sensors, aerosols can reduce transmission, turbulence can move or blur the beam, and manoeuvring targets can break the dwell time needed for a thermal kill. The issue is therefore not just whether a target is visible to an operator, but whether the whole sensor-to-shooter chain can maintain a useful aim point through a disturbed optical path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://calhoun.nps.edu/bitstream/handle/10945/3311/07Sep_Deveci.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calhoun.nps.edu">[calhoun.nps.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calhoun.nps.edu</span><span class="citation-popover-title">Direct-energy weapons: invisible and invincible?</span><span class="citation-popover-snippet">August 13, 2007 — by BM Deveci · 2007 · Cited by 15 —... Thermal Blooming. Thermal blooming is distortion of a propagating beam c...</span><span class="citation-popover-meta">Published: August 13, 2007</span></span></span>
+Three requirements have to line up. First, the system must see, track and identify the target well enough to aim. Second, the beam must propagate through the atmosphere with enough focus and intensity. Third, the laser must dwell on a vulnerable point long enough to achieve the intended effect. Bad weather can interfere with all three at once: fog and rain can degrade sensors, aerosols can reduce transmission, turbulence can move or blur the beam, and manoeuvring targets can break the dwell time needed for a thermal kill. The issue is therefore not just whether a target is visible to an operator, but whether the whole sensor-to-shooter chain can maintain a useful aim point through a disturbed optical path.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://calhoun.nps.edu/bitstream/handle/10945/3311/07Sep_Deveci.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calhoun.nps.edu">[calhoun.nps.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calhoun.nps.edu</span><span class="citation-popover-title">Direct-energy weapons: invisible and invincible?</span><span class="citation-popover-snippet">August 13, 2007 — by BM Deveci · 2007 · Cited by 15 —... Thermal Blooming. Thermal blooming is distortion of a propagating beam c...</span><span class="citation-popover-meta">Published: August 13, 2007</span></span></span>
 
-Turbulence explains why even clear-looking air can be optically difficult. Temperature and density variations change the air’s refractive index along the path, bending parts of the beam wavefront in slightly different ways. This can make the beam wander, scintillate or spread before it reaches the target. Adaptive optics is intended to measure and correct this distortion, but directed-energy use is demanding because the atmosphere, target and weapon platform may all be moving in real time. A 2022 review in the American Institute of Aeronautics and Astronautics notes that adaptive optics is valuable for directed energy when higher-order aberrations are significant in the optical path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arc.aiaa.org/doi/10.2514/1.J061766" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arc.aiaa.org">[AIAA Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arc.aiaa.org</span><span class="citation-popover-snippet">AIAA JournalAdaptive Optics for Directed Energy: Fundamentals and...by RB Holmes · 2022 · Cited by 28 — Adaptive optics are beneficial f...</span></span></span>
+Turbulence explains why even clear-looking air can be optically difficult. Temperature and density variations change the air’s refractive index along the path, bending parts of the beam wavefront in slightly different ways. This can make the beam wander, scintillate or spread before it reaches the target. Adaptive optics is intended to measure and correct this distortion, but directed-energy use is demanding because the atmosphere, target and weapon platform may all be moving in real time. A 2022 review in the American Institute of Aeronautics and Astronautics notes that adaptive optics is valuable for directed energy when higher-order aberrations are significant in the optical path.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arc.aiaa.org/doi/10.2514/1.J061766" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arc.aiaa.org">[AIAA Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arc.aiaa.org</span><span class="citation-popover-snippet">AIAA JournalAdaptive Optics for Directed Energy: Fundamentals and...by RB Holmes · 2022 · Cited by 28 — Adaptive optics are beneficial f...</span></span></span>
 
 This is why atmospheric limits affect tactics as much as physics. A ship or ground vehicle carrying a laser may still need conventional interceptors for heavy rain, dense smoke, long-range engagements or hardened targets. Conversely, a laser may be highly attractive when the air is clear enough, the target is close enough and the intended effect is against a drone, exposed sensor, small-boat component or fragile munition. The atmosphere does not simply decide whether a laser weapon works; it helps decide when the laser is the right defensive layer.
 
@@ -375,9 +375,9 @@ This is why atmospheric limits affect tactics as much as physics. A ship or grou
 <img src="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93-Illustration-2-dark.svg" | relative_url }}" alt="Atmosphere illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The planning risk is overconfidence
 
-The most important operational risk is treating a laser as a cheap missile rather than as a weather-sensitive optical system. A laser shot may cost little in electrical energy compared with an interceptor missile, but the weapon’s real combat value depends on range, target type, target aspect, atmospheric transmission, beam quality and dwell time. CRS explicitly warns that rain, fog and obscurants can limit range and beam quality, while GAO states that weather conditions can make certain directed-energy weapons less effective. Those are not minor caveats; they define where the weapon can be relied upon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everycrsreport.com/files/2024-07-11_R46925_4c1e5a38ad3d6906a3ea03e0972e08d8979659f3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everycrsreport.com">[EveryCRSReport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everycrsreport.com</span><span class="citation-popover-snippet">HTML22. Congressional Research Service 17. Department of Defense Directed Energy Weapons... rain or fog, preventing lasers...</span></span></span>
+The most important operational risk is treating a laser as a cheap missile rather than as a weather-sensitive optical system. A laser shot may cost little in electrical energy compared with an interceptor missile, but the weapon’s real combat value depends on range, target type, target aspect, atmospheric transmission, beam quality and dwell time. CRS explicitly warns that rain, fog and obscurants can limit range and beam quality, while GAO states that weather conditions can make certain directed-energy weapons less effective. Those are not minor caveats; they define where the weapon can be relied upon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everycrsreport.com/files/2024-07-11_R46925_4c1e5a38ad3d6906a3ea03e0972e08d8979659f3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everycrsreport.com">[EveryCRSReport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everycrsreport.com</span><span class="citation-popover-snippet">HTML22. Congressional Research Service 17. Department of Defense Directed Energy Weapons... rain or fog, preventing lasers...</span></span></span>
 
-The second risk is that the atmosphere can become a countermeasure. Natural conditions such as cloud cover, dust, pollution, mist and rainfall increase absorption and scattering, while longer distances give the beam more atmosphere to cross. Work on counter-directed-energy measures identifies atmospheric extinction as a protective factor and notes that unmanned aircraft may benefit from cloud, dust, polluted air, mist or rainfall when facing high-energy laser threats. That does not make weather a guaranteed shield, but it shows why an adversary may prefer routes, timing or obscurants that degrade laser performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nps.edu/documents/10180/142489929/JDE_7-2_Johnson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.edu">[Naval Postgraduate School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.edu</span><span class="citation-popover-snippet">Open source on nps.edu.</span></span></span>
+The second risk is that the atmosphere can become a countermeasure. Natural conditions such as cloud cover, dust, pollution, mist and rainfall increase absorption and scattering, while longer distances give the beam more atmosphere to cross. Work on counter-directed-energy measures identifies atmospheric extinction as a protective factor and notes that unmanned aircraft may benefit from cloud, dust, polluted air, mist or rainfall when facing high-energy laser threats. That does not make weather a guaranteed shield, but it shows why an adversary may prefer routes, timing or obscurants that degrade laser performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nps.edu/documents/10180/142489929/JDE_7-2_Johnson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.edu">[Naval Postgraduate School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.edu</span><span class="citation-popover-snippet">Open source on nps.edu.</span></span></span>
 
 The third risk is testing optimism. A successful shoot-down in clear, instrumented range conditions proves something important, but it does not prove the same performance in sea spray, desert dust, urban smoke, low cloud or rapidly changing boundary-layer turbulence. For any announced laser system, the useful questions are not only its power level and cost per shot. They are also the environmental limits: visibility, humidity, aerosol load, precipitation rate, range, target speed, target surface, platform motion and minimum dwell time for the intended effect.
 
@@ -388,194 +388,194 @@ For directed-energy weapons, bad weather is not a footnote. It is part of the en
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Bad Weather Matters for Laser Weapons. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Bad Weather Matters for Laser Weapons. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Explains the research ecosystem behind advanced military technologies including emerging weapons.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the research ecosystem behind advanced military technologies including emerging weapons.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to adaptive optics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8312561-M.jpg" alt="Cover for Introduction to adaptive optics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to adaptive optics">Introduction to adaptive optics</a>
-        </h4>
-        <p class="fr-book-author">By Robert K. Tyson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to adaptive optics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8312561-M.jpg" alt="Cover for Introduction to adaptive optics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to adaptive optics">Introduction to adaptive optics</a>
+</h4>
+<p class="fr-book-author">By Robert K. Tyson</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Adaptive Optics, Optical detectors, Optical instruments, Optical measurements, Optics, Adaptive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Adaptive Optics, Optical detectors, Optical instruments, Optical measurements, Optics, Adaptive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Photonics, 2 Volume Set on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13839810-M.jpg" alt="Cover for Fundamentals of Photonics, 2 Volume Set" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Photonics, 2 Volume Set">Fundamentals of Photonics, 2 Volume Set</a>
-        </h4>
-        <p class="fr-book-author">By Bahaa E. A. Saleh, Malvin Carl Teich</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Photonics, 2 Volume Set on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13839810-M.jpg" alt="Cover for Fundamentals of Photonics, 2 Volume Set" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Photonics, 2 Volume Set">Fundamentals of Photonics, 2 Volume Set</a>
+</h4>
+<p class="fr-book-author">By Bahaa E. A. Saleh, Malvin Carl Teich</p>
         
-        <p class="fr-book-desc">First published 2019. Subjects: Photonics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019. Subjects: Photonics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
-        </h4>
-        <p class="fr-book-author">By Bahman Zohuri</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
+</h4>
+<p class="fr-book-author">By Bahman Zohuri</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+adaptive+optics+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to adaptive optics books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of Photonics, 2 Volume Set</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+adaptive+optics+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to adaptive optics books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of Photonics, 2 Volume Set</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit"><img src="{{ '/assets/images/marketplace-covers/3327be5d6e43f1a2d594.jpg' | relative_url }}" alt="Listing image for Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit"><img src="{{ '/assets/images/marketplace-covers/3327be5d6e43f1a2d594.jpg' | relative_url }}" alt="Listing image for Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MQ-9 Predator B Reaper Hunter Killer Drone USAF UAV Wood Wooden Mahogany Model"><img src="{{ '/assets/images/marketplace-covers/36842923c06fd5ba855b.jpg' | relative_url }}" alt="Listing image for MQ-9 Predator B Reaper Hunter Killer Drone USAF UAV Wood Wooden Mahogany Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">MQ-9 Predator B Reaper Hunter Killer Drone USAF UAV Wood Wooden Mahogany Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MQ-9 Predator B Reaper Hunter Killer Drone USAF UAV Wood Wooden Mahogany Model"><img src="{{ '/assets/images/marketplace-covers/36842923c06fd5ba855b.jpg' | relative_url }}" alt="Listing image for MQ-9 Predator B Reaper Hunter Killer Drone USAF UAV Wood Wooden Mahogany Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">MQ-9 Predator B Reaper Hunter Killer Drone USAF UAV Wood Wooden Mahogany Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit"><img src="{{ '/assets/images/marketplace-covers/e39e7ba02c6fc339dd8d.jpg' | relative_url }}" alt="Listing image for Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit"><img src="{{ '/assets/images/marketplace-covers/e39e7ba02c6fc339dd8d.jpg' | relative_url }}" alt="Listing image for Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF Boeing YAL-1A Airborne Laser Edwards AFB Desk Top Model 1/200 SC Airplane"><img src="{{ '/assets/images/marketplace-covers/50462e7e924f17a01d9d.jpg' | relative_url }}" alt="Listing image for USAF Boeing YAL-1A Airborne Laser Edwards AFB Desk Top Model 1/200 SC Airplane" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">USAF Boeing YAL-1A Airborne Laser Edwards AFB Desk Top Model 1/200 SC Airplane</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF Boeing YAL-1A Airborne Laser Edwards AFB Desk Top Model 1/200 SC Airplane"><img src="{{ '/assets/images/marketplace-covers/50462e7e924f17a01d9d.jpg' | relative_url }}" alt="Listing image for USAF Boeing YAL-1A Airborne Laser Edwards AFB Desk Top Model 1/200 SC Airplane" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">USAF Boeing YAL-1A Airborne Laser Edwards AFB Desk Top Model 1/200 SC Airplane</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="atmosphere-why-bad-weather-matters-for-laser-weapons-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -591,7 +591,7 @@ For directed-energy weapons, bad weather is not a footnote. It is part of the en
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -611,7 +611,7 @@ For directed-energy weapons, bad weather is not a footnote. It is part of the en
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -643,7 +643,7 @@ For directed-energy weapons, bad weather is not a footnote. It is part of the en
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -695,7 +695,7 @@ For directed-energy weapons, bad weather is not a footnote. It is part of the en
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -740,7 +740,7 @@ For directed-energy weapons, bad weather is not a footnote. It is part of the en
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -781,232 +781,232 @@ For directed-energy weapons, bad weather is not a footnote. It is part of the en
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gao.gov  
    Title: Science & Tech Spotlight: Directed Energy Weapons  
-   Link: <a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy WeaponsMay 25, 2023 — They also generally have a shorter range than conventional weapons, an...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy WeaponsMay 25, 2023 — They also generally have a shorter range than conventional weapons, an...</p></details>
    Published: May 25, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: everycrsreport.com  
-   Link: <a href="https://www.everycrsreport.com/files/2024-07-11_R46925_4c1e5a38ad3d6906a3ea03e0972e08d8979659f3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.everycrsreport.com/files/2024-07-11_R46925_4c1e5a38ad3d6906a3ea03e0972e08d8979659f3.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HTML22. Congressional Research Service 17. Department of Defense Directed Energy Weapons... rain or fog, preventing lasers...</p></details>
+   Link:<a href="https://www.everycrsreport.com/files/2024-07-11_R46925_4c1e5a38ad3d6906a3ea03e0972e08d8979659f3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.everycrsreport.com/files/2024-07-11_R46925_4c1e5a38ad3d6906a3ea03e0972e08d8979659f3.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HTML22. Congressional Research Service 17. Department of Defense Directed Energy Weapons... rain or fog, preventing lasers...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: calhoun.nps.edu  
    Title: Direct-energy weapons: invisible and invincible?  
-   Link: <a href="https://calhoun.nps.edu/bitstream/handle/10945/3311/07Sep_Deveci.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://calhoun.nps.edu/bitstream/handle/10945/3311/07Sep_Deveci.pdf?sequence=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 13, 2007 — by BM Deveci · 2007 · Cited by 15 —... Thermal Blooming. Thermal blooming is distortion of a propagating beam c...</p></details>
+   Link:<a href="https://calhoun.nps.edu/bitstream/handle/10945/3311/07Sep_Deveci.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://calhoun.nps.edu/bitstream/handle/10945/3311/07Sep_Deveci.pdf?sequence=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 13, 2007 — by BM Deveci · 2007 · Cited by 15 —... Thermal Blooming. Thermal blooming is distortion of a propagating beam c...</p></details>
    Published: August 13, 2007  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: army.mil  
    Title: developing lasers that pierce fog dust to destroy targets  
-   Link: <a href="https://www.army.mil/article/195650/army_developing_lasers_that_pierce_fog_dust_to_destroy_targets" target="_blank" rel="noopener noreferrer nofollow">https://www.army.mil/article/195650/army_developing_lasers_that_pierce_fog_dust_to_destroy_targets</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Army developing lasers that pierce fog, dust to destroy targets23 Oct 2017 — A lot of people think that high-energy lasers, or HELs...</p></details>
+   Link:<a href="https://www.army.mil/article/195650/army_developing_lasers_that_pierce_fog_dust_to_destroy_targets" target="_blank" rel="noopener noreferrer nofollow">https://www.army.mil/article/195650/army_developing_lasers_that_pierce_fog_dust_to_destroy_targets</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Army developing lasers that pierce fog, dust to destroy targets23 Oct 2017 — A lot of people think that high-energy lasers, or HELs...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arc.aiaa.org  
-   Link: <a href="https://arc.aiaa.org/doi/10.2514/1.J061766" target="_blank" rel="noopener noreferrer nofollow">https://arc.aiaa.org/doi/10.2514/1.J061766</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AIAA JournalAdaptive Optics for Directed Energy: Fundamentals and...by RB Holmes · 2022 · Cited by 28 — Adaptive optics are beneficial f...</p></details>
+   Link:<a href="https://arc.aiaa.org/doi/10.2514/1.J061766" target="_blank" rel="noopener noreferrer nofollow">https://arc.aiaa.org/doi/10.2514/1.J061766</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AIAA JournalAdaptive Optics for Directed Energy: Fundamentals and...by RB Holmes · 2022 · Cited by 28 — Adaptive optics are beneficial f...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archive.ll.mit.edu  
-   Link: <a href="https://archive.ll.mit.edu/publications/journal/journalarchives05-1.html" target="_blank" rel="noopener noreferrer nofollow">https://archive.ll.mit.edu/publications/journal/journalarchives05-1.html</a>  
+   Link:<a href="https://archive.ll.mit.edu/publications/journal/journalarchives05-1.html" target="_blank" rel="noopener noreferrer nofollow">https://archive.ll.mit.edu/publications/journal/journalarchives05-1.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archive.ll.mit.edu  
-   Link: <a href="https://archive.ll.mit.edu/publications/journal/pdf/vol05_no1/5.1.7.compensatedlaser.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.ll.mit.edu/publications/journal/pdf/vol05_no1/5.1.7.compensatedlaser.pdf</a>  
+   Link:<a href="https://archive.ll.mit.edu/publications/journal/pdf/vol05_no1/5.1.7.compensatedlaser.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.ll.mit.edu/publications/journal/pdf/vol05_no1/5.1.7.compensatedlaser.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: calhoun.nps.edu  
-   Link: <a href="https://calhoun.nps.edu/bitstreams/aab53d9d-9919-467e-8021-3111fccffdd3/download" target="_blank" rel="noopener noreferrer nofollow">https://calhoun.nps.edu/bitstreams/aab53d9d-9919-467e-8021-3111fccffdd3/download</a>  
+   Link:<a href="https://calhoun.nps.edu/bitstreams/aab53d9d-9919-467e-8021-3111fccffdd3/download" target="_blank" rel="noopener noreferrer nofollow">https://calhoun.nps.edu/bitstreams/aab53d9d-9919-467e-8021-3111fccffdd3/download</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archive.ll.mit.edu  
    Title: Thermal-Blooming Laboratory Experiments  
-   Link: <a href="https://archive.ll.mit.edu/publications/journal/pdf/vol05_no1/5.1.8.thermalblooming.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.ll.mit.edu/publications/journal/pdf/vol05_no1/5.1.8.thermalblooming.pdf</a>  
+   Link:<a href="https://archive.ll.mit.edu/publications/journal/pdf/vol05_no1/5.1.8.thermalblooming.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.ll.mit.edu/publications/journal/pdf/vol05_no1/5.1.8.thermalblooming.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archive.ll.mit.edu  
-   Link: <a href="https://archive.ll.mit.edu/publications/journal/pdf/vol05_no2/5.2.5.scaledblooming.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.ll.mit.edu/publications/journal/pdf/vol05_no2/5.2.5.scaledblooming.pdf</a>  
+   Link:<a href="https://archive.ll.mit.edu/publications/journal/pdf/vol05_no2/5.2.5.scaledblooming.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.ll.mit.edu/publications/journal/pdf/vol05_no2/5.2.5.scaledblooming.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: GOV.UK  
    Title: Advanced future military laser achieves UK first  
-   Link: <a href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first</a>  
+   Link:<a href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: uk.leonardo.com  
    Title: Dragon Fire – Laser Directed Energy Weapon  
-   Link: <a href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow">https://uk.leonardo.com/en/innovation/dragonfire</a>  
+   Link:<a href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow">https://uk.leonardo.com/en/innovation/dragonfire</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nps.edu  
-   Link: <a href="https://nps.edu/documents/10180/142489929/JDE_7-2_Johnson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nps.edu/documents/10180/142489929/JDE_7-2_Johnson.pdf</a>  
+   Link:<a href="https://nps.edu/documents/10180/142489929/JDE_7-2_Johnson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nps.edu/documents/10180/142489929/JDE_7-2_Johnson.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nps.edu  
-   Link: <a href="https://nps.edu/web/research/-/propagation-of-high-energy-lasers-for-various-wavelengths-power-levels-and-atmospheric-conditions-2018" target="_blank" rel="noopener noreferrer nofollow">https://nps.edu/web/research/-/propagation-of-high-energy-lasers-for-various-wavelengths-power-levels-and-atmospheric-conditions-2018</a>  
+   Link:<a href="https://nps.edu/web/research/-/propagation-of-high-energy-lasers-for-various-wavelengths-power-levels-and-atmospheric-conditions-2018" target="_blank" rel="noopener noreferrer nofollow">https://nps.edu/web/research/-/propagation-of-high-energy-lasers-for-various-wavelengths-power-levels-and-atmospheric-conditions-2018</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: calhoun.nps.edu  
    Title: 16Jun Collins Joseph  
-   Link: <a href="https://calhoun.nps.edu/bitstream/handle/10945/49439/16Jun_Collins_Joseph.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://calhoun.nps.edu/bitstream/handle/10945/49439/16Jun_Collins_Joseph.pdf?sequence=1</a>  
+   Link:<a href="https://calhoun.nps.edu/bitstream/handle/10945/49439/16Jun_Collins_Joseph.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://calhoun.nps.edu/bitstream/handle/10945/49439/16Jun_Collins_Joseph.pdf?sequence=1</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: calhoun.nps.edu  
-   Link: <a href="https://calhoun.nps.edu/server/api/core/bitstreams/5a81dcfa-356e-40c0-8b4c-021b96ed7860/content" target="_blank" rel="noopener noreferrer nofollow">https://calhoun.nps.edu/server/api/core/bitstreams/5a81dcfa-356e-40c0-8b4c-021b96ed7860/content</a>  
+   Link:<a href="https://calhoun.nps.edu/server/api/core/bitstreams/5a81dcfa-356e-40c0-8b4c-021b96ed7860/content" target="_blank" rel="noopener noreferrer nofollow">https://calhoun.nps.edu/server/api/core/bitstreams/5a81dcfa-356e-40c0-8b4c-021b96ed7860/content</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: calhoun.nps.edu  
-   Link: <a href="https://calhoun.nps.edu/server/api/core/bitstreams/3f7b07df-d919-49c7-90bb-8c632e71d5b7/content" target="_blank" rel="noopener noreferrer nofollow">https://calhoun.nps.edu/server/api/core/bitstreams/3f7b07df-d919-49c7-90bb-8c632e71d5b7/content</a>  
+   Link:<a href="https://calhoun.nps.edu/server/api/core/bitstreams/3f7b07df-d919-49c7-90bb-8c632e71d5b7/content" target="_blank" rel="noopener noreferrer nofollow">https://calhoun.nps.edu/server/api/core/bitstreams/3f7b07df-d919-49c7-90bb-8c632e71d5b7/content</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: calhoun.nps.edu  
    Title: 95Dec Ramos  
-   Link: <a href="https://calhoun.nps.edu/bitstream/handle/10945/7476/95Dec_Ramos.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://calhoun.nps.edu/bitstream/handle/10945/7476/95Dec_Ramos.pdf?sequence=1</a>  
+   Link:<a href="https://calhoun.nps.edu/bitstream/handle/10945/7476/95Dec_Ramos.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://calhoun.nps.edu/bitstream/handle/10945/7476/95Dec_Ramos.pdf?sequence=1</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: calhoun.nps.edu  
-   Link: <a href="https://calhoun.nps.edu/server/api/core/bitstreams/132ae2fa-1efe-47f7-af14-93673e15c305/content" target="_blank" rel="noopener noreferrer nofollow">https://calhoun.nps.edu/server/api/core/bitstreams/132ae2fa-1efe-47f7-af14-93673e15c305/content</a>  
+   Link:<a href="https://calhoun.nps.edu/server/api/core/bitstreams/132ae2fa-1efe-47f7-af14-93673e15c305/content" target="_blank" rel="noopener noreferrer nofollow">https://calhoun.nps.edu/server/api/core/bitstreams/132ae2fa-1efe-47f7-af14-93673e15c305/content</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: calhoun.nps.edu  
    Title: 16Jun Valiani Joshua  
-   Link: <a href="https://calhoun.nps.edu/bitstream/handle/10945/49406/16Jun_Valiani_Joshua.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://calhoun.nps.edu/bitstream/handle/10945/49406/16Jun_Valiani_Joshua.pdf?sequence=1</a>  
+   Link:<a href="https://calhoun.nps.edu/bitstream/handle/10945/49406/16Jun_Valiani_Joshua.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://calhoun.nps.edu/bitstream/handle/10945/49406/16Jun_Valiani_Joshua.pdf?sequence=1</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: calhoun.nps.edu  
    Title: 13Jun SEA Cohort 19 Team Bravo  
-   Link: <a href="https://calhoun.nps.edu/bitstream/handle/10945/34734/13Jun_SEA_Cohort_19_Team_Bravo.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://calhoun.nps.edu/bitstream/handle/10945/34734/13Jun_SEA_Cohort_19_Team_Bravo.pdf?sequence=1</a>  
+   Link:<a href="https://calhoun.nps.edu/bitstream/handle/10945/34734/13Jun_SEA_Cohort_19_Team_Bravo.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://calhoun.nps.edu/bitstream/handle/10945/34734/13Jun_SEA_Cohort_19_Team_Bravo.pdf?sequence=1</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: calhoun.nps.edu  
-   Link: <a href="https://calhoun.nps.edu/server/api/core/bitstreams/8c483800-5a0f-4b01-bc3a-ad70fe7ae5d0/content" target="_blank" rel="noopener noreferrer nofollow">https://calhoun.nps.edu/server/api/core/bitstreams/8c483800-5a0f-4b01-bc3a-ad70fe7ae5d0/content</a>  
+   Link:<a href="https://calhoun.nps.edu/server/api/core/bitstreams/8c483800-5a0f-4b01-bc3a-ad70fe7ae5d0/content" target="_blank" rel="noopener noreferrer nofollow">https://calhoun.nps.edu/server/api/core/bitstreams/8c483800-5a0f-4b01-bc3a-ad70fe7ae5d0/content</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nps.edu  
    Title: SEA 19B DEW Final Report  
-   Link: <a href="https://nps.edu/documents/105988579/106076800/SEA-19B_DEW_Final_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nps.edu/documents/105988579/106076800/SEA-19B_DEW_Final_Report.pdf</a>  
+   Link:<a href="https://nps.edu/documents/105988579/106076800/SEA-19B_DEW_Final_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nps.edu/documents/105988579/106076800/SEA-19B_DEW_Final_Report.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: faculty.nps.edu  
    Title: english single word freqs.txt  
-   Link: <a href="https://faculty.nps.edu/ncrowe/coursematerials/english_single_word_freqs.txt" target="_blank" rel="noopener noreferrer nofollow">https://faculty.nps.edu/ncrowe/coursematerials/english_single_word_freqs.txt</a>  
+   Link:<a href="https://faculty.nps.edu/ncrowe/coursematerials/english_single_word_freqs.txt" target="_blank" rel="noopener noreferrer nofollow">https://faculty.nps.edu/ncrowe/coursematerials/english_single_word_freqs.txt</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: everycrsreport.com  
-   Link: <a href="https://www.everycrsreport.com/files/2022-09-13_R46925_3cec298682f62bdf9aad62dc48a2a063e1e6556e.html" target="_blank" rel="noopener noreferrer nofollow">https://www.everycrsreport.com/files/2022-09-13_R46925_3cec298682f62bdf9aad62dc48a2a063e1e6556e.html</a>  
+   Link:<a href="https://www.everycrsreport.com/files/2022-09-13_R46925_3cec298682f62bdf9aad62dc48a2a063e1e6556e.html" target="_blank" rel="noopener noreferrer nofollow">https://www.everycrsreport.com/files/2022-09-13_R46925_3cec298682f62bdf9aad62dc48a2a063e1e6556e.html</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: everycrsreport.com  
-   Link: <a href="https://www.everycrsreport.com/reports/R46925.html" target="_blank" rel="noopener noreferrer nofollow">https://www.everycrsreport.com/reports/R46925.html</a>  
+   Link:<a href="https://www.everycrsreport.com/reports/R46925.html" target="_blank" rel="noopener noreferrer nofollow">https://www.everycrsreport.com/reports/R46925.html</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: everycrsreport.com  
-   Link: <a href="https://www.everycrsreport.com/files/20120614_R41526_ce8f170edaf66a26b5d6441bf2b2e219d8622dbf.html" target="_blank" rel="noopener noreferrer nofollow">https://www.everycrsreport.com/files/20120614_R41526_ce8f170edaf66a26b5d6441bf2b2e219d8622dbf.html</a>  
+   Link:<a href="https://www.everycrsreport.com/files/20120614_R41526_ce8f170edaf66a26b5d6441bf2b2e219d8622dbf.html" target="_blank" rel="noopener noreferrer nofollow">https://www.everycrsreport.com/files/20120614_R41526_ce8f170edaf66a26b5d6441bf2b2e219d8622dbf.html</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: archive.ll.mit.edu  
-   Link: <a href="https://archive.ll.mit.edu/publications/journal/pdf/vol05_no1/5.1.1.opticsresearch.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.ll.mit.edu/publications/journal/pdf/vol05_no1/5.1.1.opticsresearch.pdf</a>  
+   Link:<a href="https://archive.ll.mit.edu/publications/journal/pdf/vol05_no1/5.1.1.opticsresearch.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.ll.mit.edu/publications/journal/pdf/vol05_no1/5.1.1.opticsresearch.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: archive.ll.mit.edu  
-   Link: <a href="https://archive.ll.mit.edu/publications/journal/pdf/vol03_no2/3.2.3.beampathconditioning.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.ll.mit.edu/publications/journal/pdf/vol03_no2/3.2.3.beampathconditioning.pdf</a>  
+   Link:<a href="https://archive.ll.mit.edu/publications/journal/pdf/vol03_no2/3.2.3.beampathconditioning.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.ll.mit.edu/publications/journal/pdf/vol03_no2/3.2.3.beampathconditioning.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: archive.ll.mit.edu  
-   Link: <a href="https://archive.ll.mit.edu/publications/journal/pdf/vol02_no1/2.1.8.adaptiveoptics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.ll.mit.edu/publications/journal/pdf/vol02_no1/2.1.8.adaptiveoptics.pdf</a>  
+   Link:<a href="https://archive.ll.mit.edu/publications/journal/pdf/vol02_no1/2.1.8.adaptiveoptics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.ll.mit.edu/publications/journal/pdf/vol02_no1/2.1.8.adaptiveoptics.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: archive.ll.mit.edu  
-   Link: <a href="https://archive.ll.mit.edu/publications/journal/pdf/vol05_no1/5.1.6.swatwavefront.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.ll.mit.edu/publications/journal/pdf/vol05_no1/5.1.6.swatwavefront.pdf</a>  
+   Link:<a href="https://archive.ll.mit.edu/publications/journal/pdf/vol05_no1/5.1.6.swatwavefront.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.ll.mit.edu/publications/journal/pdf/vol05_no1/5.1.6.swatwavefront.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: archive.ll.mit.edu  
    Title: journalarchives05 2  
-   Link: <a href="https://archive.ll.mit.edu/publications/journal/journalarchives05-2.html" target="_blank" rel="noopener noreferrer nofollow">https://archive.ll.mit.edu/publications/journal/journalarchives05-2.html</a>  
+   Link:<a href="https://archive.ll.mit.edu/publications/journal/journalarchives05-2.html" target="_blank" rel="noopener noreferrer nofollow">https://archive.ll.mit.edu/publications/journal/journalarchives05-2.html</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: archive.ll.mit.edu  
-   Link: <a href="https://archive.ll.mit.edu/publications/journal/journalarchives.html" target="_blank" rel="noopener noreferrer nofollow">https://archive.ll.mit.edu/publications/journal/journalarchives.html</a>  
+   Link:<a href="https://archive.ll.mit.edu/publications/journal/journalarchives.html" target="_blank" rel="noopener noreferrer nofollow">https://archive.ll.mit.edu/publications/journal/journalarchives.html</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: dspace.mit.edu  
    Title: 31359954 MIT  
-   Link: <a href="https://dspace.mit.edu/bitstream/handle/1721.1/35978/31359954-MIT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dspace.mit.edu/bitstream/handle/1721.1/35978/31359954-MIT.pdf</a>  
+   Link:<a href="https://dspace.mit.edu/bitstream/handle/1721.1/35978/31359954-MIT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dspace.mit.edu/bitstream/handle/1721.1/35978/31359954-MIT.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning</a>  
+   Link:<a href="https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: airpower.airforce.gov.au  
    Title: airforce.gov.au Directed Energy Weapons  
-   Link: <a href="https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf" target="_blank" rel="noopener noreferrer nofollow">https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf</a>  
+   Link:<a href="https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf" target="_blank" rel="noopener noreferrer nofollow">https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: hsdl.org  
-   Link: <a href="https://www.hsdl.org/c/view?docid=893273" target="_blank" rel="noopener noreferrer nofollow">https://www.hsdl.org/c/view?docid=893273</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Primer: Directed-Energy Weapons4 Nov 2024 — For example, atmospheric conditions (e.g., rain, fog, obscurants) and SWaP and coolin...</p></details>
+   Link:<a href="https://www.hsdl.org/c/view?docid=893273" target="_blank" rel="noopener noreferrer nofollow">https://www.hsdl.org/c/view?docid=893273</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Primer: Directed-Energy Weapons4 Nov 2024 — For example, atmospheric conditions (e.g., rain, fog, obscurants) and SWaP and coolin...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: Wikipedia  
    Title: Laser weapon  
-   Link: <a href="https://en.wikipedia.org/wiki/Laser_weapon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Laser_weapon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Laser_weapon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Laser_weapon</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/high" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/high</a>  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/high" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/high</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: lockheedmartin.com  
-   Link: <a href="https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html</a>  
+   Link:<a href="https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html</a>  
 
 ### Additional References
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
    Title: The Pentagon's Laser Problem and The Company To Fix it  
-   Link: <a href="https://www.youtube.com/watch?v=iyBkTwFyIqY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iyBkTwFyIqY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Iron Beam In Fog: Can Laser Weapons Work Without Visibility? | WION Podcast - YouTube Iron Beam In Fog: Can Laser Weapons Work Without Vi...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=iyBkTwFyIqY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iyBkTwFyIqY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Iron Beam In Fog: Can Laser Weapons Work Without Visibility? | WION Podcast - YouTube Iron Beam In Fog: Can Laser Weapons Work Without Vi...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: Iron Beam In Fog: Can Laser Weapons Work Without Visibility?  
-   Link: <a href="https://www.youtube.com/watch?v=7J2NJLBVER8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7J2NJLBVER8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Laser Weapons Cannot Replace Missiles In Modern Warfare...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7J2NJLBVER8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7J2NJLBVER8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Laser Weapons Cannot Replace Missiles In Modern Warfare...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/235041191_Atmospheric_Propagation_of_High_Energy_Lasers_Modeling_Simulation_Tracking_and_Control" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/235041191_Atmospheric_Propagation_of_High_Energy_Lasers_Modeling_Simulation_Tracking_and_Control</a>  
+   Link:<a href="https://www.researchgate.net/publication/235041191_Atmospheric_Propagation_of_High_Energy_Lasers_Modeling_Simulation_Tracking_and_Control" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/235041191_Atmospheric_Propagation_of_High_Energy_Lasers_Modeling_Simulation_Tracking_and_Control</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/307435395_Laser_Weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/307435395_Laser_Weapons</a>  
+   Link:<a href="https://www.researchgate.net/publication/307435395_Laser_Weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/307435395_Laser_Weapons</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment</a>  
+   Link:<a href="https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/399863884_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399863884_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways</a>  
+   Link:<a href="https://www.researchgate.net/publication/399863884_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399863884_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: navysbir.us  
-   Link: <a href="https://navysbir.us/n13_1/N131-076.htm" target="_blank" rel="noopener noreferrer nofollow">https://navysbir.us/n13_1/N131-076.htm</a>  
+   Link:<a href="https://navysbir.us/n13_1/N131-076.htm" target="_blank" rel="noopener noreferrer nofollow">https://navysbir.us/n13_1/N131-076.htm</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/avweek/posts/as-the-us-air-force-comes-within-weeks-of-the-first-operational-laser-weapons-th/10157699975222200/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/avweek/posts/as-the-us-air-force-comes-within-weeks-of-the-first-operational-laser-weapons-th/10157699975222200/</a>  
+   Link:<a href="https://www.facebook.com/avweek/posts/as-the-us-air-force-comes-within-weeks-of-the-first-operational-laser-weapons-th/10157699975222200/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/avweek/posts/as-the-us-air-force-comes-within-weeks-of-the-first-operational-laser-weapons-th/10157699975222200/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: scienceandglobalsecurity.org  
-   Link: <a href="https://scienceandglobalsecurity.org/archive/sgs18stupl.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scienceandglobalsecurity.org/archive/sgs18stupl.pdf</a>  
+   Link:<a href="https://scienceandglobalsecurity.org/archive/sgs18stupl.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scienceandglobalsecurity.org/archive/sgs18stupl.pdf</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: market.us  
-   Link: <a href="https://market.us/report/directed-energy-weapons-market/" target="_blank" rel="noopener noreferrer nofollow">https://market.us/report/directed-energy-weapons-market/</a>  
+   Link:<a href="https://market.us/report/directed-energy-weapons-market/" target="_blank" rel="noopener noreferrer nofollow">https://market.us/report/directed-energy-weapons-market/</a>  

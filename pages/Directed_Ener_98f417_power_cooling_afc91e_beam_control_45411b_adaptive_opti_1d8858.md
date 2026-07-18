@@ -269,13 +269,13 @@ image: /assets/images/Directed_Ener_98f417_power_cooling_afc91e_beam_control_454
 
 ## Introduction
 
-A high-energy laser can be perfectly aimed and still miss its intended effect if the [atmosphere]({{ 'atmosphere/' | relative_url }}) reshapes the beam on the way to the target. Pockets of warm and cool air, turbulence, dust, haze and the laser’s own heating of the air can distort the wavefront of the beam, causing the focused spot to spread out and reducing the energy delivered to the aim point. Adaptive optics (AO) is the principal technology developed to counter this problem. By measuring distortions in real time and reshaping optical elements inside the laser system, adaptive optics can restore a tighter focus and increase irradiance on the target. However, it is not a magic solution. It can compensate for many forms of atmospheric distortion, but weather, distance and fundamental propagation physics still impose [limits]({{ 'limits/' | relative_url }}) on laser weapon performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arc.aiaa.org/doi/10.2514/1.J061766" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arc.aiaa.org">[AIAA Arc+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arc.aiaa.org</span><span class="citation-popover-snippet">AIAA ArcAdaptive Optics for Directed Energy: Fundamentals and...by RB Holmes · 2022 · Cited by 28 — Adaptive optics are beneficial for d...</span></span></span>
+A high-energy laser can be perfectly aimed and still miss its intended effect if the [atmosphere]({{ 'atmosphere/' | relative_url }}) reshapes the beam on the way to the target. Pockets of warm and cool air, turbulence, dust, haze and the laser’s own heating of the air can distort the wavefront of the beam, causing the focused spot to spread out and reducing the energy delivered to the aim point. Adaptive optics (AO) is the principal technology developed to counter this problem. By measuring distortions in real time and reshaping optical elements inside the laser system, adaptive optics can restore a tighter focus and increase irradiance on the target. However, it is not a magic solution. It can compensate for many forms of atmospheric distortion, but weather, distance and fundamental propagation physics still impose [limits]({{ 'limits/' | relative_url }}) on laser weapon performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arc.aiaa.org/doi/10.2514/1.J061766" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arc.aiaa.org">[AIAA Arc+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arc.aiaa.org</span><span class="citation-popover-snippet">AIAA ArcAdaptive Optics for Directed Energy: Fundamentals and...by RB Holmes · 2022 · Cited by 28 — Adaptive optics are beneficial for d...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_power_cooling_afc91e_beam_control_45411b_adaptive_opti_1d8858-Illustration-1-dark.svg" | relative_url }}" alt="Adaptive Optics illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_power_cooling_afc91e_beam_control_45411b_adaptive_opti_1d8858-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_power_cooling_afc91e_beam_control_45411b_adaptive_opti_1d8858-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How the Atmosphere Distorts a Laser Beam
 
-The atmosphere is not a uniform optical medium. Temperature, pressure and humidity vary constantly along a beam path. These variations change the refractive index of air, bending different portions of a laser wavefront by slightly different amounts. The result is comparable to viewing an object through shimmering hot air above a road: the image blurs and moves because light is being distorted during propagation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arc.aiaa.org/doi/10.2514/1.J061766" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arc.aiaa.org">[AIAA Arc+2skoge.folk.ntnu.no]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arc.aiaa.org</span><span class="citation-popover-snippet">AIAA ArcAdaptive Optics for Directed Energy: Fundamentals and...by RB Holmes · 2022 · Cited by 28 — Adaptive optics are beneficial for d...</span></span></span>
+The atmosphere is not a uniform optical medium. Temperature, pressure and humidity vary constantly along a beam path. These variations change the refractive index of air, bending different portions of a laser wavefront by slightly different amounts. The result is comparable to viewing an object through shimmering hot air above a road: the image blurs and moves because light is being distorted during propagation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arc.aiaa.org/doi/10.2514/1.J061766" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arc.aiaa.org">[AIAA Arc+2skoge.folk.ntnu.no]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arc.aiaa.org</span><span class="citation-popover-snippet">AIAA ArcAdaptive Optics for Directed Energy: Fundamentals and...by RB Holmes · 2022 · Cited by 28 — Adaptive optics are beneficial for d...</span></span></span>
 
 For a directed-energy system, these distortions matter because damage depends on concentrating power into the smallest possible spot. Turbulence can produce several harmful effects:
 
@@ -283,9 +283,9 @@ For a directed-energy system, these distortions matter because damage depends on
 * **Beam wander:** the focal spot shifts unpredictably around the target.
 * **Wavefront distortion:** different parts of the beam arrive out of phase, reducing focus quality.
 * **Scintillation:** rapid fluctuations in beam intensity.
-* **Thermal [blooming]({{ 'blooming/' | relative_url }}):** the beam heats the air, creating additional refractive distortions that can bend or defocus the laser. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.sto.nato.int/publications/STO%20Educational%20Notes/STO-EN-SCI-340/EN-SCI-340-06.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.sto.nato.int">[publications.sto.nato.int+2rp-photonics.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.sto.nato.int</span><span class="citation-popover-snippet">6.0 PROPAGATION AND ADAPTIVE OPTICSThe primary initial effects of thermal blooming are to bend the laser beam toward the cooler, denser air...</span></span></span>
+* **Thermal [blooming]({{ 'blooming/' | relative_url }}):** the beam heats the air, creating additional refractive distortions that can bend or defocus the laser.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.sto.nato.int/publications/STO%20Educational%20Notes/STO-EN-SCI-340/EN-SCI-340-06.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.sto.nato.int">[publications.sto.nato.int+2rp-photonics.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.sto.nato.int</span><span class="citation-popover-snippet">6.0 PROPAGATION AND ADAPTIVE OPTICSThe primary initial effects of thermal blooming are to bend the laser beam toward the cooler, denser air...</span></span></span>
 
-These effects become more severe as range increases because the beam passes through more disturbed air. A laser that appears tightly focused near its source may arrive at long range as a much larger, less damaging spot. Studies of high-energy laser propagation consistently identify turbulence, scattering, absorption and thermal effects as major factors limiting energy delivery to the target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2073-4433/12/7/918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2Naval Postgraduate School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Laser Beam Atmospheric Propagation Modelling for...by T Fahey · 2021 · Cited by 108 — The underlying causes of laser beam attenuatio...</span></span></span>
+These effects become more severe as range increases because the beam passes through more disturbed air. A laser that appears tightly focused near its source may arrive at long range as a much larger, less damaging spot. Studies of high-energy laser propagation consistently identify turbulence, scattering, absorption and thermal effects as major factors limiting energy delivery to the target.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2073-4433/12/7/918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2Naval Postgraduate School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Laser Beam Atmospheric Propagation Modelling for...by T Fahey · 2021 · Cited by 108 — The underlying causes of laser beam attenuatio...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ck9dn36ykk4" title="What is Adaptive Optics?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ck9dn36ykk4" target="_blank" rel="noopener noreferrer">What is Adaptive Optics?</a></p><p class="youtube-embed-meta">Channel: UCLA Galactic Center Group</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ck9dn36ykk4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ck9dn36ykk4">Open on YouTube</a></p></div></div></div>
@@ -300,7 +300,7 @@ These effects become more severe as range increases because the beam passes thro
 
 ## What Adaptive Optics Correct During Propagation
 
-Adaptive optics attempts to reverse atmospheric damage before it reaches the target. The core idea is straightforward: if the atmosphere will distort the beam in a known way, the optical system can deliberately pre-distort the outgoing beam in the opposite way so that the distortions cancel during flight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://spie.org/news/0443-novel-scheme-for-enhancing-beam-control-in-adaptive-optics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spie.org">[spie.org+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spie.org</span><span class="citation-popover-snippet">Open source on spie.org.</span></span></span>
+Adaptive optics attempts to reverse atmospheric damage before it reaches the target. The core idea is straightforward: if the atmosphere will distort the beam in a known way, the optical system can deliberately pre-distort the outgoing beam in the opposite way so that the distortions cancel during flight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://spie.org/news/0443-novel-scheme-for-enhancing-beam-control-in-adaptive-optics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spie.org">[spie.org+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spie.org</span><span class="citation-popover-snippet">Open source on spie.org.</span></span></span>
 
 A typical adaptive-optics system contains three key elements:
 
@@ -353,194 +353,194 @@ Adaptive optics does not remove the atmosphere from the engagement equation, but
 The critical caveat is that adaptive optics addresses distortion, not every source of loss. Heavy weather, strong scattering, absorption, thermal blooming and extreme ranges continue to degrade performance. For directed-energy weapons, adaptive optics is therefore best understood not as a cure for atmospheric propagation problems but as a sophisticated compensation tool that allows laser systems to operate much closer to their theoretical potential under real-world conditions. [MDPI+2publications.sto.nato.int](https://www.mdpi.com/2073-4433/12/7/918)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Lasers Beat Turbulent Air?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Lasers Beat Turbulent Air?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Principles+of+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Principles of adaptive optics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1100610-M.jpg" alt="Cover for Principles of adaptive optics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Principles+of+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Principles of adaptive optics">Principles of adaptive optics</a>
-        </h4>
-        <p class="fr-book-author">By Robert K. Tyson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Principles+of+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Principles of adaptive optics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1100610-M.jpg" alt="Cover for Principles of adaptive optics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Principles+of+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Principles of adaptive optics">Principles of adaptive optics</a>
+</h4>
+<p class="fr-book-author">By Robert K. Tyson</p>
         
-        <p class="fr-book-desc">First published 1991. Subjects: Adaptive Optics, Optics, Adaptive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Principles+of+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1991. Subjects: Adaptive Optics, Optics, Adaptive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Principles+of+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
-        </h4>
-        <p class="fr-book-author">By Bahman Zohuri</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
+</h4>
+<p class="fr-book-author">By Bahman Zohuri</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to adaptive optics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8312561-M.jpg" alt="Cover for Introduction to adaptive optics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to adaptive optics">Introduction to adaptive optics</a>
-        </h4>
-        <p class="fr-book-author">By Robert K. Tyson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to adaptive optics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8312561-M.jpg" alt="Cover for Introduction to adaptive optics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to adaptive optics">Introduction to adaptive optics</a>
+</h4>
+<p class="fr-book-author">By Robert K. Tyson</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Adaptive Optics, Optical detectors, Optical instruments, Optical measurements, Optics, Adaptive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Adaptive Optics, Optical detectors, Optical instruments, Optical measurements, Optics, Adaptive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Lasers+and+Masers+Anthony+E.+Siegman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Lasers and Masers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12484987-M.jpg" alt="Cover for Introduction to Lasers and Masers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Lasers+and+Masers+Anthony+E.+Siegman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Lasers and Masers">Introduction to Lasers and Masers</a>
-        </h4>
-        <p class="fr-book-author">By Anthony E. Siegman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Lasers+and+Masers+Anthony+E.+Siegman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Lasers and Masers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12484987-M.jpg" alt="Cover for Introduction to Lasers and Masers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Lasers+and+Masers+Anthony+E.+Siegman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Lasers and Masers">Introduction to Lasers and Masers</a>
+</h4>
+<p class="fr-book-author">By Anthony E. Siegman</p>
         
-        <p class="fr-book-desc">First published 1971. Subjects: Lasers, Masers, Laser, Maser, 33.38 modern optics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Lasers+and+Masers+Anthony+E.+Siegman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1971. Subjects: Lasers, Masers, Laser, Maser, 33.38 modern optics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Lasers+and+Masers+Anthony+E.+Siegman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Principles+of+adaptive+optics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Principles of adaptive optics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed Energy Weapons</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+adaptive+optics+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to adaptive optics books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Principles+of+adaptive+optics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Principles of adaptive optics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed Energy Weapons</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+adaptive+optics+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to adaptive optics books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sukhoi Su-35 Flanker-E Air Defence Fighter Blueprint Framed Wall Art Print 18X24"><img src="{{ '/assets/images/marketplace-covers/2433664d4e5a7808bdf5.jpg' | relative_url }}" alt="Listing image for Sukhoi Su-35 Flanker-E Air Defence Fighter Blueprint Framed Wall Art Print 18X24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer">Sukhoi Su-35 Flanker-E Air Defence Fighter Blueprint Framed Wall Art Print 18X24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sukhoi Su-35 Flanker-E Air Defence Fighter Blueprint Framed Wall Art Print 18X24"><img src="{{ '/assets/images/marketplace-covers/2433664d4e5a7808bdf5.jpg' | relative_url }}" alt="Listing image for Sukhoi Su-35 Flanker-E Air Defence Fighter Blueprint Framed Wall Art Print 18X24" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer">Sukhoi Su-35 Flanker-E Air Defence Fighter Blueprint Framed Wall Art Print 18X24</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Soviet Poster Weapon Aviation Air Defense army Pilot MIG Jet Fighter"><img src="{{ '/assets/images/marketplace-covers/5f0575b8dfa6d4a6ee38.jpg' | relative_url }}" alt="Listing image for Original Soviet Poster Weapon Aviation Air Defense army Pilot MIG Jet Fighter" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer">Original Soviet Poster Weapon Aviation Air Defense army Pilot MIG Jet Fighter</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Soviet Poster Weapon Aviation Air Defense army Pilot MIG Jet Fighter"><img src="{{ '/assets/images/marketplace-covers/5f0575b8dfa6d4a6ee38.jpg' | relative_url }}" alt="Listing image for Original Soviet Poster Weapon Aviation Air Defense army Pilot MIG Jet Fighter" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer">Original Soviet Poster Weapon Aviation Air Defense army Pilot MIG Jet Fighter</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 PROPOGANDA POSTER - CIVIL DEFENCE AIR RAID BARRAGE BALLOONS"><img src="{{ '/assets/images/marketplace-covers/bd7139ab35ba3fc280c2.jpg' | relative_url }}" alt="Listing image for WW2 PROPOGANDA POSTER - CIVIL DEFENCE AIR RAID BARRAGE BALLOONS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer">WW2 PROPOGANDA POSTER - CIVIL DEFENCE AIR RAID BARRAGE BALLOONS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 PROPOGANDA POSTER - CIVIL DEFENCE AIR RAID BARRAGE BALLOONS"><img src="{{ '/assets/images/marketplace-covers/bd7139ab35ba3fc280c2.jpg' | relative_url }}" alt="Listing image for WW2 PROPOGANDA POSTER - CIVIL DEFENCE AIR RAID BARRAGE BALLOONS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer">WW2 PROPOGANDA POSTER - CIVIL DEFENCE AIR RAID BARRAGE BALLOONS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2W8 Vintage WWII Civil Air Patrol War Defence Military War Poster WW2 A4"><img src="{{ '/assets/images/marketplace-covers/69cd23fbf489abd97e4d.jpg' | relative_url }}" alt="Listing image for 2W8 Vintage WWII Civil Air Patrol War Defence Military War Poster WW2 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer">2W8 Vintage WWII Civil Air Patrol War Defence Military War Poster WW2 A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2W8 Vintage WWII Civil Air Patrol War Defence Military War Poster WW2 A4"><img src="{{ '/assets/images/marketplace-covers/69cd23fbf489abd97e4d.jpg' | relative_url }}" alt="Listing image for 2W8 Vintage WWII Civil Air Patrol War Defence Military War Poster WW2 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer">2W8 Vintage WWII Civil Air Patrol War Defence Military War Poster WW2 A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="adaptive-optics-can-lasers-beat-turbulent-air-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -556,7 +556,7 @@ The critical caveat is that adaptive optics addresses distortion, not every sour
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -576,7 +576,7 @@ The critical caveat is that adaptive optics addresses distortion, not every sour
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -608,7 +608,7 @@ The critical caveat is that adaptive optics addresses distortion, not every sour
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -660,7 +660,7 @@ The critical caveat is that adaptive optics addresses distortion, not every sour
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -705,7 +705,7 @@ The critical caveat is that adaptive optics addresses distortion, not every sour
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -746,161 +746,161 @@ The critical caveat is that adaptive optics addresses distortion, not every sour
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arc.aiaa.org  
-   Link: <a href="https://arc.aiaa.org/doi/10.2514/1.J061766" target="_blank" rel="noopener noreferrer nofollow">https://arc.aiaa.org/doi/10.2514/1.J061766</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AIAA ArcAdaptive Optics for Directed Energy: Fundamentals and...by RB Holmes · 2022 · Cited by 28 — Adaptive optics are beneficial for d...</p></details>
+   Link:<a href="https://arc.aiaa.org/doi/10.2514/1.J061766" target="_blank" rel="noopener noreferrer nofollow">https://arc.aiaa.org/doi/10.2514/1.J061766</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AIAA ArcAdaptive Optics for Directed Energy: Fundamentals and...by RB Holmes · 2022 · Cited by 28 — Adaptive optics are beneficial for d...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
    Title: 361926577 Adaptive Optics for Directed Energy Fundamentals and Methodology  
-   Link: <a href="https://www.researchgate.net/publication/361926577_Adaptive_Optics_for_Directed_Energy_Fundamentals_and_Methodology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/361926577_Adaptive_Optics_for_Directed_Energy_Fundamentals_and_Methodology</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Adaptive Optics for Directed Energy: Fundamentals and...7 Jul 2022 — Adaptive optics and related wavefront correction techno...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/361926577_Adaptive_Optics_for_Directed_Energy_Fundamentals_and_Methodology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/361926577_Adaptive_Optics_for_Directed_Energy_Fundamentals_and_Methodology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Adaptive Optics for Directed Energy: Fundamentals and...7 Jul 2022 — Adaptive optics and related wavefront correction techno...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: opg.optica.org  
-   Link: <a href="https://opg.optica.org/abstract.cfm?URI=ao-54-31-F201" target="_blank" rel="noopener noreferrer nofollow">https://opg.optica.org/abstract.cfm?URI=ao-54-31-F201</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Therefore, while adaptive-optics techniques can enhance propagation...Read more...</p></details>
+   Link:<a href="https://opg.optica.org/abstract.cfm?URI=ao-54-31-F201" target="_blank" rel="noopener noreferrer nofollow">https://opg.optica.org/abstract.cfm?URI=ao-54-31-F201</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Therefore, while adaptive-optics techniques can enhance propagation...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: skoge.folk.ntnu.no  
-   Link: <a href="https://skoge.folk.ntnu.no/prost/proceedings/acc04/Papers/0565_ThM18.1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skoge.folk.ntnu.no/prost/proceedings/acc04/Papers/0565_ThM18.1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>on to recently developed simulations of high energy laser propagation through extended turbulence.Read more...</p></details>
+   Link:<a href="https://skoge.folk.ntnu.no/prost/proceedings/acc04/Papers/0565_ThM18.1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skoge.folk.ntnu.no/prost/proceedings/acc04/Papers/0565_ThM18.1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on to recently developed simulations of high energy laser propagation through extended turbulence.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: publications.sto.nato.int  
-   Link: <a href="https://publications.sto.nato.int/publications/STO%20Educational%20Notes/STO-EN-SCI-340/EN-SCI-340-06.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.sto.nato.int/publications/STO%20Educational%20Notes/STO-EN-SCI-340/EN-SCI-340-06.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>6.0 PROPAGATION AND ADAPTIVE OPTICSThe primary initial effects of thermal blooming are to bend the laser beam toward the cooler, denser air...</p></details>
+   Link:<a href="https://publications.sto.nato.int/publications/STO%20Educational%20Notes/STO-EN-SCI-340/EN-SCI-340-06.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.sto.nato.int/publications/STO%20Educational%20Notes/STO-EN-SCI-340/EN-SCI-340-06.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6.0 PROPAGATION AND ADAPTIVE OPTICSThe primary initial effects of thermal blooming are to bend the laser beam toward the cooler, denser air...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: rp-photonics.com  
-   Link: <a href="https://www.rp-photonics.com/thermal_blooming.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rp-photonics.com/thermal_blooming.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Thermal Bloomingby R Paschotta · 2023 — Thermal blooming is a physical phenomenon associated with the propagation of high-power laser bea...</p></details>
+   Link:<a href="https://www.rp-photonics.com/thermal_blooming.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rp-photonics.com/thermal_blooming.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thermal Bloomingby R Paschotta · 2023 — Thermal blooming is a physical phenomenon associated with the propagation of high-power laser bea...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2073-4433/12/7/918" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2073-4433/12/7/918</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Beam Atmospheric Propagation Modelling for...by T Fahey · 2021 · Cited by 108 — The underlying causes of laser beam attenuatio...</p></details>
+   Link:<a href="https://www.mdpi.com/2073-4433/12/7/918" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2073-4433/12/7/918</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Beam Atmospheric Propagation Modelling for...by T Fahey · 2021 · Cited by 108 — The underlying causes of laser beam attenuatio...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: spie.org  
-   Link: <a href="https://spie.org/news/0443-novel-scheme-for-enhancing-beam-control-in-adaptive-optics" target="_blank" rel="noopener noreferrer nofollow">https://spie.org/news/0443-novel-scheme-for-enhancing-beam-control-in-adaptive-optics</a>  
+   Link:<a href="https://spie.org/news/0443-novel-scheme-for-enhancing-beam-control-in-adaptive-optics" target="_blank" rel="noopener noreferrer nofollow">https://spie.org/news/0443-novel-scheme-for-enhancing-beam-control-in-adaptive-optics</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: mza.com  
-   Link: <a href="https://www.mza.com/doc/misc/2018_01L_MZA_Capabilities_Dist_A.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mza.com/doc/misc/2018_01L_MZA_Capabilities_Dist_A.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Detailed Capabilities OverviewWhat Does Adaptive Optics do for. High Energy Laser Weapons Systems?... Atmospheric Effect. Wavefront. Tel...</p></details>
+   Link:<a href="https://www.mza.com/doc/misc/2018_01L_MZA_Capabilities_Dist_A.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mza.com/doc/misc/2018_01L_MZA_Capabilities_Dist_A.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Detailed Capabilities OverviewWhat Does Adaptive Optics do for. High Energy Laser Weapons Systems?... Atmospheric Effect. Wavefront. Tel...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: patents.google.com  
-   Link: <a href="https://patents.google.com/patent/US8218589B1/en" target="_blank" rel="noopener noreferrer nofollow">https://patents.google.com/patent/US8218589B1/en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FIG. 1...Read more...</p></details>
+   Link:<a href="https://patents.google.com/patent/US8218589B1/en" target="_blank" rel="noopener noreferrer nofollow">https://patents.google.com/patent/US8218589B1/en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FIG. 1...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: scienceandglobalsecurity.org  
-   Link: <a href="https://scienceandglobalsecurity.org/archive/sgs18stupl.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scienceandglobalsecurity.org/archive/sgs18stupl.pdf</a>  
+   Link:<a href="https://scienceandglobalsecurity.org/archive/sgs18stupl.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scienceandglobalsecurity.org/archive/sgs18stupl.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/307435846_Atmospheric_Propagation_of_High-Energy_Laser_Beams" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/307435846_Atmospheric_Propagation_of_High-Energy_Laser_Beams</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Atmospheric Propagation of High-Energy Laser BeamsIn summary, adaptive optics provides the means to maintain beam quali...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/307435846_Atmospheric_Propagation_of_High-Energy_Laser_Beams" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/307435846_Atmospheric_Propagation_of_High-Energy_Laser_Beams</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Atmospheric Propagation of High-Energy Laser BeamsIn summary, adaptive optics provides the means to maintain beam quali...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: archive.ll.mit.edu  
-   Link: <a href="https://archive.ll.mit.edu/publications/journal/pdf/vol11_no1/11_1atmosphericcompen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.ll.mit.edu/publications/journal/pdf/vol11_no1/11_1atmosphericcompen.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric Compensation and Tracking Using Active...July 7, 2005 — by C Higgs · 1998 · Cited by 25 — Airborne laser (ABL) illuminator g...</p></details>
+   Link:<a href="https://archive.ll.mit.edu/publications/journal/pdf/vol11_no1/11_1atmosphericcompen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.ll.mit.edu/publications/journal/pdf/vol11_no1/11_1atmosphericcompen.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric Compensation and Tracking Using Active...July 7, 2005 — by C Higgs · 1998 · Cited by 25 — Airborne laser (ABL) illuminator g...</p></details>
    Published: July 7, 2005  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: spie.org  
-   Link: <a href="https://spie.org/Publications/Proceedings/Volume/3381" target="_blank" rel="noopener noreferrer nofollow">https://spie.org/Publications/Proceedings/Volume/3381</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>illuminator configurations, as...Read more...</p></details>
+   Link:<a href="https://spie.org/Publications/Proceedings/Volume/3381" target="_blank" rel="noopener noreferrer nofollow">https://spie.org/Publications/Proceedings/Volume/3381</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>illuminator configurations, as...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: navysbir.us  
-   Link: <a href="https://navysbir.us/n13_1/N131-076.htm" target="_blank" rel="noopener noreferrer nofollow">https://navysbir.us/n13_1/N131-076.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy SBIRAdvanced Adaptive Optics (AO) for Laser Weapons in...OBJECTIVE: Develop a beaconless adaptive optic system capable of correctin...</p></details>
+   Link:<a href="https://navysbir.us/n13_1/N131-076.htm" target="_blank" rel="noopener noreferrer nofollow">https://navysbir.us/n13_1/N131-076.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy SBIRAdvanced Adaptive Optics (AO) for Laser Weapons in...OBJECTIVE: Develop a beaconless adaptive optic system capable of correctin...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
    Title: The impact of turbulence fluctuations on the a deformable mirror (  
-   Link: <a href="https://www.researchgate.net/figure/An-instability-in-thermal-blooming-with-adaptive-optics_fig9_307435846" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/An-instability-in-thermal-blooming-with-adaptive-optics_fig9_307435846</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>20 An instability in thermal blooming with adaptive opticsAdaptive Optical System for Atmospheric Turbulence Simulation, and...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/An-instability-in-thermal-blooming-with-adaptive-optics_fig9_307435846" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/An-instability-in-thermal-blooming-with-adaptive-optics_fig9_307435846</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>20 An instability in thermal blooming with adaptive opticsAdaptive Optical System for Atmospheric Turbulence Simulation, and...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dspace.mit.edu  
    Title: 31359954 MIT  
-   Link: <a href="https://dspace.mit.edu/bitstream/handle/1721.1/35978/31359954-MIT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dspace.mit.edu/bitstream/handle/1721.1/35978/31359954-MIT.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This research focuses on the design of beam control systems for high-energy [lasers](&amp;#123;&amp;#123; &#x27;lasers/&#x27; | relative_url &amp;#125;&amp;#125;). Read more...</p></details>
+   Link:<a href="https://dspace.mit.edu/bitstream/handle/1721.1/35978/31359954-MIT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dspace.mit.edu/bitstream/handle/1721.1/35978/31359954-MIT.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This research focuses on the design of beam control systems for high-energy [lasers](&amp;#123;&amp;#123; &#x27;lasers/&#x27; | relative_url &amp;#125;&amp;#125;). Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: onr.navy.mil  
-   Link: <a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-uspl-and-atmospheric-characterization" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-uspl-and-atmospheric-characterization</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>navy.milUltra-Short Pulse Laser and Atmospheric CharacterizationDirected energy weapons (DEWs) are defined as electromagnetic systems cap...</p></details>
+   Link:<a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-uspl-and-atmospheric-characterization" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-uspl-and-atmospheric-characterization</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>navy.milUltra-Short Pulse Laser and Atmospheric CharacterizationDirected energy weapons (DEWs) are defined as electromagnetic systems cap...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nps.edu  
-   Link: <a href="https://nps.edu/web/research/-/propagation-of-high-energy-lasers-for-various-wavelengths-power-levels-and-atmospheric-conditions-2018" target="_blank" rel="noopener noreferrer nofollow">https://nps.edu/web/research/-/propagation-of-high-energy-lasers-for-various-wavelengths-power-levels-and-atmospheric-conditions-2018</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Propagation of High Energy Lasers for Various...HEL performance is strongly affected by various atmospheric effects, including absorptio...</p></details>
+   Link:<a href="https://nps.edu/web/research/-/propagation-of-high-energy-lasers-for-various-wavelengths-power-levels-and-atmospheric-conditions-2018" target="_blank" rel="noopener noreferrer nofollow">https://nps.edu/web/research/-/propagation-of-high-energy-lasers-for-various-wavelengths-power-levels-and-atmospheric-conditions-2018</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Propagation of High Energy Lasers for Various...HEL performance is strongly affected by various atmospheric effects, including absorptio...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Laser" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Laser</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LaserA laser is a device that emits light through a process of optical amplification based on the stimulated emission of electromagnet...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Laser" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Laser</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LaserA laser is a device that emits light through a process of optical amplification based on the stimulated emission of electromagnet...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: billotto.atwebpages.com  
    Title: Adaptive Optics  
-   Link: <a href="https://billotto.atwebpages.com/AdaptiveOptics.htm" target="_blank" rel="noopener noreferrer nofollow">https://billotto.atwebpages.com/AdaptiveOptics.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History of Adaptive OpticsAdaptive optics can clear up atmospheric turbulence allowing ground-based telescopes caused thermal lensing. Th...</p></details>
+   Link:<a href="https://billotto.atwebpages.com/AdaptiveOptics.htm" target="_blank" rel="noopener noreferrer nofollow">https://billotto.atwebpages.com/AdaptiveOptics.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History of Adaptive OpticsAdaptive optics can clear up atmospheric turbulence allowing ground-based telescopes caused thermal lensing. Th...</p></details>
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: lockheedmartin.com  
-   Link: <a href="https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy | Lockheed MartinExperience the potential of our laser weapons and directed energy weapon technologies, providing afforda...</p></details>
+   Link:<a href="https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy | Lockheed MartinExperience the potential of our laser weapons and directed energy weapon technologies, providing afforda...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/high" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/high</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HIGH Definition &amp; Meaning5 days ago — high, tall, lofty mean above the average in height. high implies marked extension upward and is app...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/high" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/high</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HIGH Definition &amp; Meaning5 days ago — high, tall, lofty mean above the average in height. high implies marked extension upward and is app...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: imagine-optic.com  
-   Link: <a href="https://www.imagine-optic.com/markets/adaptive-optics-and-wavefront-sensing-for-astronomy-defense-and-space/" target="_blank" rel="noopener noreferrer nofollow">https://www.imagine-optic.com/markets/adaptive-optics-and-wavefront-sensing-for-astronomy-defense-and-space/</a>  
+   Link:<a href="https://www.imagine-optic.com/markets/adaptive-optics-and-wavefront-sensing-for-astronomy-defense-and-space/" target="_blank" rel="noopener noreferrer nofollow">https://www.imagine-optic.com/markets/adaptive-optics-and-wavefront-sensing-for-astronomy-defense-and-space/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4su_1J2_w1o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4su_1J2_w1o</a>  
+   Link:<a href="https://www.youtube.com/watch?v=4su_1J2_w1o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4su_1J2_w1o</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: deps.org  
-   Link: <a href="https://www.deps.org/DEPSpages/DEsymp06ShortCourse.html" target="_blank" rel="noopener noreferrer nofollow">https://www.deps.org/DEPSpages/DEsymp06ShortCourse.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DEPS Short CoursesThis course provides a general overview of directed energy weapons, including high energy laser (HEL) and high power mi...</p></details>
+   Link:<a href="https://www.deps.org/DEPSpages/DEsymp06ShortCourse.html" target="_blank" rel="noopener noreferrer nofollow">https://www.deps.org/DEPSpages/DEsymp06ShortCourse.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DEPS Short CoursesThis course provides a general overview of directed energy weapons, including high energy laser (HEL) and high power mi...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: ndupress.ndu.edu  
    Title: directed energy weapons are real and disruptive  
-   Link: <a href="https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2053280/directed-energy-weapons-are-real-and-disruptive/" target="_blank" rel="noopener noreferrer nofollow">https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2053280/directed-energy-weapons-are-real-and-disruptive/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Energy Weapons Are Real... And Disruptive9 Jan 2020 — A DE weapon is a system using DE primarily as a direct means to disable, damage...</p></details>
+   Link:<a href="https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2053280/directed-energy-weapons-are-real-and-disruptive/" target="_blank" rel="noopener noreferrer nofollow">https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2053280/directed-energy-weapons-are-real-and-disruptive/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Energy Weapons Are Real... And Disruptive9 Jan 2020 — A DE weapon is a system using DE primarily as a direct means to disable, damage...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: inss.ndu.edu  
    Title: laser focusing defense capabilities  
-   Link: <a href="https://inss.ndu.edu/news/Article/4412653/laser-focusing-defense-capabilities/" target="_blank" rel="noopener noreferrer nofollow">https://inss.ndu.edu/news/Article/4412653/laser-focusing-defense-capabilities/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ndu.eduLaser-focusing Defense CapabilitiesHigh-energy laser systems could also potentially incur thermal damage to vulnerable satellite c...</p></details>
+   Link:<a href="https://inss.ndu.edu/news/Article/4412653/laser-focusing-defense-capabilities/" target="_blank" rel="noopener noreferrer nofollow">https://inss.ndu.edu/news/Article/4412653/laser-focusing-defense-capabilities/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ndu.eduLaser-focusing Defense CapabilitiesHigh-energy laser systems could also potentially incur thermal damage to vulnerable satellite c...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: amostech.com  
-   Link: <a href="https://amostech.com/TechnicalPapers/2017/Adaptive-Optics_Imaging/Bennet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://amostech.com/TechnicalPapers/2017/Adaptive-Optics_Imaging/Bennet.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AMOS ConferenceHigh-Altitude airborne platform characterisation of adaptive...by F Bennet · 2017 — An AO system measures and corrects fo...</p></details>
+   Link:<a href="https://amostech.com/TechnicalPapers/2017/Adaptive-Optics_Imaging/Bennet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://amostech.com/TechnicalPapers/2017/Adaptive-Optics_Imaging/Bennet.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AMOS ConferenceHigh-Altitude airborne platform characterisation of adaptive...by F Bennet · 2017 — An AO system measures and corrects fo...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: rafael.co.il  
-   Link: <a href="https://www.rafael.co.il/blog/bending-light-back-into-shape-adaptive-optics-for-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow">https://www.rafael.co.il/blog/bending-light-back-into-shape-adaptive-optics-for-high-energy-lasers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Overcoming Turbulence: Adaptive Optics for High-Energy...28 Feb 2026 — Recent developments have shown that CBC-based adaptive optics rep...</p></details>
+   Link:<a href="https://www.rafael.co.il/blog/bending-light-back-into-shape-adaptive-optics-for-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow">https://www.rafael.co.il/blog/bending-light-back-into-shape-adaptive-optics-for-high-energy-lasers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Overcoming Turbulence: Adaptive Optics for High-Energy...28 Feb 2026 — Recent developments have shown that CBC-based adaptive optics rep...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: corteva.com  
-   Link: <a href="https://www.corteva.com/tr/urunler/bitki-koruma/insektisit/laser.html" target="_blank" rel="noopener noreferrer nofollow">https://www.corteva.com/tr/urunler/bitki-koruma/insektisit/laser.html</a>  
+   Link:<a href="https://www.corteva.com/tr/urunler/bitki-koruma/insektisit/laser.html" target="_blank" rel="noopener noreferrer nofollow">https://www.corteva.com/tr/urunler/bitki-koruma/insektisit/laser.html</a>  

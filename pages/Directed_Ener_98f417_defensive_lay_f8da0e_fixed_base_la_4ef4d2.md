@@ -294,7 +294,7 @@ image: /assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_fixed_base_la_4e
 
 ## Introduction
 
-High-energy lasers are often discussed as [battlefield]({{ 'battle-limits/' | relative_url }}) weapons, but many of the most practical deployments have emerged first around fixed or semi-fixed sites rather than highly mobile combat formations. The reason is straightforward: a laser is not just a beam. It is a complete system that depends on electrical power, thermal management, sensors, tracking equipment and [maintenance]({{ 'maintenance/' | relative_url }}) support. Bases, ports and large ships can provide these requirements more easily than vehicles operating across rough terrain. As a result, many military programmes have focused first on defending fixed assets against drones, rockets and other aerial threats before attempting to field comparable capabilities on manoeuvre platforms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.gao.gov/reports/GAO-25-107491/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.gao.gov">[GAO Files+2NATO Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.gao.gov</span><span class="citation-popover-snippet">GAO FilesAir and Missile Defense Efforts Would Benefit from...17 Jun 2025 — Like IFPC Increment 2, IFPC-HEL is designed to detect, track...</span></span></span>
+High-energy lasers are often discussed as [battlefield]({{ 'battle-limits/' | relative_url }}) weapons, but many of the most practical deployments have emerged first around fixed or semi-fixed sites rather than highly mobile combat formations. The reason is straightforward: a laser is not just a beam. It is a complete system that depends on electrical power, thermal management, sensors, tracking equipment and [maintenance]({{ 'maintenance/' | relative_url }}) support. Bases, ports and large ships can provide these requirements more easily than vehicles operating across rough terrain. As a result, many military programmes have focused first on defending fixed assets against drones, rockets and other aerial threats before attempting to field comparable capabilities on manoeuvre platforms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.gao.gov/reports/GAO-25-107491/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.gao.gov">[GAO Files+2NATO Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.gao.gov</span><span class="citation-popover-snippet">GAO FilesAir and Missile Defense Efforts Would Benefit from...17 Jun 2025 — Like IFPC Increment 2, IFPC-HEL is designed to detect, track...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_fixed_base_la_4ef4d2-Illustration-1-dark.svg" | relative_url }}" alt="Base Defence illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_fixed_base_la_4ef4d2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_fixed_base_la_4ef4d2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -302,26 +302,26 @@ Within a layered air-defence architecture, this distinction matters. The questio
 
 ## What Fixed Sites Can Provide That Vehicles Cannot
 
-The strongest advantage of a fixed site is access to infrastructure. A defended base can draw electrical power from generators, fuel supplies or local grids. It can support larger cooling systems, spare parts inventories and dedicated maintenance personnel. A mobile combat vehicle must carry these resources with it, competing for space and weight with armour, ammunition, communications equipment and crew requirements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/RTO-MP-AVT-108/MP-AVT-108-58.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.sto.nato.int">[NATO Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.sto.nato.int</span><span class="citation-popover-snippet">NATO PublicationsHigh-Energy Laser Weapon Integration with Ground Vehiclesby M Hafften · Cited by 14 — There are several critical SSL wea...</span></span></span>
+The strongest advantage of a fixed site is access to infrastructure. A defended base can draw electrical power from generators, fuel supplies or local grids. It can support larger cooling systems, spare parts inventories and dedicated maintenance personnel. A mobile combat vehicle must carry these resources with it, competing for space and weight with armour, ammunition, communications equipment and crew requirements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/RTO-MP-AVT-108/MP-AVT-108-58.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.sto.nato.int">[NATO Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.sto.nato.int</span><span class="citation-popover-snippet">NATO PublicationsHigh-Energy Laser Weapon Integration with Ground Vehiclesby M Hafften · Cited by 14 — There are several critical SSL wea...</span></span></span>
 
-Power and cooling are particularly important because lasers convert only part of their input energy into the outgoing beam. The remaining energy becomes heat that must be removed. NATO research on ground-vehicle laser integration identified power supply and thermal management as critical challenges for mobile platforms. A vehicle-sized system may have enough energy for limited engagements, but sustained operations require significant thermal capacity and electrical [generation]({{ 'generation-ii/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/RTO-MP-AVT-108/MP-AVT-108-58.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.sto.nato.int">[NATO Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.sto.nato.int</span><span class="citation-popover-snippet">NATO PublicationsHigh-Energy Laser Weapon Integration with Ground Vehiclesby M Hafften · Cited by 14 — There are several critical SSL wea...</span></span></span>
+Power and cooling are particularly important because lasers convert only part of their input energy into the outgoing beam. The remaining energy becomes heat that must be removed. NATO research on ground-vehicle laser integration identified power supply and thermal management as critical challenges for mobile platforms. A vehicle-sized system may have enough energy for limited engagements, but sustained operations require significant thermal capacity and electrical [generation]({{ 'generation-ii/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/RTO-MP-AVT-108/MP-AVT-108-58.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.sto.nato.int">[NATO Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.sto.nato.int</span><span class="citation-popover-snippet">NATO PublicationsHigh-Energy Laser Weapon Integration with Ground Vehiclesby M Hafften · Cited by 14 — There are several critical SSL wea...</span></span></span>
 
-Fixed sites also benefit from better sensor integration. Air-defence lasers depend on accurate detection, identification and tracking. Bases can connect lasers to larger radar networks, command centres and surveillance systems, improving target acquisition and engagement quality. This broader support infrastructure can be as important as the laser itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.gao.gov/reports/GAO-25-107491/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.gao.gov">[GAO Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.gao.gov</span><span class="citation-popover-snippet">GAO FilesAir and Missile Defense Efforts Would Benefit from...17 Jun 2025 — Like IFPC Increment 2, IFPC-HEL is designed to detect, track...</span></span></span>
+Fixed sites also benefit from better sensor integration. Air-defence lasers depend on accurate detection, identification and tracking. Bases can connect lasers to larger radar networks, command centres and surveillance systems, improving target acquisition and engagement quality. This broader support infrastructure can be as important as the laser itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.gao.gov/reports/GAO-25-107491/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.gao.gov">[GAO Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.gao.gov</span><span class="citation-popover-snippet">GAO FilesAir and Missile Defense Efforts Would Benefit from...17 Jun 2025 — Like IFPC Increment 2, IFPC-HEL is designed to detect, track...</span></span></span>
 
-Naval platforms occupy an intermediate position. Large warships possess substantial electrical generation and cooling capacity compared with land vehicles, which is one reason many laser programmes have prioritised shipboard deployment. Even so, integrating high-energy lasers into ships still requires careful management of power distribution and thermal loads. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lockheedmartin.com">[Lockheed Martin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lockheedmartin.com</span><span class="citation-popover-snippet">Lockheed MartinDirected Energy &#124; Lockheed MartinExperience the potential of our laser weapons and directed energy weapon technologies, pr...</span></span></span>
+Naval platforms occupy an intermediate position. Large warships possess substantial electrical generation and cooling capacity compared with land vehicles, which is one reason many laser programmes have prioritised shipboard deployment. Even so, integrating high-energy lasers into ships still requires careful management of power distribution and thermal loads.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lockheedmartin.com">[Lockheed Martin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lockheedmartin.com</span><span class="citation-popover-snippet">Lockheed MartinDirected Energy &#124; Lockheed MartinExperience the potential of our laser weapons and directed energy weapon technologies, pr...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YQs5dcIu6UQ" title="EU Unites Behind Mobile Laser Weapons to Counter Drone and Missile Threats" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YQs5dcIu6UQ" target="_blank" rel="noopener noreferrer">EU Unites Behind Mobile Laser Weapons to Counter Drone and Missile Threats</a></p><p class="youtube-embed-meta">Channel: TECHNO THUNDER</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YQs5dcIu6UQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YQs5dcIu6UQ">Open on YouTube</a></p></div></div></div>
 
 ## How IFPC-Style Defence Changes the Role of Beams
 
-The US Army's Indirect Fire Protection Capability (IFPC) illustrates why fixed-site defence has become a leading directed-energy mission. Rather than replacing conventional interceptors, IFPC aims to defend important fixed and semi-fixed assets against a variety of aerial threats. Directed-energy [variants]({{ 'variants/' | relative_url }}) are being developed specifically to protect such locations from drones and other airborne targets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.gao.gov/reports/GAO-25-107491/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.gao.gov">[GAO Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.gao.gov</span><span class="citation-popover-snippet">GAO FilesAir and Missile Defense Efforts Would Benefit from...17 Jun 2025 — Like IFPC Increment 2, IFPC-HEL is designed to detect, track...</span></span></span>
+The US Army's Indirect Fire Protection Capability (IFPC) illustrates why fixed-site defence has become a leading directed-energy mission. Rather than replacing conventional interceptors, IFPC aims to defend important fixed and semi-fixed assets against a variety of aerial threats. Directed-energy [variants]({{ 'variants/' | relative_url }}) are being developed specifically to protect such locations from drones and other airborne targets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.gao.gov/reports/GAO-25-107491/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.gao.gov">[GAO Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.gao.gov</span><span class="citation-popover-snippet">GAO FilesAir and Missile Defense Efforts Would Benefit from...17 Jun 2025 — Like IFPC Increment 2, IFPC-HEL is designed to detect, track...</span></span></span>
 
-This mission changes how lasers are used. A manoeuvre force moving continuously across the battlefield may encounter threats from unpredictable directions while dealing with terrain masking, vibration and logistical disruption. A defended base, by contrast, can establish prepared engagement zones, optimise sensor placement and maintain continuous power generation. The laser becomes part of a defensive network rather than a self-contained battlefield weapon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.gao.gov/reports/GAO-25-107491/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.gao.gov">[GAO Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.gao.gov</span><span class="citation-popover-snippet">GAO FilesAir and Missile Defense Efforts Would Benefit from...17 Jun 2025 — Like IFPC Increment 2, IFPC-HEL is designed to detect, track...</span></span></span>
+This mission changes how lasers are used. A manoeuvre force moving continuously across the battlefield may encounter threats from unpredictable directions while dealing with terrain masking, vibration and logistical disruption. A defended base, by contrast, can establish prepared engagement zones, optimise sensor placement and maintain continuous power generation. The laser becomes part of a defensive network rather than a self-contained battlefield weapon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.gao.gov/reports/GAO-25-107491/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.gao.gov">[GAO Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.gao.gov</span><span class="citation-popover-snippet">GAO FilesAir and Missile Defense Efforts Would Benefit from...17 Jun 2025 — Like IFPC Increment 2, IFPC-HEL is designed to detect, track...</span></span></span>
 
-IFPC concepts also highlight another advantage of fixed installations: persistence. Missile interceptors consume finite ammunition stocks. A laser can potentially engage many targets as long as power remains available and thermal limits are managed. This characteristic is particularly attractive against repeated drone attacks, where using expensive interceptors against low-cost aircraft can become economically unsustainable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smdc.army.mil/Portals/38/Documents/Publications/Fact_Sheets/Archived_Fact_Sheets/HEL_TVD.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smdc.army.mil">[Army IMCOM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smdc.army.mil</span><span class="citation-popover-title">IMCOMHEL TVD</span><span class="citation-popover-snippet">Army Space and Missile Defense CommandHigh energy lasers will complement conventional offensive and defensive weapons at a significantly...</span></span></span>
+IFPC concepts also highlight another advantage of fixed installations: persistence. Missile interceptors consume finite ammunition stocks. A laser can potentially engage many targets as long as power remains available and thermal limits are managed. This characteristic is particularly attractive against repeated drone attacks, where using expensive interceptors against low-cost aircraft can become economically unsustainable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smdc.army.mil/Portals/38/Documents/Publications/Fact_Sheets/Archived_Fact_Sheets/HEL_TVD.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smdc.army.mil">[Army IMCOM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smdc.army.mil</span><span class="citation-popover-title">IMCOMHEL TVD</span><span class="citation-popover-snippet">Army Space and Missile Defense CommandHigh energy lasers will complement conventional offensive and defensive weapons at a significantly...</span></span></span>
 
-High-power microwave systems demonstrate a similar trend. Systems such as THOR have been designed around base-defence scenarios where containerised equipment, larger power supplies and broad-area protection against drone swarms are feasible. The architecture resembles an infrastructure-supported defensive asset more than a front-line combat vehicle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/THOR_%28weapon%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">THOR (weapon</span><span class="citation-popover-snippet">THOR (weapon</span></span></span>
+High-power microwave systems demonstrate a similar trend. Systems such as THOR have been designed around base-defence scenarios where containerised equipment, larger power supplies and broad-area protection against drone swarms are feasible. The architecture resembles an infrastructure-supported defensive asset more than a front-line combat vehicle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/THOR_%28weapon%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">THOR (weapon</span><span class="citation-popover-snippet">THOR (weapon</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_fixed_base_la_4ef4d2-Illustration-2-dark.svg" | relative_url }}" alt="Base Defence illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_fixed_base_la_4ef4d2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_fixed_base_la_4ef4d2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -329,13 +329,13 @@ High-power microwave systems demonstrate a similar trend. Systems such as THOR h
 
 Moving a laser from a prepared site onto a battlefield vehicle introduces a series of engineering and operational problems.
 
-First, mobility constrains size and weight. Vehicle-mounted lasers must fit within strict limits while surviving shock, vibration and harsh environmental conditions. Every kilogram devoted to power generation, cooling equipment or optics is unavailable for armour, fuel or other mission systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/RTO-MP-AVT-108/MP-AVT-108-58.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.sto.nato.int">[NATO Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.sto.nato.int</span><span class="citation-popover-snippet">NATO PublicationsHigh-Energy Laser Weapon Integration with Ground Vehiclesby M Hafften · Cited by 14 — There are several critical SSL wea...</span></span></span>
+First, mobility constrains size and weight. Vehicle-mounted lasers must fit within strict limits while surviving shock, vibration and harsh environmental conditions. Every kilogram devoted to power generation, cooling equipment or optics is unavailable for armour, fuel or other mission systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/RTO-MP-AVT-108/MP-AVT-108-58.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.sto.nato.int">[NATO Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.sto.nato.int</span><span class="citation-popover-snippet">NATO PublicationsHigh-Energy Laser Weapon Integration with Ground Vehiclesby M Hafften · Cited by 14 — There are several critical SSL wea...</span></span></span>
 
-Second, battlefield conditions are often less favourable for beam propagation. Dust, smoke, rain, fog and turbulence can degrade laser performance by scattering or distorting energy before it reaches the target. Mobile forces are more likely to operate in exactly these environments. While all laser systems face atmospheric effects, manoeuvre units cannot always choose the most favourable engagement conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://spie.org/news/photonics-focus/marapr-2024/zapping-enemy-targets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spie.org">[SPIE+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spie.org</span><span class="citation-popover-title">zapping enemy targets</span><span class="citation-popover-snippet">Zapping enemy targets: Viable laser weapons remain...1 Mar 2024 — Laser weapons are increasingly harnessing the power of adaptive op...</span></span></span>
+Second, battlefield conditions are often less favourable for beam propagation. Dust, smoke, rain, fog and turbulence can degrade laser performance by scattering or distorting energy before it reaches the target. Mobile forces are more likely to operate in exactly these environments. While all laser systems face atmospheric effects, manoeuvre units cannot always choose the most favourable engagement conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://spie.org/news/photonics-focus/marapr-2024/zapping-enemy-targets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spie.org">[SPIE+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spie.org</span><span class="citation-popover-title">zapping enemy targets</span><span class="citation-popover-snippet">Zapping enemy targets: Viable laser weapons remain...1 Mar 2024 — Laser weapons are increasingly harnessing the power of adaptive op...</span></span></span>
 
-Third, maintenance becomes more difficult. High-energy lasers contain sensitive optical and thermal-management components. Reports examining military deployments have noted that some systems required specialised support and repairs after operational testing, highlighting the challenges of sustaining advanced laser equipment in austere environments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/laser-wars-us-military-laser-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Welcome to the Laser Wars</span><span class="citation-popover-snippet">Arriving overseas in 2022 and actively engaging enemy drones, this marks a significant milestone in laser weapon technology for air defen...</span></span></span>
+Third, maintenance becomes more difficult. High-energy lasers contain sensitive optical and thermal-management components. Reports examining military deployments have noted that some systems required specialised support and repairs after operational testing, highlighting the challenges of sustaining advanced laser equipment in austere environments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/laser-wars-us-military-laser-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Welcome to the Laser Wars</span><span class="citation-popover-snippet">Arriving overseas in 2022 and actively engaging enemy drones, this marks a significant milestone in laser weapon technology for air defen...</span></span></span>
 
-The experience of mobile laser programmes reflects these realities. The Army's Directed Energy Maneuver-Short Range Air Defense (DE M-SHORAD) effort, which mounts lasers on [Stryker]({{ 'stryker/' | relative_url }}) vehicles, has faced delays and platform-related challenges. Such difficulties do not mean mobile lasers are impossible, but they illustrate how much harder it is to deliver reliable battlefield performance compared with defending a prepared site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.laserwars.net/p/army-directed-energy-maneuver-short-range-air-defense-de-m-shorad-problems-gao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laserwars.net">[Laser Wars]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laserwars.net</span><span class="citation-popover-title">Laser Wars The Army&#x27;s Laser Stryker Is in Trouble</span><span class="citation-popover-snippet">Laser WarsThe Army&#x27;s Laser Stryker Is in TroubleJune 20, 2025 — 20 Jun 2025 — The US Army has not only delayed production of its Stryker...</span><span class="citation-popover-meta">Published: June 20, 2025</span></span></span>
+The experience of mobile laser programmes reflects these realities. The Army's Directed Energy Maneuver-Short Range Air Defense (DE M-SHORAD) effort, which mounts lasers on [Stryker]({{ 'stryker/' | relative_url }}) vehicles, has faced delays and platform-related challenges. Such difficulties do not mean mobile lasers are impossible, but they illustrate how much harder it is to deliver reliable battlefield performance compared with defending a prepared site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.laserwars.net/p/army-directed-energy-maneuver-short-range-air-defense-de-m-shorad-problems-gao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laserwars.net">[Laser Wars]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laserwars.net</span><span class="citation-popover-title">Laser Wars The Army&#x27;s Laser Stryker Is in Trouble</span><span class="citation-popover-snippet">Laser WarsThe Army&#x27;s Laser Stryker Is in TroubleJune 20, 2025 — 20 Jun 2025 — The US Army has not only delayed production of its Stryker...</span><span class="citation-popover-meta">Published: June 20, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ohfif5AB97M" title="US Army is ready to field two laser weapon systems 50 Kw and 300 Kw DE-MSHORAD IFPC-HEL in 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ohfif5AB97M" target="_blank" rel="noopener noreferrer">US Army is ready to field two laser weapon systems 50 Kw and 300 Kw DE-MSHORAD IFPC-HEL in 2022</a></p><p class="youtube-embed-meta">Channel: DefenseWebTV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ohfif5AB97M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ohfif5AB97M">Open on YouTube</a></p></div></div></div>
@@ -344,7 +344,7 @@ The experience of mobile laser programmes reflects these realities. The Army's D
 
 The development history of directed-energy air defence shows a consistent pattern. Programmes frequently begin with fixed, semi-fixed or large-platform deployments and only later attempt integration onto highly mobile vehicles.
 
-Early operational concepts focused on protecting bases and critical infrastructure because these environments could support the substantial power and cooling demands of laser systems. More recent efforts continue this trend. The Army's directed-energy IFPC variants target fixed and semi-fixed assets, while several containerised and shipboard concepts emphasise infrastructure-supported defence rather than continuous manoeuvre warfare. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.gao.gov/reports/GAO-25-107491/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.gao.gov">[GAO Files+2Army IMCOM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.gao.gov</span><span class="citation-popover-snippet">GAO FilesAir and Missile Defense Efforts Would Benefit from...17 Jun 2025 — Like IFPC Increment 2, IFPC-HEL is designed to detect, track...</span></span></span>
+Early operational concepts focused on protecting bases and critical infrastructure because these environments could support the substantial power and cooling demands of laser systems. More recent efforts continue this trend. The Army's directed-energy IFPC variants target fixed and semi-fixed assets, while several containerised and shipboard concepts emphasise infrastructure-supported defence rather than continuous manoeuvre warfare.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.gao.gov/reports/GAO-25-107491/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.gao.gov">[GAO Files+2Army IMCOM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.gao.gov</span><span class="citation-popover-snippet">GAO FilesAir and Missile Defense Efforts Would Benefit from...17 Jun 2025 — Like IFPC Increment 2, IFPC-HEL is designed to detect, track...</span></span></span>
 
 This progression mirrors the broader history of military technology. Systems that require significant support infrastructure often become operational first where logistics are easiest. Only after power generation, cooling and integration technologies mature do they migrate to smaller and more mobile platforms.
 
@@ -352,203 +352,203 @@ This progression mirrors the broader history of military technology. Systems tha
 <img src="{{ "/assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_fixed_base_la_4ef4d2-Illustration-3-dark.svg" | relative_url }}" alt="Base Defence illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_fixed_base_la_4ef4d2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_fixed_base_la_4ef4d2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Bases May Get Lasers First
 
-The central reason is not that lasers work only at bases. Rather, bases provide the environment in which current laser technology delivers its greatest operational value. They can supply abundant electrical power, support extensive cooling, integrate sophisticated sensor networks and sustain repeated engagements over long periods. Mobile battlefield platforms must achieve the same effects while carrying their own infrastructure and surviving the stresses of combat movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/RTO-MP-AVT-108/MP-AVT-108-58.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.sto.nato.int">[NATO Publications+2GAO Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.sto.nato.int</span><span class="citation-popover-snippet">NATO PublicationsHigh-Energy Laser Weapon Integration with Ground Vehiclesby M Hafften · Cited by 14 — There are several critical SSL wea...</span></span></span>
+The central reason is not that lasers work only at bases. Rather, bases provide the environment in which current laser technology delivers its greatest operational value. They can supply abundant electrical power, support extensive cooling, integrate sophisticated sensor networks and sustain repeated engagements over long periods. Mobile battlefield platforms must achieve the same effects while carrying their own infrastructure and surviving the stresses of combat movement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/RTO-MP-AVT-108/MP-AVT-108-58.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.sto.nato.int">[NATO Publications+2GAO Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.sto.nato.int</span><span class="citation-popover-snippet">NATO PublicationsHigh-Energy Laser Weapon Integration with Ground Vehiclesby M Hafften · Cited by 14 — There are several critical SSL wea...</span></span></span>
 
-For that reason, the most realistic near-term role for directed-energy weapons as a defensive layer remains the protection of fixed and semi-fixed assets. As power generation, thermal management and system ruggedisation improve, lasers are likely to become more common on mobile platforms. Until then, base defence remains the environment where their advantages can be exploited most effectively and consistently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.gao.gov/reports/GAO-25-107491/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.gao.gov">[GAO Files+2Laser Wars]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.gao.gov</span><span class="citation-popover-snippet">GAO FilesAir and Missile Defense Efforts Would Benefit from...17 Jun 2025 — Like IFPC Increment 2, IFPC-HEL is designed to detect, track...</span></span></span>
+For that reason, the most realistic near-term role for directed-energy weapons as a defensive layer remains the protection of fixed and semi-fixed assets. As power generation, thermal management and system ruggedisation improve, lasers are likely to become more common on mobile platforms. Until then, base defence remains the environment where their advantages can be exploited most effectively and consistently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.gao.gov/reports/GAO-25-107491/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.gao.gov">[GAO Files+2Laser Wars]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.gao.gov</span><span class="citation-popover-snippet">GAO FilesAir and Missile Defense Efforts Would Benefit from...17 Jun 2025 — Like IFPC Increment 2, IFPC-HEL is designed to detect, track...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JGzL3fZgPZY" title="Laser and Microwave Weapons - Directed-Energy Weapon Programs, Potential, and Issues" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JGzL3fZgPZY" target="_blank" rel="noopener noreferrer">Laser and Microwave Weapons - Directed-Energy Weapon Programs, Potential, and Issues</a></p><p class="youtube-embed-meta">Channel: Perun</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JGzL3fZgPZY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JGzL3fZgPZY">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Bases May Get Lasers First. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Bases May Get Lasers First. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Explains the development culture behind advanced military technologies and weapons programs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the development culture behind advanced military technologies and weapons programs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Examines emerging defense technologies, sensors, networks, and future battlefield systems that complement laser defenses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines emerging defense technologies, sensors, networks, and future battlefield systems that complement laser defenses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Air+Power+Jeremy+Black&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Air Power on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9138942-M.jpg" alt="Cover for Air Power" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Air+Power+Jeremy+Black&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Air Power">Air Power</a>
-        </h4>
-        <p class="fr-book-author">By Jeremy Black</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Air+Power+Jeremy+Black&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Air Power on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9138942-M.jpg" alt="Cover for Air Power" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Air+Power+Jeremy+Black&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Air Power">Air Power</a>
+</h4>
+<p class="fr-book-author">By Jeremy Black</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Air power, Cold war, History, Cold War (1945-1989) fast (OCoLC)fst01754978 (uri) http://id.worldcat.org/f...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Air+Power+Jeremy+Black&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Air power, Cold war, History, Cold War (1945-1989) fast (OCoLC)fst01754978 (uri) http://id.worldcat.org/f...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Air+Power+Jeremy+Black&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies+and+Military+Applications+Mark+L.+Scala+and+David+A.+Deppner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons: Technologies and Military Applications on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies+and+Military+Applications+Mark+L.+Scala+and+David+A.+Deppner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons: Technologies and Military Applications">Directed Energy Weapons: Technologies and Military Applications</a>
-        </h4>
-        <p class="fr-book-author">By Mark L. Scala and David A. Deppner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies+and+Military+Applications+Mark+L.+Scala+and+David+A.+Deppner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons: Technologies and Military Applications on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies+and+Military+Applications+Mark+L.+Scala+and+David+A.+Deppner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons: Technologies and Military Applications">Directed Energy Weapons: Technologies and Military Applications</a>
+</h4>
+<p class="fr-book-author">By Mark L. Scala and David A. Deppner</p>
         
-        <p class="fr-book-desc">Directly addresses laser weapon technology, infrastructure requirements, and military use cases such as air and missile defense.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies+and+Military+Applications+Mark+L.+Scala+and+David+A.+Deppner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses laser weapon technology, infrastructure requirements, and military use cases such as air and missile defense.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies+and+Military+Applications+Mark+L.+Scala+and+David+A.+Deppner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Air+Power&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Air Power</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Air+Power&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Air Power</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=optics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="optics poster" data-ebay-reference="base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tangerine Dream – Optical Race Fine Art Album Poster"><img src="{{ '/assets/images/marketplace-covers/1bc091fc6c8577f0bdf4.jpg' | relative_url }}" alt="Listing image for Tangerine Dream – Optical Race Fine Art Album Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=optics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="optics poster" data-ebay-reference="base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster" target="_blank" rel="sponsored noopener noreferrer">Tangerine Dream – Optical Race Fine Art Album Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=optics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="optics poster" data-ebay-reference="base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for optics poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: optics poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=optics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="optics poster" data-ebay-reference="base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=optics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="optics poster" data-ebay-reference="base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tangerine Dream – Optical Race Fine Art Album Poster"><img src="{{ '/assets/images/marketplace-covers/1bc091fc6c8577f0bdf4.jpg' | relative_url }}" alt="Listing image for Tangerine Dream – Optical Race Fine Art Album Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=optics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="optics poster" data-ebay-reference="base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster" target="_blank" rel="sponsored noopener noreferrer">Tangerine Dream – Optical Race Fine Art Album Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=optics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="optics poster" data-ebay-reference="base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for optics poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: optics poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=optics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="optics poster" data-ebay-reference="base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=optics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="optics poster" data-ebay-reference="base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VOID 3D Optical Illusion Typography Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b70044fff01d3156f010.jpg' | relative_url }}" alt="Listing image for VOID 3D Optical Illusion Typography Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=optics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="optics poster" data-ebay-reference="base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster" target="_blank" rel="sponsored noopener noreferrer">VOID 3D Optical Illusion Typography Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=optics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="optics poster" data-ebay-reference="base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for optics poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: optics poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=optics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="optics poster" data-ebay-reference="base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=optics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="optics poster" data-ebay-reference="base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VOID 3D Optical Illusion Typography Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b70044fff01d3156f010.jpg' | relative_url }}" alt="Listing image for VOID 3D Optical Illusion Typography Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=optics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="optics poster" data-ebay-reference="base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster" target="_blank" rel="sponsored noopener noreferrer">VOID 3D Optical Illusion Typography Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=optics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="optics poster" data-ebay-reference="base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for optics poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: optics poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=optics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="optics poster" data-ebay-reference="base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=optics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="optics poster" data-ebay-reference="base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vision Vibes Optical Staff Optometr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5e1d1406e279d59550cf.jpg' | relative_url }}" alt="Listing image for Vision Vibes Optical Staff Optometr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=optics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="optics poster" data-ebay-reference="base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster" target="_blank" rel="sponsored noopener noreferrer">Vision Vibes Optical Staff Optometr Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=optics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="optics poster" data-ebay-reference="base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for optics poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: optics poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=optics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="optics poster" data-ebay-reference="base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=optics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="optics poster" data-ebay-reference="base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vision Vibes Optical Staff Optometr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5e1d1406e279d59550cf.jpg' | relative_url }}" alt="Listing image for Vision Vibes Optical Staff Optometr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=optics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="optics poster" data-ebay-reference="base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster" target="_blank" rel="sponsored noopener noreferrer">Vision Vibes Optical Staff Optometr Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=optics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="optics poster" data-ebay-reference="base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for optics poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: optics poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=optics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="optics poster" data-ebay-reference="base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=optics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="optics poster" data-ebay-reference="base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TASCHEN M.C. Escher 6 Posters Art Collection Optical Illusion Surreal"><img src="{{ '/assets/images/marketplace-covers/8d93162bcf300a896219.jpg' | relative_url }}" alt="Listing image for TASCHEN M.C. Escher 6 Posters Art Collection Optical Illusion Surreal" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=optics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="optics poster" data-ebay-reference="base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster" target="_blank" rel="sponsored noopener noreferrer">TASCHEN M.C. Escher 6 Posters Art Collection Optical Illusion Surreal</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=optics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="optics poster" data-ebay-reference="base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for optics poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: optics poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=optics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="optics poster" data-ebay-reference="base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=optics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="optics poster" data-ebay-reference="base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=optics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="optics poster" data-ebay-reference="base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TASCHEN M.C. Escher 6 Posters Art Collection Optical Illusion Surreal"><img src="{{ '/assets/images/marketplace-covers/8d93162bcf300a896219.jpg' | relative_url }}" alt="Listing image for TASCHEN M.C. Escher 6 Posters Art Collection Optical Illusion Surreal" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=optics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="optics poster" data-ebay-reference="base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster" target="_blank" rel="sponsored noopener noreferrer">TASCHEN M.C. Escher 6 Posters Art Collection Optical Illusion Surreal</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=optics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="optics poster" data-ebay-reference="base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for optics poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: optics poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=optics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="optics poster" data-ebay-reference="base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=optics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="optics poster" data-ebay-reference="base-defence-why-bases-may-get-lasers-first-directed-ener-optics-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -564,7 +564,7 @@ For that reason, the most realistic near-term role for directed-energy weapons a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -584,7 +584,7 @@ For that reason, the most realistic near-term role for directed-energy weapons a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -616,7 +616,7 @@ For that reason, the most realistic near-term role for directed-energy weapons a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -668,7 +668,7 @@ For that reason, the most realistic near-term role for directed-energy weapons a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -713,7 +713,7 @@ For that reason, the most realistic near-term role for directed-energy weapons a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -754,128 +754,128 @@ For that reason, the most realistic near-term role for directed-energy weapons a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: files.gao.gov  
-   Link: <a href="https://files.gao.gov/reports/GAO-25-107491/index.html" target="_blank" rel="noopener noreferrer nofollow">https://files.gao.gov/reports/GAO-25-107491/index.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GAO FilesAir and Missile Defense Efforts Would Benefit from...17 Jun 2025 — Like IFPC Increment 2, IFPC-HEL is designed to detect, track...</p></details>
+   Link:<a href="https://files.gao.gov/reports/GAO-25-107491/index.html" target="_blank" rel="noopener noreferrer nofollow">https://files.gao.gov/reports/GAO-25-107491/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GAO FilesAir and Missile Defense Efforts Would Benefit from...17 Jun 2025 — Like IFPC Increment 2, IFPC-HEL is designed to detect, track...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: publications.sto.nato.int  
-   Link: <a href="https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/RTO-MP-AVT-108/MP-AVT-108-58.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/RTO-MP-AVT-108/MP-AVT-108-58.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NATO PublicationsHigh-Energy Laser Weapon Integration with Ground Vehiclesby M Hafften · Cited by 14 — There are several critical SSL wea...</p></details>
+   Link:<a href="https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/RTO-MP-AVT-108/MP-AVT-108-58.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/RTO-MP-AVT-108/MP-AVT-108-58.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NATO PublicationsHigh-Energy Laser Weapon Integration with Ground Vehiclesby M Hafften · Cited by 14 — There are several critical SSL wea...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: smdc.army.mil  
    Title: IMCOMHEL TVD  
-   Link: <a href="https://www.smdc.army.mil/Portals/38/Documents/Publications/Fact_Sheets/Archived_Fact_Sheets/HEL_TVD.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.smdc.army.mil/Portals/38/Documents/Publications/Fact_Sheets/Archived_Fact_Sheets/HEL_TVD.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Army Space and Missile Defense CommandHigh energy lasers will complement conventional offensive and defensive weapons at a significantly...</p></details>
+   Link:<a href="https://www.smdc.army.mil/Portals/38/Documents/Publications/Fact_Sheets/Archived_Fact_Sheets/HEL_TVD.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.smdc.army.mil/Portals/38/Documents/Publications/Fact_Sheets/Archived_Fact_Sheets/HEL_TVD.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Army Space and Missile Defense CommandHigh energy lasers will complement conventional offensive and defensive weapons at a significantly...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: THOR (weapon)  
-   Link: <a href="https://en.wikipedia.org/wiki/THOR_%28weapon%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/THOR_%28weapon%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/THOR_%28weapon%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/THOR_%28weapon%29</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: spie.org  
    Title: zapping enemy targets  
-   Link: <a href="https://spie.org/news/photonics-focus/marapr-2024/zapping-enemy-targets" target="_blank" rel="noopener noreferrer nofollow">https://spie.org/news/photonics-focus/marapr-2024/zapping-enemy-targets</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Zapping enemy targets: Viable laser weapons remain...1 Mar 2024 — Laser weapons are increasingly harnessing the power of adaptive op...</p></details>
+   Link:<a href="https://spie.org/news/photonics-focus/marapr-2024/zapping-enemy-targets" target="_blank" rel="noopener noreferrer nofollow">https://spie.org/news/photonics-focus/marapr-2024/zapping-enemy-targets</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Zapping enemy targets: Viable laser weapons remain...1 Mar 2024 — Laser weapons are increasingly harnessing the power of adaptive op...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Laser-Based Directed Energy WeaponsThis review aims to evaluate the current capabilities of laser-based Directed Energy...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Laser-Based Directed Energy WeaponsThis review aims to evaluate the current capabilities of laser-based Directed Energy...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Laser weapon  
-   Link: <a href="https://en.wikipedia.org/wiki/Laser_weapon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Laser_weapon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser weaponA laser weapon is a type of directed-energy weapon (DEW) that uses lasers to inflict damage. Laser weapons are of two type...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Laser_weapon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Laser_weapon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser weaponA laser weapon is a type of directed-energy weapon (DEW) that uses lasers to inflict damage. Laser weapons are of two type...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: wired.com  
    Title: Welcome to the Laser Wars  
-   Link: <a href="https://www.wired.com/story/laser-wars-us-military-laser-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/laser-wars-us-military-laser-weapons</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Arriving overseas in 2022 and actively engaging enemy drones, this marks a significant milestone in laser weapon technology for air defen...</p></details>
+   Link:<a href="https://www.wired.com/story/laser-wars-us-military-laser-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/laser-wars-us-military-laser-weapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Arriving overseas in 2022 and actively engaging enemy drones, this marks a significant milestone in laser weapon technology for air defen...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Directed energy weapon  
-   Link: <a href="https://en.wikipedia.org/wiki/Directed-energy_weapon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Directed-energy_weapon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed-energy weaponA directed-energy weapon (DEW) is a ranged weapon that damages its target with highly focused energy without a s...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Directed-energy_weapon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Directed-energy_weapon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed-energy weaponA directed-energy weapon (DEW) is a ranged weapon that damages its target with highly focused energy without a s...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: lockheedmartin.com  
-   Link: <a href="https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lockheed MartinDirected Energy | Lockheed MartinExperience the potential of our laser weapons and directed energy weapon technologies, pr...</p></details>
+   Link:<a href="https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lockheed MartinDirected Energy | Lockheed MartinExperience the potential of our laser weapons and directed energy weapon technologies, pr...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: laserwars.net  
    Title: Laser Wars The Army's Laser Stryker Is in Trouble  
-   Link: <a href="https://www.laserwars.net/p/army-directed-energy-maneuver-short-range-air-defense-de-m-shorad-problems-gao" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/army-directed-energy-maneuver-short-range-air-defense-de-m-shorad-problems-gao</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser WarsThe Army&#x27;s Laser Stryker Is in TroubleJune 20, 2025 — 20 Jun 2025 — The US Army has not only delayed production of its Stryker...</p></details>
+   Link:<a href="https://www.laserwars.net/p/army-directed-energy-maneuver-short-range-air-defense-de-m-shorad-problems-gao" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/army-directed-energy-maneuver-short-range-air-defense-de-m-shorad-problems-gao</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser WarsThe Army&#x27;s Laser Stryker Is in TroubleJune 20, 2025 — 20 Jun 2025 — The US Army has not only delayed production of its Stryker...</p></details>
    Published: June 20, 2025  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: laserwars.net  
    Title: army indirect fire protection capability high energy laser ifpc hel program  
-   Link: <a href="https://www.laserwars.net/p/army-indirect-fire-protection-capability-high-energy-laser-ifpc-hel-program" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/army-indirect-fire-protection-capability-high-energy-laser-ifpc-hel-program</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Army Is Abandoning Its 300 Kilowatt Laser Weapon Effort23 Mar 2026 — The US Army&#x27;s 300 kilowatt Indirect Fire Protection Capability-H...</p></details>
+   Link:<a href="https://www.laserwars.net/p/army-indirect-fire-protection-capability-high-energy-laser-ifpc-hel-program" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/army-indirect-fire-protection-capability-high-energy-laser-ifpc-hel-program</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Army Is Abandoning Its 300 Kilowatt Laser Weapon Effort23 Mar 2026 — The US Army&#x27;s 300 kilowatt Indirect Fire Protection Capability-H...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: missiledefenseadvocacy.org  
-   Link: <a href="https://www.missiledefenseadvocacy.org/defense-systems/directed-energy/" target="_blank" rel="noopener noreferrer nofollow">https://www.missiledefenseadvocacy.org/defense-systems/directed-energy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed EnergyDirected energy weapons use high-energy lasers or high-power [microwaves](&amp;#123;&amp;#123; &#x27;microwaves/&#x27; | relative_url &amp;#125;&amp;#125;)... Most current laser-based weapons are in the te...</p></details>
+   Link:<a href="https://www.missiledefenseadvocacy.org/defense-systems/directed-energy/" target="_blank" rel="noopener noreferrer nofollow">https://www.missiledefenseadvocacy.org/defense-systems/directed-energy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed EnergyDirected energy weapons use high-energy lasers or high-power [microwaves](&amp;#123;&amp;#123; &#x27;microwaves/&#x27; | relative_url &amp;#125;&amp;#125;)... Most current laser-based weapons are in the te...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: tno.nl  
-   Link: <a href="https://www.tno.nl/en/safe/integrated-combat-capabilities/" target="_blank" rel="noopener noreferrer nofollow">https://www.tno.nl/en/safe/integrated-combat-capabilities/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Integrated combat capabilitiesOn the modern battlefield, diverse weapon systems integrate with low-cost components, requiring new integra...</p></details>
+   Link:<a href="https://www.tno.nl/en/safe/integrated-combat-capabilities/" target="_blank" rel="noopener noreferrer nofollow">https://www.tno.nl/en/safe/integrated-combat-capabilities/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Integrated combat capabilitiesOn the modern battlefield, diverse weapon systems integrate with low-cost components, requiring new integra...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: tomshardware.com  
-   Link: <a href="https://www.tomshardware.com/tech-industry/pentagon-budget-documents-reveal-its-pursuing-containerized-300kw-laser-weapons-ambitious-joint-laser-weapon-system-designed-to-shoot-down-cruise-missiles-system-part-of-usd17-9-billion-golden-dome-missile-defense-initiative" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/pentagon-budget-documents-reveal-its-pursuing-containerized-300kw-laser-weapons-ambitious-joint-laser-weapon-system-designed-to-shoot-down-cruise-missiles-system-part-of-usd17-9-billion-golden-dome-missile-defense-initiative</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The JLWS is a containerized high-energy laser system intended to neutralize cruise missiles and other advanced threats. Designed to scale...</p></details>
+   Link:<a href="https://www.tomshardware.com/tech-industry/pentagon-budget-documents-reveal-its-pursuing-containerized-300kw-laser-weapons-ambitious-joint-laser-weapon-system-designed-to-shoot-down-cruise-missiles-system-part-of-usd17-9-billion-golden-dome-missile-defense-initiative" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/pentagon-budget-documents-reveal-its-pursuing-containerized-300kw-laser-weapons-ambitious-joint-laser-weapon-system-designed-to-shoot-down-cruise-missiles-system-part-of-usd17-9-billion-golden-dome-missile-defense-initiative</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The JLWS is a containerized high-energy laser system intended to neutralize cruise missiles and other advanced threats. Designed to scale...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: euro-sd.com  
    Title: ground based dews from science fiction to operational deployment  
-   Link: <a href="https://euro-sd.com/2025/09/articles/exclusive/46398/ground-based-dews-from-science-fiction-to-operational-deployment/" target="_blank" rel="noopener noreferrer nofollow">https://euro-sd.com/2025/09/articles/exclusive/46398/ground-based-dews-from-science-fiction-to-operational-deployment/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ground-based DEWs: From science fiction to operational...12 Sept 2025 — Another ongoing UK MoD programme is the &#x27;Land LDEW&#x27; (Laser Direc...</p></details>
+   Link:<a href="https://euro-sd.com/2025/09/articles/exclusive/46398/ground-based-dews-from-science-fiction-to-operational-deployment/" target="_blank" rel="noopener noreferrer nofollow">https://euro-sd.com/2025/09/articles/exclusive/46398/ground-based-dews-from-science-fiction-to-operational-deployment/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ground-based DEWs: From science fiction to operational...12 Sept 2025 — Another ongoing UK MoD programme is the &#x27;Land LDEW&#x27; (Laser Direc...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: drillanddefense.com  
-   Link: <a href="https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/" target="_blank" rel="noopener noreferrer nofollow">https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space is limited. Power is limited. Cooling is limited. Dust, vibration, heat, movement, and...</p></details>
+   Link:<a href="https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/" target="_blank" rel="noopener noreferrer nofollow">https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space is limited. Power is limited. Cooling is limited. Dust, vibration, heat, movement, and...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: defencefinancemonitor.com  
    Title: directed energy weapons in 20252035  
-   Link: <a href="https://www.defencefinancemonitor.com/p/directed-energy-weapons-in-20252035" target="_blank" rel="noopener noreferrer nofollow">https://www.defencefinancemonitor.com/p/directed-energy-weapons-in-20252035</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons in 2025–2035: Development...23 May 2025 — It surveys the current capabilities of confirmed high-energy laser and...</p></details>
+   Link:<a href="https://www.defencefinancemonitor.com/p/directed-energy-weapons-in-20252035" target="_blank" rel="noopener noreferrer nofollow">https://www.defencefinancemonitor.com/p/directed-energy-weapons-in-20252035</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons in 2025–2035: Development...23 May 2025 — It surveys the current capabilities of confirmed high-energy laser and...</p></details>
    Published: May 2025  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Ohfif5AB97M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ohfif5AB97M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EU Unites Behind Mobile Laser Weapons to [Counter Drone](&amp;#123;&amp;#123; &#x27;missile-savings/&#x27; | relative_url &amp;#125;&amp;#125;) and Missile Threats...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ohfif5AB97M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ohfif5AB97M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EU Unites Behind Mobile Laser Weapons to [Counter Drone](&amp;#123;&amp;#123; &#x27;missile-savings/&#x27; | relative_url &amp;#125;&amp;#125;) and Missile Threats...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: waru.edu  
    Title: gao 24 106831 Full Report  
-   Link: <a href="https://www.waru.edu/sites/default/files/2024-07/gao-24-106831-Full%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.waru.edu/sites/default/files/2024-07/gao-24-106831-Full%20Report.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GAO-24-106831, Weapon Systems Annual AssessmentCombined total estimates decreased slightly by $1.7 billion in the past year for the 31 ma...</p></details>
+   Link:<a href="https://www.waru.edu/sites/default/files/2024-07/gao-24-106831-Full%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.waru.edu/sites/default/files/2024-07/gao-24-106831-Full%20Report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GAO-24-106831, Weapon Systems Annual AssessmentCombined total estimates decreased slightly by $1.7 billion in the past year for the 31 ma...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: EU Unites Behind Mobile Laser Weapons to Counter Drone and Missile Threats  
-   Link: <a href="https://www.youtube.com/watch?v=YQs5dcIu6UQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YQs5dcIu6UQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Military Laser Breakthrough Has Nothing to Do With Star Wars...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YQs5dcIu6UQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YQs5dcIu6UQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Military Laser Breakthrough Has Nothing to Do With Star Wars...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Laser and Microwave Weapons  
-   Link: <a href="https://www.youtube.com/watch?v=JGzL3fZgPZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JGzL3fZgPZY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed-Energy Weapon...These are directed energy weapons most commonly lasers and high-powered microwaves on paper...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JGzL3fZgPZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JGzL3fZgPZY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed-Energy Weapon...These are directed energy weapons most commonly lasers and high-powered microwaves on paper...</p></details>

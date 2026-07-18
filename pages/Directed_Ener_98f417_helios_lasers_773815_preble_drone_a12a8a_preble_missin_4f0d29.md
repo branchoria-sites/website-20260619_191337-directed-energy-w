@@ -275,36 +275,36 @@ image: /assets/images/Directed_Ener_98f417_helios_lasers_773815_preble_drone_a12
 
 ## Introduction
 
-The USS *Preble* HELIOS drone engagement is frequently cited as evidence that naval laser weapons have moved from experimentation to practical military use. That conclusion is partly justified: the test demonstrated that a destroyer-mounted laser could successfully engage an unmanned aerial target in a real maritime environment. What the event does **not** show is how well the system would perform under demanding combat conditions. The Navy released only limited information about the engagement, withholding key variables such as range, weather, target characteristics, dwell time and the exact mechanism by which the drone was defeated. As a result, the test is best understood as proof of capability rather than proof of operational effectiveness across the full spectrum of threats a warship may face. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://maritime-executive.com/index.php/article/uss-preble-tests-high-powered-laser-weapon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maritime-executive.com">[Maritime Executive+2Navy Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maritime-executive.com</span><span class="citation-popover-title">uss preble tests high powered laser weapon</span><span class="citation-popover-snippet">Maritime ExecutiveUSS Preble Tests High-Powered Laser Weapon4 Feb 2025 — The test was designed to &quot;verify and validate the functionality...</span></span></span>
+The USS *Preble* HELIOS drone engagement is frequently cited as evidence that naval laser weapons have moved from experimentation to practical military use. That conclusion is partly justified: the test demonstrated that a destroyer-mounted laser could successfully engage an unmanned aerial target in a real maritime environment. What the event does **not** show is how well the system would perform under demanding combat conditions. The Navy released only limited information about the engagement, withholding key variables such as range, weather, target characteristics, dwell time and the exact mechanism by which the drone was defeated. As a result, the test is best understood as proof of capability rather than proof of operational effectiveness across the full spectrum of threats a warship may face.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://maritime-executive.com/index.php/article/uss-preble-tests-high-powered-laser-weapon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maritime-executive.com">[Maritime Executive+2Navy Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maritime-executive.com</span><span class="citation-popover-title">uss preble tests high powered laser weapon</span><span class="citation-popover-snippet">Maritime ExecutiveUSS Preble Tests High-Powered Laser Weapon4 Feb 2025 — The test was designed to &quot;verify and validate the functionality...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_preble_drone_a12a8a_preble_missin_4f0d29-Illustration-1-dark.svg" | relative_url }}" alt="Missing Data illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_preble_drone_a12a8a_preble_missin_4f0d29-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_preble_drone_a12a8a_preble_missin_4f0d29-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Range and Weather Data the Navy Did Not Release
 
-The most important missing detail is engagement range. A laser that destroys a drone at a relatively short distance may face a very different challenge at longer ranges, where [beam quality]({{ 'beam-quality/' | relative_url }}) degrades and less energy reaches the target. The public record of the *Preble* test does not disclose how far away the drone was when HELIOS engaged it, making it impossible to judge whether the system demonstrated a limited close-in defence capability or a more tactically significant reach. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twz.com/news-features/navy-helios-laser-aboard-uss-preble-zaps-drone-in-latest-test" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone+2Navy Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">navy helios laser aboard uss preble zaps drone in latest test</span><span class="citation-popover-snippet">The War ZoneNavy HELIOS Laser Aboard USS Preble Zaps Drone In...3 Feb 2025 — The Navy has disclosed that the Arleigh Burke class destroy...</span></span></span>
+The most important missing detail is engagement range. A laser that destroys a drone at a relatively short distance may face a very different challenge at longer ranges, where [beam quality]({{ 'beam-quality/' | relative_url }}) degrades and less energy reaches the target. The public record of the *Preble* test does not disclose how far away the drone was when HELIOS engaged it, making it impossible to judge whether the system demonstrated a limited close-in defence capability or a more tactically significant reach.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twz.com/news-features/navy-helios-laser-aboard-uss-preble-zaps-drone-in-latest-test" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone+2Navy Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">navy helios laser aboard uss preble zaps drone in latest test</span><span class="citation-popover-snippet">The War ZoneNavy HELIOS Laser Aboard USS Preble Zaps Drone In...3 Feb 2025 — The Navy has disclosed that the Arleigh Burke class destroy...</span></span></span>
 
-Weather conditions are equally important. High-energy [lasers]({{ 'lasers/' | relative_url }}) are unusually sensitive to the [atmosphere]({{ 'atmosphere/' | relative_url }}) between the weapon and the target. Moisture, haze, sea spray, turbulence, smoke and other airborne particles can scatter or absorb energy before it reaches the aim point. Researchers studying maritime laser performance have repeatedly noted that atmospheric conditions are among the most important determinants of effectiveness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/361271031_An_Application_of_Artificial_Neural_Networks_to_Estimate_the_Performance_of_High-Energy_Laser_Weapons_in_Maritime_Environments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2inss.ndu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate An Application of Artificial Neural Networks to Estimate</span><span class="citation-popover-snippet">An Application of Artificial Neural Networks to Estimate...June 8, 2022 — 6 Jun 2022 — However, HEL performance is heavily a...</span><span class="citation-popover-meta">Published: June 8, 2022</span></span></span>
+Weather conditions are equally important. High-energy [lasers]({{ 'lasers/' | relative_url }}) are unusually sensitive to the [atmosphere]({{ 'atmosphere/' | relative_url }}) between the weapon and the target. Moisture, haze, sea spray, turbulence, smoke and other airborne particles can scatter or absorb energy before it reaches the aim point. Researchers studying maritime laser performance have repeatedly noted that atmospheric conditions are among the most important determinants of effectiveness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/361271031_An_Application_of_Artificial_Neural_Networks_to_Estimate_the_Performance_of_High-Energy_Laser_Weapons_in_Maritime_Environments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2inss.ndu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate An Application of Artificial Neural Networks to Estimate</span><span class="citation-popover-snippet">An Application of Artificial Neural Networks to Estimate...June 8, 2022 — 6 Jun 2022 — However, HEL performance is heavily a...</span><span class="citation-popover-meta">Published: June 8, 2022</span></span></span>
 
-This matters because naval operations occur in highly variable environments. A successful engagement on a clear day with favourable visibility does not automatically predict performance in rain, fog, heavy humidity or salt-laden air. Without knowing the environmental conditions present during the *Preble* engagement, outside observers cannot determine whether HELIOS succeeded under a difficult operational scenario or under conditions close to ideal for laser propagation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/361271031_An_Application_of_Artificial_Neural_Networks_to_Estimate_the_Performance_of_High-Energy_Laser_Weapons_in_Maritime_Environments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2inss.ndu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate An Application of Artificial Neural Networks to Estimate</span><span class="citation-popover-snippet">An Application of Artificial Neural Networks to Estimate...June 8, 2022 — 6 Jun 2022 — However, HEL performance is heavily a...</span><span class="citation-popover-meta">Published: June 8, 2022</span></span></span>
+This matters because naval operations occur in highly variable environments. A successful engagement on a clear day with favourable visibility does not automatically predict performance in rain, fog, heavy humidity or salt-laden air. Without knowing the environmental conditions present during the *Preble* engagement, outside observers cannot determine whether HELIOS succeeded under a difficult operational scenario or under conditions close to ideal for laser propagation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/361271031_An_Application_of_Artificial_Neural_Networks_to_Estimate_the_Performance_of_High-Energy_Laser_Weapons_in_Maritime_Environments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2inss.ndu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate An Application of Artificial Neural Networks to Estimate</span><span class="citation-popover-snippet">An Application of Artificial Neural Networks to Estimate...June 8, 2022 — 6 Jun 2022 — However, HEL performance is heavily a...</span><span class="citation-popover-meta">Published: June 8, 2022</span></span></span>
 
-The absence of these data points does not undermine the achievement itself. It simply [limits]({{ 'limits/' | relative_url }}) what can be inferred from it. A laser hit in unknown conditions is evidence that the system works; it is not evidence that it works equally well across the full range of naval operating environments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://maritime-executive.com/index.php/article/uss-preble-tests-high-powered-laser-weapon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maritime-executive.com">[Maritime Executive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maritime-executive.com</span><span class="citation-popover-title">uss preble tests high powered laser weapon</span><span class="citation-popover-snippet">Maritime ExecutiveUSS Preble Tests High-Powered Laser Weapon4 Feb 2025 — The test was designed to &quot;verify and validate the functionality...</span></span></span>
+The absence of these data points does not undermine the achievement itself. It simply [limits]({{ 'limits/' | relative_url }}) what can be inferred from it. A laser hit in unknown conditions is evidence that the system works; it is not evidence that it works equally well across the full range of naval operating environments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://maritime-executive.com/index.php/article/uss-preble-tests-high-powered-laser-weapon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maritime-executive.com">[Maritime Executive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maritime-executive.com</span><span class="citation-popover-title">uss preble tests high powered laser weapon</span><span class="citation-popover-snippet">Maritime ExecutiveUSS Preble Tests High-Powered Laser Weapon4 Feb 2025 — The test was designed to &quot;verify and validate the functionality...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2WAe92AOd5E" title="The Age of Laser Defense • 2026 Update" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2WAe92AOd5E" target="_blank" rel="noopener noreferrer">The Age of Laser Defense • 2026 Update</a></p><p class="youtube-embed-meta">Channel: US Military Channel</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2WAe92AOd5E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2WAe92AOd5E">Open on YouTube</a></p></div></div></div>
 
 ## Why Target Speed and Altitude Change the Meaning
 
-Another major gap concerns the nature of the target. Official reporting identified only an unmanned aerial vehicle. The Navy did not publicly disclose the drone model, its size, construction, flight profile, altitude or speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.designnews.com/industry/uss-preble-downs-aerial-target-in-helios-laser-test" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: designnews.com">[Design News+2The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">designnews.com</span><span class="citation-popover-title">uss preble downs aerial target in helios laser test</span><span class="citation-popover-snippet">The Northrop Grumman-supplied 60-kilowatt laser weapon system is powerful enough...Read more...</span></span></span>
+Another major gap concerns the nature of the target. Official reporting identified only an unmanned aerial vehicle. The Navy did not publicly disclose the drone model, its size, construction, flight profile, altitude or speed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.designnews.com/industry/uss-preble-downs-aerial-target-in-helios-laser-test" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: designnews.com">[Design News+2The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">designnews.com</span><span class="citation-popover-title">uss preble downs aerial target in helios laser test</span><span class="citation-popover-snippet">The Northrop Grumman-supplied 60-kilowatt laser weapon system is powerful enough...Read more...</span></span></span>
 
 Those details are not minor technicalities. They directly affect how difficult the engagement was.
 
-A slow-moving drone flying a predictable path presents a fundamentally different challenge from a fast, manoeuvring target. Laser weapons generally require precise tracking to keep energy focused on a small area long enough to produce damage. As target speed increases, maintaining that precision becomes more difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://inss.ndu.edu/Research-and-Commentary/View-Publications/Article/4412653/laser-focusing-defense-capabilities/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inss.ndu.edu">[inss.ndu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inss.ndu.edu</span><span class="citation-popover-snippet">Laser-focusing Defense CapabilitiesNavy&#x27;s Laser Weapon System (LaWS), are constrained by atmospheric/weather conditions, laser dwell time...</span></span></span>
+A slow-moving drone flying a predictable path presents a fundamentally different challenge from a fast, manoeuvring target. Laser weapons generally require precise tracking to keep energy focused on a small area long enough to produce damage. As target speed increases, maintaining that precision becomes more difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://inss.ndu.edu/Research-and-Commentary/View-Publications/Article/4412653/laser-focusing-defense-capabilities/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inss.ndu.edu">[inss.ndu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inss.ndu.edu</span><span class="citation-popover-snippet">Laser-focusing Defense CapabilitiesNavy&#x27;s Laser Weapon System (LaWS), are constrained by atmospheric/weather conditions, laser dwell time...</span></span></span>
 
-Altitude also changes the interpretation of the result. A [low-flying]({{ 'low-flying/' | relative_url }}) drone near the ship may be exposed to different atmospheric effects than a higher-altitude target. Different flight geometries alter [line-of-sight]({{ 'dwell-time/' | relative_url }}) conditions, tracking demands and beam propagation characteristics. Without those details, observers cannot determine where on the spectrum of target difficulty the HELIOS engagement actually falls. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/361271031_An_Application_of_Artificial_Neural_Networks_to_Estimate_the_Performance_of_High-Energy_Laser_Weapons_in_Maritime_Environments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate An Application of Artificial Neural Networks to Estimate</span><span class="citation-popover-snippet">An Application of Artificial Neural Networks to Estimate...June 8, 2022 — 6 Jun 2022 — However, HEL performance is heavily a...</span><span class="citation-popover-meta">Published: June 8, 2022</span></span></span>
+Altitude also changes the interpretation of the result. A [low-flying]({{ 'low-flying/' | relative_url }}) drone near the ship may be exposed to different atmospheric effects than a higher-altitude target. Different flight geometries alter [line-of-sight]({{ 'dwell-time/' | relative_url }}) conditions, tracking demands and beam propagation characteristics. Without those details, observers cannot determine where on the spectrum of target difficulty the HELIOS engagement actually falls.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/361271031_An_Application_of_Artificial_Neural_Networks_to_Estimate_the_Performance_of_High-Energy_Laser_Weapons_in_Maritime_Environments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate An Application of Artificial Neural Networks to Estimate</span><span class="citation-popover-snippet">An Application of Artificial Neural Networks to Estimate...June 8, 2022 — 6 Jun 2022 — However, HEL performance is heavily a...</span><span class="citation-popover-meta">Published: June 8, 2022</span></span></span>
 
-Target construction matters as well. Small commercial-style drones often contain exposed electronics, lightweight airframes and vulnerable propulsion systems. More sophisticated military drones may include hardened components, protective materials or flight profiles designed to complicate engagement. A successful hit against one category cannot automatically be extrapolated to all others. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.designnews.com/industry/uss-preble-downs-aerial-target-in-helios-laser-test" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: designnews.com">[Design News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">designnews.com</span><span class="citation-popover-title">uss preble downs aerial target in helios laser test</span><span class="citation-popover-snippet">The Northrop Grumman-supplied 60-kilowatt laser weapon system is powerful enough...Read more...</span></span></span>
+Target construction matters as well. Small commercial-style drones often contain exposed electronics, lightweight airframes and vulnerable propulsion systems. More sophisticated military drones may include hardened components, protective materials or flight profiles designed to complicate engagement. A successful hit against one category cannot automatically be extrapolated to all others.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.designnews.com/industry/uss-preble-downs-aerial-target-in-helios-laser-test" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: designnews.com">[Design News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">designnews.com</span><span class="citation-popover-title">uss preble downs aerial target in helios laser test</span><span class="citation-popover-snippet">The Northrop Grumman-supplied 60-kilowatt laser weapon system is powerful enough...Read more...</span></span></span>
 
-For this reason, the phrase “shot down a drone” conveys far less information than it first appears. The military value of the result depends heavily on exactly which drone was used and how it was flown during the test. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.designnews.com/industry/uss-preble-downs-aerial-target-in-helios-laser-test" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: designnews.com">[Design News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">designnews.com</span><span class="citation-popover-title">uss preble downs aerial target in helios laser test</span><span class="citation-popover-snippet">The Northrop Grumman-supplied 60-kilowatt laser weapon system is powerful enough...Read more...</span></span></span>
+For this reason, the phrase “shot down a drone” conveys far less information than it first appears. The military value of the result depends heavily on exactly which drone was used and how it was flown during the test.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.designnews.com/industry/uss-preble-downs-aerial-target-in-helios-laser-test" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: designnews.com">[Design News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">designnews.com</span><span class="citation-popover-title">uss preble downs aerial target in helios laser test</span><span class="citation-popover-snippet">The Northrop Grumman-supplied 60-kilowatt laser weapon system is powerful enough...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_preble_drone_a12a8a_preble_missin_4f0d29-Illustration-2-dark.svg" | relative_url }}" alt="Missing Data illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_preble_drone_a12a8a_preble_missin_4f0d29-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_preble_drone_a12a8a_preble_missin_4f0d29-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -312,9 +312,9 @@ For this reason, the phrase “shot down a drone” conveys far less information
 
 Perhaps the most revealing missing information concerns dwell time: the period during which the laser had to remain focused on the target before achieving the desired effect.
 
-Unlike a missile, which typically delivers destructive energy almost instantaneously upon impact, a laser often needs to continuously heat a specific point on a target. The longer the required dwell time, the more demanding the engagement becomes. The weapon must maintain accurate tracking while compensating for ship motion, target motion and atmospheric disturbances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://inss.ndu.edu/Research-and-Commentary/View-Publications/Article/4412653/laser-focusing-defense-capabilities/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inss.ndu.edu">[inss.ndu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inss.ndu.edu</span><span class="citation-popover-snippet">Laser-focusing Defense CapabilitiesNavy&#x27;s Laser Weapon System (LaWS), are constrained by atmospheric/weather conditions, laser dwell time...</span></span></span>
+Unlike a missile, which typically delivers destructive energy almost instantaneously upon impact, a laser often needs to continuously heat a specific point on a target. The longer the required dwell time, the more demanding the engagement becomes. The weapon must maintain accurate tracking while compensating for ship motion, target motion and atmospheric disturbances.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://inss.ndu.edu/Research-and-Commentary/View-Publications/Article/4412653/laser-focusing-defense-capabilities/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inss.ndu.edu">[inss.ndu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inss.ndu.edu</span><span class="citation-popover-snippet">Laser-focusing Defense CapabilitiesNavy&#x27;s Laser Weapon System (LaWS), are constrained by atmospheric/weather conditions, laser dwell time...</span></span></span>
 
-The Navy has not disclosed how long HELIOS remained on target before the drone was neutralised. Nor has it publicly explained whether the drone was physically destroyed, suffered a mission kill, lost critical sensors, experienced propulsion failure or was rendered ineffective in some other way. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.designnews.com/industry/uss-preble-downs-aerial-target-in-helios-laser-test" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: designnews.com">[Design News+2Navy Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">designnews.com</span><span class="citation-popover-title">uss preble downs aerial target in helios laser test</span><span class="citation-popover-snippet">The Northrop Grumman-supplied 60-kilowatt laser weapon system is powerful enough...Read more...</span></span></span>
+The Navy has not disclosed how long HELIOS remained on target before the drone was neutralised. Nor has it publicly explained whether the drone was physically destroyed, suffered a mission kill, lost critical sensors, experienced propulsion failure or was rendered ineffective in some other way.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.designnews.com/industry/uss-preble-downs-aerial-target-in-helios-laser-test" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: designnews.com">[Design News+2Navy Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">designnews.com</span><span class="citation-popover-title">uss preble downs aerial target in helios laser test</span><span class="citation-popover-snippet">The Northrop Grumman-supplied 60-kilowatt laser weapon system is powerful enough...Read more...</span></span></span>
 
 These distinctions are important because different outcomes imply different levels of performance:
 
@@ -324,11 +324,11 @@ These distinctions are important because different outcomes imply different leve
 
 * **Loss of flight control** suggests damage to critical components.
 * **Structural failure or combustion** points to a more demanding hard-kill result.
-* **A crash after prolonged exposure** may imply a different level of effectiveness than near-immediate defeat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/High_Energy_Laser_with_Integrated_Optical-dazzler_and_Surveillance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">High Energy Laser with Integrated Optical-dazzler and Surveillance</span><span class="citation-popover-snippet">High Energy Laser with Integrated Optical-dazzler and Surveillance</span></span></span>
+* **A crash after prolonged exposure** may imply a different level of effectiveness than near-immediate defeat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/High_Energy_Laser_with_Integrated_Optical-dazzler_and_Surveillance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">High Energy Laser with Integrated Optical-dazzler and Surveillance</span><span class="citation-popover-snippet">High Energy Laser with Integrated Optical-dazzler and Surveillance</span></span></span>
 
 </div>
 
-The lack of dwell-time data also makes it difficult to evaluate performance against multiple simultaneous threats. Directed-energy advocates often emphasise low cost per shot and deep magazines, but engagement capacity depends partly on how long each target occupies the beam. Analysts have noted that dwell-time requirements can become a limiting factor when dealing with larger numbers of drones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://inss.ndu.edu/Research-and-Commentary/View-Publications/Article/4412653/laser-focusing-defense-capabilities/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inss.ndu.edu">[inss.ndu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inss.ndu.edu</span><span class="citation-popover-snippet">Laser-focusing Defense CapabilitiesNavy&#x27;s Laser Weapon System (LaWS), are constrained by atmospheric/weather conditions, laser dwell time...</span></span></span>
+The lack of dwell-time data also makes it difficult to evaluate performance against multiple simultaneous threats. Directed-energy advocates often emphasise low cost per shot and deep magazines, but engagement capacity depends partly on how long each target occupies the beam. Analysts have noted that dwell-time requirements can become a limiting factor when dealing with larger numbers of drones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://inss.ndu.edu/Research-and-Commentary/View-Publications/Article/4412653/laser-focusing-defense-capabilities/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inss.ndu.edu">[inss.ndu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inss.ndu.edu</span><span class="citation-popover-snippet">Laser-focusing Defense CapabilitiesNavy&#x27;s Laser Weapon System (LaWS), are constrained by atmospheric/weather conditions, laser dwell time...</span></span></span>
 
 Without knowing how quickly HELIOS achieved its effect, observers cannot determine how well the system would cope with more demanding operational scenarios.
 
@@ -340,204 +340,204 @@ Without knowing how quickly HELIOS achieved its effect, observers cannot determi
 
 ## What the Missing Data Means for Assessing HELIOS
 
-The undisclosed conditions surrounding the *Preble* test do not negate the significance of the achievement. The public evidence still shows that HELIOS was integrated onto an operational destroyer and successfully engaged an aerial drone target. That alone marks a meaningful step beyond laboratory demonstrations and controlled land-based trials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://maritime-executive.com/index.php/article/uss-preble-tests-high-powered-laser-weapon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maritime-executive.com">[Maritime Executive+2Navy Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maritime-executive.com</span><span class="citation-popover-title">uss preble tests high powered laser weapon</span><span class="citation-popover-snippet">Maritime ExecutiveUSS Preble Tests High-Powered Laser Weapon4 Feb 2025 — The test was designed to &quot;verify and validate the functionality...</span></span></span>
+The undisclosed conditions surrounding the *Preble* test do not negate the significance of the achievement. The public evidence still shows that HELIOS was integrated onto an operational destroyer and successfully engaged an aerial drone target. That alone marks a meaningful step beyond laboratory demonstrations and controlled land-based trials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://maritime-executive.com/index.php/article/uss-preble-tests-high-powered-laser-weapon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maritime-executive.com">[Maritime Executive+2Navy Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maritime-executive.com</span><span class="citation-popover-title">uss preble tests high powered laser weapon</span><span class="citation-popover-snippet">Maritime ExecutiveUSS Preble Tests High-Powered Laser Weapon4 Feb 2025 — The test was designed to &quot;verify and validate the functionality...</span></span></span>
 
-However, the missing information prevents the engagement from serving as a definitive benchmark for combat performance. Range, weather, target speed, altitude, target construction, dwell time and kill mechanism are not peripheral details; they are the variables that largely determine how effective a laser weapon is in practice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/361271031_An_Application_of_Artificial_Neural_Networks_to_Estimate_the_Performance_of_High-Energy_Laser_Weapons_in_Maritime_Environments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2inss.ndu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate An Application of Artificial Neural Networks to Estimate</span><span class="citation-popover-snippet">An Application of Artificial Neural Networks to Estimate...June 8, 2022 — 6 Jun 2022 — However, HEL performance is heavily a...</span><span class="citation-popover-meta">Published: June 8, 2022</span></span></span>
+However, the missing information prevents the engagement from serving as a definitive benchmark for combat performance. Range, weather, target speed, altitude, target construction, dwell time and kill mechanism are not peripheral details; they are the variables that largely determine how effective a laser weapon is in practice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/361271031_An_Application_of_Artificial_Neural_Networks_to_Estimate_the_Performance_of_High-Energy_Laser_Weapons_in_Maritime_Environments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2inss.ndu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate An Application of Artificial Neural Networks to Estimate</span><span class="citation-popover-snippet">An Application of Artificial Neural Networks to Estimate...June 8, 2022 — 6 Jun 2022 — However, HEL performance is heavily a...</span><span class="citation-popover-meta">Published: June 8, 2022</span></span></span>
 
-The most defensible conclusion is therefore a narrow one. The *Preble* test demonstrated that HELIOS can successfully engage at least one unmanned aerial target from an operational warship. It did not demonstrate how consistently the system can do so across the wide range of environmental and tactical conditions that define real naval combat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://maritime-executive.com/index.php/article/uss-preble-tests-high-powered-laser-weapon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maritime-executive.com">[Maritime Executive+2The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maritime-executive.com</span><span class="citation-popover-title">uss preble tests high powered laser weapon</span><span class="citation-popover-snippet">Maritime ExecutiveUSS Preble Tests High-Powered Laser Weapon4 Feb 2025 — The test was designed to &quot;verify and validate the functionality...</span></span></span>
+The most defensible conclusion is therefore a narrow one. The *Preble* test demonstrated that HELIOS can successfully engage at least one unmanned aerial target from an operational warship. It did not demonstrate how consistently the system can do so across the wide range of environmental and tactical conditions that define real naval combat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://maritime-executive.com/index.php/article/uss-preble-tests-high-powered-laser-weapon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maritime-executive.com">[Maritime Executive+2The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maritime-executive.com</span><span class="citation-popover-title">uss preble tests high powered laser weapon</span><span class="citation-popover-snippet">Maritime ExecutiveUSS Preble Tests High-Powered Laser Weapon4 Feb 2025 — The test was designed to &quot;verify and validate the functionality...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_preble_drone_a12a8a_preble_missin_4f0d29-Illustration-3-dark.svg" | relative_url }}" alt="Missing Data illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_preble_drone_a12a8a_preble_missin_4f0d29-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_helios_lasers_773815_preble_drone_a12a8a_preble_missin_4f0d29-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Missing Details Behind the Laser Hit. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Missing Details Behind the Laser Hit. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Highlights the importance of targeting data and operational effectiveness.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights the importance of targeting data and operational effectiveness.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Shows why public demonstrations often reveal only limited technical detail.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why public demonstrations often reveal only limited technical detail.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fleet Tactics And Naval Operations, Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8833607-M.jpg" alt="Cover for Fleet Tactics And Naval Operations, Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fleet Tactics And Naval Operations, Third Edition">Fleet Tactics And Naval Operations, Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Wayne Hughes, Robert Girrier</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fleet Tactics And Naval Operations, Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8833607-M.jpg" alt="Cover for Fleet Tactics And Naval Operations, Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fleet Tactics And Naval Operations, Third Edition">Fleet Tactics And Naval Operations, Third Edition</a>
+</h4>
+<p class="fr-book-author">By Wayne Hughes, Robert Girrier</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Naval tactics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Naval tactics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
-        </h4>
-        <p class="fr-book-author">By Bahman Zohuri</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
+</h4>
+<p class="fr-book-author">By Bahman Zohuri</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fleet Tactics And Naval Operations, Third Edition</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fleet Tactics And Naval Operations, Third Edition</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MQ-9 Predator B Reaper Hunter Killer Drone USAF UAV Wood Wooden Mahogany Model"><img src="{{ '/assets/images/marketplace-covers/36842923c06fd5ba855b.jpg' | relative_url }}" alt="Listing image for MQ-9 Predator B Reaper Hunter Killer Drone USAF UAV Wood Wooden Mahogany Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">MQ-9 Predator B Reaper Hunter Killer Drone USAF UAV Wood Wooden Mahogany Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MQ-9 Predator B Reaper Hunter Killer Drone USAF UAV Wood Wooden Mahogany Model"><img src="{{ '/assets/images/marketplace-covers/36842923c06fd5ba855b.jpg' | relative_url }}" alt="Listing image for MQ-9 Predator B Reaper Hunter Killer Drone USAF UAV Wood Wooden Mahogany Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">MQ-9 Predator B Reaper Hunter Killer Drone USAF UAV Wood Wooden Mahogany Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit"><img src="{{ '/assets/images/marketplace-covers/e39e7ba02c6fc339dd8d.jpg' | relative_url }}" alt="Listing image for Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit"><img src="{{ '/assets/images/marketplace-covers/e39e7ba02c6fc339dd8d.jpg' | relative_url }}" alt="Listing image for Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit"><img src="{{ '/assets/images/marketplace-covers/3327be5d6e43f1a2d594.jpg' | relative_url }}" alt="Listing image for Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit"><img src="{{ '/assets/images/marketplace-covers/3327be5d6e43f1a2d594.jpg' | relative_url }}" alt="Listing image for Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF Boeing YAL-1 Airborne Laser Edwards AFB Desk Jet Model 1/200 SC Airplane"><img src="{{ '/assets/images/marketplace-covers/74491e61e34b2636275b.jpg' | relative_url }}" alt="Listing image for USAF Boeing YAL-1 Airborne Laser Edwards AFB Desk Jet Model 1/200 SC Airplane" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">USAF Boeing YAL-1 Airborne Laser Edwards AFB Desk Jet Model 1/200 SC Airplane</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF Boeing YAL-1 Airborne Laser Edwards AFB Desk Jet Model 1/200 SC Airplane"><img src="{{ '/assets/images/marketplace-covers/74491e61e34b2636275b.jpg' | relative_url }}" alt="Listing image for USAF Boeing YAL-1 Airborne Laser Edwards AFB Desk Jet Model 1/200 SC Airplane" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">USAF Boeing YAL-1 Airborne Laser Edwards AFB Desk Jet Model 1/200 SC Airplane</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="missing-data-the-missing-details-behind-the-laser-hit-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -553,7 +553,7 @@ The most defensible conclusion is therefore a narrow one. The *Preble* test demo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -573,7 +573,7 @@ The most defensible conclusion is therefore a narrow one. The *Preble* test demo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -605,7 +605,7 @@ The most defensible conclusion is therefore a narrow one. The *Preble* test demo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -657,7 +657,7 @@ The most defensible conclusion is therefore a narrow one. The *Preble* test demo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -702,7 +702,7 @@ The most defensible conclusion is therefore a narrow one. The *Preble* test demo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -743,113 +743,113 @@ The most defensible conclusion is therefore a narrow one. The *Preble* test demo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: maritime-executive.com  
    Title: [uss preble](&#123;&#123; 'preble-test-2ed0d5/' | relative_url &#125;&#125;) tests high powered laser weapon  
-   Link: <a href="https://maritime-executive.com/index.php/article/uss-preble-tests-high-powered-laser-weapon" target="_blank" rel="noopener noreferrer nofollow">https://maritime-executive.com/index.php/article/uss-preble-tests-high-powered-laser-weapon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Maritime ExecutiveUSS Preble Tests High-Powered Laser Weapon4 Feb 2025 — The test was designed to &quot;verify and validate the functionality...</p></details>
+   Link:<a href="https://maritime-executive.com/index.php/article/uss-preble-tests-high-powered-laser-weapon" target="_blank" rel="noopener noreferrer nofollow">https://maritime-executive.com/index.php/article/uss-preble-tests-high-powered-laser-weapon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Maritime ExecutiveUSS Preble Tests High-Powered Laser Weapon4 Feb 2025 — The test was designed to &quot;verify and validate the functionality...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
    Title: Research Gate An Application of Artificial Neural Networks to Estimate  
-   Link: <a href="https://www.researchgate.net/publication/361271031_An_Application_of_Artificial_Neural_Networks_to_Estimate_the_Performance_of_High-Energy_Laser_Weapons_in_Maritime_Environments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/361271031_An_Application_of_Artificial_Neural_Networks_to_Estimate_the_Performance_of_High-Energy_Laser_Weapons_in_Maritime_Environments</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An Application of Artificial Neural Networks to Estimate...June 8, 2022 — 6 Jun 2022 — However, HEL performance is heavily a...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/361271031_An_Application_of_Artificial_Neural_Networks_to_Estimate_the_Performance_of_High-Energy_Laser_Weapons_in_Maritime_Environments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/361271031_An_Application_of_Artificial_Neural_Networks_to_Estimate_the_Performance_of_High-Energy_Laser_Weapons_in_Maritime_Environments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Application of Artificial Neural Networks to Estimate...June 8, 2022 — 6 Jun 2022 — However, HEL performance is heavily a...</p></details>
    Published: June 8, 2022  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: inss.ndu.edu  
-   Link: <a href="https://inss.ndu.edu/Research-and-Commentary/View-Publications/Article/4412653/laser-focusing-defense-capabilities/" target="_blank" rel="noopener noreferrer nofollow">https://inss.ndu.edu/Research-and-Commentary/View-Publications/Article/4412653/laser-focusing-defense-capabilities/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser-focusing Defense CapabilitiesNavy&#x27;s Laser Weapon System (LaWS), are constrained by atmospheric/weather conditions, laser dwell time...</p></details>
+   Link:<a href="https://inss.ndu.edu/Research-and-Commentary/View-Publications/Article/4412653/laser-focusing-defense-capabilities/" target="_blank" rel="noopener noreferrer nofollow">https://inss.ndu.edu/Research-and-Commentary/View-Publications/Article/4412653/laser-focusing-defense-capabilities/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser-focusing Defense CapabilitiesNavy&#x27;s Laser Weapon System (LaWS), are constrained by atmospheric/weather conditions, laser dwell time...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: AN/SEQ-3 Laser Weapon System  
-   Link: <a href="https://en.wikipedia.org/wiki/AN/SEQ-3_Laser_Weapon_System" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/AN/SEQ-3_Laser_Weapon_System</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/AN/SEQ-3_Laser_Weapon_System" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/AN/SEQ-3_Laser_Weapon_System</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: High Energy Laser with Integrated Optical-dazzler and Surveillance  
-   Link: <a href="https://en.wikipedia.org/wiki/High_Energy_Laser_with_Integrated_Optical-dazzler_and_Surveillance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/High_Energy_Laser_with_Integrated_Optical-dazzler_and_Surveillance</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/High_Energy_Laser_with_Integrated_Optical-dazzler_and_Surveillance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/High_Energy_Laser_with_Integrated_Optical-dazzler_and_Surveillance</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: navytimes.com  
    Title: us navy hits drone with helios laser in successful test  
-   Link: <a href="https://www.navytimes.com/news/your-navy/2025/02/04/us-navy-hits-drone-with-helios-laser-in-successful-test/" target="_blank" rel="noopener noreferrer nofollow">https://www.navytimes.com/news/your-navy/2025/02/04/us-navy-hits-drone-with-helios-laser-in-successful-test/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Feb 2025 — The destroyer Preble successfully test-fired its HELIOS system on a drone target, according to a recently released report...</p></details>
+   Link:<a href="https://www.navytimes.com/news/your-navy/2025/02/04/us-navy-hits-drone-with-helios-laser-in-successful-test/" target="_blank" rel="noopener noreferrer nofollow">https://www.navytimes.com/news/your-navy/2025/02/04/us-navy-hits-drone-with-helios-laser-in-successful-test/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Feb 2025 — The destroyer Preble successfully test-fired its HELIOS system on a drone target, according to a recently released report...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: twz.com  
    Title: navy helios laser aboard uss preble zaps drone in latest test  
-   Link: <a href="https://www.twz.com/news-features/navy-helios-laser-aboard-uss-preble-zaps-drone-in-latest-test" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/news-features/navy-helios-laser-aboard-uss-preble-zaps-drone-in-latest-test</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneNavy HELIOS Laser Aboard USS Preble Zaps Drone In...3 Feb 2025 — The Navy has disclosed that the Arleigh Burke class destroy...</p></details>
+   Link:<a href="https://www.twz.com/news-features/navy-helios-laser-aboard-uss-preble-zaps-drone-in-latest-test" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/news-features/navy-helios-laser-aboard-uss-preble-zaps-drone-in-latest-test</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneNavy HELIOS Laser Aboard USS Preble Zaps Drone In...3 Feb 2025 — The Navy has disclosed that the Arleigh Burke class destroy...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: designnews.com  
    Title: uss preble downs aerial target in helios laser test  
-   Link: <a href="https://www.designnews.com/industry/uss-preble-downs-aerial-target-in-helios-laser-test" target="_blank" rel="noopener noreferrer nofollow">https://www.designnews.com/industry/uss-preble-downs-aerial-target-in-helios-laser-test</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Northrop Grumman-supplied 60-kilowatt laser weapon system is powerful enough...Read more...</p></details>
+   Link:<a href="https://www.designnews.com/industry/uss-preble-downs-aerial-target-in-helios-laser-test" target="_blank" rel="noopener noreferrer nofollow">https://www.designnews.com/industry/uss-preble-downs-aerial-target-in-helios-laser-test</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Northrop Grumman-supplied 60-kilowatt laser weapon system is powerful enough...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: twz.com  
    Title: uss preble used helios laser to zap four drones in expanding testing  
-   Link: <a href="https://www.twz.com/sea/uss-preble-used-helios-laser-to-zap-four-drones-in-expanding-testing" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/sea/uss-preble-used-helios-laser-to-zap-four-drones-in-expanding-testing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>That milestone was disclosed in an annual report from the...Read more...</p></details>
+   Link:<a href="https://www.twz.com/sea/uss-preble-used-helios-laser-to-zap-four-drones-in-expanding-testing" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/sea/uss-preble-used-helios-laser-to-zap-four-drones-in-expanding-testing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>That milestone was disclosed in an annual report from the...Read more...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/WarshipPorn/comments/1qutb5v/uss_preble_ddg88_used_her_helios_laser_to_shoot/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WarshipPorn/comments/1qutb5v/uss_preble_ddg88_used_her_helios_laser_to_shoot/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Preble (DDG-88) used her HELIOS laser to shoot...“The HELIOS weapon system successfully neutralized four drone threats in a U.S. Nav...</p></details>
+   Link:<a href="https://www.reddit.com/r/WarshipPorn/comments/1qutb5v/uss_preble_ddg88_used_her_helios_laser_to_shoot/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WarshipPorn/comments/1qutb5v/uss_preble_ddg88_used_her_helios_laser_to_shoot/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Preble (DDG-88) used her HELIOS laser to shoot...“The HELIOS weapon system successfully neutralized four drone threats in a U.S. Nav...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: defenceconnect.com.au  
    Title: 15469 us military trials ship mounted laser against uav targets  
-   Link: <a href="https://www.defenceconnect.com.au/naval/15469-us-military-trials-ship-mounted-laser-against-uav-targets" target="_blank" rel="noopener noreferrer nofollow">https://www.defenceconnect.com.au/naval/15469-us-military-trials-ship-mounted-laser-against-uav-targets</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US military trials ship-mounted laser against UAV targets4 Feb 2025 — The US military has released details surrounding the trial of a new...</p></details>
+   Link:<a href="https://www.defenceconnect.com.au/naval/15469-us-military-trials-ship-mounted-laser-against-uav-targets" target="_blank" rel="noopener noreferrer nofollow">https://www.defenceconnect.com.au/naval/15469-us-military-trials-ship-mounted-laser-against-uav-targets</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US military trials ship-mounted laser against UAV targets4 Feb 2025 — The US military has released details surrounding the trial of a new...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: lockheedmartin.com  
    Title: more than a laser helios is an integrated weapon system  
-   Link: <a href="https://www.lockheedmartin.com/en-us/news/features/2021/more-than-a-laser-helios-is-an-integrated-weapon-system.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lockheedmartin.com/en-us/news/features/2021/more-than-a-laser-helios-is-an-integrated-weapon-system.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>More Than a Laser, HELIOS is an Integrated Weapon System9 Jan 2021 — The High Energy Laser with Integrated Optical-dazzler and Surveillan...</p></details>
+   Link:<a href="https://www.lockheedmartin.com/en-us/news/features/2021/more-than-a-laser-helios-is-an-integrated-weapon-system.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lockheedmartin.com/en-us/news/features/2021/more-than-a-laser-helios-is-an-integrated-weapon-system.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>More Than a Laser, HELIOS is an Integrated Weapon System9 Jan 2021 — The High Energy Laser with Integrated Optical-dazzler and Surveillan...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: us navy hits drone with helios laser in successful test  
-   Link: <a href="https://www.facebook.com/techworm.in/posts/us-navy-hits-drone-with-helios-laser-in-successful-test/930343222583602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/techworm.in/posts/us-navy-hits-drone-with-helios-laser-in-successful-test/930343222583602/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>During a 2024 weapons test, the USS Preble, an Arleigh Burke-class destroyer, used HELIOS to zap an aerial drone, according to a newly re...</p></details>
+   Link:<a href="https://www.facebook.com/techworm.in/posts/us-navy-hits-drone-with-helios-laser-in-successful-test/930343222583602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/techworm.in/posts/us-navy-hits-drone-with-helios-laser-in-successful-test/930343222583602/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>During a 2024 weapons test, the USS Preble, an Arleigh Burke-class destroyer, used HELIOS to zap an aerial drone, according to a newly re...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nationalinterest.org  
    Title: a navy destroyer has been armed with the helios laser  
-   Link: <a href="https://nationalinterest.org/blog/buzz/a-navy-destroyer-has-been-armed-with-the-helios-laser" target="_blank" rel="noopener noreferrer nofollow">https://nationalinterest.org/blog/buzz/a-navy-destroyer-has-been-armed-with-the-helios-laser</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National InterestA Navy Destroyer Has Been Armed with the HELIOS Laser6 Mar 2025 — The Navy recently disclosed that HELIOS successful...</p></details>
+   Link:<a href="https://nationalinterest.org/blog/buzz/a-navy-destroyer-has-been-armed-with-the-helios-laser" target="_blank" rel="noopener noreferrer nofollow">https://nationalinterest.org/blog/buzz/a-navy-destroyer-has-been-armed-with-the-helios-laser</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National InterestA Navy Destroyer Has Been Armed with the HELIOS Laser6 Mar 2025 — The Navy recently disclosed that HELIOS successful...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DFqY1KAiqWB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DFqY1KAiqWB/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>isclosed location in the middle of the ocean. It&#x27;s objective is...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DFqY1KAiqWB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DFqY1KAiqWB/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>isclosed location in the middle of the ocean. It&#x27;s objective is...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: lmtonline.com  
    Title: uss preble laser weapon test 20146384  
-   Link: <a href="https://www.lmtonline.com/news/article/uss-preble-laser-weapon-test-20146384.php" target="_blank" rel="noopener noreferrer nofollow">https://www.lmtonline.com/news/article/uss-preble-laser-weapon-test-20146384.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy tests HELIOS laser with USS Preble for drone...4 Feb 2025 — The USS Preble, a U.S. Navy destroyer, successfully tested its HELIOS l...</p></details>
+   Link:<a href="https://www.lmtonline.com/news/article/uss-preble-laser-weapon-test-20146384.php" target="_blank" rel="noopener noreferrer nofollow">https://www.lmtonline.com/news/article/uss-preble-laser-weapon-test-20146384.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy tests HELIOS laser with USS Preble for drone...4 Feb 2025 — The USS Preble, a U.S. Navy destroyer, successfully tested its HELIOS l...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/themilitarychannelusa/posts/read-for-decades-laser-weapons-were-the-stuff-of-science-fiction-relegated-to-mo/122206937342902462/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/themilitarychannelusa/posts/read-for-decades-laser-weapons-were-the-stuff-of-science-fiction-relegated-to-mo/122206937342902462/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r they are from the target, and atmospheric...</p></details>
+   Link:<a href="https://www.facebook.com/themilitarychannelusa/posts/read-for-decades-laser-weapons-were-the-stuff-of-science-fiction-relegated-to-mo/122206937342902462/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/themilitarychannelusa/posts/read-for-decades-laser-weapons-were-the-stuff-of-science-fiction-relegated-to-mo/122206937342902462/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r they are from the target, and atmospheric...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: navalgazing.net  
    Title: Lasers at Sea Part 2  
-   Link: <a href="https://www.navalgazing.net/Lasers-at-Sea-Part-2" target="_blank" rel="noopener noreferrer nofollow">https://www.navalgazing.net/Lasers-at-Sea-Part-2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Aug 2021 — As might be expected, the results will depend heavily on how much of the laser the target will absorb.... dwell time. If t...</p></details>
+   Link:<a href="https://www.navalgazing.net/Lasers-at-Sea-Part-2" target="_blank" rel="noopener noreferrer nofollow">https://www.navalgazing.net/Lasers-at-Sea-Part-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 Aug 2021 — As might be expected, the results will depend heavily on how much of the laser the target will absorb.... dwell time. If t...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: laserwars.net  
    Title: navy helios laser weapon drones testing questions  
-   Link: <a href="https://www.laserwars.net/p/navy-helios-laser-weapon-drones-testing-questions" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/navy-helios-laser-weapon-drones-testing-questions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How much dwell time did HELIOS require to neutralize each target before...Read more...</p></details>
+   Link:<a href="https://www.laserwars.net/p/navy-helios-laser-weapon-drones-testing-questions" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/navy-helios-laser-weapon-drones-testing-questions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How much dwell time did HELIOS require to neutralize each target before...Read more...</p></details>

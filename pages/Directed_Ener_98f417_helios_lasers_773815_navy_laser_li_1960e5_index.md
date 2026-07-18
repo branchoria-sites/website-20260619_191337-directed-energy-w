@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /directed-ener-98f417-helios-lasers/
 description: Focused pages that expand on Laser Lineage.
-date: '2026-06-19'
+date: '2026'
 layout: default
 parent_basename: Directed_Ener_98f417_helios_lasers_773815_navy_laser_li_1960e5
 parent_title: Laser Lineage
@@ -16,7 +16,7 @@ parent_permalink: /laser-lineage/
 
 # Explore Topics in Laser Lineage
 
-The following pages expand on the main **[Laser Lineage]({{ '/laser-lineage/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Laser Lineage]({{ '/laser-lineage/' | relative_url }})** page and cover its key branches in.
 
 - [HELIOS]({{ '/helios-0d4e6d/' | relative_url }})
 - [USS Ponce]({{ '/uss-ponce/' | relative_url }})

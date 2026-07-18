@@ -269,7 +269,7 @@ image: /assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_fog_laser_ran_e9
 
 ## Introduction
 
-A target can remain clearly visible through fog and still survive a laser engagement because visibility and destructive effect are not the same thing. Human eyes, cameras, and tracking sensors need only a small amount of reflected light to detect and follow an object. A high-energy laser, by contrast, must deliver a large amount of energy into a very small spot for long enough to heat, weaken, melt, or otherwise damage the target. Fog can reduce that concentrated energy delivery long before it makes the target disappear from view. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">Science &amp; Tech Spotlight: Directed Energy Weapons</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy WeaponsMay 25, 2023 — Directed energy weapons—such as lasers—use energy fired at the speed o...</span><span class="citation-popover-meta">Published: May 25, 2023</span></span></span>
+A target can remain clearly visible through fog and still survive a laser engagement because visibility and destructive effect are not the same thing. Human eyes, cameras, and tracking sensors need only a small amount of reflected light to detect and follow an object. A high-energy laser, by contrast, must deliver a large amount of energy into a very small spot for long enough to heat, weaken, melt, or otherwise damage the target. Fog can reduce that concentrated energy delivery long before it makes the target disappear from view.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">Science &amp; Tech Spotlight: Directed Energy Weapons</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy WeaponsMay 25, 2023 — Directed energy weapons—such as lasers—use energy fired at the speed o...</span><span class="citation-popover-meta">Published: May 25, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_fog_laser_ran_e9f3f6_visible_targe_b1ed46-Illustration-1-dark.svg" | relative_url }}" alt="Visible Targets illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_fog_laser_ran_e9f3f6_visible_targe_b1ed46-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_fog_laser_ran_e9f3f6_visible_targe_b1ed46-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -279,9 +279,9 @@ This distinction is one of the most important practical [limits]({{ 'limits/' | 
 
 The central misunderstanding is to treat seeing a target and damaging a target as equivalent optical problems. They are not.
 
-A camera can identify an object using only a tiny fraction of the light reflected from it. Modern sensors are designed to extract useful information from weak signals. A laser weapon, however, functions by depositing energy. Its effectiveness depends on irradiance—the amount of power concentrated into a given area on the target surface—and on maintaining that concentration for a sufficient dwell time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onr.navy.mil">[onr.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onr.navy.mil</span><span class="citation-popover-snippet">Open source on navy.mil.</span></span></span>
+A camera can identify an object using only a tiny fraction of the light reflected from it. Modern sensors are designed to extract useful information from weak signals. A laser weapon, however, functions by depositing energy. Its effectiveness depends on irradiance—the amount of power concentrated into a given area on the target surface—and on maintaining that concentration for a sufficient dwell time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onr.navy.mil">[onr.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onr.navy.mil</span><span class="citation-popover-snippet">Open source on navy.mil.</span></span></span>
 
-Fog attacks the energy-delivery requirement directly. Water droplets scatter and absorb part of the beam as it travels through the [atmosphere]({{ 'atmosphere/' | relative_url }}). Even if enough light survives the journey for a sensor to see the target, the surviving energy may be too weak or too dispersed to produce the required heating effect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ijast.org/volume-4-issue-1-article-5-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijast.org">[IJAST+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijast.org</span><span class="citation-popover-snippet">The Detection Capability of Laser Fuze in Fog, Mist, and...The key optical phenomena which influence the detection performance of l...</span></span></span>
+Fog attacks the energy-delivery requirement directly. Water droplets scatter and absorb part of the beam as it travels through the [atmosphere]({{ 'atmosphere/' | relative_url }}). Even if enough light survives the journey for a sensor to see the target, the surviving energy may be too weak or too dispersed to produce the required heating effect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ijast.org/volume-4-issue-1-article-5-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijast.org">[IJAST+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijast.org</span><span class="citation-popover-snippet">The Detection Capability of Laser Fuze in Fog, Mist, and...The key optical phenomena which influence the detection performance of l...</span></span></span>
 
 An everyday comparison is a magnifying glass. A bright patch of sunlight on paper is easy to see, but only a tightly focused spot can ignite the paper. If the light becomes spread out, visibility remains while the burning effect disappears. Fog produces a similar outcome for laser weapons by reducing the intensity concentrated on the target.
 
@@ -292,7 +292,7 @@ An everyday comparison is a magnifying glass. A bright patch of sunlight on pape
 
 Laser damage is governed by thresholds rather than simple detection.
 
-Materials generally require a minimum energy density before meaningful damage begins. Below that threshold, the target merely warms slightly or experiences negligible effects. Above it, heating can accelerate rapidly and lead to structural failure, sensor damage, ignition, or other intended outcomes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rp-photonics.com/laser_induced_damage.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rp-photonics.com">[RP Photonics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rp-photonics.com</span><span class="citation-popover-title">RP Photonics Laser-induced Damage</span><span class="citation-popover-snippet">RP PhotonicsLaser-induced DamageDecember 11, 2025 — by R Paschotta · 2014 · Cited by 2 — Laser-induced damage occurs in optical component...</span><span class="citation-popover-meta">Published: December 11, 2025</span></span></span>
+Materials generally require a minimum energy density before meaningful damage begins. Below that threshold, the target merely warms slightly or experiences negligible effects. Above it, heating can accelerate rapidly and lead to structural failure, sensor damage, ignition, or other intended outcomes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rp-photonics.com/laser_induced_damage.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rp-photonics.com">[RP Photonics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rp-photonics.com</span><span class="citation-popover-title">RP Photonics Laser-induced Damage</span><span class="citation-popover-snippet">RP PhotonicsLaser-induced DamageDecember 11, 2025 — by R Paschotta · 2014 · Cited by 2 — Laser-induced damage occurs in optical component...</span><span class="citation-popover-meta">Published: December 11, 2025</span></span></span>
 
 This creates an important asymmetry. A modest reduction in beam power can produce a disproportionately large reduction in lethality.
 
@@ -312,7 +312,7 @@ Consider the chain of events:
 
 </div>
 
-The target therefore survives even though the beam still arrives and may even be visible on the target surface. Research on atmospheric laser propagation consistently identifies fog as one of the strongest causes of attenuation because droplet sizes interact efficiently with optical [wavelengths]({{ 'wavelengths/' | relative_url }}) used in many laser systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2073-4433/12/7/918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Laser Beam Atmospheric Propagation Modelling for...by T Fahey · 2021 · Cited by 103 — In this paper, the atmospheric radiative trans...</span></span></span>
+The target therefore survives even though the beam still arrives and may even be visible on the target surface. Research on atmospheric laser propagation consistently identifies fog as one of the strongest causes of attenuation because droplet sizes interact efficiently with optical [wavelengths]({{ 'wavelengths/' | relative_url }}) used in many laser systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2073-4433/12/7/918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Laser Beam Atmospheric Propagation Modelling for...by T Fahey · 2021 · Cited by 103 — In this paper, the atmospheric radiative trans...</span></span></span>
 
 This threshold behaviour explains why reports of laser performance often focus on "effective range" rather than maximum visible range. The distance at which the target can be seen may remain far greater than the distance at which enough energy can be delivered to achieve damage.
 
@@ -322,7 +322,7 @@ This threshold behaviour explains why reports of laser performance often focus o
 
 Tracking systems and weapon effects have different performance requirements.
 
-Many laser weapon systems use separate sensors for acquisition, identification, and beam control. Those sensors can often continue functioning when atmospheric conditions have already reduced the weapon beam's effectiveness. Industry descriptions of operational laser systems routinely distinguish detection, tracking, identification, and defeat as separate functions rather than a single process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rtx.com">[RTX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rtx.com</span><span class="citation-popover-snippet">High-Energy Lasers &#124; RaytheonThis directed energy technology enables detection of threats, tracking during maneuvers, and positive vis...</span></span></span>
+Many laser weapon systems use separate sensors for acquisition, identification, and beam control. Those sensors can often continue functioning when atmospheric conditions have already reduced the weapon beam's effectiveness. Industry descriptions of operational laser systems routinely distinguish detection, tracking, identification, and defeat as separate functions rather than a single process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rtx.com">[RTX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rtx.com</span><span class="citation-popover-snippet">High-Energy Lasers &#124; RaytheonThis directed energy technology enables detection of threats, tracking during maneuvers, and positive vis...</span></span></span>
 
 As fog thickens, the sequence often unfolds like this:
 
@@ -337,7 +337,7 @@ As fog thickens, the sequence often unfolds like this:
 
 </div>
 
-This creates a potentially misleading operational picture. Operators may have excellent awareness of the target's position and motion while lacking sufficient beam intensity to disable it. The engagement appears successful from a tracking perspective but unsuccessful from a damage perspective. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.linkedin.com/pulse/technical-evolution-operational-integration-light-based-robi-sen-hhdoc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Technical Evolution and Operational Integration of Directed...Directed-energy performance claims are especially sensitive to ran...</span></span></span>
+This creates a potentially misleading operational picture. Operators may have excellent awareness of the target's position and motion while lacking sufficient beam intensity to disable it. The engagement appears successful from a tracking perspective but unsuccessful from a damage perspective.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.linkedin.com/pulse/technical-evolution-operational-integration-light-based-robi-sen-hhdoc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Technical Evolution and Operational Integration of Directed...Directed-energy performance claims are especially sensitive to ran...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7J2NJLBVER8" title="Iron Beam In Fog: Can Laser Weapons Work Without Visibility? | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7J2NJLBVER8" target="_blank" rel="noopener noreferrer">Iron Beam In Fog: Can Laser Weapons Work Without Visibility? | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7J2NJLBVER8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7J2NJLBVER8">Open on YouTube</a></p></div></div></div>
@@ -346,7 +346,7 @@ This creates a potentially misleading operational picture. Operators may have ex
 
 When fog reduces delivered energy, one theoretical solution is simply to keep the laser on target longer.
 
-In practice, this approach quickly encounters limits. Directed-energy analyses emphasise that laser weapons must accumulate enough energy on a target over a finite dwell time. As atmospheric losses increase, the required dwell time grows. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airpower.airforce.gov.au">[Air and Space Power Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airpower.airforce.gov.au</span><span class="citation-popover-title">Air and Space Power Centre Directed Energy Weapons</span><span class="citation-popover-snippet">Air and Space Power CentreDirected Energy Weapons - Air and Space Power CentreAtmospheric weather conditions (eg cloud, rain, fog, changi...</span></span></span>
+In practice, this approach quickly encounters limits. Directed-energy analyses emphasise that laser weapons must accumulate enough energy on a target over a finite dwell time. As atmospheric losses increase, the required dwell time grows.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airpower.airforce.gov.au">[Air and Space Power Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airpower.airforce.gov.au</span><span class="citation-popover-title">Air and Space Power Centre Directed Energy Weapons</span><span class="citation-popover-snippet">Air and Space Power CentreDirected Energy Weapons - Air and Space Power CentreAtmospheric weather conditions (eg cloud, rain, fog, changi...</span></span></span>
 
 A target that might be damaged after a brief exposure in clear air may require a much longer exposure in fog. That creates several operational problems:
 
@@ -361,7 +361,7 @@ A target that might be damaged after a brief exposure in clear air may require a
 
 </div>
 
-The key point is that fog does not necessarily stop all energy from arriving. Instead, it can reduce delivery enough that the required exposure time becomes tactically unrealistic. The target survives not because the laser is absent, but because the damage process becomes too slow. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airpower.airforce.gov.au">[Air and Space Power Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airpower.airforce.gov.au</span><span class="citation-popover-title">Air and Space Power Centre Directed Energy Weapons</span><span class="citation-popover-snippet">Air and Space Power CentreDirected Energy Weapons - Air and Space Power CentreAtmospheric weather conditions (eg cloud, rain, fog, changi...</span></span></span>
+The key point is that fog does not necessarily stop all energy from arriving. Instead, it can reduce delivery enough that the required exposure time becomes tactically unrealistic. The target survives not because the laser is absent, but because the damage process becomes too slow.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airpower.airforce.gov.au">[Air and Space Power Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airpower.airforce.gov.au</span><span class="citation-popover-title">Air and Space Power Centre Directed Energy Weapons</span><span class="citation-popover-snippet">Air and Space Power CentreDirected Energy Weapons - Air and Space Power CentreAtmospheric weather conditions (eg cloud, rain, fog, changi...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_fog_laser_ran_e9f3f6_visible_targe_b1ed46-Illustration-3-dark.svg" | relative_url }}" alt="Visible Targets illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_fog_laser_ran_e9f3f6_visible_targe_b1ed46-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_fog_laser_ran_e9f3f6_visible_targe_b1ed46-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -369,199 +369,199 @@ The key point is that fog does not necessarily stop all energy from arriving. In
 
 Claims that a laser can still "see," "illuminate," or "track" a target through fog should not automatically be interpreted as proof that it can still destroy that target.
 
-A laser engagement succeeds only when sufficient energy reaches a sufficiently small spot for long enough to exceed the target's damage threshold. Fog often degrades this energy concentration faster than it degrades visibility. Consequently, a drone, missile, or aircraft may remain easy to detect and follow while becoming increasingly difficult to damage. Drill &amp; Defense+2Air and Space Power Centre <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drillanddefense.com">[drillanddefense.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drillanddefense.com</span><span class="citation-popover-snippet">Weather and atmosphere can reduce effectiveness. Fog, rain, smoke, dust, sea spray, and...Read more...</span></span></span>
+A laser engagement succeeds only when sufficient energy reaches a sufficiently small spot for long enough to exceed the target's damage threshold. Fog often degrades this energy concentration faster than it degrades visibility. Consequently, a drone, missile, or aircraft may remain easy to detect and follow while becoming increasingly difficult to damage. Drill &amp; Defense+2Air and Space Power Centre<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drillanddefense.com">[drillanddefense.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drillanddefense.com</span><span class="citation-popover-snippet">Weather and atmosphere can reduce effectiveness. Fog, rain, smoke, dust, sea spray, and...Read more...</span></span></span>
 
-This is the critical mechanism behind the apparent paradox of foggy laser engagements: seeing a target is a sensing problem, but defeating it is an energy-delivery problem. Fog can leave the first largely intact while undermining the second. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ijast.org/volume-4-issue-1-article-5-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijast.org">[IJAST+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijast.org</span><span class="citation-popover-snippet">The Detection Capability of Laser Fuze in Fog, Mist, and...The key optical phenomena which influence the detection performance of l...</span></span></span>
+This is the critical mechanism behind the apparent paradox of foggy laser engagements: seeing a target is a sensing problem, but defeating it is an energy-delivery problem. Fog can leave the first largely intact while undermining the second.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ijast.org/volume-4-issue-1-article-5-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijast.org">[IJAST+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijast.org</span><span class="citation-popover-snippet">The Detection Capability of Laser Fuze in Fog, Mist, and...The key optical phenomena which influence the detection performance of l...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Seeing a Target Is Not Enough. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Seeing a Target Is Not Enough. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to adaptive optics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8312561-M.jpg" alt="Cover for Introduction to adaptive optics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to adaptive optics">Introduction to adaptive optics</a>
-        </h4>
-        <p class="fr-book-author">By Robert K. Tyson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to adaptive optics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8312561-M.jpg" alt="Cover for Introduction to adaptive optics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to adaptive optics">Introduction to adaptive optics</a>
+</h4>
+<p class="fr-book-author">By Robert K. Tyson</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Adaptive Optics, Optical detectors, Optical instruments, Optical measurements, Optics, Adaptive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Adaptive Optics, Optical detectors, Optical instruments, Optical measurements, Optics, Adaptive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Photonics, 2 Volume Set on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13839810-M.jpg" alt="Cover for Fundamentals of Photonics, 2 Volume Set" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Photonics, 2 Volume Set">Fundamentals of Photonics, 2 Volume Set</a>
-        </h4>
-        <p class="fr-book-author">By Bahaa E. A. Saleh, Malvin Carl Teich</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Photonics, 2 Volume Set on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13839810-M.jpg" alt="Cover for Fundamentals of Photonics, 2 Volume Set" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Photonics, 2 Volume Set">Fundamentals of Photonics, 2 Volume Set</a>
+</h4>
+<p class="fr-book-author">By Bahaa E. A. Saleh, Malvin Carl Teich</p>
         
-        <p class="fr-book-desc">First published 2019. Subjects: Photonics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019. Subjects: Photonics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
-        </h4>
-        <p class="fr-book-author">By Bahman Zohuri</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
+</h4>
+<p class="fr-book-author">By Bahman Zohuri</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media+Larry+C.+Andrews+and+Ronald+L.+Phillips&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Laser Beam Propagation through Random Media on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media+Larry+C.+Andrews+and+Ronald+L.+Phillips&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser Beam Propagation through Random Media">Laser Beam Propagation through Random Media</a>
-        </h4>
-        <p class="fr-book-author">By Larry C. Andrews and Ronald L. Phillips</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media+Larry+C.+Andrews+and+Ronald+L.+Phillips&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Laser Beam Propagation through Random Media on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media+Larry+C.+Andrews+and+Ronald+L.+Phillips&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser Beam Propagation through Random Media">Laser Beam Propagation through Random Media</a>
+</h4>
+<p class="fr-book-author">By Larry C. Andrews and Ronald L. Phillips</p>
         
-        <p class="fr-book-desc">Explains how beam losses occur despite continued visibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media+Larry+C.+Andrews+and+Ronald+L.+Phillips&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how beam losses occur despite continued visibility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media+Larry+C.+Andrews+and+Ronald+L.+Phillips&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+adaptive+optics+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to adaptive optics books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of Photonics, 2 Volume Set</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed Energy Weapons</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+adaptive+optics+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to adaptive optics books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of Photonics, 2 Volume Set</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed Energy Weapons</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MQ-9 Predator B Reaper Hunter Killer Drone USAF UAV Wood Wooden Mahogany Model"><img src="{{ '/assets/images/marketplace-covers/36842923c06fd5ba855b.jpg' | relative_url }}" alt="Listing image for MQ-9 Predator B Reaper Hunter Killer Drone USAF UAV Wood Wooden Mahogany Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">MQ-9 Predator B Reaper Hunter Killer Drone USAF UAV Wood Wooden Mahogany Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MQ-9 Predator B Reaper Hunter Killer Drone USAF UAV Wood Wooden Mahogany Model"><img src="{{ '/assets/images/marketplace-covers/36842923c06fd5ba855b.jpg' | relative_url }}" alt="Listing image for MQ-9 Predator B Reaper Hunter Killer Drone USAF UAV Wood Wooden Mahogany Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">MQ-9 Predator B Reaper Hunter Killer Drone USAF UAV Wood Wooden Mahogany Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit"><img src="{{ '/assets/images/marketplace-covers/e39e7ba02c6fc339dd8d.jpg' | relative_url }}" alt="Listing image for Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit"><img src="{{ '/assets/images/marketplace-covers/e39e7ba02c6fc339dd8d.jpg' | relative_url }}" alt="Listing image for Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit"><img src="{{ '/assets/images/marketplace-covers/3327be5d6e43f1a2d594.jpg' | relative_url }}" alt="Listing image for Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit"><img src="{{ '/assets/images/marketplace-covers/3327be5d6e43f1a2d594.jpg' | relative_url }}" alt="Listing image for Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF Boeing YAL-1A Airborne Laser Edwards AFB Desk Top Model 1/200 SC Airplane"><img src="{{ '/assets/images/marketplace-covers/50462e7e924f17a01d9d.jpg' | relative_url }}" alt="Listing image for USAF Boeing YAL-1A Airborne Laser Edwards AFB Desk Top Model 1/200 SC Airplane" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">USAF Boeing YAL-1A Airborne Laser Edwards AFB Desk Top Model 1/200 SC Airplane</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF Boeing YAL-1A Airborne Laser Edwards AFB Desk Top Model 1/200 SC Airplane"><img src="{{ '/assets/images/marketplace-covers/50462e7e924f17a01d9d.jpg' | relative_url }}" alt="Listing image for USAF Boeing YAL-1A Airborne Laser Edwards AFB Desk Top Model 1/200 SC Airplane" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">USAF Boeing YAL-1A Airborne Laser Edwards AFB Desk Top Model 1/200 SC Airplane</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="visible-targets-why-seeing-a-target-is-not-enough-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -577,7 +577,7 @@ This is the critical mechanism behind the apparent paradox of foggy laser engage
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -597,7 +597,7 @@ This is the critical mechanism behind the apparent paradox of foggy laser engage
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -629,7 +629,7 @@ This is the critical mechanism behind the apparent paradox of foggy laser engage
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -681,7 +681,7 @@ This is the critical mechanism behind the apparent paradox of foggy laser engage
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -726,7 +726,7 @@ This is the critical mechanism behind the apparent paradox of foggy laser engage
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -767,147 +767,147 @@ This is the critical mechanism behind the apparent paradox of foggy laser engage
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gao.gov  
    Title: Science & Tech Spotlight: Directed Energy Weapons  
-   Link: <a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy WeaponsMay 25, 2023 — Directed energy weapons—such as [lasers](&amp;#123;&amp;#123; &#x27;lasers/&#x27; | relative_url &amp;#125;&amp;#125;)—use energy fired at the speed o...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy WeaponsMay 25, 2023 — Directed energy weapons—such as [lasers](&amp;#123;&amp;#123; &#x27;lasers/&#x27; | relative_url &amp;#125;&amp;#125;)—use energy fired at the speed o...</p></details>
    Published: May 25, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: onr.navy.mil  
-   Link: <a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers</a>  
+   Link:<a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ijast.org  
-   Link: <a href="https://ijast.org/volume-4-issue-1-article-5-2/" target="_blank" rel="noopener noreferrer nofollow">https://ijast.org/volume-4-issue-1-article-5-2/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Detection Capability of Laser Fuze in Fog, Mist, and...The key optical phenomena which influence the detection performance of l...</p></details>
+   Link:<a href="https://ijast.org/volume-4-issue-1-article-5-2/" target="_blank" rel="noopener noreferrer nofollow">https://ijast.org/volume-4-issue-1-article-5-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Detection Capability of Laser Fuze in Fog, Mist, and...The key optical phenomena which influence the detection performance of l...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Laser-Based Directed Energy WeaponsFog and Rain Absorption: Water droplets significantly absorb and scatter energy; dense fog may r...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Laser-Based Directed Energy WeaponsFog and Rain Absorption: Water droplets significantly absorb and scatter energy; dense fog may r...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: rp-photonics.com  
    Title: RP Photonics Laser-induced Damage  
-   Link: <a href="https://www.rp-photonics.com/laser_induced_damage.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rp-photonics.com/laser_induced_damage.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RP PhotonicsLaser-induced DamageDecember 11, 2025 — by R Paschotta · 2014 · Cited by 2 — Laser-induced damage occurs in optical component...</p></details>
+   Link:<a href="https://www.rp-photonics.com/laser_induced_damage.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rp-photonics.com/laser_induced_damage.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RP PhotonicsLaser-induced DamageDecember 11, 2025 — by R Paschotta · 2014 · Cited by 2 — Laser-induced damage occurs in optical component...</p></details>
    Published: December 11, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2073-4433/12/7/918" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2073-4433/12/7/918</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Beam Atmospheric Propagation Modelling for...by T Fahey · 2021 · Cited by 103 — In this paper, the atmospheric radiative trans...</p></details>
+   Link:<a href="https://www.mdpi.com/2073-4433/12/7/918" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2073-4433/12/7/918</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Beam Atmospheric Propagation Modelling for...by T Fahey · 2021 · Cited by 103 — In this paper, the atmospheric radiative trans...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/275984927_Attenuation_of_laser_fuse_through_fog" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/275984927_Attenuation_of_laser_fuse_through_fog</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Attenuation of laser fuse through fogTheory analysis and experimental results indicate that the laser beam is dependent on the visibiliti...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/275984927_Attenuation_of_laser_fuse_through_fog" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/275984927_Attenuation_of_laser_fuse_through_fog</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Attenuation of laser fuse through fogTheory analysis and experimental results indicate that the laser beam is dependent on the visibiliti...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: rtx.com  
-   Link: <a href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>High-Energy Lasers | RaytheonThis directed energy technology enables detection of threats, tracking during maneuvers, and positive vis...</p></details>
+   Link:<a href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High-Energy Lasers | RaytheonThis directed energy technology enables detection of threats, tracking during maneuvers, and positive vis...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/technical-evolution-operational-integration-light-based-robi-sen-hhdoc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/technical-evolution-operational-integration-light-based-robi-sen-hhdoc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Technical Evolution and Operational Integration of Directed...Directed-energy performance claims are especially sensitive to ran...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/technical-evolution-operational-integration-light-based-robi-sen-hhdoc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/technical-evolution-operational-integration-light-based-robi-sen-hhdoc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Technical Evolution and Operational Integration of Directed...Directed-energy performance claims are especially sensitive to ran...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/307435846_Atmospheric_Propagation_of_High-Energy_Laser_Beams" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/307435846_Atmospheric_Propagation_of_High-Energy_Laser_Beams</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Atmospheric Propagation of High-Energy Laser BeamsLaser sources are widely used for exploring the atmosphere, in particular, its ga...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/307435846_Atmospheric_Propagation_of_High-Energy_Laser_Beams" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/307435846_Atmospheric_Propagation_of_High-Energy_Laser_Beams</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Atmospheric Propagation of High-Energy Laser BeamsLaser sources are widely used for exploring the atmosphere, in particular, its ga...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/399863884_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399863884_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Laser-Based Directed Energy WeaponsJan 30, 2026 — Atmospheric propagation remains a primary performance constraint, while mitigatio...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/399863884_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399863884_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Laser-Based Directed Energy WeaponsJan 30, 2026 — Atmospheric propagation remains a primary performance constraint, while mitigatio...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: photonics.com  
-   Link: <a href="https://www.photonics.com/Articles/High-Laser-Induced-Damage-Threshold-Optics/a46171" target="_blank" rel="noopener noreferrer nofollow">https://www.photonics.com/Articles/High-Laser-Induced-Damage-Threshold-Optics/a46171</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>High Laser-Induced-Damage Threshold OpticsLasers can cause a lot of damage to optical coatings, and buyers of optics would do well to und...</p></details>
+   Link:<a href="https://www.photonics.com/Articles/High-Laser-Induced-Damage-Threshold-Optics/a46171" target="_blank" rel="noopener noreferrer nofollow">https://www.photonics.com/Articles/High-Laser-Induced-Damage-Threshold-Optics/a46171</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High Laser-Induced-Damage Threshold OpticsLasers can cause a lot of damage to optical coatings, and buyers of optics would do well to und...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons DOD Should Focus on Transition...DOD spends about $1 billion annually on directed energy--concentrated electroma...</p></details>
+   Link:<a href="https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons DOD Should Focus on Transition...DOD spends about $1 billion annually on directed energy--concentrated electroma...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: airpower.airforce.gov.au  
    Title: Air and Space Power Centre Directed Energy Weapons  
-   Link: <a href="https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf" target="_blank" rel="noopener noreferrer nofollow">https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air and Space Power CentreDirected Energy Weapons - Air and Space Power CentreAtmospheric weather conditions (eg cloud, rain, fog, changi...</p></details>
+   Link:<a href="https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf" target="_blank" rel="noopener noreferrer nofollow">https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air and Space Power CentreDirected Energy Weapons - Air and Space Power CentreAtmospheric weather conditions (eg cloud, rain, fog, changi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: drillanddefense.com  
-   Link: <a href="https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/" target="_blank" rel="noopener noreferrer nofollow">https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather and atmosphere can reduce effectiveness. Fog, rain, smoke, dust, sea spray, and...Read more...</p></details>
+   Link:<a href="https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/" target="_blank" rel="noopener noreferrer nofollow">https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weather and atmosphere can reduce effectiveness. Fog, rain, smoke, dust, sea spray, and...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Laser weapon  
-   Link: <a href="https://en.wikipedia.org/wiki/Laser_weapon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Laser_weapon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser weaponA laser weapon is a type of directed-energy weapon (DEW) that uses lasers to inflict damage. Laser weapons are of two type...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Laser_weapon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Laser_weapon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser weaponA laser weapon is a type of directed-energy weapon (DEW) that uses lasers to inflict damage. Laser weapons are of two type...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aspistrategist.org.au  
    Title: war at the speed of light the emerging role of directed energy weapons  
-   Link: <a href="https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow">https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the emerging role of directed-energy weapons15 Apr 2026 — atmospheric effects can reduce the effectiveness of high energy lasers, and the...</p></details>
+   Link:<a href="https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow">https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the emerging role of directed-energy weapons15 Apr 2026 — atmospheric effects can reduce the effectiveness of high energy lasers, and the...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: eureka.patsnap.com  
    Title: report atmospheric effects on long range [laser power](&#123;&#123; 'power-costs/' | relative_url &#125;&#125;) transmission  
-   Link: <a href="https://eureka.patsnap.com/report-atmospheric-effects-on-long-range-laser-power-transmission" target="_blank" rel="noopener noreferrer nofollow">https://eureka.patsnap.com/report-atmospheric-effects-on-long-range-laser-power-transmission</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PatSnap EurekaAtmospheric Effects On Long-Range Laser Power...28 Aug 2025 — Weather conditions dramatically affect transmission efficien...</p></details>
+   Link:<a href="https://eureka.patsnap.com/report-atmospheric-effects-on-long-range-laser-power-transmission" target="_blank" rel="noopener noreferrer nofollow">https://eureka.patsnap.com/report-atmospheric-effects-on-long-range-laser-power-transmission</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PatSnap EurekaAtmospheric Effects On Long-Range Laser Power...28 Aug 2025 — Weather conditions dramatically affect transmission efficien...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: c4isrnet.com  
    Title: cloudy and a chance of rain need not sideline high energy lasers  
-   Link: <a href="https://www.c4isrnet.com/opinion/2018/02/26/cloudy-and-a-chance-of-rain-need-not-sideline-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow">https://www.c4isrnet.com/opinion/2018/02/26/cloudy-and-a-chance-of-rain-need-not-sideline-high-energy-lasers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cloudy and a chance of rain need not sideline high-energy...Feb 26, 2018 — As such, while certain effects of a laser weapon are negative...</p></details>
+   Link:<a href="https://www.c4isrnet.com/opinion/2018/02/26/cloudy-and-a-chance-of-rain-need-not-sideline-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow">https://www.c4isrnet.com/opinion/2018/02/26/cloudy-and-a-chance-of-rain-need-not-sideline-high-energy-lasers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cloudy and a chance of rain need not sideline high-energy...Feb 26, 2018 — As such, while certain effects of a laser weapon are negative...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: army.mil  
    Title: developing lasers that pierce fog dust to destroy targets  
-   Link: <a href="https://www.army.mil/article/195650/army_developing_lasers_that_pierce_fog_dust_to_destroy_targets" target="_blank" rel="noopener noreferrer nofollow">https://www.army.mil/article/195650/army_developing_lasers_that_pierce_fog_dust_to_destroy_targets</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Army developing lasers that pierce fog, dust to destroy targets23 Oct 2017 — A lot of people think that high-energy lasers, or HELs, can&#x27;...</p></details>
+   Link:<a href="https://www.army.mil/article/195650/army_developing_lasers_that_pierce_fog_dust_to_destroy_targets" target="_blank" rel="noopener noreferrer nofollow">https://www.army.mil/article/195650/army_developing_lasers_that_pierce_fog_dust_to_destroy_targets</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Army developing lasers that pierce fog, dust to destroy targets23 Oct 2017 — A lot of people think that high-energy lasers, or HELs, can&#x27;...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: spiedigitallibrary.org  
-   Link: <a href="https://www.spiedigitallibrary.org/proceedings/Download?downloadType=proceedings+article&amp;isResultClick=True&amp;urlId=10.1117%2F12.2037779" target="_blank" rel="noopener noreferrer nofollow">https://www.spiedigitallibrary.org/proceedings/Download?downloadType=proceedings+article&amp;isResultClick=True&amp;urlId=10.1117%2F12.2037779</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>olecules and salt, especially in adverse weather conditions, such as fog, rain...</p></details>
+   Link:<a href="https://www.spiedigitallibrary.org/proceedings/Download?downloadType=proceedings+article&amp;isResultClick=True&amp;urlId=10.1117%2F12.2037779" target="_blank" rel="noopener noreferrer nofollow">https://www.spiedigitallibrary.org/proceedings/Download?downloadType=proceedings+article&amp;isResultClick=True&amp;urlId=10.1117%2F12.2037779</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>olecules and salt, especially in adverse weather conditions, such as fog, rain...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ndupress.ndu.edu  
    Title: directed energy weapons are real and disruptive  
-   Link: <a href="https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2053280/directed-energy-weapons-are-real-and-disruptive/" target="_blank" rel="noopener noreferrer nofollow">https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2053280/directed-energy-weapons-are-real-and-disruptive/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>And DisruptiveJan 9, 2020 — In this case, the laser weapon system would sense the atmospheric conditions... [beam quality](&amp;#123;&amp;#123; &#x27;beam-quality/&#x27; | relative_url &amp;#125;&amp;#125;) can also help t...</p></details>
+   Link:<a href="https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2053280/directed-energy-weapons-are-real-and-disruptive/" target="_blank" rel="noopener noreferrer nofollow">https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2053280/directed-energy-weapons-are-real-and-disruptive/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>And DisruptiveJan 9, 2020 — In this case, the laser weapon system would sense the atmospheric conditions... [beam quality](&amp;#123;&amp;#123; &#x27;beam-quality/&#x27; | relative_url &amp;#125;&amp;#125;) can also help t...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/474884840305370/posts/1059982271795621/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/474884840305370/posts/1059982271795621/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>range and effectiveness. Precision: pointing stability and...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/474884840305370/posts/1059982271795621/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/474884840305370/posts/1059982271795621/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>range and effectiveness. Precision: pointing stability and...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: scienceandglobalsecurity.org  
-   Link: <a href="https://scienceandglobalsecurity.org/archive/sgs18stupl.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scienceandglobalsecurity.org/archive/sgs18stupl.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This method applies physics-based models, which have been...Read more...</p></details>
+   Link:<a href="https://scienceandglobalsecurity.org/archive/sgs18stupl.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scienceandglobalsecurity.org/archive/sgs18stupl.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This method applies physics-based models, which have been...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: laserwars.net  
    Title: navy laser weapons challenges atmosphere fog  
-   Link: <a href="https://www.laserwars.net/p/navy-laser-weapons-challenges-atmosphere-fog" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/navy-laser-weapons-challenges-atmosphere-fog</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fog of War: The Biggest Challenge for Naval Laser Weapons22 May 2025 — Welcome to the literal fog of war, where high-energy lasers run fa...</p></details>
+   Link:<a href="https://www.laserwars.net/p/navy-laser-weapons-challenges-atmosphere-fog" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/navy-laser-weapons-challenges-atmosphere-fog</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fog of War: The Biggest Challenge for Naval Laser Weapons22 May 2025 — Welcome to the literal fog of war, where high-energy lasers run fa...</p></details>
    Published: May 2025  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: laserwars.net  
    Title: us military laser weapons fielding timeline  
-   Link: <a href="https://www.laserwars.net/p/us-military-laser-weapons-fielding-timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/us-military-laser-weapons-fielding-timeline</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon Wants to Field Laser Weapons Within 3 Years16 Mar 2026 — The US military plans on fielding laser weapons at scale within the...</p></details>
+   Link:<a href="https://www.laserwars.net/p/us-military-laser-weapons-fielding-timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/us-military-laser-weapons-fielding-timeline</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon Wants to Field Laser Weapons Within 3 Years16 Mar 2026 — The US military plans on fielding laser weapons at scale within the...</p></details>

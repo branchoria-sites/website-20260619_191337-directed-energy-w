@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /directed-ener-98f417-cost-per-shot/
 description: Focused pages that expand on Shot Cost.
-date: '2026-06-19'
+date: '2026'
 layout: default
 parent_basename: Directed_Ener_98f417_cost_per_shot_05acf8
 parent_title: Shot Cost
@@ -16,7 +16,7 @@ parent_permalink: /shot-cost/
 
 # Explore Topics in Shot Cost
 
-The following pages expand on the main **[Shot Cost]({{ '/shot-cost/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Shot Cost]({{ '/shot-cost/' | relative_url }})** page and cover its key branches in.
 
 - [Missile Mismatch]({{ '/missile-mismatch/' | relative_url }})
 - [Deep Magazine]({{ '/deep-magazine/' | relative_url }})

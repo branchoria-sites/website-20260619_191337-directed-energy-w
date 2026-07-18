@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /directed-ener-98f417-friendly-elec/
 description: Focused pages that expand on Electronics Risk.
-date: '2026-06-19'
+date: '2026'
 layout: default
 parent_basename: Directed_Ener_98f417_friendly_elec_5af6bb
 parent_title: Electronics Risk
@@ -16,7 +16,7 @@ parent_permalink: /electronics-risk/
 
 # Explore Topics in Electronics Risk
 
-The following pages expand on the main **[Electronics Risk]({{ '/electronics-risk/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Electronics Risk]({{ '/electronics-risk/' | relative_url }})** page and cover its key branches in.
 
 - [Airbase Zones]({{ '/airbase-zones/' | relative_url }})
 - [Airport Safety]({{ '/airport-safety/' | relative_url }})

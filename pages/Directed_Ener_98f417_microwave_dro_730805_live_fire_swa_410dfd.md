@@ -294,19 +294,19 @@ image: /assets/images/Directed_Ener_98f417_microwave_dro_730805_live_fire_swa_41
 
 ## Introduction
 
-Live-fire demonstrations of high-power microwave (HPM) weapons are often presented as evidence that drone [swarms]({{ 'swarms/' | relative_url }}) can be defeated quickly and cheaply. Two of the most widely cited examples are Epirus’s Leonidas system in the United States and the United Kingdom’s RapidDestroyer radio-frequency directed-energy weapon demonstrator. Both programmes have reported striking results against multiple drones in realistic firing events, helping to establish microwave weapons as a serious counter-swarm option. However, the public evidence remains heavily weighted toward company and government announcements rather than independently verifiable operational testing. The key question is therefore not whether these systems can affect drones—they clearly can—but how much their headline results reveal about real [battlefield]({{ 'battle-limits/' | relative_url }}) performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-snippet">2025 · Epirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone Swarm, 100% of Drones Flown at Live-Fire Demonstration. September...Read more...</span></span></span>
+Live-fire demonstrations of high-power microwave (HPM) weapons are often presented as evidence that drone [swarms]({{ 'swarms/' | relative_url }}) can be defeated quickly and cheaply. Two of the most widely cited examples are Epirus’s Leonidas system in the United States and the United Kingdom’s RapidDestroyer radio-frequency directed-energy weapon demonstrator. Both programmes have reported striking results against multiple drones in realistic firing events, helping to establish microwave weapons as a serious counter-swarm option. However, the public evidence remains heavily weighted toward company and government announcements rather than independently verifiable operational testing. The key question is therefore not whether these systems can affect drones—they clearly can—but how much their headline results reveal about real [battlefield]({{ 'battle-limits/' | relative_url }}) performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-snippet">2025 · Epirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone Swarm, 100% of Drones Flown at Live-Fire Demonstration. September...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_microwave_dro_730805_live_fire_swa_410dfd-Illustration-1-dark.svg" | relative_url }}" alt="Live Fire Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_microwave_dro_730805_live_fire_swa_410dfd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_microwave_dro_730805_live_fire_swa_410dfd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Reported Drone Defeat Results
 
-Leonidas has generated some of the most ambitious public claims in the counter-swarm sector. In a September 2025 live-fire demonstration at Camp [Atterbury]({{ 'open-questions-f1b729/' | relative_url }}), Indiana, Epirus stated that its latest system neutralised 61 of 61 drones flown during five test scenarios. The headline result was a reported defeat of a 49-[drone swarm]({{ 'swarm-limits/' | relative_url }}) using a single burst of electromagnetic energy. Company statements described the demonstration as a 100% success rate and emphasised that military representatives and foreign observers attended the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus+2Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-snippet">2025 · Epirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone Swarm, 100% of Drones Flown at Live-Fire Demonstration. September...Read more...</span></span></span>
+Leonidas has generated some of the most ambitious public claims in the counter-swarm sector. In a September 2025 live-fire demonstration at Camp [Atterbury]({{ 'open-questions-f1b729/' | relative_url }}), Indiana, Epirus stated that its latest system neutralised 61 of 61 drones flown during five test scenarios. The headline result was a reported defeat of a 49-[drone swarm]({{ 'swarm-limits/' | relative_url }}) using a single burst of electromagnetic energy. Company statements described the demonstration as a 100% success rate and emphasised that military representatives and foreign observers attended the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus+2Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-snippet">2025 · Epirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone Swarm, 100% of Drones Flown at Live-Fire Demonstration. September...Read more...</span></span></span>
 
-Epirus subsequently highlighted another demonstration in December 2025 involving a fibre-optic-guided drone. These aircraft are significant because they do not rely on radio links for control and therefore cannot be defeated by conventional command-link jamming. The company reported that Leonidas successfully disrupted or disabled the drone during a government-observed live-fire event, presenting the result as evidence that microwave effects can extend beyond traditional electronic warfare techniques. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-demonstrates-successful-use-of-high-power-microwave-to-defeat-fiber-optic-controlled-uas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus+2Tectonic Defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-title">Epirus Epirus&#x27; Leonidas Demonstrates Successful Use of High- ...Epirus&#x27; Leonidas Demonstrates Successful Use of High-Power Microwave to D</span><span class="citation-popover-snippet">EpirusEpirus&#x27; Leonidas Demonstrates Successful Use of High- ...Epirus&#x27; Leonidas Demonstrates Successful Use of High-Power Microwave to De...</span></span></span>
+Epirus subsequently highlighted another demonstration in December 2025 involving a fibre-optic-guided drone. These aircraft are significant because they do not rely on radio links for control and therefore cannot be defeated by conventional command-link jamming. The company reported that Leonidas successfully disrupted or disabled the drone during a government-observed live-fire event, presenting the result as evidence that microwave effects can extend beyond traditional electronic warfare techniques.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-demonstrates-successful-use-of-high-power-microwave-to-defeat-fiber-optic-controlled-uas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus+2Tectonic Defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-title">Epirus Epirus&#x27; Leonidas Demonstrates Successful Use of High- ...Epirus&#x27; Leonidas Demonstrates Successful Use of High-Power Microwave to D</span><span class="citation-popover-snippet">EpirusEpirus&#x27; Leonidas Demonstrates Successful Use of High- ...Epirus&#x27; Leonidas Demonstrates Successful Use of High-Power Microwave to De...</span></span></span>
 
-The UK's RapidDestroyer programme has also produced notable public claims. In trials announced by the Ministry of Defence in April 2025, British soldiers reportedly tracked, targeted and defeated drone swarms using a Radiofrequency Directed Energy Weapon (RF-DEW). The government stated that more than 100 drones were tracked, engaged and defeated across the testing campaign, including scenarios involving swarms. Reports from the trials indicated that two swarms of eight drones were neutralised during a recent demonstration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/british-soldiers-take-down-drone-swarm-in-groundbreaking-use-of-radio-wave-weapon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">British soldiers take down drone swarm in groundbreaking...17 Apr 2025 — British soldiers have successfully tracked, targeted and defeat...</span></span></span>
+The UK's RapidDestroyer programme has also produced notable public claims. In trials announced by the Ministry of Defence in April 2025, British soldiers reportedly tracked, targeted and defeated drone swarms using a Radiofrequency Directed Energy Weapon (RF-DEW). The government stated that more than 100 drones were tracked, engaged and defeated across the testing campaign, including scenarios involving swarms. Reports from the trials indicated that two swarms of eight drones were neutralised during a recent demonstration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/british-soldiers-take-down-drone-swarm-in-groundbreaking-use-of-radio-wave-weapon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">British soldiers take down drone swarm in groundbreaking...17 Apr 2025 — British soldiers have successfully tracked, targeted and defeat...</span></span></span>
 
-Further testing announced in 2026 reported that an upgraded RapidDestroyer configuration neutralised 80 drones across individual scenarios, suggesting continued development and increasing performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thalesgroup.com/en/news-centre/news-brief/united-kingdom/thales-energy-weapon-neutralises-80-drones-successful-trial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thalesgroup.com">[Thales Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thalesgroup.com</span><span class="citation-popover-title">Thales and E2V demonstrated the upgraded 4 panel</span><span class="citation-popover-snippet">Thales GroupThales energy weapon neutralises 80 drones in successful...2 Jun 2026 — Building on previous successes, RapidDestroyer neutr...</span></span></span>
+Further testing announced in 2026 reported that an upgraded RapidDestroyer configuration neutralised 80 drones across individual scenarios, suggesting continued development and increasing performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thalesgroup.com/en/news-centre/news-brief/united-kingdom/thales-energy-weapon-neutralises-80-drones-successful-trial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thalesgroup.com">[Thales Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thalesgroup.com</span><span class="citation-popover-title">Thales and E2V demonstrated the upgraded 4 panel</span><span class="citation-popover-snippet">Thales GroupThales energy weapon neutralises 80 drones in successful...2 Jun 2026 — Building on previous successes, RapidDestroyer neutr...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZrkopSw5uas" title="Epirus’ Leonidas High-Power Microwave Defeats 49-Drone Swarm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZrkopSw5uas" target="_blank" rel="noopener noreferrer">Epirus’ Leonidas High-Power Microwave Defeats 49-Drone Swarm</a></p><p class="youtube-embed-meta">Channel: Epirus</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZrkopSw5uas" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZrkopSw5uas">Open on YouTube</a></p></div></div></div>
@@ -329,9 +329,9 @@ For Leonidas, the most cited figures come directly from company announcements an
 
 </div>
 
-Without such information, it is difficult to determine whether a 49-drone engagement reflects a broadly representative operational capability or a particularly favourable test configuration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus+2Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-snippet">2025 · Epirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone Swarm, 100% of Drones Flown at Live-Fire Demonstration. September...Read more...</span></span></span>
+Without such information, it is difficult to determine whether a 49-drone engagement reflects a broadly representative operational capability or a particularly favourable test configuration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus+2Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-snippet">2025 · Epirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone Swarm, 100% of Drones Flown at Live-Fire Demonstration. September...Read more...</span></span></span>
 
-The fibre-optic drone demonstration illustrates a similar limitation. The claim is noteworthy because fibre-optic-guided drones have become increasingly important in Ukraine and are designed specifically to avoid radio-frequency interference. However, public reporting does not disclose the drone's design details, the engagement geometry, the mechanism of failure, or whether permanent damage occurred. The demonstration shows that microwave energy can affect at least one such system, but it does not establish how consistently this result would occur across different fibre-optic drone designs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-demonstrates-successful-use-of-high-power-microwave-to-defeat-fiber-optic-controlled-uas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus+2Tectonic Defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-title">Epirus Epirus&#x27; Leonidas Demonstrates Successful Use of High- ...Epirus&#x27; Leonidas Demonstrates Successful Use of High-Power Microwave to D</span><span class="citation-popover-snippet">EpirusEpirus&#x27; Leonidas Demonstrates Successful Use of High- ...Epirus&#x27; Leonidas Demonstrates Successful Use of High-Power Microwave to De...</span></span></span>
+The fibre-optic drone demonstration illustrates a similar limitation. The claim is noteworthy because fibre-optic-guided drones have become increasingly important in Ukraine and are designed specifically to avoid radio-frequency interference. However, public reporting does not disclose the drone's design details, the engagement geometry, the mechanism of failure, or whether permanent damage occurred. The demonstration shows that microwave energy can affect at least one such system, but it does not establish how consistently this result would occur across different fibre-optic drone designs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-demonstrates-successful-use-of-high-power-microwave-to-defeat-fiber-optic-controlled-uas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus+2Tectonic Defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-title">Epirus Epirus&#x27; Leonidas Demonstrates Successful Use of High- ...Epirus&#x27; Leonidas Demonstrates Successful Use of High-Power Microwave to D</span><span class="citation-popover-snippet">EpirusEpirus&#x27; Leonidas Demonstrates Successful Use of High- ...Epirus&#x27; Leonidas Demonstrates Successful Use of High-Power Microwave to De...</span></span></span>
 
 RapidDestroyer's published results contain comparable gaps. Government releases confirm successful engagements against swarms and large numbers of drones across the testing programme, yet detailed performance metrics remain sparse. Public documents do not fully explain:
 
@@ -346,21 +346,21 @@ RapidDestroyer's published results contain comparable gaps. Government releases 
 
 </div>
 
-As with Leonidas, the trials demonstrate capability but provide only a partial picture of operational robustness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/british-soldiers-take-down-drone-swarm-in-groundbreaking-use-of-radio-wave-weapon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">British soldiers take down drone swarm in groundbreaking...17 Apr 2025 — British soldiers have successfully tracked, targeted and defeat...</span></span></span>
+As with Leonidas, the trials demonstrate capability but provide only a partial picture of operational robustness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/british-soldiers-take-down-drone-swarm-in-groundbreaking-use-of-radio-wave-weapon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">British soldiers take down drone swarm in groundbreaking...17 Apr 2025 — British soldiers have successfully tracked, targeted and defeat...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_microwave_dro_730805_live_fire_swa_410dfd-Illustration-2-dark.svg" | relative_url }}" alt="Live Fire Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_microwave_dro_730805_live_fire_swa_410dfd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_microwave_dro_730805_live_fire_swa_410dfd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Demonstrations Can and Cannot Establish
 
-The strongest conclusion from these demonstrations is that high-power microwave systems are no longer purely laboratory concepts. Both Leonidas and RapidDestroyer have repeatedly affected multiple airborne targets in live firing conditions rather than in static bench tests. This is important because swarm defence is fundamentally a one-to-many problem, and both systems have shown the ability to engage groups of drones rather than individual aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-snippet">2025 · Epirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone Swarm, 100% of Drones Flown at Live-Fire Demonstration. September...Read more...</span></span></span>
+The strongest conclusion from these demonstrations is that high-power microwave systems are no longer purely laboratory concepts. Both Leonidas and RapidDestroyer have repeatedly affected multiple airborne targets in live firing conditions rather than in static bench tests. This is important because swarm defence is fundamentally a one-to-many problem, and both systems have shown the ability to engage groups of drones rather than individual aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-snippet">2025 · Epirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone Swarm, 100% of Drones Flown at Live-Fire Demonstration. September...Read more...</span></span></span>
 
-The demonstrations also suggest that microwave weapons may offer a different cost equation from missile-based air defence. RapidDestroyer's developers have emphasised a very low cost per engagement, while Leonidas is promoted as a reusable system capable of repeated shots against large numbers of inexpensive drones. These characteristics are precisely what military planners seek when confronting mass drone attacks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.businessinsider.com/uk-took-down-swarm-drones-new-radio-weapon-rfdew-thales-2025-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">This marks the first time in the UK that such a directed energy weapon, developed by a consortium led by French firm Thales, has eliminat...</span></span></span>
+The demonstrations also suggest that microwave weapons may offer a different cost equation from missile-based air defence. RapidDestroyer's developers have emphasised a very low cost per engagement, while Leonidas is promoted as a reusable system capable of repeated shots against large numbers of inexpensive drones. These characteristics are precisely what military planners seek when confronting mass drone attacks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.businessinsider.com/uk-took-down-swarm-drones-new-radio-weapon-rfdew-thales" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">This marks the first time in the UK that such a directed energy weapon, developed by a consortium led by French firm Thales, has eliminat...</span></span></span>
 
 However, the tests do not prove several broader claims that are sometimes inferred from the headlines.
 
-They do not prove that any microwave system can reliably defeat every type of swarm. Real adversaries can vary drone altitude, spacing, shielding, flight paths and electronic architectures. They can mix autonomous and remotely controlled systems, employ decoys, or attack from multiple directions simultaneously. Public demonstrations rarely reveal how a weapon performs against the full range of these complications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ft.com/content/41703199-201e-4702-b34a-a0a633cdfcf5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-snippet">This weapon emits a wide beam of radio frequency energy designed to disable or destroy drones by damaging their electronic systems. Durin...</span></span></span>
+They do not prove that any microwave system can reliably defeat every type of swarm. Real adversaries can vary drone altitude, spacing, shielding, flight paths and electronic architectures. They can mix autonomous and remotely controlled systems, employ decoys, or attack from multiple directions simultaneously. Public demonstrations rarely reveal how a weapon performs against the full range of these complications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ft.com/content/41703199-201e-4702-b34a-a0a633cdfcf5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-snippet">This weapon emits a wide beam of radio frequency energy designed to disable or destroy drones by damaging their electronic systems. Durin...</span></span></span>
 
-Nor do the demonstrations establish sustained battlefield effectiveness. A successful engagement against dozens of drones during a trial does not automatically answer questions about power generation, mobility, [maintenance]({{ 'maintenance/' | relative_url }}) demands, electromagnetic compatibility, crew workload or repeated operations under combat conditions. These factors often determine whether a promising technology becomes a practical military capability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ft.com/content/41703199-201e-4702-b34a-a0a633cdfcf5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-snippet">This weapon emits a wide beam of radio frequency energy designed to disable or destroy drones by damaging their electronic systems. Durin...</span></span></span>
+Nor do the demonstrations establish sustained battlefield effectiveness. A successful engagement against dozens of drones during a trial does not automatically answer questions about power generation, mobility, [maintenance]({{ 'maintenance/' | relative_url }}) demands, electromagnetic compatibility, crew workload or repeated operations under combat conditions. These factors often determine whether a promising technology becomes a practical military capability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ft.com/content/41703199-201e-4702-b34a-a0a633cdfcf5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-snippet">This weapon emits a wide beam of radio frequency energy designed to disable or destroy drones by damaging their electronic systems. Durin...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HkuF5llESK4" title="What is the UK&#x27;s &#x27;microwave weapon&#x27; that counters drone attacks and how does it work?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HkuF5llESK4" target="_blank" rel="noopener noreferrer">What is the UK&#x27;s &#x27;microwave weapon&#x27; that counters drone attacks and how does it work?</a></p><p class="youtube-embed-meta">Channel: HBB Defense Military</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HkuF5llESK4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HkuF5llESK4">Open on YouTube</a></p></div></div></div>
@@ -370,202 +370,202 @@ Nor do the demonstrations establish sustained battlefield effectiveness. A succe
 
 ## Why the Claims Still Matter
 
-Even with the missing details, Leonidas and RapidDestroyer represent some of the most substantial public evidence supporting the concept of microwave counter-swarm defence. The reported defeat of dozens of drones in single engagements directly addresses the core challenge that has driven interest in HPM weapons: conventional air-defence systems struggle economically when confronted by large numbers of cheap unmanned aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus+2Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-snippet">2025 · Epirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone Swarm, 100% of Drones Flown at Live-Fire Demonstration. September...Read more...</span></span></span>
+Even with the missing details, Leonidas and RapidDestroyer represent some of the most substantial public evidence supporting the concept of microwave counter-swarm defence. The reported defeat of dozens of drones in single engagements directly addresses the core challenge that has driven interest in HPM weapons: conventional air-defence systems struggle economically when confronted by large numbers of cheap unmanned aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus+2Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-snippet">2025 · Epirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone Swarm, 100% of Drones Flown at Live-Fire Demonstration. September...Read more...</span></span></span>
 
-The demonstrations therefore establish military interest and technical plausibility rather than definitive proof of battlefield dominance. They show that wide-area electromagnetic effects can disable multiple drones under controlled live-fire conditions. What they do not yet provide is the transparency necessary to judge how often those results can be reproduced against adaptive opponents in operational environments. Until more detailed test data or combat evidence emerge, the Leonidas and RapidDestroyer live-fire claims should be viewed as strong indicators of potential capability rather than conclusive demonstrations of real-world performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-snippet">2025 · Epirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone Swarm, 100% of Drones Flown at Live-Fire Demonstration. September...Read more...</span></span></span>
+The demonstrations therefore establish military interest and technical plausibility rather than definitive proof of battlefield dominance. They show that wide-area electromagnetic effects can disable multiple drones under controlled live-fire conditions. What they do not yet provide is the transparency necessary to judge how often those results can be reproduced against adaptive opponents in operational environments. Until more detailed test data or combat evidence emerge, the Leonidas and RapidDestroyer live-fire claims should be viewed as strong indicators of potential capability rather than conclusive demonstrations of real-world performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-snippet">2025 · Epirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone Swarm, 100% of Drones Flown at Live-Fire Demonstration. September...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_microwave_dro_730805_live_fire_swa_410dfd-Illustration-3-dark.svg" | relative_url }}" alt="Live Fire Claims illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_microwave_dro_730805_live_fire_swa_410dfd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_microwave_dro_730805_live_fire_swa_410dfd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Much Do Live Fire Swarm Tests Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Much Do Live Fire Swarm Tests Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
-        </h4>
-        <p class="fr-book-author">By Paul Scharre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
+</h4>
+<p class="fr-book-author">By Paul Scharre</p>
         
-        <p class="fr-book-desc">Explains autonomy, drone swarms, testing claims, and the limits of emerging battlefield technologies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains autonomy, drone swarms, testing claims, and the limits of emerging battlefield technologies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Provides context for evaluating advanced military systems, operational effectiveness, and real-world combat performance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating advanced military systems, operational effectiveness, and real-world combat performance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warfare on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e2vnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warfare" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warfare">Drone Warfare</a>
-        </h4>
-        <p class="fr-book-author">By Medea Benjamin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warfare on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e2vnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warfare" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warfare">Drone Warfare</a>
+</h4>
+<p class="fr-book-author">By Medea Benjamin</p>
         
-        <p class="fr-book-desc">Offers background on military drone employment, capabilities, and debates surrounding effectiveness claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers background on military drone employment, capabilities, and debates surrounding effectiveness claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Likewar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=URFxDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Likewar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Likewar">Likewar</a>
-        </h4>
-        <p class="fr-book-author">By Peter Warren Singer, Emerson T. Brooking</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Likewar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=URFxDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Likewar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Likewar">Likewar</a>
+</h4>
+<p class="fr-book-author">By Peter Warren Singer, Emerson T. Brooking</p>
         
-        <p class="fr-book-desc">Examines modern conflict environments where technological demonstrations, public claims, and information effects shape perceptions of mil...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines modern conflict environments where technological demonstrations, public claims, and information effects shape perceptions of mil...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Warfare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Warfare</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Warfare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Warfare</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DoD UAV Integrated Roadmap Poster 2009 2034 Military Drone Chart Foldout"><img src="{{ '/assets/images/marketplace-covers/194b1edade76d37a0741.jpg' | relative_url }}" alt="Listing image for DoD UAV Integrated Roadmap Poster 2009 2034 Military Drone Chart Foldout" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">DoD UAV Integrated Roadmap Poster 2009 2034 Military Drone Chart Foldout</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DoD UAV Integrated Roadmap Poster 2009 2034 Military Drone Chart Foldout"><img src="{{ '/assets/images/marketplace-covers/194b1edade76d37a0741.jpg' | relative_url }}" alt="Listing image for DoD UAV Integrated Roadmap Poster 2009 2034 Military Drone Chart Foldout" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">DoD UAV Integrated Roadmap Poster 2009 2034 Military Drone Chart Foldout</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for drone UAVs vehicle aircraft asphalt military MQ 9 Reaper American 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/a9a06161a51d15e6d893.jpg' | relative_url }}" alt="Listing image for drone UAVs vehicle aircraft asphalt military MQ 9 Reaper American 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">drone UAVs vehicle aircraft asphalt military MQ 9 Reaper American 11x17 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for drone UAVs vehicle aircraft asphalt military MQ 9 Reaper American 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/a9a06161a51d15e6d893.jpg' | relative_url }}" alt="Listing image for drone UAVs vehicle aircraft asphalt military MQ 9 Reaper American 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">drone UAVs vehicle aircraft asphalt military MQ 9 Reaper American 11x17 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Drone UAV&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049381)"><img src="{{ '/assets/images/marketplace-covers/e78a62d502e4d0830aa0.jpg' | relative_url }}" alt="Listing image for &#x27;Drone UAV&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049381)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Drone UAV&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049381)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Drone UAV&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049381)"><img src="{{ '/assets/images/marketplace-covers/e78a62d502e4d0830aa0.jpg' | relative_url }}" alt="Listing image for &#x27;Drone UAV&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049381)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Drone UAV&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049381)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/d9531a5d69a4b2b40398.jpg' | relative_url }}" alt="Listing image for Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/d9531a5d69a4b2b40398.jpg' | relative_url }}" alt="Listing image for Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="live-fire-claims-how-much-do-live-fire-swarm-tests-prove-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -581,7 +581,7 @@ The demonstrations therefore establish military interest and technical plausibil
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -601,7 +601,7 @@ The demonstrations therefore establish military interest and technical plausibil
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -633,7 +633,7 @@ The demonstrations therefore establish military interest and technical plausibil
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -685,7 +685,7 @@ The demonstrations therefore establish military interest and technical plausibil
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -730,7 +730,7 @@ The demonstrations therefore establish military interest and technical plausibil
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -771,217 +771,217 @@ The demonstrations therefore establish military interest and technical plausibil
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/news/british-soldiers-take-down-drone-swarm-in-groundbreaking-use-of-radio-wave-weapon" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/british-soldiers-take-down-drone-swarm-in-groundbreaking-use-of-radio-wave-weapon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>British soldiers take down drone swarm in groundbreaking...17 Apr 2025 — British soldiers have successfully tracked, targeted and defeat...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/british-soldiers-take-down-drone-swarm-in-groundbreaking-use-of-radio-wave-weapon" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/british-soldiers-take-down-drone-swarm-in-groundbreaking-use-of-radio-wave-weapon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>British soldiers take down drone swarm in groundbreaking...17 Apr 2025 — British soldiers have successfully tracked, targeted and defeat...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: axios.com  
-   Link: <a href="https://www.axios.com/2025/08/28/epirus-indiana-drone-swarm-demo-leonidas" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2025/08/28/epirus-indiana-drone-swarm-demo-leonidas</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The event highlighted a significant advancement in counter-drone technology amid growing global security concerns over drone swarms, whic...</p></details>
+   Link:<a href="https://www.axios.com/2025/08/28/epirus-indiana-drone-swarm-demo-leonidas" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2025/08/28/epirus-indiana-drone-swarm-demo-leonidas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The event highlighted a significant advancement in counter-drone technology amid growing global security concerns over drone swarms, whic...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: epirusinc.com  
-   Link: <a href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 · Epirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone Swarm, 100% of Drones Flown at Live-Fire Demonstration. September...Read more...</p></details>
+   Link:<a href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2025 · Epirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone Swarm, 100% of Drones Flown at Live-Fire Demonstration. September...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: epirusinc.com  
-   Link: <a href="https://www.epirusinc.com/press-releases/epirus-leonidas-demonstrates-successful-use-of-high-power-microwave-to-defeat-[fiber-optic" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/press-releases/epirus-leonidas-demonstrates-successful-use-of-high-power-microwave-to-defeat-[fiber-optic</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EpirusEpirus&#x27; Leonidas Demonstrates Successful Use of High-...Epirus&#x27; Leonidas Demonstrates Successful Use of High-Power Microwave to De...</p></details>
+   Link:<a href="https://www.epirusinc.com/press-releases/epirus-leonidas-demonstrates-successful-use-of-high-power-microwave-to-defeat-[fiber-optic" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/press-releases/epirus-leonidas-demonstrates-successful-use-of-high-power-microwave-to-defeat-[fiber-optic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EpirusEpirus&#x27; Leonidas Demonstrates Successful Use of High-...Epirus&#x27; Leonidas Demonstrates Successful Use of High-Power Microwave to De...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: tectonicdefense.com  
    Title: exclusive epirus leonidas downs fiber optic drone during tests  
-   Link: <a href="https://www.tectonicdefense.com/exclusive-epirus-leonidas-downs-fiber-optic-drone-during-tests/" target="_blank" rel="noopener noreferrer nofollow">https://www.tectonicdefense.com/exclusive-epirus-leonidas-downs-fiber-optic-drone-during-tests/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tectonic DefenseExclusive: Epirus&#x27; Leonidas Downs Fiber-Optic Drone...13 Jan 2026 — Leonidas is a vehicle-mounted high-power microwave (...</p></details>
+   Link:<a href="https://www.tectonicdefense.com/exclusive-epirus-leonidas-downs-fiber-optic-drone-during-tests/" target="_blank" rel="noopener noreferrer nofollow">https://www.tectonicdefense.com/exclusive-epirus-leonidas-downs-fiber-optic-drone-during-tests/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tectonic DefenseExclusive: Epirus&#x27; Leonidas Downs Fiber-Optic Drone...13 Jan 2026 — Leonidas is a vehicle-mounted high-power microwave (...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: unmannedsystemstechnology.com  
    Title: epirus demonstrates successful hpm effects against fiber optic fpv drones  
-   Link: <a href="https://www.unmannedsystemstechnology.com/2026/01/epirus-demonstrates-successful-hpm-effects-against-fiber-optic-fpv-drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedsystemstechnology.com/2026/01/epirus-demonstrates-successful-hpm-effects-against-fiber-optic-fpv-drones/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus Demonstrates Successful HPM Effects Against Fiber...26 Jan 2026 — Epirus has successfully demonstrated the ability of its Leonida...</p></details>
+   Link:<a href="https://www.unmannedsystemstechnology.com/2026/01/epirus-demonstrates-successful-hpm-effects-against-fiber-optic-fpv-drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedsystemstechnology.com/2026/01/epirus-demonstrates-successful-hpm-effects-against-fiber-optic-fpv-drones/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus Demonstrates Successful HPM Effects Against Fiber...26 Jan 2026 — Epirus has successfully demonstrated the ability of its Leonida...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ft.com  
-   Link: <a href="https://www.ft.com/content/41703199-201e-4702-b34a-a0a633cdfcf5?syn-25a6b1a6=1" target="_blank" rel="noopener noreferrer nofollow">https://www.ft.com/content/41703199-201e-4702-b34a-a0a633cdfcf5?syn-25a6b1a6=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Financial TimesUK tests microwave weapon to disable drone swarms16 Apr 2025 — Two swarms of eight drones were neutralised by the weapon i...</p></details>
+   Link:<a href="https://www.ft.com/content/41703199-201e-4702-b34a-a0a633cdfcf5?syn-25a6b1a6=1" target="_blank" rel="noopener noreferrer nofollow">https://www.ft.com/content/41703199-201e-4702-b34a-a0a633cdfcf5?syn-25a6b1a6=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Financial TimesUK tests microwave weapon to disable drone swarms16 Apr 2025 — Two swarms of eight drones were neutralised by the weapon i...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ft.com  
-   Link: <a href="https://www.ft.com/content/41703199-201e-4702-b34a-a0a633cdfcf5" target="_blank" rel="noopener noreferrer nofollow">https://www.ft.com/content/41703199-201e-4702-b34a-a0a633cdfcf5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This weapon emits a wide beam of radio frequency energy designed to disable or destroy drones by damaging their electronic systems. Durin...</p></details>
+   Link:<a href="https://www.ft.com/content/41703199-201e-4702-b34a-a0a633cdfcf5" target="_blank" rel="noopener noreferrer nofollow">https://www.ft.com/content/41703199-201e-4702-b34a-a0a633cdfcf5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This weapon emits a wide beam of radio frequency energy designed to disable or destroy drones by damaging their electronic systems. Durin...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: thalesgroup.com  
    Title: Thales and E2V demonstrated the upgraded 4 panel  
-   Link: <a href="https://www.thalesgroup.com/en/news-centre/news-brief/united-kingdom/thales-energy-weapon-neutralises-80-drones-successful-trial" target="_blank" rel="noopener noreferrer nofollow">https://www.thalesgroup.com/en/news-centre/news-brief/united-kingdom/thales-energy-weapon-neutralises-80-drones-successful-trial</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Thales GroupThales energy weapon neutralises 80 drones in successful...2 Jun 2026 — Building on previous successes, RapidDestroyer neutr...</p></details>
+   Link:<a href="https://www.thalesgroup.com/en/news-centre/news-brief/united-kingdom/thales-energy-weapon-neutralises-80-drones-successful-trial" target="_blank" rel="noopener noreferrer nofollow">https://www.thalesgroup.com/en/news-centre/news-brief/united-kingdom/thales-energy-weapon-neutralises-80-drones-successful-trial</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thales GroupThales energy weapon neutralises 80 drones in successful...2 Jun 2026 — Building on previous successes, RapidDestroyer neutr...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: calibredefence.co.uk  
    Title: epirus zaps fibre optic fpv with leonidas microwave weapon  
-   Link: <a href="https://www.calibredefence.co.uk/epirus-zaps-fibre-optic-fpv-with-leonidas-microwave-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.calibredefence.co.uk/epirus-zaps-fibre-optic-fpv-with-leonidas-microwave-weapon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Many counter-drone...</p></details>
+   Link:<a href="https://www.calibredefence.co.uk/epirus-zaps-fibre-optic-fpv-with-leonidas-microwave-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.calibredefence.co.uk/epirus-zaps-fibre-optic-fpv-with-leonidas-microwave-weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Many counter-drone...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: businessinsider.com  
-   Link: <a href="https://www.businessinsider.com/uk-took-down-swarm-drones-new-radio-weapon-rfdew-thales-2025-4" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/uk-took-down-swarm-drones-new-radio-weapon-rfdew-thales-2025-4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This marks the first time in the UK that such a directed energy weapon, developed by a consortium led by French firm Thales, has eliminat...</p></details>
+   Link:<a href="https://www.businessinsider.com/uk-took-down-swarm-drones-new-radio-weapon-rfdew-thales" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/uk-took-down-swarm-drones-new-radio-weapon-rfdew-thales</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This marks the first time in the UK that such a directed energy weapon, developed by a consortium led by French firm Thales, has eliminat...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=na0pGfopahM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=na0pGfopahM</a>  
+   Link:<a href="https://www.youtube.com/watch?v=na0pGfopahM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=na0pGfopahM</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/channel/UCbN5WM_Smgm5AmscysS-e4g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UCbN5WM_Smgm5AmscysS-e4g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EpirusEpirus is a high-growth technology company dedicated to overcoming the asymmetric challenges inherent to the future of national sec...</p></details>
+   Link:<a href="https://www.youtube.com/channel/UCbN5WM_Smgm5AmscysS-e4g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UCbN5WM_Smgm5AmscysS-e4g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EpirusEpirus is a high-growth technology company dedicated to overcoming the asymmetric challenges inherent to the future of national sec...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ZrkopSw5uas" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZrkopSw5uas</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>100% successful against drones flown...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZrkopSw5uas" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZrkopSw5uas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>100% successful against drones flown...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Epirus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Epirus</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EpirusEpirus is a geographical and historical region in southeastern Europe, now shared between Greece and Albania. Classical Epirus r...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Epirus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Epirus</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EpirusEpirus is a geographical and historical region in southeastern Europe, now shared between Greece and Albania. Classical Epirus r...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Epirus Leonidas  
-   Link: <a href="https://en.wikipedia.org/wiki/Epirus_Leonidas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Epirus_Leonidas</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus LeonidasThe Leonidas is a high-power microwave (HPM) weapon developed to disable unmanned aerial vehicle (UAV) swarms. It was n...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Epirus_Leonidas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Epirus_Leonidas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus LeonidasThe Leonidas is a high-power microwave (HPM) weapon developed to disable unmanned aerial vehicle (UAV) swarms. It was n...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: evotek.vn  
-   Link: <a href="https://evotek.vn/en/epirus-leonidas-hpm-system-obliterates-49-drones-in-[one-shot" target="_blank" rel="noopener noreferrer nofollow">https://evotek.vn/en/epirus-leonidas-hpm-system-obliterates-49-drones-in-[one-shot</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus Leonidas HPM System Obliterates 49 Drones In...29 Sept 2025 — During live-fire trials, the latest iteration of the Epirus Leonida...</p></details>
+   Link:<a href="https://evotek.vn/en/epirus-leonidas-hpm-system-obliterates-49-drones-in-[one-shot" target="_blank" rel="noopener noreferrer nofollow">https://evotek.vn/en/epirus-leonidas-hpm-system-obliterates-49-drones-in-[one-shot</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus Leonidas HPM System Obliterates 49 Drones In...29 Sept 2025 — During live-fire trials, the latest iteration of the Epirus Leonida...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100083268674748/videos/-epirus-shows-first-electromagnetic-kill-of-fpv-droneepirus-unveils-leonidas-veh/882825960805651/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100083268674748/videos/-epirus-shows-first-electromagnetic-kill-of-fpv-droneepirus-unveils-leonidas-veh/882825960805651/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>essfully disabling a fiber optic guided drone during a...</p></details>
+   Link:<a href="https://www.facebook.com/100083268674748/videos/-epirus-shows-first-electromagnetic-kill-of-fpv-droneepirus-unveils-leonidas-veh/882825960805651/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100083268674748/videos/-epirus-shows-first-electromagnetic-kill-of-fpv-droneepirus-unveils-leonidas-veh/882825960805651/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>essfully disabling a fiber optic guided drone during a...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DTdeB93DlHw/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTdeB93DlHw/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>drone technology, creating a mobile defense platform designed to...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DTdeB93DlHw/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTdeB93DlHw/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>drone technology, creating a mobile defense platform designed to...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: epirusinc.com  
-   Link: <a href="https://www.epirusinc.com/electronic-warfare" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/electronic-warfare</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 27, 2026. February 26, 2026 · Epirus&#x27; Leonidas Demonstrates Successful Use of High-Power Microwave to Defeat Fiber-Optic Controll...</p></details>
+   Link:<a href="https://www.epirusinc.com/electronic-warfare" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/electronic-warfare</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 27, 2026. February 26, 2026 · Epirus&#x27; Leonidas Demonstrates Successful Use of High-Power Microwave to Defeat Fiber-Optic Controll...</p></details>
    Published: January 27, 2026  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: epirusinc.com  
-   Link: <a href="https://www.epirusinc.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus - Home of Leonidas, the Premier High-Power...Epirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone Swarm, 100% of Drones Flown a...</p></details>
+   Link:<a href="https://www.epirusinc.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus - Home of Leonidas, the Premier High-Power...Epirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone Swarm, 100% of Drones Flown a...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/epirus_epirus-leonidas-high-power-microwave-defeats-activity-7371575751776608256-i0zZ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/epirus_epirus-leonidas-high-power-microwave-defeats-activity-7371575751776608256-i0zZ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tic interference. “We believe showcasing our weaponized...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/epirus_epirus-leonidas-high-power-microwave-defeats-activity-7371575751776608256-i0zZ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/epirus_epirus-leonidas-high-power-microwave-defeats-activity-7371575751776608256-i0zZ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tic interference. “We believe showcasing our weaponized...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/ian-winer-109b7681_epirus-leonidas-disables-fiber-optic-uas-activity-7417037892939829248-DsT9" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/ian-winer-109b7681_epirus-leonidas-disables-fiber-optic-uas-activity-7417037892939829248-DsT9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>defeating fiber-optic controlled UAS.Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/ian-winer-109b7681_epirus-leonidas-disables-fiber-optic-uas-activity-7417037892939829248-DsT9" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/ian-winer-109b7681_epirus-leonidas-disables-fiber-optic-uas-activity-7417037892939829248-DsT9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>defeating fiber-optic controlled UAS.Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/mike-hiatt-06420ba_epirus-leonidas-high-power-microwave-defeats-activity-7371594652946264064-WSfd" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/mike-hiatt-06420ba_epirus-leonidas-high-power-microwave-defeats-activity-7371594652946264064-WSfd</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>49,267 followers. 8mo Edited. 49-drone swarm defeated with one instant &amp; low-[collateral](&amp;#123;&amp;#123; &#x27;collateral-risk/&#x27; | relative_url &amp;#125;&amp;#125;) pulse of electromagnetic interference. “We...Rea...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/mike-hiatt-06420ba_epirus-leonidas-high-power-microwave-defeats-activity-7371594652946264064-WSfd" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/mike-hiatt-06420ba_epirus-leonidas-high-power-microwave-defeats-activity-7371594652946264064-WSfd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>49,267 followers. 8mo Edited. 49-drone swarm defeated with one instant &amp; low-[collateral](&amp;#123;&amp;#123; &#x27;collateral-risk/&#x27; | relative_url &amp;#125;&amp;#125;) pulse of electromagnetic interference. “We...Rea...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/andylowery_epirus-leonidas-disables-fiber-optic-uas-activity-7416881546617360385-_ifg" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/andylowery_epirus-leonidas-disables-fiber-optic-uas-activity-7416881546617360385-_ifg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus Leonidas HPM Defeats Fiber-Optic Guided UASOur December 2025 live-fire technology demonstration marks the first known instance of...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/andylowery_epirus-leonidas-disables-fiber-optic-uas-activity-7416881546617360385-_ifg" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/andylowery_epirus-leonidas-disables-fiber-optic-uas-activity-7416881546617360385-_ifg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus Leonidas HPM Defeats Fiber-Optic Guided UASOur December 2025 live-fire technology demonstration marks the first known instance of...</p></details>
    Published: December 2025  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/dylan-malyasov-53190611a_epirus-has-released-new-footage-showing-its-activity-7417201769434443777-PNg6" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/dylan-malyasov-53190611a_epirus-has-released-new-footage-showing-its-activity-7417201769434443777-PNg6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>bling a fiber-optic guided drone during a U.S...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/dylan-malyasov-53190611a_epirus-has-released-new-footage-showing-its-activity-7417201769434443777-PNg6" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/dylan-malyasov-53190611a_epirus-has-released-new-footage-showing-its-activity-7417201769434443777-PNg6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bling a fiber-optic guided drone during a U.S...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: cuashub.com  
-   Link: <a href="https://cuashub.com/uk/content/epirus-leonidas-demonstrates-first-known-high-power-microwave-defeat-of-fiber-optic-guided-uas/?ac=true" target="_blank" rel="noopener noreferrer nofollow">https://cuashub.com/uk/content/epirus-leonidas-demonstrates-first-known-high-power-microwave-defeat-of-fiber-optic-guided-uas/?ac=true</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus&#x27; Leonidas demonstrates first known high power...14 Jan 2026 — Epirus has announced that its Leonidas VehicleKit high-power microw...</p></details>
+   Link:<a href="https://cuashub.com/uk/content/epirus-leonidas-demonstrates-first-known-high-power-microwave-defeat-of-fiber-optic-guided-uas/?ac=true" target="_blank" rel="noopener noreferrer nofollow">https://cuashub.com/uk/content/epirus-leonidas-demonstrates-first-known-high-power-microwave-defeat-of-fiber-optic-guided-uas/?ac=true</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus&#x27; Leonidas demonstrates first known high power...14 Jan 2026 — Epirus has announced that its Leonidas VehicleKit high-power microw...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: semiconductor-today.com  
-   Link: <a href="https://www.semiconductor-today.com/news_items/2025/sep/epirus-300925.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.semiconductor-today.com/news_items/2025/sep/epirus-300925.shtml</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus&#x27; GaN-based Leonidas high-power microwave...Sep 30, 2025 — In a live-fire demonstration across five operationally relevant flight...</p></details>
+   Link:<a href="https://www.semiconductor-today.com/news_items/2025/sep/epirus-300925.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.semiconductor-today.com/news_items/2025/sep/epirus-300925.shtml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus&#x27; GaN-based Leonidas high-power microwave...Sep 30, 2025 — In a live-fire demonstration across five operationally relevant flight...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: thedefensepost.com  
    Title: epirus directed energy counter drone  
-   Link: <a href="https://thedefensepost.com/2026/01/15/epirus-directed-energy-counter-drone/" target="_blank" rel="noopener noreferrer nofollow">https://thedefensepost.com/2026/01/15/epirus-directed-energy-counter-drone/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus Demos First Directed-Energy Takedown of Jam...15 Jan 2026 — Epirus has conducted the first demonstrated neutralization of a fiber...</p></details>
+   Link:<a href="https://thedefensepost.com/2026/01/15/epirus-directed-energy-counter-drone/" target="_blank" rel="noopener noreferrer nofollow">https://thedefensepost.com/2026/01/15/epirus-directed-energy-counter-drone/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus Demos First Directed-Energy Takedown of Jam...15 Jan 2026 — Epirus has conducted the first demonstrated neutralization of a fiber...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: inss.org.il  
    Title: innovative systems for neutralizing drone and uav swarms  
-   Link: <a href="https://www.inss.org.il/social_media/innovative-systems-for-neutralizing-drone-and-uav-swarms/" target="_blank" rel="noopener noreferrer nofollow">https://www.inss.org.il/social_media/innovative-systems-for-neutralizing-drone-and-uav-swarms/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus released new documentation showing that its Leonidas system successfully intercepted a swarm of 49 drones simultaneously. The...R...</p></details>
+   Link:<a href="https://www.inss.org.il/social_media/innovative-systems-for-neutralizing-drone-and-uav-swarms/" target="_blank" rel="noopener noreferrer nofollow">https://www.inss.org.il/social_media/innovative-systems-for-neutralizing-drone-and-uav-swarms/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus released new documentation showing that its Leonidas system successfully intercepted a swarm of 49 drones simultaneously. The...R...</p></details>
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/technology/comments/1ntgl3j/usmade_leonidas_microwave_weapon_takes_down_49/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/technology/comments/1ntgl3j/usmade_leonidas_microwave_weapon_takes_down_49/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US-made Leonidas microwave weapon takes down 49...... Sparta -- Leonidas wiped out all 61 drones in the demo: r/technology. Close searc...</p></details>
+   Link:<a href="https://www.reddit.com/r/technology/comments/1ntgl3j/usmade_leonidas_microwave_weapon_takes_down_49/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/technology/comments/1ntgl3j/usmade_leonidas_microwave_weapon_takes_down_49/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US-made Leonidas microwave weapon takes down 49...... Sparta -- Leonidas wiped out all 61 drones in the demo: r/technology. Close searc...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DZS677cMBYM/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZS677cMBYM/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>📸: Thales UK has reportedly completed new trials of its...RapidDestroyer emits high-power RF pulses to disrupt drone electronics without...</p></details>
+   Link:<a href="https://www.instagram.com/p/DZS677cMBYM/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZS677cMBYM/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>📸: Thales UK has reportedly completed new trials of its...RapidDestroyer emits high-power RF pulses to disrupt drone electronics without...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1191300768283373/posts/1922024268544349/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1191300768283373/posts/1922024268544349/</a>  
+   Link:<a href="https://www.facebook.com/groups/1191300768283373/posts/1922024268544349/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1191300768283373/posts/1922024268544349/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
    Title: us defense firm epirus has showcased its leonidas high power microwave hpm weapo  
-   Link: <a href="https://www.facebook.com/fossbytes/posts/us-defense-firm-epirus-has-showcased-its-leonidas-high-power-microwave-hpm-weapo/1238619954972713/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fossbytes/posts/us-defense-firm-epirus-has-showcased-its-leonidas-high-power-microwave-hpm-weapo/1238619954972713/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>defense firm Epirus has showcased its Leonidas high-...In a live demonstration, it disabled 61 drones — taking down 49 in a single burst...</p></details>
+   Link:<a href="https://www.facebook.com/fossbytes/posts/us-defense-firm-epirus-has-showcased-its-leonidas-high-power-microwave-hpm-weapo/1238619954972713/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fossbytes/posts/us-defense-firm-epirus-has-showcased-its-leonidas-high-power-microwave-hpm-weapo/1238619954972713/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>defense firm Epirus has showcased its Leonidas high-...In a live demonstration, it disabled 61 drones — taking down 49 in a single burst...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: defensescoop.com  
    Title: british troops test drone zapper radio frequency directed energy weapon rfdew  
-   Link: <a href="https://defensescoop.com/2024/12/23/british-troops-test-drone-zapper-radio-frequency-directed-energy-weapon-rfdew/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/12/23/british-troops-test-drone-zapper-radio-frequency-directed-energy-weapon-rfdew/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>British troops test new drone swarm zapper23 Dec 2024 — The British military recently conducted its first-ever successful, live-fire test...</p></details>
+   Link:<a href="https://defensescoop.com/2024/12/23/british-troops-test-drone-zapper-radio-frequency-directed-energy-weapon-rfdew/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/12/23/british-troops-test-drone-zapper-radio-frequency-directed-energy-weapon-rfdew/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>British troops test new drone swarm zapper23 Dec 2024 — The British military recently conducted its first-ever successful, live-fire test...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=HkuF5llESK4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HkuF5llESK4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=HkuF5llESK4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HkuF5llESK4</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: thedefensewatch.com  
    Title: uk thales rapiddestroyer radio frequency weapon counter uas trials 2026  
-   Link: <a href="https://thedefensewatch.com/cyber-space-defense/uk-thales-rapiddestroyer-radio-frequency-weapon-counter-uas-trials-2026/" target="_blank" rel="noopener noreferrer nofollow">https://thedefensewatch.com/cyber-space-defense/uk-thales-rapiddestroyer-radio-frequency-weapon-counter-uas-trials-2026/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Tests Thales RapidDestroyer Radio Frequency...8 Jun 2026 — The UK has tested Thales&#x27; RapidDestroyer radio frequency weapon, neutraliz...</p></details>
+   Link:<a href="https://thedefensewatch.com/cyber-space-defense/uk-thales-rapiddestroyer-radio-frequency-weapon-counter-uas-trials-2026/" target="_blank" rel="noopener noreferrer nofollow">https://thedefensewatch.com/cyber-space-defense/uk-thales-rapiddestroyer-radio-frequency-weapon-counter-uas-trials-2026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Tests Thales RapidDestroyer Radio Frequency...8 Jun 2026 — The UK has tested Thales&#x27; RapidDestroyer radio frequency weapon, neutraliz...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: tomshardware.com  
    Title: Tom's Hardware High-power microwave system downs 49 drones in one shot  
-   Link: <a href="https://www.tomshardware.com/tech-industry/high-power-microwave-system-downs-49-drones-in-one-shot-weaponized-electromagnetic-interference-erases-drone-swarms-en-masse" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/high-power-microwave-system-downs-49-drones-in-one-shot-weaponized-electromagnetic-interference-erases-drone-swarms-en-masse</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>electronics warfare company, successfully demonstrated a major advancement in counter-drone technology with its Leonidas high-power micro...</p></details>
+   Link:<a href="https://www.tomshardware.com/tech-industry/high-power-microwave-system-downs-49-drones-in-one-shot-weaponized-electromagnetic-interference-erases-drone-swarms-en-masse" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/high-power-microwave-system-downs-49-drones-in-one-shot-weaponized-electromagnetic-interference-erases-drone-swarms-en-masse</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>electronics warfare company, successfully demonstrated a major advancement in counter-drone technology with its Leonidas high-power micro...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: newsflare.com  
    Title: jaw dropping new weapon knocks dozens of attacking drones out of sky  
-   Link: <a href="https://www.newsflare.com/video/792400/jaw-dropping-new-weapon-knocks-dozens-of-attacking-drones-out-of-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.newsflare.com/video/792400/jaw-dropping-new-weapon-knocks-dozens-of-attacking-drones-out-of-sky</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jaw-dropping new weapon knocks dozens of attacking drones...Californian company Epirus has carried out live-fire demonstrations of the s...</p></details>
+   Link:<a href="https://www.newsflare.com/video/792400/jaw-dropping-new-weapon-knocks-dozens-of-attacking-drones-out-of-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.newsflare.com/video/792400/jaw-dropping-new-weapon-knocks-dozens-of-attacking-drones-out-of-sky</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jaw-dropping new weapon knocks dozens of attacking drones...Californian company Epirus has carried out live-fire demonstrations of the s...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: armyrecognition.com  
    Title: u s demonstrates microwave weapon defeating fiber optic fpv drones  
-   Link: <a href="https://armyrecognition.com/news/army-news/2026/u-s-demonstrates-microwave-weapon-defeating-fiber-optic-fpv-drones" target="_blank" rel="noopener noreferrer nofollow">https://armyrecognition.com/news/army-news/2026/u-s-demonstrates-microwave-weapon-defeating-fiber-optic-fpv-drones</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Demonstrates Microwave Weapon Defeating Fiber-...2 Feb 2026 — Epirus released footage on 13 January 2026 showing its Leonidas VehicleKit...</p></details>
+   Link:<a href="https://armyrecognition.com/news/army-news/2026/u-s-demonstrates-microwave-weapon-defeating-fiber-optic-fpv-drones" target="_blank" rel="noopener noreferrer nofollow">https://armyrecognition.com/news/army-news/2026/u-s-demonstrates-microwave-weapon-defeating-fiber-optic-fpv-drones</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Demonstrates Microwave Weapon Defeating Fiber-...2 Feb 2026 — Epirus released footage on 13 January 2026 showing its Leonidas VehicleKit...</p></details>
    Published: January 2026  

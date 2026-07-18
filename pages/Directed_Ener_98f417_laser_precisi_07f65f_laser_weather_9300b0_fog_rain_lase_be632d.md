@@ -266,11 +266,11 @@ image: /assets/images/Directed_Ener_98f417_laser_precisi_07f65f_laser_weather_93
 
 ## Introduction
 
-[Bad weather]({{ 'bad-weather/' | relative_url }}) rarely makes a defensive laser stop working instantly. The more common effect is that fog, rain, cloud droplets, or sea mist reduce the amount of energy that reaches the target, shortening the distance at which the laser can cause damage. A laser weapon depends on delivering enough concentrated energy to a small spot for long enough to heat, weaken, or destroy part of a threat. When weather removes some of that energy along the way, the weapon may still work, but only at a shorter range. Government assessments of directed-energy weapons consistently identify fog, storms, and other atmospheric conditions as major factors that reduce laser [beam quality]({{ 'beam-quality/' | relative_url }}) and effective engagement distance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">fog and stormscan make certain directed energy weapons less effective.... For example, fog and storms can reduce laser beam range and q...</span></span></span>
+[Bad weather]({{ 'bad-weather/' | relative_url }}) rarely makes a defensive laser stop working instantly. The more common effect is that fog, rain, cloud droplets, or sea mist reduce the amount of energy that reaches the target, shortening the distance at which the laser can cause damage. A laser weapon depends on delivering enough concentrated energy to a small spot for long enough to heat, weaken, or destroy part of a threat. When weather removes some of that energy along the way, the weapon may still work, but only at a shorter range. Government assessments of directed-energy weapons consistently identify fog, storms, and other atmospheric conditions as major factors that reduce laser [beam quality]({{ 'beam-quality/' | relative_url }}) and effective engagement distance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">fog and stormscan make certain directed energy weapons less effective.... For example, fog and storms can reduce laser beam range and q...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_laser_weather_9300b0_fog_rain_lase_be632d-Illustration-1-dark.svg" | relative_url }}" alt="Fog and Rain illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_laser_weather_9300b0_fog_rain_lase_be632d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_laser_weather_9300b0_fog_rain_lase_be632d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Understanding this effect is important because modern laser air-defence systems are usually designed as part of a layered [defence network]({{ 'defence-network/' | relative_url }}). Their performance can vary significantly between a clear day and a wet, foggy one, even when the laser hardware itself has not changed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nps.edu/web/research/-/propagation-of-high-energy-lasers-for-various-wavelengths-power-levels-and-atmospheric-conditions-2018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.edu">[Naval Postgraduate School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.edu</span><span class="citation-popover-snippet">Naval Postgraduate SchoolPropagation of High Energy Lasers for Various...HEL performance is strongly affected by various atmospheric eff...</span></span></span>
+Understanding this effect is important because modern laser air-defence systems are usually designed as part of a layered [defence network]({{ 'defence-network/' | relative_url }}). Their performance can vary significantly between a clear day and a wet, foggy one, even when the laser hardware itself has not changed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nps.edu/web/research/-/propagation-of-high-energy-lasers-for-various-wavelengths-power-levels-and-atmospheric-conditions-2018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.edu">[Naval Postgraduate School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.edu</span><span class="citation-popover-snippet">Naval Postgraduate SchoolPropagation of High Energy Lasers for Various...HEL performance is strongly affected by various atmospheric eff...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7J2NJLBVER8" title="Iron Beam In Fog: Can Laser Weapons Work Without Visibility? | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7J2NJLBVER8" target="_blank" rel="noopener noreferrer">Iron Beam In Fog: Can Laser Weapons Work Without Visibility? | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7J2NJLBVER8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7J2NJLBVER8">Open on YouTube</a></p></div></div></div>
@@ -279,11 +279,11 @@ Understanding this effect is important because modern laser air-defence systems 
 
 The key problem is not simply that the [atmosphere]({{ 'atmosphere/' | relative_url }}) is wet. It is that fog and rain fill the beam path with countless water droplets that interact with the laser light.
 
-When a high-energy laser travels through clear air, most of its energy continues toward the target. In fog, however, the beam encounters a dense field of tiny suspended droplets. Each droplet can scatter a small amount of light away from the beam's centreline. Individually these losses may be minor, but millions of droplets along the path can remove a substantial fraction of the energy before it reaches the target. Research on laser propagation through clouds and fog treats these droplets as a major source of attenuation and beam degradation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://opg.optica.org/abstract.cfm?uri=ao-59-33-10207" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opg.optica.org">[Optica+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opg.optica.org</span><span class="citation-popover-snippet">Propagation of high energy lasers through cloudsby A Lawrence 2020 Cited by 4 In this section, we present a model for high en...</span></span></span>
+When a high-energy laser travels through clear air, most of its energy continues toward the target. In fog, however, the beam encounters a dense field of tiny suspended droplets. Each droplet can scatter a small amount of light away from the beam's centreline. Individually these losses may be minor, but millions of droplets along the path can remove a substantial fraction of the energy before it reaches the target. Research on laser propagation through clouds and fog treats these droplets as a major source of attenuation and beam degradation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://opg.optica.org/abstract.cfm?uri=ao-59-33-10207" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opg.optica.org">[Optica+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opg.optica.org</span><span class="citation-popover-snippet">Propagation of high energy lasers through cloudsby A Lawrence 2020 Cited by 4 In this section, we present a model for high en...</span></span></span>
 
-Fog is often more damaging than rain because of droplet concentration. Rain contains larger droplets, but they are usually spaced farther apart. Dense fog can fill nearly the entire beam path with suspended water particles, creating continuous scattering and reducing transmission over long distances. Studies of atmospheric laser propagation and free-space optical systems repeatedly identify fog as one of the strongest weather-related causes of laser attenuation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://open.library.ubc.ca/media/stream/pdf/52383/1.0041947/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.library.ubc.ca">[UBC Open Library+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.library.ubc.ca</span><span class="citation-popover-snippet">Figure 2... panying disadvantages, most notably high attenuation by fog and clouds. To...Read more...</span></span></span>
+Fog is often more damaging than rain because of droplet concentration. Rain contains larger droplets, but they are usually spaced farther apart. Dense fog can fill nearly the entire beam path with suspended water particles, creating continuous scattering and reducing transmission over long distances. Studies of atmospheric laser propagation and free-space optical systems repeatedly identify fog as one of the strongest weather-related causes of laser attenuation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://open.library.ubc.ca/media/stream/pdf/52383/1.0041947/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.library.ubc.ca">[UBC Open Library+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.library.ubc.ca</span><span class="citation-popover-snippet">Figure 2... panying disadvantages, most notably high attenuation by fog and clouds. To...Read more...</span></span></span>
 
-Rain creates a similar but somewhat different problem. Raindrops scatter and absorb part of the beam while also introducing fluctuations in beam quality. The result is less power arriving on target and a larger, less concentrated spot. Research into laser propagation in rainfall shows that scattering and absorption by raindrops degrade laser transmission and ranging performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/10.1155/2015/292905" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryPropagating Characteristics of Pulsed Laser in RainSep 7, 2015 As pulsed laser propagates in rain, the interaction...</span></span></span>
+Rain creates a similar but somewhat different problem. Raindrops scatter and absorb part of the beam while also introducing fluctuations in beam quality. The result is less power arriving on target and a larger, less concentrated spot. Research into laser propagation in rainfall shows that scattering and absorption by raindrops degrade laser transmission and ranging performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/10.1155/2015/292905" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryPropagating Characteristics of Pulsed Laser in RainSep 7, 2015 As pulsed laser propagates in rain, the interaction...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JGzL3fZgPZY" title="Laser and Microwave Weapons - Directed-Energy Weapon Programs, Potential, and Issues" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JGzL3fZgPZY" target="_blank" rel="noopener noreferrer">Laser and Microwave Weapons - Directed-Energy Weapon Programs, Potential, and Issues</a></p><p class="youtube-embed-meta">Channel: Perun</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JGzL3fZgPZY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JGzL3fZgPZY">Open on YouTube</a></p></div></div></div>
@@ -292,11 +292,11 @@ Rain creates a similar but somewhat different problem. Raindrops scatter and abs
 
 A common misconception is that laser weapons either work or do not work. In reality, atmospheric effects usually create a gradual decline in performance.
 
-Imagine a laser capable of damaging a drone at several kilometres in clear weather. If fog or rain removes part of the beam energy during flight, the target may still receive enough energy to be damaged at shorter distances. What changes first is the maximum effective range, not necessarily the ability to engage at all. This is why military and government analyses generally describe weather as reducing beam range, quality, and effectiveness rather than rendering lasers immediately useless. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">fog and stormscan make certain directed energy weapons less effective.... For example, fog and storms can reduce laser beam range and q...</span></span></span>
+Imagine a laser capable of damaging a drone at several kilometres in clear weather. If fog or rain removes part of the beam energy during flight, the target may still receive enough energy to be damaged at shorter distances. What changes first is the maximum effective range, not necessarily the ability to engage at all. This is why military and government analyses generally describe weather as reducing beam range, quality, and effectiveness rather than rendering lasers immediately useless.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">fog and stormscan make certain directed energy weapons less effective.... For example, fog and storms can reduce laser beam range and q...</span></span></span>
 
-The effect is often compounded by beam spreading. As scattering increases, energy that would have remained concentrated in a small spot becomes distributed over a larger area. Because laser damage depends heavily on energy density, even modest spreading can significantly increase the time required to achieve an effect. A target that could be defeated after a brief dwell time in clear air may require much longer illumination in poor weather, if it can be defeated at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nps.edu/web/research/-/propagation-of-high-energy-lasers-for-various-wavelengths-power-levels-and-atmospheric-conditions-2018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.edu">[Naval Postgraduate School+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.edu</span><span class="citation-popover-snippet">Naval Postgraduate SchoolPropagation of High Energy Lasers for Various...HEL performance is strongly affected by various atmospheric eff...</span></span></span>
+The effect is often compounded by beam spreading. As scattering increases, energy that would have remained concentrated in a small spot becomes distributed over a larger area. Because laser damage depends heavily on energy density, even modest spreading can significantly increase the time required to achieve an effect. A target that could be defeated after a brief dwell time in clear air may require much longer illumination in poor weather, if it can be defeated at all.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nps.edu/web/research/-/propagation-of-high-energy-lasers-for-various-wavelengths-power-levels-and-atmospheric-conditions-2018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.edu">[Naval Postgraduate School+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.edu</span><span class="citation-popover-snippet">Naval Postgraduate SchoolPropagation of High Energy Lasers for Various...HEL performance is strongly affected by various atmospheric eff...</span></span></span>
 
-This gradual degradation explains why weather forecasts matter for laser operations. The same system may achieve different engagement ranges from one day to the next because atmospheric transmission conditions have changed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nps.edu/web/research/-/propagation-of-high-energy-lasers-for-various-wavelengths-power-levels-and-atmospheric-conditions-2018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.edu">[Naval Postgraduate School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.edu</span><span class="citation-popover-snippet">Naval Postgraduate SchoolPropagation of High Energy Lasers for Various...HEL performance is strongly affected by various atmospheric eff...</span></span></span>
+This gradual degradation explains why weather forecasts matter for laser operations. The same system may achieve different engagement ranges from one day to the next because atmospheric transmission conditions have changed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nps.edu/web/research/-/propagation-of-high-energy-lasers-for-various-wavelengths-power-levels-and-atmospheric-conditions-2018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.edu">[Naval Postgraduate School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.edu</span><span class="citation-popover-snippet">Naval Postgraduate SchoolPropagation of High Energy Lasers for Various...HEL performance is strongly affected by various atmospheric eff...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_laser_weather_9300b0_fog_rain_lase_be632d-Illustration-2-dark.svg" | relative_url }}" alt="Fog and Rain illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_laser_weather_9300b0_fog_rain_lase_be632d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_laser_weather_9300b0_fog_rain_lase_be632d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -304,9 +304,9 @@ This gradual degradation explains why weather forecasts matter for laser operati
 
 Military researchers have spent decades trying to make lasers more resilient to atmospheric conditions rather than accepting weather losses as unavoidable.
 
-One approach is careful wavelength selection. Different wavelengths interact differently with water droplets and atmospheric gases, and some propagate more efficiently through certain conditions than others. Another approach uses [adaptive optics]({{ 'adaptive-optics/' | relative_url }}) and beam-control techniques that help keep the beam focused despite atmospheric distortion. Researchers have also explored more experimental methods for clearing or reducing droplet concentrations along a beam path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/259275472_Wavelength_and_altitude_dependence_of_laser_beam_propagation_in_dense_fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[arXiv+3ResearchGate+3MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Wavelength and altitude dependence of laser beam...Jan 13, 2015 Fog and extreme rain are the primary types of weathe...</span></span></span>
+One approach is careful wavelength selection. Different wavelengths interact differently with water droplets and atmospheric gases, and some propagate more efficiently through certain conditions than others. Another approach uses [adaptive optics]({{ 'adaptive-optics/' | relative_url }}) and beam-control techniques that help keep the beam focused despite atmospheric distortion. Researchers have also explored more experimental methods for clearing or reducing droplet concentrations along a beam path.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/259275472_Wavelength_and_altitude_dependence_of_laser_beam_propagation_in_dense_fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[arXiv+3ResearchGate+3MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Wavelength and altitude dependence of laser beam...Jan 13, 2015 Fog and extreme rain are the primary types of weathe...</span></span></span>
 
-Even so, no practical military laser has eliminated atmospheric losses entirely. The atmosphere remains part of the weapon system, and weather remains a major operational variable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyState of the Art and Evolution of High-Energy Laser WeaponsMar 31, 2010 If the HEL beam&#x27;s propagation path f...</span></span></span>
+Even so, no practical military laser has eliminated atmospheric losses entirely. The atmosphere remains part of the weapon system, and weather remains a major operational variable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyState of the Art and Evolution of High-Energy Laser WeaponsMar 31, 2010 If the HEL beam&#x27;s propagation path f...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S5GLxs7U5lk" title="The Microwave Cannons Built to Stop Drone Swarms" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S5GLxs7U5lk" target="_blank" rel="noopener noreferrer">The Microwave Cannons Built to Stop Drone Swarms</a></p><p class="youtube-embed-meta">Channel: FIRM.</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S5GLxs7U5lk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S5GLxs7U5lk">Open on YouTube</a></p></div></div></div>
@@ -315,204 +315,204 @@ Even so, no practical military laser has eliminated atmospheric losses entirely.
 
 The weather sensitivity of lasers helps explain why militaries generally treat them as one layer of defence rather than a complete replacement for conventional weapons.
 
-A missile carries its destructive energy with it. Once launched, it does not need to transmit damaging energy continuously through kilometres of fog or rain. Likewise, anti-aircraft guns rely on physical projectiles that are affected by weather far less than a laser beam. As a result, missiles and guns often retain more predictable performance when visibility deteriorates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drillanddefense.com">[Drill &amp; Defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drillanddefense.com</span><span class="citation-popover-snippet">Weather and atmosphere can reduce effectiveness. Fog, rain, smoke, dust, sea spray, and...Read more...</span></span></span>
+A missile carries its destructive energy with it. Once launched, it does not need to transmit damaging energy continuously through kilometres of fog or rain. Likewise, anti-aircraft guns rely on physical projectiles that are affected by weather far less than a laser beam. As a result, missiles and guns often retain more predictable performance when visibility deteriorates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drillanddefense.com">[Drill &amp; Defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drillanddefense.com</span><span class="citation-popover-snippet">Weather and atmosphere can reduce effectiveness. Fog, rain, smoke, dust, sea spray, and...Read more...</span></span></span>
 
-This does not mean lasers lose their value in poor weather. They can still provide low-cost engagements against drones, rockets, and other threats when atmospheric conditions remain acceptable. The challenge is that commanders cannot assume the same range under all conditions. A laser that forms the outer defensive layer in clear weather may become a shorter-range asset in fog, rain, sea spray, or low cloud. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">fog and stormscan make certain directed energy weapons less effective.... For example, fog and storms can reduce laser beam range and q...</span></span></span>
+This does not mean lasers lose their value in poor weather. They can still provide low-cost engagements against drones, rockets, and other threats when atmospheric conditions remain acceptable. The challenge is that commanders cannot assume the same range under all conditions. A laser that forms the outer defensive layer in clear weather may become a shorter-range asset in fog, rain, sea spray, or low cloud.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">fog and stormscan make certain directed energy weapons less effective.... For example, fog and storms can reduce laser beam range and q...</span></span></span>
 
-For that reason, modern air-defence concepts increasingly combine lasers with missiles, guns, sensors, and other systems. When weather shrinks the laser's useful engagement envelope, conventional weapons can cover the gap, ensuring that atmospheric conditions do not create an unprotected corridor for incoming threats. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-105868" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2onr.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 105868</span><span class="citation-popover-snippet">Directed Energy Weapons: DOD Should Focus...Apr 17, 2023 The Department of Defense (DOD) is currently developing directed energy...</span></span></span>
+For that reason, modern air-defence concepts increasingly combine lasers with missiles, guns, sensors, and other systems. When weather shrinks the laser's useful engagement envelope, conventional weapons can cover the gap, ensuring that atmospheric conditions do not create an unprotected corridor for incoming threats.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-105868" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2onr.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 105868</span><span class="citation-popover-snippet">Directed Energy Weapons: DOD Should Focus...Apr 17, 2023 The Department of Defense (DOD) is currently developing directed energy...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_laser_weather_9300b0_fog_rain_lase_be632d-Illustration-3-dark.svg" | relative_url }}" alt="Fog and Rain illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_laser_weather_9300b0_fog_rain_lase_be632d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_laser_weather_9300b0_fog_rain_lase_be632d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Much Range Does Bad Weather Take?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Much Range Does Bad Weather Take?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
-        </h4>
-        <p class="fr-book-author">By Bahman Zohuri</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
+</h4>
+<p class="fr-book-author">By Bahman Zohuri</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Laser+remote+sensing+Fujii%2C+Takashi+Dr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Laser remote sensing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8685200-M.jpg" alt="Cover for Laser remote sensing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Laser+remote+sensing+Fujii%2C+Takashi+Dr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser remote sensing">Laser remote sensing</a>
-        </h4>
-        <p class="fr-book-author">By Fujii, Takashi Dr, Tetsuo Fukuchi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Laser+remote+sensing+Fujii%2C+Takashi+Dr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Laser remote sensing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8685200-M.jpg" alt="Cover for Laser remote sensing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Laser+remote+sensing+Fujii%2C+Takashi+Dr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser remote sensing">Laser remote sensing</a>
+</h4>
+<p class="fr-book-author">By Fujii, Takashi Dr, Tetsuo Fukuchi</p>
         
-        <p class="fr-book-desc">First published 2005. Subjects: Atmosphere, Observations, Remote sensing, Laser observations, Optical radar.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Laser+remote+sensing+Fujii%2C+Takashi+Dr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2005. Subjects: Atmosphere, Observations, Remote sensing, Laser observations, Optical radar.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Laser+remote+sensing+Fujii%2C+Takashi+Dr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Photonics, 2 Volume Set on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13839810-M.jpg" alt="Cover for Fundamentals of Photonics, 2 Volume Set" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Photonics, 2 Volume Set">Fundamentals of Photonics, 2 Volume Set</a>
-        </h4>
-        <p class="fr-book-author">By Bahaa E. A. Saleh, Malvin Carl Teich</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Photonics, 2 Volume Set on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13839810-M.jpg" alt="Cover for Fundamentals of Photonics, 2 Volume Set" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Photonics, 2 Volume Set">Fundamentals of Photonics, 2 Volume Set</a>
+</h4>
+<p class="fr-book-author">By Bahaa E. A. Saleh, Malvin Carl Teich</p>
         
-        <p class="fr-book-desc">First published 2019. Subjects: Photonics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019. Subjects: Photonics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media+Larry+C.+Andrews+and+Ronald+L.+Phillips&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Laser Beam Propagation through Random Media on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media+Larry+C.+Andrews+and+Ronald+L.+Phillips&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser Beam Propagation through Random Media">Laser Beam Propagation through Random Media</a>
-        </h4>
-        <p class="fr-book-author">By Larry C. Andrews and Ronald L. Phillips</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media+Larry+C.+Andrews+and+Ronald+L.+Phillips&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Laser Beam Propagation through Random Media on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media+Larry+C.+Andrews+and+Ronald+L.+Phillips&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser Beam Propagation through Random Media">Laser Beam Propagation through Random Media</a>
+</h4>
+<p class="fr-book-author">By Larry C. Andrews and Ronald L. Phillips</p>
         
-        <p class="fr-book-desc">Directly addresses turbulence, scattering, attenuation, and range loss in adverse conditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media+Larry+C.+Andrews+and+Ronald+L.+Phillips&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses turbulence, scattering, attenuation, and range loss in adverse conditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media+Larry+C.+Andrews+and+Ronald+L.+Phillips&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed Energy Weapons</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Laser+remote+sensing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Laser remote sensing</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of Photonics, 2 Volume Set</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed Energy Weapons</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Laser+remote+sensing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Laser remote sensing</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of Photonics, 2 Volume Set</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Air Warden Civil Defense Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a4357525a8152cbb3479.jpg' | relative_url }}" alt="Listing image for Air Warden Civil Defense Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer">Air Warden Civil Defense Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Air Warden Civil Defense Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a4357525a8152cbb3479.jpg' | relative_url }}" alt="Listing image for Air Warden Civil Defense Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer">Air Warden Civil Defense Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Soviet Poster Weapon Aviation Air Defense army Pilot MIG Jet Fighter"><img src="{{ '/assets/images/marketplace-covers/5f0575b8dfa6d4a6ee38.jpg' | relative_url }}" alt="Listing image for Original Soviet Poster Weapon Aviation Air Defense army Pilot MIG Jet Fighter" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer">Original Soviet Poster Weapon Aviation Air Defense army Pilot MIG Jet Fighter</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Soviet Poster Weapon Aviation Air Defense army Pilot MIG Jet Fighter"><img src="{{ '/assets/images/marketplace-covers/5f0575b8dfa6d4a6ee38.jpg' | relative_url }}" alt="Listing image for Original Soviet Poster Weapon Aviation Air Defense army Pilot MIG Jet Fighter" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer">Original Soviet Poster Weapon Aviation Air Defense army Pilot MIG Jet Fighter</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sukhoi Su-35 Flanker-E Air Defence Fighter Blueprint Framed Wall Art Print 18X24"><img src="{{ '/assets/images/marketplace-covers/2433664d4e5a7808bdf5.jpg' | relative_url }}" alt="Listing image for Sukhoi Su-35 Flanker-E Air Defence Fighter Blueprint Framed Wall Art Print 18X24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer">Sukhoi Su-35 Flanker-E Air Defence Fighter Blueprint Framed Wall Art Print 18X24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sukhoi Su-35 Flanker-E Air Defence Fighter Blueprint Framed Wall Art Print 18X24"><img src="{{ '/assets/images/marketplace-covers/2433664d4e5a7808bdf5.jpg' | relative_url }}" alt="Listing image for Sukhoi Su-35 Flanker-E Air Defence Fighter Blueprint Framed Wall Art Print 18X24" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer">Sukhoi Su-35 Flanker-E Air Defence Fighter Blueprint Framed Wall Art Print 18X24</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Air Defense Artillery Veteran Custo Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/51aea6f648c5e7fc860f.jpg' | relative_url }}" alt="Listing image for Air Defense Artillery Veteran Custo Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer">Air Defense Artillery Veteran Custo Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Air Defense Artillery Veteran Custo Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/51aea6f648c5e7fc860f.jpg' | relative_url }}" alt="Listing image for Air Defense Artillery Veteran Custo Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer">Air Defense Artillery Veteran Custo Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense poster" data-ebay-reference="fog-and-rain-how-much-range-does-bad-weather-take-directed-ener-air-defense-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -528,7 +528,7 @@ For that reason, modern air-defence concepts increasingly combine lasers with mi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -548,7 +548,7 @@ For that reason, modern air-defence concepts increasingly combine lasers with mi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -580,7 +580,7 @@ For that reason, modern air-defence concepts increasingly combine lasers with mi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -632,7 +632,7 @@ For that reason, modern air-defence concepts increasingly combine lasers with mi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -677,7 +677,7 @@ For that reason, modern air-defence concepts increasingly combine lasers with mi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -718,177 +718,177 @@ For that reason, modern air-defence concepts increasingly combine lasers with mi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gao.gov  
    Title: gao 23 106717  
-   Link: <a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>fog and stormscan make certain directed energy weapons less effective.... For example, fog and storms can reduce laser beam range and q...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fog and stormscan make certain directed energy weapons less effective.... For example, fog and storms can reduce laser beam range and q...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: opg.optica.org  
-   Link: <a href="https://opg.optica.org/abstract.cfm?uri=ao-59-33-10207" target="_blank" rel="noopener noreferrer nofollow">https://opg.optica.org/abstract.cfm?uri=ao-59-33-10207</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Propagation of high energy lasers through cloudsby A Lawrence 2020 Cited by 4 In this section, we present a model for high en...</p></details>
+   Link:<a href="https://opg.optica.org/abstract.cfm?uri=ao-59-33-10207" target="_blank" rel="noopener noreferrer nofollow">https://opg.optica.org/abstract.cfm?uri=ao-59-33-10207</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Propagation of high energy lasers through cloudsby A Lawrence 2020 Cited by 4 In this section, we present a model for high en...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: open.library.ubc.ca  
-   Link: <a href="https://open.library.ubc.ca/media/stream/pdf/52383/1.0041947/1" target="_blank" rel="noopener noreferrer nofollow">https://open.library.ubc.ca/media/stream/pdf/52383/1.0041947/1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Figure 2... panying disadvantages, most notably high attenuation by fog and clouds. To...Read more...</p></details>
+   Link:<a href="https://open.library.ubc.ca/media/stream/pdf/52383/1.0041947/1" target="_blank" rel="noopener noreferrer nofollow">https://open.library.ubc.ca/media/stream/pdf/52383/1.0041947/1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Figure 2... panying disadvantages, most notably high attenuation by fog and clouds. To...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/259275472_Wavelength_and_altitude_dependence_of_laser_beam_propagation_in_dense_fog" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259275472_Wavelength_and_altitude_dependence_of_laser_beam_propagation_in_dense_fog</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Wavelength and altitude dependence of laser beam...Jan 13, 2015 Fog and extreme rain are the primary types of weathe...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/259275472_Wavelength_and_altitude_dependence_of_laser_beam_propagation_in_dense_fog" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259275472_Wavelength_and_altitude_dependence_of_laser_beam_propagation_in_dense_fog</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Wavelength and altitude dependence of laser beam...Jan 13, 2015 Fog and extreme rain are the primary types of weathe...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2073-4433/16/2/210" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2073-4433/16/2/210</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Research on the Attenuation Characteristics of LiDAR...by X Yang 2025 Cited by 6 This paper focuses on analyzing the distribution...</p></details>
+   Link:<a href="https://www.mdpi.com/2073-4433/16/2/210" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2073-4433/16/2/210</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research on the Attenuation Characteristics of LiDAR...by X Yang 2025 Cited by 6 This paper focuses on analyzing the distribution...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1155/2015/292905" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1155/2015/292905</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryPropagating Characteristics of Pulsed Laser in RainSep 7, 2015 As pulsed laser propagates in rain, the interaction...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/10.1155/2015/292905" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1155/2015/292905</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryPropagating Characteristics of Pulsed Laser in RainSep 7, 2015 As pulsed laser propagates in rain, the interaction...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/307435846_Atmospheric_Propagation_of_High-Energy_Laser_Beams" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/307435846_Atmospheric_Propagation_of_High-Energy_Laser_Beams</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Atmospheric Propagation of High-Energy Laser BeamsLaser sources are widely used for exploring the atmosphere, in particular, its ga...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/307435846_Atmospheric_Propagation_of_High-Energy_Laser_Beams" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/307435846_Atmospheric_Propagation_of_High-Energy_Laser_Beams</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Atmospheric Propagation of High-Energy Laser BeamsLaser sources are widely used for exploring the atmosphere, in particular, its ga...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2073-4433/12/7/918" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2073-4433/12/7/918</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Beam Atmospheric Propagation Modelling for...by T Fahey 2021 Cited by 107 The underlying causes of laser beam attenuation in...</p></details>
+   Link:<a href="https://www.mdpi.com/2073-4433/12/7/918" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2073-4433/12/7/918</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Beam Atmospheric Propagation Modelling for...by T Fahey 2021 Cited by 107 The underlying causes of laser beam attenuation in...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv High repetition rate ultrashort laser cuts a path through fog  
-   Link: <a href="https://arxiv.org/abs/1612.08276" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1612.08276</a>  
+   Link:<a href="https://arxiv.org/abs/1612.08276" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1612.08276</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv Free space laser telecommunication through fog  
-   Link: <a href="https://arxiv.org/abs/1810.09800" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1810.09800</a>  
+   Link:<a href="https://arxiv.org/abs/1810.09800" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1810.09800</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.gc.ca  
    Title: directed energy weapons  
-   Link: <a href="https://science.gc.ca/site/science/en/safeguarding-your-research/guidelines-and-tools-implement-research-security/emerging-technology-trend-cards/directed-energy-weapons" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/safeguarding-your-research/guidelines-and-tools-implement-research-security/emerging-technology-trend-cards/directed-energy-weapons</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Feb 11, 2025 Directed energy weapons (DEWs) use concentrated energy from electromagnetic or particle technology, rather than kinetic en...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/safeguarding-your-research/guidelines-and-tools-implement-research-security/emerging-technology-trend-cards/directed-energy-weapons" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/safeguarding-your-research/guidelines-and-tools-implement-research-security/emerging-technology-trend-cards/directed-energy-weapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Feb 11, 2025 Directed energy weapons (DEWs) use concentrated energy from electromagnetic or particle technology, rather than kinetic en...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: gao.gov  
    Title: gao 23 105868  
-   Link: <a href="https://www.gao.gov/products/gao-23-105868" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-105868</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons: DOD Should Focus...Apr 17, 2023 The Department of Defense (DOD) is currently developing directed energy...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-23-105868" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-105868</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons: DOD Should Focus...Apr 17, 2023 The Department of Defense (DOD) is currently developing directed energy...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: onr.navy.mil  
-   Link: <a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers</a>  
+   Link:<a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>onal watchdog,&quot; GAO investigates federal spending and performance...</p></details>
+   Link:<a href="https://www.gao.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>onal watchdog,&quot; GAO investigates federal spending and performance...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/assets/gao-23-106717.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/gao-23-106717.pdf</a>  
+   Link:<a href="https://www.gao.gov/assets/gao-23-106717.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/gao-23-106717.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/265394230_Effect_of_Atmospheric_Attenuation_on_Laser_Communications_for_Visible_and_Infrared_Wavelengths" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/265394230_Effect_of_Atmospheric_Attenuation_on_Laser_Communications_for_Visible_and_Infrared_Wavelengths</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r light source of optical signal in free space (FSO), were discussed.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/265394230_Effect_of_Atmospheric_Attenuation_on_Laser_Communications_for_Visible_and_Infrared_Wavelengths" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/265394230_Effect_of_Atmospheric_Attenuation_on_Laser_Communications_for_Visible_and_Infrared_Wavelengths</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r light source of optical signal in free space (FSO), were discussed.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Laser-Based Directed Energy WeaponsThis review aims to evaluate the current capabilities of laser-based Directed Energy Weapons (DE...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Laser-Based Directed Energy WeaponsThis review aims to evaluate the current capabilities of laser-based Directed Energy Weapons (DE...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/399863884_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399863884_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Laser-Based Directed Energy WeaponsJan 30, 2026 Objectives This review aims to evaluate the current capabilities of laser-based D...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/399863884_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399863884_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Laser-Based Directed Energy WeaponsJan 30, 2026 Objectives This review aims to evaluate the current capabilities of laser-based D...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nps.edu  
-   Link: <a href="https://nps.edu/web/research/-/propagation-of-high-energy-lasers-for-various-wavelengths-power-levels-and-atmospheric-conditions-2018" target="_blank" rel="noopener noreferrer nofollow">https://nps.edu/web/research/-/propagation-of-high-energy-lasers-for-various-wavelengths-power-levels-and-atmospheric-conditions-2018</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval Postgraduate SchoolPropagation of High Energy Lasers for Various...HEL performance is strongly affected by various atmospheric eff...</p></details>
+   Link:<a href="https://nps.edu/web/research/-/propagation-of-high-energy-lasers-for-various-wavelengths-power-levels-and-atmospheric-conditions-2018" target="_blank" rel="noopener noreferrer nofollow">https://nps.edu/web/research/-/propagation-of-high-energy-lasers-for-various-wavelengths-power-levels-and-atmospheric-conditions-2018</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Naval Postgraduate SchoolPropagation of High Energy Lasers for Various...HEL performance is strongly affected by various atmospheric eff...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyState of the Art and Evolution of High-Energy Laser WeaponsMar 31, 2010 If the HEL beam&#x27;s propagation path f...</p></details>
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyState of the Art and Evolution of High-Energy Laser WeaponsMar 31, 2010 If the HEL beam&#x27;s propagation path f...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/33361948/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/33361948/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of high energy lasers through cloudsby A Lawrence 2020 Cited by 4 A model for 10.6 m high energy laser beam interaction with a uni...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/33361948/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/33361948/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of high energy lasers through cloudsby A Lawrence 2020 Cited by 4 A model for 10.6 m high energy laser beam interaction with a uni...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: drillanddefense.com  
-   Link: <a href="https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/" target="_blank" rel="noopener noreferrer nofollow">https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather and atmosphere can reduce effectiveness. Fog, rain, smoke, dust, sea spray, and...Read more...</p></details>
+   Link:<a href="https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/" target="_blank" rel="noopener noreferrer nofollow">https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weather and atmosphere can reduce effectiveness. Fog, rain, smoke, dust, sea spray, and...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Laser weapon  
-   Link: <a href="https://en.wikipedia.org/wiki/Laser_weapon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Laser_weapon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser weaponOne of the major issues with laser weapons is atmospheric thermal [blooming](&amp;#123;&amp;#123; &#x27;blooming/&#x27; | relative_url &amp;#125;&amp;#125;), which is still largely unsolved. This issue is...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Laser_weapon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Laser_weapon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser weaponOne of the major issues with laser weapons is atmospheric thermal [blooming](&amp;#123;&amp;#123; &#x27;blooming/&#x27; | relative_url &amp;#125;&amp;#125;), which is still largely unsolved. This issue is...</p></details>
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: everycrsreport.com  
-   Link: <a href="https://www.everycrsreport.com/files/2022-09-13_R46925_3cec298682f62bdf9aad62dc48a2a063e1e6556e.html" target="_blank" rel="noopener noreferrer nofollow">https://www.everycrsreport.com/files/2022-09-13_R46925_3cec298682f62bdf9aad62dc48a2a063e1e6556e.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HTML... atmospheric conditions (e.g., rain, fog, obscurants) could potentially limit... Trebes, “Advancing High Energy Laser Weapon Ca...</p></details>
+   Link:<a href="https://www.everycrsreport.com/files/2022-09-13_R46925_3cec298682f62bdf9aad62dc48a2a063e1e6556e.html" target="_blank" rel="noopener noreferrer nofollow">https://www.everycrsreport.com/files/2022-09-13_R46925_3cec298682f62bdf9aad62dc48a2a063e1e6556e.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HTML... atmospheric conditions (e.g., rain, fog, obscurants) could potentially limit... Trebes, “Advancing High Energy Laser Weapon Ca...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: eos-aus.com  
-   Link: <a href="https://eos-aus.com/defence/high-energy-laser-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://eos-aus.com/defence/high-energy-laser-weapon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>High Energy Laser WeaponHarnessing advanced technology, EOS&#x27; High Energy Laser (HEL) weapon ensures swift and decisive action against UAS...</p></details>
+   Link:<a href="https://eos-aus.com/defence/high-energy-laser-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://eos-aus.com/defence/high-energy-laser-weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High Energy Laser WeaponHarnessing advanced technology, EOS&#x27; High Energy Laser (HEL) weapon ensures swift and decisive action against UAS...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: rtx.com  
-   Link: <a href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers</a>  
+   Link:<a href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: gao-restaurant.de  
-   Link: <a href="https://gao-restaurant.de/" target="_blank" rel="noopener noreferrer nofollow">https://gao-restaurant.de/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vietnamesisches Streetfood fr Euer Event? Wir machen es mglich! Bei Interesse eines Caterings sprechen Sie uns gerne vor Ort an. Unser...</p></details>
+   Link:<a href="https://gao-restaurant.de/" target="_blank" rel="noopener noreferrer nofollow">https://gao-restaurant.de/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vietnamesisches Streetfood fr Euer Event? Wir machen es mglich! Bei Interesse eines Caterings sprechen Sie uns gerne vor Ort an. Unser...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: upload.wikimedia.org  
    Title: Progress in directed energy weapons part I: High energy laser in Weapon.Read mo  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/2/29/Direct-energy_weapons_-_invisible_and_invincible%3F_%28IA_directenergyweap109453311%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/2/29/Direct-energy_weapons_-_invisible_and_invincible%3F_%28IA_directenergyweap109453311%29.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgDirect-energy weapons: invisible and invincible?by BM Deveci 2007 Cited by 15 However, rain, smoke, fog, snow and dus...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/2/29/Direct-energy_weapons_-_invisible_and_invincible%3F_%28IA_directenergyweap109453311%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/2/29/Direct-energy_weapons_-_invisible_and_invincible%3F_%28IA_directenergyweap109453311%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgDirect-energy weapons: invisible and invincible?by BM Deveci 2007 Cited by 15 However, rain, smoke, fog, snow and dus...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: aspistrategist.org.au  
    Title: war at the speed of light the emerging role of directed energy weapons  
-   Link: <a href="https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow">https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>directed-energy weapons can become operationally effective. For example, atmospheric effects can reduce the effectiveness of high energy...</p></details>
+   Link:<a href="https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow">https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>directed-energy weapons can become operationally effective. For example, atmospheric effects can reduce the effectiveness of high energy...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: eureka.patsnap.com  
    Title: report atmospheric effects on long range [laser power](&#123;&#123; 'power-costs/' | relative_url &#125;&#125;) transmission  
-   Link: <a href="https://eureka.patsnap.com/report-atmospheric-effects-on-long-range-laser-power-transmission" target="_blank" rel="noopener noreferrer nofollow">https://eureka.patsnap.com/report-atmospheric-effects-on-long-range-laser-power-transmission</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects On Long-Range Laser Power...Aug 28, 2025 Discover how atmospheric conditions impact laser power transmission and explore solut...</p></details>
+   Link:<a href="https://eureka.patsnap.com/report-atmospheric-effects-on-long-range-laser-power-transmission" target="_blank" rel="noopener noreferrer nofollow">https://eureka.patsnap.com/report-atmospheric-effects-on-long-range-laser-power-transmission</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects On Long-Range Laser Power...Aug 28, 2025 Discover how atmospheric conditions impact laser power transmission and explore solut...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: army.mil  
    Title: developing lasers that pierce fog dust to destroy targets  
-   Link: <a href="https://www.army.mil/article/195650/army_developing_lasers_that_pierce_fog_dust_to_destroy_targets" target="_blank" rel="noopener noreferrer nofollow">https://www.army.mil/article/195650/army_developing_lasers_that_pierce_fog_dust_to_destroy_targets</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Army developing lasers that pierce fog, dust to destroy targetsOct 23, 2017 A lot of people think that high-energy lasers, or HELs, can...</p></details>
+   Link:<a href="https://www.army.mil/article/195650/army_developing_lasers_that_pierce_fog_dust_to_destroy_targets" target="_blank" rel="noopener noreferrer nofollow">https://www.army.mil/article/195650/army_developing_lasers_that_pierce_fog_dust_to_destroy_targets</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Army developing lasers that pierce fog, dust to destroy targetsOct 23, 2017 A lot of people think that high-energy lasers, or HELs, can...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: defencefinancemonitor.com  
-   Link: <a href="https://www.defencefinancemonitor.com/p/directed-energy-weapons-in-20252035" target="_blank" rel="noopener noreferrer nofollow">https://www.defencefinancemonitor.com/p/directed-energy-weapons-in-20252035</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defence Finance MonitorDirected Energy Weapons in 20252035: Development...23 May 2025 The downside is weather and atmosphere: laser b...</p></details>
+   Link:<a href="https://www.defencefinancemonitor.com/p/directed-energy-weapons-in-20252035" target="_blank" rel="noopener noreferrer nofollow">https://www.defencefinancemonitor.com/p/directed-energy-weapons-in-20252035</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defence Finance MonitorDirected Energy Weapons in 20252035: Development...23 May 2025 The downside is weather and atmosphere: laser b...</p></details>
    Published: May 2025  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: raksha-anirveda.com  
-   Link: <a href="https://raksha-anirveda.com/pentagons-directed-energy-weapons-from-sci-fi-to-battlefield-reality/?srsltid=AfmBOoqGWMEeKsOzu8kwpqrJmUFpd0jqeDee1a110Q2vHol6B_1BvkFD" target="_blank" rel="noopener noreferrer nofollow">https://raksha-anirveda.com/pentagons-directed-energy-weapons-from-sci-fi-to-battlefield-reality/?srsltid=AfmBOoqGWMEeKsOzu8kwpqrJmUFpd0jqeDee1a110Q2vHol6B_1BvkFD</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s Directed Energy Weapons: From Sci-Fi to...27 May 2024 The effectiveness of current laser prototypes is still uncertain...</p></details>
+   Link:<a href="https://raksha-anirveda.com/pentagons-directed-energy-weapons-from-sci-fi-to-battlefield-reality/?srsltid=AfmBOoqGWMEeKsOzu8kwpqrJmUFpd0jqeDee1a110Q2vHol6B_1BvkFD" target="_blank" rel="noopener noreferrer nofollow">https://raksha-anirveda.com/pentagons-directed-energy-weapons-from-sci-fi-to-battlefield-reality/?srsltid=AfmBOoqGWMEeKsOzu8kwpqrJmUFpd0jqeDee1a110Q2vHol6B_1BvkFD</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s Directed Energy Weapons: From Sci-Fi to...27 May 2024 The effectiveness of current laser prototypes is still uncertain...</p></details>
    Published: May 2024  

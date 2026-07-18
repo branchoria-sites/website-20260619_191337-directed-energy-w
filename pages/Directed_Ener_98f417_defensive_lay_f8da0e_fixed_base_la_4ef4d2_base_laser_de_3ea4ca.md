@@ -275,13 +275,13 @@ image: /assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_fixed_base_la_4e
 
 ## Introduction
 
-A fixed-site laser weapon is most effective when it operates as one component of a wider defensive network rather than as a standalone weapon. The laser may provide the visible interception effect, but it depends on radars, electro-optical sensors, command-and-control systems, communications links, power infrastructure and supporting weapons to function in real combat conditions. Modern air-defence doctrine increasingly treats high-energy [lasers]({{ 'lasers/' | relative_url }}) as an additional layer within an integrated defence architecture, particularly against drones, rockets and other short-range aerial threats. The practical lesson from current military programmes is that beam power alone does not determine effectiveness; the quality of detection, tracking, decision-making and layered defence often matters just as much. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rtx.com">[RTX+2Missile Defense Advocacy Alliance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rtx.com</span><span class="citation-popover-snippet">High-Energy Lasers &#124; RaytheonThis directed energy technology enables detection of threats, tracking during maneuvers, and positive vis...</span></span></span>
+A fixed-site laser weapon is most effective when it operates as one component of a wider defensive network rather than as a standalone weapon. The laser may provide the visible interception effect, but it depends on radars, electro-optical sensors, command-and-control systems, communications links, power infrastructure and supporting weapons to function in real combat conditions. Modern air-defence doctrine increasingly treats high-energy [lasers]({{ 'lasers/' | relative_url }}) as an additional layer within an integrated defence architecture, particularly against drones, rockets and other short-range aerial threats. The practical lesson from current military programmes is that beam power alone does not determine effectiveness; the quality of detection, tracking, decision-making and layered defence often matters just as much.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rtx.com">[RTX+2Missile Defense Advocacy Alliance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rtx.com</span><span class="citation-popover-snippet">High-Energy Lasers &#124; RaytheonThis directed energy technology enables detection of threats, tracking during maneuvers, and positive vis...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_fixed_base_la_4ef4d2_base_laser_de_3ea4ca-Illustration-1-dark.svg" | relative_url }}" alt="Defence Network illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_fixed_base_la_4ef4d2_base_laser_de_3ea4ca-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_fixed_base_la_4ef4d2_base_laser_de_3ea4ca-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Prepared Sites Improve Detection and Tracking
 
-A laser cannot engage a target that it has not found. Unlike a missile that may use its own seeker after launch, a laser must maintain precise aim on a target for a sufficient period of time to cause damage. This requirement makes detection and tracking one of the most critical parts of the entire system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/Portals/90/Documents/RD/Directed_Energy_Futures_2060_Final29June21_with_clearance_number.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[AFRL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">Directed Energy Futures 2060 Final29June21 with clearance number</span><span class="citation-popover-snippet">2060 directed energy futuresJuly 9, 2021 — 16 Jul 2021 — The challenge includes both tracking of moving targets at high levels of acc...</span><span class="citation-popover-meta">Published: July 9, 2021</span></span></span>
+A laser cannot engage a target that it has not found. Unlike a missile that may use its own seeker after launch, a laser must maintain precise aim on a target for a sufficient period of time to cause damage. This requirement makes detection and tracking one of the most critical parts of the entire system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/Portals/90/Documents/RD/Directed_Energy_Futures_2060_Final29June21_with_clearance_number.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[AFRL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">Directed Energy Futures 2060 Final29June21 with clearance number</span><span class="citation-popover-snippet">2060 directed energy futuresJuly 9, 2021 — 16 Jul 2021 — The challenge includes both tracking of moving targets at high levels of acc...</span><span class="citation-popover-meta">Published: July 9, 2021</span></span></span>
 
 Prepared defensive sites have several advantages:
 
@@ -295,9 +295,9 @@ Prepared defensive sites have several advantages:
 
 </div>
 
-In practice, the laser often receives targeting information from external sensors rather than discovering threats independently. Integrated air-defence networks are designed around exactly this principle: one set of systems detects and classifies threats, while another set of systems engages them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.missiledefenseadvocacy.org/integrated-battle-networks/command-and-control-c2-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: missiledefenseadvocacy.org">[Missile Defense Advocacy Alliance+2Thales Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">missiledefenseadvocacy.org</span><span class="citation-popover-title">Missile Defense Advocacy Alliance Command and Control (C2) Systems The operational workflow in missile defense C2 involves several key st</span><span class="citation-popover-snippet">Missile Defense Advocacy AllianceCommand and Control (C2) SystemsThe operational workflow in missile defense C2 involves several key step...</span></span></span>
+In practice, the laser often receives targeting information from external sensors rather than discovering threats independently. Integrated air-defence networks are designed around exactly this principle: one set of systems detects and classifies threats, while another set of systems engages them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.missiledefenseadvocacy.org/integrated-battle-networks/command-and-control-c2-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: missiledefenseadvocacy.org">[Missile Defense Advocacy Alliance+2Thales Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">missiledefenseadvocacy.org</span><span class="citation-popover-title">Missile Defense Advocacy Alliance Command and Control (C2) Systems The operational workflow in missile defense C2 involves several key st</span><span class="citation-popover-snippet">Missile Defense Advocacy AllianceCommand and Control (C2) SystemsThe operational workflow in missile defense C2 involves several key step...</span></span></span>
 
-This arrangement is particularly valuable against small drones. A drone may be difficult to detect visually at long range, but a radar network can identify it early and hand off accurate tracking data to the laser before the target reaches a protected area. The laser then spends less time searching and more time engaging. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rtx.com">[RTX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rtx.com</span><span class="citation-popover-snippet">High-Energy Lasers &#124; RaytheonThis directed energy technology enables detection of threats, tracking during maneuvers, and positive vis...</span></span></span>
+This arrangement is particularly valuable against small drones. A drone may be difficult to detect visually at long range, but a radar network can identify it early and hand off accurate tracking data to the laser before the target reaches a protected area. The laser then spends less time searching and more time engaging.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rtx.com">[RTX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rtx.com</span><span class="citation-popover-snippet">High-Energy Lasers &#124; RaytheonThis directed energy technology enables detection of threats, tracking during maneuvers, and positive vis...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZDioNFLaKCU" title="Why Laser Weapons are About to Change Everything" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZDioNFLaKCU" target="_blank" rel="noopener noreferrer">Why Laser Weapons are About to Change Everything</a></p><p class="youtube-embed-meta">Channel: Task &amp; Purpose</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZDioNFLaKCU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZDioNFLaKCU">Open on YouTube</a></p></div></div></div>
@@ -332,7 +332,7 @@ The operational workflow used in integrated missile-defence systems illustrates 
 The defensive network supporting a fixed laser extends beyond sensors and command centres. It also includes the physical infrastructure required to sustain operations.
 
 [High-energy lasers require:](#endnote-1 "
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RTXHigh-Energy Lasers | RaytheonThis directed energy technology enables detection of threats, tracking during maneuvers, and positive vis...&quot;)...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RTXHigh-Energy Lasers | RaytheonThis directed energy technology enables detection of threats, tracking during maneuvers, and positive vis...&quot;)...</p></details>
 
 * Reliable electrical [generation]({{ 'generation-ii/' | relative_url }}) or grid connections.
 * Thermal-management and cooling systems.
@@ -364,194 +364,194 @@ A standalone laser would need to search for threats, classify them, decide on en
 For fixed-site defence, this is why military planners increasingly view directed-energy weapons as one layer of an integrated defensive architecture. The beam may be the most visible element, but the network around it is what turns a laser from a technical demonstration into a practical defensive capability. [Thales Group+2tno.nl](https://www.thalesgroup.com/en/solutions-catalogue/defence/integrated-air-and-missile-defence)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why A Laser Is Not The Whole Defence. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why A Laser Is Not The Whole Defence. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Focuses on sensors, networks, command systems, and targeting chains that make weapons effective.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on sensors, networks, command systems, and targeting chains that make weapons effective.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides context on how advanced defense systems depend on integration, engineering, and supporting infrastructure rather than a single b...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on how advanced defense systems depend on integration, engineering, and supporting infrastructure rather than a single b...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+future+of+war+Lawrence+Freedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The future of war on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9338514-M.jpg" alt="Cover for The future of war" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+future+of+war+Lawrence+Freedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The future of war">The future of war</a>
-        </h4>
-        <p class="fr-book-author">By Lawrence Freedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+future+of+war+Lawrence+Freedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The future of war on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9338514-M.jpg" alt="Cover for The future of war" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+future+of+war+Lawrence+Freedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The future of war">The future of war</a>
+</h4>
+<p class="fr-book-author">By Lawrence Freedman</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Forecasting, War, History, War, history, New York Times reviewed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+future+of+war+Lawrence+Freedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Forecasting, War, History, War, history, New York Times reviewed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+future+of+war+Lawrence+Freedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Air+Power+Jeremy+Black&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Air Power on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9138942-M.jpg" alt="Cover for Air Power" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Air+Power+Jeremy+Black&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Air Power">Air Power</a>
-        </h4>
-        <p class="fr-book-author">By Jeremy Black</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Air+Power+Jeremy+Black&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Air Power on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9138942-M.jpg" alt="Cover for Air Power" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Air+Power+Jeremy+Black&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Air Power">Air Power</a>
+</h4>
+<p class="fr-book-author">By Jeremy Black</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Air power, Cold war, History, Cold War (1945-1989) fast (OCoLC)fst01754978 (uri) http://id.worldcat.org/f...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Air+Power+Jeremy+Black&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Air power, Cold war, History, Cold War (1945-1989) fast (OCoLC)fst01754978 (uri) http://id.worldcat.org/f...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Air+Power+Jeremy+Black&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+future+of+war&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The future of war</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+future+of+war&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The future of war</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment"><img src="{{ '/assets/images/marketplace-covers/7b762fb9a777d61458bf.jpg' | relative_url }}" alt="Listing image for Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment"><img src="{{ '/assets/images/marketplace-covers/7b762fb9a777d61458bf.jpg' | relative_url }}" alt="Listing image for Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin"><img src="{{ '/assets/images/marketplace-covers/7e59f5248ccdd6fc90fc.jpg' | relative_url }}" alt="Listing image for Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin"><img src="{{ '/assets/images/marketplace-covers/7e59f5248ccdd6fc90fc.jpg' | relative_url }}" alt="Listing image for Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Press Photograph Research Laboratory Equipment and Laser Technology"><img src="{{ '/assets/images/marketplace-covers/e237132357180c5d278f.jpg' | relative_url }}" alt="Listing image for Vintage Press Photograph Research Laboratory Equipment and Laser Technology" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Vintage Press Photograph Research Laboratory Equipment and Laser Technology</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Press Photograph Research Laboratory Equipment and Laser Technology"><img src="{{ '/assets/images/marketplace-covers/e237132357180c5d278f.jpg' | relative_url }}" alt="Listing image for Vintage Press Photograph Research Laboratory Equipment and Laser Technology" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Vintage Press Photograph Research Laboratory Equipment and Laser Technology</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment"><img src="{{ '/assets/images/marketplace-covers/0405b1cb09b5dd20d5de.jpg' | relative_url }}" alt="Listing image for Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment"><img src="{{ '/assets/images/marketplace-covers/0405b1cb09b5dd20d5de.jpg' | relative_url }}" alt="Listing image for Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="defence-network-why-a-laser-is-not-the-whole-defence-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -567,7 +567,7 @@ For fixed-site defence, this is why military planners increasingly view directed
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -587,7 +587,7 @@ For fixed-site defence, this is why military planners increasingly view directed
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -619,7 +619,7 @@ For fixed-site defence, this is why military planners increasingly view directed
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -671,7 +671,7 @@ For fixed-site defence, this is why military planners increasingly view directed
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -716,7 +716,7 @@ For fixed-site defence, this is why military planners increasingly view directed
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -757,146 +757,146 @@ For fixed-site defence, this is why military planners increasingly view directed
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: rtx.com  
-   Link: <a href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>High-Energy Lasers | RaytheonThis directed energy technology enables detection of threats, tracking during maneuvers, and positive vis...</p></details>
+   Link:<a href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High-Energy Lasers | RaytheonThis directed energy technology enables detection of threats, tracking during maneuvers, and positive vis...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gao.gov  
    Title: gao 23 106717  
-   Link: <a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — Directed energy weapons—such as lasers—use energy fired at the speed of...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — Directed energy weapons—such as lasers—use energy fired at the speed of...</p></details>
    Published: May 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ZDioNFLaKCU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZDioNFLaKCU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Laser Weapons are About to Change EverythingComplex integrated attacks require the ability to stop airborne threats at range, defeat...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZDioNFLaKCU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZDioNFLaKCU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Laser Weapons are About to Change EverythingComplex integrated attacks require the ability to stop airborne threats at range, defeat...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: epc.eu  
    Title: the new economics of warfare  
-   Link: <a href="https://www.epc.eu/publication/the-new-economics-of-warfare/" target="_blank" rel="noopener noreferrer nofollow">https://www.epc.eu/publication/the-new-economics-of-warfare/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Mar 2026 — Invest heavily in cost-effective [counter-drone](&amp;#123;&amp;#123; &#x27;missile-savings/&#x27; | relative_url &amp;#125;&amp;#125;) technologies. Shooting multi-million-euro interceptors at low-cost drones is...</p></details>
+   Link:<a href="https://www.epc.eu/publication/the-new-economics-of-warfare/" target="_blank" rel="noopener noreferrer nofollow">https://www.epc.eu/publication/the-new-economics-of-warfare/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9 Mar 2026 — Invest heavily in cost-effective [counter-drone](&amp;#123;&amp;#123; &#x27;missile-savings/&#x27; | relative_url &amp;#125;&amp;#125;) technologies. Shooting multi-million-euro interceptors at low-cost drones is...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: gao.gov  
    Title: gao 23 105868  
-   Link: <a href="https://www.gao.gov/products/gao-23-105868" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-105868</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons: DOD Should Focus on...17 Apr 2023 — The Department of Defense (DOD) is currently developing directed energy...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-23-105868" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-105868</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons: DOD Should Focus on...17 Apr 2023 — The Department of Defense (DOD) is currently developing directed energy...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reuters.com  
    Title: Israeli anti-missile laser system 'Iron Beam' ready for military use this year  
-   Link: <a href="https://www.reuters.com/business/aerospace-defense/israeli-anti-missile-laser-system-iron-beam-ready-military-use-this-year-2025-09-17/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/israeli-anti-missile-laser-system-iron-beam-ready-military-use-this-year-2025-09-17/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Co-developed by Rafael Advanced Defense Systems and Elbit Systems, Iron Beam is a high-power, ground-based laser designed to intercept ro...</p></details>
+   Link:<a href="https://www.reuters.com/business/aerospace-defense/israeli-anti-missile-laser-system-iron-beam-ready-military-use-this-year-2025-09-17/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/israeli-anti-missile-laser-system-iron-beam-ready-military-use-this-year-2025-09-17/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Co-developed by Rafael Advanced Defense Systems and Elbit Systems, Iron Beam is a high-power, ground-based laser designed to intercept ro...</p></details>
    Published: September 17, 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: tno.nl  
-   Link: <a href="https://www.tno.nl/en/safe/integrated-combat-capabilities/" target="_blank" rel="noopener noreferrer nofollow">https://www.tno.nl/en/safe/integrated-combat-capabilities/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Integrated combat capabilitiesWe are working on balancing speed, precision and energy efficiency to increase gestation, as well as reduci...</p></details>
+   Link:<a href="https://www.tno.nl/en/safe/integrated-combat-capabilities/" target="_blank" rel="noopener noreferrer nofollow">https://www.tno.nl/en/safe/integrated-combat-capabilities/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Integrated combat capabilitiesWe are working on balancing speed, precision and energy efficiency to increase gestation, as well as reduci...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Fd7vm-YZqXY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fd7vm-YZqXY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ectromagnetic energy, and include lasers, high-powered...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Fd7vm-YZqXY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fd7vm-YZqXY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ectromagnetic energy, and include lasers, high-powered...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Laser and Microwave Weapons  
-   Link: <a href="https://www.youtube.com/watch?v=JGzL3fZgPZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JGzL3fZgPZY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed-Energy Weapon...These are directed energy weapons most commonly lasers and high-powered [microwaves](&amp;#123;&amp;#123; &#x27;microwaves/&#x27; | relative_url &amp;#125;&amp;#125;) on paper...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JGzL3fZgPZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JGzL3fZgPZY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed-Energy Weapon...These are directed energy weapons most commonly lasers and high-powered [microwaves](&amp;#123;&amp;#123; &#x27;microwaves/&#x27; | relative_url &amp;#125;&amp;#125;) on paper...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X1toVupe_R8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Directed Energy Weapons SystemsThe Government Accountability Office explains what are Directed Energy Weapons and takes a look at ho...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X1toVupe_R8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Directed Energy Weapons SystemsThe Government Accountability Office explains what are Directed Energy Weapons and takes a look at ho...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: rtx.com  
-   Link: <a href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Integrated Air &amp; Missile Defense | RaytheonA portfolio of sensors, command and control systems, and effectors designed to detect and defe...</p></details>
+   Link:<a href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Integrated Air &amp; Missile Defense | RaytheonA portfolio of sensors, command and control systems, and effectors designed to detect and defe...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: thalesgroup.com  
-   Link: <a href="https://www.thalesgroup.com/en/solutions-catalogue/defence/integrated-air-and-missile-defence" target="_blank" rel="noopener noreferrer nofollow">https://www.thalesgroup.com/en/solutions-catalogue/defence/integrated-air-and-missile-defence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thales GroupIntegrated Air and Missile DefenceThe full integrated IAMD command and control chain in a collaborative network, bringing tog...</p></details>
+   Link:<a href="https://www.thalesgroup.com/en/solutions-catalogue/defence/integrated-air-and-missile-defence" target="_blank" rel="noopener noreferrer nofollow">https://www.thalesgroup.com/en/solutions-catalogue/defence/integrated-air-and-missile-defence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thales GroupIntegrated Air and Missile DefenceThe full integrated IAMD command and control chain in a collaborative network, bringing tog...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: afrl.af.mil  
    Title: Directed Energy Futures 2060 Final29June21 with clearance number  
-   Link: <a href="https://www.afrl.af.mil/Portals/90/Documents/RD/Directed_Energy_Futures_2060_Final29June21_with_clearance_number.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/Portals/90/Documents/RD/Directed_Energy_Futures_2060_Final29June21_with_clearance_number.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2060 directed energy futuresJuly 9, 2021 — 16 Jul 2021 — The challenge includes both tracking of moving targets at high levels of acc...</p></details>
+   Link:<a href="https://www.afrl.af.mil/Portals/90/Documents/RD/Directed_Energy_Futures_2060_Final29June21_with_clearance_number.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/Portals/90/Documents/RD/Directed_Energy_Futures_2060_Final29June21_with_clearance_number.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2060 directed energy futuresJuly 9, 2021 — 16 Jul 2021 — The challenge includes both tracking of moving targets at high levels of acc...</p></details>
    Published: July 9, 2021  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nationaldefensemagazine.org  
    Title: government perspective directed energy in air base defense can save the arsenal  
-   Link: <a href="https://www.nationaldefensemagazine.org/articles/2025/8/11/government-perspective-directed-energy-in-air-base-defense-can-save-the-arsenal" target="_blank" rel="noopener noreferrer nofollow">https://www.nationaldefensemagazine.org/articles/2025/8/11/government-perspective-directed-energy-in-air-base-defense-can-save-the-arsenal</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>High-power electromagnetic weapons require line-of-sight and are sensitive to...Read more...</p></details>
+   Link:<a href="https://www.nationaldefensemagazine.org/articles/2025/8/11/government-perspective-directed-energy-in-air-base-defense-can-save-the-arsenal" target="_blank" rel="noopener noreferrer nofollow">https://www.nationaldefensemagazine.org/articles/2025/8/11/government-perspective-directed-energy-in-air-base-defense-can-save-the-arsenal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High-power electromagnetic weapons require line-of-sight and are sensitive to...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: tomshardware.com  
-   Link: <a href="https://www.tomshardware.com/tech-industry/100kw-iron-beam-laser-becomes-worlds-first-drone-defense-zapper-to-be-operationally-deployed-it-can-also-shoot-down-rockets-mortars-and-other-aerial-threats" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/100kw-iron-beam-laser-becomes-worlds-first-drone-defense-zapper-to-be-operationally-deployed-it-can-also-shoot-down-rockets-mortars-and-other-aerial-threats</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The high-energy laser, developed through a collaboration of government, military, scientific, and commercial sectors, is intended to bols...</p></details>
+   Link:<a href="https://www.tomshardware.com/tech-industry/100kw-iron-beam-laser-becomes-worlds-first-drone-defense-zapper-to-be-operationally-deployed-it-can-also-shoot-down-rockets-mortars-and-other-aerial-threats" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/100kw-iron-beam-laser-becomes-worlds-first-drone-defense-zapper-to-be-operationally-deployed-it-can-also-shoot-down-rockets-mortars-and-other-aerial-threats</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The high-energy laser, developed through a collaboration of government, military, scientific, and commercial sectors, is intended to bols...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: airpower.airforce.gov.au  
    Title: airforce.gov.au Directed Energy Weapons  
-   Link: <a href="https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf" target="_blank" rel="noopener noreferrer nofollow">https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Energy Weapons - Air and Space Power CentreLaser energy can be used to attack targets susceptible to high dwell times of concentrated lig...</p></details>
+   Link:<a href="https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf" target="_blank" rel="noopener noreferrer nofollow">https://airpower.airforce.gov.au/sites/default/files/2021-03/BPAF03_Directed-Energy-Weapons.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Energy Weapons - Air and Space Power CentreLaser energy can be used to attack targets susceptible to high dwell times of concentrated lig...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: lockheedmartin.com  
-   Link: <a href="https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy | Lockheed MartinExperience the potential of our laser weapons and directed energy weapon technologies, providing afforda...</p></details>
+   Link:<a href="https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy | Lockheed MartinExperience the potential of our laser weapons and directed energy weapon technologies, providing afforda...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/6699039.pdf?abstractid=6699039&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6699039.pdf?abstractid=6699039&amp;mirid=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Counter-Unmanned Aerial System (C-UAS)...by A Rawat · 2026 — The central thesis of this paper is that a layered C-UAS architecture, stru...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/6699039.pdf?abstractid=6699039&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/6699039.pdf?abstractid=6699039&amp;mirid=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Counter-Unmanned Aerial System (C-UAS)...by A Rawat · 2026 — The central thesis of this paper is that a layered C-UAS architecture, stru...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: breakingdefense.com  
-   Link: <a href="https://breakingdefense.com/2026/06/mbda-showcases-hybrid-high-energy-laser-interceptor-counter-drone-system/" target="_blank" rel="noopener noreferrer nofollow">https://breakingdefense.com/2026/06/mbda-showcases-hybrid-high-energy-laser-interceptor-counter-drone-system/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MBDA showcases hybrid high-energy laser, interceptor...8 days ago — The laser is specifically intended to neutralize close-range targets...</p></details>
+   Link:<a href="https://breakingdefense.com/2026/06/mbda-showcases-hybrid-high-energy-laser-interceptor-counter-drone-system/" target="_blank" rel="noopener noreferrer nofollow">https://breakingdefense.com/2026/06/mbda-showcases-hybrid-high-energy-laser-interceptor-counter-drone-system/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MBDA showcases hybrid high-energy laser, interceptor...8 days ago — The laser is specifically intended to neutralize close-range targets...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: csbaonline.org  
-   Link: <a href="https://csbaonline.org/uploads/documents/CSBA_ChangingTheGame_ereader.pdf" target="_blank" rel="noopener noreferrer nofollow">https://csbaonline.org/uploads/documents/CSBA_ChangingTheGame_ereader.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ts near-instantaneously and at a very low cost per shot—have great potential to help the.Read more...</p></details>
+   Link:<a href="https://csbaonline.org/uploads/documents/CSBA_ChangingTheGame_ereader.pdf" target="_blank" rel="noopener noreferrer nofollow">https://csbaonline.org/uploads/documents/CSBA_ChangingTheGame_ereader.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ts near-instantaneously and at a very low cost per shot—have great potential to help the.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: defencesciencereview.com.pl  
    Title: pdf 216776 135052  
-   Link: <a href="https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-[Directed-Ener" target="_blank" rel="noopener noreferrer nofollow">https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-[Directed-Ener</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFENCE SCIENCE REVIEWby A Karkadakattil · 2026 · Cited by 1 — Objectives: This review aims to evaluate the current capabilities of laser...</p></details>
+   Link:<a href="https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-[Directed-Ener" target="_blank" rel="noopener noreferrer nofollow">https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-[Directed-Ener</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DEFENCE SCIENCE REVIEWby A Karkadakattil · 2026 · Cited by 1 — Objectives: This review aims to evaluate the current capabilities of laser...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: drillanddefense.com  
-   Link: <a href="https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/" target="_blank" rel="noopener noreferrer nofollow">https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Weapons: The New Layer in Modern Air DefenseLaser weapons are becoming part of modern air defense, especially against drones and lo...</p></details>
+   Link:<a href="https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/" target="_blank" rel="noopener noreferrer nofollow">https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Weapons: The New Layer in Modern Air DefenseLaser weapons are becoming part of modern air defense, especially against drones and lo...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/technical-evolution-operational-integration-light-based-robi-sen-hhdoc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/technical-evolution-operational-integration-light-based-robi-sen-hhdoc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>her, dwell time, beam quality, target material, tracking stability...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/technical-evolution-operational-integration-light-based-robi-sen-hhdoc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/technical-evolution-operational-integration-light-based-robi-sen-hhdoc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>her, dwell time, beam quality, target material, tracking stability...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: onr.navy.mil  
-   Link: <a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spectrum of radio and microwave freq...</p></details>
+   Link:<a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spectrum of radio and microwave freq...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: norskluftvern.com  
-   Link: <a href="https://norskluftvern.com/2025/07/20/the-coming-revolution-in-air-defense-how-drones-and-directed-energy-are-forcing-a-rethink/" target="_blank" rel="noopener noreferrer nofollow">https://norskluftvern.com/2025/07/20/the-coming-revolution-in-air-defense-how-drones-and-directed-energy-are-forcing-a-rethink/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Coming Revolution in Air Defense: How Drones and...20 Jul 2025 — Lasers, in particular, offer the tantalizing prospect of a near-zer...</p></details>
+   Link:<a href="https://norskluftvern.com/2025/07/20/the-coming-revolution-in-air-defense-how-drones-and-directed-energy-are-forcing-a-rethink/" target="_blank" rel="noopener noreferrer nofollow">https://norskluftvern.com/2025/07/20/the-coming-revolution-in-air-defense-how-drones-and-directed-energy-are-forcing-a-rethink/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Coming Revolution in Air Defense: How Drones and...20 Jul 2025 — Lasers, in particular, offer the tantalizing prospect of a near-zer...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: onr.navy.mil  
-   Link: <a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Counter Directed Energy Weapons and High Energy LasersDirected energy weapons (DEWs) are defined as electromagnetic systems capable of co...</p></details>
+   Link:<a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Counter Directed Energy Weapons and High Energy LasersDirected energy weapons (DEWs) are defined as electromagnetic systems capable of co...</p></details>

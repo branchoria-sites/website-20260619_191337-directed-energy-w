@@ -269,7 +269,7 @@ image: /assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_weather_laser_7b
 
 ## Introduction
 
-A laser demonstration that succeeds in clear, dry air does not establish a fixed combat radius. It establishes performance under a specific atmospheric condition. For directed-energy weapons, the [atmosphere]({{ 'atmosphere/' | relative_url }}) is part of the weapon system itself: the same laser that can disable a target at one distance during a carefully chosen test may achieve a much shorter effective range when humidity, turbulence, haze, rain, sea spray, dust, or smoke are present. Military planners therefore treat laser range as conditional rather than constant. The key risk is not that clear-weather tests are deceptive, but that they can be misunderstood as representative of all-weather operations when the underlying physics says otherwise. Atmospheric absorption, scattering, and beam distortion can all reduce the energy reaching a target, shrinking the practical engagement envelope even when the laser hardware remains unchanged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-Directed-Ener.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defencesciencereview.com.pl">[Defence Science Review+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defencesciencereview.com.pl</span><span class="citation-popover-title">pdf 216776 135052</span><span class="citation-popover-snippet">Defence Science ReviewDEFENCE SCIENCE REVIEWJanuary 17, 2026 — by A Karkadakattil · 2026 · Cited by 1 — This review aims to evaluate the...</span><span class="citation-popover-meta">Published: January 17, 2026</span></span></span>
+A laser demonstration that succeeds in clear, dry air does not establish a fixed combat radius. It establishes performance under a specific atmospheric condition. For directed-energy weapons, the [atmosphere]({{ 'atmosphere/' | relative_url }}) is part of the weapon system itself: the same laser that can disable a target at one distance during a carefully chosen test may achieve a much shorter effective range when humidity, turbulence, haze, rain, sea spray, dust, or smoke are present. Military planners therefore treat laser range as conditional rather than constant. The key risk is not that clear-weather tests are deceptive, but that they can be misunderstood as representative of all-weather operations when the underlying physics says otherwise. Atmospheric absorption, scattering, and beam distortion can all reduce the energy reaching a target, shrinking the practical engagement envelope even when the laser hardware remains unchanged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-Directed-Ener.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defencesciencereview.com.pl">[Defence Science Review+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defencesciencereview.com.pl</span><span class="citation-popover-title">pdf 216776 135052</span><span class="citation-popover-snippet">Defence Science ReviewDEFENCE SCIENCE REVIEWJanuary 17, 2026 — by A Karkadakattil · 2026 · Cited by 1 — This review aims to evaluate the...</span><span class="citation-popover-meta">Published: January 17, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_weather_laser_7b9893_clear_tests_c_cef0da-Illustration-1-dark.svg" | relative_url }}" alt="Test Range illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_weather_laser_7b9893_clear_tests_c_cef0da-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_weather_laser_7b9893_clear_tests_c_cef0da-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -277,9 +277,9 @@ A laser demonstration that succeeds in clear, dry air does not establish a fixed
 
 Public laser tests often occur under favourable conditions because developers want to isolate the performance of the weapon itself rather than the variability of the environment. Such demonstrations can prove tracking accuracy, beam control, power [generation]({{ 'generation-ii/' | relative_url }}), and target effects. What they do not prove is that those results will be reproduced across the full range of operational weather conditions.
 
-The most important omission is atmospheric variability. A laser beam must keep sufficient energy concentrated on a small spot for enough time to damage a target. In clear air, relatively little energy is lost between weapon and target. In degraded conditions, the atmosphere absorbs, scatters, or distorts part of the beam before it arrives. As a result, the same laser may require longer dwell times, shorter engagement distances, or multiple attempts to achieve the same effect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency+2Naval Postgraduate School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencyState of the Art and Evolution of High-Energy Laser WeaponsMarch 4, 2022 — 31 Mar 2010 — Absorption and scatte...</span><span class="citation-popover-meta">Published: March 4, 2022</span></span></span>
+The most important omission is atmospheric variability. A laser beam must keep sufficient energy concentrated on a small spot for enough time to damage a target. In clear air, relatively little energy is lost between weapon and target. In degraded conditions, the atmosphere absorbs, scatters, or distorts part of the beam before it arrives. As a result, the same laser may require longer dwell times, shorter engagement distances, or multiple attempts to achieve the same effect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency+2Naval Postgraduate School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencyState of the Art and Evolution of High-Energy Laser WeaponsMarch 4, 2022 — 31 Mar 2010 — Absorption and scatte...</span><span class="citation-popover-meta">Published: March 4, 2022</span></span></span>
 
-Another limitation is that many demonstrations effectively test a moment in time rather than a distribution of conditions. Atmospheric turbulence changes from minute to minute. Heat rising from terrain, urban surfaces, or the sea creates constantly shifting refractive layers that bend and spread laser energy. A successful shot during a stable atmospheric window does not necessarily represent average performance across an entire [deployment]({{ 'deployment/' | relative_url }}). scholar.afit.edu+2NASA Technical Reports Server <span class="citation-link-wrap"><a class="citation-inline-link" href="https://scholar.afit.edu/cgi/viewcontent.cgi?article=3653&amp;context=etd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholar.afit.edu">[scholar.afit.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholar.afit.edu</span><span class="citation-popover-title">PDF] Characterizing Effects and Benefits of Beam Defocus on High</span><span class="citation-popover-snippet">June 17, 2008 — The atmospheric turbulence effect is the distortion of a laser beam that is caused by random spatial variations in the re...</span><span class="citation-popover-meta">Published: June 17, 2008</span></span></span>
+Another limitation is that many demonstrations effectively test a moment in time rather than a distribution of conditions. Atmospheric turbulence changes from minute to minute. Heat rising from terrain, urban surfaces, or the sea creates constantly shifting refractive layers that bend and spread laser energy. A successful shot during a stable atmospheric window does not necessarily represent average performance across an entire [deployment]({{ 'deployment/' | relative_url }}). scholar.afit.edu+2NASA Technical Reports Server<span class="citation-link-wrap"><a class="citation-inline-link" href="https://scholar.afit.edu/cgi/viewcontent.cgi?article=3653&amp;context=etd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholar.afit.edu">[scholar.afit.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholar.afit.edu</span><span class="citation-popover-title">PDF] Characterizing Effects and Benefits of Beam Defocus on High</span><span class="citation-popover-snippet">June 17, 2008 — The atmospheric turbulence effect is the distortion of a laser beam that is caused by random spatial variations in the re...</span><span class="citation-popover-meta">Published: June 17, 2008</span></span></span>
 
 This distinction matters because defence planning relies on confidence intervals rather than best-case outcomes. A commander needs to know not only the maximum demonstrated range, but also the range likely to be available on a humid evening, during a dust event, or in maritime haze.
 
@@ -292,21 +292,21 @@ The practical effect of weather is not usually an abrupt transition from “work
 
 ### Rain, Fog and Aerosols Reduce Delivered Energy
 
-Water droplets and suspended particles are particularly important because they scatter laser light. Fog is often more challenging than rain because it contains a dense concentration of droplets throughout the beam path. Studies of laser propagation consistently identify fog, haze, aerosols, and other visibility-reducing conditions as major sources of attenuation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/269343086_Study_on_Fog_Attenuation_Characteristics_and_Experiment_Measurement_for_Laser_Propagation_in_Atmosphere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Study on Fog Attenuation Characteristics and Experiment...Statistical evaluation of the attenuation caused by fog and the po...</span></span></span>
+Water droplets and suspended particles are particularly important because they scatter laser light. Fog is often more challenging than rain because it contains a dense concentration of droplets throughout the beam path. Studies of laser propagation consistently identify fog, haze, aerosols, and other visibility-reducing conditions as major sources of attenuation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/269343086_Study_on_Fog_Attenuation_Characteristics_and_Experiment_Measurement_for_Laser_Propagation_in_Atmosphere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Study on Fog Attenuation Characteristics and Experiment...Statistical evaluation of the attenuation caused by fog and the po...</span></span></span>
 
-This means a laser advertised as effective at a given distance under clear conditions may have a substantially reduced practical range in poor visibility. The U.S. Congressional Research Service has noted that rain and fog can prevent [lasers]({{ 'lasers/' | relative_url }}) from serving as a true all-weather solution, despite advances in beam control and [adaptive optics]({{ 'adaptive-optics/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everycrsreport.com/files/2022-04-01_R44175_68bafcbeb4f98af9965519a9a59716c767190083.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everycrsreport.com">[Every CRS Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everycrsreport.com</span><span class="citation-popover-snippet">Every CRS ReportUntitled... effects of atmospheric turbulence. Even so, lasers might not work well, or at all, in rain or fog, preventing...</span></span></span>
+This means a laser advertised as effective at a given distance under clear conditions may have a substantially reduced practical range in poor visibility. The U.S. Congressional Research Service has noted that rain and fog can prevent [lasers]({{ 'lasers/' | relative_url }}) from serving as a true all-weather solution, despite advances in beam control and [adaptive optics]({{ 'adaptive-optics/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everycrsreport.com/files/2022-04-01_R44175_68bafcbeb4f98af9965519a9a59716c767190083.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everycrsreport.com">[Every CRS Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everycrsreport.com</span><span class="citation-popover-snippet">Every CRS ReportUntitled... effects of atmospheric turbulence. Even so, lasers might not work well, or at all, in rain or fog, preventing...</span></span></span>
 
 ### Turbulence Spreads the Beam
 
-Even when visibility appears good to a human observer, turbulence can degrade performance. Warm and cool air masses have different refractive properties. As a laser travels through these fluctuating layers, the beam can spread, wander, or develop intensity variations. The result is lower energy density on the target. scholar.afit.edu+2NASA Technical Reports Server <span class="citation-link-wrap"><a class="citation-inline-link" href="https://scholar.afit.edu/cgi/viewcontent.cgi?article=3653&amp;context=etd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholar.afit.edu">[scholar.afit.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholar.afit.edu</span><span class="citation-popover-title">PDF] Characterizing Effects and Benefits of Beam Defocus on High</span><span class="citation-popover-snippet">June 17, 2008 — The atmospheric turbulence effect is the distortion of a laser beam that is caused by random spatial variations in the re...</span><span class="citation-popover-meta">Published: June 17, 2008</span></span></span>
+Even when visibility appears good to a human observer, turbulence can degrade performance. Warm and cool air masses have different refractive properties. As a laser travels through these fluctuating layers, the beam can spread, wander, or develop intensity variations. The result is lower energy density on the target. scholar.afit.edu+2NASA Technical Reports Server<span class="citation-link-wrap"><a class="citation-inline-link" href="https://scholar.afit.edu/cgi/viewcontent.cgi?article=3653&amp;context=etd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholar.afit.edu">[scholar.afit.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholar.afit.edu</span><span class="citation-popover-title">PDF] Characterizing Effects and Benefits of Beam Defocus on High</span><span class="citation-popover-snippet">June 17, 2008 — The atmospheric turbulence effect is the distortion of a laser beam that is caused by random spatial variations in the re...</span><span class="citation-popover-meta">Published: June 17, 2008</span></span></span>
 
 For defensive engagements against drones, rockets, or missiles, this matters because laser weapons generally depend on concentrating energy at a precise point. A modest reduction in intensity can increase the time required to achieve damage, which in turn reduces the number of targets that can be engaged within a given period.
 
 ### Maritime Conditions Are Especially Challenging
 
-Shipboard laser programmes illustrate why clear-weather testing can be misleading when translated directly into operational planning. Near the sea surface, humidity, salt aerosols, sea spray, and marine turbulence create conditions that differ significantly from inland test ranges. Researchers studying naval laser performance have repeatedly identified the marine boundary layer as a major factor affecting propagation. American Meteorological Society Journals+2inss.ndu.edu <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.ametsoc.org/view/journals/apme/50/1/2010jamc2482.1.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.ametsoc.org">[journals.ametsoc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.ametsoc.org</span><span class="citation-popover-snippet">American Meteorological Society JournalsClimate Change: Anticipated Effects on High-Energy Laser...by ST Fiorino · 2011 · Cited by 10 —...</span></span></span>
+Shipboard laser programmes illustrate why clear-weather testing can be misleading when translated directly into operational planning. Near the sea surface, humidity, salt aerosols, sea spray, and marine turbulence create conditions that differ significantly from inland test ranges. Researchers studying naval laser performance have repeatedly identified the marine boundary layer as a major factor affecting propagation. American Meteorological Society Journals+2inss.ndu.edu<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.ametsoc.org/view/journals/apme/50/1/2010jamc2482.1.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.ametsoc.org">[journals.ametsoc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.ametsoc.org</span><span class="citation-popover-snippet">American Meteorological Society JournalsClimate Change: Anticipated Effects on High-Energy Laser...by ST Fiorino · 2011 · Cited by 10 —...</span></span></span>
 
-This is one reason why naval laser systems are typically presented as additions to existing defensive layers rather than replacements for missiles and guns. Even advocates of operational laser deployment acknowledge that maritime atmospheric effects remain a central planning consideration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.royalnavy.mod.uk/news/2024/april/12/240412-powerful-laser-to-be-installed-on-royal-navy-warship-by-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalnavy.mod.uk">[royalnavy.mod.uk+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalnavy.mod.uk</span><span class="citation-popover-title">240412 powerful laser to be installed on royal navy warship by 2027</span><span class="citation-popover-snippet">Powerful laser to be installed on Royal Navy warship by 202712 Apr 2024 — The cutting-edge DragonFire laser will be installed on a warshi...</span></span></span>
+This is one reason why naval laser systems are typically presented as additions to existing defensive layers rather than replacements for missiles and guns. Even advocates of operational laser deployment acknowledge that maritime atmospheric effects remain a central planning consideration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.royalnavy.mod.uk/news/2024/april/12/240412-powerful-laser-to-be-installed-on-royal-navy-warship-by-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalnavy.mod.uk">[royalnavy.mod.uk+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalnavy.mod.uk</span><span class="citation-popover-title">240412 powerful laser to be installed on royal navy warship by 2027</span><span class="citation-popover-snippet">Powerful laser to be installed on Royal Navy warship by 202712 Apr 2024 — The cutting-edge DragonFire laser will be installed on a warshi...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_weather_laser_7b9893_clear_tests_c_cef0da-Illustration-2-dark.svg" | relative_url }}" alt="Test Range illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_weather_laser_7b9893_clear_tests_c_cef0da-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_weather_laser_7b9893_clear_tests_c_cef0da-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -328,7 +328,7 @@ Laser effectiveness depends on several interacting variables:
 
 </div>
 
-A range figure obtained under favourable conditions may represent the outer edge of achievable performance rather than the distance at which planners can reliably expect successful engagements every day. Modern modelling tools for high-energy laser propagation therefore incorporate visibility, turbulence, aerosol loading, and other environmental variables rather than treating range as fixed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2604.12604" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2Naval Postgraduate School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open dataset for benchmarking scaling laws of high-energy laser atmospheric propagationApril 14, 2026...</span><span class="citation-popover-meta">Published: April 14, 2026</span></span></span>
+A range figure obtained under favourable conditions may represent the outer edge of achievable performance rather than the distance at which planners can reliably expect successful engagements every day. Modern modelling tools for high-energy laser propagation therefore incorporate visibility, turbulence, aerosol loading, and other environmental variables rather than treating range as fixed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2604.12604" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2Naval Postgraduate School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open dataset for benchmarking scaling laws of high-energy laser atmospheric propagationApril 14, 2026...</span><span class="citation-popover-meta">Published: April 14, 2026</span></span></span>
 
 This is why technical assessments increasingly discuss probability of kill, engagement opportunities, or operational envelopes instead of presenting a single universal range.
 
@@ -339,9 +339,9 @@ This is why technical assessments increasingly discuss probability of kill, enga
 
 The most important planning lesson is that laser range should be treated as weather-dependent capacity, not a guaranteed perimeter.
 
-Defence organisations that pursue laser weapons generally integrate them into layered architectures. In favourable conditions, lasers may engage threats at longer distances and at very low cost per shot. When atmospheric conditions deteriorate, other defensive systems can assume a larger share of the burden. This layered approach recognises that atmospheric performance fluctuates and that no single engagement distance can be assumed across all conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — Directed energy weapons—such as lasers—use energy fired at the speed of...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+Defence organisations that pursue laser weapons generally integrate them into layered architectures. In favourable conditions, lasers may engage threats at longer distances and at very low cost per shot. When atmospheric conditions deteriorate, other defensive systems can assume a larger share of the burden. This layered approach recognises that atmospheric performance fluctuates and that no single engagement distance can be assumed across all conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — Directed energy weapons—such as lasers—use energy fired at the speed of...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
-The comparison with microwave-based directed-energy systems is instructive. Microwaves face their own limitations, but their longer [wavelengths]({{ 'wavelengths/' | relative_url }}) are generally less sensitive to many of the particles and atmospheric effects that strongly affect optical beams. Consequently, planners evaluating laser and microwave options often focus on environmental robustness as much as raw weapon power. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.deps.org/DEPSpages/USUKsymp22ShortCourse.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deps.org">[DEPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deps.org</span><span class="citation-popover-title">USUKsymp22Short Course</span><span class="citation-popover-snippet">UK/US DE Workshop Short Courses18 Jul 2022 — This course will provide an introduction to RF Directed Energy weapons, also known as Hi...</span></span></span>
+The comparison with microwave-based directed-energy systems is instructive. Microwaves face their own limitations, but their longer [wavelengths]({{ 'wavelengths/' | relative_url }}) are generally less sensitive to many of the particles and atmospheric effects that strongly affect optical beams. Consequently, planners evaluating laser and microwave options often focus on environmental robustness as much as raw weapon power.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.deps.org/DEPSpages/USUKsymp22ShortCourse.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deps.org">[DEPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deps.org</span><span class="citation-popover-title">USUKsymp22Short Course</span><span class="citation-popover-snippet">UK/US DE Workshop Short Courses18 Jul 2022 — This course will provide an introduction to RF Directed Energy weapons, also known as Hi...</span></span></span>
 
 For operational decision-making, the relevant question is therefore not “What is the laser's range?” but “What range is available under the weather conditions expected in this theatre?” That shift in perspective turns a fixed performance claim into a realistic assessment of combat capability.
 
@@ -351,201 +351,201 @@ For operational decision-making, the relevant question is therefore not “What 
 
 Clear-weather demonstrations remain valuable because they reveal what a laser can do when atmospheric interference is minimised. The mistake arises when those demonstrations are used as direct evidence of all-weather defensive coverage.
 
-Atmospheric research, military assessments, and operational experience all point to the same conclusion: laser effectiveness is highly dependent on the transmission path between weapon and target. Weather, aerosols, humidity, turbulence, and maritime conditions can significantly alter that path. As a result, the most realistic way to interpret any published laser range is as a conditional figure tied to a specific environment rather than a permanent combat boundary. Defense Intelligence Agency+3Defence Science Review+3ResearchGate <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-Directed-Ener.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defencesciencereview.com.pl">[defencesciencereview.com.pl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defencesciencereview.com.pl</span><span class="citation-popover-title">pdf 216776 135052</span><span class="citation-popover-snippet">Defence Science ReviewDEFENCE SCIENCE REVIEWJanuary 17, 2026 — by A Karkadakattil · 2026 · Cited by 1 — This review aims to evaluate the...</span><span class="citation-popover-meta">Published: January 17, 2026</span></span></span>
+Atmospheric research, military assessments, and operational experience all point to the same conclusion: laser effectiveness is highly dependent on the transmission path between weapon and target. Weather, aerosols, humidity, turbulence, and maritime conditions can significantly alter that path. As a result, the most realistic way to interpret any published laser range is as a conditional figure tied to a specific environment rather than a permanent combat boundary. Defense Intelligence Agency+3Defence Science Review+3ResearchGate<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-Directed-Ener.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defencesciencereview.com.pl">[defencesciencereview.com.pl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defencesciencereview.com.pl</span><span class="citation-popover-title">pdf 216776 135052</span><span class="citation-popover-snippet">Defence Science ReviewDEFENCE SCIENCE REVIEWJanuary 17, 2026 — by A Karkadakattil · 2026 · Cited by 1 — This review aims to evaluate the...</span><span class="citation-popover-meta">Published: January 17, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9K1pr6IEmHI" title="The Incredible Challenge Of Destroying A Missile With Lasers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9K1pr6IEmHI" target="_blank" rel="noopener noreferrer">The Incredible Challenge Of Destroying A Missile With Lasers</a></p><p class="youtube-embed-meta">Channel: New Mind</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9K1pr6IEmHI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9K1pr6IEmHI">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Clear Tests Do Not Prove Combat Range. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Clear Tests Do Not Prove Combat Range. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Places directed-energy systems within the broader context of modern air defense, drones, and future warfare.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places directed-energy systems within the broader context of modern air defense, drones, and future warfare.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Modern+Ew+Systems+Andrea+De+Martino&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Modern Ew Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9217588-M.jpg" alt="Cover for Introduction to Modern Ew Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Modern+Ew+Systems+Andrea+De+Martino&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Modern Ew Systems">Introduction to Modern Ew Systems</a>
-        </h4>
-        <p class="fr-book-author">By Andrea De Martino</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Modern+Ew+Systems+Andrea+De+Martino&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Modern Ew Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9217588-M.jpg" alt="Cover for Introduction to Modern Ew Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Modern+Ew+Systems+Andrea+De+Martino&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Modern Ew Systems">Introduction to Modern Ew Systems</a>
+</h4>
+<p class="fr-book-author">By Andrea De Martino</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Electronics in military engineering, Electronic countermeasures, Contre-mesures électroniques, TECHNOLOGY...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Modern+Ew+Systems+Andrea+De+Martino&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Electronics in military engineering, Electronic countermeasures, Contre-mesures électroniques, TECHNOLOGY...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Modern+Ew+Systems+Andrea+De+Martino&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+lasers+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding lasers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/532465-M.jpg" alt="Cover for Understanding lasers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Understanding+lasers+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding lasers">Understanding lasers</a>
-        </h4>
-        <p class="fr-book-author">By Jeff Hecht</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+lasers+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding lasers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/532465-M.jpg" alt="Cover for Understanding lasers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Understanding+lasers+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding lasers">Understanding lasers</a>
+</h4>
+<p class="fr-book-author">By Jeff Hecht</p>
         
-        <p class="fr-book-desc">First published 1988. Subjects: Lasers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Understanding+lasers+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1988. Subjects: Lasers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Understanding+lasers+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies%2C+Applications+and+Implications+Mark+L.+Bundy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons: Technologies, Applications and Implications on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies%2C+Applications+and+Implications+Mark+L.+Bundy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons: Technologies, Applications and Implications">Directed Energy Weapons: Technologies, Applications and Impli...</a>
-        </h4>
-        <p class="fr-book-author">By Mark L. Bundy</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies%2C+Applications+and+Implications+Mark+L.+Bundy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons: Technologies, Applications and Implications on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies%2C+Applications+and+Implications+Mark+L.+Bundy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons: Technologies, Applications and Implications">Directed Energy Weapons: Technologies, Applications and Impli...</a>
+</h4>
+<p class="fr-book-author">By Mark L. Bundy</p>
         
-        <p class="fr-book-desc">Addresses operational realities beyond demonstration conditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies%2C+Applications+and+Implications+Mark+L.+Bundy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses operational realities beyond demonstration conditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies%2C+Applications+and+Implications+Mark+L.+Bundy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Modern+Ew+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Modern Ew Systems books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Understanding+lasers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Understanding lasers</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Modern+Ew+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Modern Ew Systems books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Understanding+lasers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Understanding lasers</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHALLENGE COIN - U.S. Army 69th Air Defense Artillery Brigade Team Of Winners"><img src="{{ '/assets/images/marketplace-covers/7942abf3c20eb44692b6.jpg' | relative_url }}" alt="Listing image for CHALLENGE COIN - U.S. Army 69th Air Defense Artillery Brigade Team Of Winners" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">CHALLENGE COIN - U.S. Army 69th Air Defense Artillery Brigade Team Of Winners</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHALLENGE COIN - U.S. Army 69th Air Defense Artillery Brigade Team Of Winners"><img src="{{ '/assets/images/marketplace-covers/7942abf3c20eb44692b6.jpg' | relative_url }}" alt="Listing image for CHALLENGE COIN - U.S. Army 69th Air Defense Artillery Brigade Team Of Winners" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">CHALLENGE COIN - U.S. Army 69th Air Defense Artillery Brigade Team Of Winners</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Defence Boeing Military Aviation Digital Superiority Air Force Challenge Coin"><img src="{{ '/assets/images/marketplace-covers/e0db41f82d52d563dbc8.jpg' | relative_url }}" alt="Listing image for US Defence Boeing Military Aviation Digital Superiority Air Force Challenge Coin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">US Defence Boeing Military Aviation Digital Superiority Air Force Challenge Coin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Defence Boeing Military Aviation Digital Superiority Air Force Challenge Coin"><img src="{{ '/assets/images/marketplace-covers/e0db41f82d52d563dbc8.jpg' | relative_url }}" alt="Listing image for US Defence Boeing Military Aviation Digital Superiority Air Force Challenge Coin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">US Defence Boeing Military Aviation Digital Superiority Air Force Challenge Coin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AIR DEFENSE TROOPS OF ARMED FORCES -UKRAINIAN MILITARY TOKEN CHALLENGE COIN"><img src="{{ '/assets/images/marketplace-covers/586b8df262fdf4d8dcaf.jpg' | relative_url }}" alt="Listing image for AIR DEFENSE TROOPS OF ARMED FORCES -UKRAINIAN MILITARY TOKEN CHALLENGE COIN" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">AIR DEFENSE TROOPS OF ARMED FORCES -UKRAINIAN MILITARY TOKEN CHALLENGE COIN</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AIR DEFENSE TROOPS OF ARMED FORCES -UKRAINIAN MILITARY TOKEN CHALLENGE COIN"><img src="{{ '/assets/images/marketplace-covers/586b8df262fdf4d8dcaf.jpg' | relative_url }}" alt="Listing image for AIR DEFENSE TROOPS OF ARMED FORCES -UKRAINIAN MILITARY TOKEN CHALLENGE COIN" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">AIR DEFENSE TROOPS OF ARMED FORCES -UKRAINIAN MILITARY TOKEN CHALLENGE COIN</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Air Force Challenge Coin U.S. Air Force Skull Defense Force Badge Military Coin"><img src="{{ '/assets/images/marketplace-covers/cc28c6f578a016d48bda.jpg' | relative_url }}" alt="Listing image for Air Force Challenge Coin U.S. Air Force Skull Defense Force Badge Military Coin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Air Force Challenge Coin U.S. Air Force Skull Defense Force Badge Military Coin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: air defense challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Air Force Challenge Coin U.S. Air Force Skull Defense Force Badge Military Coin"><img src="{{ '/assets/images/marketplace-covers/cc28c6f578a016d48bda.jpg' | relative_url }}" alt="Listing image for Air Force Challenge Coin U.S. Air Force Skull Defense Force Badge Military Coin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Air Force Challenge Coin U.S. Air Force Skull Defense Force Badge Military Coin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air defense challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: air defense challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+defense+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air defense challenge coin" data-ebay-reference="test-range-why-clear-tests-do-not-prove-combat-range-directed-ener-air-defense-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -561,7 +561,7 @@ Atmospheric research, military assessments, and operational experience all point
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -581,7 +581,7 @@ Atmospheric research, military assessments, and operational experience all point
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -613,7 +613,7 @@ Atmospheric research, military assessments, and operational experience all point
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -665,7 +665,7 @@ Atmospheric research, military assessments, and operational experience all point
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -710,7 +710,7 @@ Atmospheric research, military assessments, and operational experience all point
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -751,203 +751,203 @@ Atmospheric research, military assessments, and operational experience all point
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/307435846_Atmospheric_Propagation_of_High-Energy_Laser_Beams" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/307435846_Atmospheric_Propagation_of_High-Energy_Laser_Beams</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Atmospheric Propagation of High-Energy Laser BeamsLaser sources are widely used for exploring the atmosphere, in partic...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/307435846_Atmospheric_Propagation_of_High-Energy_Laser_Beams" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/307435846_Atmospheric_Propagation_of_High-Energy_Laser_Beams</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Atmospheric Propagation of High-Energy Laser BeamsLaser sources are widely used for exploring the atmosphere, in partic...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gao.gov  
    Title: gao 23 106717  
-   Link: <a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — Directed energy weapons—such as lasers—use energy fired at the speed of...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — Directed energy weapons—such as lasers—use energy fired at the speed of...</p></details>
    Published: May 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: scholar.afit.edu  
    Title: [PDF] Characterizing Effects and Benefits of Beam Defocus on High  
-   Link: <a href="https://scholar.afit.edu/cgi/viewcontent.cgi?article=3653&amp;context=etd" target="_blank" rel="noopener noreferrer nofollow">https://scholar.afit.edu/cgi/viewcontent.cgi?article=3653&amp;context=etd</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>June 17, 2008 — The atmospheric turbulence effect is the distortion of a laser beam that is caused by random spatial variations in the re...</p></details>
+   Link:<a href="https://scholar.afit.edu/cgi/viewcontent.cgi?article=3653&amp;context=etd" target="_blank" rel="noopener noreferrer nofollow">https://scholar.afit.edu/cgi/viewcontent.cgi?article=3653&amp;context=etd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 17, 2008 — The atmospheric turbulence effect is the distortion of a laser beam that is caused by random spatial variations in the re...</p></details>
    Published: June 17, 2008  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/19790005436/downloads/19790005436.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19790005436/downloads/19790005436.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.gov[PDF] Atmospheric Effects on Laser Propagation &#x27;This report deals with several of the losses associated with the transmission pat...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/api/citations/19790005436/downloads/19790005436.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19790005436/downloads/19790005436.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.gov[PDF] Atmospheric Effects on Laser Propagation &#x27;This report deals with several of the losses associated with the transmission pat...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/269343086_Study_on_Fog_Attenuation_Characteristics_and_Experiment_Measurement_for_Laser_Propagation_in_Atmosphere" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/269343086_Study_on_Fog_Attenuation_Characteristics_and_Experiment_Measurement_for_Laser_Propagation_in_Atmosphere</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Study on Fog Attenuation Characteristics and Experiment...Statistical evaluation of the attenuation caused by fog and the po...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/269343086_Study_on_Fog_Attenuation_Characteristics_and_Experiment_Measurement_for_Laser_Propagation_in_Atmosphere" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/269343086_Study_on_Fog_Attenuation_Characteristics_and_Experiment_Measurement_for_Laser_Propagation_in_Atmosphere</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Study on Fog Attenuation Characteristics and Experiment...Statistical evaluation of the attenuation caused by fog and the po...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2073-4433/16/2/210" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2073-4433/16/2/210</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Research on the Attenuation Characteristics of LiDAR...by X Yang · 2025 · Cited by 6 — This paper focuses on analyzing the distribution...</p></details>
+   Link:<a href="https://www.mdpi.com/2073-4433/16/2/210" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2073-4433/16/2/210</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research on the Attenuation Characteristics of LiDAR...by X Yang · 2025 · Cited by 6 — This paper focuses on analyzing the distribution...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: inss.ndu.edu  
-   Link: <a href="https://inss.ndu.edu/Research-and-Commentary/View-Publications/Article/4412653/laser-focusing-defense-capabilities/" target="_blank" rel="noopener noreferrer nofollow">https://inss.ndu.edu/Research-and-Commentary/View-Publications/Article/4412653/laser-focusing-defense-capabilities/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser-focusing Defense CapabilitiesAdditionally, underwater targets remain largely invulnerable to conventional optical lasers due to the...</p></details>
+   Link:<a href="https://inss.ndu.edu/Research-and-Commentary/View-Publications/Article/4412653/laser-focusing-defense-capabilities/" target="_blank" rel="noopener noreferrer nofollow">https://inss.ndu.edu/Research-and-Commentary/View-Publications/Article/4412653/laser-focusing-defense-capabilities/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser-focusing Defense CapabilitiesAdditionally, underwater targets remain largely invulnerable to conventional optical lasers due to the...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: royalnavy.mod.uk  
    Title: 240412 powerful laser to be installed on royal navy warship by 2027  
-   Link: <a href="https://www.royalnavy.mod.uk/news/2024/april/12/240412-powerful-laser-to-be-installed-on-royal-navy-warship-by-2027" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/news/2024/april/12/240412-powerful-laser-to-be-installed-on-royal-navy-warship-by-2027</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Powerful laser to be installed on Royal Navy warship by 202712 Apr 2024 — The cutting-edge DragonFire laser will be installed on a warshi...</p></details>
+   Link:<a href="https://www.royalnavy.mod.uk/news/2024/april/12/240412-powerful-laser-to-be-installed-on-royal-navy-warship-by-2027" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/news/2024/april/12/240412-powerful-laser-to-be-installed-on-royal-navy-warship-by-2027</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Powerful laser to be installed on Royal Navy warship by 202712 Apr 2024 — The cutting-edge DragonFire laser will be installed on a warshi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: AN/SEQ-3 Laser Weapon System  
-   Link: <a href="https://en.wikipedia.org/wiki/AN/SEQ-3_Laser_Weapon_System" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/AN/SEQ-3_Laser_Weapon_System</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AN/SEQ-3 Laser Weapon SystemThe AN/SEQ-3 Laser Weapon System or XN-1 LaWS is a laser weapon developed by the United States Navy. The w...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/AN/SEQ-3_Laser_Weapon_System" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/AN/SEQ-3_Laser_Weapon_System</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AN/SEQ-3 Laser Weapon SystemThe AN/SEQ-3 Laser Weapon System or XN-1 LaWS is a laser weapon developed by the United States Navy. The w...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2604.12604" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.12604</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Open dataset for benchmarking scaling laws of high-energy laser atmospheric propagationApril 14, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2604.12604" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.12604</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open dataset for benchmarking scaling laws of high-energy laser atmospheric propagationApril 14, 2026...</p></details>
    Published: April 14, 2026  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: deps.org  
    Title: USUKsymp22Short Course  
-   Link: <a href="https://www.deps.org/DEPSpages/USUKsymp22ShortCourse.html" target="_blank" rel="noopener noreferrer nofollow">https://www.deps.org/DEPSpages/USUKsymp22ShortCourse.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK/US DE Workshop Short Courses18 Jul 2022 — This course will provide an introduction to RF Directed Energy weapons, also known as Hi...</p></details>
+   Link:<a href="https://www.deps.org/DEPSpages/USUKsymp22ShortCourse.html" target="_blank" rel="noopener noreferrer nofollow">https://www.deps.org/DEPSpages/USUKsymp22ShortCourse.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK/US DE Workshop Short Courses18 Jul 2022 — This course will provide an introduction to RF Directed Energy weapons, also known as Hi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/260327811_Multiple_Scattering_in_Rain_and_Fog_on_Free-Space_Optical_Links" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/260327811_Multiple_Scattering_in_Rain_and_Fog_on_Free-Space_Optical_Links</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fog attenuation is also reduced for...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/260327811_Multiple_Scattering_in_Rain_and_Fog_on_Free-Space_Optical_Links" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/260327811_Multiple_Scattering_in_Rain_and_Fog_on_Free-Space_Optical_Links</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fog attenuation is also reduced for...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/265394230_Effect_of_Atmospheric_Attenuation_on_Laser_Communications_for_Visible_and_Infrared_Wavelengths" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/265394230_Effect_of_Atmospheric_Attenuation_on_Laser_Communications_for_Visible_and_Infrared_Wavelengths</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r light source of optical signal in free space (FSO), were discussed.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/265394230_Effect_of_Atmospheric_Attenuation_on_Laser_Communications_for_Visible_and_Infrared_Wavelengths" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/265394230_Effect_of_Atmospheric_Attenuation_on_Laser_Communications_for_Visible_and_Infrared_Wavelengths</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r light source of optical signal in free space (FSO), were discussed.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Laser-Based Directed Energy WeaponsThis review aims to evaluate the current capabilities of laser-based Directed Energy Weapons (DE...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Laser-Based Directed Energy WeaponsThis review aims to evaluate the current capabilities of laser-based Directed Energy Weapons (DE...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: laserwars.net  
    Title: navy solid state laser technology maturation demonstrator crimson dragon  
-   Link: <a href="https://www.laserwars.net/p/navy-solid-state-laser-technology-maturation-demonstrator-crimson-dragon" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/navy-solid-state-laser-technology-maturation-demonstrator-crimson-dragon</a>  
+   Link:<a href="https://www.laserwars.net/p/navy-solid-state-laser-technology-maturation-demonstrator-crimson-dragon" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/navy-solid-state-laser-technology-maturation-demonstrator-crimson-dragon</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: inss.ndu.edu  
    Title: laser focusing defense capabilities  
-   Link: <a href="https://inss.ndu.edu/news/Article/4412653/laser-focusing-defense-capabilities/" target="_blank" rel="noopener noreferrer nofollow">https://inss.ndu.edu/news/Article/4412653/laser-focusing-defense-capabilities/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ndu.eduLaser-focusing Defense CapabilitiesHowever, laser propagation across the sea surface is affected by humidity, sea spray aerosoliza...</p></details>
+   Link:<a href="https://inss.ndu.edu/news/Article/4412653/laser-focusing-defense-capabilities/" target="_blank" rel="noopener noreferrer nofollow">https://inss.ndu.edu/news/Article/4412653/laser-focusing-defense-capabilities/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ndu.eduLaser-focusing Defense CapabilitiesHowever, laser propagation across the sea surface is affected by humidity, sea spray aerosoliza...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Laser weapon  
-   Link: <a href="https://en.wikipedia.org/wiki/Laser_weapon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Laser_weapon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser weaponThis effect, called &quot;[blooming](&amp;#123;&amp;#123; &#x27;blooming/&#x27; | relative_url &amp;#125;&amp;#125;),&quot; causes the laser to defocus and disperse energy into the surrounding air. Blooming can be...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Laser_weapon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Laser_weapon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser weaponThis effect, called &quot;[blooming](&amp;#123;&amp;#123; &#x27;blooming/&#x27; | relative_url &amp;#125;&amp;#125;),&quot; causes the laser to defocus and disperse energy into the surrounding air. Blooming can be...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: deps.org  
    Title: DEsymp24Short Course  
-   Link: <a href="https://www.deps.org/DEPSpages/DEsymp24ShortCourse.html" target="_blank" rel="noopener noreferrer nofollow">https://www.deps.org/DEPSpages/DEsymp24ShortCourse.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2024 Annual DE S&amp;T Symposium Short Courses - deps.orgThe basic attributes of HEL weapons will be covered, leading into discussions of las...</p></details>
+   Link:<a href="https://www.deps.org/DEPSpages/DEsymp24ShortCourse.html" target="_blank" rel="noopener noreferrer nofollow">https://www.deps.org/DEPSpages/DEsymp24ShortCourse.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2024 Annual DE S&amp;T Symposium Short Courses - deps.orgThe basic attributes of HEL weapons will be covered, leading into discussions of las...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2073-4433/12/7/918" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2073-4433/12/7/918</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Beam Atmospheric Propagation Modelling for...by T Fahey · 2021 · Cited by 109 — In this paper, the atmospheric radiative transfer...</p></details>
+   Link:<a href="https://www.mdpi.com/2073-4433/12/7/918" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2073-4433/12/7/918</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Beam Atmospheric Propagation Modelling for...by T Fahey · 2021 · Cited by 109 — In this paper, the atmospheric radiative transfer...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: defencesciencereview.com.pl  
    Title: pdf 216776 135052  
-   Link: <a href="https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-Directed-Ener.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-Directed-Ener.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defence Science ReviewDEFENCE SCIENCE REVIEWJanuary 17, 2026 — by A Karkadakattil · 2026 · Cited by 1 — This review aims to evaluate the...</p></details>
+   Link:<a href="https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-Directed-Ener.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-Directed-Ener.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defence Science ReviewDEFENCE SCIENCE REVIEWJanuary 17, 2026 — by A Karkadakattil · 2026 · Cited by 1 — This review aims to evaluate the...</p></details>
    Published: January 17, 2026  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: dia.mil  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170045/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170045/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyState of the Art and Evolution of High-Energy Laser WeaponsMarch 4, 2022 — 31 Mar 2010 — Absorption and scatte...</p></details>
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170045/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170045/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyState of the Art and Evolution of High-Energy Laser WeaponsMarch 4, 2022 — 31 Mar 2010 — Absorption and scatte...</p></details>
    Published: March 4, 2022  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nps.edu  
-   Link: <a href="https://nps.edu/web/research/-/propagation-of-high-energy-lasers-for-various-wavelengths-power-levels-and-atmospheric-conditions-2018" target="_blank" rel="noopener noreferrer nofollow">https://nps.edu/web/research/-/propagation-of-high-energy-lasers-for-various-wavelengths-power-levels-and-atmospheric-conditions-2018</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval Postgraduate SchoolPropagation of High Energy Lasers for Various Wavelengths, Power...HEL performance is strongly affected by vari...</p></details>
+   Link:<a href="https://nps.edu/web/research/-/propagation-of-high-energy-lasers-for-various-wavelengths-power-levels-and-atmospheric-conditions-2018" target="_blank" rel="noopener noreferrer nofollow">https://nps.edu/web/research/-/propagation-of-high-energy-lasers-for-various-wavelengths-power-levels-and-atmospheric-conditions-2018</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Naval Postgraduate SchoolPropagation of High Energy Lasers for Various Wavelengths, Power...HEL performance is strongly affected by vari...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: everycrsreport.com  
-   Link: <a href="https://www.everycrsreport.com/files/2022-04-01_R44175_68bafcbeb4f98af9965519a9a59716c767190083.html" target="_blank" rel="noopener noreferrer nofollow">https://www.everycrsreport.com/files/2022-04-01_R44175_68bafcbeb4f98af9965519a9a59716c767190083.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Every CRS ReportUntitled... effects of atmospheric turbulence. Even so, lasers might not work well, or at all, in rain or fog, preventing...</p></details>
+   Link:<a href="https://www.everycrsreport.com/files/2022-04-01_R44175_68bafcbeb4f98af9965519a9a59716c767190083.html" target="_blank" rel="noopener noreferrer nofollow">https://www.everycrsreport.com/files/2022-04-01_R44175_68bafcbeb4f98af9965519a9a59716c767190083.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Every CRS ReportUntitled... effects of atmospheric turbulence. Even so, lasers might not work well, or at all, in rain or fog, preventing...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: journals.ametsoc.org  
-   Link: <a href="https://journals.ametsoc.org/view/journals/apme/50/1/2010jamc2482.1.xml" target="_blank" rel="noopener noreferrer nofollow">https://journals.ametsoc.org/view/journals/apme/50/1/2010jamc2482.1.xml</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteorological Society JournalsClimate Change: Anticipated Effects on High-Energy Laser...by ST Fiorino · 2011 · Cited by 10 —...</p></details>
+   Link:<a href="https://journals.ametsoc.org/view/journals/apme/50/1/2010jamc2482.1.xml" target="_blank" rel="noopener noreferrer nofollow">https://journals.ametsoc.org/view/journals/apme/50/1/2010jamc2482.1.xml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteorological Society JournalsClimate Change: Anticipated Effects on High-Energy Laser...by ST Fiorino · 2011 · Cited by 10 —...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: everycrsreport.com  
-   Link: <a href="https://www.everycrsreport.com/files/2021-02-26_R44175_639c1227b1132a4eaa3535ee83891ce54b4c2b7a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.everycrsreport.com/files/2021-02-26_R44175_639c1227b1132a4eaa3535ee83891ce54b4c2b7a.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UntitledNavy Lasers, Railgun, and Gun-Launched Guided Projectile: Background and Issues for. Congress Updated February 26, 2021. Congress...</p></details>
+   Link:<a href="https://www.everycrsreport.com/files/2021-02-26_R44175_639c1227b1132a4eaa3535ee83891ce54b4c2b7a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.everycrsreport.com/files/2021-02-26_R44175_639c1227b1132a4eaa3535ee83891ce54b4c2b7a.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UntitledNavy Lasers, Railgun, and Gun-Launched Guided Projectile: Background and Issues for. Congress Updated February 26, 2021. Congress...</p></details>
    Published: February 26, 2021  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: history.navy.mil  
-   Link: <a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/n/navy-shipboard-lasers.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/n/navy-shipboard-lasers.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shipboard Lasers for Surface, Air, and Missile DefenseLasers could provide Navy surface ships with a more cost effective means of counter...</p></details>
+   Link:<a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/n/navy-shipboard-lasers.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/n/navy-shipboard-lasers.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shipboard Lasers for Surface, Air, and Missile DefenseLasers could provide Navy surface ships with a more cost effective means of counter...</p></details>
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: spiedigitallibrary.org  
-   Link: <a href="https://www.spiedigitallibrary.org/proceedings/Download?downloadType=proceedings+article&amp;isResultClick=True&amp;urlId=10.1117%2F12.2037779" target="_blank" rel="noopener noreferrer nofollow">https://www.spiedigitallibrary.org/proceedings/Download?downloadType=proceedings+article&amp;isResultClick=True&amp;urlId=10.1117%2F12.2037779</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating the Damage process of Dynamic Target by High...the laser energy will be severe attenuation by marine atmosphere dense water m...</p></details>
+   Link:<a href="https://www.spiedigitallibrary.org/proceedings/Download?downloadType=proceedings+article&amp;isResultClick=True&amp;urlId=10.1117%2F12.2037779" target="_blank" rel="noopener noreferrer nofollow">https://www.spiedigitallibrary.org/proceedings/Download?downloadType=proceedings+article&amp;isResultClick=True&amp;urlId=10.1117%2F12.2037779</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating the Damage process of Dynamic Target by High...the laser energy will be severe attenuation by marine atmosphere dense water m...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/266785135832237/posts/759308199913259/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/266785135832237/posts/759308199913259/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US navy tests high-powered laser weaponThe limitation is atmospheric — rain, fog, and dust all scatter laser energy, degrading performanc...</p></details>
+   Link:<a href="https://www.facebook.com/groups/266785135832237/posts/759308199913259/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/266785135832237/posts/759308199913259/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US navy tests high-powered laser weaponThe limitation is atmospheric — rain, fog, and dust all scatter laser energy, degrading performanc...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/laser-wars-us-military-laser-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/laser-wars-us-military-laser-weapons</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Arriving overseas in 2022 and actively engaging enemy drones, this marks a significant milestone in laser weapon technology for air defen...</p></details>
+   Link:<a href="https://www.wired.com/story/laser-wars-us-military-laser-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/laser-wars-us-military-laser-weapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Arriving overseas in 2022 and actively engaging enemy drones, this marks a significant milestone in laser weapon technology for air defen...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: oceannews.com  
-   Link: <a href="https://oceannews.com/news/defense/uk-invests-in-laser-weapon-to-protect-ships-from-attack-by-air-and-sea/" target="_blank" rel="noopener noreferrer nofollow">https://oceannews.com/news/defense/uk-invests-in-laser-weapon-to-protect-ships-from-attack-by-air-and-sea/</a>  
+   Link:<a href="https://oceannews.com/news/defense/uk-invests-in-laser-weapon-to-protect-ships-from-attack-by-air-and-sea/" target="_blank" rel="noopener noreferrer nofollow">https://oceannews.com/news/defense/uk-invests-in-laser-weapon-to-protect-ships-from-attack-by-air-and-sea/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: files.ethz.ch  
    Title: Turbulence is the remaining significant atmospheric effect on laser beams  
-   Link: <a href="https://www.files.ethz.ch/isn/31415/forden.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.files.ethz.ch/isn/31415/forden.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ethz.ch[PDF] The Airborne Laser - The Web site cannot be foundNovember 12, 1996 — Even clear air attenuates, or reduces, the power of the...</p></details>
+   Link:<a href="https://www.files.ethz.ch/isn/31415/forden.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.files.ethz.ch/isn/31415/forden.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ethz.ch[PDF] The Airborne Laser - The Web site cannot be foundNovember 12, 1996 — Even clear air attenuates, or reduces, the power of the...</p></details>
    Published: November 12, 1996  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=9K1pr6IEmHI&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9K1pr6IEmHI&amp;vl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Incredible Challenge Of Destroying A Missile With LasersWe break down the major hurdles: [line-of-sight](&amp;#123;&amp;#123; &#x27;dwell-time/&#x27; | relative_url &amp;#125;&amp;#125;) limitations, atmospheric effec...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9K1pr6IEmHI&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9K1pr6IEmHI&amp;vl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Incredible Challenge Of Destroying A Missile With LasersWe break down the major hurdles: [line-of-sight](&amp;#123;&amp;#123; &#x27;dwell-time/&#x27; | relative_url &amp;#125;&amp;#125;) limitations, atmospheric effec...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: eureka.patsnap.com  
    Title: report atmospheric effects on long range laser power transmission  
-   Link: <a href="https://eureka.patsnap.com/report-atmospheric-effects-on-long-range-laser-power-transmission" target="_blank" rel="noopener noreferrer nofollow">https://eureka.patsnap.com/report-atmospheric-effects-on-long-range-laser-power-transmission</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects On Long-Range Laser Power...28 Aug 2025 — Weather conditions dramatically affect transmission efficiency, with fog, rain, snow...</p></details>
+   Link:<a href="https://eureka.patsnap.com/report-atmospheric-effects-on-long-range-laser-power-transmission" target="_blank" rel="noopener noreferrer nofollow">https://eureka.patsnap.com/report-atmospheric-effects-on-long-range-laser-power-transmission</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects On Long-Range Laser Power...28 Aug 2025 — Weather conditions dramatically affect transmission efficiency, with fog, rain, snow...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: c4isrnet.com  
    Title: cloudy and a chance of rain need not sideline high energy lasers  
-   Link: <a href="https://www.c4isrnet.com/opinion/2018/02/26/cloudy-and-a-chance-of-rain-need-not-sideline-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow">https://www.c4isrnet.com/opinion/2018/02/26/cloudy-and-a-chance-of-rain-need-not-sideline-high-energy-lasers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cloudy and a chance of rain need not sideline high-energy...26 Feb 2018 — turbulence will tend to break up the beam profile and result a...</p></details>
+   Link:<a href="https://www.c4isrnet.com/opinion/2018/02/26/cloudy-and-a-chance-of-rain-need-not-sideline-high-energy-lasers/" target="_blank" rel="noopener noreferrer nofollow">https://www.c4isrnet.com/opinion/2018/02/26/cloudy-and-a-chance-of-rain-need-not-sideline-high-energy-lasers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cloudy and a chance of rain need not sideline high-energy...26 Feb 2018 — turbulence will tend to break up the beam profile and result a...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: army.mil  
    Title: developing lasers that pierce fog dust to destroy targets  
-   Link: <a href="https://www.army.mil/article/195650/army_developing_lasers_that_pierce_fog_dust_to_destroy_targets" target="_blank" rel="noopener noreferrer nofollow">https://www.army.mil/article/195650/army_developing_lasers_that_pierce_fog_dust_to_destroy_targets</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Army developing lasers that pierce fog, dust to destroy targets23 Oct 2017 — A lot of people think that high-energy lasers, or HELs, can&#x27;...</p></details>
+   Link:<a href="https://www.army.mil/article/195650/army_developing_lasers_that_pierce_fog_dust_to_destroy_targets" target="_blank" rel="noopener noreferrer nofollow">https://www.army.mil/article/195650/army_developing_lasers_that_pierce_fog_dust_to_destroy_targets</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Army developing lasers that pierce fog, dust to destroy targets23 Oct 2017 — A lot of people think that high-energy lasers, or HELs, can&#x27;...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: ciaotest.cc.columbia.edu  
-   Link: <a href="https://ciaotest.cc.columbia.edu/olj/sa/sa_feb01ghc01.html" target="_blank" rel="noopener noreferrer nofollow">https://ciaotest.cc.columbia.edu/olj/sa/sa_feb01ghc01.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Energy Weaponsby CN Ghosh · Cited by 9 — Laser beam can get degraded if there is fog, cloud or rain but it does not affect the PBW...</p></details>
+   Link:<a href="https://ciaotest.cc.columbia.edu/olj/sa/sa_feb01ghc01.html" target="_blank" rel="noopener noreferrer nofollow">https://ciaotest.cc.columbia.edu/olj/sa/sa_feb01ghc01.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Energy Weaponsby CN Ghosh · Cited by 9 — Laser beam can get degraded if there is fog, cloud or rain but it does not affect the PBW...</p></details>

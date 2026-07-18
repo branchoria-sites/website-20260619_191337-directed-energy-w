@@ -269,13 +269,13 @@ image: /assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_wide_bea_77
 
 ## Introduction
 
-The same characteristic that makes THOR and similar high-power microwave (HPM) systems attractive against drone swarms can also become a limitation. A wide microwave beam allows [one pulse]({{ 'one-pulse/' | relative_url }}) to affect multiple drones at once, helping defenders cope with [saturation]({{ 'saturation/' | relative_url }}) attacks that would overwhelm one-target-at-a-time weapons. However, area effects inevitably create trade-offs in selectivity, safety management and electromagnetic compatibility. The challenge is not simply whether the beam can disable hostile drones, but whether it can do so without disrupting friendly systems operating in the same environment. As a result, wide-beam microwave weapons are often viewed as powerful counter-swarm tools rather than universal replacements for more precise defensive systems. Air Force Research Laboratory+2Air Force Research Laboratory <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[afrl.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — THOR, a high-powered microwave coun...</span><span class="citation-popover-meta">Published: May 16, 2023</span></span></span>
+The same characteristic that makes THOR and similar high-power microwave (HPM) systems attractive against drone swarms can also become a limitation. A wide microwave beam allows [one pulse]({{ 'one-pulse/' | relative_url }}) to affect multiple drones at once, helping defenders cope with [saturation]({{ 'saturation/' | relative_url }}) attacks that would overwhelm one-target-at-a-time weapons. However, area effects inevitably create trade-offs in selectivity, safety management and electromagnetic compatibility. The challenge is not simply whether the beam can disable hostile drones, but whether it can do so without disrupting friendly systems operating in the same environment. As a result, wide-beam microwave weapons are often viewed as powerful counter-swarm tools rather than universal replacements for more precise defensive systems. Air Force Research Laboratory+2Air Force Research Laboratory<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[afrl.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — THOR, a high-powered microwave coun...</span><span class="citation-popover-meta">Published: May 16, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_wide_bea_77bcf1_wide_beam_lia_0685b0-Illustration-1-dark.svg" | relative_url }}" alt="Beam Risks illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_wide_bea_77bcf1_wide_beam_lia_0685b0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_wide_bea_77bcf1_wide_beam_lia_0685b0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Spread-Out Swarms Reduce the Payoff
 
-The strongest case for a wide microwave beam occurs when many drones occupy the same volume of airspace. [THOR]({{ 'thor/' | relative_url }}) was specifically designed around this “one-to-many” engagement concept, allowing a single pulse to influence multiple targets simultaneously. Air Force Research Laboratory+2Air Force Research Laboratory <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[afrl.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — THOR, a high-powered microwave coun...</span><span class="citation-popover-meta">Published: May 16, 2023</span></span></span>
+The strongest case for a wide microwave beam occurs when many drones occupy the same volume of airspace. [THOR]({{ 'thor/' | relative_url }}) was specifically designed around this “one-to-many” engagement concept, allowing a single pulse to influence multiple targets simultaneously. Air Force Research Laboratory+2Air Force Research Laboratory<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[afrl.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — THOR, a high-powered microwave coun...</span><span class="citation-popover-meta">Published: May 16, 2023</span></span></span>
 
 The advantage becomes less dramatic when a swarm changes its geometry. If drones are dispersed across a wider area, separated by altitude, approach from multiple bearings, or arrive in staggered waves, fewer targets may fall within the effective engagement zone at any given moment. The defender may still need multiple shots, multiple systems, or repositioning to maintain coverage.
 
@@ -284,13 +284,13 @@ This creates a fundamental operational tension:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Concentrated swarms favour microwave weapons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/pro/forget-lasers-and-missiles-china-wants-to-kill-drones-using-a-common-tech-households-use-everyday-in-kitchens-all-around-the-world-invisible-microwave-weapons-can-fry-electronics-but-still-require-line-of-sight-and-proximity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[techradar.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">Operating at distances beyond 3 km, it surpasses the range of similar systems like the U.S. Army&#x27;s Epirus-developed Leonidas. The Hurrica...</span></span></span>
+* Concentrated swarms favour microwave weapons.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/pro/forget-lasers-and-missiles-china-wants-to-kill-drones-using-a-common-tech-households-use-everyday-in-kitchens-all-around-the-world-invisible-microwave-weapons-can-fry-electronics-but-still-require-line-of-sight-and-proximity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[techradar.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">Operating at distances beyond 3 km, it surpasses the range of similar systems like the U.S. Army&#x27;s Epirus-developed Leonidas. The Hurrica...</span></span></span>
 * Dispersed swarms reduce the number of drones affected per pulse.
 * Highly manoeuvrable or geographically distributed attacks can dilute the efficiency of area-effect engagement.
 
 </div>
 
-Modern counter-drone developers continue to highlight large multi-drone kills as proof of effectiveness because the economics improve dramatically when many targets occupy the same beam volume. Demonstrations by THOR and the Leonidas family of systems repeatedly focus on dense swarm scenarios for exactly this reason. Tom's Hardware+3Air Force Research Laboratory+3Air &amp; Space Forces Magazine <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[afrl.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — THOR, a high-powered microwave coun...</span><span class="citation-popover-meta">Published: May 16, 2023</span></span></span>
+Modern counter-drone developers continue to highlight large multi-drone kills as proof of effectiveness because the economics improve dramatically when many targets occupy the same beam volume. Demonstrations by THOR and the Leonidas family of systems repeatedly focus on dense swarm scenarios for exactly this reason. Tom's Hardware+3Air Force Research Laboratory+3Air &amp; Space Forces Magazine<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afrl.af.mil">[afrl.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afrl.af.mil</span><span class="citation-popover-title">Air Force Research Laboratory AFRL conducts swarm technology demonstration</span><span class="citation-popover-snippet">Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — THOR, a high-powered microwave coun...</span><span class="citation-popover-meta">Published: May 16, 2023</span></span></span>
 
 The implication is that a wide beam is not automatically superior in every engagement. Its value depends heavily on target density. As the swarm spreads out, the “one pulse, many kills” proposition becomes harder to achieve.
 
@@ -301,11 +301,11 @@ The implication is that a wide beam is not automatically superior in every engag
 
 ### The Area-Effect Dilemma
 
-High-power microwave weapons work by coupling electromagnetic energy into electronic systems. Their purpose is to disrupt, degrade or damage electronics rather than physically strike a target. That mechanism creates an inherent selectivity challenge: electronics do not carry visible markings identifying friend from foe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onr.navy.mil">[Office of Naval Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onr.navy.mil</span><span class="citation-popover-snippet">Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spe...</span></span></span>
+High-power microwave weapons work by coupling electromagnetic energy into electronic systems. Their purpose is to disrupt, degrade or damage electronics rather than physically strike a target. That mechanism creates an inherent selectivity challenge: electronics do not carry visible markings identifying friend from foe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onr.navy.mil">[Office of Naval Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onr.navy.mil</span><span class="citation-popover-snippet">Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spe...</span></span></span>
 
 A missile or laser can often be directed at a specific drone. A microwave effect, by design, covers a broader area. Any vulnerable electronics located within the relevant exposure zone may require consideration during planning and employment.
 
-For this reason, military users typically establish safety procedures, exclusion areas and electromagnetic compatibility assessments before deploying HPM systems. Research on HPM counter-UAS design routinely incorporates safety-zone calculations and exposure boundaries as part of system planning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2602.08477" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Multi-physics Simulation Framework for High-power Microwave Counter-unmanned Aerial System Design and Performance EvaluationFebrua...</span></span></span>
+For this reason, military users typically establish safety procedures, exclusion areas and electromagnetic compatibility assessments before deploying HPM systems. Research on HPM counter-UAS design routinely incorporates safety-zone calculations and exposure boundaries as part of system planning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2602.08477" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Multi-physics Simulation Framework for High-power Microwave Counter-unmanned Aerial System Design and Performance EvaluationFebrua...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_wide_bea_77bcf1_wide_beam_lia_0685b0-Illustration-2-dark.svg" | relative_url }}" alt="Beam Risks illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_wide_bea_77bcf1_wide_beam_lia_0685b0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_wide_bea_77bcf1_wide_beam_lia_0685b0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -326,7 +326,7 @@ Potentially affected systems can include:
 
 </div>
 
-Operational discussions of HPM systems frequently identify interference with nearby friendly electronics as a constraint that must be managed through doctrine, placement and beam control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://norskluftvern.com/2025/03/31/epirus-leonidas-counter-drone-system-us/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: norskluftvern.com">[Norsk luftvern+2Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">norskluftvern.com</span><span class="citation-popover-title">epirus leonidas counter drone system us</span><span class="citation-popover-snippet">Norsk luftvernEpirus Leonidas Counter-Drone System (US)31 Mar 2025 — Limited effectiveness against hardened, shielded UAVs Requires a dir...</span></span></span>
+Operational discussions of HPM systems frequently identify interference with nearby friendly electronics as a constraint that must be managed through doctrine, placement and beam control.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://norskluftvern.com/2025/03/31/epirus-leonidas-counter-drone-system-us/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: norskluftvern.com">[Norsk luftvern+2Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">norskluftvern.com</span><span class="citation-popover-title">epirus leonidas counter drone system us</span><span class="citation-popover-snippet">Norsk luftvernEpirus Leonidas Counter-Drone System (US)31 Mar 2025 — Limited effectiveness against hardened, shielded UAVs Requires a dir...</span></span></span>
 
 The issue becomes particularly important around airports, critical infrastructure, military headquarters and densely instrumented bases where large numbers of electronic systems coexist. A weapon designed to disable electronics can be highly effective against hostile drones while simultaneously demanding careful separation from the electronic assets it is supposed to protect.
 
@@ -337,7 +337,7 @@ The issue becomes particularly important around airports, critical infrastructur
 
 Another selectivity problem arises because not all electronics respond equally to microwave exposure.
 
-Some drones may incorporate shielding, hardened components or more resilient architectures. Industry and defence analyses routinely identify electromagnetic hardening as a likely countermeasure against future HPM systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://norskluftvern.com/2025/03/31/epirus-leonidas-counter-drone-system-us/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: norskluftvern.com">[Norsk luftvern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">norskluftvern.com</span><span class="citation-popover-title">epirus leonidas counter drone system us</span><span class="citation-popover-snippet">Norsk luftvernEpirus Leonidas Counter-Drone System (US)31 Mar 2025 — Limited effectiveness against hardened, shielded UAVs Requires a dir...</span></span></span>
+Some drones may incorporate shielding, hardened components or more resilient architectures. Industry and defence analyses routinely identify electromagnetic hardening as a likely countermeasure against future HPM systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://norskluftvern.com/2025/03/31/epirus-leonidas-counter-drone-system-us/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: norskluftvern.com">[Norsk luftvern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">norskluftvern.com</span><span class="citation-popover-title">epirus leonidas counter drone system us</span><span class="citation-popover-snippet">Norsk luftvernEpirus Leonidas Counter-Drone System (US)31 Mar 2025 — Limited effectiveness against hardened, shielded UAVs Requires a dir...</span></span></span>
 
 This means that a broad pulse does not necessarily produce a uniform outcome. Within the same engagement area:
 
@@ -364,205 +364,205 @@ A microwave system excels when numerous drones enter a defended zone simultaneou
 * Precision weapons remain valuable when a single drone must be engaged without affecting nearby systems.
 * Electronic warfare tools may be preferable when disruption is sufficient and physical damage is unnecessary.
 * [Lasers]({{ 'lasers/' | relative_url }}) offer highly selective engagement against individual targets.
-* Conventional interceptors may still be required against hardened or high-value threats. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus+2TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-snippet">Our software-defined, long-pulse HPM systems, either fixed or semi-fixed, can integrate with other sensors and weapons...Read more...</span></span></span>
+* Conventional interceptors may still be required against hardened or high-value threats.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus+2TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-snippet">Our software-defined, long-pulse HPM systems, either fixed or semi-fixed, can integrate with other sensors and weapons...Read more...</span></span></span>
 
-This layered approach appears repeatedly in contemporary counter-drone planning. New HPM programmes are often presented as complements to existing sensors, command systems and other defensive weapons rather than replacements for them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-snippet">Our software-defined, long-pulse HPM systems, either fixed or semi-fixed, can integrate with other sensors and weapons...Read more...</span></span></span>
+This layered approach appears repeatedly in contemporary counter-drone planning. New HPM programmes are often presented as complements to existing sensors, command systems and other defensive weapons rather than replacements for them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.epirusinc.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epirusinc.com">[Epirus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epirusinc.com</span><span class="citation-popover-snippet">Our software-defined, long-pulse HPM systems, either fixed or semi-fixed, can integrate with other sensors and weapons...Read more...</span></span></span>
 
-The broad microwave beam therefore creates both the principal strength and the principal weakness of systems such as THOR. It enables efficient engagement of dense drone formations, but the same area effect imposes limits on precision, increases the need to protect friendly electronics, and makes operational context critical. The more crowded and electronically complex the environment becomes, the more important those trade-offs are in determining when a wide beam is the right tool for the job. Office of Naval Research+2Air Force Research Laboratory <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onr.navy.mil">[onr.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onr.navy.mil</span><span class="citation-popover-snippet">Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spe...</span></span></span>
+The broad microwave beam therefore creates both the principal strength and the principal weakness of systems such as THOR. It enables efficient engagement of dense drone formations, but the same area effect imposes limits on precision, increases the need to protect friendly electronics, and makes operational context critical. The more crowded and electronically complex the environment becomes, the more important those trade-offs are in determining when a wide beam is the right tool for the job. Office of Naval Research+2Air Force Research Laboratory<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onr.navy.mil">[onr.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onr.navy.mil</span><span class="citation-popover-snippet">Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spe...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JGzL3fZgPZY" title="Laser and Microwave Weapons - Directed-Energy Weapon Programs, Potential, and Issues" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JGzL3fZgPZY" target="_blank" rel="noopener noreferrer">Laser and Microwave Weapons - Directed-Energy Weapon Programs, Potential, and Issues</a></p><p class="youtube-embed-meta">Channel: Perun</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JGzL3fZgPZY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JGzL3fZgPZY">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When A Wide Beam Becomes A Problem. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When A Wide Beam Becomes A Problem. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
-        </h4>
-        <p class="fr-book-author">By Paul Scharre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
+</h4>
+<p class="fr-book-author">By Paul Scharre</p>
         
-        <p class="fr-book-desc">Explores autonomous systems and operational testing challenges.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores autonomous systems and operational testing challenges.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Highlights how public demonstrations often reveal only part of a program’s capabilities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights how public demonstrations often reveal only part of a program’s capabilities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Applied+Electromagnetics+6th+By+Fawwaz+T.+Ulaby+Fawwaz+T+Ulaby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Applied Electromagnetics 6th By Fawwaz T. Ulaby on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10858380-M.jpg" alt="Cover for Fundamentals of Applied Electromagnetics 6th By Fawwaz T. Ulaby" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Applied+Electromagnetics+6th+By+Fawwaz+T.+Ulaby+Fawwaz+T+Ulaby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Applied Electromagnetics 6th By Fawwaz T. Ulaby">Fundamentals of Applied Electromagnetics 6th By Fawwaz T. Ulaby</a>
-        </h4>
-        <p class="fr-book-author">By Fawwaz T Ulaby</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Applied+Electromagnetics+6th+By+Fawwaz+T.+Ulaby+Fawwaz+T+Ulaby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Applied Electromagnetics 6th By Fawwaz T. Ulaby on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10858380-M.jpg" alt="Cover for Fundamentals of Applied Electromagnetics 6th By Fawwaz T. Ulaby" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+Applied+Electromagnetics+6th+By+Fawwaz+T.+Ulaby+Fawwaz+T+Ulaby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Applied Electromagnetics 6th By Fawwaz T. Ulaby">Fundamentals of Applied Electromagnetics 6th By Fawwaz T. Ulaby</a>
+</h4>
+<p class="fr-book-author">By Fawwaz T Ulaby</p>
         
-        <p class="fr-book-desc">First published 2014.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Applied+Electromagnetics+6th+By+Fawwaz+T.+Ulaby+Fawwaz+T+Ulaby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+Applied+Electromagnetics+6th+By+Fawwaz+T.+Ulaby+Fawwaz+T+Ulaby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Electromagnetic+compatibility+engineering+Henry+W.+Ott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Electromagnetic compatibility engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8643114-M.jpg" alt="Cover for Electromagnetic compatibility engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Electromagnetic+compatibility+engineering+Henry+W.+Ott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Electromagnetic compatibility engineering">Electromagnetic compatibility engineering</a>
-        </h4>
-        <p class="fr-book-author">By Henry W. Ott</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Electromagnetic+compatibility+engineering+Henry+W.+Ott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Electromagnetic compatibility engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8643114-M.jpg" alt="Cover for Electromagnetic compatibility engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Electromagnetic+compatibility+engineering+Henry+W.+Ott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Electromagnetic compatibility engineering">Electromagnetic compatibility engineering</a>
+</h4>
+<p class="fr-book-author">By Henry W. Ott</p>
         
-        <p class="fr-book-desc">First published 2009. Subjects: Electronic circuits, Noise, Electromagnetic compatibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Electromagnetic+compatibility+engineering+Henry+W.+Ott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2009. Subjects: Electronic circuits, Noise, Electromagnetic compatibility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Electromagnetic+compatibility+engineering+Henry+W.+Ott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+Applied+Electromagnetics+6th+By+Fawwaz+T.+Ulaby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of Applied Electromagnetics 6th By Fawwaz T. Ulaby</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+Applied+Electromagnetics+6th+By+Fawwaz+T.+Ulaby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of Applied Electromagnetics 6th By Fawwaz T. Ulaby</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone wall art" data-ebay-reference="beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beach Drone Shot Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2e045969fbb5b73951f9.jpg' | relative_url }}" alt="Listing image for Beach Drone Shot Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone wall art" data-ebay-reference="beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art" target="_blank" rel="sponsored noopener noreferrer">Beach Drone Shot Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone wall art" data-ebay-reference="beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone wall art" data-ebay-reference="beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone wall art" data-ebay-reference="beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beach Drone Shot Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2e045969fbb5b73951f9.jpg' | relative_url }}" alt="Listing image for Beach Drone Shot Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone wall art" data-ebay-reference="beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art" target="_blank" rel="sponsored noopener noreferrer">Beach Drone Shot Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone wall art" data-ebay-reference="beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone wall art" data-ebay-reference="beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone wall art" data-ebay-reference="beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FLYING DRONE POSTER IMAGE WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/632c92ad60c77406cde7.jpg' | relative_url }}" alt="Listing image for FLYING DRONE POSTER IMAGE WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone wall art" data-ebay-reference="beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art" target="_blank" rel="sponsored noopener noreferrer">FLYING DRONE POSTER IMAGE WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone wall art" data-ebay-reference="beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone wall art" data-ebay-reference="beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone wall art" data-ebay-reference="beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FLYING DRONE POSTER IMAGE WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/632c92ad60c77406cde7.jpg' | relative_url }}" alt="Listing image for FLYING DRONE POSTER IMAGE WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone wall art" data-ebay-reference="beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art" target="_blank" rel="sponsored noopener noreferrer">FLYING DRONE POSTER IMAGE WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone wall art" data-ebay-reference="beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone wall art" data-ebay-reference="beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone wall art" data-ebay-reference="beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drone Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ef561d80f21ee61fe09e.jpg' | relative_url }}" alt="Listing image for Drone Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone wall art" data-ebay-reference="beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art" target="_blank" rel="sponsored noopener noreferrer">Drone Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone wall art" data-ebay-reference="beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone wall art" data-ebay-reference="beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone wall art" data-ebay-reference="beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drone Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ef561d80f21ee61fe09e.jpg' | relative_url }}" alt="Listing image for Drone Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone wall art" data-ebay-reference="beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art" target="_blank" rel="sponsored noopener noreferrer">Drone Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone wall art" data-ebay-reference="beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone wall art" data-ebay-reference="beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone wall art" data-ebay-reference="beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drone shot of a small park Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/883c6093845f8a99b139.jpg' | relative_url }}" alt="Listing image for Drone shot of a small park Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone wall art" data-ebay-reference="beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art" target="_blank" rel="sponsored noopener noreferrer">Drone shot of a small park Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone wall art" data-ebay-reference="beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone wall art" data-ebay-reference="beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone wall art" data-ebay-reference="beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone wall art" data-ebay-reference="beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drone shot of a small park Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/883c6093845f8a99b139.jpg' | relative_url }}" alt="Listing image for Drone shot of a small park Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone wall art" data-ebay-reference="beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art" target="_blank" rel="sponsored noopener noreferrer">Drone shot of a small park Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone wall art" data-ebay-reference="beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone wall art" data-ebay-reference="beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone wall art" data-ebay-reference="beam-risks-when-a-wide-beam-becomes-a-problem-directed-ener-drone-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -578,7 +578,7 @@ The broad microwave beam therefore creates both the principal strength and the p
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -598,7 +598,7 @@ The broad microwave beam therefore creates both the principal strength and the p
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -630,7 +630,7 @@ The broad microwave beam therefore creates both the principal strength and the p
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -682,7 +682,7 @@ The broad microwave beam therefore creates both the principal strength and the p
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -727,7 +727,7 @@ The broad microwave beam therefore creates both the principal strength and the p
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -768,210 +768,210 @@ The broad microwave beam therefore creates both the principal strength and the p
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2602.08477" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.08477</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Multi-physics Simulation Framework for High-power Microwave Counter-unmanned Aerial System Design and Performance EvaluationFebrua...</p></details>
+   Link:<a href="https://arxiv.org/abs/2602.08477" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.08477</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Multi-physics Simulation Framework for High-power Microwave Counter-unmanned Aerial System Design and Performance EvaluationFebrua...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/unboxfactory/posts/the-us-military-has-successfully-tested-a-next-generation-high-power-microwave-h/944338644583853/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unboxfactory/posts/the-us-military-has-successfully-tested-a-next-generation-high-power-microwave-h/944338644583853/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>iendly electronics, limiting its use near civilian infrastructure...</p></details>
+   Link:<a href="https://www.facebook.com/unboxfactory/posts/the-us-military-has-successfully-tested-a-next-generation-high-power-microwave-h/944338644583853/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unboxfactory/posts/the-us-military-has-successfully-tested-a-next-generation-high-power-microwave-h/944338644583853/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>iendly electronics, limiting its use near civilian infrastructure...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: techradar.com  
-   Link: <a href="https://www.techradar.com/pro/forget-lasers-and-missiles-china-wants-to-kill-drones-using-a-common-tech-households-use-everyday-in-kitchens-all-around-the-world-invisible-microwave-weapons-can-fry-electronics-but-still-require-line-of-sight-and-proximity" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/forget-lasers-and-missiles-china-wants-to-kill-drones-using-a-common-tech-households-use-everyday-in-kitchens-all-around-the-world-invisible-microwave-weapons-can-fry-electronics-but-still-require-line-of-sight-and-proximity</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Operating at distances beyond 3 km, it surpasses the range of similar systems like the U.S. Army&#x27;s Epirus-developed Leonidas. The Hurrica...</p></details>
+   Link:<a href="https://www.techradar.com/pro/forget-lasers-and-missiles-china-wants-to-kill-drones-using-a-common-tech-households-use-everyday-in-kitchens-all-around-the-world-invisible-microwave-weapons-can-fry-electronics-but-still-require-line-of-sight-and-proximity" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/forget-lasers-and-missiles-china-wants-to-kill-drones-using-a-common-tech-households-use-everyday-in-kitchens-all-around-the-world-invisible-microwave-weapons-can-fry-electronics-but-still-require-line-of-sight-and-proximity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Operating at distances beyond 3 km, it surpasses the range of similar systems like the U.S. Army&#x27;s Epirus-developed Leonidas. The Hurrica...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/interestingengineering/posts/unlike-laser-based-systems-the-microwave-based-approach-can-engage-multiple-targ/1389544029883697/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/interestingengineering/posts/unlike-laser-based-systems-the-microwave-based-approach-can-engage-multiple-targ/1389544029883697/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>n exposed to high-power [microwaves](&amp;#123;&amp;#123; &#x27;microwaves/&#x27; | relative_url &amp;#125;&amp;#125;), potentially...</p></details>
+   Link:<a href="https://www.facebook.com/interestingengineering/posts/unlike-laser-based-systems-the-microwave-based-approach-can-engage-multiple-targ/1389544029883697/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/interestingengineering/posts/unlike-laser-based-systems-the-microwave-based-approach-can-engage-multiple-targ/1389544029883697/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n exposed to high-power [microwaves](&amp;#123;&amp;#123; &#x27;microwaves/&#x27; | relative_url &amp;#125;&amp;#125;), potentially...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AFResearchLab/videos/afrls-tactical-high-power-operational-responder-or-thor-system-%EF%B8%8F-is-swarming-int/1138955837220051/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AFResearchLab/videos/afrls-tactical-high-power-operational-responder-or-thor-system-%EF%B8%8F-is-swarming-int/1138955837220051/</a>  
+   Link:<a href="https://www.facebook.com/AFResearchLab/videos/afrls-tactical-high-power-operational-responder-or-thor-system-%EF%B8%8F-is-swarming-int/1138955837220051/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AFResearchLab/videos/afrls-tactical-high-power-operational-responder-or-thor-system-%EF%B8%8F-is-swarming-int/1138955837220051/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
    Title: Meet THOR, the Air Force Research Laboratory  
-   Link: <a href="https://www.facebook.com/ArmedWithScience/videos/meet-thor-a-counter-drone-weapon/907504010708144/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ArmedWithScience/videos/meet-thor-a-counter-drone-weapon/907504010708144/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AFRL&#x27;s...Thor is a high-power microwave counter drone weapon that the Air Force Research Lab has demonstrated for effectiveness against...</p></details>
+   Link:<a href="https://www.facebook.com/ArmedWithScience/videos/meet-thor-a-counter-drone-weapon/907504010708144/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ArmedWithScience/videos/meet-thor-a-counter-drone-weapon/907504010708144/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFRL&#x27;s...Thor is a high-power microwave counter drone weapon that the Air Force Research Lab has demonstrated for effectiveness against...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AFResearchLab/posts/for-this-techtuesday-we-look-back-at-the-power-of-thor-and-what-that-means-for-n/3271349919568312/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AFResearchLab/posts/for-this-techtuesday-we-look-back-at-the-power-of-thor-and-what-that-means-for-n/3271349919568312/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>For this #TechTuesday, we look back at the power of THOR...A high-power microwave counter-drone system, the containerized THOR is design...</p></details>
+   Link:<a href="https://www.facebook.com/AFResearchLab/posts/for-this-techtuesday-we-look-back-at-the-power-of-thor-and-what-that-means-for-n/3271349919568312/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AFResearchLab/posts/for-this-techtuesday-we-look-back-at-the-power-of-thor-and-what-that-means-for-n/3271349919568312/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For this #TechTuesday, we look back at the power of THOR...A high-power microwave counter-drone system, the containerized THOR is design...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: afrl.af.mil  
    Title: Air Force Research Laboratory AFRL conducts swarm technology demonstration  
-   Link: <a href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — THOR, a high-powered microwave coun...</p></details>
+   Link:<a href="https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Article-Display/Article/3396995/afrl-conducts-swarm-technology-demonstration/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Research LaboratoryAFRL conducts swarm technology demonstrationMay 16, 2023 — 16 May 2023 — THOR, a high-powered microwave coun...</p></details>
    Published: May 16, 2023  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: afresearchlab.com  
-   Link: <a href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://afresearchlab.com/counter-swarm-high-power-weapon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>uses high power microwaves to cause a counter...</p></details>
+   Link:<a href="https://afresearchlab.com/counter-swarm-high-power-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://afresearchlab.com/counter-swarm-high-power-weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>uses high power microwaves to cause a counter...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: onr.navy.mil  
-   Link: <a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spe...</p></details>
+   Link:<a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spe...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: afrl.af.mil  
    Title: army partners with air forces thor for base defense  
-   Link: <a href="https://www.afrl.af.mil/News/Article/2512426/army-partners-with-air-forces-thor-for-base-defense/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Article/2512426/army-partners-with-air-forces-thor-for-base-defense/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Research LaboratoryArmy partners with Air Force&#x27;s THOR for base defense23 Feb 2021 — THOR is a prototype directed energy weapon...</p></details>
+   Link:<a href="https://www.afrl.af.mil/News/Article/2512426/army-partners-with-air-forces-thor-for-base-defense/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Article/2512426/army-partners-with-air-forces-thor-for-base-defense/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Research LaboratoryArmy partners with Air Force&#x27;s THOR for base defense23 Feb 2021 — THOR is a prototype directed energy weapon...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: airandspaceforces.com  
    Title: air forces thor [drone swarm](&#123;&#123; 'swarm-limits/' | relative_url &#125;&#125;) demo  
-   Link: <a href="https://www.airandspaceforces.com/air-forces-thor-drone-swarm-demo/" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/air-forces-thor-drone-swarm-demo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air &amp; Space Forces MagazineTHOR Hammers Drone Swarm with High-Power Microwaves19 May 2023 — THOR uses bursts of high-power microwave ener...</p></details>
+   Link:<a href="https://www.airandspaceforces.com/air-forces-thor-drone-swarm-demo/" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/air-forces-thor-drone-swarm-demo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air &amp; Space Forces MagazineTHOR Hammers Drone Swarm with High-Power Microwaves19 May 2023 — THOR uses bursts of high-power microwave ener...</p></details>
    Published: May 2023  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: epirusinc.com  
    Title: Tap to unmute.Read more  
-   Link: <a href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EpirusEpirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone...10 Sept 2025 — Leonidas neutralized 61-of-61 drones, culminating in a 49...</p></details>
+   Link:<a href="https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EpirusEpirus&#x27; Leonidas High-Power Microwave Defeats 49-Drone...10 Sept 2025 — Leonidas neutralized 61-of-61 drones, culminating in a 49...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: tomshardware.com  
    Title: Tom's Hardware High-power microwave system downs 49 drones in one shot  
-   Link: <a href="https://www.tomshardware.com/tech-industry/high-power-microwave-system-downs-49-drones-in-one-shot-weaponized-electromagnetic-interference-erases-drone-swarms-en-masse" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/high-power-microwave-system-downs-49-drones-in-one-shot-weaponized-electromagnetic-interference-erases-drone-swarms-en-masse</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>electronics warfare company, successfully demonstrated a major advancement in counter-drone technology with its Leonidas high-power micro...</p></details>
+   Link:<a href="https://www.tomshardware.com/tech-industry/high-power-microwave-system-downs-49-drones-in-one-shot-weaponized-electromagnetic-interference-erases-drone-swarms-en-masse" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/high-power-microwave-system-downs-49-drones-in-one-shot-weaponized-electromagnetic-interference-erases-drone-swarms-en-masse</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>electronics warfare company, successfully demonstrated a major advancement in counter-drone technology with its Leonidas high-power micro...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: norskluftvern.com  
    Title: epirus leonidas counter drone system us  
-   Link: <a href="https://norskluftvern.com/2025/03/31/epirus-leonidas-counter-drone-system-us/" target="_blank" rel="noopener noreferrer nofollow">https://norskluftvern.com/2025/03/31/epirus-leonidas-counter-drone-system-us/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Norsk luftvernEpirus Leonidas Counter-Drone System (US)31 Mar 2025 — Limited effectiveness against hardened, shielded UAVs Requires a dir...</p></details>
+   Link:<a href="https://norskluftvern.com/2025/03/31/epirus-leonidas-counter-drone-system-us/" target="_blank" rel="noopener noreferrer nofollow">https://norskluftvern.com/2025/03/31/epirus-leonidas-counter-drone-system-us/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Norsk luftvernEpirus Leonidas Counter-Drone System (US)31 Mar 2025 — Limited effectiveness against hardened, shielded UAVs Requires a dir...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: epirusinc.com  
-   Link: <a href="https://www.epirusinc.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our software-defined, long-pulse HPM systems, either fixed or semi-fixed, can integrate with other sensors and weapons...Read more...</p></details>
+   Link:<a href="https://www.epirusinc.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our software-defined, long-pulse HPM systems, either fixed or semi-fixed, can integrate with other sensors and weapons...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: epirusinc.com  
-   Link: <a href="https://www.epirusinc.com/electronic-warfare" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/electronic-warfare</a>  
+   Link:<a href="https://www.epirusinc.com/electronic-warfare" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/electronic-warfare</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Air Force Research Laboratory  
-   Link: <a href="https://en.wikipedia.org/wiki/Air_Force_Research_Laboratory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Air_Force_Research_Laboratory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Research LaboratoryThe Air Force Research Laboratory (AFRL) is a scientific research and development detachment of the Unite...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Air_Force_Research_Laboratory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Air_Force_Research_Laboratory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Research LaboratoryThe Air Force Research Laboratory (AFRL) is a scientific research and development detachment of the Unite...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Epirus Leonidas  
-   Link: <a href="https://en.wikipedia.org/wiki/Epirus_Leonidas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Epirus_Leonidas</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus LeonidasThe Leonidas is a high-power microwave (HPM) weapon developed to disable unmanned aerial vehicle (UAV) swarms. It was n...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Epirus_Leonidas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Epirus_Leonidas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus LeonidasThe Leonidas is a high-power microwave (HPM) weapon developed to disable unmanned aerial vehicle (UAV) swarms. It was n...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: epirusinc.com  
-   Link: <a href="https://www.epirusinc.com/press-releases/epirus-leonidas-demonstrates-successful-use-of-high-power-microwave-to-defeat-[fiber-optic" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/press-releases/epirus-leonidas-demonstrates-successful-use-of-high-power-microwave-to-defeat-[fiber-optic</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus&#x27; Leonidas Demonstrates Successful Use of High-...13 Jan 2026 — Leonidas is the first EW-based counter-UAS technology to demonstra...</p></details>
+   Link:<a href="https://www.epirusinc.com/press-releases/epirus-leonidas-demonstrates-successful-use-of-high-power-microwave-to-defeat-[fiber-optic" target="_blank" rel="noopener noreferrer nofollow">https://www.epirusinc.com/press-releases/epirus-leonidas-demonstrates-successful-use-of-high-power-microwave-to-defeat-[fiber-optic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus&#x27; Leonidas Demonstrates Successful Use of High-...13 Jan 2026 — Leonidas is the first EW-based counter-UAS technology to demonstra...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=na0pGfopahM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=na0pGfopahM</a>  
+   Link:<a href="https://www.youtube.com/watch?v=na0pGfopahM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=na0pGfopahM</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: afrl.af.mil  
-   Link: <a href="https://www.afrl.af.mil/News/Photos/igphoto/2003223867/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Photos/igphoto/2003223867/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>High-power Operational ResponderA high-powered microwave counter drone weapon, stands ready to demonstrate its effectiveness against a sw...</p></details>
+   Link:<a href="https://www.afrl.af.mil/News/Photos/igphoto/2003223867/" target="_blank" rel="noopener noreferrer nofollow">https://www.afrl.af.mil/News/Photos/igphoto/2003223867/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High-power Operational ResponderA high-powered microwave counter drone weapon, stands ready to demonstrate its effectiveness against a sw...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/epirus_epirus-leonidas-high-power-microwave-defeats-activity-7371575751776608256-i0zZ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/epirus_epirus-leonidas-high-power-microwave-defeats-activity-7371575751776608256-i0zZ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tic interference. “We believe showcasing our weaponized...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/epirus_epirus-leonidas-high-power-microwave-defeats-activity-7371575751776608256-i0zZ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/epirus_epirus-leonidas-high-power-microwave-defeats-activity-7371575751776608256-i0zZ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tic interference. “We believe showcasing our weaponized...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: jpost.com  
    Title: article 884657  
-   Link: <a href="https://www.jpost.com/defense-and-tech/article-884657" target="_blank" rel="noopener noreferrer nofollow">https://www.jpost.com/defense-and-tech/article-884657</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus: Bringing high-power microwave defense to the front27 Jan 2026 — Epirus&#x27; flagship system, Leonidas, is a high-power microwave (HPM...</p></details>
+   Link:<a href="https://www.jpost.com/defense-and-tech/article-884657" target="_blank" rel="noopener noreferrer nofollow">https://www.jpost.com/defense-and-tech/article-884657</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus: Bringing high-power microwave defense to the front27 Jan 2026 — Epirus&#x27; flagship system, Leonidas, is a high-power microwave (HPM...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: defence-blog.com  
    Title: epirus confirms leonidas microwave system integration with dft platform  
-   Link: <a href="https://defence-blog.com/epirus-confirms-leonidas-microwave-system-integration-with-dft-platform/" target="_blank" rel="noopener noreferrer nofollow">https://defence-blog.com/epirus-confirms-leonidas-microwave-system-integration-with-dft-platform/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus confirms Leonidas microwave system integration...25 Feb 2026 — The system emits controlled bursts of high-power microwave energy...</p></details>
+   Link:<a href="https://defence-blog.com/epirus-confirms-leonidas-microwave-system-integration-with-dft-platform/" target="_blank" rel="noopener noreferrer nofollow">https://defence-blog.com/epirus-confirms-leonidas-microwave-system-integration-with-dft-platform/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus confirms Leonidas microwave system integration...25 Feb 2026 — The system emits controlled bursts of high-power microwave energy...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nightdragon.com  
-   Link: <a href="https://www.nightdragon.com/portfolio/epirus/" target="_blank" rel="noopener noreferrer nofollow">https://www.nightdragon.com/portfolio/epirus/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Securing our world for tomorrow.Its flagship product, Leonidas, is a software-defined high-power microwave (HPM) system des...</p></details>
+   Link:<a href="https://www.nightdragon.com/portfolio/epirus/" target="_blank" rel="noopener noreferrer nofollow">https://www.nightdragon.com/portfolio/epirus/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Securing our world for tomorrow.Its flagship product, Leonidas, is a software-defined high-power microwave (HPM) system des...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: calibredefence.co.uk  
    Title: epirus zaps fibre optic fpv with leonidas microwave weapon  
-   Link: <a href="https://www.calibredefence.co.uk/epirus-zaps-fibre-optic-fpv-with-leonidas-microwave-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.calibredefence.co.uk/epirus-zaps-fibre-optic-fpv-with-leonidas-microwave-weapon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus zaps fibre-optic FPV with Leonidas microwave...28 Jan 2026 — Epirus has developed a microwave weapon called Leonidas that has dem...</p></details>
+   Link:<a href="https://www.calibredefence.co.uk/epirus-zaps-fibre-optic-fpv-with-leonidas-microwave-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.calibredefence.co.uk/epirus-zaps-fibre-optic-fpv-with-leonidas-microwave-weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epirus zaps fibre-optic FPV with Leonidas microwave...28 Jan 2026 — Epirus has developed a microwave weapon called Leonidas that has dem...</p></details>
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/904353/afrls-thor-tracks-and-disables-drone-swarm" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/904353/afrls-thor-tracks-and-disables-drone-swarm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AFRL&#x27;s THOR Tracks and Disables Drone Swarm&quot;Numerous drones were flown to simulate a swarm attack, and using its wide beam, high peak pow...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/904353/afrls-thor-tracks-and-disables-drone-swarm" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/904353/afrls-thor-tracks-and-disables-drone-swarm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFRL&#x27;s THOR Tracks and Disables Drone Swarm&quot;Numerous drones were flown to simulate a swarm attack, and using its wide beam, high peak pow...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: ft.com  
-   Link: <a href="https://www.ft.com/content/41703199-201e-4702-b34a-a0a633cdfcf5" target="_blank" rel="noopener noreferrer nofollow">https://www.ft.com/content/41703199-201e-4702-b34a-a0a633cdfcf5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This weapon emits a wide beam of radio frequency energy designed to disable or destroy drones by damaging their electronic systems. Durin...</p></details>
+   Link:<a href="https://www.ft.com/content/41703199-201e-4702-b34a-a0a633cdfcf5" target="_blank" rel="noopener noreferrer nofollow">https://www.ft.com/content/41703199-201e-4702-b34a-a0a633cdfcf5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This weapon emits a wide beam of radio frequency energy designed to disable or destroy drones by damaging their electronic systems. Durin...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: jedonline.com  
    Title: high power microwave systems getting much much closer to operational status  
-   Link: <a href="https://www.jedonline.com/2023/01/24/high-power-microwave-systems-getting-much-much-closer-to-operational-status/" target="_blank" rel="noopener noreferrer nofollow">https://www.jedonline.com/2023/01/24/high-power-microwave-systems-getting-much-much-closer-to-operational-status/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Electromagnetic DominanceHigh-Power Microwave Systems – Getting (Much...24 Jan 2023 — HPM weapons can generate a range of eff...</p></details>
+   Link:<a href="https://www.jedonline.com/2023/01/24/high-power-microwave-systems-getting-much-much-closer-to-operational-status/" target="_blank" rel="noopener noreferrer nofollow">https://www.jedonline.com/2023/01/24/high-power-microwave-systems-getting-much-much-closer-to-operational-status/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Electromagnetic DominanceHigh-Power Microwave Systems – Getting (Much...24 Jan 2023 — HPM weapons can generate a range of eff...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=QjHGxKb6W1c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QjHGxKb6W1c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THOR (Tactical High-power Operational Responder) Destroys...AFRL&#x27;s THOR (Tactical High-power Operational Responder) is a prototype Direc...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QjHGxKb6W1c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QjHGxKb6W1c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THOR (Tactical High-power Operational Responder) Destroys...AFRL&#x27;s THOR (Tactical High-power Operational Responder) is a prototype Direc...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: defensescoop.com  
    Title: marines microwave weapon hpm epirus leonidas [expeditionary](&#123;&#123; 'marine-variant/' | relative_url &#125;&#125;)  
-   Link: <a href="https://defensescoop.com/2024/09/23/marines-microwave-weapon-hpm-epirus-leonidas-expeditionary/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/09/23/marines-microwave-weapon-hpm-epirus-leonidas-expeditionary/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Marines to get new drone-killing microwave weapon...23 Sept 2024 — The high-power microwave weapon prototype, known as Leonidas Expediti...</p></details>
+   Link:<a href="https://defensescoop.com/2024/09/23/marines-microwave-weapon-hpm-epirus-leonidas-expeditionary/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/09/23/marines-microwave-weapon-hpm-epirus-leonidas-expeditionary/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marines to get new drone-killing microwave weapon...23 Sept 2024 — The high-power microwave weapon prototype, known as Leonidas Expediti...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: twz.com  
    Title: thor microwave anti drone system downs swarms in test  
-   Link: <a href="https://www.twz.com/thor-microwave-anti-drone-system-downs-swarms-in-test" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/thor-microwave-anti-drone-system-downs-swarms-in-test</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THOR Microwave Anti-Drone System Downs Swarms In Test19 May 2023 — The demonstration pitted the service&#x27;s high-power microwave THOR syste...</p></details>
+   Link:<a href="https://www.twz.com/thor-microwave-anti-drone-system-downs-swarms-in-test" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/thor-microwave-anti-drone-system-downs-swarms-in-test</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THOR Microwave Anti-Drone System Downs Swarms In Test19 May 2023 — The demonstration pitted the service&#x27;s high-power microwave THOR syste...</p></details>
    Published: May 2023  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: airuniversity.af.edu  
    Title: army partners with air forces thor for base defense  
-   Link: <a href="https://www.airuniversity.af.edu/News/Display/Article/2511792/army-partners-with-air-forces-thor-for-base-defense/" target="_blank" rel="noopener noreferrer nofollow">https://www.airuniversity.af.edu/News/Display/Article/2511792/army-partners-with-air-forces-thor-for-base-defense/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>partners with Air Force&#x27;s THOR for base defense23 Feb 2021 — THOR is a prototype directed energy weapon used to disable the electronics i...</p></details>
+   Link:<a href="https://www.airuniversity.af.edu/News/Display/Article/2511792/army-partners-with-air-forces-thor-for-base-defense/" target="_blank" rel="noopener noreferrer nofollow">https://www.airuniversity.af.edu/News/Display/Article/2511792/army-partners-with-air-forces-thor-for-base-defense/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>partners with Air Force&#x27;s THOR for base defense23 Feb 2021 — THOR is a prototype directed energy weapon used to disable the electronics i...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: inzpire.com  
    Title: high power microwaves more than just a hot lunch  
-   Link: <a href="https://www.inzpire.com/news/high-power-microwaves-more-than-just-a-hot-lunch" target="_blank" rel="noopener noreferrer nofollow">https://www.inzpire.com/news/high-power-microwaves-more-than-just-a-hot-lunch</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>High power microwaves – more than just a hot lunch!3 Mar 2025 — It is easy to imagine how these high-power levels can induce failures in...</p></details>
+   Link:<a href="https://www.inzpire.com/news/high-power-microwaves-more-than-just-a-hot-lunch" target="_blank" rel="noopener noreferrer nofollow">https://www.inzpire.com/news/high-power-microwaves-more-than-just-a-hot-lunch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High power microwaves – more than just a hot lunch!3 Mar 2025 — It is easy to imagine how these high-power levels can induce failures in...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: taskandpurpose.com  
    Title: air force thor directed energy drone swarm test  
-   Link: <a href="https://taskandpurpose.com/tech-tactics/air-force-thor-directed-energy-drone-swarm-test/" target="_blank" rel="noopener noreferrer nofollow">https://taskandpurpose.com/tech-tactics/air-force-thor-directed-energy-drone-swarm-test/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force&#x27;s THOR directed energy weapon ready for drone...19 May 2023 — The Air Force has successfully employed its primary directed ene...</p></details>
+   Link:<a href="https://taskandpurpose.com/tech-tactics/air-force-thor-directed-energy-drone-swarm-test/" target="_blank" rel="noopener noreferrer nofollow">https://taskandpurpose.com/tech-tactics/air-force-thor-directed-energy-drone-swarm-test/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force&#x27;s THOR directed energy weapon ready for drone...19 May 2023 — The Air Force has successfully employed its primary directed ene...</p></details>
    Published: May 2023  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: airforcetechconnect.org  
    Title: thor hammers drone swarm high power microwaves  
-   Link: <a href="https://airforcetechconnect.org/news/thor-hammers-drone-swarm-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow">https://airforcetechconnect.org/news/thor-hammers-drone-swarm-high-power-microwaves</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THOR Hammers Drone Swarm with High-Power Microwaves24 May 2023 — An experimental directed energy weapon developed by the Air Force Resear...</p></details>
+   Link:<a href="https://airforcetechconnect.org/news/thor-hammers-drone-swarm-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow">https://airforcetechconnect.org/news/thor-hammers-drone-swarm-high-power-microwaves</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THOR Hammers Drone Swarm with High-Power Microwaves24 May 2023 — An experimental directed energy weapon developed by the Air Force Resear...</p></details>
    Published: May 2023  

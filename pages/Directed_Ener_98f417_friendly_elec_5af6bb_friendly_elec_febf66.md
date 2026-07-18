@@ -294,7 +294,7 @@ image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_friendly_elec_fe
 
 ## Introduction
 
-High-power microwave (HPM) directed energy weapons promise a valuable capability against drones and other electronic targets, but proving that they work against an adversary is only half the [deployment]({{ 'deployment/' | relative_url }}) problem. The other half is proving that they do not unintentionally disrupt the defender’s own communications, sensors, vehicles, medical equipment, and command systems. This cannot be established through laboratory measurements or idealised range trials alone. Microwave effects depend heavily on antenna orientation, cable routing, shielding quality, [reflections]({{ 'reflections/' | relative_url }}) from structures, vehicle geometry, and the wider electromagnetic environment. As a result, systems that appear safe during controlled testing can behave differently when deployed on a crowded base, airfield, ship, or urban site. Testing friendly electronics under realistic conditions therefore becomes a central part of fielding any microwave-based directed energy capability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2NATO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — These weapons include high energy lasers and other high power electroma...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+High-power microwave (HPM) directed energy weapons promise a valuable capability against drones and other electronic targets, but proving that they work against an adversary is only half the [deployment]({{ 'deployment/' | relative_url }}) problem. The other half is proving that they do not unintentionally disrupt the defender’s own communications, sensors, vehicles, medical equipment, and command systems. This cannot be established through laboratory measurements or idealised range trials alone. Microwave effects depend heavily on antenna orientation, cable routing, shielding quality, [reflections]({{ 'reflections/' | relative_url }}) from structures, vehicle geometry, and the wider electromagnetic environment. As a result, systems that appear safe during controlled testing can behave differently when deployed on a crowded base, airfield, ship, or urban site. Testing friendly electronics under realistic conditions therefore becomes a central part of fielding any microwave-based directed energy capability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2NATO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — These weapons include high energy lasers and other high power electroma...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_friendly_elec_febf66-Illustration-1-dark.svg" | relative_url }}" alt="Field Testing illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_friendly_elec_febf66-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_friendly_elec_febf66-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -302,11 +302,11 @@ High-power microwave (HPM) directed energy weapons promise a valuable capability
 
 Clean [test ranges]({{ 'test-range/' | relative_url }}) are designed to reduce uncertainty. Real operational environments create it.
 
-High-power microwave systems interact with the electromagnetic environment in ways that are often difficult to predict precisely. Buildings, vehicles, fences, aircraft, antennas, power lines, and even terrain can reflect or channel energy. A radio that functions normally during a controlled trial may experience unexpected interference when mounted on a vehicle parked near a metal structure. Likewise, a sensor protected in laboratory conditions may become vulnerable when connected to operational cabling or external antennas. NATO research programmes examining HPM threats have specifically emphasised moving beyond laboratory analysis into realistic tactical scenarios because operational environments reveal effects that controlled testing can miss. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sto.nato.int/document/high-power-microwave-threat-to-infrastructure-and-military-equipment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sto.nato.int">[NATO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sto.nato.int</span><span class="citation-popover-snippet">NATO StoreHigh Power Microwave Threat to Infrastructure and Military...The present report describes the joint efforts and findings of th...</span></span></span>
+High-power microwave systems interact with the electromagnetic environment in ways that are often difficult to predict precisely. Buildings, vehicles, fences, aircraft, antennas, power lines, and even terrain can reflect or channel energy. A radio that functions normally during a controlled trial may experience unexpected interference when mounted on a vehicle parked near a metal structure. Likewise, a sensor protected in laboratory conditions may become vulnerable when connected to operational cabling or external antennas. NATO research programmes examining HPM threats have specifically emphasised moving beyond laboratory analysis into realistic tactical scenarios because operational environments reveal effects that controlled testing can miss.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sto.nato.int/document/high-power-microwave-threat-to-infrastructure-and-military-equipment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sto.nato.int">[NATO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sto.nato.int</span><span class="citation-popover-snippet">NATO StoreHigh Power Microwave Threat to Infrastructure and Military...The present report describes the joint efforts and findings of th...</span></span></span>
 
-A major challenge is electromagnetic coupling. Microwave energy does not need to strike a circuit board directly to create problems. Energy can enter through antennas, wiring harnesses, power cables, communication links, seams in enclosures, or other pathways. Small differences in installation can therefore produce very different outcomes. The same vehicle type may exhibit different susceptibility depending on modifications, antenna placement, maintenance history, or installed mission equipment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/4229403_Research_on_high_power_microwave_weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Electronics For You]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Research on high power microwave weaponsThis structured narrative review analyses how High-Power Microwave (HPM) Direct...</span></span></span>
+A major challenge is electromagnetic coupling. Microwave energy does not need to strike a circuit board directly to create problems. Energy can enter through antennas, wiring harnesses, power cables, communication links, seams in enclosures, or other pathways. Small differences in installation can therefore produce very different outcomes. The same vehicle type may exhibit different susceptibility depending on modifications, antenna placement, maintenance history, or installed mission equipment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/4229403_Research_on_high_power_microwave_weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Electronics For You]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Research on high power microwave weaponsThis structured narrative review analyses how High-Power Microwave (HPM) Direct...</span></span></span>
 
-This is why military electromagnetic compatibility standards and protection programmes focus not merely on equipment design but also on integration and operational configuration. A system that passes component-level testing may still require additional evaluation once it is installed on a platform or integrated into a larger network. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.waru.edu/sites/default/files/Migrated/CopDocuments/MIL-STD-464D.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waru.edu">[Waru University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waru.edu</span><span class="citation-popover-title">MIL STD 464D</span><span class="citation-popover-snippet">Waru UniversityMIL-STD-464D1 Dec 2010 — High power microwave (HPM).... ships is in proximity to high-power HF antennas and the ordnance...</span></span></span>
+This is why military electromagnetic compatibility standards and protection programmes focus not merely on equipment design but also on integration and operational configuration. A system that passes component-level testing may still require additional evaluation once it is installed on a platform or integrated into a larger network.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.waru.edu/sites/default/files/Migrated/CopDocuments/MIL-STD-464D.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waru.edu">[Waru University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waru.edu</span><span class="citation-popover-title">MIL STD 464D</span><span class="citation-popover-snippet">Waru UniversityMIL-STD-464D1 Dec 2010 — High power microwave (HPM).... ships is in proximity to high-power HF antennas and the ordnance...</span></span></span>
 
 ## Testing Friendly Radios, Vehicles and Sensors
 
@@ -314,7 +314,7 @@ The most important field-testing question is not whether an individual device su
 
 ### Communications Systems
 
-Radios are often among the first systems evaluated because they contain antennas deliberately designed to receive electromagnetic energy. Testing typically examines whether communications are interrupted, degraded, reset, or permanently damaged at different power levels and engagement angles. Even temporary communication loss may be operationally unacceptable during air defence or [counter-drone]({{ 'missile-savings/' | relative_url }}) operations. HPM developers and military researchers routinely identify radios among the electronic systems most susceptible to microwave effects because antennas can provide efficient entry paths for energy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psicorp.com/products/electricity-and-magnetism/high-power-microwaves/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psicorp.com">[Physical Sciences Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psicorp.com</span><span class="citation-popover-snippet">Physical Sciences Inc.High-Power MicrowavesHigh-Power Microwaves PSI develops high-power microwave directed energy weapon systems, antenn...</span></span></span>
+Radios are often among the first systems evaluated because they contain antennas deliberately designed to receive electromagnetic energy. Testing typically examines whether communications are interrupted, degraded, reset, or permanently damaged at different power levels and engagement angles. Even temporary communication loss may be operationally unacceptable during air defence or [counter-drone]({{ 'missile-savings/' | relative_url }}) operations. HPM developers and military researchers routinely identify radios among the electronic systems most susceptible to microwave effects because antennas can provide efficient entry paths for energy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psicorp.com/products/electricity-and-magnetism/high-power-microwaves/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psicorp.com">[Physical Sciences Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psicorp.com</span><span class="citation-popover-snippet">Physical Sciences Inc.High-Power MicrowavesHigh-Power Microwaves PSI develops high-power microwave directed energy weapon systems, antenn...</span></span></span>
 
 Field evaluations therefore look beyond simple equipment survival. They measure message completion rates, network reliability, voice quality, data-link stability, and recovery time after exposure.
 
@@ -340,19 +340,19 @@ Testing commonly places vehicles in realistic operational layouts and exposes th
 
 </div>
 
-Research organisations working on HPM effects have highlighted the importance of testing complete [platforms]({{ 'platforms/' | relative_url }}) because interactions between subsystems can create vulnerabilities not visible when components are evaluated separately. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sto.nato.int/document/high-power-microwave-threat-to-infrastructure-and-military-equipment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sto.nato.int">[NATO Store+2Fraunhofer Publica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sto.nato.int</span><span class="citation-popover-snippet">NATO StoreHigh Power Microwave Threat to Infrastructure and Military...The present report describes the joint efforts and findings of th...</span></span></span>
+Research organisations working on HPM effects have highlighted the importance of testing complete [platforms]({{ 'platforms/' | relative_url }}) because interactions between subsystems can create vulnerabilities not visible when components are evaluated separately.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sto.nato.int/document/high-power-microwave-threat-to-infrastructure-and-military-equipment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sto.nato.int">[NATO Store+2Fraunhofer Publica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sto.nato.int</span><span class="citation-popover-snippet">NATO StoreHigh Power Microwave Threat to Infrastructure and Military...The present report describes the joint efforts and findings of th...</span></span></span>
 
 ### Sensors and Air Defence Networks
 
 Counter-drone operations often rely on radars, electro-optical sensors, electronic-support systems, and command networks. Ironically, these can be located close to the microwave weapon itself.
 
-Testing therefore examines whether friendly surveillance assets continue functioning during and after engagements. Engineers assess detection range, track quality, false alarms, calibration drift, and network synchronisation. The objective is to ensure that a weapon intended to protect an air-defence system does not degrade the sensors required to operate that system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — These weapons include high energy lasers and other high power electroma...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+Testing therefore examines whether friendly surveillance assets continue functioning during and after engagements. Engineers assess detection range, track quality, false alarms, calibration drift, and network synchronisation. The objective is to ensure that a weapon intended to protect an air-defence system does not degrade the sensors required to operate that system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — These weapons include high energy lasers and other high power electroma...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_friendly_elec_febf66-Illustration-2-dark.svg" | relative_url }}" alt="Field Testing illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_friendly_elec_febf66-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_friendly_elec_febf66-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Medical and Support Equipment
 
-Military bases and ships increasingly contain sophisticated medical electronics and support infrastructure. Although these devices are not the primary focus of combat-system testing, they cannot be ignored. Electromagnetic compatibility assessments frequently include sensitive support equipment because mission success depends on more than combat systems alone. A deployment area may contain medical monitors, communications hubs, power-management equipment, or other electronics whose disruption would create secondary operational risks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.waru.edu/sites/default/files/Migrated/CopDocuments/MIL-STD-464D.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waru.edu">[Waru University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waru.edu</span><span class="citation-popover-title">MIL STD 464D</span><span class="citation-popover-snippet">Waru UniversityMIL-STD-464D1 Dec 2010 — High power microwave (HPM).... ships is in proximity to high-power HF antennas and the ordnance...</span></span></span>
+Military bases and ships increasingly contain sophisticated medical electronics and support infrastructure. Although these devices are not the primary focus of combat-system testing, they cannot be ignored. Electromagnetic compatibility assessments frequently include sensitive support equipment because mission success depends on more than combat systems alone. A deployment area may contain medical monitors, communications hubs, power-management equipment, or other electronics whose disruption would create secondary operational risks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.waru.edu/sites/default/files/Migrated/CopDocuments/MIL-STD-464D.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waru.edu">[Waru University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waru.edu</span><span class="citation-popover-title">MIL STD 464D</span><span class="citation-popover-snippet">Waru UniversityMIL-STD-464D1 Dec 2010 — High power microwave (HPM).... ships is in proximity to high-power HF antennas and the ordnance...</span></span></span>
 
 ## What Realistic Field Trials Actually Measure
 
@@ -370,9 +370,9 @@ A comprehensive trial typically gathers evidence across several categories:
 
 **Environmental effects.** Tests examine how weather, structures, terrain, and nearby equipment alter outcomes.
 
-**Operational workload.** Human operators are evaluated as well. A technically survivable system may still create unacceptable workload if crews must repeatedly reset or reconfigure equipment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publica.fraunhofer.de/bitstreams/5781f3af-7dee-4d17-9cf2-438cb2396eb3/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publica.fraunhofer.de">[Fraunhofer Publica+2NATO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publica.fraunhofer.de</span><span class="citation-popover-snippet">Fraunhofer PublicaThe Threat of High Power Microwaves to Infrastructureby M Suhrke · Cited by 1 — ▫ Address the use of high power microwa...</span></span></span>
+**Operational workload.** Human operators are evaluated as well. A technically survivable system may still create unacceptable workload if crews must repeatedly reset or reconfigure equipment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publica.fraunhofer.de/bitstreams/5781f3af-7dee-4d17-9cf2-438cb2396eb3/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publica.fraunhofer.de">[Fraunhofer Publica+2NATO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publica.fraunhofer.de</span><span class="citation-popover-snippet">Fraunhofer PublicaThe Threat of High Power Microwaves to Infrastructureby M Suhrke · Cited by 1 — ▫ Address the use of high power microwa...</span></span></span>
 
-Evidence from electromagnetic-effects programmes repeatedly shows that real-world configurations matter. For that reason, NATO studies investigating HPM threats have stressed joint trials and tactical scenarios rather than relying solely on analytical modelling or laboratory measurements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sto.nato.int/document/high-power-microwave-threat-to-infrastructure-and-military-equipment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sto.nato.int">[NATO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sto.nato.int</span><span class="citation-popover-snippet">NATO StoreHigh Power Microwave Threat to Infrastructure and Military...The present report describes the joint efforts and findings of th...</span></span></span>
+Evidence from electromagnetic-effects programmes repeatedly shows that real-world configurations matter. For that reason, NATO studies investigating HPM threats have stressed joint trials and tactical scenarios rather than relying solely on analytical modelling or laboratory measurements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sto.nato.int/document/high-power-microwave-threat-to-infrastructure-and-military-equipment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sto.nato.int">[NATO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sto.nato.int</span><span class="citation-popover-snippet">NATO StoreHigh Power Microwave Threat to Infrastructure and Military...The present report describes the joint efforts and findings of th...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JGzL3fZgPZY" title="Laser and Microwave Weapons - Directed-Energy Weapon Programs, Potential, and Issues" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JGzL3fZgPZY" target="_blank" rel="noopener noreferrer">Laser and Microwave Weapons - Directed-Energy Weapon Programs, Potential, and Issues</a></p><p class="youtube-embed-meta">Channel: Perun</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JGzL3fZgPZY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JGzL3fZgPZY">Open on YouTube</a></p></div></div></div>
@@ -381,7 +381,7 @@ Evidence from electromagnetic-effects programmes repeatedly shows that real-worl
 
 The purpose of field testing is not simply to identify vulnerabilities. It is to establish practical operating [limits]({{ 'limits/' | relative_url }}).
 
-Once susceptibility data are collected, planners can define safe separation distances between microwave weapons and friendly assets. Commanders can identify which systems require additional shielding, relocation, or procedural protection. Testing may also reveal that certain equipment should be switched to protected modes during engagements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sto.nato.int/document/high-power-microwave-threat-to-infrastructure-and-military-equipment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sto.nato.int">[NATO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sto.nato.int</span><span class="citation-popover-snippet">NATO StoreHigh Power Microwave Threat to Infrastructure and Military...The present report describes the joint efforts and findings of th...</span></span></span>
+Once susceptibility data are collected, planners can define safe separation distances between microwave weapons and friendly assets. Commanders can identify which systems require additional shielding, relocation, or procedural protection. Testing may also reveal that certain equipment should be switched to protected modes during engagements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sto.nato.int/document/high-power-microwave-threat-to-infrastructure-and-military-equipment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sto.nato.int">[NATO Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sto.nato.int</span><span class="citation-popover-snippet">NATO StoreHigh Power Microwave Threat to Infrastructure and Military...The present report describes the joint efforts and findings of th...</span></span></span>
 
 The resulting operational guidance often takes the form of firing restrictions and electromagnetic safety zones. Examples include:
 
@@ -396,7 +396,7 @@ The resulting operational guidance often takes the form of firing restrictions a
 
 </div>
 
-Such measures reflect a fundamental reality of HPM weapons: the same wide-area effect that makes them attractive against drone swarms can also create risk for nearby friendly systems. Government assessments of directed energy weapons have repeatedly noted that wider-beam systems may affect assets in an area regardless of whether they are friendly or hostile, making disciplined operational controls essential. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — These weapons include high energy lasers and other high power electroma...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+Such measures reflect a fundamental reality of HPM weapons: the same wide-area effect that makes them attractive against drone swarms can also create risk for nearby friendly systems. Government assessments of directed energy weapons have repeatedly noted that wider-beam systems may affect assets in an area regardless of whether they are friendly or hostile, making disciplined operational controls essential.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — These weapons include high energy lasers and other high power electroma...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_friendly_elec_febf66-Illustration-3-dark.svg" | relative_url }}" alt="Field Testing illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_friendly_elec_febf66-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_friendly_elec_febf66-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -404,201 +404,201 @@ Such measures reflect a fundamental reality of HPM weapons: the same wide-area e
 
 The strongest lesson from available testing and electromagnetic-effects research is that friendly-system safety cannot be inferred from weapon performance alone. A microwave weapon may successfully defeat drones on a test range yet still present unacceptable operational risks when deployed among real communications networks, vehicles, sensors, and infrastructure.
 
-Because microwave interactions depend on geometry, installation details, shielding, and the surrounding environment, realistic field trials remain indispensable. They provide the evidence needed to determine not only whether the weapon works, but whether it can be used without undermining the very systems it is meant to protect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sto.nato.int/document/high-power-microwave-threat-to-infrastructure-and-military-equipment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sto.nato.int">[GAO+3NATO Store+3Fraunhofer Publica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sto.nato.int</span><span class="citation-popover-snippet">NATO StoreHigh Power Microwave Threat to Infrastructure and Military...The present report describes the joint efforts and findings of th...</span></span></span>
+Because microwave interactions depend on geometry, installation details, shielding, and the surrounding environment, realistic field trials remain indispensable. They provide the evidence needed to determine not only whether the weapon works, but whether it can be used without undermining the very systems it is meant to protect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sto.nato.int/document/high-power-microwave-threat-to-infrastructure-and-military-equipment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sto.nato.int">[GAO+3NATO Store+3Fraunhofer Publica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sto.nato.int</span><span class="citation-popover-snippet">NATO StoreHigh Power Microwave Threat to Infrastructure and Military...The present report describes the joint efforts and findings of th...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Fd7vm-YZqXY" title="Exploring Directed Energy Weapons and the Implications of Their Use Under International Law ⚡🌐⚖" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Fd7vm-YZqXY" target="_blank" rel="noopener noreferrer">Exploring Directed Energy Weapons and the Implications of Their Use Under International Law ⚡🌐⚖</a></p><p class="youtube-embed-meta">Channel: United Nations Institute for Disarmament Research</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Fd7vm-YZqXY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Fd7vm-YZqXY">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Safe on the Range May Fail in the Field. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Safe on the Range May Fail in the Field. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=EMC+for+product+designers+Tim+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open EMC for product designers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/493540-M.jpg" alt="Cover for EMC for product designers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=EMC+for+product+designers+Tim+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="EMC for product designers">EMC for product designers</a>
-        </h4>
-        <p class="fr-book-author">By Tim Williams</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=EMC+for+product+designers+Tim+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open EMC for product designers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/493540-M.jpg" alt="Cover for EMC for product designers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=EMC+for+product+designers+Tim+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="EMC for product designers">EMC for product designers</a>
+</h4>
+<p class="fr-book-author">By Tim Williams</p>
         
-        <p class="fr-book-desc">First published 1992. Subjects: Standards, Electromagnetic compatibility, Electronic apparatus and appliances, Electric apparatus and app...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=EMC+for+product+designers+Tim+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1992. Subjects: Standards, Electromagnetic compatibility, Electronic apparatus and appliances, Electric apparatus and app...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=EMC+for+product+designers+Tim+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+electromagnetic+compatibility+Clayton+R.+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to electromagnetic compatibility on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1250642-M.jpg" alt="Cover for Introduction to electromagnetic compatibility" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+electromagnetic+compatibility+Clayton+R.+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to electromagnetic compatibility">Introduction to electromagnetic compatibility</a>
-        </h4>
-        <p class="fr-book-author">By Clayton R. Paul</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+electromagnetic+compatibility+Clayton+R.+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to electromagnetic compatibility on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1250642-M.jpg" alt="Cover for Introduction to electromagnetic compatibility" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+electromagnetic+compatibility+Clayton+R.+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to electromagnetic compatibility">Introduction to electromagnetic compatibility</a>
+</h4>
+<p class="fr-book-author">By Clayton R. Paul</p>
         
-        <p class="fr-book-desc">First published 1992. Subjects: Electronic circuits, Digital electronics, Noise, Shielding (Electricity), Electromagnetic compatibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+electromagnetic+compatibility+Clayton+R.+Paul&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1992. Subjects: Electronic circuits, Digital electronics, Noise, Shielding (Electricity), Electromagnetic compatibility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+electromagnetic+compatibility+Clayton+R.+Paul&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Wars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13717341-M.jpg" alt="Cover for Drone Wars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Wars">Drone Wars</a>
-        </h4>
-        <p class="fr-book-author">By Seth J. Frantzman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Wars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13717341-M.jpg" alt="Cover for Drone Wars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Wars">Drone Wars</a>
+</h4>
+<p class="fr-book-author">By Seth J. Frantzman</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Military art and science.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Military art and science.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Lasers%2C+Death+Rays%2C+and+the+Long%2C+Strange+Quest+for+the+Ultimate+Weapon+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lasers, Death Rays, and the Long, Strange Quest for the Ultimate Weapon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lasers%2C+Death+Rays%2C+and+the+Long%2C+Strange+Quest+for+the+Ultimate+Weapon+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lasers, Death Rays, and the Long, Strange Quest for the Ultimate Weapon">Lasers, Death Rays, and the Long, Strange Quest for the Ultim...</a>
-        </h4>
-        <p class="fr-book-author">By Jeff Hecht</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Lasers%2C+Death+Rays%2C+and+the+Long%2C+Strange+Quest+for+the+Ultimate+Weapon+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lasers, Death Rays, and the Long, Strange Quest for the Ultimate Weapon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lasers%2C+Death+Rays%2C+and+the+Long%2C+Strange+Quest+for+the+Ultimate+Weapon+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lasers, Death Rays, and the Long, Strange Quest for the Ultimate Weapon">Lasers, Death Rays, and the Long, Strange Quest for the Ultim...</a>
+</h4>
+<p class="fr-book-author">By Jeff Hecht</p>
         
-        <p class="fr-book-desc">First published 2019. Subjects: Military weapons, Laser weapons, History, Design and construction, Military.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lasers%2C+Death+Rays%2C+and+the+Long%2C+Strange+Quest+for+the+Ultimate+Weapon+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019. Subjects: Military weapons, Laser weapons, History, Design and construction, Military.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lasers%2C+Death+Rays%2C+and+the+Long%2C+Strange+Quest+for+the+Ultimate+Weapon+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=EMC+for+product+designers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">EMC for product designers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+electromagnetic+compatibility+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to electromagnetic compatibility books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Wars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Wars</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=EMC+for+product+designers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">EMC for product designers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+electromagnetic+compatibility+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to electromagnetic compatibility books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Wars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Wars</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Drone UAV&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049381)"><img src="{{ '/assets/images/marketplace-covers/e78a62d502e4d0830aa0.jpg' | relative_url }}" alt="Listing image for &#x27;Drone UAV&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049381)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Drone UAV&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049381)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Drone UAV&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049381)"><img src="{{ '/assets/images/marketplace-covers/e78a62d502e4d0830aa0.jpg' | relative_url }}" alt="Listing image for &#x27;Drone UAV&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049381)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">&#x27;Drone UAV&#x27; Wall Art Poster Print - Unframed Artwork for Home Decor (PP049381)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for drone UAVs vehicle military aircraft American text MQ 9 Reaper top 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/d6f151bc20330af852ca.jpg' | relative_url }}" alt="Listing image for drone UAVs vehicle military aircraft American text MQ 9 Reaper top 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">drone UAVs vehicle military aircraft American text MQ 9 Reaper top 11x17 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for drone UAVs vehicle military aircraft American text MQ 9 Reaper top 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/d6f151bc20330af852ca.jpg' | relative_url }}" alt="Listing image for drone UAVs vehicle military aircraft American text MQ 9 Reaper top 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">drone UAVs vehicle military aircraft American text MQ 9 Reaper top 11x17 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for airplane UAVs drone military aircraft vehicle MQ 9 Reaper 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/5a9926f4f7c65f754a16.jpg' | relative_url }}" alt="Listing image for airplane UAVs drone military aircraft vehicle MQ 9 Reaper 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">airplane UAVs drone military aircraft vehicle MQ 9 Reaper 11x17 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for airplane UAVs drone military aircraft vehicle MQ 9 Reaper 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/5a9926f4f7c65f754a16.jpg' | relative_url }}" alt="Listing image for airplane UAVs drone military aircraft vehicle MQ 9 Reaper 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">airplane UAVs drone military aircraft vehicle MQ 9 Reaper 11x17 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/d9531a5d69a4b2b40398.jpg' | relative_url }}" alt="Listing image for Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/d9531a5d69a4b2b40398.jpg' | relative_url }}" alt="Listing image for Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">Israel Defense Forces vehicle aircraft military drone UAVs 11x17 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone defense poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone defense poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+defense+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone defense poster" data-ebay-reference="field-testing-why-safe-on-the-range-may-fail-in-the-field-directed-ener-drone-defense-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -614,7 +614,7 @@ Because microwave interactions depend on geometry, installation details, shieldi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -634,7 +634,7 @@ Because microwave interactions depend on geometry, installation details, shieldi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -666,7 +666,7 @@ Because microwave interactions depend on geometry, installation details, shieldi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -718,7 +718,7 @@ Because microwave interactions depend on geometry, installation details, shieldi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -763,7 +763,7 @@ Because microwave interactions depend on geometry, installation details, shieldi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -804,132 +804,132 @@ Because microwave interactions depend on geometry, installation details, shieldi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gao.gov  
    Title: gao 23 106717  
-   Link: <a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — These weapons include high energy [lasers](&amp;#123;&amp;#123; &#x27;lasers/&#x27; | relative_url &amp;#125;&amp;#125;) and other high power electroma...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — These weapons include high energy [lasers](&amp;#123;&amp;#123; &#x27;lasers/&#x27; | relative_url &amp;#125;&amp;#125;) and other high power electroma...</p></details>
    Published: May 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sto.nato.int  
-   Link: <a href="https://www.sto.nato.int/document/high-power-microwave-threat-to-infrastructure-and-military-equipment/" target="_blank" rel="noopener noreferrer nofollow">https://www.sto.nato.int/document/high-power-microwave-threat-to-infrastructure-and-military-equipment/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NATO StoreHigh Power Microwave Threat to Infrastructure and Military...The present report describes the joint efforts and findings of th...</p></details>
+   Link:<a href="https://www.sto.nato.int/document/high-power-microwave-threat-to-infrastructure-and-military-equipment/" target="_blank" rel="noopener noreferrer nofollow">https://www.sto.nato.int/document/high-power-microwave-threat-to-infrastructure-and-military-equipment/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NATO StoreHigh Power Microwave Threat to Infrastructure and Military...The present report describes the joint efforts and findings of th...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: publica.fraunhofer.de  
-   Link: <a href="https://publica.fraunhofer.de/bitstreams/5781f3af-7dee-4d17-9cf2-438cb2396eb3/download" target="_blank" rel="noopener noreferrer nofollow">https://publica.fraunhofer.de/bitstreams/5781f3af-7dee-4d17-9cf2-438cb2396eb3/download</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fraunhofer PublicaThe Threat of High Power Microwaves to Infrastructureby M Suhrke · Cited by 1 — ▫ Address the use of high power microwa...</p></details>
+   Link:<a href="https://publica.fraunhofer.de/bitstreams/5781f3af-7dee-4d17-9cf2-438cb2396eb3/download" target="_blank" rel="noopener noreferrer nofollow">https://publica.fraunhofer.de/bitstreams/5781f3af-7dee-4d17-9cf2-438cb2396eb3/download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fraunhofer PublicaThe Threat of High Power Microwaves to Infrastructureby M Suhrke · Cited by 1 — ▫ Address the use of high power microwa...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/4229403_Research_on_high_power_microwave_weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/4229403_Research_on_high_power_microwave_weapons</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Research on high power microwave weaponsThis structured narrative review analyses how High-Power Microwave (HPM) Direct...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/4229403_Research_on_high_power_microwave_weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/4229403_Research_on_high_power_microwave_weapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Research on high power microwave weaponsThis structured narrative review analyses how High-Power Microwave (HPM) Direct...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: waru.edu  
    Title: MIL STD 464D  
-   Link: <a href="https://www.waru.edu/sites/default/files/Migrated/CopDocuments/MIL-STD-464D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.waru.edu/sites/default/files/Migrated/CopDocuments/MIL-STD-464D.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Waru UniversityMIL-STD-464D1 Dec 2010 — High power microwave (HPM).... ships is in proximity to high-power HF antennas and the ordnance...</p></details>
+   Link:<a href="https://www.waru.edu/sites/default/files/Migrated/CopDocuments/MIL-STD-464D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.waru.edu/sites/default/files/Migrated/CopDocuments/MIL-STD-464D.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Waru UniversityMIL-STD-464D1 Dec 2010 — High power microwave (HPM).... ships is in proximity to high-power HF antennas and the ordnance...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
    Title: 374165879 Military Applications of High Power Microwaves  
-   Link: <a href="https://www.researchgate.net/publication/374165879_Military_Applications_of_High-Power_Microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374165879_Military_Applications_of_High-Power_Microwaves</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Military Applications of High-Power Microwaves25 Sept 2023 — The report contains a survey of High Power Microwave devices including...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/374165879_Military_Applications_of_High-Power_Microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374165879_Military_Applications_of_High-Power_Microwaves</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Military Applications of High-Power Microwaves25 Sept 2023 — The report contains a survey of High Power Microwave devices including...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: gao.gov  
    Title: gao 23 105868  
-   Link: <a href="https://www.gao.gov/products/gao-23-105868" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-105868</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons: DOD Should Focus on...Apr 17, 2023 — The Department of Defense (DOD) is currently developing directed energy we...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-23-105868" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-105868</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons: DOD Should Focus on...Apr 17, 2023 — The Department of Defense (DOD) is currently developing directed energy we...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons DOD Should Focus on Transition...DOD spends about $1 billion annually on directed energy--concentrated electroma...</p></details>
+   Link:<a href="https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/video/directed-energy-weapons-dod-should-focus-transition-planning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons DOD Should Focus on Transition...DOD spends about $1 billion annually on directed energy--concentrated electroma...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: electronicsforu.com  
    Title: directed energy weapons high power microwaves  
-   Link: <a href="https://www.electronicsforu.com/market-verticals/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.electronicsforu.com/market-verticals/directed-energy-weapons-high-power-microwaves</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Electronics For YouDirected Energy Weapons: High Power Microwaves4 Oct 2016 — The weapon is designed to disrupt, degrade or destroy elect...</p></details>
+   Link:<a href="https://www.electronicsforu.com/market-verticals/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.electronicsforu.com/market-verticals/directed-energy-weapons-high-power-microwaves</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Electronics For YouDirected Energy Weapons: High Power Microwaves4 Oct 2016 — The weapon is designed to disrupt, degrade or destroy elect...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: psicorp.com  
-   Link: <a href="https://www.psicorp.com/products/electricity-and-magnetism/high-power-microwaves/" target="_blank" rel="noopener noreferrer nofollow">https://www.psicorp.com/products/electricity-and-magnetism/high-power-microwaves/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Physical Sciences Inc.High-Power MicrowavesHigh-Power Microwaves PSI develops high-power microwave directed energy weapon systems, antenn...</p></details>
+   Link:<a href="https://www.psicorp.com/products/electricity-and-magnetism/high-power-microwaves/" target="_blank" rel="noopener noreferrer nofollow">https://www.psicorp.com/products/electricity-and-magnetism/high-power-microwaves/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Physical Sciences Inc.High-Power MicrowavesHigh-Power Microwaves PSI develops high-power microwave directed energy weapon systems, antenn...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: publicationsdrdo.in  
-   Link: <a href="https://publicationsdrdo.in/index.php/dsj/article/download/21114/8787/92344" target="_blank" rel="noopener noreferrer nofollow">https://publicationsdrdo.in/index.php/dsj/article/download/21114/8787/92344</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(DEWs) may shape modern warfare as militaries...</p></details>
+   Link:<a href="https://publicationsdrdo.in/index.php/dsj/article/download/21114/8787/92344" target="_blank" rel="noopener noreferrer nofollow">https://publicationsdrdo.in/index.php/dsj/article/download/21114/8787/92344</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(DEWs) may shape modern warfare as militaries...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.gc.ca  
    Title: directed energy weapons  
-   Link: <a href="https://science.gc.ca/site/science/en/safeguarding-your-research/guidelines-and-tools-implement-research-security/emerging-technology-trend-cards/directed-energy-weapons" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/safeguarding-your-research/guidelines-and-tools-implement-research-security/emerging-technology-trend-cards/directed-energy-weapons</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Feb 2025 — Directed energy weapons (DEWs) use concentrated energy from electromagnetic or particle technology, rather than kinetic ene...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/safeguarding-your-research/guidelines-and-tools-implement-research-security/emerging-technology-trend-cards/directed-energy-weapons" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/safeguarding-your-research/guidelines-and-tools-implement-research-security/emerging-technology-trend-cards/directed-energy-weapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>11 Feb 2025 — Directed energy weapons (DEWs) use concentrated energy from electromagnetic or particle technology, rather than kinetic ene...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: yadda.icm.edu.pl  
    Title: 7 14 4 str.59 82 Karcz v5  
-   Link: <a href="https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-7d56ca3f-fdd6-4f29-ab54-be4e63e9d894/c/7_14_4_str.59-82_Karcz-v5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-7d56ca3f-fdd6-4f29-ab54-be4e63e9d894/c/7_14_4_str.59-82_Karcz-v5.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tests using this generator...</p></details>
+   Link:<a href="https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-7d56ca3f-fdd6-4f29-ab54-be4e63e9d894/c/7_14_4_str.59-82_Karcz-v5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-7d56ca3f-fdd6-4f29-ab54-be4e63e9d894/c/7_14_4_str.59-82_Karcz-v5.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tests using this generator...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: onr.navy.mil  
-   Link: <a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spectrum of radio and microwave freq...</p></details>
+   Link:<a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-microwaves</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spectrum of radio and microwave freq...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X1toVupe_R8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Directed Energy Weapons SystemsThe Government Accountability Office explains what are Directed Energy Weapons and takes a look at ho...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X1toVupe_R8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Directed Energy Weapons SystemsThe Government Accountability Office explains what are Directed Energy Weapons and takes a look at ho...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: phr.org  
    Title: health impacts of crowd control weapons directed energy devices  
-   Link: <a href="https://phr.org/our-work/resources/health-impacts-of-crowd-control-weapons-directed-energy-devices/" target="_blank" rel="noopener noreferrer nofollow">https://phr.org/our-work/resources/health-impacts-of-crowd-control-weapons-directed-energy-devices/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Health Impacts of Crowd-Control Weapons: Directed...28 Oct 2020 — This technology delivers very high-frequency millimeter-[wavelength](&amp;#123;&amp;#123; &#x27;wavelengths/&#x27; | relative_url &amp;#125;&amp;#125;) ele...</p></details>
+   Link:<a href="https://phr.org/our-work/resources/health-impacts-of-crowd-control-weapons-directed-energy-devices/" target="_blank" rel="noopener noreferrer nofollow">https://phr.org/our-work/resources/health-impacts-of-crowd-control-weapons-directed-energy-devices/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Health Impacts of Crowd-Control Weapons: Directed...28 Oct 2020 — This technology delivers very high-frequency millimeter-[wavelength](&amp;#123;&amp;#123; &#x27;wavelengths/&#x27; | relative_url &amp;#125;&amp;#125;) ele...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: inzpire.com  
    Title: high power microwaves more than just a hot lunch  
-   Link: <a href="https://www.inzpire.com/news/high-power-microwaves-more-than-just-a-hot-lunch" target="_blank" rel="noopener noreferrer nofollow">https://www.inzpire.com/news/high-power-microwaves-more-than-just-a-hot-lunch</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>High power microwaves – more than just a hot lunch!3 Mar 2025 — Non-lethal effects: HPMs can disable enemy systems without causing direct...</p></details>
+   Link:<a href="https://www.inzpire.com/news/high-power-microwaves-more-than-just-a-hot-lunch" target="_blank" rel="noopener noreferrer nofollow">https://www.inzpire.com/news/high-power-microwaves-more-than-just-a-hot-lunch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High power microwaves – more than just a hot lunch!3 Mar 2025 — Non-lethal effects: HPMs can disable enemy systems without causing direct...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ndupress.ndu.edu  
    Title: directed energy weapons are real and disruptive  
-   Link: <a href="https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2053280/directed-energy-weapons-are-real-and-disruptive/" target="_blank" rel="noopener noreferrer nofollow">https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2053280/directed-energy-weapons-are-real-and-disruptive/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>And DisruptiveJan 9, 2020 — This concentrated energy can have effects across the entire spectrum from non-lethal to lethal. For example...</p></details>
+   Link:<a href="https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2053280/directed-energy-weapons-are-real-and-disruptive/" target="_blank" rel="noopener noreferrer nofollow">https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2053280/directed-energy-weapons-are-real-and-disruptive/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>And DisruptiveJan 9, 2020 — This concentrated energy can have effects across the entire spectrum from non-lethal to lethal. For example...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/930540941927100/posts/1258521139129077/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/930540941927100/posts/1258521139129077/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>that can fire over 10,000 rounds without failure, marking a...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/930540941927100/posts/1258521139129077/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/930540941927100/posts/1258521139129077/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>that can fire over 10,000 rounds without failure, marking a...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: fccdecastro.com.br  
-   Link: <a href="https://www.fccdecastro.com.br/pdf/HPM2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fccdecastro.com.br/pdf/HPM2.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>l is quoted with permission, and sources are indicated...</p></details>
+   Link:<a href="https://www.fccdecastro.com.br/pdf/HPM2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fccdecastro.com.br/pdf/HPM2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>l is quoted with permission, and sources are indicated...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: scoop.market.us  
    Title: directed energy weapons statistics  
-   Link: <a href="https://scoop.market.us/directed-energy-weapons-statistics/" target="_blank" rel="noopener noreferrer nofollow">https://scoop.market.us/directed-energy-weapons-statistics/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Energy Weapons Statistics and Facts (2026)DEWs are advanced military systems that use focused energy, such as lasers, microwaves, or part...</p></details>
+   Link:<a href="https://scoop.market.us/directed-energy-weapons-statistics/" target="_blank" rel="noopener noreferrer nofollow">https://scoop.market.us/directed-energy-weapons-statistics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Energy Weapons Statistics and Facts (2026)DEWs are advanced military systems that use focused energy, such as lasers, microwaves, or part...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: sentrycs.com  
-   Link: <a href="https://sentrycs.com/glossary/directed-energy-weapons-dew/" target="_blank" rel="noopener noreferrer nofollow">https://sentrycs.com/glossary/directed-energy-weapons-dew/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ork in C-UAS operations and their limitations...</p></details>
+   Link:<a href="https://sentrycs.com/glossary/directed-energy-weapons-dew/" target="_blank" rel="noopener noreferrer nofollow">https://sentrycs.com/glossary/directed-energy-weapons-dew/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ork in C-UAS operations and their limitations...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: eeworldonline.com  
    Title: How can EMI be weaponized?  
-   Link: <a href="https://www.eeworldonline.com/?p=514033" target="_blank" rel="noopener noreferrer nofollow">https://www.eeworldonline.com/?p=514033</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EE World Online3 Jan 2025 — Discover the impact of EMI on electronic systems and how it can be weaponized in high-power microwave (HPM) t...</p></details>
+   Link:<a href="https://www.eeworldonline.com/?p=514033" target="_blank" rel="noopener noreferrer nofollow">https://www.eeworldonline.com/?p=514033</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EE World Online3 Jan 2025 — Discover the impact of EMI on electronic systems and how it can be weaponized in high-power microwave (HPM) t...</p></details>

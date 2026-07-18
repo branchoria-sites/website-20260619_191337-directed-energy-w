@@ -269,7 +269,7 @@ image: /assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_hebrides_tria_50
 
 ## Introduction
 
-The Hebrides Range trials demonstrated that DragonFire could track, engage and destroy aerial targets with a high-power laser. That was a significant technical milestone, but it did not prove that the system is ready to perform across the full range of combat conditions expected in modern warfare. Publicly released information confirmed successful engagements and exceptional aiming precision, yet many of the variables that determine [battlefield]({{ 'battle-limits/' | relative_url }}) effectiveness remain either classified or untested in the open record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</span></span></span>
+The Hebrides Range trials demonstrated that DragonFire could track, engage and destroy aerial targets with a high-power laser. That was a significant technical milestone, but it did not prove that the system is ready to perform across the full range of combat conditions expected in modern warfare. Publicly released information confirmed successful engagements and exceptional aiming precision, yet many of the variables that determine [battlefield]({{ 'battle-limits/' | relative_url }}) effectiveness remain either classified or untested in the open record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_hebrides_tria_50ba62_hebrides_unan_211fac-Illustration-1-dark.svg" | relative_url }}" alt="Open Questions illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_hebrides_tria_50ba62_hebrides_unan_211fac-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_hebrides_tria_50ba62_hebrides_unan_211fac-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -277,7 +277,7 @@ This distinction matters because directed-energy weapons are often constrained l
 
 ## Classified Range and Target Details
 
-One of the most important unanswered questions concerns engagement range. The Ministry of Defence has repeatedly stated that DragonFire's range remains classified. Officials have only disclosed that it is a line-of-sight weapon capable of engaging [visible targets]({{ 'visible-targets/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</span></span></span>
+One of the most important unanswered questions concerns engagement range. The Ministry of Defence has repeatedly stated that DragonFire's range remains classified. Officials have only disclosed that it is a line-of-sight weapon capable of engaging [visible targets]({{ 'visible-targets/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</span></span></span>
 
 That leaves several operationally significant unknowns:
 
@@ -291,7 +291,7 @@ That leaves several operationally significant unknowns:
 
 </div>
 
-Public announcements from the [Hebrides trials]({{ 'hebrides-trials/' | relative_url }}) confirmed that aerial targets were successfully engaged, but they did not identify the exact target sizes, materials, approach angles or vulnerability points involved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</span></span></span>
+Public announcements from the [Hebrides trials]({{ 'hebrides-trials/' | relative_url }}) confirmed that aerial targets were successfully engaged, but they did not identify the exact target sizes, materials, approach angles or vulnerability points involved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</span></span></span>
 
 These omissions are understandable from a security perspective, yet they prevent outside observers from answering a key combat question: how broadly the demonstrated performance translates across the spectrum of real threats. A laser that can rapidly disable a small drone may face different challenges when confronting larger unmanned aircraft, incoming missiles, mortar rounds or targets designed specifically to resist directed-energy attack.
 
@@ -302,7 +302,7 @@ These omissions are understandable from a security perspective, yet they prevent
 
 The Hebrides demonstrations were conducted successfully, but the public evidence provides little insight into how DragonFire performs under the most demanding environmental conditions.
 
-Laser weapons must transmit energy through the atmosphere. Rain, fog, sea spray, dust, smoke and turbulence can scatter or absorb part of the beam before it reaches the target. Leonardo, one of the DragonFire partners, explicitly notes that maintaining effectiveness becomes more difficult when atmospheric interference exists between the weapon and the target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.leonardo.com">[Leonardo UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.leonardo.com</span><span class="citation-popover-title">UKDragon Fire – Laser Directed Energy Weapon</span><span class="citation-popover-snippet">Leonardo UKDragonFire – Laser Directed Energy Weapon - Leonardo UKthe platform carrying the laser system is moving and there is atmospher...</span></span></span>
+Laser weapons must transmit energy through the atmosphere. Rain, fog, sea spray, dust, smoke and turbulence can scatter or absorb part of the beam before it reaches the target. Leonardo, one of the DragonFire partners, explicitly notes that maintaining effectiveness becomes more difficult when atmospheric interference exists between the weapon and the target.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.leonardo.com">[Leonardo UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.leonardo.com</span><span class="citation-popover-title">UKDragon Fire – Laser Directed Energy Weapon</span><span class="citation-popover-snippet">Leonardo UKDragonFire – Laser Directed Energy Weapon - Leonardo UKthe platform carrying the laser system is moving and there is atmospher...</span></span></span>
 
 The publicly released trial information did not disclose:
 
@@ -317,7 +317,7 @@ The publicly released trial information did not disclose:
 
 </div>
 
-This absence is significant because atmospheric degradation has long been one of the principal challenges facing operational laser weapons. Maritime deployment raises further questions. Sea spray, salt-laden air and platform motion introduce complications beyond those encountered on a fixed test range. Analysts have noted that fog, rain and maritime turbulence can reduce effective range and [beam quality]({{ 'beam-quality/' | relative_url }}), making long-term operational performance in harsh naval environments a question that remains largely unanswered in public. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://marineforum.online/en/royal-navy-with-dragon-fire-against-drones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marineforum.online">[marineforum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marineforum.online</span><span class="citation-popover-snippet">Royal Navy: With &quot;dragon fire&quot; against drones1 Jan 2026 — Fog, rain, spray and snowfall reduce the effective range because the...</span></span></span>
+This absence is significant because atmospheric degradation has long been one of the principal challenges facing operational laser weapons. Maritime deployment raises further questions. Sea spray, salt-laden air and platform motion introduce complications beyond those encountered on a fixed test range. Analysts have noted that fog, rain and maritime turbulence can reduce effective range and [beam quality]({{ 'beam-quality/' | relative_url }}), making long-term operational performance in harsh naval environments a question that remains largely unanswered in public.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://marineforum.online/en/royal-navy-with-dragon-fire-against-drones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marineforum.online">[marineforum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marineforum.online</span><span class="citation-popover-snippet">Royal Navy: With &quot;dragon fire&quot; against drones1 Jan 2026 — Fog, rain, spray and snowfall reduce the effective range because the...</span></span></span>
 
 The Hebrides trials demonstrated that DragonFire works. They did not demonstrate how consistently it works when conditions are poor.
 
@@ -340,7 +340,7 @@ A successful test engagement proves that a laser can destroy a target. Combat, h
 
 </div>
 
-Supporters of directed-energy weapons often emphasise their low per-shot cost and theoretically [deep magazines]({{ 'deep-magazine/' | relative_url }}). DragonFire's developers have highlighted that the weapon can continue firing as long as sufficient power is available. Yet practical combat effectiveness depends on the entire system, including sensors, cooling equipment, power-management hardware and crew procedures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aerospacetestinginternational.com/news/weapons-testing/qa-mike-mew-director-for-dragonfire-mbda-uk.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospacetestinginternational.com">[Aerospace Testing International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospacetestinginternational.com</span><span class="citation-popover-title">qa mike mew director for dragonfire mbda uk</span><span class="citation-popover-snippet">As a line-of-sight weapon, they operate best as an additional layer within Integrated Air...</span></span></span>
+Supporters of directed-energy weapons often emphasise their low per-shot cost and theoretically [deep magazines]({{ 'deep-magazine/' | relative_url }}). DragonFire's developers have highlighted that the weapon can continue firing as long as sufficient power is available. Yet practical combat effectiveness depends on the entire system, including sensors, cooling equipment, power-management hardware and crew procedures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aerospacetestinginternational.com/news/weapons-testing/qa-mike-mew-director-for-dragonfire-mbda-uk.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospacetestinginternational.com">[Aerospace Testing International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospacetestinginternational.com</span><span class="citation-popover-title">qa mike mew director for dragonfire mbda uk</span><span class="citation-popover-snippet">As a line-of-sight weapon, they operate best as an additional layer within Integrated Air...</span></span></span>
 
 The Hebrides announcements did not disclose how many targets were engaged in sequence, how rapidly engagements could be repeated or whether performance changed during extended firing periods. Those factors are crucial for evaluating defensive effectiveness during saturation attacks involving numerous incoming drones or missiles.
 
@@ -364,7 +364,7 @@ The public record from Hebrides does not show how DragonFire performs against ta
 
 </div>
 
-A laser weapon must usually keep energy focused on a specific point for a sufficient period to cause damage. Adversaries are likely to design systems that complicate that process. The Hebrides demonstrations proved accurate tracking and engagement, but they did not publicly reveal how the system performs against opponents actively optimised to defeat laser attacks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.leonardo.com">[Leonardo UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.leonardo.com</span><span class="citation-popover-title">UKDragon Fire – Laser Directed Energy Weapon</span><span class="citation-popover-snippet">Leonardo UKDragonFire – Laser Directed Energy Weapon - Leonardo UKthe platform carrying the laser system is moving and there is atmospher...</span></span></span>
+A laser weapon must usually keep energy focused on a specific point for a sufficient period to cause damage. Adversaries are likely to design systems that complicate that process. The Hebrides demonstrations proved accurate tracking and engagement, but they did not publicly reveal how the system performs against opponents actively optimised to defeat laser attacks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.leonardo.com">[Leonardo UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.leonardo.com</span><span class="citation-popover-title">UKDragon Fire – Laser Directed Energy Weapon</span><span class="citation-popover-snippet">Leonardo UKDragonFire – Laser Directed Energy Weapon - Leonardo UKthe platform carrying the laser system is moving and there is atmospher...</span></span></span>
 
 This is not a criticism of the programme. It reflects the reality that operational testing against adaptive threats generally occurs much later than initial technology demonstrations.
 
@@ -379,196 +379,196 @@ DragonFire's strengths are clear:
 * Extremely low engagement cost.
 * Speed-of-light response.
 * High precision.
-* Potentially large engagement capacity when power is available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/uk/britain-equip-ships-with-lasers-take-down-drones-2027-2024-04-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">britain equip ships with lasers take down drones 2027 2024 04 11</span><span class="citation-popover-snippet">These lasers can accurately target objects in the air for around 10 pounds ($12.52) per shot, marking a significant advancement in milita...</span></span></span>
+* Potentially large engagement capacity when power is available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/uk/britain-equip-ships-with-lasers-take-down-drones-2027-2024-04-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">britain equip ships with lasers take down drones</span><span class="citation-popover-snippet">These lasers can accurately target objects in the air for around 10 pounds ($12.52) per shot, marking a significant advancement in milita...</span></span></span>
 
 Its limitations are equally important:
 
-* Line-of-sight restrictions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aerospacetestinginternational.com/news/weapons-testing/qa-mike-mew-director-for-dragonfire-mbda-uk.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospacetestinginternational.com">[aerospacetestinginternational.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospacetestinginternational.com</span><span class="citation-popover-title">qa mike mew director for dragonfire mbda uk</span><span class="citation-popover-snippet">As a line-of-sight weapon, they operate best as an additional layer within Integrated Air...</span></span></span>
+* Line-of-sight restrictions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aerospacetestinginternational.com/news/weapons-testing/qa-mike-mew-director-for-dragonfire-mbda-uk.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospacetestinginternational.com">[aerospacetestinginternational.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospacetestinginternational.com</span><span class="citation-popover-title">qa mike mew director for dragonfire mbda uk</span><span class="citation-popover-snippet">As a line-of-sight weapon, they operate best as an additional layer within Integrated Air...</span></span></span>
 * Sensitivity to atmospheric conditions.
 * Dependence on power generation and cooling.
-* Uncertain performance against every target class and weather scenario. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Aerospace Testing International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</span></span></span>
+* Uncertain performance against every target class and weather scenario.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Aerospace Testing International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</span></span></span>
 
-Programme leaders themselves have described directed-energy weapons as an additional layer within integrated air and missile defence rather than a complete substitute for guns and missiles. Traditional interceptors retain advantages in poor weather, at extended ranges and against targets that may be difficult for a laser to damage quickly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aerospacetestinginternational.com/news/weapons-testing/qa-mike-mew-director-for-dragonfire-mbda-uk.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospacetestinginternational.com">[Aerospace Testing International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospacetestinginternational.com</span><span class="citation-popover-title">qa mike mew director for dragonfire mbda uk</span><span class="citation-popover-snippet">As a line-of-sight weapon, they operate best as an additional layer within Integrated Air...</span></span></span>
+Programme leaders themselves have described directed-energy weapons as an additional layer within integrated air and missile defence rather than a complete substitute for guns and missiles. Traditional interceptors retain advantages in poor weather, at extended ranges and against targets that may be difficult for a laser to damage quickly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aerospacetestinginternational.com/news/weapons-testing/qa-mike-mew-director-for-dragonfire-mbda-uk.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospacetestinginternational.com">[Aerospace Testing International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospacetestinginternational.com</span><span class="citation-popover-title">qa mike mew director for dragonfire mbda uk</span><span class="citation-popover-snippet">As a line-of-sight weapon, they operate best as an additional layer within Integrated Air...</span></span></span>
 
-The Hebrides trials therefore proved a threshold rather than an endpoint. They showed that DragonFire can destroy aerial targets with a high-power laser. What remains largely hidden from public view is where that capability begins to degrade: at what ranges, in which weather conditions, against which threats and under what sustained operational demands. Those questions will ultimately determine how large a role directed-energy weapons play alongside conventional missiles in future combat operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Aerospace Testing International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</span></span></span>
+The Hebrides trials therefore proved a threshold rather than an endpoint. They showed that DragonFire can destroy aerial targets with a high-power laser. What remains largely hidden from public view is where that capability begins to degrade: at what ranges, in which weather conditions, against which threats and under what sustained operational demands. Those questions will ultimately determine how large a role directed-energy weapons play alongside conventional missiles in future combat operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Aerospace Testing International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cTwgxjKu3wg" title="How Effective Could UK&#x27;s DragonFire Directed Energy Laser Be In Combat? (WarGames 305) | Sea Power" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cTwgxjKu3wg" target="_blank" rel="noopener noreferrer">How Effective Could UK&#x27;s DragonFire Directed Energy Laser Be In Combat? (WarGames 305) | Sea Power</a></p><p class="youtube-embed-meta">Channel: Grim Reapers</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cTwgxjKu3wg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cTwgxjKu3wg">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What the Dragon Fire Trial Did Not Prove. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What the Dragon Fire Trial Did Not Prove. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Helps readers understand why such tests matter operationally.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand why such tests matter operationally.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
-        </h4>
-        <p class="fr-book-author">By Paul Scharre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
+</h4>
+<p class="fr-book-author">By Paul Scharre</p>
         
-        <p class="fr-book-desc">Places advanced weapons testing in future-force context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places advanced weapons testing in future-force context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies+and+Military+Applications+Mark+L.+Bundy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons: Technologies and Military Applications on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies+and+Military+Applications+Mark+L.+Bundy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons: Technologies and Military Applications">Directed Energy Weapons: Technologies and Military Applications</a>
-        </h4>
-        <p class="fr-book-author">By Mark L. Bundy</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies+and+Military+Applications+Mark+L.+Bundy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons: Technologies and Military Applications on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies+and+Military+Applications+Mark+L.+Bundy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons: Technologies and Military Applications">Directed Energy Weapons: Technologies and Military Applications</a>
+</h4>
+<p class="fr-book-author">By Mark L. Bundy</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies+and+Military+Applications+Mark+L.+Bundy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies+and+Military+Applications+Mark+L.+Bundy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Introduction+to+Directed+Energy+Weapons+Robert+J.+Bunker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Directed+Energy+Weapons+Robert+J.+Bunker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Directed Energy Weapons">Introduction to Directed Energy Weapons</a>
-        </h4>
-        <p class="fr-book-author">By Robert J. Bunker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Introduction+to+Directed+Energy+Weapons+Robert+J.+Bunker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Directed+Energy+Weapons+Robert+J.+Bunker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Directed Energy Weapons">Introduction to Directed Energy Weapons</a>
+</h4>
+<p class="fr-book-author">By Robert J. Bunker</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Directed+Energy+Weapons+Robert+J.+Bunker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Directed+Energy+Weapons+Robert+J.+Bunker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies+and+Military+Applications&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed Energy Weapons: Technologies and Military Applications</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies+and+Military+Applications&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed Energy Weapons: Technologies and Military Applications</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LASER TREE 20W Optical Power Laser Module Kit for Laser Engraver Head Tools"><img src="{{ '/assets/images/marketplace-covers/9d89d1a2c43146db7f1e.jpg' | relative_url }}" alt="Listing image for LASER TREE 20W Optical Power Laser Module Kit for Laser Engraver Head Tools" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer">LASER TREE 20W Optical Power Laser Module Kit for Laser Engraver Head Tools</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser optics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser optics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LASER TREE 20W Optical Power Laser Module Kit for Laser Engraver Head Tools"><img src="{{ '/assets/images/marketplace-covers/9d89d1a2c43146db7f1e.jpg' | relative_url }}" alt="Listing image for LASER TREE 20W Optical Power Laser Module Kit for Laser Engraver Head Tools" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer">LASER TREE 20W Optical Power Laser Module Kit for Laser Engraver Head Tools</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser optics kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser optics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 60W 40W 30W 20W 5W 4W Optical Power Laser Module for Laser Engraver Cutting DIY"><img src="{{ '/assets/images/marketplace-covers/05dcb057f87fc667f7fd.jpg' | relative_url }}" alt="Listing image for 60W 40W 30W 20W 5W 4W Optical Power Laser Module for Laser Engraver Cutting DIY" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer">60W 40W 30W 20W 5W 4W Optical Power Laser Module for Laser Engraver Cutting DIY</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser optics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser optics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 60W 40W 30W 20W 5W 4W Optical Power Laser Module for Laser Engraver Cutting DIY"><img src="{{ '/assets/images/marketplace-covers/05dcb057f87fc667f7fd.jpg' | relative_url }}" alt="Listing image for 60W 40W 30W 20W 5W 4W Optical Power Laser Module for Laser Engraver Cutting DIY" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer">60W 40W 30W 20W 5W 4W Optical Power Laser Module for Laser Engraver Cutting DIY</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser optics kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser optics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LASER TREE 10W 20W 30W 40W 60W Optical Power Laser Module for Cutting Engraving"><img src="{{ '/assets/images/marketplace-covers/18491ea618f58ea487d9.jpg' | relative_url }}" alt="Listing image for LASER TREE 10W 20W 30W 40W 60W Optical Power Laser Module for Cutting Engraving" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer">LASER TREE 10W 20W 30W 40W 60W Optical Power Laser Module for Cutting Engraving</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser optics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser optics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LASER TREE 10W 20W 30W 40W 60W Optical Power Laser Module for Cutting Engraving"><img src="{{ '/assets/images/marketplace-covers/18491ea618f58ea487d9.jpg' | relative_url }}" alt="Listing image for LASER TREE 10W 20W 30W 40W 60W Optical Power Laser Module for Cutting Engraving" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer">LASER TREE 10W 20W 30W 40W 60W Optical Power Laser Module for Cutting Engraving</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser optics kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser optics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="open-questions-what-the-dragon-fire-trial-did-not-prove-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -584,7 +584,7 @@ The Hebrides trials therefore proved a threshold rather than an endpoint. They s
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -604,7 +604,7 @@ The Hebrides trials therefore proved a threshold rather than an endpoint. They s
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -636,7 +636,7 @@ The Hebrides trials therefore proved a threshold rather than an endpoint. They s
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -688,7 +688,7 @@ The Hebrides trials therefore proved a threshold rather than an endpoint. They s
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -733,7 +733,7 @@ The Hebrides trials therefore proved a threshold rather than an endpoint. They s
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -774,92 +774,92 @@ The Hebrides trials therefore proved a threshold rather than an endpoint. They s
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: advanced future military laser achieves uk first  
-   Link: <a href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>19 Jan 2024 — The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: uk.leonardo.com  
    Title: UKDragon Fire – Laser Directed Energy Weapon  
-   Link: <a href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow">https://uk.leonardo.com/en/innovation/dragonfire</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Leonardo UKDragonFire – Laser Directed Energy Weapon - Leonardo UKthe platform carrying the laser system is moving and there is atmospher...</p></details>
+   Link:<a href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow">https://uk.leonardo.com/en/innovation/dragonfire</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leonardo UKDragonFire – Laser Directed Energy Weapon - Leonardo UKthe platform carrying the laser system is moving and there is atmospher...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: marineforum.online  
-   Link: <a href="https://marineforum.online/en/royal-navy-with-dragon-fire-against-drones/" target="_blank" rel="noopener noreferrer nofollow">https://marineforum.online/en/royal-navy-with-dragon-fire-against-drones/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Navy: With &quot;dragon fire&quot; against drones1 Jan 2026 — Fog, rain, spray and snowfall reduce the effective range because the...</p></details>
+   Link:<a href="https://marineforum.online/en/royal-navy-with-dragon-fire-against-drones/" target="_blank" rel="noopener noreferrer nofollow">https://marineforum.online/en/royal-navy-with-dragon-fire-against-drones/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Navy: With &quot;dragon fire&quot; against drones1 Jan 2026 — Fog, rain, spray and snowfall reduce the effective range because the...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reuters.com  
    Title: britain equip ships with [lasers](&#123;&#123; 'lasers/' | relative_url &#125;&#125;) take down drones 2027 2024 04 11  
-   Link: <a href="https://www.reuters.com/world/uk/britain-equip-ships-with-lasers-take-down-drones-2027-2024-04-11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/uk/britain-equip-ships-with-lasers-take-down-drones-2027-2024-04-11/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These lasers can accurately target objects in the air for around 10 pounds ($12.52) per shot, marking a significant advancement in milita...</p></details>
+   Link:<a href="https://www.reuters.com/world/uk/britain-equip-ships-with-lasers-take-down-drones-2027-2024-04-11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/uk/britain-equip-ships-with-lasers-take-down-drones-2027-2024-04-11/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These lasers can accurately target objects in the air for around 10 pounds ($12.52) per shot, marking a significant advancement in milita...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: GOV.UK  
    Title: boost for armed forces as new laser weapon takes down high speed drones  
-   Link: <a href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>for Armed Forces as new laser weapon takes down...20 Nov 2025 — Britain&#x27;s ground-breaking DragonFire laser has shot down high-speed dron...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for Armed Forces as new laser weapon takes down...20 Nov 2025 — Britain&#x27;s ground-breaking DragonFire laser has shot down high-speed dron...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aerospacetestinginternational.com  
    Title: qa mike mew director for dragonfire mbda uk  
-   Link: <a href="https://www.aerospacetestinginternational.com/news/weapons-testing/qa-mike-mew-director-for-dragonfire-mbda-uk.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aerospacetestinginternational.com/news/weapons-testing/qa-mike-mew-director-for-dragonfire-mbda-uk.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>As a line-of-sight weapon, they operate best as an additional layer within Integrated Air...</p></details>
+   Link:<a href="https://www.aerospacetestinginternational.com/news/weapons-testing/qa-mike-mew-director-for-dragonfire-mbda-uk.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aerospacetestinginternational.com/news/weapons-testing/qa-mike-mew-director-for-dragonfire-mbda-uk.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As a line-of-sight weapon, they operate best as an additional layer within Integrated Air...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/unitedkingdom/comments/1p3sy3z/dragonfire_a_guide_to_britains_new_laser_weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/unitedkingdom/comments/1p3sy3z/dragonfire_a_guide_to_britains_new_laser_weapon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire – A guide to Britain&#x27;s new laser weaponDragonFire is the UK&#x27;s new high-power laser weapon system, intended for Royal Navy ship...</p></details>
+   Link:<a href="https://www.reddit.com/r/unitedkingdom/comments/1p3sy3z/dragonfire_a_guide_to_britains_new_laser_weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/unitedkingdom/comments/1p3sy3z/dragonfire_a_guide_to_britains_new_laser_weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire – A guide to Britain&#x27;s new laser weaponDragonFire is the UK&#x27;s new high-power laser weapon system, intended for Royal Navy ship...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: greydynamics.com  
-   Link: <a href="https://greydynamics.com/dragonfire-britains-new-directed-energy-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://greydynamics.com/dragonfire-britains-new-directed-energy-weapon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire: Britain&#x27;s New Directed Energy WeaponThis article highlights the development of the DragonFire, a new British laser directed-e...</p></details>
+   Link:<a href="https://greydynamics.com/dragonfire-britains-new-directed-energy-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://greydynamics.com/dragonfire-britains-new-directed-energy-weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire: Britain&#x27;s New Directed Energy WeaponThis article highlights the development of the DragonFire, a new British laser directed-e...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: warnerbrosgames.com  
-   Link: <a href="https://warnerbrosgames.com/article/game-of-thrones-dragon-fire-announcement" target="_blank" rel="noopener noreferrer nofollow">https://warnerbrosgames.com/article/game-of-thrones-dragon-fire-announcement</a>  
+   Link:<a href="https://warnerbrosgames.com/article/game-of-thrones-dragon-fire-announcement" target="_blank" rel="noopener noreferrer nofollow">https://warnerbrosgames.com/article/game-of-thrones-dragon-fire-announcement</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DRUtM8hDKZS/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRUtM8hDKZS/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Government Scotland on Instagram: &quot;Introducing...The British Ministry of Defence released the first video footage of its DragonFire l...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DRUtM8hDKZS/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRUtM8hDKZS/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Government Scotland on Instagram: &quot;Introducing...The British Ministry of Defence released the first video footage of its DragonFire l...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: armyrecognition.com  
-   Link: <a href="https://armyrecognition.com/news/army-news/2025/uk-orders-dragonfire-directed-energy-weapons-for-warships-after-successful-drone-intercept-trials" target="_blank" rel="noopener noreferrer nofollow">https://armyrecognition.com/news/army-news/2025/uk-orders-dragonfire-directed-energy-weapons-for-warships-after-successful-drone-intercept-trials</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Orders DragonFire Directed-Energy Weapons For...20 Nov 2025 — UK Ministry of Defence orders £316m DragonFire laser for Royal Navy aft...</p></details>
+   Link:<a href="https://armyrecognition.com/news/army-news/2025/uk-orders-dragonfire-directed-energy-weapons-for-warships-after-successful-drone-intercept-trials" target="_blank" rel="noopener noreferrer nofollow">https://armyrecognition.com/news/army-news/2025/uk-orders-dragonfire-directed-energy-weapons-for-warships-after-successful-drone-intercept-trials</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Orders DragonFire Directed-Energy Weapons For...20 Nov 2025 — UK Ministry of Defence orders £316m DragonFire laser for Royal Navy aft...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: the uk dragonfire laser weapon remains on course for royal navy deployment by 20  
-   Link: <a href="https://www.facebook.com/ukdefencejournal/posts/the-uk-dragonfire-laser-weapon-remains-on-course-for-royal-navy-deployment-by-20/1362213939285199/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ukdefencejournal/posts/the-uk-dragonfire-laser-weapon-remains-on-course-for-royal-navy-deployment-by-20/1362213939285199/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK DragonFire laser weapon remains on course...The UK DragonFire laser weapon remains on course for Royal Navy deployment by 2027, w...</p></details>
+   Link:<a href="https://www.facebook.com/ukdefencejournal/posts/the-uk-dragonfire-laser-weapon-remains-on-course-for-royal-navy-deployment-by-20/1362213939285199/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ukdefencejournal/posts/the-uk-dragonfire-laser-weapon-remains-on-course-for-royal-navy-deployment-by-20/1362213939285199/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UK DragonFire laser weapon remains on course...The UK DragonFire laser weapon remains on course for Royal Navy deployment by 2027, w...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=P3wjzIz67ds" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P3wjzIz67ds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire Arrives: The Royal Navy&#x27;s Laser RevolutionBritain has just taken a historic leap in naval warfare. The Royal Navy&#x27;s DragonFire...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=P3wjzIz67ds" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P3wjzIz67ds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire Arrives: The Royal Navy&#x27;s Laser RevolutionBritain has just taken a historic leap in naval warfare. The Royal Navy&#x27;s DragonFire...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: des.mod.uk  
    Title: boost for armed forces as new laser weapon takes down high speed drones  
-   Link: <a href="https://des.mod.uk/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones/" target="_blank" rel="noopener noreferrer nofollow">https://des.mod.uk/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>for Armed Forces as new laser weapon takes down...20 Nov 2025 — Britain&#x27;s ground-breaking DragonFire laser has shot down high-speed dron...</p></details>
+   Link:<a href="https://des.mod.uk/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones/" target="_blank" rel="noopener noreferrer nofollow">https://des.mod.uk/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for Armed Forces as new laser weapon takes down...20 Nov 2025 — Britain&#x27;s ground-breaking DragonFire laser has shot down high-speed dron...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: laserwars.net  
    Title: uk royal navy dragonfire laser weapon drone shootdown trial  
-   Link: <a href="https://www.laserwars.net/p/uk-royal-navy-dragonfire-laser-weapon-drone-shootdown-trial" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/uk-royal-navy-dragonfire-laser-weapon-drone-shootdown-trial</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Royal Navy DragonFire Laser Weapon Kills 30 Drones...8 Jul 2025 — The Royal Navy&#x27;s 50 kilowatt &#x27;DragonFire&#x27; shipboard laser weapon sy...</p></details>
+   Link:<a href="https://www.laserwars.net/p/uk-royal-navy-dragonfire-laser-weapon-drone-shootdown-trial" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/uk-royal-navy-dragonfire-laser-weapon-drone-shootdown-trial</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Royal Navy DragonFire Laser Weapon Kills 30 Drones...8 Jul 2025 — The Royal Navy&#x27;s 50 kilowatt &#x27;DragonFire&#x27; shipboard laser weapon sy...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ukdefencejournal.org.uk  
    Title: britain plans 240m two unit dragonfire laser weapon buy  
-   Link: <a href="https://ukdefencejournal.org.uk/britain-plans-240m-two-unit-dragonfire-laser-weapon-buy/" target="_blank" rel="noopener noreferrer nofollow">https://ukdefencejournal.org.uk/britain-plans-240m-two-unit-dragonfire-laser-weapon-buy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Britain plans £240m two unit DragonFire laser weapon buy5 Jun 2025 — The Ministry of Defence intends to spend up to £240 million on the f...</p></details>
+   Link:<a href="https://ukdefencejournal.org.uk/britain-plans-240m-two-unit-dragonfire-laser-weapon-buy/" target="_blank" rel="noopener noreferrer nofollow">https://ukdefencejournal.org.uk/britain-plans-240m-two-unit-dragonfire-laser-weapon-buy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Britain plans £240m two unit DragonFire laser weapon buy5 Jun 2025 — The Ministry of Defence intends to spend up to £240 million on the f...</p></details>

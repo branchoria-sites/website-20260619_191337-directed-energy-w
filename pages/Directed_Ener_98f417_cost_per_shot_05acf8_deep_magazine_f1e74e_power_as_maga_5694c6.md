@@ -275,17 +275,17 @@ image: /assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_deep_magazine_f1
 
 ## Introduction
 
-The promise of a laser weapon’s “[deep magazine]({{ 'deep-magazine/' | relative_url }})” is real, but it is often misunderstood. A laser may be able to fire thousands of times without reloading a missile launcher, yet it still depends on a continuous supply of electrical energy. In prolonged [drone-defence]({{ 'drone-defence/' | relative_url }}) operations, the practical limit is frequently not the number of available shots but the platform’s ability to generate, store, distribute and dissipate power. In that sense, electricity becomes the new ammunition. The deeper the defensive engagement, the more the question shifts from “How many interceptors remain?” to “How much usable power can the platform sustain?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-uspl-and-atmospheric-characterization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onr.navy.mil">[Office of Naval Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onr.navy.mil</span><span class="citation-popover-snippet">Office of Naval ResearchUltra-Short Pulse Laser and Atmospheric CharacterizationDirected energy weapons (DEWs) are defined as electromagn...</span></span></span>
+The promise of a laser weapon’s “[deep magazine]({{ 'deep-magazine/' | relative_url }})” is real, but it is often misunderstood. A laser may be able to fire thousands of times without reloading a missile launcher, yet it still depends on a continuous supply of electrical energy. In prolonged [drone-defence]({{ 'drone-defence/' | relative_url }}) operations, the practical limit is frequently not the number of available shots but the platform’s ability to generate, store, distribute and dissipate power. In that sense, electricity becomes the new ammunition. The deeper the defensive engagement, the more the question shifts from “How many interceptors remain?” to “How much usable power can the platform sustain?”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-uspl-and-atmospheric-characterization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onr.navy.mil">[Office of Naval Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onr.navy.mil</span><span class="citation-popover-snippet">Office of Naval ResearchUltra-Short Pulse Laser and Atmospheric CharacterizationDirected energy weapons (DEWs) are defined as electromagn...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_deep_magazine_f1e74e_power_as_maga_5694c6-Illustration-1-dark.svg" | relative_url }}" alt="Power Limits illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_deep_magazine_f1e74e_power_as_maga_5694c6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_deep_magazine_f1e74e_power_as_maga_5694c6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For counter-drone missions, this distinction matters because modern laser weapons are moving from demonstrations to operational deployment. Systems such as DragonFire and HELIOS can engage aerial threats at very low per-shot energy cost, but sustained performance depends on the electrical infrastructure behind the beam rather than the beam itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.uk">[GOV.UK+2Navy Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.uk</span><span class="citation-popover-title">£316 million contract awarded to MBDA ...Read more</span><span class="citation-popover-snippet">Boost for Armed Forces as new laser weapon takes down ...November 20, 2025 — 20 Nov 2025 — DragonFire achieves UK first in latest testing...</span></span></span>
+For counter-drone missions, this distinction matters because modern laser weapons are moving from demonstrations to operational deployment. Systems such as DragonFire and HELIOS can engage aerial threats at very low per-shot energy cost, but sustained performance depends on the electrical infrastructure behind the beam rather than the beam itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.uk">[GOV.UK+2Navy Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.uk</span><span class="citation-popover-title">£316 million contract awarded to MBDA ...Read more</span><span class="citation-popover-snippet">Boost for Armed Forces as new laser weapon takes down ...November 20, 2025 — 20 Nov 2025 — DragonFire achieves UK first in latest testing...</span></span></span>
 
 ## Does Electrical Power Really Replace Ammunition?
 
 Electrical power replaces physical ammunition only partially. A missile battery is constrained by the number of interceptors carried. A laser-equipped platform is constrained by how much electrical power it can continuously provide to the weapon and its supporting systems.
 
-This distinction becomes most visible during extended drone attacks. A single laser engagement may consume relatively little energy compared with the cost of a missile interceptor, but dozens or hundreds of engagements place sustained demands on generators, power electronics, cooling systems and energy storage. The weapon can theoretically keep firing as long as electricity is available, but the platform may reach its power-production limit long before it reaches any theoretical shot count. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.laserwars.net/p/laser-weapon-infinite-magazine-myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laserwars.net">[laserwars.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laserwars.net</span><span class="citation-popover-title">laser weapon infinite magazine myth</span><span class="citation-popover-snippet">Laser Weapons and.the Myth of the &#x27;Infinite Magazine&#x27;Feb 23, 2026 — High-energy laser weapon advocates claim that such systems possess an...</span></span></span>
+This distinction becomes most visible during extended drone attacks. A single laser engagement may consume relatively little energy compared with the cost of a missile interceptor, but dozens or hundreds of engagements place sustained demands on generators, power electronics, cooling systems and energy storage. The weapon can theoretically keep firing as long as electricity is available, but the platform may reach its power-production limit long before it reaches any theoretical shot count.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.laserwars.net/p/laser-weapon-infinite-magazine-myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laserwars.net">[laserwars.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laserwars.net</span><span class="citation-popover-title">laser weapon infinite magazine myth</span><span class="citation-popover-snippet">Laser Weapons and.the Myth of the &#x27;Infinite Magazine&#x27;Feb 23, 2026 — High-energy laser weapon advocates claim that such systems possess an...</span></span></span>
 
 The result is a different type of magazine. Instead of counting missiles in launch cells, operators effectively count available electrical capacity and the rate at which it can be replenished.
 
@@ -293,7 +293,7 @@ The result is a different type of magazine. Instead of counting missiles in laun
 
 The most important determinant of endurance is often generation capacity. A laser weapon is only one consumer among many on a modern warship, vehicle or fixed site. Radars, communications equipment, electronic warfare systems, propulsion and onboard services all compete for the same electrical resources.
 
-A naval platform illustrates the issue clearly. Larger warships possess substantial generating capacity and can devote significant power to defensive systems. Smaller vessels may have enough power to operate a laser occasionally but not enough to sustain high-energy engagements while simultaneously running all other mission systems. This challenge has been recognised in naval laser development programmes, where integration with ship power architecture is treated as a core engineering requirement rather than a secondary detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.lockheedmartin.com/2021-01-11-Lockheed-Martin-Delivers-HELIOS-Laser-Weapon-System-to-US-Navy-for-Ship-Testing-and-Integration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.lockheedmartin.com">[Media - Lockheed Martin+2Task &amp; Purpose]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.lockheedmartin.com</span><span class="citation-popover-snippet">Lockheed MartinLockheed Martin Delivers HELIOS Laser Weapon System...11 Jan 2021 — The scalable laser design architecture spectrally com...</span></span></span>
+A naval platform illustrates the issue clearly. Larger warships possess substantial generating capacity and can devote significant power to defensive systems. Smaller vessels may have enough power to operate a laser occasionally but not enough to sustain high-energy engagements while simultaneously running all other mission systems. This challenge has been recognised in naval laser development programmes, where integration with ship power architecture is treated as a core engineering requirement rather than a secondary detail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.lockheedmartin.com/2021-01-11-Lockheed-Martin-Delivers-HELIOS-Laser-Weapon-System-to-US-Navy-for-Ship-Testing-and-Integration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.lockheedmartin.com">[Media - Lockheed Martin+2Task &amp; Purpose]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.lockheedmartin.com</span><span class="citation-popover-snippet">Lockheed MartinLockheed Martin Delivers HELIOS Laser Weapon System...11 Jan 2021 — The scalable laser design architecture spectrally com...</span></span></span>
 
 The relationship is straightforward:
 
@@ -301,7 +301,7 @@ The relationship is straightforward:
 * Higher laser power also demands greater electrical generation.
 * Greater generation requirements increase demands on the platform’s engines, generators and electrical distribution network.
 
-As a result, the endurance of a laser defence system is often determined less by the laser itself than by the host platform’s electrical design. A destroyer, a ground vehicle and a containerised fixed-site system may all carry similar beam directors but exhibit very different sustained engagement capacities because their available power budgets differ dramatically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/High_Energy_Laser_with_Integrated_Optical-dazzler_and_Surveillance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Defense News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">High Energy Laser with Integrated Optical-dazzler and Surveillance</span><span class="citation-popover-snippet">High Energy Laser with Integrated Optical-dazzler and Surveillance</span></span></span>
+As a result, the endurance of a laser defence system is often determined less by the laser itself than by the host platform’s electrical design. A destroyer, a ground vehicle and a containerised fixed-site system may all carry similar beam directors but exhibit very different sustained engagement capacities because their available power budgets differ dramatically.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/High_Energy_Laser_with_Integrated_Optical-dazzler_and_Surveillance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Defense News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">High Energy Laser with Integrated Optical-dazzler and Surveillance</span><span class="citation-popover-snippet">High Energy Laser with Integrated Optical-dazzler and Surveillance</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iyBkTwFyIqY" title="The Pentagon’s Laser Problem and The Company To Fix it" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iyBkTwFyIqY" target="_blank" rel="noopener noreferrer">The Pentagon’s Laser Problem and The Company To Fix it</a></p><p class="youtube-embed-meta">Channel: LevelFields AI</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iyBkTwFyIqY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iyBkTwFyIqY">Open on YouTube</a></p></div></div></div>
@@ -310,7 +310,7 @@ As a result, the endurance of a laser defence system is often determined less by
 
 A common misconception is that batteries or capacitors eliminate power limitations. In practice, energy storage mainly addresses short-term demand spikes.
 
-Laser weapons frequently require bursts of power that exceed what generators can instantly provide. Energy storage systems accumulate electricity over time and then release it rapidly when the weapon fires. This arrangement allows a platform with moderate generating capacity to support high-power engagements for short periods. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-uspl-and-atmospheric-characterization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onr.navy.mil">[Office of Naval Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onr.navy.mil</span><span class="citation-popover-snippet">Office of Naval ResearchUltra-Short Pulse Laser and Atmospheric CharacterizationDirected energy weapons (DEWs) are defined as electromagn...</span></span></span>
+Laser weapons frequently require bursts of power that exceed what generators can instantly provide. Energy storage systems accumulate electricity over time and then release it rapidly when the weapon fires. This arrangement allows a platform with moderate generating capacity to support high-power engagements for short periods.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-uspl-and-atmospheric-characterization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onr.navy.mil">[Office of Naval Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onr.navy.mil</span><span class="citation-popover-snippet">Office of Naval ResearchUltra-Short Pulse Laser and Atmospheric CharacterizationDirected energy weapons (DEWs) are defined as electromagn...</span></span></span>
 
 However, storage changes timing rather than physics.
 
@@ -324,7 +324,7 @@ Peak demand becomes especially important during swarm attacks.
 
 A single drone may require only one engagement sequence. A large wave may require repeated firings within a short period. Under these conditions, instantaneous [power demand]({{ 'power-demand/' | relative_url }}) can become more important than total stored energy.
 
-If the weapon fires repeatedly faster than generators can restore reserves, operators may encounter periods where the laser remains technically operational but cannot sustain maximum output. The practical consequence is reduced defensive capacity precisely when attack intensity is highest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.laserwars.net/p/laser-weapon-infinite-magazine-myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laserwars.net">[laserwars.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laserwars.net</span><span class="citation-popover-title">laser weapon infinite magazine myth</span><span class="citation-popover-snippet">Laser Weapons and.the Myth of the &#x27;Infinite Magazine&#x27;Feb 23, 2026 — High-energy laser weapon advocates claim that such systems possess an...</span></span></span>
+If the weapon fires repeatedly faster than generators can restore reserves, operators may encounter periods where the laser remains technically operational but cannot sustain maximum output. The practical consequence is reduced defensive capacity precisely when attack intensity is highest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.laserwars.net/p/laser-weapon-infinite-magazine-myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laserwars.net">[laserwars.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laserwars.net</span><span class="citation-popover-title">laser weapon infinite magazine myth</span><span class="citation-popover-snippet">Laser Weapons and.the Myth of the &#x27;Infinite Magazine&#x27;Feb 23, 2026 — High-energy laser weapon advocates claim that such systems possess an...</span></span></span>
 
 For this reason, modern directed-energy development increasingly focuses on integrated power architecture rather than beam generation alone.
 
@@ -334,7 +334,7 @@ For this reason, modern directed-energy development increasingly focuses on inte
 
 Electrical power and thermal management are inseparable.
 
-No laser converts electrical energy into beam energy with perfect efficiency. A substantial fraction of input power becomes heat inside the weapon system. Even improvements in solid-state and fibre-laser efficiency do not eliminate this reality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-Directed-Ener.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: com.pl">[Defence Science Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">com.pl</span><span class="citation-popover-title">pdf 216776 135052</span><span class="citation-popover-snippet">Defence Science ReviewDEFENCE SCIENCE REVIEWby A Karkadakattil · 2026 · Cited by 1 — Table 1 compares the four main laser technologies fo...</span></span></span>
+No laser converts electrical energy into beam energy with perfect efficiency. A substantial fraction of input power becomes heat inside the weapon system. Even improvements in solid-state and fibre-laser efficiency do not eliminate this reality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-Directed-Ener.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: com.pl">[Defence Science Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">com.pl</span><span class="citation-popover-title">pdf 216776 135052</span><span class="citation-popover-snippet">Defence Science ReviewDEFENCE SCIENCE REVIEWby A Karkadakattil · 2026 · Cited by 1 — Table 1 compares the four main laser technologies fo...</span></span></span>
 
 During sustained defensive operations, waste heat accumulates in:
 
@@ -348,7 +348,7 @@ During sustained defensive operations, waste heat accumulates in:
 
 </div>
 
-If heat removal cannot keep pace with heat production, operators may need to reduce firing rates, lower output power or temporarily cease engagements while systems cool. In practical terms, thermal saturation can function like magazine depletion. The weapon still has electrical energy available, but supporting systems prevent further sustained firing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationaldefensemagazine.org/articles/2025/8/11/government-perspective-directed-energy-in-air-base-defense-can-save-the-arsenal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationaldefensemagazine.org">[National Defense Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationaldefensemagazine.org</span><span class="citation-popover-title">government perspective directed energy in air base defense can save the arsenal</span><span class="citation-popover-snippet">High-power electromagnetic weapons require line-of-sight and are sensitive...Read more...</span></span></span>
+If heat removal cannot keep pace with heat production, operators may need to reduce firing rates, lower output power or temporarily cease engagements while systems cool. In practical terms, thermal saturation can function like magazine depletion. The weapon still has electrical energy available, but supporting systems prevent further sustained firing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationaldefensemagazine.org/articles/2025/8/11/government-perspective-directed-energy-in-air-base-defense-can-save-the-arsenal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationaldefensemagazine.org">[National Defense Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationaldefensemagazine.org</span><span class="citation-popover-title">government perspective directed energy in air base defense can save the arsenal</span><span class="citation-popover-snippet">High-power electromagnetic weapons require line-of-sight and are sensitive...Read more...</span></span></span>
 
 This is one reason why discussions of “unlimited magazines” can be misleading. Endurance depends not only on generating electricity but also on continuously exporting waste heat from the system.
 
@@ -359,24 +359,24 @@ This is one reason why discussions of “unlimited magazines” can be misleadin
 
 The same laser can exhibit radically different endurance depending on where it is installed.
 
-A fixed installation connected to a large electrical grid may effectively enjoy a vast energy reserve. A major warship can support much longer sustained operations than a tactical vehicle because it carries larger generators, greater fuel reserves and more extensive cooling infrastructure. Conversely, a compact mobile platform may be constrained by weight, volume and fuel consumption. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://taskandpurpose.com/news/navy-laser-destroyer-power-helios/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taskandpurpose.com">[Task &amp; Purpose]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taskandpurpose.com</span><span class="citation-popover-snippet">Task &amp; PurposeMany Navy ships don&#x27;t have enough power to fire lasers...Dec 5, 2019 — Currently, the Navy has a three-step plan for insta...</span></span></span>
+A fixed installation connected to a large electrical grid may effectively enjoy a vast energy reserve. A major warship can support much longer sustained operations than a tactical vehicle because it carries larger generators, greater fuel reserves and more extensive cooling infrastructure. Conversely, a compact mobile platform may be constrained by weight, volume and fuel consumption.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://taskandpurpose.com/news/navy-laser-destroyer-power-helios/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taskandpurpose.com">[Task &amp; Purpose]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taskandpurpose.com</span><span class="citation-popover-snippet">Task &amp; PurposeMany Navy ships don&#x27;t have enough power to fire lasers...Dec 5, 2019 — Currently, the Navy has a three-step plan for insta...</span></span></span>
 
-This explains why laser weapon programmes increasingly emphasise platform integration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkdefence.co.uk/docs/dragonfire-laser-weapon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkdefence.co.uk">[thinkdefence.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkdefence.co.uk</span><span class="citation-popover-title">dragonfire laser weapon</span><span class="citation-popover-snippet">23 Feb 2026 — The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</span></span></span>
+This explains why laser weapon programmes increasingly emphasise platform integration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkdefence.co.uk/docs/dragonfire-laser-weapon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkdefence.co.uk">[thinkdefence.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkdefence.co.uk</span><span class="citation-popover-title">dragonfire laser weapon</span><span class="citation-popover-snippet">23 Feb 2026 — The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</span></span></span>
 
-The DragonFire programme, for example, is being prepared for naval deployment where shipboard power systems can support repeated engagements. Public descriptions consistently frame the weapon as part of a broader power and combat-system architecture rather than as a self-contained device. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.leonardo.com">[Leonardo UK+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.leonardo.com</span><span class="citation-popover-title">UKDragon Fire – Laser Directed Energy Weapon</span><span class="citation-popover-snippet">Leonardo UKDragonFire – Laser Directed Energy Weapon - Leonardo UKThe DragonFire laser directed energy weapon (LDEW) system achieved the...</span></span></span>
+The DragonFire programme, for example, is being prepared for naval deployment where shipboard power systems can support repeated engagements. Public descriptions consistently frame the weapon as part of a broader power and combat-system architecture rather than as a self-contained device.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.leonardo.com">[Leonardo UK+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.leonardo.com</span><span class="citation-popover-title">UKDragon Fire – Laser Directed Energy Weapon</span><span class="citation-popover-snippet">Leonardo UKDragonFire – Laser Directed Energy Weapon - Leonardo UKThe DragonFire laser directed energy weapon (LDEW) system achieved the...</span></span></span>
 
-Similarly, the evolution of HELIOS reflects an emphasis on integration with ship systems and scalable power architectures. Future increases in beam power depend not only on laser technology but also on the ability of [host platforms]({{ 'host-platforms/' | relative_url }}) to supply and manage greater electrical loads. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.lockheedmartin.com/2021-01-11-Lockheed-Martin-Delivers-HELIOS-Laser-Weapon-System-to-US-Navy-for-Ship-Testing-and-Integration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.lockheedmartin.com">[Media - Lockheed Martin+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.lockheedmartin.com</span><span class="citation-popover-snippet">Lockheed MartinLockheed Martin Delivers HELIOS Laser Weapon System...11 Jan 2021 — The scalable laser design architecture spectrally com...</span></span></span>
+Similarly, the evolution of HELIOS reflects an emphasis on integration with ship systems and scalable power architectures. Future increases in beam power depend not only on laser technology but also on the ability of [host platforms]({{ 'host-platforms/' | relative_url }}) to supply and manage greater electrical loads.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.lockheedmartin.com/2021-01-11-Lockheed-Martin-Delivers-HELIOS-Laser-Weapon-System-to-US-Navy-for-Ship-Testing-and-Integration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.lockheedmartin.com">[Media - Lockheed Martin+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.lockheedmartin.com</span><span class="citation-popover-snippet">Lockheed MartinLockheed Martin Delivers HELIOS Laser Weapon System...11 Jan 2021 — The scalable laser design architecture spectrally com...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/knCuGgPkZ-4" title="Laser Weapons Are Becoming Reality Faster Than You Think" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=knCuGgPkZ-4" target="_blank" rel="noopener noreferrer">Laser Weapons Are Becoming Reality Faster Than You Think</a></p><p class="youtube-embed-meta">Channel: The Buzz</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=knCuGgPkZ-4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=knCuGgPkZ-4">Open on YouTube</a></p></div></div></div>
 
 ## The Real Meaning of a Deep Magazine
 
-A laser weapon can provide a far deeper magazine than a missile launcher when defending against drones. Electrical energy is often easier to generate and replenish than sophisticated interceptor missiles, and the cost per engagement can be dramatically lower. DragonFire trials, for example, have highlighted very low energy costs per shot compared with conventional air-defence interceptors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.uk</span><span class="citation-popover-title">£316 million contract awarded to MBDA ...Read more</span><span class="citation-popover-snippet">Boost for Armed Forces as new laser weapon takes down ...November 20, 2025 — 20 Nov 2025 — DragonFire achieves UK first in latest testing...</span></span></span>
+A laser weapon can provide a far deeper magazine than a missile launcher when defending against drones. Electrical energy is often easier to generate and replenish than sophisticated interceptor missiles, and the cost per engagement can be dramatically lower. DragonFire trials, for example, have highlighted very low energy costs per shot compared with conventional air-defence interceptors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.uk</span><span class="citation-popover-title">£316 million contract awarded to MBDA ...Read more</span><span class="citation-popover-snippet">Boost for Armed Forces as new laser weapon takes down ...November 20, 2025 — 20 Nov 2025 — DragonFire achieves UK first in latest testing...</span></span></span>
 
 Yet deep does not mean infinite.
 
-The true magazine of a directed-energy defence system is the combination of: <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Directed-energy_weapon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Directed energy weapon</span><span class="citation-popover-snippet">Directed-energy weaponA directed-energy weapon (DEW) is a ranged weapon that damages its target with highly focused energy without a s...</span></span></span>
+The true magazine of a directed-energy defence system is the combination of:<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Directed-energy_weapon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Directed energy weapon</span><span class="citation-popover-snippet">Directed-energy weaponA directed-energy weapon (DEW) is a ranged weapon that damages its target with highly focused energy without a s...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
@@ -389,200 +389,200 @@ The true magazine of a directed-energy defence system is the combination of: <sp
 
 </div>
 
-When those supporting systems reach their limits, the laser’s practical magazine reaches its limit as well. In sustained drone defence, the decisive question is therefore not whether the weapon still has “ammo”, but whether the platform can continue producing and managing enough electrical power to keep the beam effective. Office of Naval Research+2National Defense Magazine <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-uspl-and-atmospheric-characterization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onr.navy.mil">[onr.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onr.navy.mil</span><span class="citation-popover-snippet">Office of Naval ResearchUltra-Short Pulse Laser and Atmospheric CharacterizationDirected energy weapons (DEWs) are defined as electromagn...</span></span></span>
+When those supporting systems reach their limits, the laser’s practical magazine reaches its limit as well. In sustained drone defence, the decisive question is therefore not whether the weapon still has “ammo”, but whether the platform can continue producing and managing enough electrical power to keep the beam effective. Office of Naval Research+2National Defense Magazine<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-uspl-and-atmospheric-characterization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onr.navy.mil">[onr.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onr.navy.mil</span><span class="citation-popover-snippet">Office of Naval ResearchUltra-Short Pulse Laser and Atmospheric CharacterizationDirected energy weapons (DEWs) are defined as electromagn...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_deep_magazine_f1e74e_power_as_maga_5694c6-Illustration-3-dark.svg" | relative_url }}" alt="Power Limits illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_deep_magazine_f1e74e_power_as_maga_5694c6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_cost_per_shot_05acf8_deep_magazine_f1e74e_power_as_maga_5694c6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Does Electrical Power Really Replace Ammunition?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Does Electrical Power Really Replace Ammunition?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Covers missile defense, drone threats, sensor networks, and the shift toward new defensive technologies relevant to deep-magazine concepts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers missile defense, drone threats, sensor networks, and the shift toward new defensive technologies relevant to deep-magazine concepts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+electrodynamics+David+Jeffrey+Griffiths&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to electrodynamics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/92086-M.jpg" alt="Cover for Introduction to electrodynamics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+electrodynamics+David+Jeffrey+Griffiths&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to electrodynamics">Introduction to electrodynamics</a>
-        </h4>
-        <p class="fr-book-author">By David Jeffrey Griffiths</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+electrodynamics+David+Jeffrey+Griffiths&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to electrodynamics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/92086-M.jpg" alt="Cover for Introduction to electrodynamics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+electrodynamics+David+Jeffrey+Griffiths&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to electrodynamics">Introduction to electrodynamics</a>
+</h4>
+<p class="fr-book-author">By David Jeffrey Griffiths</p>
         
-        <p class="fr-book-desc">First published 1981. Subjects: Electrodynamics, Elektrodynamica, Électrodynamique, Textbooks, 33.16 electromagnetism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+electrodynamics+David+Jeffrey+Griffiths&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1981. Subjects: Electrodynamics, Elektrodynamica, Électrodynamique, Textbooks, 33.16 electromagnetism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+electrodynamics+David+Jeffrey+Griffiths&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Effects+of+Directed+Energy+Weapons+Philip+E+Nielsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Effects of Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9061214-M.jpg" alt="Cover for Effects of Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Effects+of+Directed+Energy+Weapons+Philip+E+Nielsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Effects of Directed Energy Weapons">Effects of Directed Energy Weapons</a>
-        </h4>
-        <p class="fr-book-author">By Philip E Nielsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Effects+of+Directed+Energy+Weapons+Philip+E+Nielsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Effects of Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9061214-M.jpg" alt="Cover for Effects of Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Effects+of+Directed+Energy+Weapons+Philip+E+Nielsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Effects of Directed Energy Weapons">Effects of Directed Energy Weapons</a>
+</h4>
+<p class="fr-book-author">By Philip E Nielsen</p>
         
-        <p class="fr-book-desc">First published 2012.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Effects+of+Directed+Energy+Weapons+Philip+E+Nielsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Effects+of+Directed+Energy+Weapons+Philip+E+Nielsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
-        </h4>
-        <p class="fr-book-author">By Bahman Zohuri</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
+</h4>
+<p class="fr-book-author">By Bahman Zohuri</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+electrodynamics+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to electrodynamics books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Effects+of+Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Effects of Directed Energy Weapons</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+electrodynamics+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to electrodynamics books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Effects+of+Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Effects of Directed Energy Weapons</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+technology+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation technology print" data-ebay-reference="power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for digital twin or aviation technology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a2e5769ba2cd5ab96977.jpg' | relative_url }}" alt="Listing image for digital twin or aviation technology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+technology+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation technology print" data-ebay-reference="power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print" target="_blank" rel="sponsored noopener noreferrer">digital twin or aviation technology Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+technology+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation technology print" data-ebay-reference="power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation technology print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation technology print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+technology+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation technology print" data-ebay-reference="power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+technology+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation technology print" data-ebay-reference="power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for digital twin or aviation technology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a2e5769ba2cd5ab96977.jpg' | relative_url }}" alt="Listing image for digital twin or aviation technology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+technology+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation technology print" data-ebay-reference="power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print" target="_blank" rel="sponsored noopener noreferrer">digital twin or aviation technology Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+technology+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation technology print" data-ebay-reference="power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation technology print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation technology print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+technology+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation technology print" data-ebay-reference="power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+technology+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation technology print" data-ebay-reference="power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for aviation technology airplane interf Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f18bf629b299fbd50b3a.jpg' | relative_url }}" alt="Listing image for aviation technology airplane interf Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+technology+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation technology print" data-ebay-reference="power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print" target="_blank" rel="sponsored noopener noreferrer">aviation technology airplane interf Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+technology+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation technology print" data-ebay-reference="power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation technology print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation technology print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+technology+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation technology print" data-ebay-reference="power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+technology+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation technology print" data-ebay-reference="power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for aviation technology airplane interf Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f18bf629b299fbd50b3a.jpg' | relative_url }}" alt="Listing image for aviation technology airplane interf Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+technology+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation technology print" data-ebay-reference="power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print" target="_blank" rel="sponsored noopener noreferrer">aviation technology airplane interf Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+technology+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation technology print" data-ebay-reference="power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation technology print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation technology print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+technology+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation technology print" data-ebay-reference="power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+technology+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation technology print" data-ebay-reference="power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF English Electric LIGHTNING Military Jet Plane (A3 Print) Pencil Drawing"><img src="{{ '/assets/images/marketplace-covers/2b84aa1b48e57168e2f7.jpg' | relative_url }}" alt="Listing image for RAF English Electric LIGHTNING Military Jet Plane (A3 Print) Pencil Drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+technology+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation technology print" data-ebay-reference="power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print" target="_blank" rel="sponsored noopener noreferrer">RAF English Electric LIGHTNING Military Jet Plane (A3 Print) Pencil Drawing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+technology+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation technology print" data-ebay-reference="power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation technology print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation technology print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+technology+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation technology print" data-ebay-reference="power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+technology+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation technology print" data-ebay-reference="power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF English Electric LIGHTNING Military Jet Plane (A3 Print) Pencil Drawing"><img src="{{ '/assets/images/marketplace-covers/2b84aa1b48e57168e2f7.jpg' | relative_url }}" alt="Listing image for RAF English Electric LIGHTNING Military Jet Plane (A3 Print) Pencil Drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+technology+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation technology print" data-ebay-reference="power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print" target="_blank" rel="sponsored noopener noreferrer">RAF English Electric LIGHTNING Military Jet Plane (A3 Print) Pencil Drawing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+technology+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation technology print" data-ebay-reference="power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation technology print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation technology print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+technology+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation technology print" data-ebay-reference="power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+technology+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation technology print" data-ebay-reference="power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for aviation technology military aircra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d61fb9cd1c0f89892371.jpg' | relative_url }}" alt="Listing image for aviation technology military aircra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+technology+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation technology print" data-ebay-reference="power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print" target="_blank" rel="sponsored noopener noreferrer">aviation technology military aircra Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+technology+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation technology print" data-ebay-reference="power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation technology print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation technology print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+technology+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation technology print" data-ebay-reference="power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+technology+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation technology print" data-ebay-reference="power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+technology+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation technology print" data-ebay-reference="power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for aviation technology military aircra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d61fb9cd1c0f89892371.jpg' | relative_url }}" alt="Listing image for aviation technology military aircra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+technology+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation technology print" data-ebay-reference="power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print" target="_blank" rel="sponsored noopener noreferrer">aviation technology military aircra Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+technology+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation technology print" data-ebay-reference="power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation technology print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation technology print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+technology+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation technology print" data-ebay-reference="power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+technology+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation technology print" data-ebay-reference="power-limits-does-electrical-power-really-replace-ammunition-directed-ener-aviation-technology-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -598,7 +598,7 @@ When those supporting systems reach their limits, the laser’s practical magazi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -618,7 +618,7 @@ When those supporting systems reach their limits, the laser’s practical magazi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -650,7 +650,7 @@ When those supporting systems reach their limits, the laser’s practical magazi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -702,7 +702,7 @@ When those supporting systems reach their limits, the laser’s practical magazi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -747,7 +747,7 @@ When those supporting systems reach their limits, the laser’s practical magazi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -788,151 +788,151 @@ When those supporting systems reach their limits, the laser’s practical magazi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: onr.navy.mil  
-   Link: <a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-uspl-and-atmospheric-characterization" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-uspl-and-atmospheric-characterization</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Naval ResearchUltra-Short Pulse Laser and Atmospheric CharacterizationDirected energy weapons (DEWs) are defined as electromagn...</p></details>
+   Link:<a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-uspl-and-atmospheric-characterization" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-uspl-and-atmospheric-characterization</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Naval ResearchUltra-Short Pulse Laser and Atmospheric CharacterizationDirected energy weapons (DEWs) are defined as electromagn...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: laserwars.net  
    Title: laser weapon infinite magazine myth  
-   Link: <a href="https://www.laserwars.net/p/laser-weapon-infinite-magazine-myth" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/laser-weapon-infinite-magazine-myth</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Weapons and.the Myth of the &#x27;Infinite Magazine&#x27;Feb 23, 2026 — High-energy laser weapon advocates claim that such systems possess an...</p></details>
+   Link:<a href="https://www.laserwars.net/p/laser-weapon-infinite-magazine-myth" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/laser-weapon-infinite-magazine-myth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Weapons and.the Myth of the &#x27;Infinite Magazine&#x27;Feb 23, 2026 — High-energy laser weapon advocates claim that such systems possess an...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-[high-speed" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-[high-speed</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Boost for Armed Forces as new laser weapon takes down...November 20, 2025 — 20 Nov 2025 — DragonFire achieves UK first in latest testing...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-[high-speed" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-[high-speed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boost for Armed Forces as new laser weapon takes down...November 20, 2025 — 20 Nov 2025 — DragonFire achieves UK first in latest testing...</p></details>
    Published: November 20, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: High Energy Laser with Integrated Optical-dazzler and Surveillance  
-   Link: <a href="https://en.wikipedia.org/wiki/High_Energy_Laser_with_Integrated_Optical-dazzler_and_Surveillance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/High_Energy_Laser_with_Integrated_Optical-dazzler_and_Surveillance</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/High_Energy_Laser_with_Integrated_Optical-dazzler_and_Surveillance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/High_Energy_Laser_with_Integrated_Optical-dazzler_and_Surveillance</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: news.lockheedmartin.com  
-   Link: <a href="https://news.lockheedmartin.com/2021-01-11-Lockheed-Martin-Delivers-HELIOS-Laser-Weapon-System-to-US-Navy-for-Ship-Testing-and-Integration" target="_blank" rel="noopener noreferrer nofollow">https://news.lockheedmartin.com/2021-01-11-Lockheed-Martin-Delivers-HELIOS-Laser-Weapon-System-to-US-Navy-for-Ship-Testing-and-Integration</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lockheed MartinLockheed Martin Delivers HELIOS Laser Weapon System...11 Jan 2021 — The scalable laser design architecture spectrally com...</p></details>
+   Link:<a href="https://news.lockheedmartin.com/2021-01-11-Lockheed-Martin-Delivers-HELIOS-Laser-Weapon-System-to-US-Navy-for-Ship-Testing-and-Integration" target="_blank" rel="noopener noreferrer nofollow">https://news.lockheedmartin.com/2021-01-11-Lockheed-Martin-Delivers-HELIOS-Laser-Weapon-System-to-US-Navy-for-Ship-Testing-and-Integration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lockheed MartinLockheed Martin Delivers HELIOS Laser Weapon System...11 Jan 2021 — The scalable laser design architecture spectrally com...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: uk.leonardo.com  
    Title: UKDragon Fire – Laser Directed Energy Weapon  
-   Link: <a href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow">https://uk.leonardo.com/en/innovation/dragonfire</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Leonardo UKDragonFire – Laser Directed Energy Weapon - Leonardo UKThe DragonFire laser directed energy weapon (LDEW) system achieved the...</p></details>
+   Link:<a href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow">https://uk.leonardo.com/en/innovation/dragonfire</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leonardo UKDragonFire – Laser Directed Energy Weapon - Leonardo UKThe DragonFire laser directed energy weapon (LDEW) system achieved the...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: SEQ 3 Laser Weapon System  
-   Link: <a href="https://en.wikipedia.org/wiki/AN/SEQ-3_Laser_Weapon_System" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/AN/SEQ-3_Laser_Weapon_System</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AN/SEQ-3 Laser Weapon SystemThe AN/SEQ-3 Laser Weapon System or XN-1 LaWS is a laser weapon developed by the United States Navy. The w...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/AN/SEQ-3_Laser_Weapon_System" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/AN/SEQ-3_Laser_Weapon_System</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AN/SEQ-3 Laser Weapon SystemThe AN/SEQ-3 Laser Weapon System or XN-1 LaWS is a laser weapon developed by the United States Navy. The w...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Directed energy weapon  
-   Link: <a href="https://en.wikipedia.org/wiki/Directed-energy_weapon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Directed-energy_weapon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed-energy weaponA directed-energy weapon (DEW) is a ranged weapon that damages its target with highly focused energy without a s...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Directed-energy_weapon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Directed-energy_weapon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed-energy weaponA directed-energy weapon (DEW) is a ranged weapon that damages its target with highly focused energy without a s...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Laser weapon  
-   Link: <a href="https://en.wikipedia.org/wiki/Laser_weapon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Laser_weapon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser weaponA laser weapon is a type of directed-energy weapon (DEW) that uses [lasers](&amp;#123;&amp;#123; &#x27;lasers/&#x27; | relative_url &amp;#125;&amp;#125;) to inflict damage. Laser weapons are of two type...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Laser_weapon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Laser_weapon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser weaponA laser weapon is a type of directed-energy weapon (DEW) that uses [lasers](&amp;#123;&amp;#123; &#x27;lasers/&#x27; | relative_url &amp;#125;&amp;#125;) to inflict damage. Laser weapons are of two type...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: navytimes.com  
    Title: us navy hits drone with helios laser in successful test  
-   Link: <a href="https://www.navytimes.com/news/your-navy/2025/02/04/us-navy-hits-drone-with-helios-laser-in-successful-test/" target="_blank" rel="noopener noreferrer nofollow">https://www.navytimes.com/news/your-navy/2025/02/04/us-navy-hits-drone-with-helios-laser-in-successful-test/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Feb 2025 — Lockheed Martin delivered the 60-plus-kilowatt laser to the Navy in August 2022, when it became the first tactical laser sys...</p></details>
+   Link:<a href="https://www.navytimes.com/news/your-navy/2025/02/04/us-navy-hits-drone-with-helios-laser-in-successful-test/" target="_blank" rel="noopener noreferrer nofollow">https://www.navytimes.com/news/your-navy/2025/02/04/us-navy-hits-drone-with-helios-laser-in-successful-test/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Feb 2025 — Lockheed Martin delivered the 60-plus-kilowatt laser to the Navy in August 2022, when it became the first tactical laser sys...</p></details>
    Published: August 2022  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nationaldefensemagazine.org  
    Title: government perspective directed energy in air base defense can save the arsenal  
-   Link: <a href="https://www.nationaldefensemagazine.org/articles/2025/8/11/government-perspective-directed-energy-in-air-base-defense-can-save-the-arsenal" target="_blank" rel="noopener noreferrer nofollow">https://www.nationaldefensemagazine.org/articles/2025/8/11/government-perspective-directed-energy-in-air-base-defense-can-save-the-arsenal</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>High-power electromagnetic weapons require line-of-sight and are sensitive...Read more...</p></details>
+   Link:<a href="https://www.nationaldefensemagazine.org/articles/2025/8/11/government-perspective-directed-energy-in-air-base-defense-can-save-the-arsenal" target="_blank" rel="noopener noreferrer nofollow">https://www.nationaldefensemagazine.org/articles/2025/8/11/government-perspective-directed-energy-in-air-base-defense-can-save-the-arsenal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High-power electromagnetic weapons require line-of-sight and are sensitive...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: taskandpurpose.com  
-   Link: <a href="https://taskandpurpose.com/news/navy-laser-destroyer-power-helios/" target="_blank" rel="noopener noreferrer nofollow">https://taskandpurpose.com/news/navy-laser-destroyer-power-helios/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Task &amp; PurposeMany Navy ships don&#x27;t have enough power to fire lasers...Dec 5, 2019 — Currently, the Navy has a three-step plan for insta...</p></details>
+   Link:<a href="https://taskandpurpose.com/news/navy-laser-destroyer-power-helios/" target="_blank" rel="noopener noreferrer nofollow">https://taskandpurpose.com/news/navy-laser-destroyer-power-helios/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Task &amp; PurposeMany Navy ships don&#x27;t have enough power to fire lasers...Dec 5, 2019 — Currently, the Navy has a three-step plan for insta...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: defensenews.com  
-   Link: <a href="https://www.defensenews.com/newsletters/daily-news-roundup/2026/04/28/what-we-know-about-the-us-militarys-new-joint-laser-weapon-system/" target="_blank" rel="noopener noreferrer nofollow">https://www.defensenews.com/newsletters/daily-news-roundup/2026/04/28/what-we-know-about-the-us-militarys-new-joint-laser-weapon-system/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What we know about the US military&#x27;s new joint laser...2 days ago — The Army-Navy effort aims to produce a containerized 150-kilowatt hi...</p></details>
+   Link:<a href="https://www.defensenews.com/newsletters/daily-news-roundup/2026/04/28/what-we-know-about-the-us-militarys-new-joint-laser-weapon-system/" target="_blank" rel="noopener noreferrer nofollow">https://www.defensenews.com/newsletters/daily-news-roundup/2026/04/28/what-we-know-about-the-us-militarys-new-joint-laser-weapon-system/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What we know about the US military&#x27;s new joint laser...2 days ago — The Army-Navy effort aims to produce a containerized 150-kilowatt hi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: lockheedmartin.com  
-   Link: <a href="https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy | Lockheed MartinWe&#x27;re meeting customer challenges with innovation, designing and delivering the next generation of rugge...</p></details>
+   Link:<a href="https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy | Lockheed MartinWe&#x27;re meeting customer challenges with innovation, designing and delivering the next generation of rugge...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: defencesciencereview.com.pl  
    Title: pdf 216776 135052  
-   Link: <a href="https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-[Directed-Ener" target="_blank" rel="noopener noreferrer nofollow">https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-[Directed-Ener</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defence Science ReviewDEFENCE SCIENCE REVIEWby A Karkadakattil · 2026 · Cited by 1 — Table 1 compares the four main laser technologies fo...</p></details>
+   Link:<a href="https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-[Directed-Ener" target="_blank" rel="noopener noreferrer nofollow">https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-[Directed-Ener</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defence Science ReviewDEFENCE SCIENCE REVIEWby A Karkadakattil · 2026 · Cited by 1 — Table 1 compares the four main laser technologies fo...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: lockheedmartin.com  
-   Link: <a href="https://www.lockheedmartin.com/en-us/news/features/2021/more-than-a-laser-helios-is-an-integrated-weapon-system.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lockheedmartin.com/en-us/news/features/2021/more-than-a-laser-helios-is-an-integrated-weapon-system.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>More Than a Laser, HELIOS is an Integrated Weapon SystemJan 9, 2021 — During factory testing in Moorestown, New Jersey, HELIOS routinely...</p></details>
+   Link:<a href="https://www.lockheedmartin.com/en-us/news/features/2021/more-than-a-laser-helios-is-an-integrated-weapon-system.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lockheedmartin.com/en-us/news/features/2021/more-than-a-laser-helios-is-an-integrated-weapon-system.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>More Than a Laser, HELIOS is an Integrated Weapon SystemJan 9, 2021 — During factory testing in Moorestown, New Jersey, HELIOS routinely...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: thinkdefence.co.uk  
    Title: dragonfire laser weapon  
-   Link: <a href="https://www.thinkdefence.co.uk/docs/dragonfire-laser-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkdefence.co.uk/docs/dragonfire-laser-weapon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Feb 2026 — The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</p></details>
+   Link:<a href="https://www.thinkdefence.co.uk/docs/dragonfire-laser-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkdefence.co.uk/docs/dragonfire-laser-weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23 Feb 2026 — The DragonFire laser directed energy weapon (LDEW) system achieved the UK&#x27;s first high-power firing of a laser weapon again...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Laser-Based Directed Energy Weapons12 Apr 2026 — This review aims to evaluate the current capabilities of laser-based Directed Ener...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_Deployment_Pathways</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Laser-Based Directed Energy Weapons12 Apr 2026 — This review aims to evaluate the current capabilities of laser-based Directed Ener...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/377031877_Directed-Energy_Weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377031877_Directed-Energy_Weapons</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed-Energy WeaponsHigh-energy laser cannons have been tried against drones with encouraging outcomes; however, adverse weather condi...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/377031877_Directed-Energy_Weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377031877_Directed-Energy_Weapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed-Energy WeaponsHigh-energy laser cannons have been tried against drones with encouraging outcomes; however, adverse weather condi...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: amphenol-aerospace.com  
-   Link: <a href="https://www.amphenol-aerospace.com/blog/future-naval-capabilities-will-be-hungry-for-power" target="_blank" rel="noopener noreferrer nofollow">https://www.amphenol-aerospace.com/blog/future-naval-capabilities-will-be-hungry-for-power</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Future Naval Capabilities will be Hungry for PowerThe system is a 60-kilowatt class laser designed not only to disable drones and small c...</p></details>
+   Link:<a href="https://www.amphenol-aerospace.com/blog/future-naval-capabilities-will-be-hungry-for-power" target="_blank" rel="noopener noreferrer nofollow">https://www.amphenol-aerospace.com/blog/future-naval-capabilities-will-be-hungry-for-power</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Future Naval Capabilities will be Hungry for PowerThe system is a 60-kilowatt class laser designed not only to disable drones and small c...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: eos-aus.com  
-   Link: <a href="https://eos-aus.com/defence/high-energy-laser-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://eos-aus.com/defence/high-energy-laser-weapon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>High Energy Laser WeaponHarnessing advanced technology, EOS&#x27; High Energy Laser (HEL) weapon ensures swift and decisive action against UAS...</p></details>
+   Link:<a href="https://eos-aus.com/defence/high-energy-laser-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://eos-aus.com/defence/high-energy-laser-weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High Energy Laser WeaponHarnessing advanced technology, EOS&#x27; High Energy Laser (HEL) weapon ensures swift and decisive action against UAS...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: usni.org  
-   Link: <a href="https://www.usni.org/magazines/proceedings/2022/july/now-arriving-high-power-laser-competition" target="_blank" rel="noopener noreferrer nofollow">https://www.usni.org/magazines/proceedings/2022/july/now-arriving-high-power-laser-competition</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Now Arriving: High-Power Laser Competition | ProceedingsHELIOS will be similar to a scaled-up version of the 30 kilowatt (kW) AN/SEQ-3 La...</p></details>
+   Link:<a href="https://www.usni.org/magazines/proceedings/2022/july/now-arriving-high-power-laser-competition" target="_blank" rel="noopener noreferrer nofollow">https://www.usni.org/magazines/proceedings/2022/july/now-arriving-high-power-laser-competition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Now Arriving: High-Power Laser Competition | ProceedingsHELIOS will be similar to a scaled-up version of the 30 kilowatt (kW) AN/SEQ-3 La...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: lexingtoninstitute.org  
-   Link: <a href="https://lexingtoninstitute.org/wp-content/uploads/directed-energy-weapons.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lexingtoninstitute.org/wp-content/uploads/directed-energy-weapons.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>recent Defense Science Board report on high-energy lasers stated the case for the revolutionary implications of the deployment of directe...</p></details>
+   Link:<a href="https://lexingtoninstitute.org/wp-content/uploads/directed-energy-weapons.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lexingtoninstitute.org/wp-content/uploads/directed-energy-weapons.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>recent Defense Science Board report on high-energy lasers stated the case for the revolutionary implications of the deployment of directe...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: rtx.com  
-   Link: <a href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers</a>  
+   Link:<a href="https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.rtx.com/raytheon/what-we-do/integrated-air-and-missile-defense/lasers</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=cvQV7Mt02q4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cvQV7Mt02q4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Finally! Watch the US Navy&#x27;s Laser Weapon in ActionThe Helios is the US Navy&#x27;s first truly operational laser weapon with enough energy to...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cvQV7Mt02q4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cvQV7Mt02q4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Finally! Watch the US Navy&#x27;s Laser Weapon in ActionThe Helios is the US Navy&#x27;s first truly operational laser weapon with enough energy to...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: aspistrategist.org.au  
    Title: war at the speed of light the emerging role of directed energy weapons  
-   Link: <a href="https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow">https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the emerging role of directed-energy weapons15 Apr 2026 — Certainly, directed-energy weapons may be key to inexpensively countering missi...</p></details>
+   Link:<a href="https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/" target="_blank" rel="noopener noreferrer nofollow">https://www.aspistrategist.org.au/war-at-the-speed-of-light-the-emerging-role-of-directed-energy-weapons/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the emerging role of directed-energy weapons15 Apr 2026 — Certainly, directed-energy weapons may be key to inexpensively countering missi...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: tomshardware.com  
    Title: uk confirms dragonfire laser weapon for royal navy destroyers by 2027  
-   Link: <a href="https://www.tomshardware.com/tech-industry/uk-confirms-dragonfire-laser-weapon-for-royal-navy-destroyers-by-2027" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/uk-confirms-dragonfire-laser-weapon-for-royal-navy-destroyers-by-2027</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This follows a £316 million ($414 million) contract awarded to MBDA UK for the first two production units. DragonFire, a 50 kW-class lase...</p></details>
+   Link:<a href="https://www.tomshardware.com/tech-industry/uk-confirms-dragonfire-laser-weapon-for-royal-navy-destroyers-by-2027" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/uk-confirms-dragonfire-laser-weapon-for-royal-navy-destroyers-by-2027</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This follows a £316 million ($414 million) contract awarded to MBDA UK for the first two production units. DragonFire, a 50 kW-class lase...</p></details>

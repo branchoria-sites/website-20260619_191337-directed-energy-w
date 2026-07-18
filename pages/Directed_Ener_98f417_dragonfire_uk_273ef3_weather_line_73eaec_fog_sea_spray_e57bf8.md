@@ -275,19 +275,19 @@ image: /assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_weather_line_73e
 
 ## Introduction
 
-DragonFire’s ability to destroy drones and other aerial threats depends on delivering a tightly focused beam through the [atmosphere]({{ 'atmosphere/' | relative_url }}) to a visible target. At sea, that requirement becomes far more demanding than it appears in controlled demonstrations. Fog, mist, salt-laden spray and humid marine air can all reduce the amount of laser energy that reaches a target and can distort the beam before it arrives. The result is not simply a shorter maximum range. A target may require longer exposure, tracking becomes more difficult, and the probability of a successful engagement can fall even when the target remains visible to sensors. For a naval laser, [bad weather]({{ 'bad-weather/' | relative_url }}) is therefore not just an inconvenience but a direct limitation on combat effectiveness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Leonardo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">19 Jan 2024 — The range of DragonFire is classified, but it is a line-of-sight weapon and can engage with any visible target. Laser boast...</span></span></span>
+DragonFire’s ability to destroy drones and other aerial threats depends on delivering a tightly focused beam through the [atmosphere]({{ 'atmosphere/' | relative_url }}) to a visible target. At sea, that requirement becomes far more demanding than it appears in controlled demonstrations. Fog, mist, salt-laden spray and humid marine air can all reduce the amount of laser energy that reaches a target and can distort the beam before it arrives. The result is not simply a shorter maximum range. A target may require longer exposure, tracking becomes more difficult, and the probability of a successful engagement can fall even when the target remains visible to sensors. For a naval laser, [bad weather]({{ 'bad-weather/' | relative_url }}) is therefore not just an inconvenience but a direct limitation on combat effectiveness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Leonardo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">19 Jan 2024 — The range of DragonFire is classified, but it is a line-of-sight weapon and can engage with any visible target. Laser boast...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_weather_line_73eaec_fog_sea_spray_e57bf8-Illustration-1-dark.svg" | relative_url }}" alt="Fog and Spray illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_weather_line_73eaec_fog_sea_spray_e57bf8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_weather_line_73eaec_fog_sea_spray_e57bf8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Water Droplets Scatter and Absorb Beam Energy
 
-A high-energy laser works best when travelling through relatively clear air. Fog and sea spray fill that air with countless suspended water droplets. Each droplet can scatter part of the beam away from its intended path and absorb a fraction of the energy that would otherwise be concentrated on the target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/259275472_Wavelength_and_altitude_dependence_of_laser_beam_propagation_in_dense_fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Wavelength and altitude dependence of laser beam...13 Jan 2015 — Our results show that an atmospheric attenuation in s...</span></span></span>
+A high-energy laser works best when travelling through relatively clear air. Fog and sea spray fill that air with countless suspended water droplets. Each droplet can scatter part of the beam away from its intended path and absorb a fraction of the energy that would otherwise be concentrated on the target.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/259275472_Wavelength_and_altitude_dependence_of_laser_beam_propagation_in_dense_fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Wavelength and altitude dependence of laser beam...13 Jan 2015 — Our results show that an atmospheric attenuation in s...</span></span></span>
 
-The key problem is that a laser weapon relies on concentrating energy into an extremely small spot. If atmospheric particles spread that energy over a wider area, the target receives less heat per square centimetre. Even modest losses can matter because laser damage depends on maintaining sufficient energy density to burn, melt or structurally weaken the target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/259275472_Wavelength_and_altitude_dependence_of_laser_beam_propagation_in_dense_fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Every CRS Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Wavelength and altitude dependence of laser beam...13 Jan 2015 — Our results show that an atmospheric attenuation in s...</span></span></span>
+The key problem is that a laser weapon relies on concentrating energy into an extremely small spot. If atmospheric particles spread that energy over a wider area, the target receives less heat per square centimetre. Even modest losses can matter because laser damage depends on maintaining sufficient energy density to burn, melt or structurally weaken the target.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/259275472_Wavelength_and_altitude_dependence_of_laser_beam_propagation_in_dense_fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Every CRS Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Wavelength and altitude dependence of laser beam...13 Jan 2015 — Our results show that an atmospheric attenuation in s...</span></span></span>
 
-Dense fog is especially challenging because droplet sizes are often comparable to the [wavelengths]({{ 'wavelengths/' | relative_url }}) used by many laser systems. Under these conditions, scattering becomes highly effective. Studies of laser propagation in dense fog have found substantial attenuation across visible and infrared wavelengths, with some dense fog conditions causing severe transmission losses even at wavelengths traditionally considered favourable for laser systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/259275472_Wavelength_and_altitude_dependence_of_laser_beam_propagation_in_dense_fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Wavelength and altitude dependence of laser beam...13 Jan 2015 — Our results show that an atmospheric attenuation in s...</span></span></span>
+Dense fog is especially challenging because droplet sizes are often comparable to the [wavelengths]({{ 'wavelengths/' | relative_url }}) used by many laser systems. Under these conditions, scattering becomes highly effective. Studies of laser propagation in dense fog have found substantial attenuation across visible and infrared wavelengths, with some dense fog conditions causing severe transmission losses even at wavelengths traditionally considered favourable for laser systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/259275472_Wavelength_and_altitude_dependence_of_laser_beam_propagation_in_dense_fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Wavelength and altitude dependence of laser beam...13 Jan 2015 — Our results show that an atmospheric attenuation in s...</span></span></span>
 
-Sea spray introduces an additional complication. Unlike pure [fog droplets]({{ 'fog-droplets/' | relative_url }}), marine aerosols contain salt particles and varying droplet sizes generated by breaking waves and strong winds. Naval research programmes specifically study marine aerosol boundary layers because salt aerosols can alter both scattering and absorption characteristics and interact with atmospheric turbulence in ways that degrade laser propagation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navysbir.com/n23_A/N23A-T012.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navysbir.com">[Navy SBIR+2American Meteorological Society Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navysbir.com</span><span class="citation-popover-snippet">yer for the integration of propagation modeling software...</span></span></span>
+Sea spray introduces an additional complication. Unlike pure [fog droplets]({{ 'fog-droplets/' | relative_url }}), marine aerosols contain salt particles and varying droplet sizes generated by breaking waves and strong winds. Naval research programmes specifically study marine aerosol boundary layers because salt aerosols can alter both scattering and absorption characteristics and interact with atmospheric turbulence in ways that degrade laser propagation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navysbir.com/n23_A/N23A-T012.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navysbir.com">[Navy SBIR+2American Meteorological Society Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navysbir.com</span><span class="citation-popover-snippet">yer for the integration of propagation modeling software...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Vg2IuPKqvt4" title="DragonFire: New declassified footage of £10-a-shot laser precision weapon in action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Vg2IuPKqvt4" target="_blank" rel="noopener noreferrer">DragonFire: New declassified footage of £10-a-shot laser precision weapon in action</a></p><p class="youtube-embed-meta">Channel: BFBS Forces News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Vg2IuPKqvt4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Vg2IuPKqvt4">Open on YouTube</a></p></div></div></div>
@@ -296,7 +296,7 @@ Sea spray introduces an additional complication. Unlike pure [fog droplets]({{ '
 
 A laser demonstration on a clear range and a laser engagement over the sea can present very different atmospheric environments.
 
-The air immediately above the ocean is known as the marine boundary layer. It is often characterised by high humidity, rapidly changing temperature gradients, suspended salt particles and local turbulence generated by the interaction between sea and air. These conditions are important enough that dedicated military modelling tools have been developed to estimate how they affect ship-defence laser performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.ametsoc.org/view/journals/apme/50/1/2010jamc2482.1.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.ametsoc.org">[American Meteorological Society Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.ametsoc.org</span><span class="citation-popover-snippet">American Meteorological Society JournalsClimate Change: Anticipated Effects on High-Energy Laser...by ST Fiorino · 2011 · Cited by 10 —...</span></span></span>
+The air immediately above the ocean is known as the marine boundary layer. It is often characterised by high humidity, rapidly changing temperature gradients, suspended salt particles and local turbulence generated by the interaction between sea and air. These conditions are important enough that dedicated military modelling tools have been developed to estimate how they affect ship-defence laser performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.ametsoc.org/view/journals/apme/50/1/2010jamc2482.1.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.ametsoc.org">[American Meteorological Society Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.ametsoc.org</span><span class="citation-popover-snippet">American Meteorological Society JournalsClimate Change: Anticipated Effects on High-Energy Laser...by ST Fiorino · 2011 · Cited by 10 —...</span></span></span>
 
 Marine air can degrade a beam in several overlapping ways:
 
@@ -306,13 +306,13 @@ Marine air can degrade a beam in several overlapping ways:
 * **Humidity and water vapour** absorb some laser energy.
 * **Salt aerosols and spray droplets** scatter light out of the beam path.
 * **Temperature variations** distort the beam through refractive effects.
-* **Wind-driven spray** can rapidly change atmospheric conditions from one moment to the next. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navysbir.com/n23_A/N23A-T012.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navysbir.com">[Navy SBIR+2American Meteorological Society Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navysbir.com</span><span class="citation-popover-snippet">yer for the integration of propagation modeling software...</span></span></span>
+* **Wind-driven spray** can rapidly change atmospheric conditions from one moment to the next.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navysbir.com/n23_A/N23A-T012.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navysbir.com">[Navy SBIR+2American Meteorological Society Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navysbir.com</span><span class="citation-popover-snippet">yer for the integration of propagation modeling software...</span></span></span>
 
 </div>
 
-The challenge is not merely a reduction in raw power. DragonFire must keep a highly concentrated spot on a moving target while the target moves, the ship moves and the atmosphere itself changes between the two. Leonardo, one of the programme partners, highlights atmospheric interference as a core beam-control challenge alongside target and platform motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.leonardo.com">[Leonardo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.leonardo.com</span><span class="citation-popover-title">Dragon Fire – Laser Directed Energy Weapon</span><span class="citation-popover-snippet">DragonFire – Laser Directed Energy Weapon - Leonardo UKthe platform carrying the laser system is moving and there is atmospheric...</span></span></span>
+The challenge is not merely a reduction in raw power. DragonFire must keep a highly concentrated spot on a moving target while the target moves, the ship moves and the atmosphere itself changes between the two. Leonardo, one of the programme partners, highlights atmospheric interference as a core beam-control challenge alongside target and platform motion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.leonardo.com">[Leonardo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.leonardo.com</span><span class="citation-popover-title">Dragon Fire – Laser Directed Energy Weapon</span><span class="citation-popover-snippet">DragonFire – Laser Directed Energy Weapon - Leonardo UKthe platform carrying the laser system is moving and there is atmospheric...</span></span></span>
 
-This is why naval [lasers]({{ 'lasers/' | relative_url }}) are frequently described as weather-sensitive systems. Even advocates of directed-energy weapons generally acknowledge that atmospheric conditions near the sea surface are among the most difficult environments for laser propagation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/AN/SEQ-3_Laser_Weapon_System" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Every CRS Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">AN/SEQ-3 Laser Weapon System</span><span class="citation-popover-snippet">AN/SEQ-3 Laser Weapon System</span></span></span>
+This is why naval [lasers]({{ 'lasers/' | relative_url }}) are frequently described as weather-sensitive systems. Even advocates of directed-energy weapons generally acknowledge that atmospheric conditions near the sea surface are among the most difficult environments for laser propagation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/AN/SEQ-3_Laser_Weapon_System" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Every CRS Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">AN/SEQ-3 Laser Weapon System</span><span class="citation-popover-snippet">AN/SEQ-3 Laser Weapon System</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_weather_line_73eaec_fog_sea_spray_e57bf8-Illustration-2-dark.svg" | relative_url }}" alt="Fog and Spray illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_weather_line_73eaec_fog_sea_spray_e57bf8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_weather_line_73eaec_fog_sea_spray_e57bf8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -320,24 +320,24 @@ This is why naval [lasers]({{ 'lasers/' | relative_url }}) are frequently descri
 
 A common misconception is that bad weather simply reduces the maximum range of a laser weapon. In practice, several performance measures deteriorate simultaneously.
 
-First, less energy reaches the target. A target that might be damaged quickly in clear conditions may require a longer period of illumination in fog or spray. This longer exposure requirement is often called increased dwell time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everycrsreport.com/files/2022-04-01_R44175_68bafcbeb4f98af9965519a9a59716c767190083.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everycrsreport.com">[Every CRS Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everycrsreport.com</span><span class="citation-popover-snippet">Every CRS ReportUntitled... effects of atmospheric turbulence. Even so, lasers might not work well, or at all, in rain or fog, preventing...</span></span></span>
+First, less energy reaches the target. A target that might be damaged quickly in clear conditions may require a longer period of illumination in fog or spray. This longer exposure requirement is often called increased dwell time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everycrsreport.com/files/2022-04-01_R44175_68bafcbeb4f98af9965519a9a59716c767190083.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everycrsreport.com">[Every CRS Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everycrsreport.com</span><span class="citation-popover-snippet">Every CRS ReportUntitled... effects of atmospheric turbulence. Even so, lasers might not work well, or at all, in rain or fog, preventing...</span></span></span>
 
-Second, [beam quality]({{ 'beam-quality/' | relative_url }}) declines. Scattering and atmospheric distortion can enlarge the spot size on the target, reducing heating effectiveness even if total transmitted power remains substantial. The laser may still hit the target but with a less concentrated energy distribution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/259275472_Wavelength_and_altitude_dependence_of_laser_beam_propagation_in_dense_fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Wavelength and altitude dependence of laser beam...13 Jan 2015 — Our results show that an atmospheric attenuation in s...</span></span></span>
+Second, [beam quality]({{ 'beam-quality/' | relative_url }}) declines. Scattering and atmospheric distortion can enlarge the spot size on the target, reducing heating effectiveness even if total transmitted power remains substantial. The laser may still hit the target but with a less concentrated energy distribution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/259275472_Wavelength_and_altitude_dependence_of_laser_beam_propagation_in_dense_fog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Wavelength and altitude dependence of laser beam...13 Jan 2015 — Our results show that an atmospheric attenuation in s...</span></span></span>
 
-Third, tracking becomes more demanding. If a drone or missile is manoeuvring while the beam requires a longer dwell time, maintaining precise aim becomes harder. Small tracking errors that would be acceptable during a short engagement can become critical when the laser must remain fixed on a vulnerable point for longer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.leonardo.com">[Leonardo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.leonardo.com</span><span class="citation-popover-title">Dragon Fire – Laser Directed Energy Weapon</span><span class="citation-popover-snippet">DragonFire – Laser Directed Energy Weapon - Leonardo UKthe platform carrying the laser system is moving and there is atmospheric...</span></span></span>
+Third, tracking becomes more demanding. If a drone or missile is manoeuvring while the beam requires a longer dwell time, maintaining precise aim becomes harder. Small tracking errors that would be acceptable during a short engagement can become critical when the laser must remain fixed on a vulnerable point for longer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.leonardo.com">[Leonardo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.leonardo.com</span><span class="citation-popover-title">Dragon Fire – Laser Directed Energy Weapon</span><span class="citation-popover-snippet">DragonFire – Laser Directed Energy Weapon - Leonardo UKthe platform carrying the laser system is moving and there is atmospheric...</span></span></span>
 
-The combined effect means that a reduction in atmospheric transmission can create a disproportionate reduction in practical engagement performance. A target may remain detectable and technically within line of sight, yet still become a much harder kill because energy delivery, beam focus and tracking margins all degrade together. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everycrsreport.com/files/2022-04-01_R44175_68bafcbeb4f98af9965519a9a59716c767190083.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everycrsreport.com">[Every CRS Report+2laserwars.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everycrsreport.com</span><span class="citation-popover-snippet">Every CRS ReportUntitled... effects of atmospheric turbulence. Even so, lasers might not work well, or at all, in rain or fog, preventing...</span></span></span>
+The combined effect means that a reduction in atmospheric transmission can create a disproportionate reduction in practical engagement performance. A target may remain detectable and technically within line of sight, yet still become a much harder kill because energy delivery, beam focus and tracking margins all degrade together.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everycrsreport.com/files/2022-04-01_R44175_68bafcbeb4f98af9965519a9a59716c767190083.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everycrsreport.com">[Every CRS Report+2laserwars.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everycrsreport.com</span><span class="citation-popover-snippet">Every CRS ReportUntitled... effects of atmospheric turbulence. Even so, lasers might not work well, or at all, in rain or fog, preventing...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B_TSOSaa-rQ" title="Dragonfire Laser Weapon Explained: Inside the British Royal Navy’s Type 45 Warship Integration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B_TSOSaa-rQ" target="_blank" rel="noopener noreferrer">Dragonfire Laser Weapon Explained: Inside the British Royal Navy’s Type 45 Warship Integration</a></p><p class="youtube-embed-meta">Channel: DefenseWebTV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B_TSOSaa-rQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B_TSOSaa-rQ">Open on YouTube</a></p></div></div></div>
 
 ## Why Fog Can Become a Tactical Problem
 
-The Ministry of Defence describes DragonFire as a line-of-sight weapon capable of engaging visible targets. That formulation is important because visibility itself becomes part of the weapon's effectiveness envelope. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">19 Jan 2024 — The range of DragonFire is classified, but it is a line-of-sight weapon and can engage with any visible target. Laser boast...</span></span></span>
+The Ministry of Defence describes DragonFire as a line-of-sight weapon capable of engaging visible targets. That formulation is important because visibility itself becomes part of the weapon's effectiveness envelope.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">19 Jan 2024 — The range of DragonFire is classified, but it is a line-of-sight weapon and can engage with any visible target. Laser boast...</span></span></span>
 
-Heavy maritime fog can reduce optical visibility and simultaneously weaken laser propagation. This creates a double penalty. The target becomes harder to observe, and the beam that must reach it becomes less effective. Congressional Research Service assessments of naval laser weapons note that rain and fog can reduce effectiveness to the point where lasers should not be regarded as all-weather systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everycrsreport.com/files/2022-04-01_R44175_68bafcbeb4f98af9965519a9a59716c767190083.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everycrsreport.com">[Every CRS Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everycrsreport.com</span><span class="citation-popover-snippet">Every CRS ReportUntitled... effects of atmospheric turbulence. Even so, lasers might not work well, or at all, in rain or fog, preventing...</span></span></span>
+Heavy maritime fog can reduce optical visibility and simultaneously weaken laser propagation. This creates a double penalty. The target becomes harder to observe, and the beam that must reach it becomes less effective. Congressional Research Service assessments of naval laser weapons note that rain and fog can reduce effectiveness to the point where lasers should not be regarded as all-weather systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.everycrsreport.com/files/2022-04-01_R44175_68bafcbeb4f98af9965519a9a59716c767190083.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everycrsreport.com">[Every CRS Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everycrsreport.com</span><span class="citation-popover-snippet">Every CRS ReportUntitled... effects of atmospheric turbulence. Even so, lasers might not work well, or at all, in rain or fog, preventing...</span></span></span>
 
-For naval planners, this does not mean DragonFire becomes useless in poor weather. Rather, it reinforces the logic of layered defence. Missiles, guns and lasers each perform differently under changing environmental conditions. A laser may be highly attractive against drones in clear weather because of its low shot cost and [deep magazine]({{ 'deep-magazine/' | relative_url }}), but commanders still require conventional weapons when atmospheric conditions become unfavourable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.royalnavy.mod.uk/news/2024/april/12/240412-powerful-laser-to-be-installed-on-royal-navy-warship-by-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalnavy.mod.uk">[royalnavy.mod.uk+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalnavy.mod.uk</span><span class="citation-popover-title">240412 powerful laser to be installed on royal navy warship by 2027</span><span class="citation-popover-snippet">Powerful laser to be installed on Royal Navy warship by 202712 Apr 2024 — The cutting-edge DragonFire laser will be installed on a warshi...</span></span></span>
+For naval planners, this does not mean DragonFire becomes useless in poor weather. Rather, it reinforces the logic of layered defence. Missiles, guns and lasers each perform differently under changing environmental conditions. A laser may be highly attractive against drones in clear weather because of its low shot cost and [deep magazine]({{ 'deep-magazine/' | relative_url }}), but commanders still require conventional weapons when atmospheric conditions become unfavourable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.royalnavy.mod.uk/news/2024/april/12/240412-powerful-laser-to-be-installed-on-royal-navy-warship-by-2027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalnavy.mod.uk">[royalnavy.mod.uk+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalnavy.mod.uk</span><span class="citation-popover-title">240412 powerful laser to be installed on royal navy warship by 2027</span><span class="citation-popover-snippet">Powerful laser to be installed on Royal Navy warship by 202712 Apr 2024 — The cutting-edge DragonFire laser will be installed on a warshi...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_weather_line_73eaec_fog_sea_spray_e57bf8-Illustration-3-dark.svg" | relative_url }}" alt="Fog and Spray illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_weather_line_73eaec_fog_sea_spray_e57bf8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_weather_line_73eaec_fog_sea_spray_e57bf8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -345,203 +345,203 @@ For naval planners, this does not mean DragonFire becomes useless in poor weathe
 
 The most important takeaway is that fog and sea spray do not merely trim a few percentage points from laser performance. They attack the fundamental requirement of any high-energy laser weapon: delivering concentrated energy through the atmosphere.
 
-Water droplets scatter and absorb energy. Marine aerosols introduce additional losses. Humid, turbulent air can distort the beam. Together these effects reduce effective range, increase required dwell time and lower shot quality. Because DragonFire is intended for naval use, it must operate in precisely the environment where these challenges are most persistent. Leonardo+3Navy SBIR+3American Meteorological Society Journals <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navysbir.com/n23_A/N23A-T012.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navysbir.com">[navysbir.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navysbir.com</span><span class="citation-popover-snippet">yer for the integration of propagation modeling software...</span></span></span>
+Water droplets scatter and absorb energy. Marine aerosols introduce additional losses. Humid, turbulent air can distort the beam. Together these effects reduce effective range, increase required dwell time and lower shot quality. Because DragonFire is intended for naval use, it must operate in precisely the environment where these challenges are most persistent. Leonardo+3Navy SBIR+3American Meteorological Society Journals<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navysbir.com/n23_A/N23A-T012.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navysbir.com">[navysbir.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navysbir.com</span><span class="citation-popover-snippet">yer for the integration of propagation modeling software...</span></span></span>
 
-As a result, the practical reach of DragonFire is not defined solely by laser power or classified range figures. It is also defined by the state of the atmosphere between the ship and the target. On a clear day the system may exploit much more of its potential; in fog, mist or heavy spray, the same target can effectively become farther away even when the measured distance remains unchanged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">19 Jan 2024 — The range of DragonFire is classified, but it is a line-of-sight weapon and can engage with any visible target. Laser boast...</span></span></span>
+As a result, the practical reach of DragonFire is not defined solely by laser power or classified range figures. It is also defined by the state of the atmosphere between the ship and the target. On a clear day the system may exploit much more of its potential; in fog, mist or heavy spray, the same target can effectively become farther away even when the measured distance remains unchanged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">advanced future military laser achieves uk first</span><span class="citation-popover-snippet">19 Jan 2024 — The range of DragonFire is classified, but it is a line-of-sight weapon and can engage with any visible target. Laser boast...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tpVoF7wmu2I" title="The evolution of laser defence systems" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tpVoF7wmu2I" target="_blank" rel="noopener noreferrer">The evolution of laser defence systems</a></p><p class="youtube-embed-meta">Channel: AvsecTV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tpVoF7wmu2I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tpVoF7wmu2I">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Bad Weather Shortens a Laser Shot. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Bad Weather Shortens a Laser Shot. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Principles+of+Lasers+Orazio+Svelto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Principles of Lasers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8709531-M.jpg" alt="Cover for Principles of Lasers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Principles+of+Lasers+Orazio+Svelto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Principles of Lasers">Principles of Lasers</a>
-        </h4>
-        <p class="fr-book-author">By Orazio Svelto</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Principles+of+Lasers+Orazio+Svelto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Principles of Lasers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8709531-M.jpg" alt="Cover for Principles of Lasers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Principles+of+Lasers+Orazio+Svelto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Principles of Lasers">Principles of Lasers</a>
+</h4>
+<p class="fr-book-author">By Orazio Svelto</p>
         
-        <p class="fr-book-desc">First published 1970. Subjects: Lasers, Quantum theory, Physics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Principles+of+Lasers+Orazio+Svelto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1970. Subjects: Lasers, Quantum theory, Physics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Principles+of+Lasers+Orazio+Svelto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fleet Tactics And Naval Operations, Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8833607-M.jpg" alt="Cover for Fleet Tactics And Naval Operations, Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fleet Tactics And Naval Operations, Third Edition">Fleet Tactics And Naval Operations, Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Wayne Hughes, Robert Girrier</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fleet Tactics And Naval Operations, Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8833607-M.jpg" alt="Cover for Fleet Tactics And Naval Operations, Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fleet Tactics And Naval Operations, Third Edition">Fleet Tactics And Naval Operations, Third Edition</a>
+</h4>
+<p class="fr-book-author">By Wayne Hughes, Robert Girrier</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Naval tactics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Naval tactics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Introduction+to+Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Directed Energy Weapons">Introduction to Directed Energy Weapons</a>
-        </h4>
-        <p class="fr-book-author">By Bahman Zohuri</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Introduction+to+Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Directed Energy Weapons">Introduction to Directed Energy Weapons</a>
+</h4>
+<p class="fr-book-author">By Bahman Zohuri</p>
         
-        <p class="fr-book-desc">Discusses atmospheric attenuation and weather effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses atmospheric attenuation and weather effects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies%2C+Applications+and+Implications+William+H.+Possel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons: Technologies, Applications and Implications on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies%2C+Applications+and+Implications+William+H.+Possel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons: Technologies, Applications and Implications">Directed Energy Weapons: Technologies, Applications and Impli...</a>
-        </h4>
-        <p class="fr-book-author">By William H. Possel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies%2C+Applications+and+Implications+William+H.+Possel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons: Technologies, Applications and Implications on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies%2C+Applications+and+Implications+William+H.+Possel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons: Technologies, Applications and Implications">Directed Energy Weapons: Technologies, Applications and Impli...</a>
+</h4>
+<p class="fr-book-author">By William H. Possel</p>
         
-        <p class="fr-book-desc">Covers propagation and effectiveness challenges.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies%2C+Applications+and+Implications+William+H.+Possel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers propagation and effectiveness challenges.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons%3A+Technologies%2C+Applications+and+Implications+William+H.+Possel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Principles+of+Lasers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Principles of Lasers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fleet Tactics And Naval Operations, Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Directed+Energy+Weapons+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Directed Energy Weapons books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Principles+of+Lasers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Principles of Lasers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fleet Tactics And Naval Operations, Third Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Directed+Energy+Weapons+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Directed Energy Weapons books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MQ-9 Predator B Reaper Hunter Killer Drone USAF UAV Wood Wooden Mahogany Model"><img src="{{ '/assets/images/marketplace-covers/36842923c06fd5ba855b.jpg' | relative_url }}" alt="Listing image for MQ-9 Predator B Reaper Hunter Killer Drone USAF UAV Wood Wooden Mahogany Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">MQ-9 Predator B Reaper Hunter Killer Drone USAF UAV Wood Wooden Mahogany Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MQ-9 Predator B Reaper Hunter Killer Drone USAF UAV Wood Wooden Mahogany Model"><img src="{{ '/assets/images/marketplace-covers/36842923c06fd5ba855b.jpg' | relative_url }}" alt="Listing image for MQ-9 Predator B Reaper Hunter Killer Drone USAF UAV Wood Wooden Mahogany Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">MQ-9 Predator B Reaper Hunter Killer Drone USAF UAV Wood Wooden Mahogany Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF Boeing YAL-1A Airborne Laser Edwards AFB Desk Top Model 1/200 SC Airplane"><img src="{{ '/assets/images/marketplace-covers/50462e7e924f17a01d9d.jpg' | relative_url }}" alt="Listing image for USAF Boeing YAL-1A Airborne Laser Edwards AFB Desk Top Model 1/200 SC Airplane" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">USAF Boeing YAL-1A Airborne Laser Edwards AFB Desk Top Model 1/200 SC Airplane</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF Boeing YAL-1A Airborne Laser Edwards AFB Desk Top Model 1/200 SC Airplane"><img src="{{ '/assets/images/marketplace-covers/50462e7e924f17a01d9d.jpg' | relative_url }}" alt="Listing image for USAF Boeing YAL-1A Airborne Laser Edwards AFB Desk Top Model 1/200 SC Airplane" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">USAF Boeing YAL-1A Airborne Laser Edwards AFB Desk Top Model 1/200 SC Airplane</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit"><img src="{{ '/assets/images/marketplace-covers/e39e7ba02c6fc339dd8d.jpg' | relative_url }}" alt="Listing image for Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit"><img src="{{ '/assets/images/marketplace-covers/e39e7ba02c6fc339dd8d.jpg' | relative_url }}" alt="Listing image for Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">Vintage Vietnam Era Texas Instruments Laser Guided Bomb Display Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit"><img src="{{ '/assets/images/marketplace-covers/3327be5d6e43f1a2d594.jpg' | relative_url }}" alt="Listing image for Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit"><img src="{{ '/assets/images/marketplace-covers/3327be5d6e43f1a2d594.jpg' | relative_url }}" alt="Listing image for Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">Vintage Vietnam Era Texas Instruments Laser Guided Display Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: military laser display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser display model" data-ebay-reference="fog-and-spray-when-bad-weather-shortens-a-laser-shot-directed-ener-military-laser-display-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -557,7 +557,7 @@ As a result, the practical reach of DragonFire is not defined solely by laser po
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -577,7 +577,7 @@ As a result, the practical reach of DragonFire is not defined solely by laser po
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -609,7 +609,7 @@ As a result, the practical reach of DragonFire is not defined solely by laser po
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -661,7 +661,7 @@ As a result, the practical reach of DragonFire is not defined solely by laser po
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -706,7 +706,7 @@ As a result, the practical reach of DragonFire is not defined solely by laser po
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -747,145 +747,145 @@ As a result, the practical reach of DragonFire is not defined solely by laser po
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: advanced future military laser achieves uk first  
-   Link: <a href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>19 Jan 2024 — The range of DragonFire is classified, but it is a line-of-sight weapon and can engage with any visible target. Laser boast...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/advanced-future-military-laser-achieves-uk-first</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>19 Jan 2024 — The range of DragonFire is classified, but it is a line-of-sight weapon and can engage with any visible target. Laser boast...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: uk.leonardo.com  
    Title: Dragon Fire – Laser Directed Energy Weapon  
-   Link: <a href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow">https://uk.leonardo.com/en/innovation/dragonfire</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire – Laser Directed Energy Weapon - Leonardo UKthe platform carrying the laser system is moving and there is atmospheric...</p></details>
+   Link:<a href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow">https://uk.leonardo.com/en/innovation/dragonfire</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire – Laser Directed Energy Weapon - Leonardo UKthe platform carrying the laser system is moving and there is atmospheric...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/259275472_Wavelength_and_altitude_dependence_of_laser_beam_propagation_in_dense_fog" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259275472_Wavelength_and_altitude_dependence_of_laser_beam_propagation_in_dense_fog</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Wavelength and altitude dependence of laser beam...13 Jan 2015 — Our results show that an atmospheric attenuation in s...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/259275472_Wavelength_and_altitude_dependence_of_laser_beam_propagation_in_dense_fog" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259275472_Wavelength_and_altitude_dependence_of_laser_beam_propagation_in_dense_fog</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Wavelength and altitude dependence of laser beam...13 Jan 2015 — Our results show that an atmospheric attenuation in s...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Atmospheric aerosol clearing by femtosecond filaments  
-   Link: <a href="https://arxiv.org/abs/2203.00196" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2203.00196</a>  
+   Link:<a href="https://arxiv.org/abs/2203.00196" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2203.00196</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Laser weapon  
-   Link: <a href="https://en.wikipedia.org/wiki/Laser_weapon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Laser_weapon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser weaponOne of the major issues with laser weapons is atmospheric thermal [blooming](&amp;#123;&amp;#123; &#x27;blooming/&#x27; | relative_url &amp;#125;&amp;#125;), exacerbated when there is fog, smoke, dust, ra...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Laser_weapon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Laser_weapon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser weaponOne of the major issues with laser weapons is atmospheric thermal [blooming](&amp;#123;&amp;#123; &#x27;blooming/&#x27; | relative_url &amp;#125;&amp;#125;), exacerbated when there is fog, smoke, dust, ra...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: navysbir.com  
-   Link: <a href="https://www.navysbir.com/n23_A/N23A-T012.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.navysbir.com/n23_A/N23A-T012.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>yer for the integration of propagation modeling software...</p></details>
+   Link:<a href="https://www.navysbir.com/n23_A/N23A-T012.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.navysbir.com/n23_A/N23A-T012.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>yer for the integration of propagation modeling software...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: laserwars.net  
    Title: navy laser weapons challenges atmosphere fog  
-   Link: <a href="https://www.laserwars.net/p/navy-laser-weapons-challenges-atmosphere-fog" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/navy-laser-weapons-challenges-atmosphere-fog</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fog of War: The Biggest Challenge for Naval Laser Weapons22 May 2025 — Water vapor, dust, salt aerosols, and temperature fluctuations all...</p></details>
+   Link:<a href="https://www.laserwars.net/p/navy-laser-weapons-challenges-atmosphere-fog" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/navy-laser-weapons-challenges-atmosphere-fog</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fog of War: The Biggest Challenge for Naval Laser Weapons22 May 2025 — Water vapor, dust, salt aerosols, and temperature fluctuations all...</p></details>
    Published: May 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: AN/SEQ-3 Laser Weapon System  
-   Link: <a href="https://en.wikipedia.org/wiki/AN/SEQ-3_Laser_Weapon_System" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/AN/SEQ-3_Laser_Weapon_System</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/AN/SEQ-3_Laser_Weapon_System" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/AN/SEQ-3_Laser_Weapon_System</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: royalnavy.mod.uk  
    Title: 240412 powerful laser to be installed on royal navy warship by 2027  
-   Link: <a href="https://www.royalnavy.mod.uk/news/2024/april/12/240412-powerful-laser-to-be-installed-on-royal-navy-warship-by-2027" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/news/2024/april/12/240412-powerful-laser-to-be-installed-on-royal-navy-warship-by-2027</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Powerful laser to be installed on Royal Navy warship by 202712 Apr 2024 — The cutting-edge DragonFire laser will be installed on a warshi...</p></details>
+   Link:<a href="https://www.royalnavy.mod.uk/news/2024/april/12/240412-powerful-laser-to-be-installed-on-royal-navy-warship-by-2027" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/news/2024/april/12/240412-powerful-laser-to-be-installed-on-royal-navy-warship-by-2027</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Powerful laser to be installed on Royal Navy warship by 202712 Apr 2024 — The cutting-edge DragonFire laser will be installed on a warshi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Dragon Fire (weapon)  
-   Link: <a href="https://en.wikipedia.org/wiki/DragonFire_%28weapon%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/DragonFire_%28weapon%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire (weapon)DragonFire is a British laser directed-energy weapon (LDEW) in development for the Royal Navy. DragonFire&#x27;s ability...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/DragonFire_%28weapon%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/DragonFire_%28weapon%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire (weapon)DragonFire is a British laser directed-energy weapon (LDEW) in development for the Royal Navy. DragonFire&#x27;s ability...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: laserwars.net  
    Title: navy solid state laser technology maturation demonstrator crimson dragon  
-   Link: <a href="https://www.laserwars.net/p/navy-solid-state-laser-technology-maturation-demonstrator-crimson-dragon" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/navy-solid-state-laser-technology-maturation-demonstrator-crimson-dragon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Navy Brought a &#x27;One-of-a-Kind&#x27; Laser Weapon Back...30 Mar 2026 — The US Navy spent at least six months resurrecting a high-energy la...</p></details>
+   Link:<a href="https://www.laserwars.net/p/navy-solid-state-laser-technology-maturation-demonstrator-crimson-dragon" target="_blank" rel="noopener noreferrer nofollow">https://www.laserwars.net/p/navy-solid-state-laser-technology-maturation-demonstrator-crimson-dragon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Navy Brought a &#x27;One-of-a-Kind&#x27; Laser Weapon Back...30 Mar 2026 — The US Navy spent at least six months resurrecting a high-energy la...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: onr.navy.mil  
-   Link: <a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons and High Energy LasersNavy DEWs include systems that use high-energy lasers (HEL) that emit photons, and high-pow...</p></details>
+   Link:<a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed Energy Weapons and High Energy LasersNavy DEWs include systems that use high-energy lasers (HEL) that emit photons, and high-pow...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: royalnavy.mod.uk  
    Title: 20251120 dragonfire trials  
-   Link: <a href="https://www.royalnavy.mod.uk/news/2025/november/20/20251120-dragonfire-trials" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/news/2025/november/20/20251120-dragonfire-trials</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dragonfire lights up the night as it targets a drone...Read more...</p></details>
+   Link:<a href="https://www.royalnavy.mod.uk/news/2025/november/20/20251120-dragonfire-trials" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/news/2025/november/20/20251120-dragonfire-trials</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dragonfire lights up the night as it targets a drone...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: journals.ametsoc.org  
-   Link: <a href="https://journals.ametsoc.org/view/journals/apme/50/1/2010jamc2482.1.xml" target="_blank" rel="noopener noreferrer nofollow">https://journals.ametsoc.org/view/journals/apme/50/1/2010jamc2482.1.xml</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteorological Society JournalsClimate Change: Anticipated Effects on High-Energy Laser...by ST Fiorino · 2011 · Cited by 10 —...</p></details>
+   Link:<a href="https://journals.ametsoc.org/view/journals/apme/50/1/2010jamc2482.1.xml" target="_blank" rel="noopener noreferrer nofollow">https://journals.ametsoc.org/view/journals/apme/50/1/2010jamc2482.1.xml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteorological Society JournalsClimate Change: Anticipated Effects on High-Energy Laser...by ST Fiorino · 2011 · Cited by 10 —...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: everycrsreport.com  
-   Link: <a href="https://www.everycrsreport.com/files/2022-04-01_R44175_68bafcbeb4f98af9965519a9a59716c767190083.html" target="_blank" rel="noopener noreferrer nofollow">https://www.everycrsreport.com/files/2022-04-01_R44175_68bafcbeb4f98af9965519a9a59716c767190083.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Every CRS ReportUntitled... effects of atmospheric turbulence. Even so, lasers might not work well, or at all, in rain or fog, preventing...</p></details>
+   Link:<a href="https://www.everycrsreport.com/files/2022-04-01_R44175_68bafcbeb4f98af9965519a9a59716c767190083.html" target="_blank" rel="noopener noreferrer nofollow">https://www.everycrsreport.com/files/2022-04-01_R44175_68bafcbeb4f98af9965519a9a59716c767190083.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Every CRS ReportUntitled... effects of atmospheric turbulence. Even so, lasers might not work well, or at all, in rain or fog, preventing...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: everycrsreport.com  
-   Link: <a href="https://www.everycrsreport.com/files/2021-02-26_R44175_639c1227b1132a4eaa3535ee83891ce54b4c2b7a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.everycrsreport.com/files/2021-02-26_R44175_639c1227b1132a4eaa3535ee83891ce54b4c2b7a.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UntitledNavy Lasers, Railgun, and Gun-Launched Guided Projectile: Background and Issues for. Congress Updated February 26, 2021. Congress...</p></details>
+   Link:<a href="https://www.everycrsreport.com/files/2021-02-26_R44175_639c1227b1132a4eaa3535ee83891ce54b4c2b7a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.everycrsreport.com/files/2021-02-26_R44175_639c1227b1132a4eaa3535ee83891ce54b4c2b7a.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UntitledNavy Lasers, Railgun, and Gun-Launched Guided Projectile: Background and Issues for. Congress Updated February 26, 2021. Congress...</p></details>
    Published: February 26, 2021  
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: mbda-systems.com  
-   Link: <a href="https://www.mbda-systems.com/products/force-protection/dragonfire" target="_blank" rel="noopener noreferrer nofollow">https://www.mbda-systems.com/products/force-protection/dragonfire</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DRAGONFIREDRAGONFIRE, a Laser Directed Energy Weapon (LDEW) system. DRAGONFIRE provides an innovative, powerful, efficient and cost-effec...</p></details>
+   Link:<a href="https://www.mbda-systems.com/products/force-protection/dragonfire" target="_blank" rel="noopener noreferrer nofollow">https://www.mbda-systems.com/products/force-protection/dragonfire</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DRAGONFIREDRAGONFIRE, a Laser Directed Energy Weapon (LDEW) system. DRAGONFIRE provides an innovative, powerful, efficient and cost-effec...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: lockheedmartin.com  
-   Link: <a href="https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directed EnergyExperience the potential of our laser weapons and directed energy weapon technologies, providing affordable alternatives f...</p></details>
+   Link:<a href="https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lockheedmartin.com/en-us/capabilities/directed-energy.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directed EnergyExperience the potential of our laser weapons and directed energy weapon technologies, providing affordable alternatives f...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DRUtM8hDKZS/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRUtM8hDKZS/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Government Scotland on Instagram: &quot;Introducing...New footage from the United Kingdom shows the DragonFire laser weapon burning drones...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DRUtM8hDKZS/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRUtM8hDKZS/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Government Scotland on Instagram: &quot;Introducing...New footage from the United Kingdom shows the DragonFire laser weapon burning drones...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/930540941927100/posts/1580928933554961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/930540941927100/posts/1580928933554961/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK&#x27;s Dragonfire laser weapon destroys drones at low costWithin 2-3 seconds, the beam heats the drone or missile&#x27;s metal skin to over 1,00...</p></details>
+   Link:<a href="https://www.facebook.com/groups/930540941927100/posts/1580928933554961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/930540941927100/posts/1580928933554961/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK&#x27;s Dragonfire laser weapon destroys drones at low costWithin 2-3 seconds, the beam heats the drone or missile&#x27;s metal skin to over 1,00...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/high" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/high</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/high" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/high</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: oceannews.com  
-   Link: <a href="https://oceannews.com/news/defense/uk-invests-in-laser-weapon-to-protect-ships-from-attack-by-air-and-sea/" target="_blank" rel="noopener noreferrer nofollow">https://oceannews.com/news/defense/uk-invests-in-laser-weapon-to-protect-ships-from-attack-by-air-and-sea/</a>  
+   Link:<a href="https://oceannews.com/news/defense/uk-invests-in-laser-weapon-to-protect-ships-from-attack-by-air-and-sea/" target="_blank" rel="noopener noreferrer nofollow">https://oceannews.com/news/defense/uk-invests-in-laser-weapon-to-protect-ships-from-attack-by-air-and-sea/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: aerosociety.com  
    Title: raes lecture laser and rf directed energy a complement to kinetic effects  
-   Link: <a href="https://www.aerosociety.com/events-calendar/raes-lecture-laser-and-rf-directed-energy-a-complement-to-kinetic-effects/" target="_blank" rel="noopener noreferrer nofollow">https://www.aerosociety.com/events-calendar/raes-lecture-laser-and-rf-directed-energy-a-complement-to-kinetic-effects/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAeS Lecture: Laser and RF Directed Energy, a...15 Jan 2026 — This lecture will provide an overview of both laser and RF directed energy...</p></details>
+   Link:<a href="https://www.aerosociety.com/events-calendar/raes-lecture-laser-and-rf-directed-energy-a-complement-to-kinetic-effects/" target="_blank" rel="noopener noreferrer nofollow">https://www.aerosociety.com/events-calendar/raes-lecture-laser-and-rf-directed-energy-a-complement-to-kinetic-effects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAeS Lecture: Laser and RF Directed Energy, a...15 Jan 2026 — This lecture will provide an overview of both laser and RF directed energy...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Vg2IuPKqvt4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Vg2IuPKqvt4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire: New declassified footage of £10-a-shot laser precision weapon in actionThe DragonFire Laser Directed Energy Weapon (LDEW) is...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Vg2IuPKqvt4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Vg2IuPKqvt4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire: New declassified footage of £10-a-shot laser precision weapon in actionThe DragonFire Laser Directed Energy Weapon (LDEW) is...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
    Title: Multiple British warships to get laser guns: r/ukpolitics As a quick  
-   Link: <a href="https://www.reddit.com/r/ukpolitics/comments/1cdh7zb/multiple_british_warships_to_get_laser_guns/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ukpolitics/comments/1cdh7zb/multiple_british_warships_to_get_laser_guns/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple British warships to get laser guns: r/ukpoliticsAs a quick summary, one of the main negatives is that they are very short range...</p></details>
+   Link:<a href="https://www.reddit.com/r/ukpolitics/comments/1cdh7zb/multiple_british_warships_to_get_laser_guns/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ukpolitics/comments/1cdh7zb/multiple_british_warships_to_get_laser_guns/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple British warships to get laser guns: r/ukpoliticsAs a quick summary, one of the main negatives is that they are very short range...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reuters.com  
    Title: britain equip ships with lasers take down drones 2027 2024 04 11  
-   Link: <a href="https://www.reuters.com/world/uk/britain-equip-ships-with-lasers-take-down-drones-2027-2024-04-11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/uk/britain-equip-ships-with-lasers-take-down-drones-2027-2024-04-11/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These lasers can accurately target objects in the air for around 10 pounds ($12.52) per shot, marking a significant advancement in milita...</p></details>
+   Link:<a href="https://www.reuters.com/world/uk/britain-equip-ships-with-lasers-take-down-drones-2027-2024-04-11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/uk/britain-equip-ships-with-lasers-take-down-drones-2027-2024-04-11/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These lasers can accurately target objects in the air for around 10 pounds ($12.52) per shot, marking a significant advancement in milita...</p></details>

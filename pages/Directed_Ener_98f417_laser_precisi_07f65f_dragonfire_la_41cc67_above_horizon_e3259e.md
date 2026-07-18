@@ -275,22 +275,22 @@ image: /assets/images/Directed_Ener_98f417_laser_precisi_07f65f_dragonfire_la_41
 
 ## Introduction
 
-The most significant aspect of DragonFire’s reported drone interceptions may not be the laser itself, but the system’s ability to track and maintain a precise aim point on a fast-moving target beyond the immediate visual horizon. In laser weapons, generating energy is only part of the problem. Delivering enough energy to the same small spot on a moving drone for long enough to cause damage is often the harder challenge. The UK Ministry of Defence’s announcement that DragonFire achieved a national first in above-the-horizon tracking, targeting and destruction of [high-speed]({{ '650-km-h/' | relative_url }}) drones therefore highlights a capability that sits at the heart of practical laser air defence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">can fly up to 650km/h including a UK first</span><span class="citation-popover-snippet">Boost for Armed Forces as new laser weapon takes down...November 20, 2025 — 20 Nov 2025 — DragonFire achieves UK first in latest testing...</span><span class="citation-popover-meta">Published: November 20, 2025</span></span></span>
+The most significant aspect of DragonFire’s reported drone interceptions may not be the laser itself, but the system’s ability to track and maintain a precise aim point on a fast-moving target beyond the immediate visual horizon. In laser weapons, generating energy is only part of the problem. Delivering enough energy to the same small spot on a moving drone for long enough to cause damage is often the harder challenge. The UK Ministry of Defence’s announcement that DragonFire achieved a national first in above-the-horizon tracking, targeting and destruction of [high-speed]({{ '650-km-h/' | relative_url }}) drones therefore highlights a capability that sits at the heart of practical laser air defence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">can fly up to 650km/h including a UK first</span><span class="citation-popover-snippet">Boost for Armed Forces as new laser weapon takes down...November 20, 2025 — 20 Nov 2025 — DragonFire achieves UK first in latest testing...</span><span class="citation-popover-meta">Published: November 20, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_dragonfire_la_41cc67_above_horizon_e3259e-Illustration-1-dark.svg" | relative_url }}" alt="Horizon Tracking illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_dragonfire_la_41cc67_above_horizon_e3259e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_dragonfire_la_41cc67_above_horizon_e3259e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Unlike a missile, which can continue guiding itself after launch, a laser generally requires a continuous line of engagement. If tracking accuracy degrades even briefly, the beam can drift across the target, reducing heating and potentially preventing a successful kill. That is why above-the-horizon tracking is viewed as a meaningful test of the entire [engagement chain]({{ 'engagement-chain/' | relative_url }}) rather than simply a demonstration of [laser power]({{ 'power-costs/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mbda-systems.com/dragonfire-proving-trials-underway" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbda-systems.com">[MBDA Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbda-systems.com</span><span class="citation-popover-title">dragonfire proving trials underway</span><span class="citation-popover-snippet">MBDA SystemsDragonfire proving trials underway17 Jul 2022 — The tracking trial was an excellent test of. Leonardo&#x27;s beam director and MBD...</span></span></span>
+Unlike a missile, which can continue guiding itself after launch, a laser generally requires a continuous line of engagement. If tracking accuracy degrades even briefly, the beam can drift across the target, reducing heating and potentially preventing a successful kill. That is why above-the-horizon tracking is viewed as a meaningful test of the entire [engagement chain]({{ 'engagement-chain/' | relative_url }}) rather than simply a demonstration of [laser power]({{ 'power-costs/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mbda-systems.com/dragonfire-proving-trials-underway" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbda-systems.com">[MBDA Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbda-systems.com</span><span class="citation-popover-title">dragonfire proving trials underway</span><span class="citation-popover-snippet">MBDA SystemsDragonfire proving trials underway17 Jul 2022 — The tracking trial was an excellent test of. Leonardo&#x27;s beam director and MBD...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Vg2IuPKqvt4" title="DragonFire: New declassified footage of £10-a-shot laser precision weapon in action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Vg2IuPKqvt4" target="_blank" rel="noopener noreferrer">DragonFire: New declassified footage of £10-a-shot laser precision weapon in action</a></p><p class="youtube-embed-meta">Channel: BFBS Forces News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Vg2IuPKqvt4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Vg2IuPKqvt4">Open on YouTube</a></p></div></div></div>
 
 ## What Above-the-Horizon Tracking Actually Means
 
-In the context of DragonFire, “above-the-horizon” refers to engaging aerial targets that are visible and detectable above the local horizon line but are operating at substantial distance and speed. The phrase is important because tracking difficulty increases dramatically as range grows. A drone moving at high speed may appear to shift only slightly in the sky, yet those small angular changes translate into large positional changes at long distance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">can fly up to 650km/h including a UK first</span><span class="citation-popover-snippet">Boost for Armed Forces as new laser weapon takes down...November 20, 2025 — 20 Nov 2025 — DragonFire achieves UK first in latest testing...</span><span class="citation-popover-meta">Published: November 20, 2025</span></span></span>
+In the context of DragonFire, “above-the-horizon” refers to engaging aerial targets that are visible and detectable above the local horizon line but are operating at substantial distance and speed. The phrase is important because tracking difficulty increases dramatically as range grows. A drone moving at high speed may appear to shift only slightly in the sky, yet those small angular changes translate into large positional changes at long distance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">can fly up to 650km/h including a UK first</span><span class="citation-popover-snippet">Boost for Armed Forces as new laser weapon takes down...November 20, 2025 — 20 Nov 2025 — DragonFire achieves UK first in latest testing...</span><span class="citation-popover-meta">Published: November 20, 2025</span></span></span>
 
-Laser weapons do not simply point in the general direction of a target. They must know exactly where the target is, predict where it will be moments later, compensate for platform motion and atmospheric effects, and continuously adjust the beam director. DragonFire combines sensors, image-processing systems, tracking algorithms and beam-control hardware to achieve this precision. MBDA describes the system as relying on advanced tracking algorithms and sophisticated image processing to identify and track targets before applying the laser effect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mbda-systems.com/products/force-protection/dragonfire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbda-systems.com">[MBDA Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbda-systems.com</span><span class="citation-popover-snippet">MBDA SystemsDRAGONFIREUsing world-leading coherent beam-combining technology, advanced tracking algorithms, and sophisticated image proce...</span></span></span>
+Laser weapons do not simply point in the general direction of a target. They must know exactly where the target is, predict where it will be moments later, compensate for platform motion and atmospheric effects, and continuously adjust the beam director. DragonFire combines sensors, image-processing systems, tracking algorithms and beam-control hardware to achieve this precision. MBDA describes the system as relying on advanced tracking algorithms and sophisticated image processing to identify and track targets before applying the laser effect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mbda-systems.com/products/force-protection/dragonfire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbda-systems.com">[MBDA Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbda-systems.com</span><span class="citation-popover-snippet">MBDA SystemsDRAGONFIREUsing world-leading coherent beam-combining technology, advanced tracking algorithms, and sophisticated image proce...</span></span></span>
 
-The challenge becomes even greater when the target is a drone rather than a larger aircraft. Drones typically present smaller visual signatures, can manoeuvre abruptly, and may expose only limited vulnerable areas for the laser to exploit. Maintaining precise track quality over the entire engagement window is therefore essential. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mbda-systems.com/products/force-protection/dragonfire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbda-systems.com">[MBDA Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbda-systems.com</span><span class="citation-popover-snippet">MBDA SystemsDRAGONFIREUsing world-leading coherent beam-combining technology, advanced tracking algorithms, and sophisticated image proce...</span></span></span>
+The challenge becomes even greater when the target is a drone rather than a larger aircraft. Drones typically present smaller visual signatures, can manoeuvre abruptly, and may expose only limited vulnerable areas for the laser to exploit. Maintaining precise track quality over the entire engagement window is therefore essential.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mbda-systems.com/products/force-protection/dragonfire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbda-systems.com">[MBDA Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbda-systems.com</span><span class="citation-popover-snippet">MBDA SystemsDRAGONFIREUsing world-leading coherent beam-combining technology, advanced tracking algorithms, and sophisticated image proce...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IrocytwdeEY" title="We Built an Ai Laser that Destroys Moving Targets!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IrocytwdeEY" target="_blank" rel="noopener noreferrer">We Built an Ai Laser that Destroys Moving Targets!</a></p><p class="youtube-embed-meta">Channel: Tech Ingredients</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IrocytwdeEY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IrocytwdeEY">Open on YouTube</a></p></div></div></div>
@@ -299,7 +299,7 @@ The challenge becomes even greater when the target is a drone rather than a larg
 
 Detecting a drone and destroying it are separated by several technical steps, and tracking occupies most of that gap.
 
-A radar or external sensor may first detect the target and provide a rough location. DragonFire is then cued toward the threat using what engineers often describe as coarse tracking. Once pointed in the correct direction, the system transitions to much more precise optical tracking that follows the target continuously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navylookout.com/dragonfire-pathway-to-a-laser-directed-energy-weapon-for-royal-navy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navylookout.com">[Navy Lookout]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navylookout.com</span><span class="citation-popover-title">Navy Lookout Dragon Fire – pathway to a Laser Directed Energy Weapon</span><span class="citation-popover-snippet">Navy LookoutDragonFire – pathway to a Laser Directed Energy Weapon...March 11, 2024 — 11 Mar 2024 — DragonFire is initially cued onto th...</span><span class="citation-popover-meta">Published: March 11, 2024</span></span></span>
+A radar or external sensor may first detect the target and provide a rough location. DragonFire is then cued toward the threat using what engineers often describe as coarse tracking. Once pointed in the correct direction, the system transitions to much more precise optical tracking that follows the target continuously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navylookout.com/dragonfire-pathway-to-a-laser-directed-energy-weapon-for-royal-navy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navylookout.com">[Navy Lookout]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navylookout.com</span><span class="citation-popover-title">Navy Lookout Dragon Fire – pathway to a Laser Directed Energy Weapon</span><span class="citation-popover-snippet">Navy LookoutDragonFire – pathway to a Laser Directed Energy Weapon...March 11, 2024 — 11 Mar 2024 — DragonFire is initially cued onto th...</span><span class="citation-popover-meta">Published: March 11, 2024</span></span></span>
 
 This process sounds straightforward but involves several simultaneous tasks:
 
@@ -310,213 +310,213 @@ This process sounds straightforward but involves several simultaneous tasks:
 * Predicting future target position rather than reacting to old data.
 * Stabilising the beam director against vibration and movement.
 * Maintaining focus on a specific aim point rather than merely the target's general outline.
-* Compensating for atmospheric distortion along the beam path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mbda-systems.com/dragonfire-proving-trials-underway" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbda-systems.com">[MBDA Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbda-systems.com</span><span class="citation-popover-title">dragonfire proving trials underway</span><span class="citation-popover-snippet">MBDA SystemsDragonfire proving trials underway17 Jul 2022 — The tracking trial was an excellent test of. Leonardo&#x27;s beam director and MBD...</span></span></span>
+* Compensating for atmospheric distortion along the beam path.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mbda-systems.com/dragonfire-proving-trials-underway" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbda-systems.com">[MBDA Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbda-systems.com</span><span class="citation-popover-title">dragonfire proving trials underway</span><span class="citation-popover-snippet">MBDA SystemsDragonfire proving trials underway17 Jul 2022 — The tracking trial was an excellent test of. Leonardo&#x27;s beam director and MBD...</span></span></span>
 
 </div>
 
-For a laser weapon, aim-point stability is especially important because damage accumulates over time. A missile can destroy a target through a single intercept event. A laser typically needs sustained energy deposition. If the beam wanders across the airframe, heat spreads over a larger area and the destructive effect decreases. This is why DragonFire's development programme repeatedly emphasised ultra-precise pointing and tracking rather than laser output alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mbda-systems.com/dragonfire-proving-trials-underway" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbda-systems.com">[MBDA Systems+2Joint Forces News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbda-systems.com</span><span class="citation-popover-title">dragonfire proving trials underway</span><span class="citation-popover-snippet">MBDA SystemsDragonfire proving trials underway17 Jul 2022 — The tracking trial was an excellent test of. Leonardo&#x27;s beam director and MBD...</span></span></span>
+For a laser weapon, aim-point stability is especially important because damage accumulates over time. A missile can destroy a target through a single intercept event. A laser typically needs sustained energy deposition. If the beam wanders across the airframe, heat spreads over a larger area and the destructive effect decreases. This is why DragonFire's development programme repeatedly emphasised ultra-precise pointing and tracking rather than laser output alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mbda-systems.com/dragonfire-proving-trials-underway" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbda-systems.com">[MBDA Systems+2Joint Forces News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbda-systems.com</span><span class="citation-popover-title">dragonfire proving trials underway</span><span class="citation-popover-snippet">MBDA SystemsDragonfire proving trials underway17 Jul 2022 — The tracking trial was an excellent test of. Leonardo&#x27;s beam director and MBD...</span></span></span>
 
-An often-overlooked aspect is that the system must track not just the target but also its own beam placement. The fire-control system needs constant confirmation that the energy is arriving where intended. In practical terms, successful laser engagements are frequently demonstrations of tracking quality disguised as demonstrations of laser power. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mbda-systems.com/dragonfire-proving-trials-underway" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbda-systems.com">[MBDA Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbda-systems.com</span><span class="citation-popover-title">dragonfire proving trials underway</span><span class="citation-popover-snippet">MBDA SystemsDragonfire proving trials underway17 Jul 2022 — The tracking trial was an excellent test of. Leonardo&#x27;s beam director and MBD...</span></span></span>
+An often-overlooked aspect is that the system must track not just the target but also its own beam placement. The fire-control system needs constant confirmation that the energy is arriving where intended. In practical terms, successful laser engagements are frequently demonstrations of tracking quality disguised as demonstrations of laser power.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mbda-systems.com/dragonfire-proving-trials-underway" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbda-systems.com">[MBDA Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbda-systems.com</span><span class="citation-popover-title">dragonfire proving trials underway</span><span class="citation-popover-snippet">MBDA SystemsDragonfire proving trials underway17 Jul 2022 — The tracking trial was an excellent test of. Leonardo&#x27;s beam director and MBD...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_dragonfire_la_41cc67_above_horizon_e3259e-Illustration-2-dark.svg" | relative_url }}" alt="Horizon Tracking illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_dragonfire_la_41cc67_above_horizon_e3259e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_dragonfire_la_41cc67_above_horizon_e3259e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the DragonFire Trials Demonstrated
 
-The public reporting around DragonFire's 2025 trials focused on the destruction of drones travelling at speeds up to 650 km/h. However, the Ministry of Defence specifically highlighted a UK first in above-the-horizon tracking, targeting and shooting down such drones. That wording is notable because it emphasises the engagement process rather than only the final result. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">can fly up to 650km/h including a UK first</span><span class="citation-popover-snippet">Boost for Armed Forces as new laser weapon takes down...November 20, 2025 — 20 Nov 2025 — DragonFire achieves UK first in latest testing...</span><span class="citation-popover-meta">Published: November 20, 2025</span></span></span>
+The public reporting around DragonFire's 2025 trials focused on the destruction of drones travelling at speeds up to 650 km/h. However, the Ministry of Defence specifically highlighted a UK first in above-the-horizon tracking, targeting and shooting down such drones. That wording is notable because it emphasises the engagement process rather than only the final result.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">can fly up to 650km/h including a UK first</span><span class="citation-popover-snippet">Boost for Armed Forces as new laser weapon takes down...November 20, 2025 — 20 Nov 2025 — DragonFire achieves UK first in latest testing...</span><span class="citation-popover-meta">Published: November 20, 2025</span></span></span>
 
-Earlier DragonFire trials had already concentrated on proving the tracking architecture. In 2022, programme partners reported successful tests of the tracking system using Leonardo’s beam director, QinetiQ laser technology and MBDA image-processing and control systems. Those tests were designed to demonstrate the ultra-precise pointing accuracy required before a high-power laser could reliably achieve a damaging effect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mbda-systems.com/dragonfire-proving-trials-underway" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbda-systems.com">[MBDA Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbda-systems.com</span><span class="citation-popover-title">dragonfire proving trials underway</span><span class="citation-popover-snippet">MBDA SystemsDragonfire proving trials underway17 Jul 2022 — The tracking trial was an excellent test of. Leonardo&#x27;s beam director and MBD...</span></span></span>
+Earlier DragonFire trials had already concentrated on proving the tracking architecture. In 2022, programme partners reported successful tests of the tracking system using Leonardo’s beam director, QinetiQ laser technology and MBDA image-processing and control systems. Those tests were designed to demonstrate the ultra-precise pointing accuracy required before a high-power laser could reliably achieve a damaging effect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mbda-systems.com/dragonfire-proving-trials-underway" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbda-systems.com">[MBDA Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbda-systems.com</span><span class="citation-popover-title">dragonfire proving trials underway</span><span class="citation-popover-snippet">MBDA SystemsDragonfire proving trials underway17 Jul 2022 — The tracking trial was an excellent test of. Leonardo&#x27;s beam director and MBD...</span></span></span>
 
-Subsequent firing trials then linked tracking performance with actual target defeat. The progression from tracking demonstrations to destruction of fast aerial targets suggests increasing confidence that the complete sensor-to-beam chain can maintain lock long enough for the laser to work as intended. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.joint-forces.com/defence-equipment-news/59447-uk-dragonfire-laser-directed-energy-weapon-trial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: joint-forces.com">[Joint Forces News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">joint-forces.com</span><span class="citation-popover-title">59447 uk dragonfire laser directed energy weapon trial</span><span class="citation-popover-snippet">Joint Forces NewsUK DragonFire Laser Directed Energy Weapon Trial9 Nov 2022 — The trials involve firing the UK DragonFire demonstrator at...</span></span></span>
+Subsequent firing trials then linked tracking performance with actual target defeat. The progression from tracking demonstrations to destruction of fast aerial targets suggests increasing confidence that the complete sensor-to-beam chain can maintain lock long enough for the laser to work as intended.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.joint-forces.com/defence-equipment-news/59447-uk-dragonfire-laser-directed-energy-weapon-trial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: joint-forces.com">[Joint Forces News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">joint-forces.com</span><span class="citation-popover-title">59447 uk dragonfire laser directed energy weapon trial</span><span class="citation-popover-snippet">Joint Forces NewsUK DragonFire Laser Directed Energy Weapon Trial9 Nov 2022 — The trials involve firing the UK DragonFire demonstrator at...</span></span></span>
 
-Importantly, the achievement does not mean every drone can now be defeated under all conditions. Weather, visibility, target manoeuvres and engagement geometry still matter. What the trials do indicate is that DragonFire's developers have moved beyond proving that a laser can burn material and toward proving that the system can repeatedly keep a damaging beam on realistic moving targets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2gCaptain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">can fly up to 650km/h including a UK first</span><span class="citation-popover-snippet">Boost for Armed Forces as new laser weapon takes down...November 20, 2025 — 20 Nov 2025 — DragonFire achieves UK first in latest testing...</span><span class="citation-popover-meta">Published: November 20, 2025</span></span></span>
+Importantly, the achievement does not mean every drone can now be defeated under all conditions. Weather, visibility, target manoeuvres and engagement geometry still matter. What the trials do indicate is that DragonFire's developers have moved beyond proving that a laser can burn material and toward proving that the system can repeatedly keep a damaging beam on realistic moving targets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2gCaptain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">can fly up to 650km/h including a UK first</span><span class="citation-popover-snippet">Boost for Armed Forces as new laser weapon takes down...November 20, 2025 — 20 Nov 2025 — DragonFire achieves UK first in latest testing...</span><span class="citation-popover-meta">Published: November 20, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X1toVupe_R8" title="U.S. Directed Energy Weapons Systems" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer">U.S. Directed Energy Weapons Systems</a></p><p class="youtube-embed-meta">Channel: U.S. Government Accountability Office (GAO)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X1toVupe_R8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X1toVupe_R8">Open on YouTube</a></p></div></div></div>
 
 ## Why This Matters for Real-World Laser Weapons
 
-Many directed-energy programmes have demonstrated impressive laser power in controlled conditions. Fewer have shown the ability to maintain precision tracking against realistic aerial threats. This distinction is crucial because operational success depends on the entire [kill chain]({{ 'kill-chain/' | relative_url }}): detection, identification, tracking, beam control and sustained engagement. A weakness in any stage can prevent a successful intercept. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mbda-systems.com/dragonfire-proving-trials-underway" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbda-systems.com">[MBDA Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbda-systems.com</span><span class="citation-popover-title">dragonfire proving trials underway</span><span class="citation-popover-snippet">MBDA SystemsDragonfire proving trials underway17 Jul 2022 — The tracking trial was an excellent test of. Leonardo&#x27;s beam director and MBD...</span></span></span>
+Many directed-energy programmes have demonstrated impressive laser power in controlled conditions. Fewer have shown the ability to maintain precision tracking against realistic aerial threats. This distinction is crucial because operational success depends on the entire [kill chain]({{ 'kill-chain/' | relative_url }}): detection, identification, tracking, beam control and sustained engagement. A weakness in any stage can prevent a successful intercept.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mbda-systems.com/dragonfire-proving-trials-underway" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbda-systems.com">[MBDA Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbda-systems.com</span><span class="citation-popover-title">dragonfire proving trials underway</span><span class="citation-popover-snippet">MBDA SystemsDragonfire proving trials underway17 Jul 2022 — The tracking trial was an excellent test of. Leonardo&#x27;s beam director and MBD...</span></span></span>
 
-DragonFire's reported above-the-horizon engagements therefore matter as evidence that the supporting technologies are maturing alongside the laser itself. The achievement suggests that beam directors, image-processing systems, fire-control software and tracking algorithms are reaching the level required for practical [counter-drone]({{ 'missile-savings/' | relative_url }}) missions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mbda-systems.com/products/force-protection/dragonfire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbda-systems.com">[MBDA Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbda-systems.com</span><span class="citation-popover-snippet">MBDA SystemsDRAGONFIREUsing world-leading coherent beam-combining technology, advanced tracking algorithms, and sophisticated image proce...</span></span></span>
+DragonFire's reported above-the-horizon engagements therefore matter as evidence that the supporting technologies are maturing alongside the laser itself. The achievement suggests that beam directors, image-processing systems, fire-control software and tracking algorithms are reaching the level required for practical [counter-drone]({{ 'missile-savings/' | relative_url }}) missions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mbda-systems.com/products/force-protection/dragonfire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mbda-systems.com">[MBDA Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mbda-systems.com</span><span class="citation-popover-snippet">MBDA SystemsDRAGONFIREUsing world-leading coherent beam-combining technology, advanced tracking algorithms, and sophisticated image proce...</span></span></span>
 
-For directed-energy weapons more broadly, this may be the most realistic measure of progress. High power attracts attention, but accurate, continuous tracking is what turns a laboratory laser into a functioning air-defence weapon. DragonFire's above-the-horizon drone trials are significant because they test precisely that requirement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Royal Navy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">can fly up to 650km/h including a UK first</span><span class="citation-popover-snippet">Boost for Armed Forces as new laser weapon takes down...November 20, 2025 — 20 Nov 2025 — DragonFire achieves UK first in latest testing...</span><span class="citation-popover-meta">Published: November 20, 2025</span></span></span>
+For directed-energy weapons more broadly, this may be the most realistic measure of progress. High power attracts attention, but accurate, continuous tracking is what turns a laboratory laser into a functioning air-defence weapon. DragonFire's above-the-horizon drone trials are significant because they test precisely that requirement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Royal Navy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">can fly up to 650km/h including a UK first</span><span class="citation-popover-snippet">Boost for Armed Forces as new laser weapon takes down...November 20, 2025 — 20 Nov 2025 — DragonFire achieves UK first in latest testing...</span><span class="citation-popover-meta">Published: November 20, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_dragonfire_la_41cc67_above_horizon_e3259e-Illustration-3-dark.svg" | relative_url }}" alt="Horizon Tracking illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_dragonfire_la_41cc67_above_horizon_e3259e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_laser_precisi_07f65f_dragonfire_la_41cc67_above_horizon_e3259e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Above the Horizon Tracking Is a Major Test. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Above the Horizon Tracking Is a Major Test. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Highlights the importance of tracking, targeting, and engagement systems, which are as important to DragonFire as the laser itself.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights the importance of tracking, targeting, and engagement systems, which are as important to DragonFire as the laser itself.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">While not specifically about laser weapons, it gives broader context on advanced defence development, testing, targeting systems, and mil...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">While not specifically about laser weapons, it gives broader context on advanced defence development, testing, targeting systems, and mil...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Photonics, 2 Volume Set on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13839810-M.jpg" alt="Cover for Fundamentals of Photonics, 2 Volume Set" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Photonics, 2 Volume Set">Fundamentals of Photonics, 2 Volume Set</a>
-        </h4>
-        <p class="fr-book-author">By Bahaa E. A. Saleh, Malvin Carl Teich</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Photonics, 2 Volume Set on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13839810-M.jpg" alt="Cover for Fundamentals of Photonics, 2 Volume Set" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Photonics, 2 Volume Set">Fundamentals of Photonics, 2 Volume Set</a>
+</h4>
+<p class="fr-book-author">By Bahaa E. A. Saleh, Malvin Carl Teich</p>
         
-        <p class="fr-book-desc">First published 2019. Subjects: Photonics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019. Subjects: Photonics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
-        </h4>
-        <p class="fr-book-author">By Bahman Zohuri</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
+</h4>
+<p class="fr-book-author">By Bahman Zohuri</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of Photonics, 2 Volume Set</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of Photonics, 2 Volume Set</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tactical Backpack 15L Multicam Laser Cut MOLLE Ukraine Military army Cordura"><img src="{{ '/assets/images/marketplace-covers/179b534c30a079c11d6a.jpg' | relative_url }}" alt="Listing image for Tactical Backpack 15L Multicam Laser Cut MOLLE Ukraine Military army Cordura" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer">Tactical Backpack 15L Multicam Laser Cut MOLLE Ukraine Military army Cordura</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser system patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military laser system patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tactical Backpack 15L Multicam Laser Cut MOLLE Ukraine Military army Cordura"><img src="{{ '/assets/images/marketplace-covers/179b534c30a079c11d6a.jpg' | relative_url }}" alt="Listing image for Tactical Backpack 15L Multicam Laser Cut MOLLE Ukraine Military army Cordura" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer">Tactical Backpack 15L Multicam Laser Cut MOLLE Ukraine Military army Cordura</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser system patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: military laser system patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF BOEING YAL-1 ABL AIRBORNE LASER TESTBED WEAPONS SYSTEM PROGRAM PATCH"><img src="{{ '/assets/images/marketplace-covers/1726e259d1034fdadf64.jpg' | relative_url }}" alt="Listing image for USAF BOEING YAL-1 ABL AIRBORNE LASER TESTBED WEAPONS SYSTEM PROGRAM PATCH" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer">USAF BOEING YAL-1 ABL AIRBORNE LASER TESTBED WEAPONS SYSTEM PROGRAM PATCH</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser system patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military laser system patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF BOEING YAL-1 ABL AIRBORNE LASER TESTBED WEAPONS SYSTEM PROGRAM PATCH"><img src="{{ '/assets/images/marketplace-covers/1726e259d1034fdadf64.jpg' | relative_url }}" alt="Listing image for USAF BOEING YAL-1 ABL AIRBORNE LASER TESTBED WEAPONS SYSTEM PROGRAM PATCH" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer">USAF BOEING YAL-1 ABL AIRBORNE LASER TESTBED WEAPONS SYSTEM PROGRAM PATCH</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser system patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: military laser system patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY AIRBORNE LASER MINE DETECTION SYSTEM AN/AES-1 Staff Polo Shirt Medium"><img src="{{ '/assets/images/marketplace-covers/cb65298d2d953b6fd381.jpg' | relative_url }}" alt="Listing image for US NAVY AIRBORNE LASER MINE DETECTION SYSTEM AN/AES-1 Staff Polo Shirt Medium" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer">US NAVY AIRBORNE LASER MINE DETECTION SYSTEM AN/AES-1 Staff Polo Shirt Medium</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser system patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military laser system patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY AIRBORNE LASER MINE DETECTION SYSTEM AN/AES-1 Staff Polo Shirt Medium"><img src="{{ '/assets/images/marketplace-covers/cb65298d2d953b6fd381.jpg' | relative_url }}" alt="Listing image for US NAVY AIRBORNE LASER MINE DETECTION SYSTEM AN/AES-1 Staff Polo Shirt Medium" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer">US NAVY AIRBORNE LASER MINE DETECTION SYSTEM AN/AES-1 Staff Polo Shirt Medium</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military laser system patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: military laser system patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+laser+system+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military laser system patch" data-ebay-reference="horizon-tracking-why-above-the-horizon-tracking-is-a-major-test-directed-ener-military-laser-system-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -532,7 +532,7 @@ For directed-energy weapons more broadly, this may be the most realistic measure
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -552,7 +552,7 @@ For directed-energy weapons more broadly, this may be the most realistic measure
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -584,7 +584,7 @@ For directed-energy weapons more broadly, this may be the most realistic measure
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -636,7 +636,7 @@ For directed-energy weapons more broadly, this may be the most realistic measure
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -681,7 +681,7 @@ For directed-energy weapons more broadly, this may be the most realistic measure
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -722,115 +722,115 @@ For directed-energy weapons more broadly, this may be the most realistic measure
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: can fly up to 650km/h including a UK first  
-   Link: <a href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Boost for Armed Forces as new laser weapon takes down...November 20, 2025 — 20 Nov 2025 — DragonFire achieves UK first in latest testing...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boost for Armed Forces as new laser weapon takes down...November 20, 2025 — 20 Nov 2025 — DragonFire achieves UK first in latest testing...</p></details>
    Published: November 20, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: mbda-systems.com  
    Title: dragonfire proving trials underway  
-   Link: <a href="https://www.mbda-systems.com/dragonfire-proving-trials-underway" target="_blank" rel="noopener noreferrer nofollow">https://www.mbda-systems.com/dragonfire-proving-trials-underway</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MBDA SystemsDragonfire proving trials underway17 Jul 2022 — The tracking trial was an excellent test of. Leonardo&#x27;s beam director and MBD...</p></details>
+   Link:<a href="https://www.mbda-systems.com/dragonfire-proving-trials-underway" target="_blank" rel="noopener noreferrer nofollow">https://www.mbda-systems.com/dragonfire-proving-trials-underway</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MBDA SystemsDragonfire proving trials underway17 Jul 2022 — The tracking trial was an excellent test of. Leonardo&#x27;s beam director and MBD...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: joint-forces.com  
    Title: 59447 uk dragonfire laser directed energy weapon trial  
-   Link: <a href="https://www.joint-forces.com/defence-equipment-news/59447-uk-dragonfire-laser-directed-energy-weapon-trial" target="_blank" rel="noopener noreferrer nofollow">https://www.joint-forces.com/defence-equipment-news/59447-uk-dragonfire-laser-directed-energy-weapon-trial</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Joint Forces NewsUK DragonFire Laser Directed Energy Weapon Trial9 Nov 2022 — The trials involve firing the UK DragonFire demonstrator at...</p></details>
+   Link:<a href="https://www.joint-forces.com/defence-equipment-news/59447-uk-dragonfire-laser-directed-energy-weapon-trial" target="_blank" rel="noopener noreferrer nofollow">https://www.joint-forces.com/defence-equipment-news/59447-uk-dragonfire-laser-directed-energy-weapon-trial</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Joint Forces NewsUK DragonFire Laser Directed Energy Weapon Trial9 Nov 2022 — The trials involve firing the UK DragonFire demonstrator at...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: mbda-systems.com  
-   Link: <a href="https://www.mbda-systems.com/products/force-protection/dragonfire" target="_blank" rel="noopener noreferrer nofollow">https://www.mbda-systems.com/products/force-protection/dragonfire</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MBDA SystemsDRAGONFIREUsing world-leading coherent beam-combining technology, advanced tracking algorithms, and sophisticated image proce...</p></details>
+   Link:<a href="https://www.mbda-systems.com/products/force-protection/dragonfire" target="_blank" rel="noopener noreferrer nofollow">https://www.mbda-systems.com/products/force-protection/dragonfire</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MBDA SystemsDRAGONFIREUsing world-leading coherent beam-combining technology, advanced tracking algorithms, and sophisticated image proce...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: uk.leonardo.com  
    Title: UKDragon Fire – Laser Directed Energy Weapon  
-   Link: <a href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow">https://uk.leonardo.com/en/innovation/dragonfire</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Leonardo UKDragonFire – Laser Directed Energy Weapon - Leonardo UKThese include identifying, tracking and deterring a potential threat by...</p></details>
+   Link:<a href="https://uk.leonardo.com/en/innovation/dragonfire" target="_blank" rel="noopener noreferrer nofollow">https://uk.leonardo.com/en/innovation/dragonfire</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leonardo UKDragonFire – Laser Directed Energy Weapon - Leonardo UKThese include identifying, tracking and deterring a potential threat by...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: gcaptain.com  
    Title: uk fast tracks naval laser weapon after successful high speed drone trials  
-   Link: <a href="https://gcaptain.com/uk-fast-tracks-naval-laser-weapon-after-successful-high-speed-drone-trials/" target="_blank" rel="noopener noreferrer nofollow">https://gcaptain.com/uk-fast-tracks-naval-laser-weapon-after-successful-high-speed-drone-trials/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Fast-Tracks Naval Laser Weapon After Successful High...24 Nov 2025 — The system demonstrated its ability to detect, track, en...</p></details>
+   Link:<a href="https://gcaptain.com/uk-fast-tracks-naval-laser-weapon-after-successful-high-speed-drone-trials/" target="_blank" rel="noopener noreferrer nofollow">https://gcaptain.com/uk-fast-tracks-naval-laser-weapon-after-successful-high-speed-drone-trials/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Fast-Tracks Naval Laser Weapon After Successful High...24 Nov 2025 — The system demonstrated its ability to detect, track, en...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: royalnavy.mod.uk  
    Title: 20251120 dragonfire trials  
-   Link: <a href="https://www.royalnavy.mod.uk/news/2025/november/20/20251120-dragonfire-trials" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/news/2025/november/20/20251120-dragonfire-trials</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Navy£316m deal for Royal Navy&#x27;s first laser weapon after...20 Nov 2025 — DragonFire detected, tracked, engaged and finally destroy...</p></details>
+   Link:<a href="https://www.royalnavy.mod.uk/news/2025/november/20/20251120-dragonfire-trials" target="_blank" rel="noopener noreferrer nofollow">https://www.royalnavy.mod.uk/news/2025/november/20/20251120-dragonfire-trials</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Navy£316m deal for Royal Navy&#x27;s first laser weapon after...20 Nov 2025 — DragonFire detected, tracked, engaged and finally destroy...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: navylookout.com  
    Title: Navy Lookout Dragon Fire – pathway to a Laser Directed Energy Weapon  
-   Link: <a href="https://www.navylookout.com/dragonfire-pathway-to-a-laser-directed-energy-weapon-for-royal-navy/" target="_blank" rel="noopener noreferrer nofollow">https://www.navylookout.com/dragonfire-pathway-to-a-laser-directed-energy-weapon-for-royal-navy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy LookoutDragonFire – pathway to a Laser Directed Energy Weapon...March 11, 2024 — 11 Mar 2024 — DragonFire is initially cued onto th...</p></details>
+   Link:<a href="https://www.navylookout.com/dragonfire-pathway-to-a-laser-directed-energy-weapon-for-royal-navy/" target="_blank" rel="noopener noreferrer nofollow">https://www.navylookout.com/dragonfire-pathway-to-a-laser-directed-energy-weapon-for-royal-navy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy LookoutDragonFire – pathway to a Laser Directed Energy Weapon...March 11, 2024 — 11 Mar 2024 — DragonFire is initially cued onto th...</p></details>
    Published: March 11, 2024  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theregister.com  
    Title: royal navy to get drone zapping [lasers](&#123;&#123; 'lasers/' | relative_url &#125;&#125;) from 2027  
-   Link: <a href="https://www.theregister.com/on-prem/2025/11/24/royal-navy-to-get-drone-zapping-lasers-from-2027/2201336" target="_blank" rel="noopener noreferrer nofollow">https://www.theregister.com/on-prem/2025/11/24/royal-navy-to-get-drone-zapping-lasers-from-2027/2201336</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Costs a tenner a shot instead of £1M per anti-aircraft...Read more...</p></details>
+   Link:<a href="https://www.theregister.com/on-prem/2025/11/24/royal-navy-to-get-drone-zapping-lasers-from-2027/2201336" target="_blank" rel="noopener noreferrer nofollow">https://www.theregister.com/on-prem/2025/11/24/royal-navy-to-get-drone-zapping-lasers-from-2027/2201336</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Costs a tenner a shot instead of £1M per anti-aircraft...Read more...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ukdefencejournal/videos/-the-uks-dragonfire-laser-has-shot-down-high-speed-drones-in-new-trials-with-abo/1214100087205750/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ukdefencejournal/videos/-the-uks-dragonfire-laser-has-shot-down-high-speed-drones-in-new-trials-with-abo/1214100087205750/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK&#x27;s DragonFire laser has shot down high-speed drones...The UK&#x27;s DragonFire laser has shot down high-speed drones in new trials, wit...</p></details>
+   Link:<a href="https://www.facebook.com/ukdefencejournal/videos/-the-uks-dragonfire-laser-has-shot-down-high-speed-drones-in-new-trials-with-abo/1214100087205750/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ukdefencejournal/videos/-the-uks-dragonfire-laser-has-shot-down-high-speed-drones-in-new-trials-with-abo/1214100087205750/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UK&#x27;s DragonFire laser has shot down high-speed drones...The UK&#x27;s DragonFire laser has shot down high-speed drones in new trials, wit...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/775801081313358/posts/1288531453373649/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/775801081313358/posts/1288531453373649/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The United Kingdom has successfully tested DragonFire...Real-time sensors track distance, reflectivity, and motion, feeding data into an...</p></details>
+   Link:<a href="https://www.facebook.com/groups/775801081313358/posts/1288531453373649/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/775801081313358/posts/1288531453373649/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The United Kingdom has successfully tested DragonFire...Real-time sensors track distance, reflectivity, and motion, feeding data into an...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/WarshipPorn/comments/w1ygs6/uks_dragonfire_laser_directed_energy_weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WarshipPorn/comments/w1ygs6/uks_dragonfire_laser_directed_energy_weapon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK&#x27;s Dragonfire Laser Directed Energy Weapon Started...This trial used a low power QinetiQ laser, Leonardo&#x27;s beam director and MBDAs Ima...</p></details>
+   Link:<a href="https://www.reddit.com/r/WarshipPorn/comments/w1ygs6/uks_dragonfire_laser_directed_energy_weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WarshipPorn/comments/w1ygs6/uks_dragonfire_laser_directed_energy_weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK&#x27;s Dragonfire Laser Directed Energy Weapon Started...This trial used a low power QinetiQ laser, Leonardo&#x27;s beam director and MBDAs Ima...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/930540941927100/posts/1580928933554961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/930540941927100/posts/1580928933554961/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK&#x27;s Dragonfire laser weapon destroys drones at low costThe UK has successfully tested DragonFire, its first laser weapon, capable of des...</p></details>
+   Link:<a href="https://www.facebook.com/groups/930540941927100/posts/1580928933554961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/930540941927100/posts/1580928933554961/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK&#x27;s Dragonfire laser weapon destroys drones at low costThe UK has successfully tested DragonFire, its first laser weapon, capable of des...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: x.com  
-   Link: <a href="https://x.com/UKDefJournal/status/1991487516172775596" target="_blank" rel="noopener noreferrer nofollow">https://x.com/UKDefJournal/status/1991487516172775596</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>🇬🇧 The UK&#x27;s DragonFire laser has shot down high-speed...The UK&#x27;s DragonFire laser has shot down high-speed drones in new trials, with ab...</p></details>
+   Link:<a href="https://x.com/UKDefJournal/status/1991487516172775596" target="_blank" rel="noopener noreferrer nofollow">https://x.com/UKDefJournal/status/1991487516172775596</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>🇬🇧 The UK&#x27;s DragonFire laser has shot down high-speed...The UK&#x27;s DragonFire laser has shot down high-speed drones in new trials, with ab...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: des.mod.uk  
    Title: boost for armed forces as new laser weapon takes down high speed drones  
-   Link: <a href="https://des.mod.uk/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones/" target="_blank" rel="noopener noreferrer nofollow">https://des.mod.uk/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defence Equipment &amp; SupportBoost for Armed Forces as new laser weapon takes down...20 Nov 2025 — DragonFire laser has shot down high-spe...</p></details>
+   Link:<a href="https://des.mod.uk/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones/" target="_blank" rel="noopener noreferrer nofollow">https://des.mod.uk/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defence Equipment &amp; SupportBoost for Armed Forces as new laser weapon takes down...20 Nov 2025 — DragonFire laser has shot down high-spe...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: calibredefence.co.uk  
    Title: more lasers dragonfire downs high speed drone in [uk trials](&#123;&#123; 'uk-trials/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.calibredefence.co.uk/more-lasers-dragonfire-downs-high-speed-drone-in-uk-trials/" target="_blank" rel="noopener noreferrer nofollow">https://www.calibredefence.co.uk/more-lasers-dragonfire-downs-high-speed-drone-in-uk-trials/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>More lasers: DragonFire downs high speed drone in UK trials22 Nov 2025 — The tests were conducted against drones that could fly at speeds...</p></details>
+   Link:<a href="https://www.calibredefence.co.uk/more-lasers-dragonfire-downs-high-speed-drone-in-uk-trials/" target="_blank" rel="noopener noreferrer nofollow">https://www.calibredefence.co.uk/more-lasers-dragonfire-downs-high-speed-drone-in-uk-trials/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>More lasers: DragonFire downs high speed drone in UK trials22 Nov 2025 — The tests were conducted against drones that could fly at speeds...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: We Built an Ai Laser that Destroys Moving Targets!  
-   Link: <a href="https://www.youtube.com/watch?v=IrocytwdeEY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IrocytwdeEY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire laser weapon tracking drone DragonFire: The UK’s $13 Laser Weapon That Shoots Down Drones Instantly India Today Global...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IrocytwdeEY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IrocytwdeEY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire laser weapon tracking drone DragonFire: The UK’s $13 Laser Weapon That Shoots Down Drones Instantly India Today Global...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: thinkdefence.co.uk  
    Title: dragonfire laser weapon  
-   Link: <a href="https://www.thinkdefence.co.uk/docs/dragonfire-laser-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkdefence.co.uk/docs/dragonfire-laser-weapon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Feb 2026 — A second set of trials, in November 2022, proved the tracking capability of the Dragonfire laser beam director. DragonFire...</p></details>
+   Link:<a href="https://www.thinkdefence.co.uk/docs/dragonfire-laser-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkdefence.co.uk/docs/dragonfire-laser-weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23 Feb 2026 — A second set of trials, in November 2022, proved the tracking capability of the Dragonfire laser beam director. DragonFire...</p></details>
    Published: November 2022  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Dragon Fire (weapon)  
-   Link: <a href="https://en.wikipedia.org/wiki/DragonFire_%28weapon%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/DragonFire_%28weapon%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire (weapon)According to MBDA, these initial low-power trials proved DragonFire&#x27;s ability to track air and sea targets with exc...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/DragonFire_%28weapon%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/DragonFire_%28weapon%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DragonFire (weapon)According to MBDA, these initial low-power trials proved DragonFire&#x27;s ability to track air and sea targets with exc...</p></details>

@@ -269,35 +269,35 @@ image: /assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_layered_defen_f1
 
 ## Introduction
 
-Directed energy weapons promise extremely fast engagements and low cost per shot, but they share a basic vulnerability: the [atmosphere]({{ 'atmosphere/' | relative_url }}) sits between the weapon and its target. In layered air defence, that reality explains why rapid-fire guns remain in service even as militaries invest heavily in lasers and high-power microwaves. Rain, fog, dust, smoke, haze and deliberately deployed [battlefield]({{ 'battle-limits/' | relative_url }}) obscurants can weaken, scatter or distort laser beams, reducing the amount of energy that reaches a target. When weather degrades a directed-energy layer, commanders still need a reliable way to stop drones, missiles or aircraft at close range. That is where cannon-based systems continue to earn their place. Rather than replacing guns, directed energy has generally been added as another layer above them, leaving kinetic weapons as a dependable fallback when atmospheric conditions become unfavourable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-Directed-Ener.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: com.pl">[Defence Science Review+2Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">com.pl</span><span class="citation-popover-title">pdf 216776 135052</span><span class="citation-popover-snippet">Defence Science ReviewDEFENCE SCIENCE REVIEWJanuary 17, 2026 — by A Karkadakattil · 2026 · Cited by 1 — Objectives: This review aims to e...</span></span></span>
+Directed energy weapons promise extremely fast engagements and low cost per shot, but they share a basic vulnerability: the [atmosphere]({{ 'atmosphere/' | relative_url }}) sits between the weapon and its target. In layered air defence, that reality explains why rapid-fire guns remain in service even as militaries invest heavily in lasers and high-power microwaves. Rain, fog, dust, smoke, haze and deliberately deployed [battlefield]({{ 'battle-limits/' | relative_url }}) obscurants can weaken, scatter or distort laser beams, reducing the amount of energy that reaches a target. When weather degrades a directed-energy layer, commanders still need a reliable way to stop drones, missiles or aircraft at close range. That is where cannon-based systems continue to earn their place. Rather than replacing guns, directed energy has generally been added as another layer above them, leaving kinetic weapons as a dependable fallback when atmospheric conditions become unfavourable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-Directed-Ener.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: com.pl">[Defence Science Review+2Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">com.pl</span><span class="citation-popover-title">pdf 216776 135052</span><span class="citation-popover-snippet">Defence Science ReviewDEFENCE SCIENCE REVIEWJanuary 17, 2026 — by A Karkadakattil · 2026 · Cited by 1 — Objectives: This review aims to e...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_layered_defen_f1dec3_weather_guns_2143b8-Illustration-1-dark.svg" | relative_url }}" alt="Weather Guns illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_layered_defen_f1dec3_weather_guns_2143b8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_layered_defen_f1dec3_weather_guns_2143b8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Weather Weakens Laser Engagements
 
-The attraction of a laser weapon is straightforward: it delivers energy at the speed of light and does not need a physical projectile. The challenge is that the beam must travel through air all the way to the target. Every droplet, particle and atmospheric disturbance along that path can reduce effectiveness. Research and defence assessments consistently identify rain, fog, smoke, dust, aerosols and turbulence as significant constraints on laser propagation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-Directed-Ener.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: com.pl">[Defence Science Review+2CIAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">com.pl</span><span class="citation-popover-title">pdf 216776 135052</span><span class="citation-popover-snippet">Defence Science ReviewDEFENCE SCIENCE REVIEWJanuary 17, 2026 — by A Karkadakattil · 2026 · Cited by 1 — Objectives: This review aims to e...</span></span></span>
+The attraction of a laser weapon is straightforward: it delivers energy at the speed of light and does not need a physical projectile. The challenge is that the beam must travel through air all the way to the target. Every droplet, particle and atmospheric disturbance along that path can reduce effectiveness. Research and defence assessments consistently identify rain, fog, smoke, dust, aerosols and turbulence as significant constraints on laser propagation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-Directed-Ener.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: com.pl">[Defence Science Review+2CIAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">com.pl</span><span class="citation-popover-title">pdf 216776 135052</span><span class="citation-popover-snippet">Defence Science ReviewDEFENCE SCIENCE REVIEWJanuary 17, 2026 — by A Karkadakattil · 2026 · Cited by 1 — Objectives: This review aims to e...</span></span></span>
 
 Several mechanisms are involved:
 
 * **Absorption:** Water vapour, droplets and particles absorb part of the beam's energy.
 * **Scattering:** Fog, smoke and dust redirect energy away from the intended aim point.
 * **Beam distortion:** Turbulence and thermal effects can spread or deform the beam, lowering energy density on the target.
-* **Tracking difficulties:** Poor visibility can make it harder to maintain precise aim on a small, moving object long enough to achieve damage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ndupress.ndu.edu/portals/68/Documents/Books/CTBSP-Exports/Effects-of-Directed-Energy-Weapons.pdf?ver=2017-06-16-125220-170" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndupress.ndu.edu">[NDU Press+2Security and Defence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndupress.ndu.edu</span><span class="citation-popover-snippet">NDU PressEffects of Directed Energy Weapons - NDU PressSeptember 18, 2014 — 16 Jun 2017 — Thermal blooming results when the absorption of...</span><span class="citation-popover-meta">Published: September 18, 2014</span></span></span>
+* **Tracking difficulties:** Poor visibility can make it harder to maintain precise aim on a small, moving object long enough to achieve damage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ndupress.ndu.edu/portals/68/Documents/Books/CTBSP-Exports/Effects-of-Directed-Energy-Weapons.pdf?ver=2017-06-16-125220-170" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndupress.ndu.edu">[NDU Press+2Security and Defence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndupress.ndu.edu</span><span class="citation-popover-snippet">NDU PressEffects of Directed Energy Weapons - NDU PressSeptember 18, 2014 — 16 Jun 2017 — Thermal blooming results when the absorption of...</span><span class="citation-popover-meta">Published: September 18, 2014</span></span></span>
 
-These are not merely theoretical concerns. Defence analyses repeatedly note that laser effectiveness declines in fog, rain, smoke, sea spray and dusty environments. Even advocates of laser air defence systems typically describe weather as one of the principal operational limitations that commanders must account for when planning engagements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drillanddefense.com">[Science.gc.ca+3Drill &amp; Defense+3AeroVironment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drillanddefense.com</span><span class="citation-popover-snippet">Weather and atmosphere can reduce effectiveness. Fog, rain, smoke, dust, sea spray, and...</span></span></span>
+These are not merely theoretical concerns. Defence analyses repeatedly note that laser effectiveness declines in fog, rain, smoke, sea spray and dusty environments. Even advocates of laser air defence systems typically describe weather as one of the principal operational limitations that commanders must account for when planning engagements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drillanddefense.com">[Science.gc.ca+3Drill &amp; Defense+3AeroVironment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drillanddefense.com</span><span class="citation-popover-snippet">Weather and atmosphere can reduce effectiveness. Fog, rain, smoke, dust, sea spray, and...</span></span></span>
 
-An additional complication is that modern battlefields are often intentionally obscured. Smoke screens have long been used to interfere with optical systems. Studies of laser interaction with smoke show that obscurants can absorb and scatter incoming energy, reducing transmission and making target engagement more difficult. A defender cannot assume the atmosphere will remain clear during combat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researching.cn/articles/OJ6cc2b3b41825c619" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researching.cn">[Researching]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researching.cn</span><span class="citation-popover-snippet">Simulation study of smoke screen jamming laser terminal...18 May 2022 — Smoke screen scatters and absorbs energy from the inc...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
+An additional complication is that modern battlefields are often intentionally obscured. Smoke screens have long been used to interfere with optical systems. Studies of laser interaction with smoke show that obscurants can absorb and scatter incoming energy, reducing transmission and making target engagement more difficult. A defender cannot assume the atmosphere will remain clear during combat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researching.cn/articles/OJ6cc2b3b41825c619" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researching.cn">[Researching]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researching.cn</span><span class="citation-popover-snippet">Simulation study of smoke screen jamming laser terminal...18 May 2022 — Smoke screen scatters and absorbs energy from the inc...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JBsQ6fyr1WE" title="Why Laser Weapons Didn&#x27;t Work, But Are Now Coming Back" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JBsQ6fyr1WE" target="_blank" rel="noopener noreferrer">Why Laser Weapons Didn&#x27;t Work, But Are Now Coming Back</a></p><p class="youtube-embed-meta">Channel: Not What You Think</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JBsQ6fyr1WE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JBsQ6fyr1WE">Open on YouTube</a></p></div></div></div>
 
 ## Why Close-In Guns Remain Useful
 
-Gun systems face their own limitations, but they do not depend on maintaining a high-energy beam through the atmosphere. Once fired, a projectile carries its destructive effect physically toward the target. Heavy rain may influence accuracy, and visibility still matters for sensors, but cannon-based defences are generally less vulnerable to the specific propagation problems that affect laser weapons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drillanddefense.com">[Drill &amp; Defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drillanddefense.com</span><span class="citation-popover-snippet">Weather and atmosphere can reduce effectiveness. Fog, rain, smoke, dust, sea spray, and...</span></span></span>
+Gun systems face their own limitations, but they do not depend on maintaining a high-energy beam through the atmosphere. Once fired, a projectile carries its destructive effect physically toward the target. Heavy rain may influence accuracy, and visibility still matters for sensors, but cannon-based defences are generally less vulnerable to the specific propagation problems that affect laser weapons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drillanddefense.com">[Drill &amp; Defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drillanddefense.com</span><span class="citation-popover-snippet">Weather and atmosphere can reduce effectiveness. Fog, rain, smoke, dust, sea spray, and...</span></span></span>
 
-This distinction becomes especially important against short-range threats. Small drones, loitering munitions and incoming missiles can appear with little warning. A laser may need several seconds of stable tracking and energy delivery to create a destructive effect. If weather, smoke or manoeuvring interrupts that process, the engagement can fail. A gun-based system instead relies on rapidly placing projectiles into the target's path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://securityanddefence.pl/Testing-the-efficiency-of-laser-technology-to-destroy-the-rogue-drones%2C127360%2C0%2C2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: securityanddefence.pl">[Security and Defence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">securityanddefence.pl</span><span class="citation-popover-snippet">Security and DefenceTesting the efficiency of laser technology to destroy...by MZ Chaari · 2020 · Cited by 17 — The laser technique is a...</span></span></span>
+This distinction becomes especially important against short-range threats. Small drones, loitering munitions and incoming missiles can appear with little warning. A laser may need several seconds of stable tracking and energy delivery to create a destructive effect. If weather, smoke or manoeuvring interrupts that process, the engagement can fail. A gun-based system instead relies on rapidly placing projectiles into the target's path.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://securityanddefence.pl/Testing-the-efficiency-of-laser-technology-to-destroy-the-rogue-drones%2C127360%2C0%2C2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: securityanddefence.pl">[Security and Defence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">securityanddefence.pl</span><span class="citation-popover-snippet">Security and DefenceTesting the efficiency of laser technology to destroy...by MZ Chaari · 2020 · Cited by 17 — The laser technique is a...</span></span></span>
 
-Modern close-in weapon systems (CIWS) embody this philosophy. They are designed specifically to engage threats that have penetrated outer defensive layers. Their purpose is not elegant [efficiency]({{ 'efficiency/' | relative_url }}) but dependable interception under stressful, time-compressed conditions. Many navies and air-defence operators continue to retain such systems even while experimenting with laser-based alternatives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close-in_weapon_system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Close-in weapon system</span><span class="citation-popover-snippet">Close-in weapon system</span></span></span>
+Modern close-in weapon systems (CIWS) embody this philosophy. They are designed specifically to engage threats that have penetrated outer defensive layers. Their purpose is not elegant [efficiency]({{ 'efficiency/' | relative_url }}) but dependable interception under stressful, time-compressed conditions. Many navies and air-defence operators continue to retain such systems even while experimenting with laser-based alternatives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Close-in_weapon_system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Close-in weapon system</span><span class="citation-popover-snippet">Close-in weapon system</span></span></span>
 
 The continued investment in gun systems reflects a practical judgement: weather does not need to defeat a laser completely to create risk. If atmospheric conditions reduce confidence in a successful engagement, commanders want another layer that operates according to different physical principles. Guns provide that diversity.
 
@@ -310,7 +310,7 @@ The continued investment in gun systems reflects a practical judgement: weather 
 <img src="{{ "/assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_layered_defen_f1dec3_weather_guns_2143b8-Illustration-2-dark.svg" | relative_url }}" alt="Weather Guns illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_layered_defen_f1dec3_weather_guns_2143b8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_layered_defen_f1dec3_weather_guns_2143b8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Last-Ditch Role After Other Layers Fail
 
-Layered air defence is built around redundancy. No single technology is expected to work perfectly against every target, in every environment, at every range. Lasers are increasingly viewed as an economical way to handle certain aerial threats, especially drones, but planners generally position them within a broader architecture that includes missiles, electronic warfare and kinetic defences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — Directed energy weapons—such as lasers—use energy fired at the speed of...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+Layered air defence is built around redundancy. No single technology is expected to work perfectly against every target, in every environment, at every range. Lasers are increasingly viewed as an economical way to handle certain aerial threats, especially drones, but planners generally position them within a broader architecture that includes missiles, electronic warfare and kinetic defences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2Science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106717</span><span class="citation-popover-snippet">Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — Directed energy weapons—such as lasers—use energy fired at the speed of...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 In a typical layered model:
 
@@ -322,7 +322,7 @@ In a typical layered model:
 
 1. Long-range sensors detect incoming threats.
 2. Outer layers attempt interception with missiles or other systems.
-3. Directed energy may engage suitable targets when atmospheric conditions permit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.gc.ca/site/science/en/safeguarding-your-research/guidelines-and-tools-implement-research-security/emerging-technology-trend-cards/directed-energy-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">directed energy weapons</span><span class="citation-popover-snippet">11 Feb 2025 — However, they can be adversely affected by atmospheric conditions like rain or fog... The deep magazines of laser weapon s...</span></span></span>
+3. Directed energy may engage suitable targets when atmospheric conditions permit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.gc.ca/site/science/en/safeguarding-your-research/guidelines-and-tools-implement-research-security/emerging-technology-trend-cards/directed-energy-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.gc.ca">[science.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.gc.ca</span><span class="citation-popover-title">directed energy weapons</span><span class="citation-popover-snippet">11 Feb 2025 — However, they can be adversely affected by atmospheric conditions like rain or fog... The deep magazines of laser weapon s...</span></span></span>
 4. Close-in guns provide the final protective barrier if previous layers fail. [Wikipedia](https://en.wikipedia.org/wiki/Close-in_weapon_system)
 
 </div>
@@ -338,194 +338,194 @@ Yet improvement is not the same as elimination. The atmosphere remains a variabl
 The result is a persistent design choice across modern air-defence architectures: directed energy may reduce the burden on missiles and improve efficiency against many threats, but [bad weather]({{ 'bad-weather/' | relative_url }}) still provides a strong argument for retaining guns. When visibility collapses, smoke fills the battlespace or a target suddenly appears at close range, the final line of defence is often still a cannon rather than a beam. [Wikipedia+3Science.gc.ca+3Drill & Defense](https://science.gc.ca/site/science/en/safeguarding-your-research/guidelines-and-tools-implement-research-security/emerging-technology-trend-cards/directed-energy-weapons)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Guns Still Matter in Bad Weather. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Guns Still Matter in Bad Weather. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Explains why layered networks still need resilient backup weapons when advanced systems are degraded.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why layered networks still need resilient backup weapons when advanced systems are degraded.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warfare+by+Dave+Sloggett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warfare on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tfRDBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warfare" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drone+Warfare+by+Dave+Sloggett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warfare">Drone Warfare</a>
-        </h4>
-        <p class="fr-book-author">By Dave Sloggett</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warfare+by+Dave+Sloggett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warfare on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tfRDBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warfare" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drone+Warfare+by+Dave+Sloggett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warfare">Drone Warfare</a>
+</h4>
+<p class="fr-book-author">By Dave Sloggett</p>
         
-        <p class="fr-book-desc">Shows why close-in defensive weapons remain important against unmanned aircraft in real-world conditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drone+Warfare+by+Dave+Sloggett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why close-in defensive weapons remain important against unmanned aircraft in real-world conditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drone+Warfare+by+Dave+Sloggett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Modern+Warfare+David+Jordan+-+undifferentiated&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Modern Warfare on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8462567-M.jpg" alt="Cover for Understanding Modern Warfare" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Understanding+Modern+Warfare+David+Jordan+-+undifferentiated&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Modern Warfare">Understanding Modern Warfare</a>
-        </h4>
-        <p class="fr-book-author">By David Jordan - undifferentiated, James D. Kiras et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Modern+Warfare+David+Jordan+-+undifferentiated&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Modern Warfare on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8462567-M.jpg" alt="Cover for Understanding Modern Warfare" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Understanding+Modern+Warfare+David+Jordan+-+undifferentiated&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Modern Warfare">Understanding Modern Warfare</a>
+</h4>
+<p class="fr-book-author">By David Jordan - undifferentiated, James D. Kiras et al.</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Military history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Understanding+Modern+Warfare+David+Jordan+-+undifferentiated&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Military history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Understanding+Modern+Warfare+David+Jordan+-+undifferentiated&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kill Chain">Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kill Chain">Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explains why layered networks still need resilient backup weapons when advanced systems are degraded.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why layered networks still need resilient backup weapons when advanced systems are degraded.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Warfare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Warfare</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Understanding+Modern+Warfare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Understanding Modern Warfare</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Warfare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Warfare</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Understanding+Modern+Warfare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Understanding Modern Warfare</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin"><img src="{{ '/assets/images/marketplace-covers/7e59f5248ccdd6fc90fc.jpg' | relative_url }}" alt="Listing image for Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin"><img src="{{ '/assets/images/marketplace-covers/7e59f5248ccdd6fc90fc.jpg' | relative_url }}" alt="Listing image for Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Laser Pin Machine, Lab Welding Equipment for Crown Bridge Pin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Press Photograph Research Laboratory Equipment and Laser Technology"><img src="{{ '/assets/images/marketplace-covers/e237132357180c5d278f.jpg' | relative_url }}" alt="Listing image for Vintage Press Photograph Research Laboratory Equipment and Laser Technology" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Vintage Press Photograph Research Laboratory Equipment and Laser Technology</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Press Photograph Research Laboratory Equipment and Laser Technology"><img src="{{ '/assets/images/marketplace-covers/e237132357180c5d278f.jpg' | relative_url }}" alt="Listing image for Vintage Press Photograph Research Laboratory Equipment and Laser Technology" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Vintage Press Photograph Research Laboratory Equipment and Laser Technology</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment"><img src="{{ '/assets/images/marketplace-covers/0405b1cb09b5dd20d5de.jpg' | relative_url }}" alt="Listing image for Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment"><img src="{{ '/assets/images/marketplace-covers/0405b1cb09b5dd20d5de.jpg' | relative_url }}" alt="Listing image for Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Laser Pinhole Drilling Machine Precision Pin System Dental Lab Equipment</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment"><img src="{{ '/assets/images/marketplace-covers/7b762fb9a777d61458bf.jpg' | relative_url }}" alt="Listing image for Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment"><img src="{{ '/assets/images/marketplace-covers/7b762fb9a777d61458bf.jpg' | relative_url }}" alt="Listing image for Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">Dental Lab Laser Pindex Drill Machine Dentist Driller Drill Pin System Equipment</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser laboratory equipment">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser laboratory equipment</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+laboratory+equipment&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser laboratory equipment" data-ebay-reference="weather-guns-why-guns-still-matter-in-bad-weather-directed-ener-laser-laboratory-equipment" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -541,7 +541,7 @@ The result is a persistent design choice across modern air-defence architectures
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -561,7 +561,7 @@ The result is a persistent design choice across modern air-defence architectures
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -593,7 +593,7 @@ The result is a persistent design choice across modern air-defence architectures
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -645,7 +645,7 @@ The result is a persistent design choice across modern air-defence architectures
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -690,7 +690,7 @@ The result is a persistent design choice across modern air-defence architectures
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -731,181 +731,181 @@ The result is a persistent design choice across modern air-defence architectures
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.gc.ca  
    Title: directed energy weapons  
-   Link: <a href="https://science.gc.ca/site/science/en/safeguarding-your-research/guidelines-and-tools-implement-research-security/emerging-technology-trend-cards/directed-energy-weapons" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/safeguarding-your-research/guidelines-and-tools-implement-research-security/emerging-technology-trend-cards/directed-energy-weapons</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Feb 2025 — However, they can be adversely affected by atmospheric conditions like rain or fog... The deep magazines of laser weapon s...</p></details>
+   Link:<a href="https://science.gc.ca/site/science/en/safeguarding-your-research/guidelines-and-tools-implement-research-security/emerging-technology-trend-cards/directed-energy-weapons" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/safeguarding-your-research/guidelines-and-tools-implement-research-security/emerging-technology-trend-cards/directed-energy-weapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>11 Feb 2025 — However, they can be adversely affected by atmospheric conditions like rain or fog... The deep magazines of laser weapon s...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ciaotest.cc.columbia.edu  
-   Link: <a href="https://ciaotest.cc.columbia.edu/olj/sa/sa_feb01ghc01.html" target="_blank" rel="noopener noreferrer nofollow">https://ciaotest.cc.columbia.edu/olj/sa/sa_feb01ghc01.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Energy Weaponsby CN Ghosh · Cited by 9 — Moreover, laser weapons efficiency while operating in the earth&#x27;s atmosphere depends on local we...</p></details>
+   Link:<a href="https://ciaotest.cc.columbia.edu/olj/sa/sa_feb01ghc01.html" target="_blank" rel="noopener noreferrer nofollow">https://ciaotest.cc.columbia.edu/olj/sa/sa_feb01ghc01.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Energy Weaponsby CN Ghosh · Cited by 9 — Moreover, laser weapons efficiency while operating in the earth&#x27;s atmosphere depends on local we...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/307435846_Atmospheric_Propagation_of_High-Energy_Laser_Beams" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/307435846_Atmospheric_Propagation_of_High-Energy_Laser_Beams</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Atmospheric Propagation of High-Energy Laser BeamsLaser sources are widely used for exploring the atmosphere, in particular, its ga...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/307435846_Atmospheric_Propagation_of_High-Energy_Laser_Beams" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/307435846_Atmospheric_Propagation_of_High-Energy_Laser_Beams</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Atmospheric Propagation of High-Energy Laser BeamsLaser sources are widely used for exploring the atmosphere, in particular, its ga...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ndupress.ndu.edu  
-   Link: <a href="https://ndupress.ndu.edu/portals/68/Documents/Books/CTBSP-Exports/Effects-of-Directed-Energy-Weapons.pdf?ver=2017-06-16-125220-170" target="_blank" rel="noopener noreferrer nofollow">https://ndupress.ndu.edu/portals/68/Documents/Books/CTBSP-Exports/Effects-of-Directed-Energy-Weapons.pdf?ver=2017-06-16-125220-170</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NDU PressEffects of Directed Energy Weapons - NDU PressSeptember 18, 2014 — 16 Jun 2017 — Thermal blooming results when the absorption of...</p></details>
+   Link:<a href="https://ndupress.ndu.edu/portals/68/Documents/Books/CTBSP-Exports/Effects-of-Directed-Energy-Weapons.pdf?ver=2017-06-16-125220-170" target="_blank" rel="noopener noreferrer nofollow">https://ndupress.ndu.edu/portals/68/Documents/Books/CTBSP-Exports/Effects-of-Directed-Energy-Weapons.pdf?ver=2017-06-16-125220-170</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NDU PressEffects of Directed Energy Weapons - NDU PressSeptember 18, 2014 — 16 Jun 2017 — Thermal blooming results when the absorption of...</p></details>
    Published: September 18, 2014  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: upload.wikimedia.org  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/1/16/High_energy_laser_propagation_in_various_atmospheric_conditions_utilizing_a_new%2C_accelerated_scaling_code_%28IA_highenergylaserp1094542628%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/1/16/High_energy_laser_propagation_in_various_atmospheric_conditions_utilizing_a_new%2C_accelerated_scaling_code_%28IA_highenergylaserp1094542628%29.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsHigh energy laser propagation in various atmospheric...by CR Fussman · 2014 · Cited by 25 — ANCHOR accounts for the eff...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/1/16/High_energy_laser_propagation_in_various_atmospheric_conditions_utilizing_a_new%2C_accelerated_scaling_code_%28IA_highenergylaserp1094542628%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/1/16/High_energy_laser_propagation_in_various_atmospheric_conditions_utilizing_a_new%2C_accelerated_scaling_code_%28IA_highenergylaserp1094542628%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsHigh energy laser propagation in various atmospheric...by CR Fussman · 2014 · Cited by 25 — ANCHOR accounts for the eff...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: eos-aus.com  
    Title: EOS AUSThe hottest new defense against drones?  
-   Link: <a href="https://eos-aus.com/news/the-hottest-new-defense-against-drones-lasers/" target="_blank" rel="noopener noreferrer nofollow">https://eos-aus.com/news/the-hottest-new-defense-against-drones-lasers/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lasers19 Sept 2025 — Rain, fog and humidity can throw off a laser&#x27;s precision, making it harder to hit its target. Most existing laser we...</p></details>
+   Link:<a href="https://eos-aus.com/news/the-hottest-new-defense-against-drones-lasers/" target="_blank" rel="noopener noreferrer nofollow">https://eos-aus.com/news/the-hottest-new-defense-against-drones-lasers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lasers19 Sept 2025 — Rain, fog and humidity can throw off a laser&#x27;s precision, making it harder to hit its target. Most existing laser we...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researching.cn  
-   Link: <a href="https://www.researching.cn/articles/OJ6cc2b3b41825c619" target="_blank" rel="noopener noreferrer nofollow">https://www.researching.cn/articles/OJ6cc2b3b41825c619</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Simulation study of smoke screen jamming laser terminal...18 May 2022 — Smoke screen scatters and absorbs energy from the inc...</p></details>
+   Link:<a href="https://www.researching.cn/articles/OJ6cc2b3b41825c619" target="_blank" rel="noopener noreferrer nofollow">https://www.researching.cn/articles/OJ6cc2b3b41825c619</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Simulation study of smoke screen jamming laser terminal...18 May 2022 — Smoke screen scatters and absorbs energy from the inc...</p></details>
    Published: May 2022  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Laser weapon  
-   Link: <a href="https://en.wikipedia.org/wiki/Laser_weapon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Laser_weapon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser weaponA laser weapon is a type of directed-energy weapon (DEW) that uses lasers to inflict damage. Laser weapons are of two type...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Laser_weapon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Laser_weapon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser weaponA laser weapon is a type of directed-energy weapon (DEW) that uses lasers to inflict damage. Laser weapons are of two type...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: gao.gov  
    Title: gao 23 106717  
-   Link: <a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — Directed energy weapons—such as lasers—use energy fired at the speed of...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-23-106717" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106717</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science &amp; Tech Spotlight: Directed Energy Weapons25 May 2023 — Directed energy weapons—such as lasers—use energy fired at the speed of...</p></details>
    Published: May 2023  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mitigated through feedback from wavefront and atmospheric sensors to the adaptive...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403676537_Laser-Based_Directed_Energy_Weapons_Technological_Capabilities_Material_Interaction_and_Strategic_[Deployment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mitigated through feedback from wavefront and atmospheric sensors to the adaptive...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: directed.com  
    Title: DIRECTE D  
-   Link: <a href="https://www.directed.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.directed.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Car Alarms | Remote Starters | SMARTSTART...DIRECTED is the largest designer and marketer of consumer-branded car alarms and...</p></details>
+   Link:<a href="https://www.directed.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.directed.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Car Alarms | Remote Starters | SMARTSTART...DIRECTED is the largest designer and marketer of consumer-branded car alarms and...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Laser" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Laser</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LaserA laser is a device that emits light through a process of optical amplification based on the stimulated emission of electromagnet...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Laser" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Laser</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LaserA laser is a device that emits light through a process of optical amplification based on the stimulated emission of electromagnet...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/378698575_Comparative_Analysis_Of_A_Multi-Layered_Weapon_System_For_City_Air_Defense_In_The_Modern_Warfare" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/378698575_Comparative_Analysis_Of_A_Multi-Layered_Weapon_System_For_City_Air_Defense_In_The_Modern_Warfare</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Comparative Analysis Of A Multi-Layered Weapon System...5 May 2026 — Korkut Gun System, presents a unique blend of artillery and air def...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/378698575_Comparative_Analysis_Of_A_Multi-Layered_Weapon_System_For_City_Air_Defense_In_The_Modern_Warfare" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/378698575_Comparative_Analysis_Of_A_Multi-Layered_Weapon_System_For_City_Air_Defense_In_The_Modern_Warfare</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comparative Analysis Of A Multi-Layered Weapon System...5 May 2026 — Korkut Gun System, presents a unique blend of artillery and air def...</p></details>
    Published: May 2026  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: digitalcommons.ndu.edu  
-   Link: <a href="https://digitalcommons.ndu.edu/cgi/viewcontent.cgi?article=1046&amp;context=defense-tech-papers" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.ndu.edu/cgi/viewcontent.cgi?article=1046&amp;context=defense-tech-papers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Energy Weapons – Are We There Yet?by E Zimet · 2009 · Cited by 15 — The CO2 laser produces a beam enough to cause a phenomenon called “th...</p></details>
+   Link:<a href="https://digitalcommons.ndu.edu/cgi/viewcontent.cgi?article=1046&amp;context=defense-tech-papers" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.ndu.edu/cgi/viewcontent.cgi?article=1046&amp;context=defense-tech-papers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Energy Weapons – Are We There Yet?by E Zimet · 2009 · Cited by 15 — The CO2 laser produces a beam enough to cause a phenomenon called “th...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: inss.ndu.edu  
    Title: laser focusing defense capabilities  
-   Link: <a href="https://inss.ndu.edu/news/Article/4412653/laser-focusing-defense-capabilities/" target="_blank" rel="noopener noreferrer nofollow">https://inss.ndu.edu/news/Article/4412653/laser-focusing-defense-capabilities/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ndu.eduLaser-focusing Defense CapabilitiesHigh-power lasers can defeat UAS by rapidly heating and structurally compromising control surfa...</p></details>
+   Link:<a href="https://inss.ndu.edu/news/Article/4412653/laser-focusing-defense-capabilities/" target="_blank" rel="noopener noreferrer nofollow">https://inss.ndu.edu/news/Article/4412653/laser-focusing-defense-capabilities/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ndu.eduLaser-focusing Defense CapabilitiesHigh-power lasers can defeat UAS by rapidly heating and structurally compromising control surfa...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: eos-aus.com  
-   Link: <a href="https://eos-aus.com/defence/high-energy-laser-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://eos-aus.com/defence/high-energy-laser-weapon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>High Energy Laser WeaponHarnessing advanced technology, EOS&#x27; High Energy Laser (HEL) weapon ensures swift and decisive action against UAS...</p></details>
+   Link:<a href="https://eos-aus.com/defence/high-energy-laser-weapon/" target="_blank" rel="noopener noreferrer nofollow">https://eos-aus.com/defence/high-energy-laser-weapon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High Energy Laser WeaponHarnessing advanced technology, EOS&#x27; High Energy Laser (HEL) weapon ensures swift and decisive action against UAS...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: defencesciencereview.com.pl  
    Title: pdf 216776 135052  
-   Link: <a href="https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-[Directed-Ener" target="_blank" rel="noopener noreferrer nofollow">https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-[Directed-Ener</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defence Science ReviewDEFENCE SCIENCE REVIEWJanuary 17, 2026 — by A Karkadakattil · 2026 · Cited by 1 — Objectives: This review aims to e...</p></details>
+   Link:<a href="https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-[Directed-Ener" target="_blank" rel="noopener noreferrer nofollow">https://www.defencesciencereview.com.pl/pdf-216776-135052?filename=Laser-Based-[Directed-Ener</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defence Science ReviewDEFENCE SCIENCE REVIEWJanuary 17, 2026 — by A Karkadakattil · 2026 · Cited by 1 — Objectives: This review aims to e...</p></details>
    Published: January 17, 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: drillanddefense.com  
-   Link: <a href="https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/" target="_blank" rel="noopener noreferrer nofollow">https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather and atmosphere can reduce effectiveness. Fog, rain, smoke, dust, sea spray, and...</p></details>
+   Link:<a href="https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/" target="_blank" rel="noopener noreferrer nofollow">https://drillanddefense.com/laser-weapons-the-new-layer-in-modern-air-defense/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weather and atmosphere can reduce effectiveness. Fog, rain, smoke, dust, sea spray, and...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: securityanddefence.pl  
-   Link: <a href="https://securityanddefence.pl/Testing-the-efficiency-of-laser-technology-to-destroy-the-rogue-drones%2C127360%2C0%2C2.html" target="_blank" rel="noopener noreferrer nofollow">https://securityanddefence.pl/Testing-the-efficiency-of-laser-technology-to-destroy-the-rogue-drones%2C127360%2C0%2C2.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Security and DefenceTesting the efficiency of laser technology to destroy...by MZ Chaari · 2020 · Cited by 17 — The laser technique is a...</p></details>
+   Link:<a href="https://securityanddefence.pl/Testing-the-efficiency-of-laser-technology-to-destroy-the-rogue-drones%2C127360%2C0%2C2.html" target="_blank" rel="noopener noreferrer nofollow">https://securityanddefence.pl/Testing-the-efficiency-of-laser-technology-to-destroy-the-rogue-drones%2C127360%2C0%2C2.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Security and DefenceTesting the efficiency of laser technology to destroy...by MZ Chaari · 2020 · Cited by 17 — The laser technique is a...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: avinc.com  
    Title: Aero Vironment How Does Weather Affect Laser Weapons?  
-   Link: <a href="https://www.avinc.com/2026/04/08/how-does-weather-affect-laser-weapons-a-more-important-question-than-it-seems/" target="_blank" rel="noopener noreferrer nofollow">https://www.avinc.com/2026/04/08/how-does-weather-affect-laser-weapons-a-more-important-question-than-it-seems/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A More...8 Apr 2026 — One of the most common questions I&#x27;m asked about laser weapon systems is simple: How do they perform in bad weathe...</p></details>
+   Link:<a href="https://www.avinc.com/2026/04/08/how-does-weather-affect-laser-weapons-a-more-important-question-than-it-seems/" target="_blank" rel="noopener noreferrer nofollow">https://www.avinc.com/2026/04/08/how-does-weather-affect-laser-weapons-a-more-important-question-than-it-seems/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A More...8 Apr 2026 — One of the most common questions I&#x27;m asked about laser weapon systems is simple: How do they perform in bad weathe...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>State of the Art and Evolution of High-Energy Laser Weapons31 Mar 2010 — If the HEL beam&#x27;s propagation path from the weapon to the target...</p></details>
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>State of the Art and Evolution of High-Energy Laser Weapons31 Mar 2010 — If the HEL beam&#x27;s propagation path from the weapon to the target...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: voxxelectronics.com  
-   Link: <a href="https://www.voxxelectronics.com/our-brands/directed" target="_blank" rel="noopener noreferrer nofollow">https://www.voxxelectronics.com/our-brands/directed</a>  
+   Link:<a href="https://www.voxxelectronics.com/our-brands/directed" target="_blank" rel="noopener noreferrer nofollow">https://www.voxxelectronics.com/our-brands/directed</a>  
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: dictionary.com  
-   Link: <a href="https://www.dictionary.com/browse/directed" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/directed</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DIRECTED Definition &amp; Meaningadjective guided, regulated, or managed: a carefully directed program. pointed, aimed, or sent toward a plac...</p></details>
+   Link:<a href="https://www.dictionary.com/browse/directed" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/directed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DIRECTED Definition &amp; Meaningadjective guided, regulated, or managed: a carefully directed program. pointed, aimed, or sent toward a plac...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: marketresearchfuture.com  
-   Link: <a href="https://www.marketresearchfuture.com/reports/naval-close-in-weapon-system-ciws-market-31678" target="_blank" rel="noopener noreferrer nofollow">https://www.marketresearchfuture.com/reports/naval-close-in-weapon-system-ciws-market-31678</a>  
+   Link:<a href="https://www.marketresearchfuture.com/reports/naval-close-in-weapon-system-ciws-market-31678" target="_blank" rel="noopener noreferrer nofollow">https://www.marketresearchfuture.com/reports/naval-close-in-weapon-system-ciws-market-31678</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/traveller/comments/1awelhv/unexpected_weapon_limitations/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/traveller/comments/1awelhv/unexpected_weapon_limitations/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unexpected weapon limitations: r/travellerYou can&#x27;t shoot a laser through clouds or heavy rain. In other words, if you can&#x27;t clearly see...</p></details>
+   Link:<a href="https://www.reddit.com/r/traveller/comments/1awelhv/unexpected_weapon_limitations/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/traveller/comments/1awelhv/unexpected_weapon_limitations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unexpected weapon limitations: r/travellerYou can&#x27;t shoot a laser through clouds or heavy rain. In other words, if you can&#x27;t clearly see...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=JBsQ6fyr1WE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JBsQ6fyr1WE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Laser Weapons Didn&#x27;t Work, But Are Now Coming BackLaser have come a long way. They are powerful, simple and inexpensive to operate, a...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JBsQ6fyr1WE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JBsQ6fyr1WE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Laser Weapons Didn&#x27;t Work, But Are Now Coming BackLaser have come a long way. They are powerful, simple and inexpensive to operate, a...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: eureka.patsnap.com  
    Title: report atmospheric effects on long range [laser power](&#123;&#123; 'power-costs/' | relative_url &#125;&#125;) transmission  
-   Link: <a href="https://eureka.patsnap.com/report-atmospheric-effects-on-long-range-laser-power-transmission" target="_blank" rel="noopener noreferrer nofollow">https://eureka.patsnap.com/report-atmospheric-effects-on-long-range-laser-power-transmission</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects On Long-Range Laser Power...28 Aug 2025 — Weather conditions dramatically affect transmission efficiency, with fog, rain, snow...</p></details>
+   Link:<a href="https://eureka.patsnap.com/report-atmospheric-effects-on-long-range-laser-power-transmission" target="_blank" rel="noopener noreferrer nofollow">https://eureka.patsnap.com/report-atmospheric-effects-on-long-range-laser-power-transmission</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects On Long-Range Laser Power...28 Aug 2025 — Weather conditions dramatically affect transmission efficiency, with fog, rain, snow...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: directechs.com  
-   Link: <a href="https://www.directechs.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.directechs.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HomeDIRECTED by VOXX Next Generation Flash Tool. Learn More. RF Compatibility Made Easy. Introducing the new and improved Tra...</p></details>
+   Link:<a href="https://www.directechs.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.directechs.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HomeDIRECTED by VOXX Next Generation Flash Tool. Learn More. RF Compatibility Made Easy. Introducing the new and improved Tra...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: navylookout.com  
    Title: last ditch defence the phalanx close in weapon system in focus  
-   Link: <a href="https://www.navylookout.com/last-ditch-defence-the-phalanx-close-in-weapon-system-in-focus/" target="_blank" rel="noopener noreferrer nofollow">https://www.navylookout.com/last-ditch-defence-the-phalanx-close-in-weapon-system-in-focus/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Last ditch defence – the Phalanx close-in weapon system...10 Aug 2020 — The ubiquitous Phalanx close-in weapon system (CIWS) provides wa...</p></details>
+   Link:<a href="https://www.navylookout.com/last-ditch-defence-the-phalanx-close-in-weapon-system-in-focus/" target="_blank" rel="noopener noreferrer nofollow">https://www.navylookout.com/last-ditch-defence-the-phalanx-close-in-weapon-system-in-focus/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Last ditch defence – the Phalanx close-in weapon system...10 Aug 2020 — The ubiquitous Phalanx close-in weapon system (CIWS) provides wa...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: dictionary.cambridge.org  
    Title: C1 [ T ] to tell people the direction in which they must drive  
-   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english/directed" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/directed</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>definition in the Cambridge English Dictionaryto control or be in charge of an activity, organization, etc.: She directs a large charity...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/us/dictionary/english/directed" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/directed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>definition in the Cambridge English Dictionaryto control or be in charge of an activity, organization, etc.: She directs a large charity...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: reddit.com  
    Title: Will laser air defense inevitably replace kinetic (i.e  
-   Link: <a href="https://www.reddit.com/r/CredibleDefense/comments/1chmwav/will_laser_air_defense_inevitably_replace_kinetic/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/CredibleDefense/comments/1chmwav/will_laser_air_defense_inevitably_replace_kinetic/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>weapons completely replace kinetic weapons in air [defense role](&amp;#123;&amp;#123; &#x27;defense-role/&#x27; | relative_url &amp;#125;&amp;#125;) within the next 50 years, making kinetic air defense obsolete...</p></details>
+   Link:<a href="https://www.reddit.com/r/CredibleDefense/comments/1chmwav/will_laser_air_defense_inevitably_replace_kinetic/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/CredibleDefense/comments/1chmwav/will_laser_air_defense_inevitably_replace_kinetic/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>weapons completely replace kinetic weapons in air [defense role](&amp;#123;&amp;#123; &#x27;defense-role/&#x27; | relative_url &amp;#125;&amp;#125;) within the next 50 years, making kinetic air defense obsolete...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: scholar.afit.edu  
    Title: Thermal blooming is a well documented phenomenon  
-   Link: <a href="https://scholar.afit.edu/cgi/viewcontent.cgi?article=1774&amp;context=facpub%2F1000" target="_blank" rel="noopener noreferrer nofollow">https://scholar.afit.edu/cgi/viewcontent.cgi?article=1774&amp;context=facpub%2F1000</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AFIT ScholarAtmospheric Propagation of High Energy Lasers: Thermal...This article considers atmospheric effects on the propagation of co...</p></details>
+   Link:<a href="https://scholar.afit.edu/cgi/viewcontent.cgi?article=1774&amp;context=facpub%2F1000" target="_blank" rel="noopener noreferrer nofollow">https://scholar.afit.edu/cgi/viewcontent.cgi?article=1774&amp;context=facpub%2F1000</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFIT ScholarAtmospheric Propagation of High Energy Lasers: Thermal...This article considers atmospheric effects on the propagation of co...</p></details>

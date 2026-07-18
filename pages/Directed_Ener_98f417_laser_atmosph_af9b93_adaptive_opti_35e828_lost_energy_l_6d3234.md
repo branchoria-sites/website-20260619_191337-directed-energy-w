@@ -275,7 +275,7 @@ image: /assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_adaptive_opti_35
 
 ## Introduction
 
-[Adaptive optics]({{ 'adaptive-optics/' | relative_url }}) can make a weather-degraded laser beam sharper, but it cannot recover energy that the [atmosphere]({{ 'atmosphere/' | relative_url }}) has already removed. This distinction is critical in discussions of directed energy weapons. Atmospheric turbulence mainly distorts the phase, or shape, of a laser wavefront. Adaptive-optics systems use sensors and deformable mirrors to correct those distortions and refocus the surviving light. By contrast, fog, smoke, dust, sea spray, haze, and some atmospheric gases physically remove energy from the beam through scattering and absorption. Once photons have been absorbed or scattered away from the intended path, no wavefront correction system can recreate them. The result is a fundamental limit: adaptive optics can improve how efficiently the remaining energy is delivered to a target, but it cannot restore power that never arrives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.sto.nato.int/publications/STO%20Educational%20Notes/STO-EN-SCI-340/EN-SCI-340-06.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.sto.nato.int">[NATO Publications+2RP Photonics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.sto.nato.int</span><span class="citation-popover-snippet">NATO Publications6.0 PROPAGATION AND ADAPTIVE OPTICSVirtually all the atmospheric effects on laser weapon systems can be traced to three...</span></span></span>
+[Adaptive optics]({{ 'adaptive-optics/' | relative_url }}) can make a weather-degraded laser beam sharper, but it cannot recover energy that the [atmosphere]({{ 'atmosphere/' | relative_url }}) has already removed. This distinction is critical in discussions of directed energy weapons. Atmospheric turbulence mainly distorts the phase, or shape, of a laser wavefront. Adaptive-optics systems use sensors and deformable mirrors to correct those distortions and refocus the surviving light. By contrast, fog, smoke, dust, sea spray, haze, and some atmospheric gases physically remove energy from the beam through scattering and absorption. Once photons have been absorbed or scattered away from the intended path, no wavefront correction system can recreate them. The result is a fundamental limit: adaptive optics can improve how efficiently the remaining energy is delivered to a target, but it cannot restore power that never arrives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.sto.nato.int/publications/STO%20Educational%20Notes/STO-EN-SCI-340/EN-SCI-340-06.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.sto.nato.int">[NATO Publications+2RP Photonics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.sto.nato.int</span><span class="citation-popover-snippet">NATO Publications6.0 PROPAGATION AND ADAPTIVE OPTICSVirtually all the atmospheric effects on laser weapon systems can be traced to three...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_adaptive_opti_35e828_lost_energy_l_6d3234-Illustration-1-dark.svg" | relative_url }}" alt="Lost Energy illustration 1" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_adaptive_opti_35e828_lost_energy_l_6d3234-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_adaptive_opti_35e828_lost_energy_l_6d3234-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -283,18 +283,18 @@ image: /assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_adaptive_opti_35
 
 Atmospheric attenuation is not simply a focusing problem. It is an energy-loss problem.
 
-When a high-energy laser propagates through air, three broad effects matter: turbulence, absorption, and scattering. Turbulence alters the beam's optical phase and can cause spreading or beam wander. Absorption occurs when atmospheric constituents such as water vapour or other molecules convert part of the laser energy into heat. Scattering occurs when particles or droplets redirect photons away from the intended beam path. NATO educational material on laser propagation identifies absorption and scattering as distinct atmospheric mechanisms that degrade laser weapon performance alongside turbulence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.sto.nato.int/publications/STO%20Educational%20Notes/STO-EN-SCI-340/EN-SCI-340-06.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.sto.nato.int">[NATO Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.sto.nato.int</span><span class="citation-popover-snippet">NATO Publications6.0 PROPAGATION AND ADAPTIVE OPTICSVirtually all the atmospheric effects on laser weapon systems can be traced to three...</span></span></span>
+When a high-energy laser propagates through air, three broad effects matter: turbulence, absorption, and scattering. Turbulence alters the beam's optical phase and can cause spreading or beam wander. Absorption occurs when atmospheric constituents such as water vapour or other molecules convert part of the laser energy into heat. Scattering occurs when particles or droplets redirect photons away from the intended beam path. NATO educational material on laser propagation identifies absorption and scattering as distinct atmospheric mechanisms that degrade laser weapon performance alongside turbulence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.sto.nato.int/publications/STO%20Educational%20Notes/STO-EN-SCI-340/EN-SCI-340-06.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.sto.nato.int">[NATO Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.sto.nato.int</span><span class="citation-popover-snippet">NATO Publications6.0 PROPAGATION AND ADAPTIVE OPTICSVirtually all the atmospheric effects on laser weapon systems can be traced to three...</span></span></span>
 
 The crucial point is that scattering and absorption reduce the amount of optical power still travelling toward the target.
 
 * **Absorption** destroys useful beam energy by converting it into thermal energy within the atmosphere.
 * **Scattering** redirects photons into other directions, preventing them from contributing to the target spot.
 * **Dense aerosols**, including fog, smoke, dust, and sea spray, can produce severe attenuation over comparatively short distances.
-* **Longer propagation paths** accumulate more losses because attenuation compounds with distance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://repositum.tuwien.at/bitstream/20.500.12708/14294/2/Atmospheric%20impact%20on%20laser%20beam%20propagation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repositum.tuwien.at">[repositum.tuwien.at+2Sejong University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repositum.tuwien.at</span><span class="citation-popover-title">Atmospheric Impact on Laser Beam Propagation</span><span class="citation-popover-snippet">Most of the power is absorbed by water vapor. In addition, small particles in the air deflect the laser...Read more...</span></span></span>
+* **Longer propagation paths** accumulate more losses because attenuation compounds with distance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://repositum.tuwien.at/bitstream/20.500.12708/14294/2/Atmospheric%20impact%20on%20laser%20beam%20propagation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repositum.tuwien.at">[repositum.tuwien.at+2Sejong University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repositum.tuwien.at</span><span class="citation-popover-title">Atmospheric Impact on Laser Beam Propagation</span><span class="citation-popover-snippet">Most of the power is absorbed by water vapor. In addition, small particles in the air deflect the laser...Read more...</span></span></span>
 
 A useful analogy is a leaking hose. Adaptive optics can straighten and aim the water stream that remains, but it cannot recover water that has already leaked out through holes along the hose.
 
-This is why weather can reduce laser effectiveness even when beam-control systems are functioning perfectly. If only a fraction of the original optical power survives the atmospheric path, the target can receive only that surviving fraction, regardless of how accurately the beam is focused. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.sto.nato.int/publications/STO%20Educational%20Notes/STO-EN-SCI-340/EN-SCI-340-06.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.sto.nato.int">[NATO Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.sto.nato.int</span><span class="citation-popover-snippet">NATO Publications6.0 PROPAGATION AND ADAPTIVE OPTICSVirtually all the atmospheric effects on laser weapon systems can be traced to three...</span></span></span>
+This is why weather can reduce laser effectiveness even when beam-control systems are functioning perfectly. If only a fraction of the original optical power survives the atmospheric path, the target can receive only that surviving fraction, regardless of how accurately the beam is focused.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.sto.nato.int/publications/STO%20Educational%20Notes/STO-EN-SCI-340/EN-SCI-340-06.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.sto.nato.int">[NATO Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.sto.nato.int</span><span class="citation-popover-snippet">NATO Publications6.0 PROPAGATION AND ADAPTIVE OPTICSVirtually all the atmospheric effects on laser weapon systems can be traced to three...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VZuU2VzR548" title="Speed-of-Light Attacks: How Iron Beam Turns Electricity Into a Weapon in Milliseconds | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VZuU2VzR548" target="_blank" rel="noopener noreferrer">Speed-of-Light Attacks: How Iron Beam Turns Electricity Into a Weapon in Milliseconds | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VZuU2VzR548" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VZuU2VzR548">Open on YouTube</a></p></div></div></div>
@@ -303,15 +303,15 @@ This is why weather can reduce laser effectiveness even when beam-control system
 
 Adaptive optics operates on wavefront errors, not on missing energy.
 
-A typical adaptive-optics system measures distortions in the incoming or reflected optical wavefront and commands a deformable mirror to introduce an opposite distortion. The goal is to flatten the wavefront and concentrate the surviving light into the smallest possible spot. This can dramatically improve [beam quality]({{ 'beam-quality/' | relative_url }}) and irradiance when turbulence is the dominant problem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rp-photonics.com/adaptive_optics.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rp-photonics.com">[RP Photonics+2Axiom Optics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rp-photonics.com</span><span class="citation-popover-snippet">Open source on rp-photonics.com.</span></span></span>
+A typical adaptive-optics system measures distortions in the incoming or reflected optical wavefront and commands a deformable mirror to introduce an opposite distortion. The goal is to flatten the wavefront and concentrate the surviving light into the smallest possible spot. This can dramatically improve [beam quality]({{ 'beam-quality/' | relative_url }}) and irradiance when turbulence is the dominant problem.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rp-photonics.com/adaptive_optics.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rp-photonics.com">[RP Photonics+2Axiom Optics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rp-photonics.com</span><span class="citation-popover-snippet">Open source on rp-photonics.com.</span></span></span>
 
 However, deformable mirrors manipulate the phase of light that still exists within the beam. They do not generate new photons.
 
-If atmospheric scattering has redirected part of the beam away from the propagation axis, those photons are no longer available for correction. Likewise, photons absorbed by water droplets, aerosols, or gases have been converted into other forms of energy and are gone from the optical beam. A mirror can reshape the phase distribution of the remaining light, but it cannot restore energy that has already left the beam. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://repositum.tuwien.at/bitstream/20.500.12708/14294/2/Atmospheric%20impact%20on%20laser%20beam%20propagation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repositum.tuwien.at">[repositum.tuwien.at+2Sejong University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repositum.tuwien.at</span><span class="citation-popover-title">Atmospheric Impact on Laser Beam Propagation</span><span class="citation-popover-snippet">Most of the power is absorbed by water vapor. In addition, small particles in the air deflect the laser...Read more...</span></span></span>
+If atmospheric scattering has redirected part of the beam away from the propagation axis, those photons are no longer available for correction. Likewise, photons absorbed by water droplets, aerosols, or gases have been converted into other forms of energy and are gone from the optical beam. A mirror can reshape the phase distribution of the remaining light, but it cannot restore energy that has already left the beam.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://repositum.tuwien.at/bitstream/20.500.12708/14294/2/Atmospheric%20impact%20on%20laser%20beam%20propagation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repositum.tuwien.at">[repositum.tuwien.at+2Sejong University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repositum.tuwien.at</span><span class="citation-popover-title">Atmospheric Impact on Laser Beam Propagation</span><span class="citation-popover-snippet">Most of the power is absorbed by water vapor. In addition, small particles in the air deflect the laser...Read more...</span></span></span>
 
-This limitation is reflected in the way adaptive optics is described across laser and optical [engineering]({{ 'engineering/' | relative_url }}) literature. Adaptive-optics systems are repeatedly characterised as tools for compensating aberrations, turbulence, and wavefront distortion. Their purpose is to improve beam quality, image quality, or focus quality—not to reverse atmospheric extinction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rp-photonics.com/adaptive_optics.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rp-photonics.com">[RP Photonics+2Axiom Optics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rp-photonics.com</span><span class="citation-popover-snippet">Open source on rp-photonics.com.</span></span></span>
+This limitation is reflected in the way adaptive optics is described across laser and optical [engineering]({{ 'engineering/' | relative_url }}) literature. Adaptive-optics systems are repeatedly characterised as tools for compensating aberrations, turbulence, and wavefront distortion. Their purpose is to improve beam quality, image quality, or focus quality—not to reverse atmospheric extinction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rp-photonics.com/adaptive_optics.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rp-photonics.com">[RP Photonics+2Axiom Optics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rp-photonics.com</span><span class="citation-popover-snippet">Open source on rp-photonics.com.</span></span></span>
 
-Even studies exploring the theoretical [limits]({{ 'limits/' | relative_url }}) of adaptive optics focus on how well phase distortions can be corrected under given turbulence conditions. They do not suggest that adaptive optics can recover energy removed by absorption or scattering processes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://preprints.opticaopen.org/articles/preprint/Adaptive-optics_limitations_for_laser_beam_propagation_along_slant_paths/28340402" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: preprints.opticaopen.org">[Optica Open]</a><span class="citation-popover" role="note"><span class="citation-popover-source">preprints.opticaopen.org</span><span class="citation-popover-title">Adaptive optics limitations for laser beam propagation along slant paths</span><span class="citation-popover-snippet">Optica OpenAdaptive-optics limitations for laser beam propagation...by M Kalensky · 2025 · Cited by 9 — In this paper, we use wave-optic...</span></span></span>
+Even studies exploring the theoretical [limits]({{ 'limits/' | relative_url }}) of adaptive optics focus on how well phase distortions can be corrected under given turbulence conditions. They do not suggest that adaptive optics can recover energy removed by absorption or scattering processes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://preprints.opticaopen.org/articles/preprint/Adaptive-optics_limitations_for_laser_beam_propagation_along_slant_paths/28340402" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: preprints.opticaopen.org">[Optica Open]</a><span class="citation-popover" role="note"><span class="citation-popover-source">preprints.opticaopen.org</span><span class="citation-popover-title">Adaptive optics limitations for laser beam propagation along slant paths</span><span class="citation-popover-snippet">Optica OpenAdaptive-optics limitations for laser beam propagation...by M Kalensky · 2025 · Cited by 9 — In this paper, we use wave-optic...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_adaptive_opti_35e828_lost_energy_l_6d3234-Illustration-2-dark.svg" | relative_url }}" alt="Lost Energy illustration 2" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_adaptive_opti_35e828_lost_energy_l_6d3234-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_adaptive_opti_35e828_lost_energy_l_6d3234-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -319,7 +319,7 @@ Even studies exploring the theoretical [limits]({{ 'limits/' | relative_url }}) 
 
 This distinction often causes confusion because adaptive optics can increase the intensity measured at a target.
 
-Suppose atmospheric turbulence spreads a beam over a large spot. Correcting the wavefront may concentrate the surviving energy into a much smaller area, producing a higher energy density. The target may therefore experience greater heating or damage even though the total surviving power has not increased. The system has improved delivery [efficiency]({{ 'efficiency/' | relative_url }}), not restored lost energy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axiomoptics.com/application/adaptive-optics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axiomoptics.com">[Axiom Optics+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axiomoptics.com</span><span class="citation-popover-snippet">Axiom OpticsFrom Blur To Clarity: A Deep Dive Into Adaptive OpticsAdaptive Optics: What it is, how deformable mirrors can be used to corr...</span></span></span>
+Suppose atmospheric turbulence spreads a beam over a large spot. Correcting the wavefront may concentrate the surviving energy into a much smaller area, producing a higher energy density. The target may therefore experience greater heating or damage even though the total surviving power has not increased. The system has improved delivery [efficiency]({{ 'efficiency/' | relative_url }}), not restored lost energy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axiomoptics.com/application/adaptive-optics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axiomoptics.com">[Axiom Optics+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axiomoptics.com</span><span class="citation-popover-snippet">Axiom OpticsFrom Blur To Clarity: A Deep Dive Into Adaptive OpticsAdaptive Optics: What it is, how deformable mirrors can be used to corr...</span></span></span>
 
 In other words:
 
@@ -328,7 +328,7 @@ In other words:
 
 * Adaptive optics can increase **power density** at the target.
 * Adaptive optics cannot increase the **total surviving optical power** after atmospheric attenuation.
-* Severe attenuation can leave too little power for even perfect focusing to matter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.sto.nato.int/publications/STO%20Educational%20Notes/STO-EN-SCI-340/EN-SCI-340-06.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.sto.nato.int">[NATO Publications+2Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.sto.nato.int</span><span class="citation-popover-snippet">NATO Publications6.0 PROPAGATION AND ADAPTIVE OPTICSVirtually all the atmospheric effects on laser weapon systems can be traced to three...</span></span></span>
+* Severe attenuation can leave too little power for even perfect focusing to matter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.sto.nato.int/publications/STO%20Educational%20Notes/STO-EN-SCI-340/EN-SCI-340-06.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.sto.nato.int">[NATO Publications+2Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.sto.nato.int</span><span class="citation-popover-snippet">NATO Publications6.0 PROPAGATION AND ADAPTIVE OPTICSVirtually all the atmospheric effects on laser weapon systems can be traced to three...</span></span></span>
 
 </div>
 
@@ -339,195 +339,195 @@ In other words:
 
 The practical importance of adaptive optics depends on which atmospheric effect dominates.
 
-In relatively clear air, turbulence may be the primary source of performance degradation. Under those conditions, wavefront correction can produce substantial improvements because most of the beam energy still survives the journey. Correcting the phase of that surviving light can significantly tighten the spot and raise irradiance on the target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axiomoptics.com/application/adaptive-optics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axiomoptics.com">[Axiom Optics+2RP Photonics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axiomoptics.com</span><span class="citation-popover-snippet">Axiom OpticsFrom Blur To Clarity: A Deep Dive Into Adaptive OpticsAdaptive Optics: What it is, how deformable mirrors can be used to corr...</span></span></span>
+In relatively clear air, turbulence may be the primary source of performance degradation. Under those conditions, wavefront correction can produce substantial improvements because most of the beam energy still survives the journey. Correcting the phase of that surviving light can significantly tighten the spot and raise irradiance on the target.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axiomoptics.com/application/adaptive-optics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axiomoptics.com">[Axiom Optics+2RP Photonics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axiomoptics.com</span><span class="citation-popover-snippet">Axiom OpticsFrom Blur To Clarity: A Deep Dive Into Adaptive OpticsAdaptive Optics: What it is, how deformable mirrors can be used to corr...</span></span></span>
 
-Dense fog presents a very different situation. The atmosphere is no longer mainly distorting the beam; it is removing energy from it. Water droplets scatter and absorb light so strongly that the available power reaching the target may collapse regardless of wavefront quality. In such circumstances, the dominant limitation becomes transmission loss rather than optical aberration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://repositum.tuwien.at/bitstream/20.500.12708/14294/2/Atmospheric%20impact%20on%20laser%20beam%20propagation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repositum.tuwien.at">[repositum.tuwien.at+2Sejong University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repositum.tuwien.at</span><span class="citation-popover-title">Atmospheric Impact on Laser Beam Propagation</span><span class="citation-popover-snippet">Most of the power is absorbed by water vapor. In addition, small particles in the air deflect the laser...Read more...</span></span></span>
+Dense fog presents a very different situation. The atmosphere is no longer mainly distorting the beam; it is removing energy from it. Water droplets scatter and absorb light so strongly that the available power reaching the target may collapse regardless of wavefront quality. In such circumstances, the dominant limitation becomes transmission loss rather than optical aberration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://repositum.tuwien.at/bitstream/20.500.12708/14294/2/Atmospheric%20impact%20on%20laser%20beam%20propagation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repositum.tuwien.at">[repositum.tuwien.at+2Sejong University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repositum.tuwien.at</span><span class="citation-popover-title">Atmospheric Impact on Laser Beam Propagation</span><span class="citation-popover-snippet">Most of the power is absorbed by water vapor. In addition, small particles in the air deflect the laser...Read more...</span></span></span>
 
-The same logic applies to smoke, dust clouds, maritime aerosols, and other particle-rich environments. A perfectly corrected wavefront carrying only a small fraction of the original [laser power]({{ 'power-costs/' | relative_url }}) may still be ineffective because the target receives insufficient energy for the intended effect. This is one reason why weather remains a central operational constraint for laser weapons despite advances in adaptive-optics technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.sto.nato.int/publications/STO%20Educational%20Notes/STO-EN-SCI-340/EN-SCI-340-06.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.sto.nato.int">[NATO Publications+2Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.sto.nato.int</span><span class="citation-popover-snippet">NATO Publications6.0 PROPAGATION AND ADAPTIVE OPTICSVirtually all the atmospheric effects on laser weapon systems can be traced to three...</span></span></span>
+The same logic applies to smoke, dust clouds, maritime aerosols, and other particle-rich environments. A perfectly corrected wavefront carrying only a small fraction of the original [laser power]({{ 'power-costs/' | relative_url }}) may still be ineffective because the target receives insufficient energy for the intended effect. This is one reason why weather remains a central operational constraint for laser weapons despite advances in adaptive-optics technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.sto.nato.int/publications/STO%20Educational%20Notes/STO-EN-SCI-340/EN-SCI-340-06.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.sto.nato.int">[NATO Publications+2Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.sto.nato.int</span><span class="citation-popover-snippet">NATO Publications6.0 PROPAGATION AND ADAPTIVE OPTICSVirtually all the atmospheric effects on laser weapon systems can be traced to three...</span></span></span>
 
 
 <img src="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_adaptive_opti_35e828_lost_energy_l_6d3234-Illustration-3-dark.svg" | relative_url }}" alt="Lost Energy illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_adaptive_opti_35e828_lost_energy_l_6d3234-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_laser_atmosph_af9b93_adaptive_opti_35e828_lost_energy_l_6d3234-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Core Limitation
 
-The fundamental limitation is conservation of energy. Adaptive optics can redistribute and concentrate the optical energy that survives atmospheric propagation, but it cannot recreate photons that have been absorbed or scattered away. As atmospheric attenuation increases, a point is reached where improving beam shape yields diminishing returns because the dominant problem is no longer distortion—it is the absence of energy. For directed energy weapons operating through fog, smoke, dust, or sea spray, this distinction explains why better wavefront correction cannot overcome severe atmospheric losses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.sto.nato.int/publications/STO%20Educational%20Notes/STO-EN-SCI-340/EN-SCI-340-06.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.sto.nato.int">[NATO Publications+2Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.sto.nato.int</span><span class="citation-popover-snippet">NATO Publications6.0 PROPAGATION AND ADAPTIVE OPTICSVirtually all the atmospheric effects on laser weapon systems can be traced to three...</span></span></span>
+The fundamental limitation is conservation of energy. Adaptive optics can redistribute and concentrate the optical energy that survives atmospheric propagation, but it cannot recreate photons that have been absorbed or scattered away. As atmospheric attenuation increases, a point is reached where improving beam shape yields diminishing returns because the dominant problem is no longer distortion—it is the absence of energy. For directed energy weapons operating through fog, smoke, dust, or sea spray, this distinction explains why better wavefront correction cannot overcome severe atmospheric losses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.sto.nato.int/publications/STO%20Educational%20Notes/STO-EN-SCI-340/EN-SCI-340-06.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.sto.nato.int">[NATO Publications+2Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.sto.nato.int</span><span class="citation-popover-snippet">NATO Publications6.0 PROPAGATION AND ADAPTIVE OPTICSVirtually all the atmospheric effects on laser weapon systems can be traced to three...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iyBkTwFyIqY" title="The Pentagon’s Laser Problem and The Company To Fix it" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iyBkTwFyIqY" target="_blank" rel="noopener noreferrer">The Pentagon’s Laser Problem and The Company To Fix it</a></p><p class="youtube-embed-meta">Channel: LevelFields AI</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iyBkTwFyIqY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iyBkTwFyIqY">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Better Beam Shape Cannot Beat Lost Energy. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Better Beam Shape Cannot Beat Lost Energy. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Principles+of+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Principles of adaptive optics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1100610-M.jpg" alt="Cover for Principles of adaptive optics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Principles+of+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Principles of adaptive optics">Principles of adaptive optics</a>
-        </h4>
-        <p class="fr-book-author">By Robert K. Tyson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Principles+of+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Principles of adaptive optics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1100610-M.jpg" alt="Cover for Principles of adaptive optics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Principles+of+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Principles of adaptive optics">Principles of adaptive optics</a>
+</h4>
+<p class="fr-book-author">By Robert K. Tyson</p>
         
-        <p class="fr-book-desc">First published 1991. Subjects: Adaptive Optics, Optics, Adaptive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Principles+of+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1991. Subjects: Adaptive Optics, Optics, Adaptive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Principles+of+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to adaptive optics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8312561-M.jpg" alt="Cover for Introduction to adaptive optics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to adaptive optics">Introduction to adaptive optics</a>
-        </h4>
-        <p class="fr-book-author">By Robert K. Tyson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to adaptive optics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8312561-M.jpg" alt="Cover for Introduction to adaptive optics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to adaptive optics">Introduction to adaptive optics</a>
+</h4>
+<p class="fr-book-author">By Robert K. Tyson</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Adaptive Optics, Optical detectors, Optical instruments, Optical measurements, Optics, Adaptive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Adaptive Optics, Optical detectors, Optical instruments, Optical measurements, Optics, Adaptive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Adaptive+Optics+in+Astronomy+Fran%C3%A7ois+Roddier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Adaptive Optics in Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/345495-M.jpg" alt="Cover for Adaptive Optics in Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Adaptive+Optics+in+Astronomy+Fran%C3%A7ois+Roddier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Adaptive Optics in Astronomy">Adaptive Optics in Astronomy</a>
-        </h4>
-        <p class="fr-book-author">By François Roddier</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Adaptive+Optics+in+Astronomy+Fran%C3%A7ois+Roddier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Adaptive Optics in Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/345495-M.jpg" alt="Cover for Adaptive Optics in Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Adaptive+Optics+in+Astronomy+Fran%C3%A7ois+Roddier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Adaptive Optics in Astronomy">Adaptive Optics in Astronomy</a>
+</h4>
+<p class="fr-book-author">By François Roddier</p>
         
-        <p class="fr-book-desc">First published 1999. Subjects: Optique, Adaptive Optics, Imaging systems in astronomy, Astronomie, [études diverses].</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Adaptive+Optics+in+Astronomy+Fran%C3%A7ois+Roddier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1999. Subjects: Optique, Adaptive Optics, Imaging systems in astronomy, Astronomie, [études diverses].</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Adaptive+Optics+in+Astronomy+Fran%C3%A7ois+Roddier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
-        </h4>
-        <p class="fr-book-author">By Bahman Zohuri</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
+</h4>
+<p class="fr-book-author">By Bahman Zohuri</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Principles+of+adaptive+optics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Principles of adaptive optics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+adaptive+optics+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to adaptive optics books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Adaptive+Optics+in+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Adaptive Optics in Astronomy</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Principles+of+adaptive+optics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Principles of adaptive optics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+adaptive+optics+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to adaptive optics books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Adaptive+Optics+in+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Adaptive Optics in Astronomy</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 60W 40W 30W 20W 5W 4W Optical Power Laser Module for Laser Engraver Cutting DIY"><img src="{{ '/assets/images/marketplace-covers/05dcb057f87fc667f7fd.jpg' | relative_url }}" alt="Listing image for 60W 40W 30W 20W 5W 4W Optical Power Laser Module for Laser Engraver Cutting DIY" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer">60W 40W 30W 20W 5W 4W Optical Power Laser Module for Laser Engraver Cutting DIY</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser optics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser optics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 60W 40W 30W 20W 5W 4W Optical Power Laser Module for Laser Engraver Cutting DIY"><img src="{{ '/assets/images/marketplace-covers/05dcb057f87fc667f7fd.jpg' | relative_url }}" alt="Listing image for 60W 40W 30W 20W 5W 4W Optical Power Laser Module for Laser Engraver Cutting DIY" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer">60W 40W 30W 20W 5W 4W Optical Power Laser Module for Laser Engraver Cutting DIY</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser optics kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser optics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LASER TREE 10W 20W 30W 40W 60W Optical Power Laser Module for Cutting Engraving"><img src="{{ '/assets/images/marketplace-covers/18491ea618f58ea487d9.jpg' | relative_url }}" alt="Listing image for LASER TREE 10W 20W 30W 40W 60W Optical Power Laser Module for Cutting Engraving" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer">LASER TREE 10W 20W 30W 40W 60W Optical Power Laser Module for Cutting Engraving</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser optics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser optics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LASER TREE 10W 20W 30W 40W 60W Optical Power Laser Module for Cutting Engraving"><img src="{{ '/assets/images/marketplace-covers/18491ea618f58ea487d9.jpg' | relative_url }}" alt="Listing image for LASER TREE 10W 20W 30W 40W 60W Optical Power Laser Module for Cutting Engraving" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer">LASER TREE 10W 20W 30W 40W 60W Optical Power Laser Module for Cutting Engraving</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser optics kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser optics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LASER TREE 20W Optical Power Laser Module Kit for Laser Engraver Head Tools"><img src="{{ '/assets/images/marketplace-covers/9d89d1a2c43146db7f1e.jpg' | relative_url }}" alt="Listing image for LASER TREE 20W Optical Power Laser Module Kit for Laser Engraver Head Tools" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer">LASER TREE 20W Optical Power Laser Module Kit for Laser Engraver Head Tools</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser optics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: laser optics kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LASER TREE 20W Optical Power Laser Module Kit for Laser Engraver Head Tools"><img src="{{ '/assets/images/marketplace-covers/9d89d1a2c43146db7f1e.jpg' | relative_url }}" alt="Listing image for LASER TREE 20W Optical Power Laser Module Kit for Laser Engraver Head Tools" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer">LASER TREE 20W Optical Power Laser Module Kit for Laser Engraver Head Tools</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for laser optics kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: laser optics kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=laser+optics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="laser optics kit" data-ebay-reference="lost-energy-why-better-beam-shape-cannot-beat-lost-energy-directed-ener-laser-optics-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -543,7 +543,7 @@ The fundamental limitation is conservation of energy. Adaptive optics can redist
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -563,7 +563,7 @@ The fundamental limitation is conservation of energy. Adaptive optics can redist
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -595,7 +595,7 @@ The fundamental limitation is conservation of energy. Adaptive optics can redist
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -647,7 +647,7 @@ The fundamental limitation is conservation of energy. Adaptive optics can redist
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -692,7 +692,7 @@ The fundamental limitation is conservation of energy. Adaptive optics can redist
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -733,104 +733,104 @@ The fundamental limitation is conservation of energy. Adaptive optics can redist
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: publications.sto.nato.int  
-   Link: <a href="https://publications.sto.nato.int/publications/STO%20Educational%20Notes/STO-EN-SCI-340/EN-SCI-340-06.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.sto.nato.int/publications/STO%20Educational%20Notes/STO-EN-SCI-340/EN-SCI-340-06.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NATO Publications6.0 PROPAGATION AND ADAPTIVE OPTICSVirtually all the atmospheric effects on laser weapon systems can be traced to three...</p></details>
+   Link:<a href="https://publications.sto.nato.int/publications/STO%20Educational%20Notes/STO-EN-SCI-340/EN-SCI-340-06.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.sto.nato.int/publications/STO%20Educational%20Notes/STO-EN-SCI-340/EN-SCI-340-06.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NATO Publications6.0 PROPAGATION AND ADAPTIVE OPTICSVirtually all the atmospheric effects on laser weapon systems can be traced to three...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: rp-photonics.com  
-   Link: <a href="https://www.rp-photonics.com/adaptive_optics.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rp-photonics.com/adaptive_optics.html</a>  
+   Link:<a href="https://www.rp-photonics.com/adaptive_optics.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rp-photonics.com/adaptive_optics.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: repositum.tuwien.at  
    Title: Atmospheric Impact on Laser Beam Propagation  
-   Link: <a href="https://repositum.tuwien.at/bitstream/20.500.12708/14294/2/Atmospheric%20impact%20on%20laser%20beam%20propagation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repositum.tuwien.at/bitstream/20.500.12708/14294/2/Atmospheric%20impact%20on%20laser%20beam%20propagation.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Most of the power is absorbed by water vapor. In addition, small particles in the air deflect the laser...Read more...</p></details>
+   Link:<a href="https://repositum.tuwien.at/bitstream/20.500.12708/14294/2/Atmospheric%20impact%20on%20laser%20beam%20propagation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repositum.tuwien.at/bitstream/20.500.12708/14294/2/Atmospheric%20impact%20on%20laser%20beam%20propagation.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Most of the power is absorbed by water vapor. In addition, small particles in the air deflect the laser...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/282410226_Adaptive_optics_system_for_real-time_wavefront_correction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/282410226_Adaptive_optics_system_for_real-time_wavefront_correction</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The degree of correction of an adaptive...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/282410226_Adaptive_optics_system_for_real-time_wavefront_correction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/282410226_Adaptive_optics_system_for_real-time_wavefront_correction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The degree of correction of an adaptive...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/358049406_Wide-Aperture_Bimorph_Deformable_Mirror_for_Beam_Focusing_in_42_PW_TiSa_Laser" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358049406_Wide-Aperture_Bimorph_Deformable_Mirror_for_Beam_Focusing_in_42_PW_TiSa_Laser</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Wide-Aperture Bimorph Deformable Mirror for Beam...20 Jan 2022 — This paper reports a large-aperture adaptive optical system with...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/358049406_Wide-Aperture_Bimorph_Deformable_Mirror_for_Beam_Focusing_in_42_PW_TiSa_Laser" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358049406_Wide-Aperture_Bimorph_Deformable_Mirror_for_Beam_Focusing_in_42_PW_TiSa_Laser</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Wide-Aperture Bimorph Deformable Mirror for Beam...20 Jan 2022 — This paper reports a large-aperture adaptive optical system with...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pdfs.semanticscholar.org  
-   Link: <a href="https://pdfs.semanticscholar.org/a00d/0f25b849c5790ac84f50f297a60ad57102f3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdfs.semanticscholar.org/a00d/0f25b849c5790ac84f50f297a60ad57102f3.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Beam Atmospheric Propagation Modelling for...by T Fahey · 2021 · Cited by 109 — The underlying causes of laser beam attenuation in the a...</p></details>
+   Link:<a href="https://pdfs.semanticscholar.org/a00d/0f25b849c5790ac84f50f297a60ad57102f3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdfs.semanticscholar.org/a00d/0f25b849c5790ac84f50f297a60ad57102f3.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beam Atmospheric Propagation Modelling for...by T Fahey · 2021 · Cited by 109 — The underlying causes of laser beam attenuation in the a...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sjuairi.com  
-   Link: <a href="https://www.sjuairi.com/bbs_shop/file_download.php?board_code=view&amp;board_idx=1596433&amp;sel_no=" target="_blank" rel="noopener noreferrer nofollow">https://www.sjuairi.com/bbs_shop/file_download.php?board_code=view&amp;board_idx=1596433&amp;sel_no=</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sejong UniversityUntitledabsorption and scattering—which leads to power loss and waveform distortion. Atmospheric attenuation τATM can be...</p></details>
+   Link:<a href="https://www.sjuairi.com/bbs_shop/file_download.php?board_code=view&amp;board_idx=1596433&amp;sel_no=" target="_blank" rel="noopener noreferrer nofollow">https://www.sjuairi.com/bbs_shop/file_download.php?board_code=view&amp;board_idx=1596433&amp;sel_no=</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sejong UniversityUntitledabsorption and scattering—which leads to power loss and waveform distortion. Atmospheric attenuation τATM can be...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: axiomoptics.com  
-   Link: <a href="https://www.axiomoptics.com/application/adaptive-optics/" target="_blank" rel="noopener noreferrer nofollow">https://www.axiomoptics.com/application/adaptive-optics/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Axiom OpticsFrom Blur To Clarity: A Deep Dive Into Adaptive OpticsAdaptive Optics: What it is, how deformable mirrors can be used to corr...</p></details>
+   Link:<a href="https://www.axiomoptics.com/application/adaptive-optics/" target="_blank" rel="noopener noreferrer nofollow">https://www.axiomoptics.com/application/adaptive-optics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Axiom OpticsFrom Blur To Clarity: A Deep Dive Into Adaptive OpticsAdaptive Optics: What it is, how deformable mirrors can be used to corr...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: preprints.opticaopen.org  
    Title: Adaptive optics limitations for laser beam propagation along slant paths  
-   Link: <a href="https://preprints.opticaopen.org/articles/preprint/Adaptive-optics_limitations_for_laser_beam_propagation_along_slant_paths/28340402" target="_blank" rel="noopener noreferrer nofollow">https://preprints.opticaopen.org/articles/preprint/Adaptive-optics_limitations_for_laser_beam_propagation_along_slant_paths/28340402</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Optica OpenAdaptive-optics limitations for laser beam propagation...by M Kalensky · 2025 · Cited by 9 — In this paper, we use wave-optic...</p></details>
+   Link:<a href="https://preprints.opticaopen.org/articles/preprint/Adaptive-optics_limitations_for_laser_beam_propagation_along_slant_paths/28340402" target="_blank" rel="noopener noreferrer nofollow">https://preprints.opticaopen.org/articles/preprint/Adaptive-optics_limitations_for_laser_beam_propagation_along_slant_paths/28340402</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Optica OpenAdaptive-optics limitations for laser beam propagation...by M Kalensky · 2025 · Cited by 9 — In this paper, we use wave-optic...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: eso.org  
-   Link: <a href="https://www.eso.org/sci/facilities/eelt/owl/Blue_Book/8_Adaptive_optics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/sci/facilities/eelt/owl/Blue_Book/8_Adaptive_optics.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>8. Adaptive OpticsAdaptive Optics is absolutely essential for OWL, to concentrate the light for spectroscopy and imaging and to reach the...</p></details>
+   Link:<a href="https://www.eso.org/sci/facilities/eelt/owl/Blue_Book/8_Adaptive_optics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/sci/facilities/eelt/owl/Blue_Book/8_Adaptive_optics.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8. Adaptive OpticsAdaptive Optics is absolutely essential for OWL, to concentrate the light for spectroscopy and imaging and to reach the...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: biophotonics.illinois.edu  
-   Link: <a href="https://biophotonics.illinois.edu/research/optical-coherence-imaging/aberration-correction-and-adaptive-optics" target="_blank" rel="noopener noreferrer nofollow">https://biophotonics.illinois.edu/research/optical-coherence-imaging/aberration-correction-and-adaptive-optics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aberration correction and adaptive opticsOptical aberrations can be corrected by using reconfigurable optical elements such as deformable...</p></details>
+   Link:<a href="https://biophotonics.illinois.edu/research/optical-coherence-imaging/aberration-correction-and-adaptive-optics" target="_blank" rel="noopener noreferrer nofollow">https://biophotonics.illinois.edu/research/optical-coherence-imaging/aberration-correction-and-adaptive-optics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aberration correction and adaptive opticsOptical aberrations can be corrected by using reconfigurable optical elements such as deformable...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: issp.ac.ru  
-   Link: <a href="https://www.issp.ac.ru/ebooks/books/open/Topics_in_Adaptive_Optics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.issp.ac.ru/ebooks/books/open/Topics_in_Adaptive_Optics.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Topics in Adaptive OpticsThe first widely used application of adaptive optics was for compensating atmospheric turbulence effects in astr...</p></details>
+   Link:<a href="https://www.issp.ac.ru/ebooks/books/open/Topics_in_Adaptive_Optics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.issp.ac.ru/ebooks/books/open/Topics_in_Adaptive_Optics.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Topics in Adaptive OpticsThe first widely used application of adaptive optics was for compensating atmospheric turbulence effects in astr...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: eureka.patsnap.com  
    Title: report atmospheric effects on long range laser power transmission  
-   Link: <a href="https://eureka.patsnap.com/report-atmospheric-effects-on-long-range-laser-power-transmission" target="_blank" rel="noopener noreferrer nofollow">https://eureka.patsnap.com/report-atmospheric-effects-on-long-range-laser-power-transmission</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PatSnap EurekaAtmospheric Effects On Long-Range Laser Power...28 Aug 2025 — Discover how atmospheric conditions impact laser power trans...</p></details>
+   Link:<a href="https://eureka.patsnap.com/report-atmospheric-effects-on-long-range-laser-power-transmission" target="_blank" rel="noopener noreferrer nofollow">https://eureka.patsnap.com/report-atmospheric-effects-on-long-range-laser-power-transmission</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PatSnap EurekaAtmospheric Effects On Long-Range Laser Power...28 Aug 2025 — Discover how atmospheric conditions impact laser power trans...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Why Laser Weapons Cannot Replace Missiles In Modern Warfare | WION Podcast  
-   Link: <a href="https://www.youtube.com/watch?v=v-UCPlVWidM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v-UCPlVWidM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Iron Beam Turns Electricity Into a Weapon in Milliseconds | WION Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=v-UCPlVWidM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v-UCPlVWidM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Iron Beam Turns Electricity Into a Weapon in Milliseconds | WION Podcast...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: How Iron Beam Turns Electricity Into a Weapon in Milliseconds | WION Podcast  
-   Link: <a href="https://www.youtube.com/watch?v=VZuU2VzR548" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VZuU2VzR548</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Weapons Are Becoming Reality Faster Than You Think...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VZuU2VzR548" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VZuU2VzR548</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Weapons Are Becoming Reality Faster Than You Think...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10162714/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10162714/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Gu · 2022 · Cited by 5 — To assess the performance of adaptive optics and predict an optimal wavefront correction, we built a wav...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10162714/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10162714/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by B Gu · 2022 · Cited by 5 — To assess the performance of adaptive optics and predict an optimal wavefront correction, we built a wav...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: The Pentagon's Laser Problem and The Company To Fix it  
-   Link: <a href="https://www.youtube.com/watch?v=iyBkTwFyIqY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iyBkTwFyIqY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Laser Weapons Cannot Replace Missiles In Modern Warfare | WION Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=iyBkTwFyIqY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iyBkTwFyIqY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Laser Weapons Cannot Replace Missiles In Modern Warfare | WION Podcast...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: adsabs.harvard.edu  
-   Link: <a href="https://adsabs.harvard.edu/full/1992ESOC...40..245M" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/1992ESOC...40..245M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the case of active optics, it is the compensation of wavefront aberrations due to...Read m...</p></details>
+   Link:<a href="https://adsabs.harvard.edu/full/1992ESOC...40..245M" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/1992ESOC...40..245M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the case of active optics, it is the compensation of wavefront aberrations due to...Read m...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchportal.hw.ac.uk  
-   Link: <a href="https://researchportal.hw.ac.uk/files/88355566/s00340_023_07991_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.hw.ac.uk/files/88355566/s00340_023_07991_3.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>simulating the beam shaping capabilities of...by S Scholes · 2023 · Cited by 9 — Predominately, deformable mirrors have been used in ada...</p></details>
+   Link:<a href="https://researchportal.hw.ac.uk/files/88355566/s00340_023_07991_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.hw.ac.uk/files/88355566/s00340_023_07991_3.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>simulating the beam shaping capabilities of...by S Scholes · 2023 · Cited by 9 — Predominately, deformable mirrors have been used in ada...</p></details>

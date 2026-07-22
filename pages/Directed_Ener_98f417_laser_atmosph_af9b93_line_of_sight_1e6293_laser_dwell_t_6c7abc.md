@@ -374,33 +374,16 @@ In that sense, dwell time is the real currency of laser damage. Visibility, line
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Introduction+to+Laser+Weapon+Systems&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Introduction to Laser Weapon Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13772805-M.jpg" alt="Cover for An Introduction to Laser Weapon Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=An+Introduction+to+Laser+Weapon+Systems&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Introduction to Laser Weapon Systems">An Introduction to Laser Weapon Systems</a>
+          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
         </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Explains laser weapon architecture effects and engagement mechanics including why time on target matters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=An+Introduction+to+Laser+Weapon+Systems&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+        <p class="fr-book-author">By Bahman Zohuri</p>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Military+laser+technology+for+defense&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Military laser technology for defense on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8695159-M.jpg" alt="Cover for Military laser technology for defense" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Military+laser+technology+for+defense&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Military laser technology for defense">Military laser technology for defense</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Covers military laser systems optics and defence applications that frame practical limits on laser engagements.</p>
+        <p class="fr-book-desc">Directly covers high-energy laser physics target interaction propagation and operational limits behind dwell time.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Military+laser+technology+for+defense&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -414,7 +397,7 @@ In that sense, dwell time is the real currency of laser damage. Visibility, line
           <a href="https://www.amazon.com/s?k=Effects+of+Directed+Energy+Weapons+Philip+E+Nielsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Effects of Directed Energy Weapons">Effects of Directed Energy Weapons</a>
         </h4>
         <p class="fr-book-author">By Philip E Nielsen</p>
-        
+
         <p class="fr-book-desc">Focuses on how directed energy propagates to and interacts with targets which is central to heating and damage thresholds.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Effects+of+Directed+Energy+Weapons+Philip+E+Nielsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,16 +408,33 @@ In that sense, dwell time is the real currency of laser damage. Visibility, line
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Introduction+to+Laser+Weapon+Systems+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Introduction to Laser Weapon Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13772805-M.jpg" alt="Cover for An Introduction to Laser Weapon Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
+          <a href="https://www.amazon.com/s?k=An+Introduction+to+Laser+Weapon+Systems+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Introduction to Laser Weapon Systems">An Introduction to Laser Weapon Systems</a>
         </h4>
-        <p class="fr-book-author">By Bahman Zohuri</p>
-        
-        <p class="fr-book-desc">Directly covers high-energy laser physics target interaction propagation and operational limits behind dwell time.</p>
+        <p class="fr-book-author">By Unknown author</p>
+
+        <p class="fr-book-desc">Explains laser weapon architecture effects and engagement mechanics including why time on target matters.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=An+Introduction+to+Laser+Weapon+Systems+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Military+laser+technology+for+defense+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Military laser technology for defense on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8695159-M.jpg" alt="Cover for Military laser technology for defense" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Military+laser+technology+for+defense+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Military laser technology for defense">Military laser technology for defense</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
+
+        <p class="fr-book-desc">Covers military laser systems optics and defence applications that frame practical limits on laser engagements.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Military+laser+technology+for+defense+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -442,7 +442,7 @@ In that sense, dwell time is the real currency of laser damage. Visibility, line
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=An+to+Laser+Weapon+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An to Laser Weapon Systems books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Military+laser+technology+for+defense&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Military laser technology for defense</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Effects+of+Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Effects of Directed Energy Weapons</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed Energy Weapons</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Effects+of+Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Effects of Directed Energy Weapons</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=An+to+Laser+Weapon+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An to Laser Weapon Systems books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

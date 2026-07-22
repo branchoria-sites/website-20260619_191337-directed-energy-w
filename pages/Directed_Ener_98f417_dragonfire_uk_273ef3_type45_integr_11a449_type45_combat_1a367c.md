@@ -399,7 +399,7 @@ In practical terms, a Type 45 fitted with DragonFire remains a missile destroyer
           <a href="https://www.amazon.com/s?k=The+Naval+Institute+Guide+to+World+Naval+Weapon+Systems+Norman+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Naval Institute Guide to World Naval Weapon Systems">The Naval Institute Guide to World Naval Weapon Systems</a>
         </h4>
         <p class="fr-book-author">By Norman Friedman</p>
-        
+
         <p class="fr-book-desc">Provides context on missiles, guns and emerging weapons.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Naval+Institute+Guide+to+World+Naval+Weapon+Systems+Norman+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -416,7 +416,7 @@ In practical terms, a Type 45 fitted with DragonFire remains a missile destroyer
           <a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fleet Tactics And Naval Operations, Third Edition">Fleet Tactics And Naval Operations, Third Edition</a>
         </h4>
         <p class="fr-book-author">By Wayne Hughes, Robert Girrier</p>
-        
+
         <p class="fr-book-desc">First published 2018. Subjects: Naval tactics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -433,7 +433,7 @@ In practical terms, a Type 45 fitted with DragonFire remains a missile destroyer
           <a href="https://www.amazon.com/s?k=Lasers%2C+Death+Rays%2C+and+the+Long%2C+Strange+Quest+for+the+Ultimate+Weapon+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lasers, Death Rays, and the Long, Strange Quest for the Ultimate Weapon">Lasers, Death Rays, and the Long, Strange Quest for the Ultim...</a>
         </h4>
         <p class="fr-book-author">By Jeff Hecht</p>
-        
+
         <p class="fr-book-desc">Explains why laser weapons are attractive against drones.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lasers%2C+Death+Rays%2C+and+the+Long%2C+Strange+Quest+for+the+Ultimate+Weapon+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -450,7 +450,7 @@ In practical terms, a Type 45 fitted with DragonFire remains a missile destroyer
           <a href="https://www.amazon.com/s?k=Introduction+to+Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Directed Energy Weapons">Introduction to Directed Energy Weapons</a>
         </h4>
         <p class="fr-book-author">By Bahman Zohuri</p>
-        
+
         <p class="fr-book-desc">Shows where lasers fit among other weapon options.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

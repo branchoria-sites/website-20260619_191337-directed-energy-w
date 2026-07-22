@@ -359,89 +359,89 @@ The result is that naval laser integration is increasingly an electrical-[engine
 <img src="{{ "/assets/images/Directed_Ener_98f417_power_cooling_afc91e_laser_host_pl_9b81d1_ship_laser_po_325146-Illustration-3-dark.svg" | relative_url }}" alt="Power Grids illustration 3" data-theme-src-dark="{{ "/assets/images/Directed_Ener_98f417_power_cooling_afc91e_laser_host_pl_9b81d1_ship_laser_po_325146-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Directed_Ener_98f417_power_cooling_afc91e_laser_host_pl_9b81d1_ship_laser_po_325146-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Can a Warship Spare Power for Lasers?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Can a Warship Spare Power for Lasers?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Wired+for+War+P.+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wired for War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6aStP3Du5cgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wired for War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Wired+for+War+P.+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wired for War">Wired for War</a>
-</h4>
-<p class="fr-book-author">By P. W. Singer</p>
-        
-<p class="fr-book-desc">Places directed-energy weapons in the wider context of robotic, unmanned and electrically intensive military systems.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Wired+for+War+P.+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Naval+Institute+guide+to+world+naval+weapons+systems+Norman+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Naval Institute guide to world naval weapons systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4085664-M.jpg" alt="Cover for The Naval Institute guide to world naval weapons systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Naval+Institute+guide+to+world+naval+weapons+systems+Norman+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Naval Institute guide to world naval weapons systems">The Naval Institute guide to world naval weapons systems</a>
+        </h4>
+        <p class="fr-book-author">By Norman Friedman</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Naval+Institute+guide+to+world+naval+weapons+systems+Norman+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Naval Institute guide to world naval weapons systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4085664-M.jpg" alt="Cover for The Naval Institute guide to world naval weapons systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Naval+Institute+guide+to+world+naval+weapons+systems+Norman+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Naval Institute guide to world naval weapons systems">The Naval Institute guide to world naval weapons systems</a>
-</h4>
-<p class="fr-book-author">By Norman Friedman</p>
-        
-<p class="fr-book-desc">First published 1989. Subjects: Handbooks, manuals, Weapons systems, Naval Ordnance.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Naval+Institute+guide+to+world+naval+weapons+systems+Norman+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Places naval lasers within the wider evolution of shipboard weapons, sensors, and power-intensive systems.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Naval+Institute+guide+to+world+naval+weapons+systems+Norman+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Naval+Institute+Guide+to+World+Naval+Weapon+Systems+Norman+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Naval Institute Guide to World Naval Weapon Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1877044-M.jpg" alt="Cover for The Naval Institute Guide to World Naval Weapon Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Naval+Institute+Guide+to+World+Naval+Weapon+Systems+Norman+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Naval Institute Guide to World Naval Weapon Systems">The Naval Institute Guide to World Naval Weapon Systems</a>
-</h4>
-<p class="fr-book-author">By Norman Friedman</p>
-        
-<p class="fr-book-desc">First published 2005. Subjects: Weapon systems, Navies, Weapons systems.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Naval+Institute+Guide+to+World+Naval+Weapon+Systems+Norman+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Naval+Institute+Guide+to+World+Naval+Weapon+Systems+Norman+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Naval Institute Guide to World Naval Weapon Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1877044-M.jpg" alt="Cover for The Naval Institute Guide to World Naval Weapon Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Naval+Institute+Guide+to+World+Naval+Weapon+Systems+Norman+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Naval Institute Guide to World Naval Weapon Systems">The Naval Institute Guide to World Naval Weapon Systems</a>
+        </h4>
+        <p class="fr-book-author">By Norman Friedman</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fleet Tactics And Naval Operations, Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8833607-M.jpg" alt="Cover for Fleet Tactics And Naval Operations, Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fleet Tactics And Naval Operations, Third Edition">Fleet Tactics And Naval Operations, Third Edition</a>
-</h4>
-<p class="fr-book-author">By Wayne Hughes, Robert Girrier</p>
-        
-<p class="fr-book-desc">First published 2018. Subjects: Naval tactics.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2005. Subjects: Weapon systems, Navies, Weapons systems.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Naval+Institute+Guide+to+World+Naval+Weapon+Systems+Norman+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Wired+for+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wired for War</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Naval+Institute+to+world+naval+weapons+systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Naval Institute to world naval weapons systems books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Naval+Institute+to+World+Naval+Weapon+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Naval Institute to World Naval Weapon Systems books</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fleet Tactics And Naval Operations, Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8833607-M.jpg" alt="Cover for Fleet Tactics And Naval Operations, Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fleet Tactics And Naval Operations, Third Edition">Fleet Tactics And Naval Operations, Third Edition</a>
+        </h4>
+        <p class="fr-book-author">By Wayne Hughes, Robert Girrier</p>
+
+        <p class="fr-book-desc">First published 2018. Subjects: Naval tactics.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wired+for+War+P.+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wired for War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6aStP3Du5cgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wired for War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Wired+for+War+P.+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wired for War">Wired for War</a>
+        </h4>
+        <p class="fr-book-author">By P. W. Singer</p>
+
+        <p class="fr-book-desc">“[Singer&#x27;s] enthusiasm becomes infectious . . . Wired for War is a book of its time: this is strategy for the Facebook generation.” —Fore...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Wired+for+War+P.+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Naval+Institute+to+world+naval+weapons+systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Naval Institute to world naval weapons systems books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Naval+Institute+to+World+Naval+Weapon+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Naval Institute to World Naval Weapon Systems books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fleet Tactics And Naval Operations, Third Edition</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

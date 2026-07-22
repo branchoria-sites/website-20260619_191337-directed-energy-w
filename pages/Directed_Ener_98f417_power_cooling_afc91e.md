@@ -469,13 +469,30 @@ Those questions are not peripheral. They are the difference between producing di
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
+        </h4>
+        <p class="fr-book-author">By Bahman Zohuri</p>
+
+        <p class="fr-book-desc">Covers the power, control, integration and operational challenges behind directed-energy systems.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Laser+Fundamentals+William+T.+Silfvast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Laser Fundamentals on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/358354-M.jpg" alt="Cover for Laser Fundamentals" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Laser+Fundamentals+William+T.+Silfvast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser Fundamentals">Laser Fundamentals</a>
         </h4>
         <p class="fr-book-author">By William T. Silfvast</p>
-        
+
         <p class="fr-book-desc">Provides the underlying laser physics needed to understand weapon-scale systems.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Laser+Fundamentals+William+T.+Silfvast&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -492,27 +509,10 @@ Those questions are not peripheral. They are the difference between producing di
           <a href="https://www.amazon.com/s?k=Fundamentals+of+heat+and+mass+transfer+Frank+P.+Incropera&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of heat and mass transfer">Fundamentals of heat and mass transfer</a>
         </h4>
         <p class="fr-book-author">By Frank P. Incropera, David P. DeWitt</p>
-        
+
         <p class="fr-book-desc">Explains the cooling and thermal-management challenges that limit laser performance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fundamentals+of+heat+and+mass+transfer+Frank+P.+Incropera&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
-        </h4>
-        <p class="fr-book-author">By Bahman Zohuri</p>
-        
-        <p class="fr-book-desc">Covers the power, control, integration and operational challenges behind directed-energy systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -526,7 +526,7 @@ Those questions are not peripheral. They are the difference between producing di
           <a href="https://www.amazon.com/s?k=Power+electronics+Ned+Mohan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Power electronics">Power electronics</a>
         </h4>
         <p class="fr-book-author">By Ned Mohan, William Robbins et al.</p>
-        
+
         <p class="fr-book-desc">Directly relates to power conditioning and electrical delivery for high-energy systems.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Power+electronics+Ned+Mohan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -537,7 +537,7 @@ Those questions are not peripheral. They are the difference between producing di
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Laser+Fundamentals&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Laser Fundamentals</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+heat+and+mass+transfer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of heat and mass transfer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed Energy Weapons</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed Energy Weapons</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Laser+Fundamentals&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Laser Fundamentals</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+heat+and+mass+transfer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of heat and mass transfer</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

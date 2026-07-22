@@ -376,14 +376,31 @@ What happens after that first deployment will determine whether DragonFire becom
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fleet Tactics And Naval Operations, Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8833607-M.jpg" alt="Cover for Fleet Tactics And Naval Operations, Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fleet Tactics And Naval Operations, Third Edition">Fleet Tactics And Naval Operations, Third Edition</a>
+        </h4>
+        <p class="fr-book-author">By Wayne Hughes, Robert Girrier</p>
+
+        <p class="fr-book-desc">First published 2018. Subjects: Naval tactics.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
         </h4>
         <p class="fr-book-author">By Christian Brose</p>
-        
-        <p class="fr-book-desc">Explains how emerging technologies are changing military operations and defense planning.</p>
+
+        <p class="fr-book-desc">From a former senior advisor to Senator John McCain comes an urgent wake-up call about how new technologies are threatening America&#x27;s mil...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -399,27 +416,10 @@ What happens after that first deployment will determine whether DragonFire becom
           <a href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
         </h4>
         <p class="fr-book-author">By Paul Scharre</p>
-        
-        <p class="fr-book-desc">Provides context on autonomous systems and future battlefield technologies.</p>
+
+        <p class="fr-book-desc">Winner of the 2019 William E. Colby Award &quot;The book I had been waiting for. I can&#x27;t recommend it highly enough.&quot; —Bill Gates The era of a...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fleet Tactics And Naval Operations, Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8833607-M.jpg" alt="Cover for Fleet Tactics And Naval Operations, Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fleet Tactics And Naval Operations, Third Edition">Fleet Tactics And Naval Operations, Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Wayne Hughes, Robert Girrier</p>
-        
-        <p class="fr-book-desc">First published 2018. Subjects: Naval tactics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -433,7 +433,7 @@ What happens after that first deployment will determine whether DragonFire becom
           <a href="https://www.amazon.com/s?k=Lasers%2C+Death+Rays%2C+and+the+Long%2C+Strange+Quest+for+the+Ultimate+Weapon+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lasers, Death Rays, and the Long, Strange Quest for the Ultimate Weapon">Lasers, Death Rays, and the Long, Strange Quest for the Ultim...</a>
         </h4>
         <p class="fr-book-author">By Jeff Hecht</p>
-        
+
         <p class="fr-book-desc">Provides context for DragonFire&#x27;s transition from trials to deployment.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lasers%2C+Death+Rays%2C+and+the+Long%2C+Strange+Quest+for+the+Ultimate+Weapon+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -444,7 +444,7 @@ What happens after that first deployment will determine whether DragonFire becom
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fleet Tactics And Naval Operations, Third Edition</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fleet Tactics And Naval Operations, Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

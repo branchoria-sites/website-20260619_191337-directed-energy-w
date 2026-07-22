@@ -367,7 +367,7 @@ The most defensible conclusion is therefore a narrow one. The *Preble* test demo
           <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
         </h4>
         <p class="fr-book-author">By Christian Brose</p>
-        
+
         <p class="fr-book-desc">Highlights the importance of targeting data and operational effectiveness.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -378,16 +378,16 @@ The most defensible conclusion is therefore a narrow one. The *Preble* test demo
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NyU3EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+          <a href="https://www.amazon.com/s?k=Skunk+Works+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
         </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
+        <p class="fr-book-author">By Leo Janos, Ben R. Rich</p>
+
         <p class="fr-book-desc">Shows why public demonstrations often reveal only limited technical detail.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Skunk+Works+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -401,7 +401,7 @@ The most defensible conclusion is therefore a narrow one. The *Preble* test demo
           <a href="https://www.amazon.com/s?k=Introduction+to+Modern+Ew+Systems+Andrea+De+Martino&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Modern Ew Systems">Introduction to Modern Ew Systems</a>
         </h4>
         <p class="fr-book-author">By Andrea De Martino</p>
-        
+
         <p class="fr-book-desc">Helps readers understand sensing, tracking and engagement uncertainties.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+Modern+Ew+Systems+Andrea+De+Martino&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ The most defensible conclusion is therefore a narrow one. The *Preble* test demo
           <a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fleet Tactics And Naval Operations, Third Edition">Fleet Tactics And Naval Operations, Third Edition</a>
         </h4>
         <p class="fr-book-author">By Wayne Hughes, Robert Girrier</p>
-        
+
         <p class="fr-book-desc">First published 2018. Subjects: Naval tactics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

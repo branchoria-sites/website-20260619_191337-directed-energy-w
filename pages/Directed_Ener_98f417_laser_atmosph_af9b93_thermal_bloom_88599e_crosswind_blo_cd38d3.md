@@ -360,16 +360,16 @@ Crosswinds highlight an important feature of thermal blooming: the atmosphere is
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Laser+beam+propagation+through+random+media&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Laser beam propagation through random media on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10725665-M.jpg" alt="Cover for Laser beam propagation through random media" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Laser+Fundamentals+William+T.+Silfvast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Laser Fundamentals on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/358354-M.jpg" alt="Cover for Laser Fundamentals" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Laser+beam+propagation+through+random+media&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser beam propagation through random media">Laser beam propagation through random media</a>
+          <a href="https://www.amazon.com/s?k=Laser+Fundamentals+William+T.+Silfvast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser Fundamentals">Laser Fundamentals</a>
         </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Directly covers atmospheric effects on laser beams, including turbulence, thermal effects, and propagation behavior relevant to thermal b...</p>
+        <p class="fr-book-author">By William T. Silfvast</p>
+
+        <p class="fr-book-desc">Explains laser efficiency, gain media, optical systems, and heat-related performance limits behind the article’s waste-heat discussion.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Laser+beam+propagation+through+random+media&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Laser+Fundamentals+William+T.+Silfvast&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -383,7 +383,7 @@ Crosswinds highlight an important feature of thermal blooming: the atmosphere is
           <a href="https://www.amazon.com/s?k=Principles+of+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Principles of adaptive optics">Principles of adaptive optics</a>
         </h4>
         <p class="fr-book-author">By Robert K. Tyson</p>
-        
+
         <p class="fr-book-desc">Helps readers understand how optical systems compensate for atmospheric distortions and beam degradation effects.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Principles+of+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,16 +394,16 @@ Crosswinds highlight an important feature of thermal blooming: the atmosphere is
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Laser+Fundamentals+William+T.+Silfvast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Laser Fundamentals on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/358354-M.jpg" alt="Cover for Laser Fundamentals" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Laser+beam+propagation+through+random+media+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Laser beam propagation through random media on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10725665-M.jpg" alt="Cover for Laser beam propagation through random media" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Laser+Fundamentals+William+T.+Silfvast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser Fundamentals">Laser Fundamentals</a>
+          <a href="https://www.amazon.com/s?k=Laser+beam+propagation+through+random+media+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser beam propagation through random media">Laser beam propagation through random media</a>
         </h4>
-        <p class="fr-book-author">By William T. Silfvast</p>
-        
-        <p class="fr-book-desc">First published 2004. Subjects: Lasers, Ta1675 .s52 2004, 621.36/6.</p>
+        <p class="fr-book-author">By Unknown author</p>
+
+        <p class="fr-book-desc">Directly covers atmospheric effects on laser beams, including turbulence, thermal effects, and propagation behavior relevant to thermal b...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Laser+Fundamentals+William+T.+Silfvast&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Laser+beam+propagation+through+random+media+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -417,7 +417,7 @@ Crosswinds highlight an important feature of thermal blooming: the atmosphere is
           <a href="https://www.amazon.com/s?k=Field+Guide+to+Atmospheric+Optics+Larry+C.+Andrews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide to Atmospheric Optics">Field Guide to Atmospheric Optics</a>
         </h4>
         <p class="fr-book-author">By Larry C. Andrews</p>
-        
+
         <p class="fr-book-desc">Explains atmospheric optical phenomena, refractive-index effects, turbulence, and propagation issues that influence beam quality.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Field+Guide+to+Atmospheric+Optics+Larry+C.+Andrews&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +428,7 @@ Crosswinds highlight an important feature of thermal blooming: the atmosphere is
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Laser+beam+propagation+through+random+media&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Laser beam propagation through random media</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Principles+of+adaptive+optics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Principles of adaptive optics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Laser+Fundamentals&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Laser Fundamentals</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Laser+Fundamentals&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Laser Fundamentals</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Principles+of+adaptive+optics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Principles of adaptive optics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Laser+beam+propagation+through+random+media&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Laser beam propagation through random media</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

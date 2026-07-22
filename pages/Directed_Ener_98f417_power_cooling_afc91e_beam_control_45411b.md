@@ -431,16 +431,16 @@ That is why beam control sits alongside power [generation]({{ 'generation-ii/' |
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Laser+beam+propagation+through+random+media&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Laser beam propagation through random media on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10725665-M.jpg" alt="Cover for Laser beam propagation through random media" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Laser+beam+propagation+through+random+media&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser beam propagation through random media">Laser beam propagation through random media</a>
+          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
         </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Covers turbulence, beam spreading, and atmospheric losses that influence dwell time and effective irradiance.</p>
+        <p class="fr-book-author">By Bahman Zohuri</p>
+
+        <p class="fr-book-desc">Directly addresses beam control, target tracking, atmospheric effects, and operational challenges of high-energy laser systems.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Laser+beam+propagation+through+random+media&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -454,7 +454,7 @@ That is why beam control sits alongside power [generation]({{ 'generation-ii/' |
           <a href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to adaptive optics">Introduction to adaptive optics</a>
         </h4>
         <p class="fr-book-author">By Robert K. Tyson</p>
-        
+
         <p class="fr-book-desc">Explains correction of atmospheric distortion and optical aberrations that affect maintaining laser energy on target.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -465,16 +465,16 @@ That is why beam control sits alongside power [generation]({{ 'generation-ii/' |
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Laser+beam+propagation+through+random+media+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Laser beam propagation through random media on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10725665-M.jpg" alt="Cover for Laser beam propagation through random media" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
+          <a href="https://www.amazon.com/s?k=Laser+beam+propagation+through+random+media+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser beam propagation through random media">Laser beam propagation through random media</a>
         </h4>
-        <p class="fr-book-author">By Bahman Zohuri</p>
-        
-        <p class="fr-book-desc">Directly addresses beam control, target tracking, atmospheric effects, and operational challenges of high-energy laser systems.</p>
+        <p class="fr-book-author">By Unknown author</p>
+
+        <p class="fr-book-desc">Covers turbulence, beam spreading, and atmospheric losses that influence dwell time and effective irradiance.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Laser+beam+propagation+through+random+media+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -482,16 +482,16 @@ That is why beam control sits alongside power [generation]({{ 'generation-ii/' |
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Lasers+and+Masers+Anthony+E.+Siegman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Lasers and Masers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12484987-M.jpg" alt="Cover for Introduction to Lasers and Masers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Lasers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lasers on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Lasers+and+Masers+Anthony+E.+Siegman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Lasers and Masers">Introduction to Lasers and Masers</a>
+          <a href="https://www.amazon.com/s?k=Lasers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lasers">Lasers</a>
         </h4>
-        <p class="fr-book-author">By Anthony E. Siegman</p>
-        
-        <p class="fr-book-desc">First published 1971. Subjects: Lasers, Masers, Laser, Maser, 33.38 modern optics.</p>
+        <p class="fr-book-author">By Unknown author</p>
+
+        <p class="fr-book-desc">Explains beam characteristics, focusing, propagation, and stability concepts central to keeping energy concentrated on a target.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Lasers+and+Masers+Anthony+E.+Siegman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Lasers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -499,7 +499,7 @@ That is why beam control sits alongside power [generation]({{ 'generation-ii/' |
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Laser+beam+propagation+through+random+media&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Laser beam propagation through random media</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+adaptive+optics+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to adaptive optics books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed Energy Weapons</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed Energy Weapons</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+adaptive+optics+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to adaptive optics books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Laser+beam+propagation+through+random+media&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Laser beam propagation through random media</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

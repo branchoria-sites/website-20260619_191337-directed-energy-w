@@ -387,50 +387,16 @@ These advantages explain continuing interest in anti-sensor laser systems for co
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Introduction+to+Laser+Weapon+Systems&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Introduction to Laser Weapon Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13772805-M.jpg" alt="Cover for An Introduction to Laser Weapon Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=An+Introduction+to+Laser+Weapon+Systems&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Introduction to Laser Weapon Systems">An Introduction to Laser Weapon Systems</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Provides context for escalation from temporary optical effects to destructive laser engagement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=An+Introduction+to+Laser+Weapon+Systems&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Countermeasures+for+Aerial+Drones+Garik+Markarian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Countermeasures for Aerial Drones on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=In0qEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Countermeasures for Aerial Drones" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Countermeasures+for+Aerial+Drones+Garik+Markarian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Countermeasures for Aerial Drones">Countermeasures for Aerial Drones</a>
         </h4>
         <p class="fr-book-author">By Garik Markarian, Andrew Staniforth</p>
-        
+
         <p class="fr-book-desc">Strong match for drone neutralization, proportional responses, sensor disruption, and counter-UAS concepts.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Countermeasures+for+Aerial+Drones+Garik+Markarian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Effects+of+Directed+Energy+Weapons+Philip+E+Nielsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Effects of Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9061214-M.jpg" alt="Cover for Effects of Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Effects+of+Directed+Energy+Weapons+Philip+E+Nielsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Effects of Directed Energy Weapons">Effects of Directed Energy Weapons</a>
-        </h4>
-        <p class="fr-book-author">By Philip E Nielsen</p>
-        
-        <p class="fr-book-desc">Useful for understanding the spectrum between reversible interference and permanent damage effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Effects+of+Directed+Energy+Weapons+Philip+E+Nielsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -444,7 +410,7 @@ These advantages explain continuing interest in anti-sensor laser systems for co
           <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
         </h4>
         <p class="fr-book-author">By Bahman Zohuri</p>
-        
+
         <p class="fr-book-desc">Explains the laser physics underlying dazzling, sensor interference, and higher-energy destructive effects.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -453,9 +419,43 @@ These advantages explain continuing interest in anti-sensor laser systems for co
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Effects+of+Directed+Energy+Weapons+Philip+E+Nielsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Effects of Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9061214-M.jpg" alt="Cover for Effects of Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Effects+of+Directed+Energy+Weapons+Philip+E+Nielsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Effects of Directed Energy Weapons">Effects of Directed Energy Weapons</a>
+        </h4>
+        <p class="fr-book-author">By Philip E Nielsen</p>
+
+        <p class="fr-book-desc">Useful for understanding the spectrum between reversible interference and permanent damage effects.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Effects+of+Directed+Energy+Weapons+Philip+E+Nielsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Introduction+to+Laser+Weapon+Systems+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Introduction to Laser Weapon Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13772805-M.jpg" alt="Cover for An Introduction to Laser Weapon Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=An+Introduction+to+Laser+Weapon+Systems+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Introduction to Laser Weapon Systems">An Introduction to Laser Weapon Systems</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
+
+        <p class="fr-book-desc">Provides context for escalation from temporary optical effects to destructive laser engagement.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=An+Introduction+to+Laser+Weapon+Systems+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=An+to+Laser+Weapon+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An to Laser Weapon Systems books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Countermeasures+for+Aerial+Drones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Countermeasures for Aerial Drones</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Effects+of+Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Effects of Directed Energy Weapons</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Countermeasures+for+Aerial+Drones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Countermeasures for Aerial Drones</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed Energy Weapons</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Effects+of+Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Effects of Directed Energy Weapons</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

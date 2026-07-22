@@ -392,7 +392,7 @@ For that reason, the most important contribution of microwave counter-swarm syst
           <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
         </h4>
         <p class="fr-book-author">By Christian Brose</p>
-        
+
         <p class="fr-book-desc">Emphasizes layered defense and integrated capabilities.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ For that reason, the most important contribution of microwave counter-swarm syst
           <a href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
         </h4>
         <p class="fr-book-author">By Paul Scharre</p>
-        
+
         <p class="fr-book-desc">Broad context for future layered defense architectures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ For that reason, the most important contribution of microwave counter-swarm syst
           <a href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Wars">Drone Wars</a>
         </h4>
         <p class="fr-book-author">By Seth J. Frantzman</p>
-        
+
         <p class="fr-book-desc">Explains why multiple counter-drone tools are needed.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -443,7 +443,7 @@ For that reason, the most important contribution of microwave counter-swarm syst
           <a href="https://www.amazon.com/s?k=Introduction+to+Electronic+Warfare+Modeling+and+Simulation+David+L.+Adamy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Electronic Warfare Modeling and Simulation">Introduction to Electronic Warfare Modeling and Simulation</a>
         </h4>
         <p class="fr-book-author">By David L. Adamy</p>
-        
+
         <p class="fr-book-desc">First published 2006. Subjects: Electronics in military engineering, Mathematical models, Computer simulation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+Electronic+Warfare+Modeling+and+Simulation+David+L.+Adamy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

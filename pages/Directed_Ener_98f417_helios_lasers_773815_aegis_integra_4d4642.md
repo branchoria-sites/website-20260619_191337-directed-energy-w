@@ -372,7 +372,7 @@ If that integration succeeds, the lesson extends far beyond a single 60-kilowatt
           <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
         </h4>
         <p class="fr-book-author">By Bahman Zohuri</p>
-        
+
         <p class="fr-book-desc">Provides background on laser systems entering operational fleets.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ If that integration succeeds, the lesson extends far beyond a single 60-kilowatt
           <a href="https://www.amazon.com/s?k=The+Naval+Institute+guide+to+world+naval+weapons+systems+Norman+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Naval Institute guide to world naval weapons systems">The Naval Institute guide to world naval weapons systems</a>
         </h4>
         <p class="fr-book-author">By Norman Friedman</p>
-        
+
         <p class="fr-book-desc">First published 1989. Subjects: Handbooks, manuals, Weapons systems, Naval Ordnance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Naval+Institute+guide+to+world+naval+weapons+systems+Norman+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ If that integration succeeds, the lesson extends far beyond a single 60-kilowatt
           <a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fleet Tactics And Naval Operations, Third Edition">Fleet Tactics And Naval Operations, Third Edition</a>
         </h4>
         <p class="fr-book-author">By Wayne Hughes, Robert Girrier</p>
-        
+
         <p class="fr-book-desc">First published 2018. Subjects: Naval tactics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -423,7 +423,7 @@ If that integration succeeds, the lesson extends far beyond a single 60-kilowatt
           <a href="https://www.amazon.com/s?k=Fleet+Tactics+and+Naval+Operations+Wayne+P.+Hughes+Jr.+and+Robert+P.+Girrier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fleet Tactics and Naval Operations">Fleet Tactics and Naval Operations</a>
         </h4>
         <p class="fr-book-author">By Wayne P. Hughes Jr. and Robert P. Girrier</p>
-        
+
         <p class="fr-book-desc">Explains integrated combat systems and layered defense.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fleet+Tactics+and+Naval+Operations+Wayne+P.+Hughes+Jr.+and+Robert+P.+Girrier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -384,7 +384,7 @@ In practical terms, a drone with a functioning airframe but a blinded camera may
 <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
 </h4>
 <p class="fr-book-author">By Christian Brose</p>
-        
+
 <p class="fr-book-desc">Shows why disrupting sensors can be strategically decisive.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ In practical terms, a drone with a functioning airframe but a blinded camera may
 <a href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warfare">Drone Warfare</a>
 </h4>
 <p class="fr-book-author">By Medea Benjamin</p>
-        
+
 <p class="fr-book-desc">Provides context on the growing importance of unmanned systems.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ In practical terms, a drone with a functioning airframe but a blinded camera may
 <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
 </h4>
 <p class="fr-book-author">By Bahman Zohuri</p>
-        
+
 <p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -435,7 +435,7 @@ In practical terms, a drone with a functioning airframe but a blinded camera may
 <a href="https://www.amazon.com/s?k=Countering+Drones+David+Hambling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Countering Drones">Countering Drones</a>
 </h4>
 <p class="fr-book-author">By David Hambling</p>
-        
+
 <p class="fr-book-desc">Examines practical ways of defeating drone threats.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Countering+Drones+David+Hambling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

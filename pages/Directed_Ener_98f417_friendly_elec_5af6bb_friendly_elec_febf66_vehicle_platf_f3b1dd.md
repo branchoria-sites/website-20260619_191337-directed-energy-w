@@ -390,7 +390,7 @@ For directed-energy environments involving high-power [microwaves]({{ 'microwave
           <a href="https://www.amazon.com/s?k=Introduction+to+electromagnetic+compatibility+Clayton+R.+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to electromagnetic compatibility">Introduction to electromagnetic compatibility</a>
         </h4>
         <p class="fr-book-author">By Clayton R. Paul</p>
-        
+
         <p class="fr-book-desc">Explains coupling paths, wiring effects and platform-level EMC concerns.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+electromagnetic+compatibility+Clayton+R.+Paul&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ For directed-energy environments involving high-power [microwaves]({{ 'microwave
           <a href="https://www.amazon.com/s?k=Electromagnetic+compatibility+engineering+Henry+W.+Ott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Electromagnetic compatibility engineering">Electromagnetic compatibility engineering</a>
         </h4>
         <p class="fr-book-author">By Henry W. Ott</p>
-        
+
         <p class="fr-book-desc">Addresses system integration effects that emerge beyond component testing.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Electromagnetic+compatibility+engineering+Henry+W.+Ott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ For directed-energy environments involving high-power [microwaves]({{ 'microwave
           <a href="https://www.amazon.com/s?k=EMC+for+product+designers+Tim+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="EMC for product designers">EMC for product designers</a>
         </h4>
         <p class="fr-book-author">By Tim Williams</p>
-        
+
         <p class="fr-book-desc">Focuses on real-world design and integration challenges.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=EMC+for+product+designers+Tim+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -441,7 +441,7 @@ For directed-energy environments involving high-power [microwaves]({{ 'microwave
           <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
         </h4>
         <p class="fr-book-author">By Bahman Zohuri</p>
-        
+
         <p class="fr-book-desc">Connects vehicle survivability issues to directed-energy environments.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

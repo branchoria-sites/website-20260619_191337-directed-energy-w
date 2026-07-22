@@ -387,7 +387,7 @@ As a result, communications equipment frequently serves as an early indicator of
           <a href="https://www.amazon.com/s?k=Introduction+to+electromagnetic+compatibility+Clayton+R.+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to electromagnetic compatibility">Introduction to electromagnetic compatibility</a>
         </h4>
         <p class="fr-book-author">By Clayton R. Paul</p>
-        
+
         <p class="fr-book-desc">Explains antenna coupling and interference mechanisms that make radios vulnerable.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+electromagnetic+compatibility+Clayton+R.+Paul&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ As a result, communications equipment frequently serves as an early indicator of
           <a href="https://www.amazon.com/s?k=EMC+for+product+designers+Tim+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="EMC for product designers">EMC for product designers</a>
         </h4>
         <p class="fr-book-author">By Tim Williams</p>
-        
+
         <p class="fr-book-desc">Discusses protection, shielding and cabling issues affecting radio resilience.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=EMC+for+product+designers+Tim+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ As a result, communications equipment frequently serves as an early indicator of
           <a href="https://www.amazon.com/s?k=Practical+antenna+handbook+Joseph+J.+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical antenna handbook">Practical antenna handbook</a>
         </h4>
         <p class="fr-book-author">By Joseph J. Carr</p>
-        
+
         <p class="fr-book-desc">Provides antenna fundamentals essential to understanding front-door coupling.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Practical+antenna+handbook+Joseph+J.+Carr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -438,7 +438,7 @@ As a result, communications equipment frequently serves as an early indicator of
           <a href="https://www.amazon.com/s?k=The+Arrl+Handbook+for+Radio+Communications+%28ARRL+Handbook+for+Radio+Communications%29+American+Radio+Relay+League+%28ARRL%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Arrl Handbook for Radio Communications (ARRL Handbook for Radio Communications)">The Arrl Handbook for Radio Communications (ARRL Handbook for...</a>
         </h4>
         <p class="fr-book-author">By American Radio Relay League (ARRL)</p>
-        
+
         <p class="fr-book-desc">First published 2002.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Arrl+Handbook+for+Radio+Communications+%28ARRL+Handbook+for+Radio+Communications%29+American+Radio+Relay+League+%28ARRL%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

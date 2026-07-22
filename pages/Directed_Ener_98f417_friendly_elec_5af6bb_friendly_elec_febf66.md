@@ -428,7 +428,7 @@ Because microwave interactions depend on geometry, installation details, shieldi
           <a href="https://www.amazon.com/s?k=Introduction+to+electromagnetic+compatibility+Clayton+R.+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to electromagnetic compatibility">Introduction to electromagnetic compatibility</a>
         </h4>
         <p class="fr-book-author">By Clayton R. Paul</p>
-        
+
         <p class="fr-book-desc">Directly supports understanding why field conditions differ from controlled testing.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+electromagnetic+compatibility+Clayton+R.+Paul&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -445,7 +445,7 @@ Because microwave interactions depend on geometry, installation details, shieldi
           <a href="https://www.amazon.com/s?k=EMC+for+product+designers+Tim+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="EMC for product designers">EMC for product designers</a>
         </h4>
         <p class="fr-book-author">By Tim Williams</p>
-        
+
         <p class="fr-book-desc">Explains shielding, cabling and installation factors that change field performance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=EMC+for+product+designers+Tim+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -462,7 +462,7 @@ Because microwave interactions depend on geometry, installation details, shieldi
           <a href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Wars">Drone Wars</a>
         </h4>
         <p class="fr-book-author">By Seth J. Frantzman</p>
-        
+
         <p class="fr-book-desc">First published 2021. Subjects: Military art and science.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -479,7 +479,7 @@ Because microwave interactions depend on geometry, installation details, shieldi
           <a href="https://www.amazon.com/s?k=Lasers%2C+Death+Rays%2C+and+the+Long%2C+Strange+Quest+for+the+Ultimate+Weapon+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lasers, Death Rays, and the Long, Strange Quest for the Ultimate Weapon">Lasers, Death Rays, and the Long, Strange Quest for the Ultim...</a>
         </h4>
         <p class="fr-book-author">By Jeff Hecht</p>
-        
+
         <p class="fr-book-desc">First published 2019. Subjects: Military weapons, Laser weapons, History, Design and construction, Military.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lasers%2C+Death+Rays%2C+and+the+Long%2C+Strange+Quest+for+the+Ultimate+Weapon+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

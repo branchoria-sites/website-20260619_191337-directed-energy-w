@@ -366,7 +366,7 @@ By targeting the sensor rather than the vehicle, dazzling allows a warship to im
           <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
         </h4>
         <p class="fr-book-author">By Christian Brose</p>
-        
+
         <p class="fr-book-desc">Explains why denying information can be as important as destruction.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +383,7 @@ By targeting the sensor rather than the vehicle, dazzling allows a warship to im
           <a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fleet Tactics And Naval Operations, Third Edition">Fleet Tactics And Naval Operations, Third Edition</a>
         </h4>
         <p class="fr-book-author">By Wayne Hughes, Robert Girrier</p>
-        
+
         <p class="fr-book-desc">First published 2018. Subjects: Naval tactics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ By targeting the sensor rather than the vehicle, dazzling allows a warship to im
           <a href="https://www.amazon.com/s?k=Von+Clausewitz%2C+on+War+Carl+von+Clausewitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Von Clausewitz, on War">Von Clausewitz, on War</a>
         </h4>
         <p class="fr-book-author">By Carl von Clausewitz</p>
-        
+
         <p class="fr-book-desc">First published 2023.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Von+Clausewitz%2C+on+War+Carl+von+Clausewitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,7 +417,7 @@ By targeting the sensor rather than the vehicle, dazzling allows a warship to im
           <a href="https://www.amazon.com/s?k=On+War+Carl+von+Clausewitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On War">On War</a>
         </h4>
         <p class="fr-book-author">By Carl von Clausewitz</p>
-        
+
         <p class="fr-book-desc">Addresses escalation, force and limited responses.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=On+War+Carl+von+Clausewitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

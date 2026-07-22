@@ -375,7 +375,7 @@ Within the broader problem of microwave spillover affecting friendly electronics
           <a href="https://www.amazon.com/s?k=Introduction+to+electromagnetic+compatibility+Clayton+R.+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to electromagnetic compatibility">Introduction to electromagnetic compatibility</a>
         </h4>
         <p class="fr-book-author">By Clayton R. Paul</p>
-        
+
         <p class="fr-book-desc">Explains front-door coupling mechanisms.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+electromagnetic+compatibility+Clayton+R.+Paul&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ Within the broader problem of microwave spillover affecting friendly electronics
           <a href="https://www.amazon.com/s?k=Electromagnetic+compatibility+engineering+Henry+W.+Ott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Electromagnetic compatibility engineering">Electromagnetic compatibility engineering</a>
         </h4>
         <p class="fr-book-author">By Henry W. Ott</p>
-        
+
         <p class="fr-book-desc">Covers receiver protection, filtering and interference control.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Electromagnetic+compatibility+engineering+Henry+W.+Ott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ Within the broader problem of microwave spillover affecting friendly electronics
           <a href="https://www.amazon.com/s?k=Antenna+theory+%3A+analysis+and+design+-+4.+edici%C3%B3n.+Constantine+A.+Balanis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Antenna theory : analysis and design - 4. edición.">Antenna theory : analysis and design - 4. edición.</a>
         </h4>
         <p class="fr-book-author">By Constantine A. Balanis</p>
-        
+
         <p class="fr-book-desc">Directly addresses how antennas collect electromagnetic energy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Antenna+theory+%3A+analysis+and+design+-+4.+edici%C3%B3n.+Constantine+A.+Balanis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ Within the broader problem of microwave spillover affecting friendly electronics
           <a href="https://www.amazon.com/s?k=The+Arrl+Handbook+for+Radio+Communications+%28ARRL+Handbook+for+Radio+Communications%29+American+Radio+Relay+League+%28ARRL%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Arrl Handbook for Radio Communications (ARRL Handbook for Radio Communications)">The Arrl Handbook for Radio Communications (ARRL Handbook for...</a>
         </h4>
         <p class="fr-book-author">By American Radio Relay League (ARRL)</p>
-        
+
         <p class="fr-book-desc">First published 2002.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Arrl+Handbook+for+Radio+Communications+%28ARRL+Handbook+for+Radio+Communications%29+American+Radio+Relay+League+%28ARRL%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

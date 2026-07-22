@@ -385,13 +385,30 @@ For this reason, governance debates increasingly focus not only on whether a las
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
+        </h4>
+        <p class="fr-book-author">By Bahman Zohuri</p>
+
+        <p class="fr-book-desc">Directly explains laser effects, energy deposition, target interaction, and the distinction between sensor disruption and physical damage.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Effects+of+Directed+Energy+Weapons+Philip+E+Nielsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Effects of Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9061214-M.jpg" alt="Cover for Effects of Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Effects+of+Directed+Energy+Weapons+Philip+E+Nielsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Effects of Directed Energy Weapons">Effects of Directed Energy Weapons</a>
         </h4>
         <p class="fr-book-author">By Philip E Nielsen</p>
-        
+
         <p class="fr-book-desc">Focuses on the operational and physical effects of high-power lasers and other directed-energy systems on targets.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Effects+of+Directed+Energy+Weapons+Philip+E+Nielsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,27 +425,10 @@ For this reason, governance debates increasingly focus not only on whether a las
           <a href="https://www.amazon.com/s?k=Laser+Fundamentals+William+T.+Silfvast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser Fundamentals">Laser Fundamentals</a>
         </h4>
         <p class="fr-book-author">By William T. Silfvast</p>
-        
+
         <p class="fr-book-desc">Covers laser generation, propagation, power levels, and interactions that underpin dazzling and damaging effects.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Laser+Fundamentals+William+T.+Silfvast&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
-        </h4>
-        <p class="fr-book-author">By Bahman Zohuri</p>
-        
-        <p class="fr-book-desc">Directly explains laser effects, energy deposition, target interaction, and the distinction between sensor disruption and physical damage.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -442,7 +442,7 @@ For this reason, governance debates increasingly focus not only on whether a las
           <a href="https://www.amazon.com/s?k=Understanding+lasers+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding lasers">Understanding lasers</a>
         </h4>
         <p class="fr-book-author">By Jeff Hecht</p>
-        
+
         <p class="fr-book-desc">Helps general readers understand how laser intensity, focus, and target response influence outcomes from temporary interference to materi...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Understanding+lasers+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -453,7 +453,7 @@ For this reason, governance debates increasingly focus not only on whether a las
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Effects+of+Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Effects of Directed Energy Weapons</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Laser+Fundamentals&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Laser Fundamentals</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed Energy Weapons</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed Energy Weapons</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Effects+of+Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Effects of Directed Energy Weapons</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Laser+Fundamentals&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Laser Fundamentals</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

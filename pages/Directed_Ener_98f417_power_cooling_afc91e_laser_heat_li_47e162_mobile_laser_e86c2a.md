@@ -355,89 +355,89 @@ Thermal storage is best understood as a bridge between laser firing demands and 
 For mobile directed-energy weapons, the key question is rarely whether thermal storage is useful. The question is how much storage can be carried before the platform sacrifices too much mobility, payload, endurance, or operational flexibility. That balance increasingly determines how often, how long, and how effectively laser weapons can fire in real-world conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onr.navy.mil">[Office of Naval Research+2NDU Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onr.navy.mil</span><span class="citation-popover-snippet">Office of Naval ResearchCounter Directed Energy Weapons and High Energy Laserslaser applications offering advantages of reduced size, wei...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to The Hidden Heat Sink Behind Laser Firepower. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to The Hidden Heat Sink Behind Laser Firepower. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+heat+and+mass+transfer+Frank+P.+Incropera&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of heat and mass transfer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/304097-M.jpg" alt="Cover for Fundamentals of heat and mass transfer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Fundamentals+of+heat+and+mass+transfer+Frank+P.+Incropera&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of heat and mass transfer">Fundamentals of heat and mass transfer</a>
-</h4>
-<p class="fr-book-author">By Frank P. Incropera, David P. DeWitt</p>
-        
-<p class="fr-book-desc">First published 1985. Subjects: Transmission, Heat, Mass transfer, Wärmeübertragung, Chaleur.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Fundamentals+of+heat+and+mass+transfer+Frank+P.+Incropera&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
+        </h4>
+        <p class="fr-book-author">By Bahman Zohuri</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thermal+Management+for+LED+Applications+Clemens+J.M.+Lasance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thermal Management for LED Applications on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9350403-M.jpg" alt="Cover for Thermal Management for LED Applications" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thermal+Management+for+LED+Applications+Clemens+J.M.+Lasance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thermal Management for LED Applications">Thermal Management for LED Applications</a>
-</h4>
-<p class="fr-book-author">By Clemens J.M. Lasance, András Poppe</p>
-        
-<p class="fr-book-desc">First published 2013. Subjects: Electric apparatus and appliances, Diodes, semiconductor, Light emitting diodes, Electronic apparatus and...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thermal+Management+for+LED+Applications+Clemens+J.M.+Lasance&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains high-energy laser operation, efficiency losses, heat generation, and engineering tradeoffs that drive thermal-storage needs.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
-</h4>
-<p class="fr-book-author">By Bahman Zohuri</p>
-        
-<p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+heat+and+mass+transfer+Frank+P.+Incropera&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of heat and mass transfer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/304097-M.jpg" alt="Cover for Fundamentals of heat and mass transfer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Fundamentals+of+heat+and+mass+transfer+Frank+P.+Incropera&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of heat and mass transfer">Fundamentals of heat and mass transfer</a>
+        </h4>
+        <p class="fr-book-author">By Frank P. Incropera, David P. DeWitt</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Fundamentals+of+Heat+and+Mass+Transfer%2C+Eigth+Edition+Enhanced+EPUB+Theodore+L.+Bergman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Heat and Mass Transfer, Eigth Edition Enhanced EPUB on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Fundamentals+of+Heat+and+Mass+Transfer%2C+Eigth+Edition+Enhanced+EPUB+Theodore+L.+Bergman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Heat and Mass Transfer, Eigth Edition Enhanced EPUB">Fundamentals of Heat and Mass Transfer, Eigth Edition Enhance...</a>
-</h4>
-<p class="fr-book-author">By Theodore L. Bergman, Adrienne S. Lavine et al.</p>
-        
-<p class="fr-book-desc">First published 2016. Subjects: Heat, transmission, Mass transfer.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Fundamentals+of+Heat+and+Mass+Transfer%2C+Eigth+Edition+Enhanced+EPUB+Theodore+L.+Bergman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the physics behind heat absorption, storage, rejection, radiators, heat exchangers, and cooling-system sizing.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Fundamentals+of+heat+and+mass+transfer+Frank+P.+Incropera&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+heat+and+mass+transfer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of heat and mass transfer</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thermal+Management+for+LED+Applications&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thermal Management for LED Applications</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed Energy Weapons</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thermal+Management+for+LED+Applications+Clemens+J.M.+Lasance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thermal Management for LED Applications on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9350403-M.jpg" alt="Cover for Thermal Management for LED Applications" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Thermal+Management+for+LED+Applications+Clemens+J.M.+Lasance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thermal Management for LED Applications">Thermal Management for LED Applications</a>
+        </h4>
+        <p class="fr-book-author">By Clemens J.M. Lasance, András Poppe</p>
+
+        <p class="fr-book-desc">Provides transferable principles of thermal storage, heat transfer, cooling design, and thermal constraints relevant to laser systems.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Thermal+Management+for+LED+Applications+Clemens+J.M.+Lasance&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Fundamentals+of+Heat+and+Mass+Transfer%2C+Eigth+Edition+Enhanced+EPUB+Theodore+L.+Bergman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Heat and Mass Transfer, Eigth Edition Enhanced EPUB on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Fundamentals+of+Heat+and+Mass+Transfer%2C+Eigth+Edition+Enhanced+EPUB+Theodore+L.+Bergman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Heat and Mass Transfer, Eigth Edition Enhanced EPUB">Fundamentals of Heat and Mass Transfer, Eigth Edition Enhance...</a>
+        </h4>
+        <p class="fr-book-author">By Theodore L. Bergman, Adrienne S. Lavine et al.</p>
+
+        <p class="fr-book-desc">First published 2016. Subjects: Heat, transmission, Mass transfer.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Fundamentals+of+Heat+and+Mass+Transfer%2C+Eigth+Edition+Enhanced+EPUB+Theodore+L.+Bergman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed Energy Weapons</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+heat+and+mass+transfer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of heat and mass transfer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thermal+Management+for+LED+Applications&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thermal Management for LED Applications</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

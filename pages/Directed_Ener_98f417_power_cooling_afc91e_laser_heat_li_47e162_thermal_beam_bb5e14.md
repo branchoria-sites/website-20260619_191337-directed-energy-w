@@ -359,7 +359,7 @@ The most important consequence of thermal distortion is that it attacks the very
           <a href="https://www.amazon.com/s?k=Laser+Fundamentals+William+T.+Silfvast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser Fundamentals">Laser Fundamentals</a>
         </h4>
         <p class="fr-book-author">By William T. Silfvast</p>
-        
+
         <p class="fr-book-desc">Explains beam quality, optical resonators, thermal effects, and laser performance limits that directly relate to thermal distortion and l...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Laser+Fundamentals+William+T.+Silfvast&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -376,7 +376,7 @@ The most important consequence of thermal distortion is that it attacks the very
           <a href="https://www.amazon.com/s?k=Solid-State+Laser+Engineering+Walter+Koechner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Solid-State Laser Engineering">Solid-State Laser Engineering</a>
         </h4>
         <p class="fr-book-author">By Walter Koechner</p>
-        
+
         <p class="fr-book-desc">Covers thermal lensing, heat management, optical materials, and beam degradation in high-power laser systems.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Solid-State+Laser+Engineering+Walter+Koechner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ The most important consequence of thermal distortion is that it attacks the very
           <a href="https://www.amazon.com/s?k=Introduction+to+Lasers+and+Masers+Anthony+E.+Siegman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Lasers and Masers">Introduction to Lasers and Masers</a>
         </h4>
         <p class="fr-book-author">By Anthony E. Siegman</p>
-        
+
         <p class="fr-book-desc">First published 1971. Subjects: Lasers, Masers, Laser, Maser, 33.38 modern optics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+Lasers+and+Masers+Anthony+E.+Siegman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ The most important consequence of thermal distortion is that it attacks the very
           <a href="https://www.amazon.com/s?k=Lasers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lasers">Lasers</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
-        
+
         <p class="fr-book-desc">Deep treatment of laser modes, propagation, aberrations, and beam quality that underpins understanding of thermal performance loss.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lasers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

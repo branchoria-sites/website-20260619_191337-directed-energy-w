@@ -430,16 +430,16 @@ For that reason, claims about microwave counter-drone effectiveness are often ha
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warfare+John+Kaag&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warfare on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=I8oOBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warfare" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warfare+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warfare on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e2vnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warfare" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drone+Warfare+John+Kaag&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warfare">Drone Warfare</a>
+          <a href="https://www.amazon.com/s?k=Drone+Warfare+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warfare">Drone Warfare</a>
         </h4>
-        <p class="fr-book-author">By John Kaag, Sarah Kreps</p>
-        
+        <p class="fr-book-author">By Medea Benjamin</p>
+
         <p class="fr-book-desc">Discusses diverse drone types and operational differences relevant to varying vulnerability.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drone+Warfare+John+Kaag&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Drone+Warfare+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -453,7 +453,7 @@ For that reason, claims about microwave counter-drone effectiveness are often ha
           <a href="https://www.amazon.com/s?k=Introduction+to+Electronic+Warfare+Modeling+and+Simulation+David+L.+Adamy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Electronic Warfare Modeling and Simulation">Introduction to Electronic Warfare Modeling and Simulation</a>
         </h4>
         <p class="fr-book-author">By David L. Adamy</p>
-        
+
         <p class="fr-book-desc">Helps explain why different electronic architectures respond differently to electromagnetic attack.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+Electronic+Warfare+Modeling+and+Simulation+David+L.+Adamy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -470,7 +470,7 @@ For that reason, claims about microwave counter-drone effectiveness are often ha
           <a href="https://www.amazon.com/s?k=Fundamentals+of+Applied+Electromagnetics+6th+By+Fawwaz+T.+Ulaby+Fawwaz+T+Ulaby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Applied Electromagnetics 6th By Fawwaz T. Ulaby">Fundamentals of Applied Electromagnetics 6th By Fawwaz T. Ulaby</a>
         </h4>
         <p class="fr-book-author">By Fawwaz T Ulaby</p>
-        
+
         <p class="fr-book-desc">First published 2014.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fundamentals+of+Applied+Electromagnetics+6th+By+Fawwaz+T.+Ulaby+Fawwaz+T+Ulaby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -487,7 +487,7 @@ For that reason, claims about microwave counter-drone effectiveness are often ha
           <a href="https://www.amazon.com/s?k=Air+base+defense+in+the+Republic+of+Vietnam%2C+1961-1973+Roger+P.+Fox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Air base defense in the Republic of Vietnam, 1961-1973">Air base defense in the Republic of Vietnam, 1961-1973</a>
         </h4>
         <p class="fr-book-author">By Roger P. Fox</p>
-        
+
         <p class="fr-book-desc">First published 1979. Subjects: Aerial operations, Air bases, American Air bases, History, United States.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Air+base+defense+in+the+Republic+of+Vietnam%2C+1961-1973+Roger+P.+Fox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

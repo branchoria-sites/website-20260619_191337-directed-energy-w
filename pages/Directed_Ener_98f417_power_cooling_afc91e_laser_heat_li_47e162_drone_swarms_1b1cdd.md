@@ -371,10 +371,27 @@ In effect, drone swarms reveal a hidden dimension of laser performance. The chal
           <a href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
         </h4>
         <p class="fr-book-author">By Paul Scharre</p>
-        
+
         <p class="fr-book-desc">Provides strong context on autonomous systems, drone swarms, and the operational challenges modern defenses must overcome.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
+        </h4>
+        <p class="fr-book-author">By Bahman Zohuri</p>
+
+        <p class="fr-book-desc">Explains laser physics, efficiency, power requirements, and thermal considerations central to sustained engagements against multiple targ...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -388,8 +405,8 @@ In effect, drone swarms reveal a hidden dimension of laser performance. The chal
           <a href="https://www.amazon.com/s?k=Laser+Fundamentals+William+T.+Silfvast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser Fundamentals">Laser Fundamentals</a>
         </h4>
         <p class="fr-book-author">By William T. Silfvast</p>
-        
-        <p class="fr-book-desc">First published 2004. Subjects: Lasers, Ta1675 .s52 2004, 621.36/6.</p>
+
+        <p class="fr-book-desc">Explains laser efficiency, gain media, optical systems, and heat-related performance limits behind the article’s waste-heat discussion.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Laser+Fundamentals+William+T.+Silfvast&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -405,7 +422,7 @@ In effect, drone swarms reveal a hidden dimension of laser performance. The chal
           <a href="https://www.amazon.com/s?k=Swarm+Troopers+David+Hambling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Swarm Troopers">Swarm Troopers</a>
         </h4>
         <p class="fr-book-author">By David Hambling</p>
-        
+
         <p class="fr-book-desc">Helps readers understand why large numbers of inexpensive drones create unique challenges for defenses, including laser-based systems.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Swarm+Troopers+David+Hambling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,26 +431,9 @@ In effect, drone swarms reveal a hidden dimension of laser performance. The chal
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Lasers+and+Masers+Anthony+E.+Siegman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Lasers and Masers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12484987-M.jpg" alt="Cover for Introduction to Lasers and Masers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Lasers+and+Masers+Anthony+E.+Siegman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Lasers and Masers">Introduction to Lasers and Masers</a>
-        </h4>
-        <p class="fr-book-author">By Anthony E. Siegman</p>
-        
-        <p class="fr-book-desc">First published 1971. Subjects: Lasers, Masers, Laser, Maser, 33.38 modern optics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Lasers+and+Masers+Anthony+E.+Siegman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Laser+Fundamentals&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Laser Fundamentals</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Swarm+Troopers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Swarm Troopers</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed Energy Weapons</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Laser+Fundamentals&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Laser Fundamentals</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

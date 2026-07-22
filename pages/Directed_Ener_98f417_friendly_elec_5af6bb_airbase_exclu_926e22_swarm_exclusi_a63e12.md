@@ -369,16 +369,16 @@ A point target allows commanders to focus on a narrow engagement path. A swarm e
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Radar Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eQhTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Radar Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Radar Systems">Introduction to Radar Systems</a>
+          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
         </h4>
-        <p class="fr-book-author">By Merrill Ivan Skolnik</p>
-        
-        <p class="fr-book-desc">Helps readers understand aircraft sensors, RF environments, and electromagnetic interactions relevant to airbases.</p>
+        <p class="fr-book-author">By Bahman Zohuri</p>
+
+        <p class="fr-book-desc">Directly covers microwave and other directed-energy systems, including operational considerations relevant to safety zones and counter-dr...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -392,7 +392,7 @@ A point target allows commanders to focus on a narrow engagement path. A swarm e
           <a href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Wars">Drone Wars</a>
         </h4>
         <p class="fr-book-author">By Seth J. Frantzman</p>
-        
+
         <p class="fr-book-desc">Covers evolving drone threats and counter-drone concepts that provide operational context for airbase defense against swarms.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Drone+Wars+Seth+J.+Frantzman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ A point target allows commanders to focus on a narrow engagement path. A swarm e
           <a href="https://www.amazon.com/s?k=Introduction+to+Electronic+Warfare+Modeling+and+Simulation+David+L.+Adamy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Electronic Warfare Modeling and Simulation">Introduction to Electronic Warfare Modeling and Simulation</a>
         </h4>
         <p class="fr-book-author">By David L. Adamy</p>
-        
+
         <p class="fr-book-desc">Provides context for electromagnetic effects, system interactions, and operational planning around electronic attack environments.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+Electronic+Warfare+Modeling+and+Simulation+David+L.+Adamy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ A point target allows commanders to focus on a narrow engagement path. A swarm e
           <a href="https://www.amazon.com/s?k=Electronic+Warfare+in+the+Information+Age+D.%2C+Curtis+Schleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Electronic Warfare in the Information Age">Electronic Warfare in the Information Age</a>
         </h4>
         <p class="fr-book-author">By D., Curtis Schleher</p>
-        
+
         <p class="fr-book-desc">Addresses electromagnetic-spectrum operations and the risks to friendly systems that are central to microwave safety-zone planning.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Electronic+Warfare+in+the+Information+Age+D.%2C+Curtis+Schleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -437,7 +437,7 @@ A point target allows commanders to focus on a narrow engagement path. A swarm e
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Radar+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Radar Systems books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Wars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Wars</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Electronic+Warfare+Modeling+and+Simulation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Electronic Warfare Modeling and Simulation books</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed Energy Weapons</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Wars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Wars</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Electronic+Warfare+Modeling+and+Simulation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Electronic Warfare Modeling and Simulation books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

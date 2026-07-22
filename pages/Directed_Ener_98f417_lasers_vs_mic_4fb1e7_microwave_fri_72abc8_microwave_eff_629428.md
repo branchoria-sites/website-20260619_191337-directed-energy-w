@@ -376,7 +376,7 @@ In practical terms, microwave weapons act on a population of electronic devices 
           <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
         </h4>
         <p class="fr-book-author">By Christian Brose</p>
-        
+
         <p class="fr-book-desc">Shows why dense networks of sensors and communications make friend-or-foe effects operationally important.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ In practical terms, microwave weapons act on a population of electronic devices 
           <a href="https://www.amazon.com/s?k=Introduction+to+Electronic+Defense+Systems+Filippo+Neri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Electronic Defense Systems">Introduction to Electronic Defense Systems</a>
         </h4>
         <p class="fr-book-author">By Filippo Neri</p>
-        
+
         <p class="fr-book-desc">Directly supports explanations of electromagnetic coupling, antennas, cables, shielding, and electronic effects.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+Electronic+Defense+Systems+Filippo+Neri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ In practical terms, microwave weapons act on a population of electronic devices 
           <a href="https://www.amazon.com/s?k=Understanding+Modern+Warfare+David+Jordan+-+undifferentiated&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Modern Warfare">Understanding Modern Warfare</a>
         </h4>
         <p class="fr-book-author">By David Jordan - undifferentiated, James D. Kiras et al.</p>
-        
+
         <p class="fr-book-desc">Provides operational context for electronic warfare, air defence, and the role of technology in combat.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Understanding+Modern+Warfare+David+Jordan+-+undifferentiated&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

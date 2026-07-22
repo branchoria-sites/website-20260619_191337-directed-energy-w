@@ -363,16 +363,16 @@ This is why swarm geometry matters so much. As drones become more densely packed
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+UAV+Systems+Paul+G.+Fahlstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to UAV Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uLsNtm99IWYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Introduction to UAV Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+UAV+Systems+Paul+G.+Fahlstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to UAV Systems">Introduction to UAV Systems</a>
+          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
         </h4>
-        <p class="fr-book-author">By Paul G. Fahlstrom, Thomas J. Gleason</p>
-        
-        <p class="fr-book-desc">Provides drone-operating context for beam-coverage discussions.</p>
+        <p class="fr-book-author">By Bahman Zohuri</p>
+
+        <p class="fr-book-desc">Addresses practical weapon design and operational considerations.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+UAV+Systems+Paul+G.+Fahlstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -386,7 +386,7 @@ This is why swarm geometry matters so much. As drones become more densely packed
           <a href="https://www.amazon.com/s?k=Electronic+Warfare+in+the+Information+Age+D.%2C+Curtis+Schleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Electronic Warfare in the Information Age">Electronic Warfare in the Information Age</a>
         </h4>
         <p class="fr-book-author">By D., Curtis Schleher</p>
-        
+
         <p class="fr-book-desc">Helps explain field strength, coverage, and engagement geometry.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Electronic+Warfare+in+the+Information+Age+D.%2C+Curtis+Schleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ This is why swarm geometry matters so much. As drones become more densely packed
           <a href="https://www.amazon.com/s?k=Swarm+Troopers+David+Hambling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Swarm Troopers">Swarm Troopers</a>
         </h4>
         <p class="fr-book-author">By David Hambling</p>
-        
+
         <p class="fr-book-desc">Explains why broader engagement footprints matter against clustered threats.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Swarm+Troopers+David+Hambling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ This is why swarm geometry matters so much. As drones become more densely packed
           <a href="https://www.amazon.com/s?k=Introduction+to+Directed+Energy+Weapons+Warren+C.+Schultz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Directed Energy Weapons">Introduction to Directed Energy Weapons</a>
         </h4>
         <p class="fr-book-author">By Warren C. Schultz</p>
-        
+
         <p class="fr-book-desc">Directly supports understanding beam width versus intensity trade-offs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+Directed+Energy+Weapons+Warren+C.+Schultz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -431,7 +431,7 @@ This is why swarm geometry matters so much. As drones become more densely packed
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+UAV+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to UAV Systems books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Electronic+Warfare+in+the+Information+Age&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Electronic Warfare in the Information Age</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Swarm+Troopers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Swarm Troopers</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Directed+Energy+Weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed Energy Weapons</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Electronic+Warfare+in+the+Information+Age&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Electronic Warfare in the Information Age</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Swarm+Troopers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Swarm Troopers</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

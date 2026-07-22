@@ -364,89 +364,89 @@ A prototype may prove that the underlying physics works. Sustained maintenance p
 This is why defence organisations increasingly evaluate directed-energy programmes not only through live-fire demonstrations but also through operational assessments, user feedback, sustainment planning, and logistics analysis. The decisive question is no longer whether a laser can fire successfully. It is whether crews can keep it ready, day after day, without relying on the laboratory conditions that helped produce the original demonstration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-105868" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2BAE Systems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 105868</span><span class="citation-popover-snippet">Directed Energy Weapons: DOD Should Focus on...17 Apr 2023 — DOD has developed high-energy lasers that have successfully shot down dr...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to The Hidden Work After a Laser Shot. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to The Hidden Work After a Laser Shot. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-</h4>
-<p class="fr-book-author">By Christian Brose</p>
-        
-<p class="fr-book-desc">Explains how emerging military technologies must move from prototypes into usable operational systems.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Introduction+to+Reliability+and+Maintainability+Engineering+Charles+E.+Ebeling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Introduction to Reliability and Maintainability Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1073586-M.jpg" alt="Cover for An Introduction to Reliability and Maintainability Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=An+Introduction+to+Reliability+and+Maintainability+Engineering+Charles+E.+Ebeling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Introduction to Reliability and Maintainability Engineering">An Introduction to Reliability and Maintainability Engineering</a>
+        </h4>
+        <p class="fr-book-author">By Charles E. Ebeling</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Introduction+to+Reliability+and+Maintainability+Engineering+Charles+E.+Ebeling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Introduction to Reliability and Maintainability Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1073586-M.jpg" alt="Cover for An Introduction to Reliability and Maintainability Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=An+Introduction+to+Reliability+and+Maintainability+Engineering+Charles+E.+Ebeling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Introduction to Reliability and Maintainability Engineering">An Introduction to Reliability and Maintainability Engineering</a>
-</h4>
-<p class="fr-book-author">By Charles E. Ebeling</p>
-        
-<p class="fr-book-desc">First published 1996. Subjects: Reliability (Engineering), Maintainability (Engineering), Reliability (engineering).</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=An+Introduction+to+Reliability+and+Maintainability+Engineering+Charles+E.+Ebeling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Addresses the maintenance, availability, repair, and sustainment issues highlighted in operational laser weapon deployment.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=An+Introduction+to+Reliability+and+Maintainability+Engineering+Charles+E.+Ebeling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Engineering+maintenance+management+Benjamin+W.+Niebel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Engineering maintenance management on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4210094-M.jpg" alt="Cover for Engineering maintenance management" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Engineering+maintenance+management+Benjamin+W.+Niebel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Engineering maintenance management">Engineering maintenance management</a>
-</h4>
-<p class="fr-book-author">By Benjamin W. Niebel</p>
-        
-<p class="fr-book-desc">First published 1985. Subjects: Plant maintenance, Management, Engineering, management, Instandhaltung, Usines.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Engineering+maintenance+management+Benjamin+W.+Niebel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Engineering+maintenance+management+Benjamin+W.+Niebel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Engineering maintenance management on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4210094-M.jpg" alt="Cover for Engineering maintenance management" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Engineering+maintenance+management+Benjamin+W.+Niebel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Engineering maintenance management">Engineering maintenance management</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin W. Niebel</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Systems+Engineering+Principles+and+Practice.+Wiley+Series+in+Systems+Engineering+and+Management+Alexander+Kossiakoff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Systems Engineering Principles and Practice. Wiley Series in Systems Engineering and Management on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Systems+Engineering+Principles+and+Practice.+Wiley+Series+in+Systems+Engineering+and+Management+Alexander+Kossiakoff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Systems Engineering Principles and Practice. Wiley Series in Systems Engineering and Management">Systems Engineering Principles and Practice. Wiley Series in...</a>
-</h4>
-<p class="fr-book-author">By Alexander Kossiakoff, William N. Sweet</p>
-        
-<p class="fr-book-desc">First published 2002. Subjects: Systems engineering.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Systems+Engineering+Principles+and+Practice.+Wiley+Series+in+Systems+Engineering+and+Management+Alexander+Kossiakoff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Focuses on organizing maintenance, spare parts, support infrastructure, and readiness for complex equipment.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Engineering+maintenance+management+Benjamin+W.+Niebel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=An+to+Reliability+and+Maintainability+Engineering+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An to Reliability and Maintainability Engineering books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Engineering+maintenance+management&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Engineering maintenance management</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+        </h4>
+        <p class="fr-book-author">By Christian Brose</p>
+
+        <p class="fr-book-desc">From a former senior advisor to Senator John McCain comes an urgent wake-up call about how new technologies are threatening America&#x27;s mil...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Systems+Engineering+Principles+and+Practice.+Wiley+Series+in+Systems+Engineering+and+Management+Alexander+Kossiakoff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Systems Engineering Principles and Practice. Wiley Series in Systems Engineering and Management on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Systems+Engineering+Principles+and+Practice.+Wiley+Series+in+Systems+Engineering+and+Management+Alexander+Kossiakoff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Systems Engineering Principles and Practice. Wiley Series in Systems Engineering and Management">Systems Engineering Principles and Practice. Wiley Series in...</a>
+        </h4>
+        <p class="fr-book-author">By Alexander Kossiakoff, William N. Sweet</p>
+
+        <p class="fr-book-desc">First published 2002. Subjects: Systems engineering.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Systems+Engineering+Principles+and+Practice.+Wiley+Series+in+Systems+Engineering+and+Management+Alexander+Kossiakoff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=An+to+Reliability+and+Maintainability+Engineering+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An to Reliability and Maintainability Engineering books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Engineering+maintenance+management&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Engineering maintenance management</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

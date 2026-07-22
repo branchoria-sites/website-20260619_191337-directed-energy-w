@@ -377,7 +377,7 @@ That double benefit propagates throughout the weapon architecture, reducing dema
           <a href="https://www.amazon.com/s?k=Laser+Fundamentals+William+T.+Silfvast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser Fundamentals">Laser Fundamentals</a>
         </h4>
         <p class="fr-book-author">By William T. Silfvast</p>
-        
+
         <p class="fr-book-desc">Explains laser efficiency, energy conversion and output performance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Laser+Fundamentals+William+T.+Silfvast&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ That double benefit propagates throughout the weapon architecture, reducing dema
           <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
         </h4>
         <p class="fr-book-author">By Bahman Zohuri</p>
-        
+
         <p class="fr-book-desc">Links efficiency gains to operational effectiveness and platform requirements.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ That double benefit propagates throughout the weapon architecture, reducing dema
           <a href="https://www.amazon.com/s?k=Power+electronics+Ned+Mohan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Power electronics">Power electronics</a>
         </h4>
         <p class="fr-book-author">By Ned Mohan, William Robbins et al.</p>
-        
+
         <p class="fr-book-desc">Shows how electrical efficiency affects total system performance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Power+electronics+Ned+Mohan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +428,7 @@ That double benefit propagates throughout the weapon architecture, reducing dema
           <a href="https://www.amazon.com/s?k=High-Power+Laser+Handbook+Hagop+Injeyan+and+Gregory+Goodno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="High-Power Laser Handbook">High-Power Laser Handbook</a>
         </h4>
         <p class="fr-book-author">By Hagop Injeyan and Gregory Goodno</p>
-        
+
         <p class="fr-book-desc">Covers practical efficiency and scaling issues in high-power lasers.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=High-Power+Laser+Handbook+Hagop+Injeyan+and+Gregory+Goodno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

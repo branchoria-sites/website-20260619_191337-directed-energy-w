@@ -430,7 +430,7 @@ For readers trying to understand directed energy weapons, HELIOS is therefore a 
           <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
         </h4>
         <p class="fr-book-author">By Bahman Zohuri</p>
-        
+
         <p class="fr-book-desc">Directly addresses military laser systems and operational use.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -447,7 +447,7 @@ For readers trying to understand directed energy weapons, HELIOS is therefore a 
           <a href="https://www.amazon.com/s?k=The+Naval+Institute+guide+to+world+naval+weapons+systems+Norman+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Naval Institute guide to world naval weapons systems">The Naval Institute guide to world naval weapons systems</a>
         </h4>
         <p class="fr-book-author">By Norman Friedman</p>
-        
+
         <p class="fr-book-desc">First published 1989. Subjects: Handbooks, manuals, Weapons systems, Naval Ordnance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Naval+Institute+guide+to+world+naval+weapons+systems+Norman+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -464,7 +464,7 @@ For readers trying to understand directed energy weapons, HELIOS is therefore a 
           <a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fleet Tactics And Naval Operations, Third Edition">Fleet Tactics And Naval Operations, Third Edition</a>
         </h4>
         <p class="fr-book-author">By Wayne Hughes, Robert Girrier</p>
-        
+
         <p class="fr-book-desc">First published 2018. Subjects: Naval tactics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -481,7 +481,7 @@ For readers trying to understand directed energy weapons, HELIOS is therefore a 
           <a href="https://www.amazon.com/s?k=New+Makers+of+Modern+Strategy+Hal+Brands&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="New Makers of Modern Strategy">New Makers of Modern Strategy</a>
         </h4>
         <p class="fr-book-author">By Hal Brands, John Bew et al.</p>
-        
+
         <p class="fr-book-desc">Places emerging technologies within defense strategy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=New+Makers+of+Modern+Strategy+Hal+Brands&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

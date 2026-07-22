@@ -390,7 +390,7 @@ The economic promise of DragonFire therefore lies less in the literal £10 shot 
           <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
         </h4>
         <p class="fr-book-author">By Christian Brose</p>
-        
+
         <p class="fr-book-desc">Explains cost-exchange ratios and the economics of modern air and missile defence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,16 +401,16 @@ The economic promise of DragonFire therefore lies less in the literal £10 shot 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NyU3EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+          <a href="https://www.amazon.com/s?k=Skunk+Works+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
         </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
+        <p class="fr-book-author">By Leo Janos, Ben R. Rich</p>
+
         <p class="fr-book-desc">Provides context on defence acquisition, development costs and breakthrough military technologies.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Skunk+Works+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -424,7 +424,7 @@ The economic promise of DragonFire therefore lies less in the literal £10 shot 
           <a href="https://www.amazon.com/s?k=Effects+of+Directed+Energy+Weapons+Philip+E+Nielsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Effects of Directed Energy Weapons">Effects of Directed Energy Weapons</a>
         </h4>
         <p class="fr-book-author">By Philip E Nielsen</p>
-        
+
         <p class="fr-book-desc">Focuses on how directed-energy weapons propagate, interact with targets and achieve effects.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Effects+of+Directed+Energy+Weapons+Philip+E+Nielsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -441,7 +441,7 @@ The economic promise of DragonFire therefore lies less in the literal £10 shot 
           <a href="https://www.amazon.com/s?k=War+at+the+Speed+of+Light%3A+Directed+Energy+Weapons+and+the+Future+of+Twenty-First-Century+Warfare+Louis+A.+Del+Monte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="War at the Speed of Light: Directed Energy Weapons and the Future of Twenty-First-Century Warfare">War at the Speed of Light: Directed Energy Weapons and the Fu...</a>
         </h4>
         <p class="fr-book-author">By Louis A. Del Monte</p>
-        
+
         <p class="fr-book-desc">Directly addresses directed-energy weapons, costs, deployment and strategic implications.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=War+at+the+Speed+of+Light%3A+Directed+Energy+Weapons+and+the+Future+of+Twenty-First-Century+Warfare+Louis+A.+Del+Monte&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

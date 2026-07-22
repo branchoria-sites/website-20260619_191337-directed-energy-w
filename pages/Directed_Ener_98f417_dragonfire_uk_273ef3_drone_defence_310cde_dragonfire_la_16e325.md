@@ -380,7 +380,7 @@ The UK Ministry of Defence has accelerated DragonFire's path to operational depl
           <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
         </h4>
         <p class="fr-book-author">By Christian Brose</p>
-        
+
         <p class="fr-book-desc">Examines how modern militaries adapt to drone threats and emerging technologies that complement traditional weapons.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ The UK Ministry of Defence has accelerated DragonFire's path to operational depl
           <a href="https://www.amazon.com/s?k=The+New+Weapons+of+the+World+Encyclopedia+Diagram+Group.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The New Weapons of the World Encyclopedia">The New Weapons of the World Encyclopedia</a>
         </h4>
         <p class="fr-book-author">By Diagram Group.</p>
-        
+
         <p class="fr-book-desc">Provides context for emerging weapon technologies including directed-energy systems within wider defence ecosystems.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+New+Weapons+of+the+World+Encyclopedia+Diagram+Group.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ The UK Ministry of Defence has accelerated DragonFire's path to operational depl
           <a href="https://www.amazon.com/s?k=Stimson%27s+Introduction+to+Airborne+Radar+Hugh+D.+Griffiths&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stimson&#x27;s Introduction to Airborne Radar">Stimson&#x27;s Introduction to Airborne Radar</a>
         </h4>
         <p class="fr-book-author">By Hugh D. Griffiths, Christopher J. Baker et al.</p>
-        
+
         <p class="fr-book-desc">First published 2014. Subjects: Radar in aeronautics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Stimson%27s+Introduction+to+Airborne+Radar+Hugh+D.+Griffiths&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -431,7 +431,7 @@ The UK Ministry of Defence has accelerated DragonFire's path to operational depl
           <a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fleet Tactics And Naval Operations, Third Edition">Fleet Tactics And Naval Operations, Third Edition</a>
         </h4>
         <p class="fr-book-author">By Wayne Hughes, Robert Girrier</p>
-        
+
         <p class="fr-book-desc">First published 2018. Subjects: Naval tactics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

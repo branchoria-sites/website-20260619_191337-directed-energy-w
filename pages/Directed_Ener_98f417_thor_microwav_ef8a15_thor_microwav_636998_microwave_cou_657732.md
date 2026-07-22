@@ -375,7 +375,7 @@ As a result, independent observers can understand the general mechanism—microw
           <a href="https://www.amazon.com/s?k=Electromagnetic+compatibility+engineering+Henry+W.+Ott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Electromagnetic compatibility engineering">Electromagnetic compatibility engineering</a>
         </h4>
         <p class="fr-book-author">By Henry W. Ott</p>
-        
+
         <p class="fr-book-desc">Covers shielding, coupling, interference, and electronic vulnerability.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Electromagnetic+compatibility+engineering+Henry+W.+Ott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ As a result, independent observers can understand the general mechanism—microw
           <a href="https://www.amazon.com/s?k=Microwave+engineering+David+M.+Pozar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Microwave engineering">Microwave engineering</a>
         </h4>
         <p class="fr-book-author">By David M. Pozar</p>
-        
+
         <p class="fr-book-desc">Offers core knowledge about microwave propagation and interaction.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Microwave+engineering+David+M.+Pozar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ As a result, independent observers can understand the general mechanism—microw
           <a href="https://www.amazon.com/s?k=Introduction+to+Electronic+Warfare+Modeling+and+Simulation+David+L.+Adamy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Electronic Warfare Modeling and Simulation">Introduction to Electronic Warfare Modeling and Simulation</a>
         </h4>
         <p class="fr-book-author">By David L. Adamy</p>
-        
+
         <p class="fr-book-desc">Explains how electromagnetic energy affects electronic systems.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+Electronic+Warfare+Modeling+and+Simulation+David+L.+Adamy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ As a result, independent observers can understand the general mechanism—microw
           <a href="https://www.amazon.com/s?k=Fundamentals+of+Applied+Electromagnetics+Fawwaz+T.+Ulaby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Applied Electromagnetics">Fundamentals of Applied Electromagnetics</a>
         </h4>
         <p class="fr-book-author">By Fawwaz T. Ulaby</p>
-        
+
         <p class="fr-book-desc">Directly supports understanding of electromagnetic coupling pathways.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fundamentals+of+Applied+Electromagnetics+Fawwaz+T.+Ulaby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

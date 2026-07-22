@@ -372,30 +372,13 @@ Reflected laser light can do far more than confirm that a target has been illumi
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Laser+beam+propagation+through+random+media&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Laser beam propagation through random media on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10725665-M.jpg" alt="Cover for Laser beam propagation through random media" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Laser+beam+propagation+through+random+media&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser beam propagation through random media">Laser beam propagation through random media</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Directly addresses atmospheric distortion, beam propagation, and feedback-related correction concepts central to target-in-the-loop laser...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Laser+beam+propagation+through+random+media&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to adaptive optics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8312561-M.jpg" alt="Cover for Introduction to adaptive optics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to adaptive optics">Introduction to adaptive optics</a>
         </h4>
         <p class="fr-book-author">By Robert K. Tyson</p>
-        
+
         <p class="fr-book-desc">Explains how optical systems use feedback from observed signals to correct wavefront errors, closely matching reflected-energy aim correc...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +395,7 @@ Reflected laser light can do far more than confirm that a target has been illumi
           <a href="https://www.amazon.com/s?k=Principles+of+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Principles of adaptive optics">Principles of adaptive optics</a>
         </h4>
         <p class="fr-book-author">By Robert K. Tyson</p>
-        
+
         <p class="fr-book-desc">Covers closed-loop correction, wavefront sensing, and control methods relevant to using return signals from targets.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Principles+of+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -423,16 +406,33 @@ Reflected laser light can do far more than confirm that a target has been illumi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Photonics, 2 Volume Set on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13839810-M.jpg" alt="Cover for Fundamentals of Photonics, 2 Volume Set" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Laser+beam+propagation+through+random+media+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Laser beam propagation through random media on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10725665-M.jpg" alt="Cover for Laser beam propagation through random media" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Photonics, 2 Volume Set">Fundamentals of Photonics, 2 Volume Set</a>
+          <a href="https://www.amazon.com/s?k=Laser+beam+propagation+through+random+media+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser beam propagation through random media">Laser beam propagation through random media</a>
         </h4>
-        <p class="fr-book-author">By Bahaa E. A. Saleh, Malvin Carl Teich</p>
-        
-        <p class="fr-book-desc">First published 2019. Subjects: Photonics.</p>
+        <p class="fr-book-author">By Unknown author</p>
+
+        <p class="fr-book-desc">Directly addresses atmospheric distortion, beam propagation, and feedback-related correction concepts central to target-in-the-loop laser...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Photonics%2C+2+Volume+Set+Bahaa+E.+A.+Saleh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Laser+beam+propagation+through+random+media+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media%2C+Second+Edition+Larry+C.+Andrews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Laser Beam Propagation through Random Media, Second Edition on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media%2C+Second+Edition+Larry+C.+Andrews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser Beam Propagation through Random Media, Second Edition">Laser Beam Propagation through Random Media, Second Edition</a>
+        </h4>
+        <p class="fr-book-author">By Larry C. Andrews, Ronald L. Phillips</p>
+
+        <p class="fr-book-desc">Directly addresses atmospheric distortion, beam propagation, and feedback-related correction concepts central to target-in-the-loop laser...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media%2C+Second+Edition+Larry+C.+Andrews&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -440,7 +440,7 @@ Reflected laser light can do far more than confirm that a target has been illumi
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Laser+beam+propagation+through+random+media&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Laser beam propagation through random media</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+adaptive+optics+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to adaptive optics books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Principles+of+adaptive+optics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Principles of adaptive optics</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+adaptive+optics+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to adaptive optics books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Principles+of+adaptive+optics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Principles of adaptive optics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Laser+beam+propagation+through+random+media&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Laser beam propagation through random media</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

@@ -406,7 +406,7 @@ This is why electromagnetic compatibility assessments, modelling and environment
 <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Radar Systems">Introduction to Radar Systems</a>
 </h4>
 <p class="fr-book-author">By Merrill Ivan Skolnik</p>
-        
+
 <p class="fr-book-desc">Explains propagation, reflections, scattering and sidelobes.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -423,7 +423,7 @@ This is why electromagnetic compatibility assessments, modelling and environment
 <a href="https://www.amazon.com/s?k=Introduction+to+electromagnetic+compatibility+Clayton+R.+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to electromagnetic compatibility">Introduction to electromagnetic compatibility</a>
 </h4>
 <p class="fr-book-author">By Clayton R. Paul</p>
-        
+
 <p class="fr-book-desc">First published 1992. Subjects: Electronic circuits, Digital electronics, Noise, Shielding (Electricity), Electromagnetic compatibility.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Introduction+to+electromagnetic+compatibility+Clayton+R.+Paul&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -440,7 +440,7 @@ This is why electromagnetic compatibility assessments, modelling and environment
 <a href="https://www.amazon.com/s?k=Electromagnetic+compatibility+engineering+Henry+W.+Ott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Electromagnetic compatibility engineering">Electromagnetic compatibility engineering</a>
 </h4>
 <p class="fr-book-author">By Henry W. Ott</p>
-        
+
 <p class="fr-book-desc">First published 2009. Subjects: Electronic circuits, Noise, Electromagnetic compatibility.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Electromagnetic+compatibility+engineering+Henry+W.+Ott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -457,7 +457,7 @@ This is why electromagnetic compatibility assessments, modelling and environment
 <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
 </h4>
 <p class="fr-book-author">By Bahman Zohuri</p>
-        
+
 <p class="fr-book-desc">First published 2016. Subjects: Lasers.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

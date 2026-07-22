@@ -384,7 +384,7 @@ For friendly electronics operating near high-power microwave systems, vulnerabil
           <a href="https://www.amazon.com/s?k=Introduction+to+electromagnetic+compatibility+Clayton+R.+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to electromagnetic compatibility">Introduction to electromagnetic compatibility</a>
         </h4>
         <p class="fr-book-author">By Clayton R. Paul</p>
-        
+
         <p class="fr-book-desc">Explains how conductors act as unintended antennas.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+electromagnetic+compatibility+Clayton+R.+Paul&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ For friendly electronics operating near high-power microwave systems, vulnerabil
           <a href="https://www.amazon.com/s?k=Electromagnetic+compatibility+engineering+Henry+W.+Ott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Electromagnetic compatibility engineering">Electromagnetic compatibility engineering</a>
         </h4>
         <p class="fr-book-author">By Henry W. Ott</p>
-        
+
         <p class="fr-book-desc">Extensively covers cables, grounding, filtering and coupling paths.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Electromagnetic+compatibility+engineering+Henry+W.+Ott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ For friendly electronics operating near high-power microwave systems, vulnerabil
           <a href="https://www.amazon.com/s?k=EMC+for+product+designers+Tim+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="EMC for product designers">EMC for product designers</a>
         </h4>
         <p class="fr-book-author">By Tim Williams</p>
-        
+
         <p class="fr-book-desc">Focuses on wiring, shielding and mitigation techniques.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=EMC+for+product+designers+Tim+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -435,7 +435,7 @@ For friendly electronics operating near high-power microwave systems, vulnerabil
           <a href="https://www.amazon.com/s?k=Practical+Electromagnetic+Compatibility+Bernhard+Keiser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Electromagnetic Compatibility">Practical Electromagnetic Compatibility</a>
         </h4>
         <p class="fr-book-author">By Bernhard Keiser</p>
-        
+
         <p class="fr-book-desc">Addresses interference entering systems through conductors and interfaces.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Practical+Electromagnetic+Compatibility+Bernhard+Keiser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

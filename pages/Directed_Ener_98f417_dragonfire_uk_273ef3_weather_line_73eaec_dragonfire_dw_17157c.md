@@ -380,7 +380,7 @@ That is why DragonFire's beam director, tracking sensors and stabilisation syste
           <a href="https://www.amazon.com/s?k=Principles+of+Lasers+Orazio+Svelto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Principles of Lasers">Principles of Lasers</a>
         </h4>
         <p class="fr-book-author">By Orazio Svelto</p>
-        
+
         <p class="fr-book-desc">Covers beam behaviour and energy concentration fundamentals.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Principles+of+Lasers+Orazio+Svelto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ That is why DragonFire's beam director, tracking sensors and stabilisation syste
           <a href="https://www.amazon.com/s?k=Introduction+to+Modern+Ew+Systems+Andrea+De+Martino&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Modern Ew Systems">Introduction to Modern Ew Systems</a>
         </h4>
         <p class="fr-book-author">By Andrea De Martino</p>
-        
+
         <p class="fr-book-desc">First published 2012. Subjects: Electronics in military engineering, Electronic countermeasures, Contre-mesures électroniques, TECHNOLOGY...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+Modern+Ew+Systems+Andrea+De+Martino&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ That is why DragonFire's beam director, tracking sensors and stabilisation syste
           <a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fleet Tactics And Naval Operations, Third Edition">Fleet Tactics And Naval Operations, Third Edition</a>
         </h4>
         <p class="fr-book-author">By Wayne Hughes, Robert Girrier</p>
-        
+
         <p class="fr-book-desc">First published 2018. Subjects: Naval tactics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fleet+Tactics+And+Naval+Operations%2C+Third+Edition+Wayne+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -431,7 +431,7 @@ That is why DragonFire's beam director, tracking sensors and stabilisation syste
           <a href="https://www.amazon.com/s?k=Lasers%2C+Death+Rays%2C+and+the+Long%2C+Strange+Quest+for+the+Ultimate+Weapon+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lasers, Death Rays, and the Long, Strange Quest for the Ultimate Weapon">Lasers, Death Rays, and the Long, Strange Quest for the Ultim...</a>
         </h4>
         <p class="fr-book-author">By Jeff Hecht</p>
-        
+
         <p class="fr-book-desc">Provides understandable explanations of laser weapon challenges.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lasers%2C+Death+Rays%2C+and+the+Long%2C+Strange+Quest+for+the+Ultimate+Weapon+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

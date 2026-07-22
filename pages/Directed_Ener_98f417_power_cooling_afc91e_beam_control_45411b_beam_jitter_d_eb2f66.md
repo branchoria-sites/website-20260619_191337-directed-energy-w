@@ -375,7 +375,7 @@ In operational laser weapons, the practical measure of success is not merely how
           <a href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to adaptive optics">Introduction to adaptive optics</a>
         </h4>
         <p class="fr-book-author">By Robert K. Tyson</p>
-        
+
         <p class="fr-book-desc">Explains correction of wavefront errors and pointing disturbances that degrade energy concentration on target.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ In operational laser weapons, the practical measure of success is not merely how
           <a href="https://www.amazon.com/s?k=Principles+of+Lasers+Orazio+Svelto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Principles of Lasers">Principles of Lasers</a>
         </h4>
         <p class="fr-book-author">By Orazio Svelto</p>
-        
+
         <p class="fr-book-desc">Provides foundational understanding of laser behavior, beam characteristics, irradiance, and performance limits.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Principles+of+Lasers+Orazio+Svelto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ In operational laser weapons, the practical measure of success is not merely how
           <a href="https://www.amazon.com/s?k=Field+guide+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field guide to adaptive optics">Field guide to adaptive optics</a>
         </h4>
         <p class="fr-book-author">By Robert K. Tyson, Benjamin W. Frazier</p>
-        
+
         <p class="fr-book-desc">Addresses techniques used to mitigate beam wander, atmospheric distortion, and related stability problems.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Field+guide+to+adaptive+optics+Robert+K.+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ In operational laser weapons, the practical measure of success is not merely how
           <a href="https://www.amazon.com/s?k=Laser+Beam+Propagation+Andrew+Forbes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser Beam Propagation">Laser Beam Propagation</a>
         </h4>
         <p class="fr-book-author">By Andrew Forbes</p>
-        
+
         <p class="fr-book-desc">Directly covers beam quality, propagation, stability, and effects that influence pointing accuracy and jitter.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Laser+Beam+Propagation+Andrew+Forbes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

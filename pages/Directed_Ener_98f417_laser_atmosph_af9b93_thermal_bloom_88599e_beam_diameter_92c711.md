@@ -357,30 +357,13 @@ The benefit comes at a cost: larger apertures, more sophisticated optics, tighte
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Laser+beam+propagation+through+random+media&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Laser beam propagation through random media on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10725665-M.jpg" alt="Cover for Laser beam propagation through random media" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Laser+beam+propagation+through+random+media&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser beam propagation through random media">Laser beam propagation through random media</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Directly addresses beam spreading, atmospheric effects, turbulence, and propagation tradeoffs closely related to thermal blooming and bea...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Laser+beam+propagation+through+random+media&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Principles+of+Lasers+Orazio+Svelto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Principles of Lasers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8709531-M.jpg" alt="Cover for Principles of Lasers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Principles+of+Lasers+Orazio+Svelto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Principles of Lasers">Principles of Lasers</a>
         </h4>
         <p class="fr-book-author">By Orazio Svelto</p>
-        
+
         <p class="fr-book-desc">Explains laser physics, beam quality, focusing, and propagation concepts needed to understand why wider and narrower beams behave differe...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Principles+of+Lasers+Orazio+Svelto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,16 +374,33 @@ The benefit comes at a cost: larger apertures, more sophisticated optics, tighte
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media%2C+Second+Edition+Larry+C.+Andrews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Laser Beam Propagation through Random Media, Second Edition on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Laser+beam+propagation+through+random+media+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Laser beam propagation through random media on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10725665-M.jpg" alt="Cover for Laser beam propagation through random media" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media%2C+Second+Edition+Larry+C.+Andrews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser Beam Propagation through Random Media, Second Edition">Laser Beam Propagation through Random Media, Second Edition</a>
+          <a href="https://www.amazon.com/s?k=Laser+beam+propagation+through+random+media+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser beam propagation through random media">Laser beam propagation through random media</a>
         </h4>
-        <p class="fr-book-author">By Larry C. Andrews, Ronald L. Phillips</p>
-        
-        <p class="fr-book-desc">First published 2005.</p>
+        <p class="fr-book-author">By Unknown author</p>
+
+        <p class="fr-book-desc">Directly addresses beam spreading, atmospheric effects, turbulence, and propagation tradeoffs closely related to thermal blooming and bea...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media%2C+Second+Edition+Larry+C.+Andrews&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Laser+beam+propagation+through+random+media+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Field+Guide+to+Atmospheric+Optics+Larry+C.+Andrews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Field Guide to Atmospheric Optics on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Field+Guide+to+Atmospheric+Optics+Larry+C.+Andrews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide to Atmospheric Optics">Field Guide to Atmospheric Optics</a>
+        </h4>
+        <p class="fr-book-author">By Larry C. Andrews</p>
+
+        <p class="fr-book-desc">Covers atmospheric optical phenomena that influence laser performance, including propagation effects relevant to thermal blooming.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Field+Guide+to+Atmospheric+Optics+Larry+C.+Andrews&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -414,7 +414,7 @@ The benefit comes at a cost: larger apertures, more sophisticated optics, tighte
           <a href="https://www.amazon.com/s?k=Introduction+to+Modern+Laser+Technology+Christopher+C.+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Modern Laser Technology">Introduction to Modern Laser Technology</a>
         </h4>
         <p class="fr-book-author">By Christopher C. Davis</p>
-        
+
         <p class="fr-book-desc">Provides accessible coverage of laser beam characteristics, power density, optics, and system design considerations underlying beam-width...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+Modern+Laser+Technology+Christopher+C.+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ The benefit comes at a cost: larger apertures, more sophisticated optics, tighte
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Laser+beam+propagation+through+random+media&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Laser beam propagation through random media</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Principles+of+Lasers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Principles of Lasers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Laser+Beam+Propagation+through+Random+Media%2C+Second+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Laser Beam Propagation through Random Media, Second Edition</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Principles+of+Lasers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Principles of Lasers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Laser+beam+propagation+through+random+media&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Laser beam propagation through random media</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Field+to+Atmospheric+Optics+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Field to Atmospheric Optics books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

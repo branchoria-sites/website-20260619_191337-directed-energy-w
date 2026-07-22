@@ -409,7 +409,7 @@ For directed energy weapons, this distinction is crucial. Their promise is not t
           <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
         </h4>
         <p class="fr-book-author">By Christian Brose</p>
-        
+
         <p class="fr-book-desc">Discusses modern air and missile threats, defense economics, and the challenge of countering inexpensive systems with costly capabilities.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ For directed energy weapons, this distinction is crucial. Their promise is not t
           <a href="https://www.amazon.com/s?k=The+influence+of+sea+power+upon+history%2C+1660-1783+Alfred+Thayer+Mahan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The influence of sea power upon history, 1660-1783">The influence of sea power upon history, 1660-1783</a>
         </h4>
         <p class="fr-book-author">By Alfred Thayer Mahan</p>
-        
+
         <p class="fr-book-desc">Helps readers understand why protecting high-value fleets, trade routes, and national assets can justify expensive defensive measures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+influence+of+sea+power+upon+history%2C+1660-1783+Alfred+Thayer+Mahan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -443,7 +443,7 @@ For directed energy weapons, this distinction is crucial. Their promise is not t
           <a href="https://www.amazon.com/s?k=The+price+of+power+Hersh%2C+Seymour+M.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The price of power">The price of power</a>
         </h4>
         <p class="fr-book-author">By Hersh, Seymour M.</p>
-        
+
         <p class="fr-book-desc">Addresses the economics of defense choices and the broader costs and benefits that shape procurement and protection decisions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+price+of+power+Hersh%2C+Seymour+M.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -460,7 +460,7 @@ For directed energy weapons, this distinction is crucial. Their promise is not t
           <a href="https://www.amazon.com/s?k=Strategy+Lawrence+Freedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Strategy">Strategy</a>
         </h4>
         <p class="fr-book-author">By Lawrence Freedman</p>
-        
+
         <p class="fr-book-desc">First published 2013. Subjects: Military history, Strategic planning, Strategy, Strategic culture, History.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Strategy+Lawrence+Freedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

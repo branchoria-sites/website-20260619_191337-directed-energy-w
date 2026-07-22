@@ -425,7 +425,7 @@ As drone payloads become more diverse, a wavelength optimised against one camera
 <a href="https://www.amazon.com/s?k=Springer+Handbook+of+Lasers+and+Optics+Frank+Tr%C3%A4ger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Springer Handbook of Lasers and Optics">Springer Handbook of Lasers and Optics</a>
 </h4>
 <p class="fr-book-author">By Frank Träger</p>
-        
+
 <p class="fr-book-desc">First published 2007. Subjects: Optics, Lasers, Handbooks, manuals.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Springer+Handbook+of+Lasers+and+Optics+Frank+Tr%C3%A4ger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -442,7 +442,7 @@ As drone payloads become more diverse, a wavelength optimised against one camera
 <a href="https://www.amazon.com/s?k=Laser+Fundamentals+William+T.+Silfvast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser Fundamentals">Laser Fundamentals</a>
 </h4>
 <p class="fr-book-author">By William T. Silfvast</p>
-        
+
 <p class="fr-book-desc">First published 2004. Subjects: Lasers, Ta1675 .s52 2004, 621.36/6.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Laser+Fundamentals+William+T.+Silfvast&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -459,7 +459,7 @@ As drone payloads become more diverse, a wavelength optimised against one camera
 <a href="https://www.amazon.com/s?k=Lasers+and+electro-optics+Christopher+C.+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lasers and electro-optics">Lasers and electro-optics</a>
 </h4>
 <p class="fr-book-author">By Christopher C. Davis</p>
-        
+
 <p class="fr-book-desc">First published 1996. Subjects: Electrooptics, Lasers.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Lasers+and+electro-optics+Christopher+C.+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -476,7 +476,7 @@ As drone payloads become more diverse, a wavelength optimised against one camera
 <a href="https://www.amazon.com/s?k=Laser+Systems+Engineering+Keith+J.+Kasunic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser Systems Engineering">Laser Systems Engineering</a>
 </h4>
 <p class="fr-book-author">By Keith J. Kasunic</p>
-        
+
 <p class="fr-book-desc">First published 2016.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Laser+Systems+Engineering+Keith+J.+Kasunic&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

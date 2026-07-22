@@ -386,7 +386,7 @@ The effectiveness of these zones depends on accurate knowledge of friendly posit
           <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
         </h4>
         <p class="fr-book-author">By Christian Brose</p>
-        
+
         <p class="fr-book-desc">Frames how connected battlefield systems complicate weapon employment and operational risk management.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ The effectiveness of these zones depends on accurate knowledge of friendly posit
           <a href="https://www.amazon.com/s?k=Introduction+to+Electronic+Defense+Systems+Filippo+Neri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Electronic Defense Systems">Introduction to Electronic Defense Systems</a>
         </h4>
         <p class="fr-book-author">By Filippo Neri</p>
-        
+
         <p class="fr-book-desc">Explains electronic attack and protection concepts that drive separation and safe-zone planning.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+Electronic+Defense+Systems+Filippo+Neri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ The effectiveness of these zones depends on accurate knowledge of friendly posit
           <a href="https://www.amazon.com/s?k=Understanding+Modern+Warfare+David+Jordan+-+undifferentiated&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Modern Warfare">Understanding Modern Warfare</a>
         </h4>
         <p class="fr-book-author">By David Jordan - undifferentiated, James D. Kiras et al.</p>
-        
+
         <p class="fr-book-desc">Explains layered operations, air defence, and force protection in crowded battlespaces.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Understanding+Modern+Warfare+David+Jordan+-+undifferentiated&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

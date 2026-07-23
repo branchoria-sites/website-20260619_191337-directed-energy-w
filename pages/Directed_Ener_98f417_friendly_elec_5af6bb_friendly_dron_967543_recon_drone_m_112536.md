@@ -374,6 +374,23 @@ The consequence is a recurring tactical dilemma: firing the microwave weapon may
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain%3A+Defending+America+in+the+Future+of+High-Tech+Warfare+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain: Defending America in the Future of High-Tech Warfare on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain: Defending America in the Future of High-Tech Warfare" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Kill+Chain%3A+Defending+America+in+the+Future+of+High-Tech+Warfare+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain: Defending America in the Future of High-Tech Warfare">The Kill Chain: Defending America in the Future of High-Tech...</a>
+        </h4>
+        <p class="fr-book-author">By Christian Brose</p>
+
+        <p class="fr-book-desc">Covers missile warfare, emerging threats, attrition, and the challenge of affordable mass against expensive legacy systems.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Kill+Chain%3A+Defending+America+in+the+Future+of+High-Tech+Warfare+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+electromagnetic+compatibility+Clayton+R.+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to electromagnetic compatibility on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1250642-M.jpg" alt="Cover for Introduction to electromagnetic compatibility" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
@@ -391,16 +408,16 @@ The consequence is a recurring tactical dilemma: firing the microwave weapon may
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyes+in+the+Sky+Arthur+Holland+Michel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyes in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10096464-M.jpg" alt="Cover for Eyes in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyes+in+the+Sky%3A+The+Secret+Rise+of+Gorgon+Stare+and+How+It+Will+Watch+Us+All+Arthur+Holland+Michel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyes in the Sky: The Secret Rise of Gorgon Stare and How It Will Watch Us All on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10096464-M.jpg" alt="Cover for Eyes in the Sky: The Secret Rise of Gorgon Stare and How It Will Watch Us All" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Eyes+in+the+Sky+Arthur+Holland+Michel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyes in the Sky">Eyes in the Sky</a>
+          <a href="https://www.amazon.com/s?k=Eyes+in+the+Sky%3A+The+Secret+Rise+of+Gorgon+Stare+and+How+It+Will+Watch+Us+All+Arthur+Holland+Michel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyes in the Sky: The Secret Rise of Gorgon Stare and How It Will Watch Us All">Eyes in the Sky: The Secret Rise of Gorgon Stare and How It W...</a>
         </h4>
         <p class="fr-book-author">By Arthur Holland Michel, L.J. Ganser</p>
 
         <p class="fr-book-desc">Highlights the operational value of airborne surveillance and consequences of losing it.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Eyes+in+the+Sky+Arthur+Holland+Michel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Eyes+in+the+Sky%3A+The+Secret+Rise+of+Gorgon+Stare+and+How+It+Will+Watch+Us+All+Arthur+Holland+Michel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -408,33 +425,16 @@ The consequence is a recurring tactical dilemma: firing the microwave weapon may
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drones%3A+What+Everyone+Needs+to+Know+Sarah+E.+Kreps&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drones: What Everyone Needs to Know on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12991838-M.jpg" alt="Cover for Drones: What Everyone Needs to Know" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
-
-        <p class="fr-book-desc">From a former senior advisor to Senator John McCain comes an urgent wake-up call about how new technologies are threatening America&#x27;s mil...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drones+Sarah+E.+Kreps&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drones on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12991838-M.jpg" alt="Cover for Drones" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drones+Sarah+E.+Kreps&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drones">Drones</a>
+          <a href="https://www.amazon.com/s?k=Drones%3A+What+Everyone+Needs+to+Know+Sarah+E.+Kreps&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drones: What Everyone Needs to Know">Drones: What Everyone Needs to Know</a>
         </h4>
         <p class="fr-book-author">By Sarah E. Kreps</p>
 
-        <p class="fr-book-desc">First published 2016. Subjects: Drone aircraft, Air warfare, Military art and science.</p>
+        <p class="fr-book-desc">Provides context on military drone roles, including reconnaissance missions.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drones+Sarah+E.+Kreps&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Drones%3A+What+Everyone+Needs+to+Know+Sarah+E.+Kreps&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -442,7 +442,7 @@ The consequence is a recurring tactical dilemma: firing the microwave weapon may
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+electromagnetic+compatibility+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to electromagnetic compatibility books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyes+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyes in the Sky</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain%3A+Defending+America+in+the+Future+of+High+Tech+Warfare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain: Defending America in the Future of High Tech Warfare</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+electromagnetic+compatibility+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to electromagnetic compatibility books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyes+in+the+Sky%3A+The+Secret+Rise+of+Gorgon+Stare+and+How+It+Will+Watch+Us+All&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyes in the Sky: The Secret Rise of Gorgon Stare and How It Will Watch Us All</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

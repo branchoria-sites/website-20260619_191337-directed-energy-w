@@ -212,6 +212,93 @@ site_image_description: A naval defensive system tracks a small drone over the s
 </div>
 </section>
 
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="homepage-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="homepage-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">The books behind the reports on this site — directed energy, autonomous weapons, and the engineering culture that builds them. Each report carries picks tied to its own subject.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+          <a class="fr-book-cover" href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Directed Energy Weapons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9456146-M.jpg" alt="Cover for Directed Energy Weapons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+          <div class="fr-book-info">
+            <h4 class="fr-book-title">
+              <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Directed Energy Weapons">Directed Energy Weapons</a>
+            </h4>
+            <p class="fr-book-author">By Bahman Zohuri</p>
+
+            <p class="fr-book-desc">Offers broader context for one-shot, multi-target defense concepts.</p>
+            <div class="fr-book-actions">
+              <a href="https://www.amazon.com/s?k=Directed+Energy+Weapons+Bahman+Zohuri&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+                See on Amazon
+              </a>
+            </div>
+          </div>
+        </article>
+
+    <article class="fr-book-card">
+          <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warfare+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warfare on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e2vnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warfare" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+          <div class="fr-book-info">
+            <h4 class="fr-book-title">
+              <a href="https://www.amazon.com/s?k=Drone+Warfare+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warfare">Drone Warfare</a>
+            </h4>
+            <p class="fr-book-author">By Medea Benjamin</p>
+
+            <p class="fr-book-desc">Adds operational context for layered defenses and swarm countermeasures.</p>
+            <div class="fr-book-actions">
+              <a href="https://www.amazon.com/s?k=Drone+Warfare+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+                See on Amazon
+              </a>
+            </div>
+          </div>
+        </article>
+
+    <article class="fr-book-card">
+          <a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+          <div class="fr-book-info">
+            <h4 class="fr-book-title">
+              <a href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
+            </h4>
+            <p class="fr-book-author">By Paul Scharre</p>
+
+            <p class="fr-book-desc">Discusses scaling challenges posed by autonomous and swarm systems.</p>
+            <div class="fr-book-actions">
+              <a href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+                See on Amazon
+              </a>
+            </div>
+          </div>
+        </article>
+
+    <article class="fr-book-card">
+          <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NyU3EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+          <div class="fr-book-info">
+            <h4 class="fr-book-title">
+              <a href="https://www.amazon.com/s?k=Skunk+Works+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+            </h4>
+            <p class="fr-book-author">By Leo Janos, Ben R. Rich</p>
+
+            <p class="fr-book-desc">Illustrates how defense programs often limit disclosure of technical details.</p>
+            <div class="fr-book-actions">
+              <a href="https://www.amazon.com/s?k=Skunk+Works+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+                See on Amazon
+              </a>
+            </div>
+          </div>
+        </article>
+
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=directed+energy+weapons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Directed energy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=autonomous+drones+warfare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone warfare</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=military+technology+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Military tech</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases. <a class="fr-disclosure-link" href="https://branchoria.com/disclosure/">Affiliate &amp; AI Disclosure</a></p>
+    </div>
+  </div>
+</section>
+
 </div>
 </section>
 

@@ -8,826 +8,826 @@ sidebar_generated:
     url: /atmosphere/
     children:
     - title: Beam Control
-      title_full: How Much Can Beam Control Fix? | Directed Ener 98 f417 laser atmosph
+      title_full: How Much Can Beam Control Fix? | Why Bad Weather Matters for Laser Weapons | Directed Ener
       url: /beam-control/
       children:
       - title: Blooming Limits
-        title_full: Why Self Heated Air Still Defeats Smart Mirrors | Directed Ener 98 f417 laser atmosph af 9 b93 adaptive opti
+        title_full: Why Self Heated Air Still Defeats Smart Mirrors | How Much Can Beam Control Fix? | Why Bad Weather Matters for Laser Weapons | Directed Ener
         url: /blooming-limits/
       - title: Lost Energy
-        title_full: Why Better Beam Shape Cannot Beat Lost Energy | Directed Ener 98 f417 laser atmosph af 9 b93 adaptive opti
+        title_full: Why Better Beam Shape Cannot Beat Lost Energy | How Much Can Beam Control Fix? | Why Bad Weather Matters for Laser Weapons | Directed Ener
         url: /lost-energy/
       - title: Target Beacons
-        title_full: How Lasers Read the Air Before They Fire | Directed Ener 98 f417 laser atmosph af 9 b93 adaptive opti
+        title_full: How Lasers Read the Air Before They Fire | How Much Can Beam Control Fix? | Why Bad Weather Matters for Laser Weapons | Directed Ener
         url: /target-beacons/
     - title: Blooming
-      title_full: When a Laser Gets in Its Own Way | Directed Ener 98 f417 laser atmosph
+      title_full: When a Laser Gets in Its Own Way | Why Bad Weather Matters for Laser Weapons | Directed Ener
       url: /blooming/
       children:
       - title: Beam Size
-        title_full: Can a Wider Beam Beat Thermal Blooming? | Directed Ener 98 f417 laser atmosph af 9 b93 thermal bloom
+        title_full: Can a Wider Beam Beat Thermal Blooming? | When a Laser Gets in Its Own Way | Why Bad Weather Matters for Laser Weapons | Directed Ener
         url: /beam-size/
       - title: Crosswinds
-        title_full: When Wind Helps a Laser Stay Focused | Directed Ener 98 f417 laser atmosph af 9 b93 thermal bloom
+        title_full: When Wind Helps a Laser Stay Focused | When a Laser Gets in Its Own Way | Why Bad Weather Matters for Laser Weapons | Directed Ener
         url: /crosswinds/
       - title: Head On Shots
-        title_full: Why Head On Targets Can Make Lasers Bloom | Directed Ener 98 f417 laser atmosph af 9 b93 thermal bloom
+        title_full: Why Head On Targets Can Make Lasers Bloom | When a Laser Gets in Its Own Way | Why Bad Weather Matters for Laser Weapons | Directed Ener
         url: /head-on-shots/
     - title: Dwell Time
-      title_full: Seeing the Target Is Only Step One | Directed Ener 98 f417 laser atmosph
+      title_full: Seeing the Target Is Only Step One | Why Bad Weather Matters for Laser Weapons | Directed Ener
       url: /dwell-time/
       children:
       - title: Dragon Fire
-        title_full: What Dragon Fire Reveals About Laser Precision | Directed Ener 98 f417 laser atmosph af 9 b93 line of sight
+        title_full: What Dragon Fire Reveals About Laser Precision | Seeing the Target Is Only Step One | Why Bad Weather Matters for Laser Weapons | Directed Ener
         url: /dragon-fire-3eb328/
       - title: Dwell Time
-        title_full: Why Speed of Light Shots Still Need Time | Directed Ener 98 f417 laser atmosph af 9 b93 line of sight
+        title_full: Why Speed of Light Shots Still Need Time | Seeing the Target Is Only Step One | Why Bad Weather Matters for Laser Weapons | Directed Ener
         url: /dwell-time-3969ca/
       - title: Moving Targets
-        title_full: Why Moving Drones Are Hard Laser Targets | Directed Ener 98 f417 laser atmosph af 9 b93 line of sight
+        title_full: Why Moving Drones Are Hard Laser Targets | Seeing the Target Is Only Step One | Why Bad Weather Matters for Laser Weapons | Directed Ener
         url: /moving-targets/
     - title: Fog Range
-      title_full: Why Fog Can Beat a Laser Beam | Directed Ener 98 f417 laser atmosph
+      title_full: Why Fog Can Beat a Laser Beam | Why Bad Weather Matters for Laser Weapons | Directed Ener
       url: /fog-range/
       children:
       - title: Beam Control
-        title_full: Can Technology Beat Foggy Laser Weather? | Directed Ener 98 f417 laser atmosph af 9 b93 fog laser ran
+        title_full: Can Technology Beat Foggy Laser Weather? | Why Fog Can Beat a Laser Beam | Why Bad Weather Matters for Laser Weapons | Directed Ener
         url: /beam-control-6ba0db/
       - title: Fog Droplets
-        title_full: Which Fog Hurts Laser Range Most? | Directed Ener 98 f417 laser atmosph af 9 b93 fog laser ran
+        title_full: Which Fog Hurts Laser Range Most? | Why Fog Can Beat a Laser Beam | Why Bad Weather Matters for Laser Weapons | Directed Ener
         url: /fog-droplets/
       - title: Visible Targets
-        title_full: Why Seeing a Target Is Not Enough | Directed Ener 98 f417 laser atmosph af 9 b93 fog laser ran
+        title_full: Why Seeing a Target Is Not Enough | Why Fog Can Beat a Laser Beam | Why Bad Weather Matters for Laser Weapons | Directed Ener
         url: /visible-targets/
     - title: Sea Spray
-      title_full: Can Ship Lasers Fight Through Sea Spray? | Directed Ener 98 f417 laser atmosph
+      title_full: Can Ship Lasers Fight Through Sea Spray? | Why Bad Weather Matters for Laser Weapons | Directed Ener
       url: /sea-spray/
       children:
       - title: Fog vs Rain
-        title_full: Why Fog Beats Rain Against Ship Lasers | Directed Ener 98 f417 laser atmosph af 9 b93 sea spray nav
+        title_full: Why Fog Beats Rain Against Ship Lasers | Can Ship Lasers Fight Through Sea Spray? | Why Bad Weather Matters for Laser Weapons | Directed Ener
         url: /fog-vs-rain/
       - title: Range Limits
-        title_full: How Bad Weather Shrinks Laser Range | Directed Ener 98 f417 laser atmosph af 9 b93 sea spray nav
+        title_full: How Bad Weather Shrinks Laser Range | Can Ship Lasers Fight Through Sea Spray? | Why Bad Weather Matters for Laser Weapons | Directed Ener
         url: /range-limits/
       - title: Sea Spray
-        title_full: The Invisible Spray Problem for Naval Lasers | Directed Ener 98 f417 laser atmosph af 9 b93 sea spray nav
+        title_full: The Invisible Spray Problem for Naval Lasers | Can Ship Lasers Fight Through Sea Spray? | Why Bad Weather Matters for Laser Weapons | Directed Ener
         url: /sea-spray-845f75/
   - title: Defence Layer
-    title_full: Why Directed Energy Will Not Replace Missiles
+    title_full: Why Directed Energy Will Not Replace Missiles | Directed Ener
     url: /defence-layer/
     children:
     - title: A Laser Can Be The Cheapest Shot In An Air...
-      title_full: When Is a Laser the Wrong Shot? | Directed Ener 98 f417 defensive lay
+      title_full: When Is a Laser the Wrong Shot? | Why Directed Energy Will Not Replace Missiles | Directed Ener
       url: /a-laser-can-be-the-cheapest-shot-in-an/
       children:
       - title: Cruise Missiles
-        title_full: Why Cruise Missiles Still Get Missiles | Directed Ener 98 f417 defensive lay f8 da 0 e laser missile
+        title_full: Why Cruise Missiles Still Get Missiles | When Is a Laser the Wrong Shot? | Why Directed Energy Will Not Replace Missiles | Directed Ener
         url: /cruise-missiles/
       - title: Layered Defence
-        title_full: How Lasers Save Missiles for Later | Directed Ener 98 f417 defensive lay f8 da 0 e laser missile
+        title_full: How Lasers Save Missiles for Later | When Is a Laser the Wrong Shot? | Why Directed Energy Will Not Replace Missiles | Directed Ener
         url: /layered-defence-8ddb35/
       - title: Weather Risk
-        title_full: When Bad Weather Beats a Laser | Directed Ener 98 f417 defensive lay f8 da 0 e laser missile
+        title_full: When Bad Weather Beats a Laser | When Is a Laser the Wrong Shot? | Why Directed Energy Will Not Replace Missiles | Directed Ener
         url: /weather-risk/
     - title: Base Defence
-      title_full: Why Bases May Get Lasers First | Directed Ener 98 f417 defensive lay
+      title_full: Why Bases May Get Lasers First | Why Directed Energy Will Not Replace Missiles | Directed Ener
       url: /base-defence/
       children:
       - title: Cheap Shots
-        title_full: Can Lasers Make Drone Defence Affordable? | Directed Ener 98 f417 defensive lay f8 da 0 e fixed base
+        title_full: Can Lasers Make Drone Defence Affordable? | Why Bases May Get Lasers First | Why Directed Energy Will Not Replace Missiles | Directed Ener
         url: /cheap-shots/
       - title: Defence Network
-        title_full: Why A Laser Is Not The Whole Defence | Directed Ener 98 f417 defensive lay f8 da 0 e fixed base
+        title_full: Why A Laser Is Not The Whole Defence | Why Bases May Get Lasers First | Why Directed Energy Will Not Replace Missiles | Directed Ener
         url: /defence-network/
       - title: Mobile Limits
-        title_full: Why Battlefield Lasers Are Hard To Keep Running | Directed Ener 98 f417 defensive lay f8 da 0 e fixed base
+        title_full: Why Battlefield Lasers Are Hard To Keep Running | Why Bases May Get Lasers First | Why Directed Energy Will Not Replace Missiles | Directed Ener
         url: /mobile-limits/
     - title: Kill Check
-      title_full: How Do You Know the Beam Worked? | Directed Ener 98 f417 defensive lay
+      title_full: How Do You Know the Beam Worked? | Why Directed Energy Will Not Replace Missiles | Directed Ener
       url: /kill-check/
       children:
       - title: Flight Clues
-        title_full: When a Damaged Drone Still Looks Alive | Directed Ener 98 f417 defensive lay f8 da 0 e silent beam
+        title_full: When a Damaged Drone Still Looks Alive | How Do You Know the Beam Worked? | Why Directed Energy Will Not Replace Missiles | Directed Ener
         url: /flight-clues/
       - title: Handoff Choice
-        title_full: When Should Defenders Fire the Next Weapon? | Directed Ener 98 f417 defensive lay f8 da 0 e silent beam
+        title_full: When Should Defenders Fire the Next Weapon? | How Do You Know the Beam Worked? | Why Directed Energy Will Not Replace Missiles | Directed Ener
         url: /handoff-choice/
       - title: Microwave Check
-        title_full: Did the Microwave Stop the Drone for Good? | Directed Ener 98 f417 defensive lay f8 da 0 e silent beam
+        title_full: Did the Microwave Stop the Drone for Good? | How Do You Know the Beam Worked? | Why Directed Energy Will Not Replace Missiles | Directed Ener
         url: /microwave-check/
     - title: Microwave Risk
-      title_full: The Swarm Weapon That Cannot Be Too Broad | Directed Ener 98 f417 defensive lay
+      title_full: The Swarm Weapon That Cannot Be Too Broad | Why Directed Energy Will Not Replace Missiles | Directed Ener
       url: /microwave-risk/
       children:
       - title: Fire Rules
-        title_full: Who Decides When a Microwave Weapon Fires? | Directed Ener 98 f417 defensive lay f8 da 0 e microwave swa
+        title_full: Who Decides When a Microwave Weapon Fires? | The Swarm Weapon That Cannot Be Too Broad | Why Directed Energy Will Not Replace Missiles | Directed Ener
         url: /fire-rules/
       - title: Friendly Risk
-        title_full: What Else Gets Hit by a Microwave Weapon? | Directed Ener 98 f417 defensive lay f8 da 0 e microwave swa
+        title_full: What Else Gets Hit by a Microwave Weapon? | The Swarm Weapon That Cannot Be Too Broad | Why Directed Energy Will Not Replace Missiles | Directed Ener
         url: /friendly-risk/
       - title: One Shot
-        title_full: Can One Microwave Shot Stop a Swarm? | Directed Ener 98 f417 defensive lay f8 da 0 e microwave swa
+        title_full: Can One Microwave Shot Stop a Swarm? | The Swarm Weapon That Cannot Be Too Broad | Why Directed Energy Will Not Replace Missiles | Directed Ener
         url: /one-shot/
     - title: Sensor Chain
-      title_full: The Beam Is Only Half the Weapon | Directed Ener 98 f417 defensive lay
+      title_full: The Beam Is Only Half the Weapon | Why Directed Energy Will Not Replace Missiles | Directed Ener
       url: /sensor-chain/
       children:
       - title: Drone Detection
-        title_full: Why Tiny Drones Beat Big Sensors | Directed Ener 98 f417 defensive lay f8 da 0 e sensor chain
+        title_full: Why Tiny Drones Beat Big Sensors | The Beam Is Only Half the Weapon | Why Directed Energy Will Not Replace Missiles | Directed Ener
         url: /drone-detection/
       - title: Sensor Fusion
-        title_full: How Lasers Find One Target in Clutter | Directed Ener 98 f417 defensive lay f8 da 0 e sensor chain
+        title_full: How Lasers Find One Target in Clutter | The Beam Is Only Half the Weapon | Why Directed Energy Will Not Replace Missiles | Directed Ener
         url: /sensor-fusion/
       - title: Swarm Saturation
-        title_full: Can Laser Defences Think Fast Enough? | Directed Ener 98 f417 defensive lay f8 da 0 e sensor chain
+        title_full: Can Laser Defences Think Fast Enough? | The Beam Is Only Half the Weapon | Why Directed Energy Will Not Replace Missiles | Directed Ener
         url: /swarm-saturation/
   - title: Dragon Fire
     title_full: What Dragon Fire Reveals About Battlefield Lasers | Directed Ener
     url: /dragon-fire/
     children:
     - title: Drone Defence
-      title_full: Can Dragon Fire Change Drone Defence? | Directed Ener 98 f417 dragonfire
+      title_full: Can Dragon Fire Change Drone Defence? | What Dragon Fire Reveals About Battlefield Lasers | Directed Ener
       url: /drone-defence/
       children:
       - title: 650 Km H
-        title_full: Did High Speed Drone Kills Prove Combat Readiness? | Directed Ener 98 f417 dragonfire UK 273 ef 3 drone defence
+        title_full: Did High Speed Drone Kills Prove Combat Readiness? | Can Dragon Fire Change Drone Defence? | What Dragon Fire Reveals About Battlefield Lasers | Directed Ener
         url: /650-km-h/
       - title: Layered Defence
-        title_full: Where Does Dragon Fire Fit in Naval Defence? | Directed Ener 98 f417 dragonfire UK 273 ef 3 drone defence
+        title_full: Where Does Dragon Fire Fit in Naval Defence? | Can Dragon Fire Change Drone Defence? | What Dragon Fire Reveals About Battlefield Lasers | Directed Ener
         url: /layered-defence-b6d947/
       - title: Missile Savings
-        title_full: Can Cheap Laser Shots Preserve Expensive Missiles? | Directed Ener 98 f417 dragonfire UK 273 ef 3 drone defence
+        title_full: Can Cheap Laser Shots Preserve Expensive Missiles? | Can Dragon Fire Change Drone Defence? | What Dragon Fire Reveals About Battlefield Lasers | Directed Ener
         url: /missile-savings/
     - title: Hebrides Trials
-      title_full: Why the Hebrides Laser Trials Mattered | Directed Ener 98 f417 dragonfire
+      title_full: Why the Hebrides Laser Trials Mattered | What Dragon Fire Reveals About Battlefield Lasers | Directed Ener
       url: /hebrides-trials/
       children:
       - title: Engagement Chain
-        title_full: The Hard Part Was Not Just Firing the Laser | Directed Ener 98 f417 dragonfire UK 273 ef 3 hebrides tria
+        title_full: The Hard Part Was Not Just Firing the Laser | Why the Hebrides Laser Trials Mattered | What Dragon Fire Reveals About Battlefield Lasers | Directed Ener
         url: /engagement-chain/
       - title: Hebrides Test
-        title_full: When Dragon Fire Became More Than a Lab Laser | Directed Ener 98 f417 dragonfire UK 273 ef 3 hebrides tria
+        title_full: When Dragon Fire Became More Than a Lab Laser | Why the Hebrides Laser Trials Mattered | What Dragon Fire Reveals About Battlefield Lasers | Directed Ener
         url: /hebrides-test/
       - title: Open Questions
-        title_full: What the Dragon Fire Trial Did Not Prove | Directed Ener 98 f417 dragonfire UK 273 ef 3 hebrides tria
+        title_full: What the Dragon Fire Trial Did Not Prove | Why the Hebrides Laser Trials Mattered | What Dragon Fire Reveals About Battlefield Lasers | Directed Ener
         url: /open-questions/
     - title: Laser Limits
-      title_full: What Can Stop a Shipboard Laser? | Directed Ener 98 f417 dragonfire
+      title_full: What Can Stop a Shipboard Laser? | What Dragon Fire Reveals About Battlefield Lasers | Directed Ener
       url: /laser-limits/
       children:
       - title: Dwell Time
-        title_full: The Seconds That Decide a Laser Kill | Directed Ener 98 f417 dragonfire UK 273 ef 3 weather line
+        title_full: The Seconds That Decide a Laser Kill | What Can Stop a Shipboard Laser? | What Dragon Fire Reveals About Battlefield Lasers | Directed Ener
         url: /dwell-time-eb4cb1/
       - title: Fog and Spray
-        title_full: When Bad Weather Shortens a Laser Shot | Directed Ener 98 f417 dragonfire UK 273 ef 3 weather line
+        title_full: When Bad Weather Shortens a Laser Shot | What Can Stop a Shipboard Laser? | What Dragon Fire Reveals About Battlefield Lasers | Directed Ener
         url: /fog-and-spray/
       - title: Horizon Limit
-        title_full: Why Lasers Cannot Shoot Past the Horizon | Directed Ener 98 f417 dragonfire UK 273 ef 3 weather line
+        title_full: Why Lasers Cannot Shoot Past the Horizon | What Can Stop a Shipboard Laser? | What Dragon Fire Reveals About Battlefield Lasers | Directed Ener
         url: /horizon-limit/
     - title: Shot Cost
-      title_full: Is Dragon Fire Really Cheap to Fire? | Directed Ener 98 f417 dragonfire
+      title_full: Is Dragon Fire Really Cheap to Fire? | What Dragon Fire Reveals About Battlefield Lasers | Directed Ener
       url: /shot-cost-c8169f/
       children:
       - title: 10 Shot
-        title_full: What Does a £10 Laser Shot Actually Mean? | Directed Ener 98 f417 dragonfire UK 273 ef 3 shot cost tra
+        title_full: What Does a £10 Laser Shot Actually Mean? | Is Dragon Fire Really Cheap to Fire? | What Dragon Fire Reveals About Battlefield Lasers | Directed Ener
         url: /10-shot/
       - title: Programme Cost
-        title_full: Why Is a Cheap Laser So Expensive? | Directed Ener 98 f417 dragonfire UK 273 ef 3 shot cost tra
+        title_full: Why Is a Cheap Laser So Expensive? | Is Dragon Fire Really Cheap to Fire? | What Dragon Fire Reveals About Battlefield Lasers | Directed Ener
         url: /programme-cost/
       - title: Real Savings
-        title_full: When Do Cheap Laser Shots Pay Off? | Directed Ener 98 f417 dragonfire UK 273 ef 3 shot cost tra
+        title_full: When Do Cheap Laser Shots Pay Off? | Is Dragon Fire Really Cheap to Fire? | What Dragon Fire Reveals About Battlefield Lasers | Directed Ener
         url: /real-savings/
     - title: Type 45 Fit
-      title_full: What Happens When Dragon Fire Goes to Sea? | Directed Ener 98 f417 dragonfire
+      title_full: What Happens When Dragon Fire Goes to Sea? | What Dragon Fire Reveals About Battlefield Lasers | Directed Ener
       url: /type-45-fit/
       children:
       - title: Combat Choices
-        title_full: When Would a Type 45 Fire Dragon Fire | Directed Ener 98 f417 dragonfire UK 273 ef 3 type 45 integr
+        title_full: When Would a Type 45 Fire Dragon Fire | What Happens When Dragon Fire Goes to Sea? | What Dragon Fire Reveals About Battlefield Lasers | Directed Ener
         url: /combat-choices/
       - title: Sea Conditions
-        title_full: Can Dragon Fire Work on a Moving Warship | Directed Ener 98 f417 dragonfire UK 273 ef 3 type 45 integr
+        title_full: Can Dragon Fire Work on a Moving Warship | What Happens When Dragon Fire Goes to Sea? | What Dragon Fire Reveals About Battlefield Lasers | Directed Ener
         url: /sea-conditions/
       - title: Why Type 45
-        title_full: Why Dragon Fire Is Going to a Type 45 | Directed Ener 98 f417 dragonfire UK 273 ef 3 type 45 integr
+        title_full: Why Dragon Fire Is Going to a Type 45 | What Happens When Dragon Fire Goes to Sea? | What Dragon Fire Reveals About Battlefield Lasers | Directed Ener
         url: /why-type-45/
   - title: Electronics Risk
     title_full: When Counter Drone Energy Hits the Wrong Electronics | Directed Ener
     url: /electronics-risk/
     children:
     - title: Airbase Zones
-      title_full: How Safe Is a Microwave Shot Near Aircraft? | Directed Ener 98 f417 friendly elec
+      title_full: How Safe Is a Microwave Shot Near Aircraft? | When Counter Drone Energy Hits the Wrong Electronics | Directed Ener
       url: /airbase-zones/
       children:
       - title: Aircraft Risk
-        title_full: When Aircraft Movement Makes Microwave Shots Unsafe | Directed Ener 98 f417 friendly elec 5 af 6 bb airbase exclu
+        title_full: When Aircraft Movement Makes Microwave Shots Unsafe | How Safe Is a Microwave Shot Near Aircraft? | When Counter Drone Energy Hits the Wrong Electronics | Directed Ener
         url: /aircraft-risk/
       - title: Sector Control
-        title_full: How Airbases Clear Microwave Firing Zones | Directed Ener 98 f417 friendly elec 5 af 6 bb airbase exclu
+        title_full: How Airbases Clear Microwave Firing Zones | How Safe Is a Microwave Shot Near Aircraft? | When Counter Drone Energy Hits the Wrong Electronics | Directed Ener
         url: /sector-control/
       - title: Swarm Problem
-        title_full: Why Swarms Complicate Microwave Safety Zones | Directed Ener 98 f417 friendly elec 5 af 6 bb airbase exclu
+        title_full: Why Swarms Complicate Microwave Safety Zones | How Safe Is a Microwave Shot Near Aircraft? | When Counter Drone Energy Hits the Wrong Electronics | Directed Ener
         url: /swarm-problem/
     - title: Airport Safety
-      title_full: Can Airports Use Directed Energy Safely? | Directed Ener 98 f417 friendly elec
+      title_full: Can Airports Use Directed Energy Safely? | When Counter Drone Energy Hits the Wrong Electronics | Directed Ener
       url: /airport-safety/
       children:
       - title: Detection First
-        title_full: Why Airports Often Detect Before They Disable | Directed Ener 98 f417 friendly elec 5 af 6 bb airport navig
+        title_full: Why Airports Often Detect Before They Disable | Can Airports Use Directed Energy Safely? | When Counter Drone Energy Hits the Wrong Electronics | Directed Ener
         url: /detection-first/
       - title: Gatwick Lesson
-        title_full: What Gatwick Taught Airports About Drone Uncertainty | Directed Ener 98 f417 friendly elec 5 af 6 bb airport navig
+        title_full: What Gatwick Taught Airports About Drone Uncertainty | Can Airports Use Directed Energy Safely? | When Counter Drone Energy Hits the Wrong Electronics | Directed Ener
         url: /gatwick-lesson/
       - title: Jamming Risk
-        title_full: Why Jamming a Drone Can Risk a Runway | Directed Ener 98 f417 friendly elec 5 af 6 bb airport navig
+        title_full: Why Jamming a Drone Can Risk a Runway | Can Airports Use Directed Energy Safely? | When Counter Drone Energy Hits the Wrong Electronics | Directed Ener
         url: /jamming-risk/
     - title: Field Testing
-      title_full: Why Safe on the Range May Fail in the Field | Directed Ener 98 f417 friendly elec
+      title_full: Why Safe on the Range May Fail in the Field | When Counter Drone Energy Hits the Wrong Electronics | Directed Ener
       url: /field-testing/
       children:
       - title: Firing Rules
-        title_full: How Tests Become Safe Firing Rules | Directed Ener 98 f417 friendly elec 5 af 6 bb friendly elec
+        title_full: How Tests Become Safe Firing Rules | Why Safe on the Range May Fail in the Field | When Counter Drone Energy Hits the Wrong Electronics | Directed Ener
         url: /firing-rules/
       - title: Radio Coupling
-        title_full: Why Friendly Radios Are First to Fail | Directed Ener 98 f417 friendly elec 5 af 6 bb friendly elec
+        title_full: Why Friendly Radios Are First to Fail | Why Safe on the Range May Fail in the Field | When Counter Drone Energy Hits the Wrong Electronics | Directed Ener
         url: /radio-coupling/
       - title: Vehicle Tests
-        title_full: Why One Safe Part Does Not Mean a Safe Vehicle | Directed Ener 98 f417 friendly elec 5 af 6 bb friendly elec
+        title_full: Why One Safe Part Does Not Mean a Safe Vehicle | Why Safe on the Range May Fail in the Field | When Counter Drone Energy Hits the Wrong Electronics | Directed Ener
         url: /vehicle-tests/
     - title: Friendly Drones
-      title_full: The Friendly Drone Problem in Swarm Defence | Directed Ener 98 f417 friendly elec
+      title_full: The Friendly Drone Problem in Swarm Defence | When Counter Drone Energy Hits the Wrong Electronics | Directed Ener
       url: /friendly-drones/
       children:
       - title: Clearance Calls
-        title_full: When Should Friendly Drones Get Out? | Directed Ener 98 f417 friendly elec 5 af 6 bb friendly dron
+        title_full: When Should Friendly Drones Get Out? | The Friendly Drone Problem in Swarm Defence | When Counter Drone Energy Hits the Wrong Electronics | Directed Ener
         url: /clearance-calls/
       - title: Pulse Effects
-        title_full: What Happens Inside an Exposed Drone? | Directed Ener 98 f417 friendly elec 5 af 6 bb friendly dron
+        title_full: What Happens Inside an Exposed Drone? | The Friendly Drone Problem in Swarm Defence | When Counter Drone Energy Hits the Wrong Electronics | Directed Ener
         url: /pulse-effects/
       - title: Recon Risk
-        title_full: Can Defence Shots Blind Their Own Force? | Directed Ener 98 f417 friendly elec 5 af 6 bb friendly dron
+        title_full: Can Defence Shots Blind Their Own Force? | The Friendly Drone Problem in Swarm Defence | When Counter Drone Energy Hits the Wrong Electronics | Directed Ener
         url: /recon-risk/
     - title: Spillover Risk
-      title_full: When the Beam Hits More Than the Drone | Directed Ener 98 f417 friendly elec
+      title_full: When the Beam Hits More Than the Drone | When Counter Drone Energy Hits the Wrong Electronics | Directed Ener
       url: /spillover-risk/
       children:
       - title: Cable Paths
-        title_full: When Cables Become Unintended Antennas | Directed Ener 98 f417 friendly elec 5 af 6 bb microwave spi
+        title_full: When Cables Become Unintended Antennas | When the Beam Hits More Than the Drone | When Counter Drone Energy Hits the Wrong Electronics | Directed Ener
         url: /cable-paths/
       - title: Radio Risk
-        title_full: Why Radios Are So Exposed to Spillover | Directed Ener 98 f417 friendly elec 5 af 6 bb microwave spi
+        title_full: Why Radios Are So Exposed to Spillover | When the Beam Hits More Than the Drone | When Counter Drone Energy Hits the Wrong Electronics | Directed Ener
         url: /radio-risk/
       - title: Reflections
-        title_full: Why Spillover Does Not Stay in the Beam | Directed Ener 98 f417 friendly elec 5 af 6 bb microwave spi
+        title_full: Why Spillover Does Not Stay in the Beam | When the Beam Hits More Than the Drone | When Counter Drone Energy Hits the Wrong Electronics | Directed Ener
         url: /reflections/
   - title: Engineering
     title_full: What the Beam Needs Behind the Scenes | Directed Ener
     url: /engineering/
     children:
     - title: Aim Point
-      title_full: Why Holding the Beam Matters Most | Directed Ener 98 f417 power cooling
+      title_full: Why Holding the Beam Matters Most | What the Beam Needs Behind the Scenes | Directed Ener
       url: /aim-point/
       children:
       - title: Adaptive Optics
-        title_full: Can Lasers Beat Turbulent Air? | Directed Ener 98 f417 power cooling afc 91 e beam control
+        title_full: Can Lasers Beat Turbulent Air? | Why Holding the Beam Matters Most | What the Beam Needs Behind the Scenes | Directed Ener
         url: /adaptive-optics/
       - title: Beam Jitter
-        title_full: Why Tiny Beam Jitters Matter So Much | Directed Ener 98 f417 power cooling afc 91 e beam control
+        title_full: Why Tiny Beam Jitters Matter So Much | Why Holding the Beam Matters Most | What the Beam Needs Behind the Scenes | Directed Ener
         url: /beam-jitter/
       - title: Steering Mirrors
-        title_full: The Fast Mirrors Behind Laser Aim | Directed Ener 98 f417 power cooling afc 91 e beam control
+        title_full: The Fast Mirrors Behind Laser Aim | Why Holding the Beam Matters Most | What the Beam Needs Behind the Scenes | Directed Ener
         url: /steering-mirrors/
     - title: Fielding Gap
-      title_full: From Test Shot to Real Weapon | Directed Ener 98 f417 power cooling
+      title_full: From Test Shot to Real Weapon | What the Beam Needs Behind the Scenes | Directed Ener
       url: /fielding-gap/
       children:
       - title: Maintenance Gap
-        title_full: The Hidden Work After a Laser Shot | Directed Ener 98 f417 power cooling afc 91 e laser fieldin
+        title_full: The Hidden Work After a Laser Shot | From Test Shot to Real Weapon | What the Beam Needs Behind the Scenes | Directed Ener
         url: /maintenance-gap/
       - title: Moving Targets
-        title_full: Why Hitting Moving Targets Is Harder | Directed Ener 98 f417 power cooling afc 91 e laser fieldin
+        title_full: Why Hitting Moving Targets Is Harder | From Test Shot to Real Weapon | What the Beam Needs Behind the Scenes | Directed Ener
         url: /moving-targets-55ce00/
       - title: Weather Limits
-        title_full: Can Bad Weather Beat a Laser Weapon? | Directed Ener 98 f417 power cooling afc 91 e laser fieldin
+        title_full: Can Bad Weather Beat a Laser Weapon? | From Test Shot to Real Weapon | What the Beam Needs Behind the Scenes | Directed Ener
         url: /weather-limits-938207/
     - title: Heat Limits
-      title_full: The Hidden Heat Problem Behind Laser Weapons | Directed Ener 98 f417 power cooling
+      title_full: The Hidden Heat Problem Behind Laser Weapons | What the Beam Needs Behind the Scenes | Directed Ener
       url: /heat-limits/
       children:
       - title: Beam Quality
-        title_full: Why Hot Lasers Lose Their Aim | Directed Ener 98 f417 power cooling afc 91 e laser heat
+        title_full: Why Hot Lasers Lose Their Aim | The Hidden Heat Problem Behind Laser Weapons | What the Beam Needs Behind the Scenes | Directed Ener
         url: /beam-quality/
       - title: Drone Swarms
-        title_full: Can Lasers Keep Up With Drone Swarms? | Directed Ener 98 f417 power cooling afc 91 e laser heat
+        title_full: Can Lasers Keep Up With Drone Swarms? | The Hidden Heat Problem Behind Laser Weapons | What the Beam Needs Behind the Scenes | Directed Ener
         url: /drone-swarms/
       - title: Thermal Storage
-        title_full: The Hidden Heat Sink Behind Laser Firepower | Directed Ener 98 f417 power cooling afc 91 e laser heat
+        title_full: The Hidden Heat Sink Behind Laser Firepower | The Hidden Heat Problem Behind Laser Weapons | What the Beam Needs Behind the Scenes | Directed Ener
         url: /thermal-storage/
     - title: Host Platforms
-      title_full: Why Ships Get Lasers Before Aircraft | Directed Ener 98 f417 power cooling
+      title_full: Why Ships Get Lasers Before Aircraft | What the Beam Needs Behind the Scenes | Directed Ener
       url: /host-platforms/
       children:
       - title: Airborne Limits
-        title_full: Why Aircraft Lasers Are Harder Than They Look | Directed Ener 98 f417 power cooling afc 91 e laser host
+        title_full: Why Aircraft Lasers Are Harder Than They Look | Why Ships Get Lasers Before Aircraft | What the Beam Needs Behind the Scenes | Directed Ener
         url: /airborne-limits/
       - title: Power Grids
-        title_full: Can a Warship Spare Power for Lasers? | Directed Ener 98 f417 power cooling afc 91 e laser host
+        title_full: Can a Warship Spare Power for Lasers? | Why Ships Get Lasers Before Aircraft | What the Beam Needs Behind the Scenes | Directed Ener
         url: /power-grids/
       - title: Sea Cooling
-        title_full: Why the Ocean Helps Ship Lasers Fire Again | Directed Ener 98 f417 power cooling afc 91 e laser host
+        title_full: Why the Ocean Helps Ship Lasers Fire Again | Why Ships Get Lasers Before Aircraft | What the Beam Needs Behind the Scenes | Directed Ener
         url: /sea-cooling/
     - title: Power Demand
-      title_full: Why Lasers Still Need Serious Power | Directed Ener 98 f417 power cooling
+      title_full: Why Lasers Still Need Serious Power | What the Beam Needs Behind the Scenes | Directed Ener
       url: /power-demand/
       children:
       - title: Cooling
-        title_full: The Heat Problem Behind Laser Rate of Fire | Directed Ener 98 f417 power cooling afc 91 e laser platfor
+        title_full: The Heat Problem Behind Laser Rate of Fire | Why Lasers Still Need Serious Power | What the Beam Needs Behind the Scenes | Directed Ener
         url: /cooling/
       - title: Efficiency
-        title_full: Why Laser Efficiency Matters Twice | Directed Ener 98 f417 power cooling afc 91 e laser platfor
+        title_full: Why Laser Efficiency Matters Twice | Why Lasers Still Need Serious Power | What the Beam Needs Behind the Scenes | Directed Ener
         url: /efficiency/
       - title: Platforms
-        title_full: Why Ships Have the Laser Advantage | Directed Ener 98 f417 power cooling afc 91 e laser platfor
+        title_full: Why Ships Have the Laser Advantage | Why Lasers Still Need Serious Power | What the Beam Needs Behind the Scenes | Directed Ener
         url: /platforms/
   - title: HELIOS
     title_full: Can Shipboard Lasers Defend at Sea? | Directed Ener
     url: /helios/
     children:
     - title: Aegis Link
-      title_full: Why Integration Is the Real Laser Breakthrough | Directed Ener 98 f417 helios lasers
+      title_full: Why Integration Is the Real Laser Breakthrough | Can Shipboard Lasers Defend at Sea? | Directed Ener
       url: /aegis-link/
       children:
       - title: Aegis Cueing
-        title_full: Why Target Cueing Matters More Than Beam Power | Directed Ener 98 f417 helios lasers 773815 aegis integra
+        title_full: Why Target Cueing Matters More Than Beam Power | Why Integration Is the Real Laser Breakthrough | Can Shipboard Lasers Defend at Sea? | Directed Ener
         url: /aegis-cueing/
       - title: Integration Test
-        title_full: Is HELIOS a Weapon or a Demonstration? | Directed Ener 98 f417 helios lasers 773815 aegis integra
+        title_full: Is HELIOS a Weapon or a Demonstration? | Why Integration Is the Real Laser Breakthrough | Can Shipboard Lasers Defend at Sea? | Directed Ener
         url: /integration-test/
       - title: Weapon Choice
-        title_full: When Should a Destroyer Use a Laser? | Directed Ener 98 f417 helios lasers 773815 aegis integra
+        title_full: When Should a Destroyer Use a Laser? | Why Integration Is the Real Laser Breakthrough | Can Shipboard Lasers Defend at Sea? | Directed Ener
         url: /weapon-choice/
     - title: Dazzler Role
-      title_full: When Blinding Sensors Beats Burning Drones | Directed Ener 98 f417 helios lasers
+      title_full: When Blinding Sensors Beats Burning Drones | Can Shipboard Lasers Defend at Sea? | Directed Ener
       url: /dazzler-role/
       children:
       - title: Drone Cameras
-        title_full: How a Laser Can Stop a Drone Seeing | Directed Ener 98 f417 helios lasers 773815 helios dazzle
+        title_full: How a Laser Can Stop a Drone Seeing | When Blinding Sensors Beats Burning Drones | Can Shipboard Lasers Defend at Sea? | Directed Ener
         url: /drone-cameras/
       - title: Escalation
-        title_full: Why Blinding Sensors Can Be the Safer Move | Directed Ener 98 f417 helios lasers 773815 helios dazzle
+        title_full: Why Blinding Sensors Can Be the Safer Move | When Blinding Sensors Beats Burning Drones | Can Shipboard Lasers Defend at Sea? | Directed Ener
         url: /escalation/
       - title: Limits
-        title_full: When Sensor Dazzling May Not Be Enough | Directed Ener 98 f417 helios lasers 773815 helios dazzle
+        title_full: When Sensor Dazzling May Not Be Enough | When Blinding Sensors Beats Burning Drones | Can Shipboard Lasers Defend at Sea? | Directed Ener
         url: /limits/
     - title: Laser Lineage
-      title_full: How Navy Lasers Moved From Trials to Ships | Directed Ener 98 f417 helios lasers
+      title_full: How Navy Lasers Moved From Trials to Ships | Can Shipboard Lasers Defend at Sea? | Directed Ener
       url: /laser-lineage/
       children:
       - title: HELIOS
-        title_full: What HELIOS Changes on a Destroyer | Directed Ener 98 f417 helios lasers 773815 navy laser
+        title_full: What HELIOS Changes on a Destroyer | How Navy Lasers Moved From Trials to Ships | Can Shipboard Lasers Defend at Sea? | Directed Ener
         url: /helios-0d4e6d/
       - title: USS Ponce
-        title_full: Why USS Ponce Made Lasers Feel Real | Directed Ener 98 f417 helios lasers 773815 navy laser
+        title_full: Why USS Ponce Made Lasers Feel Real | How Navy Lasers Moved From Trials to Ships | Can Shipboard Lasers Defend at Sea? | Directed Ener
         url: /uss-ponce/
       - title: USS Portland
-        title_full: How Portland Raised the Target Bar | Directed Ener 98 f417 helios lasers 773815 navy laser
+        title_full: How Portland Raised the Target Bar | How Navy Lasers Moved From Trials to Ships | Can Shipboard Lasers Defend at Sea? | Directed Ener
         url: /uss-portland/
     - title: Preble Test
-      title_full: What Did the Preble Laser Test Prove? | Directed Ener 98 f417 helios lasers
+      title_full: What Did the Preble Laser Test Prove? | Can Shipboard Lasers Defend at Sea? | Directed Ener
       url: /preble-test/
       children:
       - title: Defense Role
-        title_full: Can HELIOS Replace Ship Missiles? | Directed Ener 98 f417 helios lasers 773815 preble drone
+        title_full: Can HELIOS Replace Ship Missiles? | What Did the Preble Laser Test Prove? | Can Shipboard Lasers Defend at Sea? | Directed Ener
         url: /defense-role/
       - title: Missing Data
-        title_full: The Missing Details Behind the Laser Hit | Directed Ener 98 f417 helios lasers 773815 preble drone
+        title_full: The Missing Details Behind the Laser Hit | What Did the Preble Laser Test Prove? | Can Shipboard Lasers Defend at Sea? | Directed Ener
         url: /missing-data/
       - title: Proven Result
-        title_full: What Did the Preble Laser Test Prove? | Directed Ener 98 f417 helios lasers 773815 preble drone
+        title_full: What Did the Preble Laser Test Prove? | What Did the Preble Laser Test Prove? | Can Shipboard Lasers Defend at Sea? | Directed Ener
         url: /proven-result/
     - title: Threat Boundary
-      title_full: Which Threats Can HELIOS Realistically Stop? | Directed Ener 98 f417 helios lasers
+      title_full: Which Threats Can HELIOS Realistically Stop? | Can Shipboard Lasers Defend at Sea? | Directed Ener
       url: /threat-boundary/
       children:
       - title: Drone Dwell
-        title_full: Why Small Drones Are Laser Friendly Targets | Directed Ener 98 f417 helios lasers 773815 threat bounda
+        title_full: Why Small Drones Are Laser Friendly Targets | Which Threats Can HELIOS Realistically Stop? | Can Shipboard Lasers Defend at Sea? | Directed Ener
         url: /drone-dwell/
       - title: Preble Test
-        title_full: What One HELIOS Drone Test Really Proved | Directed Ener 98 f417 helios lasers 773815 threat bounda
+        title_full: What One HELIOS Drone Test Really Proved | Which Threats Can HELIOS Realistically Stop? | Can Shipboard Lasers Defend at Sea? | Directed Ener
         url: /preble-test-2ed0d5/
       - title: Swarm Limits
-        title_full: Can One Laser Stop a Drone Swarm? | Directed Ener 98 f417 helios lasers 773815 threat bounda
+        title_full: Can One Laser Stop a Drone Swarm? | Which Threats Can HELIOS Realistically Stop? | Can Shipboard Lasers Defend at Sea? | Directed Ener
         url: /swarm-limits/
   - title: Laser vs Microwave
     title_full: 'Lasers or Microwaves: Which Threat Fits Which Beam? | Directed Ener'
     url: /laser-vs-microwave/
     children:
     - title: Electronics Risk
-      title_full: What Else Is In The Microwave Beam? | Directed Ener 98 f417 lasers vs mic
+      title_full: 'What Else Is In The Microwave Beam? | Lasers or Microwaves: Which Threat Fits Which Beam? | Directed Ener'
       url: /electronics-risk-73f9c7/
       children:
       - title: Effect Volume
-        title_full: Why Microwave Beams Do Not Know Friend From Foe | Directed Ener 98 f417 lasers vs mic 4 fb 1 e7 microwave fri
+        title_full: 'Why Microwave Beams Do Not Know Friend From Foe | What Else Is In The Microwave Beam? | Lasers or Microwaves: Which Threat Fits Which Beam? | Directed Ener'
         url: /effect-volume/
       - title: Exclusion Zones
-        title_full: Where Friendly Gear Must Stay Out of the Beam | Directed Ener 98 f417 lasers vs mic 4 fb 1 e7 microwave fri
+        title_full: 'Where Friendly Gear Must Stay Out of the Beam | What Else Is In The Microwave Beam? | Lasers or Microwaves: Which Threat Fits Which Beam? | Directed Ener'
         url: /exclusion-zones/
       - title: Protected Sensors
-        title_full: Can Friendly Radios Survive a Microwave Shot? | Directed Ener 98 f417 lasers vs mic 4 fb 1 e7 microwave fri
+        title_full: 'Can Friendly Radios Survive a Microwave Shot? | What Else Is In The Microwave Beam? | Lasers or Microwaves: Which Threat Fits Which Beam? | Directed Ener'
         url: /protected-sensors/
     - title: Layered Defence
-      title_full: Why Directed Energy Still Needs Backup | Directed Ener 98 f417 lasers vs mic
+      title_full: 'Why Directed Energy Still Needs Backup | Lasers or Microwaves: Which Threat Fits Which Beam? | Directed Ener'
       url: /layered-defence-da4e6e/
       children:
       - title: Missile Savings
-        title_full: When Should Lasers Save the Missiles? | Directed Ener 98 f417 lasers vs mic 4 fb 1 e7 layered defen
+        title_full: 'When Should Lasers Save the Missiles? | Why Directed Energy Still Needs Backup | Lasers or Microwaves: Which Threat Fits Which Beam? | Directed Ener'
         url: /missile-savings-dab713/
       - title: Swarm Microwave
-        title_full: Can Microwaves Really Stop a Drone Swarm? | Directed Ener 98 f417 lasers vs mic 4 fb 1 e7 layered defen
+        title_full: 'Can Microwaves Really Stop a Drone Swarm? | Why Directed Energy Still Needs Backup | Lasers or Microwaves: Which Threat Fits Which Beam? | Directed Ener'
         url: /swarm-microwave/
       - title: Weather Guns
-        title_full: Why Guns Still Matter in Bad Weather | Directed Ener 98 f417 lasers vs mic 4 fb 1 e7 layered defen
+        title_full: 'Why Guns Still Matter in Bad Weather | Why Directed Energy Still Needs Backup | Lasers or Microwaves: Which Threat Fits Which Beam? | Directed Ener'
         url: /weather-guns/
     - title: Single Drones
-      title_full: When Is A Laser The Cleaner Kill? | Directed Ener 98 f417 lasers vs mic
+      title_full: 'When Is A Laser The Cleaner Kill? | Lasers or Microwaves: Which Threat Fits Which Beam? | Directed Ener'
       url: /single-drones/
       children:
       - title: Aim Points
-        title_full: Why the Aim Point Can Decide the Kill | Directed Ener 98 f417 lasers vs mic 4 fb 1 e7 laser single
+        title_full: 'Why the Aim Point Can Decide the Kill | When Is A Laser The Cleaner Kill? | Lasers or Microwaves: Which Threat Fits Which Beam? | Directed Ener'
         url: /aim-points/
       - title: Bad Weather
-        title_full: When Weather Turns Precision Into a Problem | Directed Ener 98 f417 lasers vs mic 4 fb 1 e7 laser single
+        title_full: 'When Weather Turns Precision Into a Problem | When Is A Laser The Cleaner Kill? | Lasers or Microwaves: Which Threat Fits Which Beam? | Directed Ener'
         url: /bad-weather/
       - title: Collateral Risk
-        title_full: When Precision Matters More Than Coverage | Directed Ener 98 f417 lasers vs mic 4 fb 1 e7 laser single
+        title_full: 'When Precision Matters More Than Coverage | When Is A Laser The Cleaner Kill? | Lasers or Microwaves: Which Threat Fits Which Beam? | Directed Ener'
         url: /collateral-risk-131c00/
     - title: Swarms
-      title_full: Why Swarms Change The Weapon Choice | Directed Ener 98 f417 lasers vs mic
+      title_full: 'Why Swarms Change The Weapon Choice | Lasers or Microwaves: Which Threat Fits Which Beam? | Directed Ener'
       url: /swarms/
       children:
       - title: Batch Defeat
-        title_full: Can One Microwave Burst Stop Several Drones? | Directed Ener 98 f417 lasers vs mic 4 fb 1 e7 microwave dro
+        title_full: 'Can One Microwave Burst Stop Several Drones? | Why Swarms Change The Weapon Choice | Lasers or Microwaves: Which Threat Fits Which Beam? | Directed Ener'
         url: /batch-defeat/
       - title: Laser Queues
-        title_full: Why Drone Swarms Turn Lasers Into Queues | Directed Ener 98 f417 lasers vs mic 4 fb 1 e7 microwave dro
+        title_full: 'Why Drone Swarms Turn Lasers Into Queues | Why Swarms Change The Weapon Choice | Lasers or Microwaves: Which Threat Fits Which Beam? | Directed Ener'
         url: /laser-queues/
       - title: Swarm Adaptation
-        title_full: How Swarms Fight Back Against Microwaves | Directed Ener 98 f417 lasers vs mic 4 fb 1 e7 microwave dro
+        title_full: 'How Swarms Fight Back Against Microwaves | Why Swarms Change The Weapon Choice | Lasers or Microwaves: Which Threat Fits Which Beam? | Directed Ener'
         url: /swarm-adaptation/
     - title: Weather Limits
-      title_full: When The Air Itself Becomes A Shield | Directed Ener 98 f417 lasers vs mic
+      title_full: 'When The Air Itself Becomes A Shield | Lasers or Microwaves: Which Threat Fits Which Beam? | Directed Ener'
       url: /weather-limits-5810d7/
       children:
       - title: Fog Limits
-        title_full: Why Fog Can Shorten a Laser Shot | Directed Ener 98 f417 lasers vs mic 4 fb 1 e7 weather laser
+        title_full: 'Why Fog Can Shorten a Laser Shot | When The Air Itself Becomes A Shield | Lasers or Microwaves: Which Threat Fits Which Beam? | Directed Ener'
         url: /fog-limits/
       - title: Smoke Choice
-        title_full: When Bad Air Favors Microwave Defence | Directed Ener 98 f417 lasers vs mic 4 fb 1 e7 weather laser
+        title_full: 'When Bad Air Favors Microwave Defence | When The Air Itself Becomes A Shield | Lasers or Microwaves: Which Threat Fits Which Beam? | Directed Ener'
         url: /smoke-choice/
       - title: Test Range
-        title_full: Why Clear Tests Do Not Prove Combat Range | Directed Ener 98 f417 lasers vs mic 4 fb 1 e7 weather laser
+        title_full: 'Why Clear Tests Do Not Prove Combat Range | When The Air Itself Becomes A Shield | Lasers or Microwaves: Which Threat Fits Which Beam? | Directed Ener'
         url: /test-range/
   - title: Lasers
     title_full: Why Laser Weapons Are Precise but Demanding | Directed Ener
     url: /lasers/
     children:
     - title: Aim Point
-      title_full: The Hidden Skill Behind Laser Precision | Directed Ener 98 f417 laser precisi
+      title_full: The Hidden Skill Behind Laser Precision | Why Laser Weapons Are Precise but Demanding | Directed Ener
       url: /aim-point-d329b8/
       children:
       - title: Return Signal
-        title_full: Can the Target Help Aim the Laser | Directed Ener 98 f417 laser precisi 07 f65 f aim point tra
+        title_full: Can the Target Help Aim the Laser | The Hidden Skill Behind Laser Precision | Why Laser Weapons Are Precise but Demanding | Directed Ener
         url: /return-signal/
       - title: Steering Mirrors
-        title_full: The Tiny Mirror Movements Behind Laser Accuracy | Directed Ener 98 f417 laser precisi 07 f65 f aim point tra
+        title_full: The Tiny Mirror Movements Behind Laser Accuracy | The Hidden Skill Behind Laser Precision | Why Laser Weapons Are Precise but Demanding | Directed Ener
         url: /steering-mirrors-d3f211/
       - title: Target Pose
-        title_full: Why the Best Laser Aim Point Moves | Directed Ener 98 f417 laser precisi 07 f65 f aim point tra
+        title_full: Why the Best Laser Aim Point Moves | The Hidden Skill Behind Laser Precision | Why Laser Weapons Are Precise but Demanding | Directed Ener
         url: /target-pose/
     - title: Dazzle Damage
-      title_full: Blinding Sensors or Burning Hardware? | Directed Ener 98 f417 laser precisi
+      title_full: Blinding Sensors or Burning Hardware? | Why Laser Weapons Are Precise but Demanding | Directed Ener
       url: /dazzle-damage/
       children:
       - title: Camera Dazzle
-        title_full: Why Blinding a Drone Camera Is Easier | Directed Ener 98 f417 laser precisi 07 f65 f dazzle vs dam
+        title_full: Why Blinding a Drone Camera Is Easier | Blinding Sensors or Burning Hardware? | Why Laser Weapons Are Precise but Demanding | Directed Ener
         url: /camera-dazzle/
       - title: Minimum Force
-        title_full: When Dazzling Is Enough to Stop a Drone | Directed Ener 98 f417 laser precisi 07 f65 f dazzle vs dam
+        title_full: When Dazzling Is Enough to Stop a Drone | Blinding Sensors or Burning Hardware? | Why Laser Weapons Are Precise but Demanding | Directed Ener
         url: /minimum-force/
       - title: Wavelengths
-        title_full: When Laser Color Changes the Outcome | Directed Ener 98 f417 laser precisi 07 f65 f dazzle vs dam
+        title_full: When Laser Color Changes the Outcome | Blinding Sensors or Burning Hardware? | Why Laser Weapons Are Precise but Demanding | Directed Ener
         url: /wavelengths/
     - title: Dragon Fire
-      title_full: What Dragon Fire Reveals About Laser Weapons | Directed Ener 98 f417 laser precisi
+      title_full: What Dragon Fire Reveals About Laser Weapons | Why Laser Weapons Are Precise but Demanding | Directed Ener
       url: /dragon-fire-730c27/
       children:
       - title: Cost Per Shot
-        title_full: Is A Ten Pound Laser Shot Really That Cheap? | Directed Ener 98 f417 laser precisi 07 f65 f dragonfire
+        title_full: Is A Ten Pound Laser Shot Really That Cheap? | What Dragon Fire Reveals About Laser Weapons | Why Laser Weapons Are Precise but Demanding | Directed Ener
         url: /cost-per-shot/
       - title: Horizon Tracking
-        title_full: Why Above the Horizon Tracking Is a Major Test | Directed Ener 98 f417 laser precisi 07 f65 f dragonfire
+        title_full: Why Above the Horizon Tracking Is a Major Test | What Dragon Fire Reveals About Laser Weapons | Why Laser Weapons Are Precise but Demanding | Directed Ener
         url: /horizon-tracking/
       - title: Weather Limits
-        title_full: Can Bad Weather Defeat A Laser Air Defence System? | Directed Ener 98 f417 laser precisi 07 f65 f dragonfire
+        title_full: Can Bad Weather Defeat A Laser Air Defence System? | What Dragon Fire Reveals About Laser Weapons | Why Laser Weapons Are Precise but Demanding | Directed Ener
         url: /weather-limits-c1bd8c/
     - title: Dwell Time
-      title_full: Why Lasers Still Need Time to Kill | Directed Ener 98 f417 laser precisi
+      title_full: Why Lasers Still Need Time to Kill | Why Laser Weapons Are Precise but Demanding | Directed Ener
       url: /dwell-time-71eaeb/
       children:
       - title: Swarm Bottleneck
-        title_full: Why Swarms Stress Laser Defenses | Directed Ener 98 f417 laser precisi 07 f65 f laser dwell
+        title_full: Why Swarms Stress Laser Defenses | Why Lasers Still Need Time to Kill | Why Laser Weapons Are Precise but Demanding | Directed Ener
         url: /swarm-bottleneck/
       - title: Tracking Errors
-        title_full: Why a Laser Hit Still May Not Kill | Directed Ener 98 f417 laser precisi 07 f65 f laser dwell
+        title_full: Why a Laser Hit Still May Not Kill | Why Lasers Still Need Time to Kill | Why Laser Weapons Are Precise but Demanding | Directed Ener
         url: /tracking-errors/
       - title: Weak Points
-        title_full: Where Lasers Hurt Drones Fastest | Directed Ener 98 f417 laser precisi 07 f65 f laser dwell
+        title_full: Where Lasers Hurt Drones Fastest | Why Lasers Still Need Time to Kill | Why Laser Weapons Are Precise but Demanding | Directed Ener
         url: /weak-points/
     - title: Weather Limits
-      title_full: When the Air Gets in the Beam | Directed Ener 98 f417 laser precisi
+      title_full: When the Air Gets in the Beam | Why Laser Weapons Are Precise but Demanding | Directed Ener
       url: /weather-limits/
       children:
       - title: Fog and Rain
-        title_full: How Much Range Does Bad Weather Take? | Directed Ener 98 f417 laser precisi 07 f65 f laser weather
+        title_full: How Much Range Does Bad Weather Take? | When the Air Gets in the Beam | Why Laser Weapons Are Precise but Demanding | Directed Ener
         url: /fog-and-rain/
       - title: Low Flying
-        title_full: Low Flying | Directed Ener 98 f417 laser precisi 07 f65 f laser weather
+        title_full: Low Flying | When the Air Gets in the Beam | Why Laser Weapons Are Precise but Demanding | Directed Ener
         url: /low-flying/
       - title: Smoke Screens
-        title_full: Smoke Screens | Directed Ener 98 f417 laser precisi 07 f65 f laser weather
+        title_full: Smoke Screens | When the Air Gets in the Beam | Why Laser Weapons Are Precise but Demanding | Directed Ener
         url: /smoke-screens/
   - title: Leonidas
     title_full: Why Anti Drone Microwaves Attract Investment | Directed Ener
     url: /leonidas/
     children:
     - title: 49 Drone Test
-      title_full: What Did the 49 Drone Test Really Prove? | Directed Ener 98 f417 leonidas anti
+      title_full: What Did the 49 Drone Test Really Prove? | Why Anti Drone Microwaves Attract Investment | Directed Ener
       url: /49-drone-test/
       children:
       - title: Cost Tradeoff
-        title_full: Can Microwaves Fix the Drone Cost Problem? | Directed Ener 98 f417 leonidas anti 14867 a leonidas
+        title_full: Can Microwaves Fix the Drone Cost Problem? | What Did the 49 Drone Test Really Prove? | Why Anti Drone Microwaves Attract Investment | Directed Ener
         url: /cost-tradeoff/
       - title: One Pulse
-        title_full: Why One Pulse Changed the Counter Swarm Debate | Directed Ener 98 f417 leonidas anti 14867 a leonidas
+        title_full: Why One Pulse Changed the Counter Swarm Debate | What Did the 49 Drone Test Really Prove? | Why Anti Drone Microwaves Attract Investment | Directed Ener
         url: /one-pulse/
       - title: Open Questions
-        title_full: What the 49 Drone Test Still Left Unanswered | Directed Ener 98 f417 leonidas anti 14867 a leonidas
+        title_full: What the 49 Drone Test Still Left Unanswered | What Did the 49 Drone Test Really Prove? | Why Anti Drone Microwaves Attract Investment | Directed Ener
         url: /open-questions-f1b729/
     - title: Army Contracts
-      title_full: How Army Contracts Moved Leonidas Forward | Directed Ener 98 f417 leonidas anti
+      title_full: How Army Contracts Moved Leonidas Forward | Why Anti Drone Microwaves Attract Investment | Directed Ener
       url: /army-contracts/
       children:
       - title: Generation II
-        title_full: Did Leonidas Escape Prototype Limbo? | Directed Ener 98 f417 leonidas anti 14867 a leonidas army
+        title_full: Did Leonidas Escape Prototype Limbo? | How Army Contracts Moved Leonidas Forward | Why Anti Drone Microwaves Attract Investment | Directed Ener
         url: /generation-ii/
       - title: Prototype Order
-        title_full: Why Four Prototypes Changed the Story | Directed Ener 98 f417 leonidas anti 14867 a leonidas army
+        title_full: Why Four Prototypes Changed the Story | How Army Contracts Moved Leonidas Forward | Why Anti Drone Microwaves Attract Investment | Directed Ener
         url: /prototype-order/
       - title: Soldier Training
-        title_full: When Soldiers Took Over Leonidas | Directed Ener 98 f417 leonidas anti 14867 a leonidas army
+        title_full: When Soldiers Took Over Leonidas | How Army Contracts Moved Leonidas Forward | Why Anti Drone Microwaves Attract Investment | Directed Ener
         url: /soldier-training/
     - title: Electronics Risk
-      title_full: The Risk Inside a Wide Microwave Beam | Directed Ener 98 f417 leonidas anti
+      title_full: The Risk Inside a Wide Microwave Beam | Why Anti Drone Microwaves Attract Investment | Directed Ener
       url: /electronics-risk-3bbd36/
       children:
       - title: Beam Risk
-        title_full: What Else Is Inside the Microwave Beam? | Directed Ener 98 f417 leonidas anti 14867 a leonidas frie
+        title_full: What Else Is Inside the Microwave Beam? | The Risk Inside a Wide Microwave Beam | Why Anti Drone Microwaves Attract Investment | Directed Ener
         url: /beam-risk/
       - title: Friendly Drones
-        title_full: Can Friendly Drones Survive the Defense? | Directed Ener 98 f417 leonidas anti 14867 a leonidas frie
+        title_full: Can Friendly Drones Survive the Defense? | The Risk Inside a Wide Microwave Beam | Why Anti Drone Microwaves Attract Investment | Directed Ener
         url: /friendly-drones-379602/
       - title: Use Rules
-        title_full: The Rules That Keep Leonidas From Backfiring | Directed Ener 98 f417 leonidas anti 14867 a leonidas frie
+        title_full: The Rules That Keep Leonidas From Backfiring | The Risk Inside a Wide Microwave Beam | Why Anti Drone Microwaves Attract Investment | Directed Ener
         url: /use-rules/
     - title: Swarm Economics
-      title_full: Can One Pulse Beat a Drone Swarm? | Directed Ener 98 f417 leonidas anti
+      title_full: Can One Pulse Beat a Drone Swarm? | Why Anti Drone Microwaves Attract Investment | Directed Ener
       url: /swarm-economics/
       children:
       - title: 2025 Tests
-        title_full: What did the 2025 swarm test prove? | Directed Ener 98 f417 leonidas anti 14867 a leonidas swar
+        title_full: What did the 2025 swarm test prove? | Can One Pulse Beat a Drone Swarm? | Why Anti Drone Microwaves Attract Investment | Directed Ener
         url: /2025-tests/
       - title: Layered Defence
-        title_full: Why microwaves still need backup weapons | Directed Ener 98 f417 leonidas anti 14867 a leonidas swar
+        title_full: Why microwaves still need backup weapons | Can One Pulse Beat a Drone Swarm? | Why Anti Drone Microwaves Attract Investment | Directed Ener
         url: /layered-defence-c333b4/
       - title: One Burst
-        title_full: Can one pulse beat a drone swarm? | Directed Ener 98 f417 leonidas anti 14867 a leonidas swar
+        title_full: Can one pulse beat a drone swarm? | Can One Pulse Beat a Drone Swarm? | Why Anti Drone Microwaves Attract Investment | Directed Ener
         url: /one-burst/
     - title: Variants
-      title_full: Why Leonidas Keeps Showing Up on New Platforms | Directed Ener 98 f417 leonidas anti
+      title_full: Why Leonidas Keeps Showing Up on New Platforms | Why Anti Drone Microwaves Attract Investment | Directed Ener
       url: /variants/
       children:
       - title: H2 O
-        title_full: Can Microwave Weapons Stop Threats at Sea? | Directed Ener 98 f417 leonidas anti 14867 a leonidas vari
+        title_full: Can Microwave Weapons Stop Threats at Sea? | Why Leonidas Keeps Showing Up on New Platforms | Why Anti Drone Microwaves Attract Investment | Directed Ener
         url: /h2-o/
       - title: Marine Variant
-        title_full: Why Marines Needed a Smaller Leonidas | Directed Ener 98 f417 leonidas anti 14867 a leonidas vari
+        title_full: Why Marines Needed a Smaller Leonidas | Why Leonidas Keeps Showing Up on New Platforms | Why Anti Drone Microwaves Attract Investment | Directed Ener
         url: /marine-variant/
       - title: Stryker
-        title_full: Can Microwave Defence Keep Up With Troops? | Directed Ener 98 f417 leonidas anti 14867 a leonidas vari
+        title_full: Can Microwave Defence Keep Up With Troops? | Why Leonidas Keeps Showing Up on New Platforms | Why Anti Drone Microwaves Attract Investment | Directed Ener
         url: /stryker/
   - title: Microwaves
     title_full: Can Microwaves Stop Drone Swarms? | Directed Ener
     url: /microwaves/
     children:
     - title: Collateral Risk
-      title_full: What Else Can Microwave Weapons Disrupt? | Directed Ener 98 f417 microwave
+      title_full: What Else Can Microwave Weapons Disrupt? | Can Microwaves Stop Drone Swarms? | Directed Ener
       url: /collateral-risk/
       children:
       - title: Civilian Sites
-        title_full: Why cities are the hardest microwave defense setting | Directed Ener 98 f417 microwave dro 730805 collateral
+        title_full: Why cities are the hardest microwave defense setting | What Else Can Microwave Weapons Disrupt? | Can Microwaves Stop Drone Swarms? | Directed Ener
         url: /civilian-sites/
       - title: Exclusion Zones
-        title_full: Where should electronics stay clear of microwave defenses? | Directed Ener 98 f417 microwave dro 730805 collateral
+        title_full: Where should electronics stay clear of microwave defenses? | What Else Can Microwave Weapons Disrupt? | Can Microwaves Stop Drone Swarms? | Directed Ener
         url: /exclusion-zones-96a39e/
       - title: Friendly Gear
-        title_full: Can friendly gear survive a microwave drone shot? | Directed Ener 98 f417 microwave dro 730805 collateral
+        title_full: Can friendly gear survive a microwave drone shot? | What Else Can Microwave Weapons Disrupt? | Can Microwaves Stop Drone Swarms? | Directed Ener
         url: /friendly-gear/
     - title: Laser Tradeoff
-      title_full: Microwaves Or Lasers For Drone Swarms? | Directed Ener 98 f417 microwave
+      title_full: Microwaves Or Lasers For Drone Swarms? | Can Microwaves Stop Drone Swarms? | Directed Ener
       url: /laser-tradeoff/
       children:
       - title: Area Risks
-        title_full: When Area Effects Become a Defense Problem | Directed Ener 98 f417 microwave dro 730805 microwave las
+        title_full: When Area Effects Become a Defense Problem | Microwaves Or Lasers For Drone Swarms? | Can Microwaves Stop Drone Swarms? | Directed Ener
         url: /area-risks/
       - title: Laser Queue
-        title_full: Why Laser Defenses Can Fall Behind Swarms | Directed Ener 98 f417 microwave dro 730805 microwave las
+        title_full: Why Laser Defenses Can Fall Behind Swarms | Microwaves Or Lasers For Drone Swarms? | Can Microwaves Stop Drone Swarms? | Directed Ener
         url: /laser-queue/
       - title: Layered Defense
-        title_full: Why Swarm Defense Often Needs Both Weapons | Directed Ener 98 f417 microwave dro 730805 microwave las
+        title_full: Why Swarm Defense Often Needs Both Weapons | Microwaves Or Lasers For Drone Swarms? | Can Microwaves Stop Drone Swarms? | Directed Ener
         url: /layered-defense/
     - title: Live Fire Claims
-      title_full: How Much Do Live Fire Swarm Tests Prove? | Directed Ener 98 f417 microwave
+      title_full: How Much Do Live Fire Swarm Tests Prove? | Can Microwaves Stop Drone Swarms? | Directed Ener
       url: /live-fire-claims/
       children:
       - title: Battle Limits
-        title_full: Why test wins may not equal battlefield wins | Directed Ener 98 f417 microwave dro 730805 live fire swa
+        title_full: Why test wins may not equal battlefield wins | How Much Do Live Fire Swarm Tests Prove? | Can Microwaves Stop Drone Swarms? | Directed Ener
         url: /battle-limits/
       - title: Fiber Drones
-        title_full: Can microwaves stop fiber optic drones? | Directed Ener 98 f417 microwave dro 730805 live fire swa
+        title_full: Can microwaves stop fiber optic drones? | How Much Do Live Fire Swarm Tests Prove? | Can Microwaves Stop Drone Swarms? | Directed Ener
         url: /fiber-drones/
       - title: UK Trials
-        title_full: What did Rapid Destroyer's trials really prove? | Directed Ener 98 f417 microwave dro 730805 live fire swa
+        title_full: What did Rapid Destroyer's trials really prove? | How Much Do Live Fire Swarm Tests Prove? | Can Microwaves Stop Drone Swarms? | Directed Ener
         url: /uk-trials/
     - title: THOR Tests
-      title_full: What THOR Reveals About Microwave Drone Defense | Directed Ener 98 f417 microwave
+      title_full: What THOR Reveals About Microwave Drone Defense | Can Microwaves Stop Drone Swarms? | Directed Ener
       url: /thor-tests/
       children:
       - title: Containerised THOR
-        title_full: Why Put a Microwave Weapon in a Container? | Directed Ener 98 f417 microwave dro 730805 thor mjolnir
+        title_full: Why Put a Microwave Weapon in a Container? | What THOR Reveals About Microwave Drone Defense | Can Microwaves Stop Drone Swarms? | Directed Ener
         url: /containerised-thor/
       - title: Kirtland Test
-        title_full: What Did THOR's Swarm Test Really Prove? | Directed Ener 98 f417 microwave dro 730805 thor mjolnir
+        title_full: What Did THOR's Swarm Test Really Prove? | What THOR Reveals About Microwave Drone Defense | Can Microwaves Stop Drone Swarms? | Directed Ener
         url: /kirtland-test/
       - title: Mjolnir Upgrade
-        title_full: Why THOR Needed a Follow On Weapon | Directed Ener 98 f417 microwave dro 730805 thor mjolnir
+        title_full: Why THOR Needed a Follow On Weapon | What THOR Reveals About Microwave Drone Defense | Can Microwaves Stop Drone Swarms? | Directed Ener
         url: /mjolnir-upgrade/
     - title: Wide Beams
-      title_full: Why Wide Beams Matter Against Drone Swarms | Directed Ener 98 f417 microwave
+      title_full: Why Wide Beams Matter Against Drone Swarms | Can Microwaves Stop Drone Swarms? | Directed Ener
       url: /wide-beams/
       children:
       - title: Beam Width
-        title_full: When a Wider Beam Beats a Sharper Shot | Directed Ener 98 f417 microwave dro 730805 wide beam cou
+        title_full: When a Wider Beam Beats a Sharper Shot | Why Wide Beams Matter Against Drone Swarms | Can Microwaves Stop Drone Swarms? | Directed Ener
         url: /beam-width/
       - title: Failure Modes
-        title_full: Why One Pulse Does Not Break Every Drone Alike | Directed Ener 98 f417 microwave dro 730805 wide beam cou
+        title_full: Why One Pulse Does Not Break Every Drone Alike | Why Wide Beams Matter Against Drone Swarms | Can Microwaves Stop Drone Swarms? | Directed Ener
         url: /failure-modes/
       - title: Leonidas Tests
-        title_full: What Leonidas Tests Really Show About Swarms | Directed Ener 98 f417 microwave dro 730805 wide beam cou
+        title_full: What Leonidas Tests Really Show About Swarms | Why Wide Beams Matter Against Drone Swarms | Can Microwaves Stop Drone Swarms? | Directed Ener
         url: /leonidas-tests/
   - title: Shot Cost
     title_full: Why Cheap Drones Changed the Weapons Math | Directed Ener
     url: /shot-cost/
     children:
     - title: Deep Magazine
-      title_full: Can Lasers Keep Shooting When Missiles Run Low? | Directed Ener 98 f417 cost per shot
+      title_full: Can Lasers Keep Shooting When Missiles Run Low? | Why Cheap Drones Changed the Weapons Math | Directed Ener
       url: /deep-magazine/
       children:
       - title: Cooling Limits
-        title_full: Can Heat Stop a Laser Before Energy Runs Out? | Directed Ener 98 f417 cost per shot 05 acf 8 deep magazine
+        title_full: Can Heat Stop a Laser Before Energy Runs Out? | Can Lasers Keep Shooting When Missiles Run Low? | Why Cheap Drones Changed the Weapons Math | Directed Ener
         url: /cooling-limits/
       - title: Power Limits
-        title_full: Does Electrical Power Really Replace Ammunition? | Directed Ener 98 f417 cost per shot 05 acf 8 deep magazine
+        title_full: Does Electrical Power Really Replace Ammunition? | Can Lasers Keep Shooting When Missiles Run Low? | Why Cheap Drones Changed the Weapons Math | Directed Ener
         url: /power-limits/
       - title: Swarm Saturation
-        title_full: Why Deep Magazines Do Not Defeat Every Swarm | Directed Ener 98 f417 cost per shot 05 acf 8 deep magazine
+        title_full: Why Deep Magazines Do Not Defeat Every Swarm | Can Lasers Keep Shooting When Missiles Run Low? | Why Cheap Drones Changed the Weapons Math | Directed Ener
         url: /swarm-saturation-248a25/
     - title: Dragon Fire
-      title_full: Why Dragon Fire Is Both Cheap and Expensive | Directed Ener 98 f417 cost per shot
+      title_full: Why Dragon Fire Is Both Cheap and Expensive | Why Cheap Drones Changed the Weapons Math | Directed Ener
       url: /dragon-fire-640ee9/
       children:
       - title: Contract Cost
-        title_full: What Does Dragon Fire's £316 Million Contract Actually Fund? | Directed Ener 98 f417 cost per shot 05 acf 8 dragonfire
+        title_full: What Does Dragon Fire's £316 Million Contract Actually Fund? | Why Dragon Fire Is Both Cheap and Expensive | Why Cheap Drones Changed the Weapons Math | Directed Ener
         url: /contract-cost/
       - title: Drone Savings
-        title_full: Will Cheap Laser Shots Beat Drone Defence Costs? | Directed Ener 98 f417 cost per shot 05 acf 8 dragonfire
+        title_full: Will Cheap Laser Shots Beat Drone Defence Costs? | Why Dragon Fire Is Both Cheap and Expensive | Why Cheap Drones Changed the Weapons Math | Directed Ener
         url: /drone-savings/
       - title: Ship Integration
-        title_full: Why Installing Dragon Fire Costs More Than Firing It | Directed Ener 98 f417 cost per shot 05 acf 8 dragonfire
+        title_full: Why Installing Dragon Fire Costs More Than Firing It | Why Dragon Fire Is Both Cheap and Expensive | Why Cheap Drones Changed the Weapons Math | Directed Ener
         url: /ship-integration/
     - title: Layered Defence
-      title_full: Where Lasers Fit in a Layered Drone Defence | Directed Ener 98 f417 cost per shot
+      title_full: Where Lasers Fit in a Layered Drone Defence | Why Cheap Drones Changed the Weapons Math | Directed Ener
       url: /layered-defence/
       children:
       - title: A Laser Should Fire Before A Missile Only...
-        title_full: When Should a Laser Fire First? | Directed Ener 98 f417 cost per shot 05 acf 8 laser layered
+        title_full: When Should a Laser Fire First? | Where Lasers Fit in a Layered Drone Defence | Why Cheap Drones Changed the Weapons Math | Directed Ener
         url: /a-laser-should-fire-before-a-missile/
       - title: Other Layers
-        title_full: Why Lasers Still Need Backup Weapons | Directed Ener 98 f417 cost per shot 05 acf 8 laser layered
+        title_full: Why Lasers Still Need Backup Weapons | Where Lasers Fit in a Layered Drone Defence | Why Cheap Drones Changed the Weapons Math | Directed Ener
         url: /other-layers/
       - title: Saturation
-        title_full: How Drone Raids Drain Missile Defenses | Directed Ener 98 f417 cost per shot 05 acf 8 laser layered
+        title_full: How Drone Raids Drain Missile Defenses | Where Lasers Fit in a Layered Drone Defence | Why Cheap Drones Changed the Weapons Math | Directed Ener
         url: /saturation/
     - title: Missile Mismatch
-      title_full: Why Cheap Drones Can Drain Expensive Missiles | Directed Ener 98 f417 cost per shot
+      title_full: Why Cheap Drones Can Drain Expensive Missiles | Why Cheap Drones Changed the Weapons Math | Directed Ener
       url: /missile-mismatch/
       children:
       - title: Red Sea Case
-        title_full: The Red Sea lesson in missile depletion | Directed Ener 98 f417 cost per shot 05 acf 8 cheap drone
+        title_full: The Red Sea lesson in missile depletion | Why Cheap Drones Can Drain Expensive Missiles | Why Cheap Drones Changed the Weapons Math | Directed Ener
         url: /red-sea-case/
       - title: Ukraine Layers
-        title_full: Ukraine's cheaper answers to Shahed drones | Directed Ener 98 f417 cost per shot 05 acf 8 cheap drone
+        title_full: Ukraine's cheaper answers to Shahed drones | Why Cheap Drones Can Drain Expensive Missiles | Why Cheap Drones Changed the Weapons Math | Directed Ener
         url: /ukraine-layers/
       - title: Value Protected
-        title_full: When an expensive intercept still makes sense | Directed Ener 98 f417 cost per shot 05 acf 8 cheap drone
+        title_full: When an expensive intercept still makes sense | Why Cheap Drones Can Drain Expensive Missiles | Why Cheap Drones Changed the Weapons Math | Directed Ener
         url: /value-protected/
     - title: True Cost
-      title_full: What Does a Cheap Laser Shot Really Cost? | Directed Ener 98 f417 cost per shot
+      title_full: What Does a Cheap Laser Shot Really Cost? | Why Cheap Drones Changed the Weapons Math | Directed Ener
       url: /true-cost/
       children:
       - title: Maintenance
-        title_full: Can Laser Maintenance Erase Cheap Shots? | Directed Ener 98 f417 cost per shot 05 acf 8 true laser
+        title_full: Can Laser Maintenance Erase Cheap Shots? | What Does a Cheap Laser Shot Really Cost? | Why Cheap Drones Changed the Weapons Math | Directed Ener
         url: /maintenance/
       - title: Power Costs
-        title_full: Why Cheap Laser Shots Need Expensive Support | Directed Ener 98 f417 cost per shot 05 acf 8 true laser
+        title_full: Why Cheap Laser Shots Need Expensive Support | What Does a Cheap Laser Shot Really Cost? | Why Cheap Drones Changed the Weapons Math | Directed Ener
         url: /power-costs/
       - title: Sensor Fit
-        title_full: The Hidden Systems That Make Lasers Work | Directed Ener 98 f417 cost per shot 05 acf 8 true laser
+        title_full: The Hidden Systems That Make Lasers Work | What Does a Cheap Laser Shot Really Cost? | Why Cheap Drones Changed the Weapons Math | Directed Ener
         url: /sensor-fit/
   - title: THOR
     title_full: What THOR Shows About Microwave Air Defence | Directed Ener
     url: /thor/
     children:
     - title: 2023 Test
-      title_full: What Did the THOR Swarm Test Prove? | Directed Ener 98 f417 thor microwav
+      title_full: What Did the THOR Swarm Test Prove? | What THOR Shows About Microwave Air Defence | Directed Ener
       url: /2023-test/
       children:
       - title: Kill Chain
-        title_full: The Hidden Chain Behind THOR's Drone Disruptions | Directed Ener 98 f417 thor microwav ef 8 a15 thor 2023 swa
+        title_full: The Hidden Chain Behind THOR's Drone Disruptions | What Did the THOR Swarm Test Prove? | What THOR Shows About Microwave Air Defence | Directed Ener
         url: /kill-chain/
       - title: Open Questions
-        title_full: What THOR's Big Test Still Did Not Prove | Directed Ener 98 f417 thor microwav ef 8 a15 thor 2023 swa
+        title_full: What THOR's Big Test Still Did Not Prove | What Did the THOR Swarm Test Prove? | What THOR Shows About Microwave Air Defence | Directed Ener
         url: /open-questions-2ce8e8/
       - title: Wide Beam
-        title_full: Can One Microwave Beam Stop Many Drones? | Directed Ener 98 f417 thor microwav ef 8 a15 thor 2023 swa
+        title_full: Can One Microwave Beam Stop Many Drones? | What Did the THOR Swarm Test Prove? | What THOR Shows About Microwave Air Defence | Directed Ener
         url: /wide-beam-03c030/
     - title: Deployment
-      title_full: Can THOR Fit Real Airbase Defence? | Directed Ener 98 f417 thor microwav
+      title_full: Can THOR Fit Real Airbase Defence? | What THOR Shows About Microwave Air Defence | Directed Ener
       url: /deployment/
       children:
       - title: Container Move
-        title_full: Can THOR Move as Fast as Drone Threats | Directed Ener 98 f417 thor microwav ef 8 a15 thor airbase
+        title_full: Can THOR Move as Fast as Drone Threats | Can THOR Fit Real Airbase Defence? | What THOR Shows About Microwave Air Defence | Directed Ener
         url: /container-move/
       - title: Power Burden
-        title_full: What Does Wall Plug Power Really Prove | Directed Ener 98 f417 thor microwav ef 8 a15 thor airbase
+        title_full: What Does Wall Plug Power Really Prove | Can THOR Fit Real Airbase Defence? | What THOR Shows About Microwave Air Defence | Directed Ener
         url: /power-burden/
       - title: Sensor Chain
-        title_full: Why the Microwave Is Only Half the System | Directed Ener 98 f417 thor microwav ef 8 a15 thor airbase
+        title_full: Why the Microwave Is Only Half the System | Can THOR Fit Real Airbase Defence? | What THOR Shows About Microwave Air Defence | Directed Ener
         url: /sensor-chain-958704/
     - title: Kill Effect
-      title_full: How Do Microwaves Disable Drones? | Directed Ener 98 f417 thor microwav
+      title_full: How Do Microwaves Disable Drones? | What THOR Shows About Microwave Air Defence | Directed Ener
       url: /kill-effect/
       children:
       - title: Coupling Paths
-        title_full: How Microwaves Get Inside a Drone | Directed Ener 98 f417 thor microwav ef 8 a15 thor microwav
+        title_full: How Microwaves Get Inside a Drone | How Do Microwaves Disable Drones? | What THOR Shows About Microwave Air Defence | Directed Ener
         url: /coupling-paths/
       - title: Drone Variation
-        title_full: Why One Drone May Fall and Another Recover | Directed Ener 98 f417 thor microwav ef 8 a15 thor microwav
+        title_full: Why One Drone May Fall and Another Recover | How Do Microwaves Disable Drones? | What THOR Shows About Microwave Air Defence | Directed Ener
         url: /drone-variation/
       - title: Visible Effects
-        title_full: Why a Falling Drone Does Not Prove the Kill | Directed Ener 98 f417 thor microwav ef 8 a15 thor microwav
+        title_full: Why a Falling Drone Does Not Prove the Kill | How Do Microwaves Disable Drones? | What THOR Shows About Microwave Air Defence | Directed Ener
         url: /visible-effects/
     - title: Safety Zones
-      title_full: What Else Could THOR Affect? | Directed Ener 98 f417 thor microwav
+      title_full: What Else Could THOR Affect? | What THOR Shows About Microwave Air Defence | Directed Ener
       url: /safety-zones/
       children:
       - title: Electronics Risk
-        title_full: Can THOR Jam Its Own Defenders? | Directed Ener 98 f417 thor microwav ef 8 a15 thor electron
+        title_full: Can THOR Jam Its Own Defenders? | What Else Could THOR Affect? | What THOR Shows About Microwave Air Defence | Directed Ener
         url: /electronics-risk-df4c18/
       - title: Firing Sectors
-        title_full: Why THOR Cannot Fire Everywhere | Directed Ener 98 f417 thor microwav ef 8 a15 thor electron
+        title_full: Why THOR Cannot Fire Everywhere | What Else Could THOR Affect? | What THOR Shows About Microwave Air Defence | Directed Ener
         url: /firing-sectors/
       - title: Human Safety
-        title_full: How Close Is Too Close to THOR? | Directed Ener 98 f417 thor microwav ef 8 a15 thor electron
+        title_full: How Close Is Too Close to THOR? | What Else Could THOR Affect? | What THOR Shows About Microwave Air Defence | Directed Ener
         url: /human-safety/
     - title: Wide Beam
-      title_full: Why THOR Uses a Wide Beam | Directed Ener 98 f417 thor microwav
+      title_full: Why THOR Uses a Wide Beam | What THOR Shows About Microwave Air Defence | Directed Ener
       url: /wide-beam/
       children:
       - title: Beam Risks
-        title_full: When A Wide Beam Becomes A Problem | Directed Ener 98 f417 thor microwav ef 8 a15 thor wide
+        title_full: When A Wide Beam Becomes A Problem | Why THOR Uses a Wide Beam | What THOR Shows About Microwave Air Defence | Directed Ener
         url: /beam-risks/
       - title: Engagement Math
-        title_full: Why One Shot Can Matter Against Many Drones | Directed Ener 98 f417 thor microwav ef 8 a15 thor wide
+        title_full: Why One Shot Can Matter Against Many Drones | Why THOR Uses a Wide Beam | What THOR Shows About Microwave Air Defence | Directed Ener
         url: /engagement-math/
       - title: THOR Tests
-        title_full: What The THOR Swarm Tests Really Proved | Directed Ener 98 f417 thor microwav ef 8 a15 thor wide
+        title_full: What The THOR Swarm Tests Really Proved | Why THOR Uses a Wide Beam | What THOR Shows About Microwave Air Defence | Directed Ener
         url: /thor-tests-8df623/

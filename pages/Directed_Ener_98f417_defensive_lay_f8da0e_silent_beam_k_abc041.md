@@ -286,6 +286,7 @@ next_link:
   short_title: Microwave Risk
   heading_title: The Swarm Weapon That Cannot Be Too Broad
 date: '2026-06-19 13:28:41 '
+last_modified_at: '2026-06-19 13:28:41 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_silent_beam_k_abc041-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_silent_beam_k_abc041-Illustration-1.webp

@@ -286,6 +286,7 @@ next_link:
   short_title: Wide Beam
   heading_title: Why THOR Uses a Wide Beam
 date: '2026-06-19 14:36:57 '
+last_modified_at: '2026-06-19 14:36:57 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_electron_02f850-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_electron_02f850-Illustration-1.webp

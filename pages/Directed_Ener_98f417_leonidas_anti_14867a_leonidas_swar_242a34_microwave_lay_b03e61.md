@@ -267,6 +267,7 @@ next_link:
   short_title: One Burst
   heading_title: Can one pulse beat a drone swarm?
 date: '2026-06-19 18:13:36 '
+last_modified_at: '2026-06-19 18:13:36 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_swar_242a34_microwave_lay_b03e61-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_swar_242a34_microwave_lay_b03e61-Illustration-1.webp

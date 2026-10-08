@@ -267,6 +267,7 @@ next_link:
   short_title: Mobile Limits
   heading_title: Why Battlefield Lasers Are Hard To Keep Running
 date: '2026-06-19 15:51:01 '
+last_modified_at: '2026-06-19 15:51:01 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_fixed_base_la_4ef4d2_base_laser_de_3ea4ca-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_fixed_base_la_4ef4d2_base_laser_de_3ea4ca-Illustration-1.webp

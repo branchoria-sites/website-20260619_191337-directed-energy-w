@@ -261,6 +261,7 @@ next_link:
   short_title: Preble Test
   heading_title: What One HELIOS Drone Test Really Proved
 date: '2026-06-19 16:55:27 '
+last_modified_at: '2026-06-19 16:55:27 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_helios_lasers_773815_threat_bounda_0b6cdc_small_drone_d_c5211d-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_helios_lasers_773815_threat_bounda_0b6cdc_small_drone_d_c5211d-Illustration-1.webp

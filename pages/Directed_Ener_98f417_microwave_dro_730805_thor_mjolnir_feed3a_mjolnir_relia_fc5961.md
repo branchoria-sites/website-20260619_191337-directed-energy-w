@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-18 11:36:05'
+last_modified_at: '2026-06-18 11:36:05'
 parent_title: What THOR Reveals About Microwave Drone Defense
 parent_permalink: /thor-tests/
 parent_nav_short_title: THOR Tests

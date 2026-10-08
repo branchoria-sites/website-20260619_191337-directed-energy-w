@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-18 17:55:16'
+last_modified_at: '2026-06-18 17:55:16'
 parent_title: Why Cheap Drones Can Drain Expensive Missiles
 parent_permalink: /missile-mismatch/
 parent_nav_short_title: Missile Mismatch

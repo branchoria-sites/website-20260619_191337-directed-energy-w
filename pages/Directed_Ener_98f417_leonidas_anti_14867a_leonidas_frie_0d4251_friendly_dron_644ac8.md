@@ -267,6 +267,7 @@ next_link:
   short_title: Use Rules
   heading_title: The Rules That Keep Leonidas From Backfiring
 date: '2026-06-19 18:06:39 '
+last_modified_at: '2026-06-19 18:06:39 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_frie_0d4251_friendly_dron_644ac8-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_frie_0d4251_friendly_dron_644ac8-Illustration-1.webp

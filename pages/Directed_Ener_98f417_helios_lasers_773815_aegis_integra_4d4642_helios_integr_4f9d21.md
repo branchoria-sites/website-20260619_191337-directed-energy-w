@@ -267,6 +267,7 @@ next_link:
   short_title: Weapon Choice
   heading_title: When Should a Destroyer Use a Laser?
 date: '2026-06-19 16:47:07 '
+last_modified_at: '2026-06-19 16:47:07 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_helios_lasers_773815_aegis_integra_4d4642_helios_integr_4f9d21-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_helios_lasers_773815_aegis_integra_4d4642_helios_integr_4f9d21-Illustration-1.webp

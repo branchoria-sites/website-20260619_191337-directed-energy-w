@@ -286,6 +286,7 @@ next_link:
   short_title: Electronics Risk
   heading_title: The Risk Inside a Wide Microwave Beam
 date: '2026-06-19 14:15:04 '
+last_modified_at: '2026-06-19 14:15:04 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_army_3cfd66-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_army_3cfd66-Illustration-1.webp

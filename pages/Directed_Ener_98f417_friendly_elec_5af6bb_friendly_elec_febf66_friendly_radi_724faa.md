@@ -267,6 +267,7 @@ next_link:
   short_title: Vehicle Tests
   heading_title: Why One Safe Part Does Not Mean a Safe Vehicle
 date: '2026-06-19 16:38:11 '
+last_modified_at: '2026-06-19 16:38:11 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_friendly_elec_febf66_friendly_radi_724faa-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_friendly_elec_febf66_friendly_radi_724faa-Illustration-1.webp

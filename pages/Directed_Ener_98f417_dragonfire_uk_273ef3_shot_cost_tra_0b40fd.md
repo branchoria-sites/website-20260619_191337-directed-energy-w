@@ -286,6 +286,7 @@ next_link:
   short_title: Type 45 Fit
   heading_title: What Happens When Dragon Fire Goes to Sea?
 date: '2026-06-19 13:33:30 '
+last_modified_at: '2026-06-19 13:33:30 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_shot_cost_tra_0b40fd-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_shot_cost_tra_0b40fd-Illustration-1.webp

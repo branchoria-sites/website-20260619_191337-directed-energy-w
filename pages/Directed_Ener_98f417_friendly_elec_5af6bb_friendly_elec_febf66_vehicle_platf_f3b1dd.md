@@ -261,6 +261,7 @@ prev_link:
   short_title: Radio Coupling
   heading_title: Why Friendly Radios Are First to Fail
 date: '2026-06-19 16:41:18 '
+last_modified_at: '2026-06-19 16:41:18 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_friendly_elec_febf66_vehicle_platf_f3b1dd-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_friendly_elec_febf66_vehicle_platf_f3b1dd-Illustration-1.webp

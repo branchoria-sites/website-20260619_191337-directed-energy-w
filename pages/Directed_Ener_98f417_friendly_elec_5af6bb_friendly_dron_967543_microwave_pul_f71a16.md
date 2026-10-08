@@ -267,6 +267,7 @@ next_link:
   short_title: Recon Risk
   heading_title: Can Defence Shots Blind Their Own Force?
 date: '2026-06-19 16:35:22 '
+last_modified_at: '2026-06-19 16:35:22 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_friendly_dron_967543_microwave_pul_f71a16-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_friendly_dron_967543_microwave_pul_f71a16-Illustration-1.webp

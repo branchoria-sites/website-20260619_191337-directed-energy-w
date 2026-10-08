@@ -267,6 +267,7 @@ next_link:
   short_title: Collateral Risk
   heading_title: When Precision Matters More Than Coverage
 date: '2026-06-19 15:04:58 '
+last_modified_at: '2026-06-19 15:04:58 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_laser_single_6b0feb_bad_weather_l_ba6988-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_laser_single_6b0feb_bad_weather_l_ba6988-Illustration-1.webp

@@ -267,6 +267,7 @@ next_link:
   short_title: THOR Tests
   heading_title: What The THOR Swarm Tests Really Proved
 date: '2026-06-19 19:02:57 '
+last_modified_at: '2026-06-19 19:02:57 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_wide_bea_77bcf1_wide_beam_eng_872adc-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_wide_bea_77bcf1_wide_beam_eng_872adc-Illustration-1.webp

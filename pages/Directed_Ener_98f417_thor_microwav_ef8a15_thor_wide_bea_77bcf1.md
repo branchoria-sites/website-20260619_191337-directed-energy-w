@@ -280,6 +280,7 @@ prev_link:
   short_title: Safety Zones
   heading_title: What Else Could THOR Affect?
 date: '2026-06-19 14:39:58 '
+last_modified_at: '2026-06-19 14:39:58 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_wide_bea_77bcf1-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_wide_bea_77bcf1-Illustration-1.webp

@@ -261,6 +261,7 @@ next_link:
   short_title: Smoke Choice
   heading_title: When Bad Air Favors Microwave Defence
 date: '2026-06-19 17:53:49 '
+last_modified_at: '2026-06-19 17:53:49 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_weather_laser_7b9893_fog_sea_spray_2946ea-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_weather_laser_7b9893_fog_sea_spray_2946ea-Illustration-1.webp

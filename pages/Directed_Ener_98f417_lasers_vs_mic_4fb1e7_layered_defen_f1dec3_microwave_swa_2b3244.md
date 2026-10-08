@@ -267,6 +267,7 @@ next_link:
   short_title: Weather Guns
   heading_title: Why Guns Still Matter in Bad Weather
 date: '2026-06-19 17:43:12 '
+last_modified_at: '2026-06-19 17:43:12 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_layered_defen_f1dec3_microwave_swa_2b3244-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_layered_defen_f1dec3_microwave_swa_2b3244-Illustration-1.webp

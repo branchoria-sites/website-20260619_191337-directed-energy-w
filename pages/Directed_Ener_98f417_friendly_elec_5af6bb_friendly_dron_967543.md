@@ -286,6 +286,7 @@ next_link:
   short_title: Spillover Risk
   heading_title: When the Beam Hits More Than the Drone
 date: '2026-06-19 13:39:33 '
+last_modified_at: '2026-06-19 13:39:33 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_friendly_dron_967543-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_friendly_dron_967543-Illustration-1.webp

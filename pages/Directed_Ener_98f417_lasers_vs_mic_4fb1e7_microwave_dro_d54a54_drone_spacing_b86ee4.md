@@ -261,6 +261,7 @@ prev_link:
   short_title: Laser Queues
   heading_title: Why Drone Swarms Turn Lasers Into Queues
 date: '2026-06-19 17:42:06 '
+last_modified_at: '2026-06-19 17:42:06 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_microwave_dro_d54a54_drone_spacing_b86ee4-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_microwave_dro_d54a54_drone_spacing_b86ee4-Illustration-1.webp

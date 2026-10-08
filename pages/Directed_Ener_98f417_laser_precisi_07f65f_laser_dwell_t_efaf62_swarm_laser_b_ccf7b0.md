@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-18 11:34:51'
+last_modified_at: '2026-06-18 11:34:51'
 parent_title: Why Lasers Still Need Time to Kill
 parent_permalink: /dwell-time-71eaeb/
 parent_nav_short_title: Dwell Time

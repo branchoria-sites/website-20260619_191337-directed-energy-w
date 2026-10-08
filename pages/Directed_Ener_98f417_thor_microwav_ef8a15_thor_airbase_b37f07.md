@@ -286,6 +286,7 @@ next_link:
   short_title: Kill Effect
   heading_title: How Do Microwaves Disable Drones?
 date: '2026-06-19 13:16:09 '
+last_modified_at: '2026-06-19 13:16:09 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_airbase_b37f07-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_airbase_b37f07-Illustration-1.webp

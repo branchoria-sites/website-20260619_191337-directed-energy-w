@@ -261,6 +261,7 @@ next_link:
   short_title: USS Ponce
   heading_title: Why USS Ponce Made Lasers Feel Real
 date: '2026-06-19 14:57:19 '
+last_modified_at: '2026-06-19 14:57:19 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_helios_lasers_773815_navy_laser_li_1960e5_helios_aegis_f011a6-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_helios_lasers_773815_navy_laser_li_1960e5_helios_aegis_f011a6-Illustration-1.webp

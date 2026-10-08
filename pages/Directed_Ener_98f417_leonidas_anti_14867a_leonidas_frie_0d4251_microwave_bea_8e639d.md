@@ -261,6 +261,7 @@ next_link:
   short_title: Friendly Drones
   heading_title: Can Friendly Drones Survive the Defense?
 date: '2026-06-19 18:09:57 '
+last_modified_at: '2026-06-19 18:09:57 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_frie_0d4251_microwave_bea_8e639d-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_frie_0d4251_microwave_bea_8e639d-Illustration-1.webp

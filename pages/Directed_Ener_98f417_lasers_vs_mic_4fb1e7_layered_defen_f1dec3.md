@@ -286,6 +286,7 @@ next_link:
   short_title: Single Drones
   heading_title: When Is A Laser The Cleaner Kill?
 date: '2026-06-19 14:05:51 '
+last_modified_at: '2026-06-19 14:05:51 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_layered_defen_f1dec3-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_layered_defen_f1dec3-Illustration-1.webp

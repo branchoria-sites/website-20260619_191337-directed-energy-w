@@ -267,6 +267,7 @@ next_link:
   short_title: Microwave Check
   heading_title: Did the Microwave Stop the Drone for Good?
 date: '2026-06-19 16:04:34 '
+last_modified_at: '2026-06-19 16:04:34 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_silent_beam_k_abc041_layered_defen_c4e62d-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_silent_beam_k_abc041_layered_defen_c4e62d-Illustration-1.webp

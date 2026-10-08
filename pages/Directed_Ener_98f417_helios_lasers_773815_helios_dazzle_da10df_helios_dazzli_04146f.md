@@ -261,6 +261,7 @@ prev_link:
   short_title: Escalation
   heading_title: Why Blinding Sensors Can Be the Safer Move
 date: '2026-06-19 16:49:33 '
+last_modified_at: '2026-06-19 16:49:33 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_helios_lasers_773815_helios_dazzle_da10df_helios_dazzli_04146f-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_helios_lasers_773815_helios_dazzle_da10df_helios_dazzli_04146f-Illustration-1.webp

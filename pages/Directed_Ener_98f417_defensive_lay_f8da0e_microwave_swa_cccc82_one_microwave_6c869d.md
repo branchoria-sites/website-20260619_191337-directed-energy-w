@@ -261,6 +261,7 @@ prev_link:
   short_title: Friendly Risk
   heading_title: What Else Gets Hit by a Microwave Weapon?
 date: '2026-06-19 16:01:28 '
+last_modified_at: '2026-06-19 16:01:28 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_microwave_swa_cccc82_one_microwave_6c869d-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_microwave_swa_cccc82_one_microwave_6c869d-Illustration-1.webp

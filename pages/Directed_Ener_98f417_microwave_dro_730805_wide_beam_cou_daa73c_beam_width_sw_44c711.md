@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-18 11:35:42'
+last_modified_at: '2026-06-18 11:35:42'
 parent_title: Why Wide Beams Matter Against Drone Swarms
 parent_permalink: /wide-beams/
 parent_nav_short_title: Wide Beams

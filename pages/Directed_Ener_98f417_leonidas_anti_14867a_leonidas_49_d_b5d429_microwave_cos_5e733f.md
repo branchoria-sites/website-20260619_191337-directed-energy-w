@@ -261,6 +261,7 @@ next_link:
   short_title: One Pulse
   heading_title: Why One Pulse Changed the Counter Swarm Debate
 date: '2026-06-19 17:58:55 '
+last_modified_at: '2026-06-19 17:58:55 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_49_d_b5d429_microwave_cos_5e733f-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_49_d_b5d429_microwave_cos_5e733f-Illustration-1.webp

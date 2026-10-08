@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-18 22:14:48'
+last_modified_at: '2026-06-18 22:14:48'
 parent_title: How Much Can Beam Control Fix?
 parent_permalink: /beam-control/
 parent_nav_short_title: Beam Control

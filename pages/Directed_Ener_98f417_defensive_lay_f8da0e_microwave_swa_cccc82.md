@@ -286,6 +286,7 @@ next_link:
   short_title: Sensor Chain
   heading_title: The Beam Is Only Half the Weapon
 date: '2026-06-19 13:27:15 '
+last_modified_at: '2026-06-19 13:27:15 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_microwave_swa_cccc82-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_microwave_swa_cccc82-Illustration-1.webp

@@ -325,6 +325,7 @@ next_link:
   short_title: Microwaves
   heading_title: Can Microwaves Stop Drone Swarms?
 date: '2026-06-19 12:58:58 '
+last_modified_at: '2026-06-19 12:58:58 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_leonidas_anti_14867a-overview-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_leonidas_anti_14867a-overview.webp

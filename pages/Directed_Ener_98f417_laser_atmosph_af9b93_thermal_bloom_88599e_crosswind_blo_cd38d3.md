@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-18 17:55:48'
+last_modified_at: '2026-06-18 17:55:48'
 parent_title: When a Laser Gets in Its Own Way
 parent_permalink: /blooming/
 parent_nav_short_title: Blooming

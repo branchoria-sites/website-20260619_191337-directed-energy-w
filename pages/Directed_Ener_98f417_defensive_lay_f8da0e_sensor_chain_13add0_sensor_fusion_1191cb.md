@@ -267,6 +267,7 @@ next_link:
   short_title: Swarm Saturation
   heading_title: Can Laser Defences Think Fast Enough?
 date: '2026-06-19 14:45:23 '
+last_modified_at: '2026-06-19 14:45:23 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_sensor_chain_13add0_sensor_fusion_1191cb-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_sensor_chain_13add0_sensor_fusion_1191cb-Illustration-1.webp

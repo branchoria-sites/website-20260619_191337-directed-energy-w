@@ -261,6 +261,7 @@ next_link:
   short_title: Integration Test
   heading_title: Is HELIOS a Weapon or a Demonstration?
 date: '2026-06-19 14:54:15 '
+last_modified_at: '2026-06-19 14:54:15 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_helios_lasers_773815_aegis_integra_4d4642_aegis_cueing_20203d-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_helios_lasers_773815_aegis_integra_4d4642_aegis_cueing_20203d-Illustration-1.webp

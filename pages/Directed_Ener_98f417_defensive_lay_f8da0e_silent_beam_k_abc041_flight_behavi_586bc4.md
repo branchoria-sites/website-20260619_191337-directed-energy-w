@@ -261,6 +261,7 @@ next_link:
   short_title: Handoff Choice
   heading_title: When Should Defenders Fire the Next Weapon?
 date: '2026-06-19 16:03:02 '
+last_modified_at: '2026-06-19 16:03:02 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_silent_beam_k_abc041_flight_behavi_586bc4-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_silent_beam_k_abc041_flight_behavi_586bc4-Illustration-1.webp

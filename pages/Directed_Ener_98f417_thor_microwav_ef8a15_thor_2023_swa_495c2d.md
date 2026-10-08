@@ -280,6 +280,7 @@ next_link:
   short_title: Deployment
   heading_title: Can THOR Fit Real Airbase Defence?
 date: '2026-06-19 14:33:43 '
+last_modified_at: '2026-06-19 14:33:43 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_2023_swa_495c2d-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_2023_swa_495c2d-Illustration-1.webp

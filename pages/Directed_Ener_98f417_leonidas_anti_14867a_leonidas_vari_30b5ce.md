@@ -280,6 +280,7 @@ prev_link:
   short_title: Swarm Economics
   heading_title: Can One Pulse Beat a Drone Swarm?
 date: '2026-06-19 14:20:10 '
+last_modified_at: '2026-06-19 14:20:10 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_vari_30b5ce-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_vari_30b5ce-Illustration-1.webp

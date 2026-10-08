@@ -207,6 +207,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-18 22:38:31'
+last_modified_at: '2026-06-18 22:38:31'
 parent_title: What Dragon Fire Reveals About Battlefield Lasers
 parent_permalink: /dragon-fire/
 parent_nav_short_title: Dragon Fire

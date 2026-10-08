@@ -261,6 +261,7 @@ next_link:
   short_title: Defence Network
   heading_title: Why A Laser Is Not The Whole Defence
 date: '2026-06-19 15:52:43 '
+last_modified_at: '2026-06-19 15:52:43 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_fixed_base_la_4ef4d2_laser_persist_c752c0-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_fixed_base_la_4ef4d2_laser_persist_c752c0-Illustration-1.webp

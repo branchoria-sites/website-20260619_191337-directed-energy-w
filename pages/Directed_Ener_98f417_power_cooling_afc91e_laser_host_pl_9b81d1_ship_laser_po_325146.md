@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-18 22:30:02'
+last_modified_at: '2026-06-18 22:30:02'
 parent_title: Why Ships Get Lasers Before Aircraft
 parent_permalink: /host-platforms/
 parent_nav_short_title: Host Platforms

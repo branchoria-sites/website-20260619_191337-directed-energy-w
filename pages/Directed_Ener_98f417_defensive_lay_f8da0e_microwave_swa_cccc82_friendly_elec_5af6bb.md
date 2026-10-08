@@ -267,6 +267,7 @@ next_link:
   short_title: One Shot
   heading_title: Can One Microwave Shot Stop a Swarm?
 date: '2026-06-19 15:58:20 '
+last_modified_at: '2026-06-19 15:58:20 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_microwave_swa_cccc82_friendly_elec_5af6bb-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_microwave_swa_cccc82_friendly_elec_5af6bb-Illustration-1.webp

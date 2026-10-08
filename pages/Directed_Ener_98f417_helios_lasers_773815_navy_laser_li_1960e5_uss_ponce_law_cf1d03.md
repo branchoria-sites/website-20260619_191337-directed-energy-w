@@ -267,6 +267,7 @@ next_link:
   short_title: USS Portland
   heading_title: How Portland Raised the Target Bar
 date: '2026-06-19 16:52:51 '
+last_modified_at: '2026-06-19 16:52:51 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_helios_lasers_773815_navy_laser_li_1960e5_uss_ponce_law_cf1d03-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_helios_lasers_773815_navy_laser_li_1960e5_uss_ponce_law_cf1d03-Illustration-1.webp

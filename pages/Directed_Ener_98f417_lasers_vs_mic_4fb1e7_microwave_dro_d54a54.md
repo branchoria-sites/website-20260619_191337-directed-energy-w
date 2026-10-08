@@ -286,6 +286,7 @@ next_link:
   short_title: Weather Limits
   heading_title: When The Air Itself Becomes A Shield
 date: '2026-06-19 14:07:02 '
+last_modified_at: '2026-06-19 14:07:02 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_microwave_dro_d54a54-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_microwave_dro_d54a54-Illustration-1.webp

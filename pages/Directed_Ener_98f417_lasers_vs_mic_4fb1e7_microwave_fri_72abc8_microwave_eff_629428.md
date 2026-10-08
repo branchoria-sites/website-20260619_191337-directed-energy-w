@@ -261,6 +261,7 @@ next_link:
   short_title: Exclusion Zones
   heading_title: Where Friendly Gear Must Stay Out of the Beam
 date: '2026-06-19 17:47:57 '
+last_modified_at: '2026-06-19 17:47:57 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_microwave_fri_72abc8_microwave_eff_629428-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_microwave_fri_72abc8_microwave_eff_629428-Illustration-1.webp

@@ -267,6 +267,7 @@ next_link:
   short_title: Weather Risk
   heading_title: When Bad Weather Beats a Laser
 date: '2026-06-19 15:55:37 '
+last_modified_at: '2026-06-19 15:55:37 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_laser_missile_f41d72_layered_defen_2e673a-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_laser_missile_f41d72_layered_defen_2e673a-Illustration-1.webp

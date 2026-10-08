@@ -267,6 +267,7 @@ next_link:
   short_title: Soldier Training
   heading_title: When Soldiers Took Over Leonidas
 date: '2026-06-19 18:02:13 '
+last_modified_at: '2026-06-19 18:02:13 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_army_3cfd66_four_prototyp_95e1fb-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_army_3cfd66_four_prototyp_95e1fb-Illustration-1.webp

@@ -319,6 +319,7 @@ prev_link:
   short_title: Shot Cost
   heading_title: Why Cheap Drones Changed the Weapons Math
 date: '2026-06-19 13:05:08 '
+last_modified_at: '2026-06-19 13:05:08 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_thor_microwav_ef8a15-overview-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_thor_microwav_ef8a15-overview.webp

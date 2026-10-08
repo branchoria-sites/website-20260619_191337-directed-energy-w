@@ -207,6 +207,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-18 11:35:54'
+last_modified_at: '2026-06-18 11:35:54'
 parent_title: Can Microwaves Stop Drone Swarms?
 parent_permalink: /microwaves/
 parent_nav_short_title: Microwaves

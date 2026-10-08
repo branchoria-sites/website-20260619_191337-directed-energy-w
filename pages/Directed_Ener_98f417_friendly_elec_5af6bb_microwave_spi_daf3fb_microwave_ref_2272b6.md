@@ -261,6 +261,7 @@ prev_link:
   short_title: Radio Risk
   heading_title: Why Radios Are So Exposed to Spillover
 date: '2026-06-19 16:44:08 '
+last_modified_at: '2026-06-19 16:44:08 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_microwave_spi_daf3fb_microwave_ref_2272b6-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_microwave_spi_daf3fb_microwave_ref_2272b6-Illustration-1.webp

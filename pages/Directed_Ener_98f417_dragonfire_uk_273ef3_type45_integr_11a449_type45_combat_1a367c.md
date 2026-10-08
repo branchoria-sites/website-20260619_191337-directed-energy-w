@@ -261,6 +261,7 @@ next_link:
   short_title: Sea Conditions
   heading_title: Can Dragon Fire Work on a Moving Warship
 date: '2026-06-19 16:21:50 '
+last_modified_at: '2026-06-19 16:21:50 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_type45_integr_11a449_type45_combat_1a367c-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_type45_integr_11a449_type45_combat_1a367c-Illustration-1.webp

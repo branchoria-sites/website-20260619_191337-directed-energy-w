@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-18 17:55:24'
+last_modified_at: '2026-06-18 17:55:24'
 parent_title: Can Lasers Keep Shooting When Missiles Run Low?
 parent_permalink: /deep-magazine/
 parent_nav_short_title: Deep Magazine

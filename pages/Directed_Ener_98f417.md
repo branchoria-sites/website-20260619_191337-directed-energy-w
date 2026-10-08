@@ -200,6 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-18 11:34:32'
+last_modified_at: '2026-06-18 11:34:32'
 child_links:
 - basename: Directed_Ener_98f417_laser_atmosph_af9b93
   title: Atmosphere | Directed Ener

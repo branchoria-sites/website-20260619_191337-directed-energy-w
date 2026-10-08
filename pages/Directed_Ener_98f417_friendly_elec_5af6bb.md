@@ -325,6 +325,7 @@ next_link:
   short_title: Engineering
   heading_title: What the Beam Needs Behind the Scenes
 date: '2026-06-19 12:47:16 '
+last_modified_at: '2026-06-19 12:47:16 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb-overview-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb-overview.webp

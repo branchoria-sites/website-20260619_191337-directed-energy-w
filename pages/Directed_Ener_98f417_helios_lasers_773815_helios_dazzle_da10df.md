@@ -286,6 +286,7 @@ next_link:
   short_title: Laser Lineage
   heading_title: How Navy Lasers Moved From Trials to Ships
 date: '2026-06-19 13:45:11 '
+last_modified_at: '2026-06-19 13:45:11 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_helios_lasers_773815_helios_dazzle_da10df-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_helios_lasers_773815_helios_dazzle_da10df-Illustration-1.webp

@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-18 22:28:28'
+last_modified_at: '2026-06-18 22:28:28'
 parent_title: Why Holding the Beam Matters Most
 parent_permalink: /aim-point/
 parent_nav_short_title: Aim Point

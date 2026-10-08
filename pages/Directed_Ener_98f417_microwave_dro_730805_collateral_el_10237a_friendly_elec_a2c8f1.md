@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-18 17:54:56'
+last_modified_at: '2026-06-18 17:54:56'
 parent_title: What Else Can Microwave Weapons Disrupt?
 parent_permalink: /collateral-risk/
 parent_nav_short_title: Collateral Risk

@@ -261,6 +261,7 @@ next_link:
   short_title: Gatwick Lesson
   heading_title: What Gatwick Taught Airports About Drone Uncertainty
 date: '2026-06-19 16:31:54 '
+last_modified_at: '2026-06-19 16:31:54 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_airport_navig_1e0fb7_airport_drone_d68103-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_airport_navig_1e0fb7_airport_drone_d68103-Illustration-1.webp

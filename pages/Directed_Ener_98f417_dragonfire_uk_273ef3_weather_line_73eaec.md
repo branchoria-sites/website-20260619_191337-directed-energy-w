@@ -286,6 +286,7 @@ next_link:
   short_title: Shot Cost
   heading_title: Is Dragon Fire Really Cheap to Fire?
 date: '2026-06-19 13:08:01 '
+last_modified_at: '2026-06-19 13:08:01 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_weather_line_73eaec-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_weather_line_73eaec-Illustration-1.webp

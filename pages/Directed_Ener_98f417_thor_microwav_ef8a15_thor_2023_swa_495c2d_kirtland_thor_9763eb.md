@@ -267,6 +267,7 @@ next_link:
   short_title: Wide Beam
   heading_title: Can One Microwave Beam Stop Many Drones?
 date: '2026-06-19 18:50:26 '
+last_modified_at: '2026-06-19 18:50:26 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_2023_swa_495c2d_kirtland_thor_9763eb-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_2023_swa_495c2d_kirtland_thor_9763eb-Illustration-1.webp

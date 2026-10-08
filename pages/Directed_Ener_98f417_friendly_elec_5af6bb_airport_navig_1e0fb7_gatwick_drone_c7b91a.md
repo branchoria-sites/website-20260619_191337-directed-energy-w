@@ -267,6 +267,7 @@ next_link:
   short_title: Jamming Risk
   heading_title: Why Jamming a Drone Can Risk a Runway
 date: '2026-06-19 16:30:44 '
+last_modified_at: '2026-06-19 16:30:44 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_airport_navig_1e0fb7_gatwick_drone_c7b91a-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_airport_navig_1e0fb7_gatwick_drone_c7b91a-Illustration-1.webp

@@ -267,6 +267,7 @@ next_link:
   short_title: Why Type 45
   heading_title: Why Dragon Fire Is Going to a Type 45
 date: '2026-06-19 16:19:28 '
+last_modified_at: '2026-06-19 16:19:28 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_type45_integr_11a449_dragonfire_se_a4d209-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_type45_integr_11a449_dragonfire_se_a4d209-Illustration-1.webp

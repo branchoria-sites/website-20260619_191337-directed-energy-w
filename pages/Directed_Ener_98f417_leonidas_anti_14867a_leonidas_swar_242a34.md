@@ -286,6 +286,7 @@ next_link:
   short_title: Variants
   heading_title: Why Leonidas Keeps Showing Up on New Platforms
 date: '2026-06-19 14:19:16 '
+last_modified_at: '2026-06-19 14:19:16 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_swar_242a34-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_swar_242a34-Illustration-1.webp

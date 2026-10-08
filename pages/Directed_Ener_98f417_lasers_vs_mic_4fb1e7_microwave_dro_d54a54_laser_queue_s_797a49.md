@@ -267,6 +267,7 @@ next_link:
   short_title: Swarm Adaptation
   heading_title: How Swarms Fight Back Against Microwaves
 date: '2026-06-19 17:45:16 '
+last_modified_at: '2026-06-19 17:45:16 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_microwave_dro_d54a54_laser_queue_s_797a49-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_microwave_dro_d54a54_laser_queue_s_797a49-Illustration-1.webp

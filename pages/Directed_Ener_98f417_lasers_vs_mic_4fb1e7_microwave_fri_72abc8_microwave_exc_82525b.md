@@ -267,6 +267,7 @@ next_link:
   short_title: Protected Sensors
   heading_title: Can Friendly Radios Survive a Microwave Shot?
 date: '2026-06-19 17:49:09 '
+last_modified_at: '2026-06-19 17:49:09 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_microwave_fri_72abc8_microwave_exc_82525b-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_microwave_fri_72abc8_microwave_exc_82525b-Illustration-1.webp

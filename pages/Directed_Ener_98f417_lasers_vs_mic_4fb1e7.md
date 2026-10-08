@@ -325,6 +325,7 @@ next_link:
   short_title: Lasers
   heading_title: Why Laser Weapons Are Precise but Demanding
 date: '2026-06-19 12:55:57 '
+last_modified_at: '2026-06-19 12:55:57 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7-overview-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7-overview.webp

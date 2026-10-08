@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-18 22:34:02'
+last_modified_at: '2026-06-18 22:34:02'
 parent_title: From Test Shot to Real Weapon
 parent_permalink: /fielding-gap/
 parent_nav_short_title: Fielding Gap

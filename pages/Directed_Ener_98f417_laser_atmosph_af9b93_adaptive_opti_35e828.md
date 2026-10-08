@@ -207,6 +207,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-18 22:14:41'
+last_modified_at: '2026-06-18 22:14:41'
 parent_title: Why Bad Weather Matters for Laser Weapons
 parent_permalink: /atmosphere/
 parent_nav_short_title: Atmosphere

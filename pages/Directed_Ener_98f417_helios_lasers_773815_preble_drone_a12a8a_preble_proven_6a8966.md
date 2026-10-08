@@ -261,6 +261,7 @@ prev_link:
   short_title: Missing Data
   heading_title: The Missing Details Behind the Laser Hit
 date: '2026-06-19 15:02:52 '
+last_modified_at: '2026-06-19 15:02:52 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_helios_lasers_773815_preble_drone_a12a8a_preble_proven_6a8966-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_helios_lasers_773815_preble_drone_a12a8a_preble_proven_6a8966-Illustration-1.webp

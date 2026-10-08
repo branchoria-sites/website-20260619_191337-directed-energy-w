@@ -267,6 +267,7 @@ next_link:
   short_title: Reflections
   heading_title: Why Spillover Does Not Stay in the Beam
 date: '2026-06-19 16:44:14 '
+last_modified_at: '2026-06-19 16:44:14 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_microwave_spi_daf3fb_radio_antenna_0c5692-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_microwave_spi_daf3fb_radio_antenna_0c5692-Illustration-1.webp

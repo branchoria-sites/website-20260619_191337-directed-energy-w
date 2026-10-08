@@ -280,6 +280,7 @@ next_link:
   short_title: Airport Safety
   heading_title: Can Airports Use Directed Energy Safely?
 date: '2026-06-19 13:36:20 '
+last_modified_at: '2026-06-19 13:36:20 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_airbase_exclu_926e22-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_airbase_exclu_926e22-Illustration-1.webp

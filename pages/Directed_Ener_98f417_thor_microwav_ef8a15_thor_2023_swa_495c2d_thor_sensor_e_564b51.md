@@ -261,6 +261,7 @@ next_link:
   short_title: Open Questions
   heading_title: What THOR's Big Test Still Did Not Prove
 date: '2026-06-19 18:50:38 '
+last_modified_at: '2026-06-19 18:50:38 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_2023_swa_495c2d_thor_sensor_e_564b51-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_2023_swa_495c2d_thor_sensor_e_564b51-Illustration-1.webp

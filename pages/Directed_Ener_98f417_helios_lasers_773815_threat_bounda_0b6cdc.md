@@ -280,6 +280,7 @@ prev_link:
   short_title: Preble Test
   heading_title: What Did the Preble Laser Test Prove?
 date: '2026-06-19 13:48:08 '
+last_modified_at: '2026-06-19 13:48:08 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_helios_lasers_773815_threat_bounda_0b6cdc-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_helios_lasers_773815_threat_bounda_0b6cdc-Illustration-1.webp

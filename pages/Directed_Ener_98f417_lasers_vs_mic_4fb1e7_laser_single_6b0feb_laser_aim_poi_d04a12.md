@@ -261,6 +261,7 @@ next_link:
   short_title: Bad Weather
   heading_title: When Weather Turns Precision Into a Problem
 date: '2026-06-19 15:05:10 '
+last_modified_at: '2026-06-19 15:05:10 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_laser_single_6b0feb_laser_aim_poi_d04a12-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_laser_single_6b0feb_laser_aim_poi_d04a12-Illustration-1.webp

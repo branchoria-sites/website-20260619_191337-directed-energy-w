@@ -261,6 +261,7 @@ prev_link:
   short_title: Fog and Spray
   heading_title: When Bad Weather Shortens a Laser Shot
 date: '2026-06-19 14:53:22 '
+last_modified_at: '2026-06-19 14:53:22 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_weather_line_73eaec_horizon_shipb_8300da-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_weather_line_73eaec_horizon_shipb_8300da-Illustration-1.webp

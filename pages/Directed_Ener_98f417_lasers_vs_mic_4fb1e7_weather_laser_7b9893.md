@@ -280,6 +280,7 @@ prev_link:
   short_title: Swarms
   heading_title: Why Swarms Change The Weapon Choice
 date: '2026-06-19 14:10:35 '
+last_modified_at: '2026-06-19 14:10:35 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_weather_laser_7b9893-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_lasers_vs_mic_4fb1e7_weather_laser_7b9893-Illustration-1.webp

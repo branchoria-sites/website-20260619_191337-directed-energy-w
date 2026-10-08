@@ -267,6 +267,7 @@ next_link:
   short_title: Real Savings
   heading_title: When Do Cheap Laser Shots Pay Off?
 date: '2026-06-19 16:16:25 '
+last_modified_at: '2026-06-19 16:16:25 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_shot_cost_tra_0b40fd_dragonfire_pr_294a72-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_shot_cost_tra_0b40fd_dragonfire_pr_294a72-Illustration-1.webp

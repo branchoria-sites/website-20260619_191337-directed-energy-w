@@ -207,6 +207,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-18 22:22:03'
+last_modified_at: '2026-06-18 22:22:03'
 parent_title: What the Beam Needs Behind the Scenes
 parent_permalink: /engineering/
 parent_nav_short_title: Engineering

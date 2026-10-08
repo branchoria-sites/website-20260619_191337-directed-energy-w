@@ -280,6 +280,7 @@ next_link:
   short_title: Army Contracts
   heading_title: How Army Contracts Moved Leonidas Forward
 date: '2026-06-19 14:13:30 '
+last_modified_at: '2026-06-19 14:13:30 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_49_d_b5d429-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_49_d_b5d429-Illustration-1.webp

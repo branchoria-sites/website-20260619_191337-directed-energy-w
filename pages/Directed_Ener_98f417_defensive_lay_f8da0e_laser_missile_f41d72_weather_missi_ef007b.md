@@ -261,6 +261,7 @@ prev_link:
   short_title: Layered Defence
   heading_title: How Lasers Save Missiles for Later
 date: '2026-06-19 15:57:08 '
+last_modified_at: '2026-06-19 15:57:08 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_laser_missile_f41d72_weather_missi_ef007b-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_laser_missile_f41d72_weather_missi_ef007b-Illustration-1.webp

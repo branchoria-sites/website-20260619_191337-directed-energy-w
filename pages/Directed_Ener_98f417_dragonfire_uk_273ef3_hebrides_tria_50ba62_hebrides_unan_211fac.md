@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-18 22:37:38'
+last_modified_at: '2026-06-18 22:37:38'
 parent_title: Why the Hebrides Laser Trials Mattered
 parent_permalink: /hebrides-trials/
 parent_nav_short_title: Hebrides Trials

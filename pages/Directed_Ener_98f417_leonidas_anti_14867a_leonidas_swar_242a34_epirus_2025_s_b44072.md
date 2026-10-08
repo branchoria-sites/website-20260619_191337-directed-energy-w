@@ -261,6 +261,7 @@ next_link:
   short_title: Layered Defence
   heading_title: Why microwaves still need backup weapons
 date: '2026-06-19 18:10:08 '
+last_modified_at: '2026-06-19 18:10:08 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_swar_242a34_epirus_2025_s_b44072-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_swar_242a34_epirus_2025_s_b44072-Illustration-1.webp

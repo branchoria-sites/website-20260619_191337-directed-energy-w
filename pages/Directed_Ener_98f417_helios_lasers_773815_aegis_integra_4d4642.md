@@ -280,6 +280,7 @@ next_link:
   short_title: Dazzler Role
   heading_title: When Blinding Sensors Beats Burning Drones
 date: '2026-06-19 13:44:28 '
+last_modified_at: '2026-06-19 13:44:28 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_helios_lasers_773815_aegis_integra_4d4642-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_helios_lasers_773815_aegis_integra_4d4642-Illustration-1.webp

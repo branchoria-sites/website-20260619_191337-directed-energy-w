@@ -267,6 +267,7 @@ next_link:
   short_title: Swarm Problem
   heading_title: Why Swarms Complicate Microwave Safety Zones
 date: '2026-06-19 16:24:37 '
+last_modified_at: '2026-06-19 16:24:37 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_airbase_exclu_926e22_dynamic_secto_ccd3c2-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_airbase_exclu_926e22_dynamic_secto_ccd3c2-Illustration-1.webp

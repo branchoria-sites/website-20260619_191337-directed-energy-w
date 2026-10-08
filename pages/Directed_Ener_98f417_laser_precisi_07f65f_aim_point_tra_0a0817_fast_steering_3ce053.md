@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-18 11:34:55'
+last_modified_at: '2026-06-18 11:34:55'
 parent_title: The Hidden Skill Behind Laser Precision
 parent_permalink: /aim-point-d329b8/
 parent_nav_short_title: Aim Point

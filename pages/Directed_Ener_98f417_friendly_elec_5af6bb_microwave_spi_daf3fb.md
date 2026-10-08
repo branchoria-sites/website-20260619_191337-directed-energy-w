@@ -280,6 +280,7 @@ prev_link:
   short_title: Friendly Drones
   heading_title: The Friendly Drone Problem in Swarm Defence
 date: '2026-06-19 13:42:45 '
+last_modified_at: '2026-06-19 13:42:45 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_microwave_spi_daf3fb-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_microwave_spi_daf3fb-Illustration-1.webp

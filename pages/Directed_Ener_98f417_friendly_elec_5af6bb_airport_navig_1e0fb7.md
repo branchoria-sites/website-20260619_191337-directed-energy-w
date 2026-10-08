@@ -286,6 +286,7 @@ next_link:
   short_title: Field Testing
   heading_title: Why Safe on the Range May Fail in the Field
 date: '2026-06-19 13:38:25 '
+last_modified_at: '2026-06-19 13:38:25 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_airport_navig_1e0fb7-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_airport_navig_1e0fb7-Illustration-1.webp

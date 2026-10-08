@@ -261,6 +261,7 @@ prev_link:
   short_title: Sector Control
   heading_title: How Airbases Clear Microwave Firing Zones
 date: '2026-06-19 16:27:29 '
+last_modified_at: '2026-06-19 16:27:29 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_airbase_exclu_926e22_swarm_exclusi_a63e12-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_airbase_exclu_926e22_swarm_exclusi_a63e12-Illustration-1.webp

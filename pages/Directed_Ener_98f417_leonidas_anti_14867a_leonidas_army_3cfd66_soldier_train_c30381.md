@@ -261,6 +261,7 @@ prev_link:
   short_title: Prototype Order
   heading_title: Why Four Prototypes Changed the Story
 date: '2026-06-19 18:06:23 '
+last_modified_at: '2026-06-19 18:06:23 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_army_3cfd66_soldier_train_c30381-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_leonidas_anti_14867a_leonidas_army_3cfd66_soldier_train_c30381-Illustration-1.webp

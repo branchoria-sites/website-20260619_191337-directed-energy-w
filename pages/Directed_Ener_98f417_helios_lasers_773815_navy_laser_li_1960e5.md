@@ -286,6 +286,7 @@ next_link:
   short_title: Preble Test
   heading_title: What Did the Preble Laser Test Prove?
 date: '2026-06-19 13:49:30 '
+last_modified_at: '2026-06-19 13:49:30 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_helios_lasers_773815_navy_laser_li_1960e5-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_helios_lasers_773815_navy_laser_li_1960e5-Illustration-1.webp

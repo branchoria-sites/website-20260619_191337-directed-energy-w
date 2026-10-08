@@ -280,6 +280,7 @@ next_link:
   short_title: Base Defence
   heading_title: Why Bases May Get Lasers First
 date: '2026-06-19 13:25:27 '
+last_modified_at: '2026-06-19 13:25:27 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_laser_missile_f41d72-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_defensive_lay_f8da0e_laser_missile_f41d72-Illustration-1.webp

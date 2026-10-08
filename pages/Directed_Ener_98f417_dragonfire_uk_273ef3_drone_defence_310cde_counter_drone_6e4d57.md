@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-18 22:40:00'
+last_modified_at: '2026-06-18 22:40:00'
 parent_title: Can Dragon Fire Change Drone Defence?
 parent_permalink: /drone-defence/
 parent_nav_short_title: Drone Defence

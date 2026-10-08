@@ -286,6 +286,7 @@ next_link:
   short_title: Threat Boundary
   heading_title: Which Threats Can HELIOS Realistically Stop?
 date: '2026-06-19 13:09:25 '
+last_modified_at: '2026-06-19 13:09:25 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_helios_lasers_773815_preble_drone_a12a8a-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_helios_lasers_773815_preble_drone_a12a8a-Illustration-1.webp

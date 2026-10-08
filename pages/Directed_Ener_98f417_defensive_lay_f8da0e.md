@@ -325,6 +325,7 @@ next_link:
   short_title: Dragon Fire
   heading_title: What Dragon Fire Reveals About Battlefield Lasers
 date: '2026-06-19 12:41:57 '
+last_modified_at: '2026-06-19 12:41:57 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_defensive_lay_f8da0e-overview-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_defensive_lay_f8da0e-overview.webp

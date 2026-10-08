@@ -261,6 +261,7 @@ next_link:
   short_title: Firing Sectors
   heading_title: Why THOR Cannot Fire Everywhere
 date: '2026-06-19 18:53:44 '
+last_modified_at: '2026-06-19 18:53:44 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_electron_02f850_friendly_elec_9f4bbc-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_thor_microwav_ef8a15_thor_electron_02f850_friendly_elec_9f4bbc-Illustration-1.webp

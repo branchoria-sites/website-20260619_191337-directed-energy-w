@@ -325,6 +325,7 @@ next_link:
   short_title: Laser vs Microwave
   heading_title: 'Lasers or Microwaves: Which Threat Fits Which Beam?'
 date: '2026-06-19 12:48:36 '
+last_modified_at: '2026-06-19 12:48:36 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_helios_lasers_773815-overview-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_helios_lasers_773815-overview.webp

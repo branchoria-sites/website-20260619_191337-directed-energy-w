@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-18 17:55:10'
+last_modified_at: '2026-06-18 17:55:10'
 parent_title: Why Dragon Fire Is Both Cheap and Expensive
 parent_permalink: /dragon-fire-640ee9/
 parent_nav_short_title: Dragon Fire

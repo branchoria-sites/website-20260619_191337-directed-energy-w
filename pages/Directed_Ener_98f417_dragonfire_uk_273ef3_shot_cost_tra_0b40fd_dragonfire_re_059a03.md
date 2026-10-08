@@ -261,6 +261,7 @@ prev_link:
   short_title: Programme Cost
   heading_title: Why Is a Cheap Laser So Expensive?
 date: '2026-06-19 16:18:21 '
+last_modified_at: '2026-06-19 16:18:21 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_shot_cost_tra_0b40fd_dragonfire_re_059a03-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_dragonfire_uk_273ef3_shot_cost_tra_0b40fd_dragonfire_re_059a03-Illustration-1.webp

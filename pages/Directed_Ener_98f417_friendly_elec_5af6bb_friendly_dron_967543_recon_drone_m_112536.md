@@ -261,6 +261,7 @@ prev_link:
   short_title: Pulse Effects
   heading_title: What Happens Inside an Exposed Drone?
 date: '2026-06-19 16:36:10 '
+last_modified_at: '2026-06-19 16:36:10 '
 header:
   og_image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_friendly_dron_967543_recon_drone_m_112536-Illustration-1-social.jpg
   preview_image: /assets/images/Directed_Ener_98f417_friendly_elec_5af6bb_friendly_dron_967543_recon_drone_m_112536-Illustration-1.webp

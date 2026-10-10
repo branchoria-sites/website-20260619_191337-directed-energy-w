@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-18 18:41:33'
 title: Laser Tradeoff Sub-Topic Index
 title_full: Laser Tradeoff Sub-Topic Index
 display_title: Sub-Topic Index

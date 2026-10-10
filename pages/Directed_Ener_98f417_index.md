@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-18 18:41:33'
 title: Directed Ener Sub-Topic Index
 title_full: Directed Ener Sub-Topic Index
 display_title: Sub-Topic Index

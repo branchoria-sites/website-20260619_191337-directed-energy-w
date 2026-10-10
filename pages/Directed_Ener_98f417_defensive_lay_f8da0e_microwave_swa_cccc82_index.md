@@ -4,7 +4,7 @@ title_full: Microwave Risk Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /directed-ener-98f417-defensive-lay/
+permalink: /directed-ener-98f417-defensive-lay-microwave-risk/
 description: Focused pages that expand on Microwave Risk.
 date: '2026'
 layout: default

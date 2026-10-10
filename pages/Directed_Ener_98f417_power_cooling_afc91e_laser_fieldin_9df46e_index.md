@@ -4,7 +4,7 @@ title_full: Fielding Gap Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /directed-ener-98f417-power-cooling/
+permalink: /directed-ener-98f417-power-cooling-fielding-gap/
 description: Focused pages that expand on Fielding Gap.
 date: '2026'
 layout: default

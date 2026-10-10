@@ -4,7 +4,7 @@ title_full: Electronics Risk Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /directed-ener-98f417-friendly-elec/
+permalink: /directed-ener-98f417-friendly-elec-electronics-risk/
 description: Focused pages that expand on Electronics Risk.
 date: '2026'
 layout: default

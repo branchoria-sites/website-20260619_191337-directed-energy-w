@@ -4,7 +4,7 @@ title_full: Collateral Risk Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /directed-ener-98f417-microwave-dro/
+permalink: /directed-ener-98f417-microwave-dro-collateral-risk/
 description: Focused pages that expand on Collateral Risk.
 date: '2026'
 layout: default

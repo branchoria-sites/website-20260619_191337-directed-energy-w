@@ -4,7 +4,7 @@ title_full: HELIOS Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /directed-ener-98f417-helios-lasers/
+permalink: /directed-ener-98f417-helios-lasers-helios/
 description: Focused pages that expand on HELIOS.
 date: '2026'
 layout: default

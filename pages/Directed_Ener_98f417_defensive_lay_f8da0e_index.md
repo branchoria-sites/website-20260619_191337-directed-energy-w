@@ -4,7 +4,7 @@ title_full: Defence Layer Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /directed-ener-98f417-defensive-lay/
+permalink: /directed-ener-98f417-defensive-lay-defence-layer/
 description: Focused pages that expand on Defence Layer.
 date: '2026'
 layout: default

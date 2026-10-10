@@ -4,7 +4,7 @@ title_full: Swarms Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /directed-ener-98f417-lasers-vs-mic/
+permalink: /directed-ener-98f417-lasers-vs-mic-swarms/
 description: Focused pages that expand on Swarms.
 date: '2026'
 layout: default

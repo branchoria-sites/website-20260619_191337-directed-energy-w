@@ -4,7 +4,7 @@ title_full: Safety Zones Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /directed-ener-98f417-thor-microwav/
+permalink: /directed-ener-98f417-thor-microwav-safety-zones/
 description: Focused pages that expand on Safety Zones.
 date: '2026'
 layout: default

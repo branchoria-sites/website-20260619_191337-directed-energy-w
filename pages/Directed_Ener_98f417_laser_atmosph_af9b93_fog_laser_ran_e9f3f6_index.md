@@ -4,7 +4,7 @@ title_full: Fog Range Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /directed-ener-98f417-laser-atmosph/
+permalink: /directed-ener-98f417-laser-atmosph-fog-range/
 description: Focused pages that expand on Fog Range.
 date: '2026'
 layout: default

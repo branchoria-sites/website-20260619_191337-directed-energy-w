@@ -4,7 +4,7 @@ title_full: Dragon Fire Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /directed-ener-98f417-dragonfire-uk/
+permalink: /directed-ener-98f417-dragonfire-uk-dragon-fire/
 description: Focused pages that expand on Dragon Fire.
 date: '2026'
 layout: default

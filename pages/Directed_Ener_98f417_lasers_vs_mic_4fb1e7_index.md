@@ -4,7 +4,7 @@ title_full: Laser vs Microwave Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /directed-ener-98f417-lasers-vs-mic/
+permalink: /directed-ener-98f417-lasers-vs-mic-laser-vs-microwave/
 description: Focused pages that expand on Laser vs Microwave.
 date: '2026'
 layout: default

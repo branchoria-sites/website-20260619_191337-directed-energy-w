@@ -4,7 +4,7 @@ title_full: Shot Cost Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /directed-ener-98f417-cost-per-shot/
+permalink: /directed-ener-98f417-cost-per-shot-shot-cost/
 description: Focused pages that expand on Shot Cost.
 date: '2026'
 layout: default

@@ -4,7 +4,7 @@ title_full: Sea Spray Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /directed-ener-98f417-laser-atmosph/
+permalink: /directed-ener-98f417-laser-atmosph-sea-spray/
 description: Focused pages that expand on Sea Spray.
 date: '2026'
 layout: default

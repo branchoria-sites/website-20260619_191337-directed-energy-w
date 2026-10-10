@@ -4,7 +4,7 @@ title_full: Aim Point Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /directed-ener-98f417-laser-precisi/
+permalink: /directed-ener-98f417-laser-precisi-aim-point/
 description: Focused pages that expand on Aim Point.
 date: '2026'
 layout: default

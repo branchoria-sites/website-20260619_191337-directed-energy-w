@@ -4,7 +4,7 @@ title_full: Friendly Drones Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /directed-ener-98f417-friendly-elec/
+permalink: /directed-ener-98f417-friendly-elec-friendly-drones/
 description: Focused pages that expand on Friendly Drones.
 date: '2026'
 layout: default

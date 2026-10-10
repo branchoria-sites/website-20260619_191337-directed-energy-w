@@ -7,7 +7,7 @@ title_full: A Laser Can Be The Cheapest Shot In An Air Defence System, But The..
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /directed-ener-98f417-defensive-lay/
+permalink: /directed-ener-98f417-defensive-lay-a-laser-can-be-the-cheapest/
 description: Focused pages that expand on A Laser Can Be The Cheapest Shot In An Air
   Defence System, But The....
 date: '2026'

@@ -5,7 +5,7 @@ title_full: Army Contracts Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /directed-ener-98f417-leonidas-anti/
+permalink: /directed-ener-98f417-leonidas-anti-army-contracts/
 description: Focused pages that expand on Army Contracts.
 date: '2026'
 layout: default

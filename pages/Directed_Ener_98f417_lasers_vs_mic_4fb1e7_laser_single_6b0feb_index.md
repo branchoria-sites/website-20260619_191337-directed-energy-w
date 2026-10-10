@@ -5,7 +5,7 @@ title_full: Single Drones Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /directed-ener-98f417-lasers-vs-mic/
+permalink: /directed-ener-98f417-lasers-vs-mic-single-drones/
 description: Focused pages that expand on Single Drones.
 date: '2026'
 layout: default

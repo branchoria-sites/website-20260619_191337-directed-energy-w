@@ -5,7 +5,7 @@ title_full: Type 45 Fit Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /directed-ener-98f417-dragonfire-uk/
+permalink: /directed-ener-98f417-dragonfire-uk-type-45-fit/
 description: Focused pages that expand on Type 45 Fit.
 date: '2026'
 layout: default

@@ -5,7 +5,7 @@ title_full: Microwaves Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /directed-ener-98f417-microwave-dro/
+permalink: /directed-ener-98f417-microwave-dro-microwaves/
 description: Focused pages that expand on Microwaves.
 date: '2026'
 layout: default

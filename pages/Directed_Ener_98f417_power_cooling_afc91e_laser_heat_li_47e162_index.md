@@ -5,7 +5,7 @@ title_full: Heat Limits Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /directed-ener-98f417-power-cooling/
+permalink: /directed-ener-98f417-power-cooling-heat-limits/
 description: Focused pages that expand on Heat Limits.
 date: '2026'
 layout: default

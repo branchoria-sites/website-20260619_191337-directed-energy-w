@@ -5,7 +5,7 @@ title_full: Aegis Link Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /directed-ener-98f417-helios-lasers/
+permalink: /directed-ener-98f417-helios-lasers-aegis-link/
 description: Focused pages that expand on Aegis Link.
 date: '2026'
 layout: default

@@ -5,7 +5,7 @@ title_full: Laser Tradeoff Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /directed-ener-98f417-microwave-dro/
+permalink: /directed-ener-98f417-microwave-dro-laser-tradeoff/
 description: Focused pages that expand on Laser Tradeoff.
 date: '2026'
 layout: default

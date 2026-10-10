@@ -5,7 +5,7 @@ title_full: Live Fire Claims Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /directed-ener-98f417-microwave-dro/
+permalink: /directed-ener-98f417-microwave-dro-live-fire-claims/
 description: Focused pages that expand on Live Fire Claims.
 date: '2026'
 layout: default

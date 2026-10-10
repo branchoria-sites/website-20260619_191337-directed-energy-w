@@ -5,7 +5,7 @@ title_full: Hebrides Trials Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /directed-ener-98f417-dragonfire-uk/
+permalink: /directed-ener-98f417-dragonfire-uk-hebrides-trials/
 description: Focused pages that expand on Hebrides Trials.
 date: '2026'
 layout: default

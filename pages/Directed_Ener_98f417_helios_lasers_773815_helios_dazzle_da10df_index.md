@@ -5,7 +5,7 @@ title_full: Dazzler Role Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /directed-ener-98f417-helios-lasers/
+permalink: /directed-ener-98f417-helios-lasers-dazzler-role/
 description: Focused pages that expand on Dazzler Role.
 date: '2026'
 layout: default

@@ -5,7 +5,7 @@ title_full: Sensor Chain Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /directed-ener-98f417-defensive-lay/
+permalink: /directed-ener-98f417-defensive-lay-sensor-chain/
 description: Focused pages that expand on Sensor Chain.
 date: '2026'
 layout: default

@@ -5,7 +5,7 @@ title_full: 49 Drone Test Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /directed-ener-98f417-leonidas-anti/
+permalink: /directed-ener-98f417-leonidas-anti-49-drone-test/
 description: Focused pages that expand on 49 Drone Test.
 date: '2026'
 layout: default

@@ -1,12 +1,12 @@
 ---
 last_modified_at: '2026-07-18 18:41:33'
-title: Weather Limits Sub-Topic Index
-title_full: Weather Limits Sub-Topic Index
+title: "Weather Limits Sub-Topic Index (directed ener laser precisi)"
+title_full: "Weather Limits Sub-Topic Index (directed ener laser precisi)"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /directed-ener-98f417-laser-precisi/
-description: Focused pages that expand on Weather Limits.
+description: "Focused pages that expand on Weather Limits (directed ener laser precisi)."
 date: '2026'
 layout: default
 parent_basename: Directed_Ener_98f417_laser_precisi_07f65f_laser_weather_9300b0

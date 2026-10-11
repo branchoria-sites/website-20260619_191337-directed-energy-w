@@ -1,12 +1,12 @@
 ---
 last_modified_at: '2026-07-18 18:41:33'
-title: Dwell Time Sub-Topic Index
-title_full: Dwell Time Sub-Topic Index
+title: "Dwell Time Sub-Topic Index (directed ener laser atmosph dwell time)"
+title_full: "Dwell Time Sub-Topic Index (directed ener laser atmosph dwell time)"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /directed-ener-98f417-laser-atmosph-dwell-time/
-description: Focused pages that expand on Dwell Time.
+description: "Focused pages that expand on Dwell Time (directed ener laser atmosph dwell time)."
 date: '2026'
 layout: default
 parent_basename: Directed_Ener_98f417_laser_atmosph_af9b93_line_of_sight_1e6293

@@ -1,12 +1,12 @@
 ---
 last_modified_at: '2026-07-18 18:41:33'
-title: Electronics Risk Sub-Topic Index
-title_full: Electronics Risk Sub-Topic Index
+title: "Electronics Risk Sub-Topic Index (directed ener leonidas anti electronics risk)"
+title_full: "Electronics Risk Sub-Topic Index (directed ener leonidas anti electronics risk)"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /directed-ener-98f417-leonidas-anti-electronics-risk/
-description: Focused pages that expand on Electronics Risk.
+description: "Focused pages that expand on Electronics Risk (directed ener leonidas anti electronics risk)."
 date: '2026'
 layout: default
 parent_basename: Directed_Ener_98f417_leonidas_anti_14867a_leonidas_frie_0d4251

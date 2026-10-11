@@ -1,12 +1,12 @@
 ---
 last_modified_at: '2026-07-18 18:41:33'
-title: Dwell Time Sub-Topic Index
-title_full: Dwell Time Sub-Topic Index
+title: "Dwell Time Sub-Topic Index (directed ener laser precisi dwell time)"
+title_full: "Dwell Time Sub-Topic Index (directed ener laser precisi dwell time)"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /directed-ener-98f417-laser-precisi-dwell-time/
-description: Focused pages that expand on Dwell Time.
+description: "Focused pages that expand on Dwell Time (directed ener laser precisi dwell time)."
 date: '2026'
 layout: default
 parent_basename: Directed_Ener_98f417_laser_precisi_07f65f_laser_dwell_t_efaf62

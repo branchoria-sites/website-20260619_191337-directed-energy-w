@@ -1,12 +1,12 @@
 ---
 last_modified_at: '2026-07-18 18:41:33'
-title: Aim Point Sub-Topic Index
-title_full: Aim Point Sub-Topic Index
+title: "Aim Point Sub-Topic Index (directed ener power cooling aim point)"
+title_full: "Aim Point Sub-Topic Index (directed ener power cooling aim point)"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /directed-ener-98f417-power-cooling-aim-point/
-description: Focused pages that expand on Aim Point.
+description: "Focused pages that expand on Aim Point (directed ener power cooling aim point)."
 date: '2026'
 layout: default
 parent_basename: Directed_Ener_98f417_power_cooling_afc91e_beam_control_45411b

@@ -1,12 +1,12 @@
 ---
 last_modified_at: '2026-07-18 18:41:33'
-title: Weather Limits Sub-Topic Index
-title_full: Weather Limits Sub-Topic Index
+title: "Weather Limits Sub-Topic Index (directed ener lasers vs mic)"
+title_full: "Weather Limits Sub-Topic Index (directed ener lasers vs mic)"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /directed-ener-98f417-lasers-vs-mic/
-description: Focused pages that expand on Weather Limits.
+description: "Focused pages that expand on Weather Limits (directed ener lasers vs mic)."
 date: '2026'
 layout: default
 parent_basename: Directed_Ener_98f417_lasers_vs_mic_4fb1e7_weather_laser_7b9893

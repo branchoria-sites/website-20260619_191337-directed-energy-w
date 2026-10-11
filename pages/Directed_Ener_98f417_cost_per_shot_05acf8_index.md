@@ -1,12 +1,12 @@
 ---
 last_modified_at: '2026-07-18 18:41:33'
-title: Shot Cost Sub-Topic Index
-title_full: Shot Cost Sub-Topic Index
+title: "Shot Cost Sub-Topic Index (directed ener cost per shot shot cost)"
+title_full: "Shot Cost Sub-Topic Index (directed ener cost per shot shot cost)"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /directed-ener-98f417-cost-per-shot-shot-cost/
-description: Focused pages that expand on Shot Cost.
+description: "Focused pages that expand on Shot Cost (directed ener cost per shot shot cost)."
 date: '2026'
 layout: default
 parent_basename: Directed_Ener_98f417_cost_per_shot_05acf8

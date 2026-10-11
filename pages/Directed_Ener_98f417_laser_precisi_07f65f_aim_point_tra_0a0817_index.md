@@ -1,12 +1,12 @@
 ---
 last_modified_at: '2026-07-18 18:41:33'
-title: Aim Point Sub-Topic Index
-title_full: Aim Point Sub-Topic Index
+title: "Aim Point Sub-Topic Index (directed ener laser precisi aim point)"
+title_full: "Aim Point Sub-Topic Index (directed ener laser precisi aim point)"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /directed-ener-98f417-laser-precisi-aim-point/
-description: Focused pages that expand on Aim Point.
+description: "Focused pages that expand on Aim Point (directed ener laser precisi aim point)."
 date: '2026'
 layout: default
 parent_basename: Directed_Ener_98f417_laser_precisi_07f65f_aim_point_tra_0a0817

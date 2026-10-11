@@ -1,12 +1,12 @@
 ---
 last_modified_at: '2026-07-18 18:41:33'
-title: Dragon Fire Sub-Topic Index
-title_full: Dragon Fire Sub-Topic Index
+title: "Dragon Fire Sub-Topic Index (directed ener cost per shot dragon fire)"
+title_full: "Dragon Fire Sub-Topic Index (directed ener cost per shot dragon fire)"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /directed-ener-98f417-cost-per-shot-dragon-fire/
-description: Focused pages that expand on Dragon Fire.
+description: "Focused pages that expand on Dragon Fire (directed ener cost per shot dragon fire)."
 date: '2026'
 layout: default
 parent_basename: Directed_Ener_98f417_cost_per_shot_05acf8_dragonfire_co_a66926

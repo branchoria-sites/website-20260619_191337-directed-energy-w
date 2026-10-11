@@ -1,12 +1,12 @@
 ---
 last_modified_at: '2026-07-18 18:41:33'
-title: Layered Defence Sub-Topic Index
-title_full: Layered Defence Sub-Topic Index
+title: "Layered Defence Sub-Topic Index (directed ener cost per shot layered defence)"
+title_full: "Layered Defence Sub-Topic Index (directed ener cost per shot layered defence)"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /directed-ener-98f417-cost-per-shot-layered-defence/
-description: Focused pages that expand on Layered Defence.
+description: "Focused pages that expand on Layered Defence (directed ener cost per shot layered defence)."
 date: '2026'
 layout: default
 parent_basename: Directed_Ener_98f417_cost_per_shot_05acf8_laser_layered_1c45d0

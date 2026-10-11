@@ -30,8 +30,8 @@ sidebar_expanded_urls:
 - /directed-ener/
 - /helios/
 nav_short_title: Preble Test
-title: What Did the Preble Laser Test Prove?
-title_full: What Did the Preble Laser Test Prove?
+title: "What Did the Preble Laser Test Prove? (preble test)"
+title_full: "What Did the Preble Laser Test Prove? (preble test)"
 display_title_short: Preble Test
 display_title: Preble Test
 heading_title: What Did the Preble Laser Test Prove?

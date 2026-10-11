@@ -804,7 +804,6 @@ The key mechanism behind spillover risk is therefore not mysterious beam leakage
 
 2.<a id="endnote-2"></a>
    Source: onr.navy.mil  
-   Link:https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-[microwaves  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy many benefits including speed of light attack, deep magazines and modest electrical power from the host platform.Read more...</p></details>
 
 3.<a id="endnote-3"></a>

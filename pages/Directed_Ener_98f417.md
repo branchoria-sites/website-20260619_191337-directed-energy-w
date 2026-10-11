@@ -855,7 +855,6 @@ The central takeaway is therefore balanced: directed energy weapons are no longe
 
 20.<a id="endnote-20"></a>
    Source: onr.navy.mil  
-   Link:https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-[microwaves  
 
 21.<a id="endnote-21"></a>
    Source: onr.navy.mil  

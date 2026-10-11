@@ -792,7 +792,6 @@ The Red Sea campaign therefore became a practical demonstration of why militarie
 
 9.<a id="endnote-9"></a>
    Source: businessinsider.com  
-   Link:https://www.businessinsider.com/houthi-attacks-exposed-us-navy-ammo-supply-shortfalls-admiral  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Testifying before the House Appropriations Committee, Kilby emphasized the strain on the U.S. munitions industrial base, calling for ramp...</p></details>
 
 10.<a id="endnote-10"></a>
@@ -821,12 +820,10 @@ The Red Sea campaign therefore became a practical demonstration of why militarie
 
 14.<a id="endnote-14"></a>
    Source: businessinsider.com  
-   Link:https://www.businessinsider.com/us-warships-fire-top-missile-interceptors-alarming-rate-admiral-says  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>James Kilby, acting chief of naval operations. Testifying before the Senate Appropriations Committee, Kilby affirmed that while there is...</p></details>
 
 15.<a id="endnote-15"></a>
    Source: businessinsider.com  
-   Link:https://www.businessinsider.com/us-navy-reliance-on-top-missile-interceptors-unsustainable-admiral  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Since violence intensified in October 2023, US warships in the Red Sea, Gulf of Aden, and Eastern Mediterranean have used hundreds of cos...</p></details>
    Published: October 2023  
 

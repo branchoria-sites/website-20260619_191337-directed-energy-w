@@ -796,7 +796,6 @@ The economic mismatch revealed in the Red Sea and Ukraine therefore serves as a 
 
 9.<a id="endnote-9"></a>
    Source: businessinsider.com  
-   Link:https://www.businessinsider.com/us-navy-reliance-on-top-missile-interceptors-unsustainable-admiral  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Since violence intensified in October 2023, US warships in the Red Sea, Gulf of Aden, and Eastern Mediterranean have used hundreds of cos...</p></details>
    Published: October 2023  
 
@@ -808,7 +807,6 @@ The economic mismatch revealed in the Red Sea and Ukraine therefore serves as a 
 
 11.<a id="endnote-11"></a>
    Source: businessinsider.com  
-   Link:https://www.businessinsider.com/top-ukrainian-interceptor-drone-maker-learned-faster-not-always-better  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Initially designed for maximum speed—over 200 mph—engineers later reduced its velocity to improve endurance, reliability, and mission rea...</p></details>
 
 12.<a id="endnote-12"></a>

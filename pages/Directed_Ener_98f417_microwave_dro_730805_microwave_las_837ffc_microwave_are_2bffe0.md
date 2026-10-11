@@ -790,7 +790,7 @@ For this reason, mixed-airspace risk is not a secondary concern but a defining c
 
 7.<a id="endnote-7"></a>
    Source: onr.navy.mil  
-   Link:<a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-[microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-[microwaves</a>  
+   Link:https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-[microwaves  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesNavy DEWs include systems that use high-energy lasers (HEL) that em...</p></details>
 
 8.<a id="endnote-8"></a>

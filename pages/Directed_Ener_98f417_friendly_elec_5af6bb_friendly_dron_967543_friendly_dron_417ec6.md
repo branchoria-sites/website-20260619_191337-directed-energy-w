@@ -819,7 +819,7 @@ For microwave weapons, the ideal outcome is neither constant restraint nor unres
 
 8.<a id="endnote-8"></a>
    Source: onr.navy.mil  
-   Link:<a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-[microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-[microwaves</a>  
+   Link:https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-[microwaves  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Naval ResearchDirected Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spe...</p></details>
 
 9.<a id="endnote-9"></a>

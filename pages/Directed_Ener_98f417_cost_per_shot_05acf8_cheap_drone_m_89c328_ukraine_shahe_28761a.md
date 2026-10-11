@@ -827,7 +827,7 @@ The broader lesson is that defending against mass drone attacks increasingly dep
 
 17.<a id="endnote-17"></a>
    Source: isis-online.org  
-   Link:<a href="https://isis-online.org/isis-reports/monthly-analysis-of-russian-shahed-136-[deployment" target="_blank" rel="noopener noreferrer nofollow">https://isis-online.org/isis-reports/monthly-analysis-of-russian-shahed-136-[deployment</a>  
+   Link:https://isis-online.org/isis-reports/monthly-analysis-of-russian-shahed-136-[deployment  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>ISIS Science InstituteMonthly Analysis of Russian Shahed 136 Deployment...5 days ago — Ukrainian military observers reported that interc...</p></details>
 
 18.<a id="endnote-18"></a>
@@ -884,7 +884,7 @@ The broader lesson is that defending against mass drone attacks increasingly dep
 
 27.<a id="endnote-27"></a>
    Source: businessinsider.com  
-   Link:<a href="https://www.businessinsider.com/top-ukrainian-interceptor-drone-maker-learned-faster-not-always-better" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/top-ukrainian-interceptor-drone-maker-learned-faster-not-always-better</a>  
+   Link:https://www.businessinsider.com/top-ukrainian-interceptor-drone-maker-learned-faster-not-always-better  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Initially designed for maximum speed—over 200 mph—engineers later reduced its velocity to improve endurance, reliability, and mission rea...</p></details>
 
 28.<a id="endnote-28"></a>

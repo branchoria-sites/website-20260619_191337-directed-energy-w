@@ -313,9 +313,9 @@ The pressure was amplified because Red Sea operations occurred alongside other g
 
 As operations continued, senior naval leaders began speaking more openly about ammunition concerns.
 
-Acting Chief of Naval Operations Admiral James Kilby told lawmakers that Houthi attacks had exposed shortcomings in ammunition supply and highlighted the need to expand production of key precision-guided weapons. He described the conflict as a stress test for the munitions industrial base and argued that production capacity needed to increase.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.businessinsider.com/houthi-attacks-exposed-us-navy-ammo-supply-shortfalls-admiral" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">Testifying before the House Appropriations Committee, Kilby emphasized the strain on the U.S. munitions industrial base, calling for ramp...</span></span></span>
+Acting Chief of Naval Operations Admiral James Kilby told lawmakers that Houthi attacks had exposed shortcomings in ammunition supply and highlighted the need to expand production of key precision-guided weapons. He described the conflict as a stress test for the munitions industrial base and argued that production capacity needed to increase.<span class="citation-link-wrap">[Business Insider]<span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">Testifying before the House Appropriations Committee, Kilby emphasized the strain on the U.S. munitions industrial base, calling for ramp...</span></span></span>
 
-Kilby later warned that some high-end interceptors were being consumed at an “alarming rate” and characterised heavy dependence on expensive missile interceptors as unsustainable in prolonged high-tempo operations. Although these remarks often referred to broader Middle Eastern operations, they emerged directly from the operational experience accumulated during Red Sea and regional missile-defence missions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.businessinsider.com/us-warships-fire-top-missile-interceptors-alarming-rate-admiral-says" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">James Kilby, acting chief of naval operations. Testifying before the Senate Appropriations Committee, Kilby affirmed that while there is...</span></span></span>
+Kilby later warned that some high-end interceptors were being consumed at an “alarming rate” and characterised heavy dependence on expensive missile interceptors as unsustainable in prolonged high-tempo operations. Although these remarks often referred to broader Middle Eastern operations, they emerged directly from the operational experience accumulated during Red Sea and regional missile-defence missions.<span class="citation-link-wrap">[Business Insider]<span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">James Kilby, acting chief of naval operations. Testifying before the Senate Appropriations Committee, Kilby affirmed that while there is...</span></span></span>
 
 Outside government, analysts expressed similar concerns. Reports noted that the Pentagon had fired large numbers of Standard Missiles in defence of shipping and regional partners while simultaneously confronting limited production capacity and long replenishment timelines. The issue was not immediate exhaustion but the possibility that sustained expenditure could affect readiness for future contingencies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wsj.com/politics/national-security/pentagon-runs-low-on-air-defense-missiles-as-demand-surges-7fc9370c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">is facing a critical shortage of air-defense missiles amid intensified conflicts in the Middle East and concerns over potential conflicts...</span></span></span>
 
@@ -792,7 +792,7 @@ The Red Sea campaign therefore became a practical demonstration of why militarie
 
 9.<a id="endnote-9"></a>
    Source: businessinsider.com  
-   Link:<a href="https://www.businessinsider.com/houthi-attacks-exposed-us-navy-ammo-supply-shortfalls-admiral" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/houthi-attacks-exposed-us-navy-ammo-supply-shortfalls-admiral</a>  
+   Link:https://www.businessinsider.com/houthi-attacks-exposed-us-navy-ammo-supply-shortfalls-admiral  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Testifying before the House Appropriations Committee, Kilby emphasized the strain on the U.S. munitions industrial base, calling for ramp...</p></details>
 
 10.<a id="endnote-10"></a>
@@ -821,12 +821,12 @@ The Red Sea campaign therefore became a practical demonstration of why militarie
 
 14.<a id="endnote-14"></a>
    Source: businessinsider.com  
-   Link:<a href="https://www.businessinsider.com/us-warships-fire-top-missile-interceptors-alarming-rate-admiral-says" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/us-warships-fire-top-missile-interceptors-alarming-rate-admiral-says</a>  
+   Link:https://www.businessinsider.com/us-warships-fire-top-missile-interceptors-alarming-rate-admiral-says  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>James Kilby, acting chief of naval operations. Testifying before the Senate Appropriations Committee, Kilby affirmed that while there is...</p></details>
 
 15.<a id="endnote-15"></a>
    Source: businessinsider.com  
-   Link:<a href="https://www.businessinsider.com/us-navy-reliance-on-top-missile-interceptors-unsustainable-admiral" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/us-navy-reliance-on-top-missile-interceptors-unsustainable-admiral</a>  
+   Link:https://www.businessinsider.com/us-navy-reliance-on-top-missile-interceptors-unsustainable-admiral  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Since violence intensified in October 2023, US warships in the Red Sea, Gulf of Aden, and Eastern Mediterranean have used hundreds of cos...</p></details>
    Published: October 2023  
 

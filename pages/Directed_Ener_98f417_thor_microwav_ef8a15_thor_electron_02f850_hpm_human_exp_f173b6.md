@@ -869,7 +869,7 @@ In discussions about counter-drone microwave weapons, attention often focuses on
 
 21.<a id="endnote-21"></a>
    Source: onr.navy.mil  
-   Link:<a href="https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-[microwaves" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-[microwaves</a>  
+   Link:https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-[microwaves  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Energy Weapons: High Power MicrowavesExploration of the capabilities and limitations of conventional HPM beam driven sources to optimize...</p></details>
 
 22.<a id="endnote-22"></a>

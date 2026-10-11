@@ -909,7 +909,6 @@ For friendly drones operating inside that area, the practical consequences depen
 
 22.<a id="endnote-22"></a>
    Source: onr.navy.mil  
-   Link:https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-high-power-[microwaves  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Energy Weapons: High Power MicrowavesHPM weapons create beams of electromagnetic energy over a broad spectrum of radio and microwave freq...</p></details>
 
 23.<a id="endnote-23"></a>
